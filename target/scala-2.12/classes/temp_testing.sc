@@ -17,7 +17,8 @@ object testing {
   // new try
   val hi2 = "hi, im a person so cool that im Cool".map(c=> if(c.isLetter) c else ' ').toLowerCase()
   val text = "hi. hola, que fas? que faig! -hihi\r\nasdaas"
-  SimilitutEntreDocs.freq(text)
+  val separat = SimilitutEntreDocs.normalitza(text).split(" +").toList
+  separat.sliding(1).toList.map(_.mkString(" "))
 
 
 }
