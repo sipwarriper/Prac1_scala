@@ -17,14 +17,17 @@ object SimilitutEntreDocs extends App {
     val mesfrequent2 = mesFrequent(text2,stop, 1)._2
     val txt1 = nonStopFreq(text1, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent1)}
     val txt2 = nonStopFreq(text2, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent2)}
-    (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _) /( sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
+    (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _) /(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
   }
 
   def mesFrequent(text:String, stop:List[String], n:Int) = nonStopFreq(text, stop, n).maxBy(_._2)
 
   //busquem les paraules q no tenim a txt1 de txt2 i les afegim amb frequencia = 0 a txt1 Al final ordenem alfabeticament, per tenir el mateix ordre en els dos vectors!
-  def alinearVector(aAlinear:List[(String, Double)], suport:List[(String, Double)]):List[(String, Double)] =
-    (aAlinear ::: (for (b<-suport if !aAlinear.toMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1) //aixo es lent!
+  def alinearVector(aAlinear:List[(String, Double)], suport:List[(String, Double)]):List[(String, Double)] ={
+    val aAlinearMap = aAlinear.toMap
+    (aAlinear ::: (for (b<-suport if !aAlinearMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
+  } /
+
 
 
 
@@ -55,7 +58,7 @@ object SimilitutEntreDocs extends App {
     val llistaNgrames = freq(fileContents, 3).sortBy(-_._2)
     for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
 
-    val filename3 = "pg11-net.txt"
+    val filename3 = "pg74.txt"
     val fileContents2 = Source.fromFile(filename3).mkString
     println("\n\ncosinesim\n")
     val start = System.nanoTime()
