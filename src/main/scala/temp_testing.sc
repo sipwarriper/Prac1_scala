@@ -35,6 +35,13 @@ object testing {
   vv1.map(_._2)
   vv2.map(_._2)
 
+
+  val llista1 = List(1,2,3,4,5)
+  val llista2 = List(1,3,5,6,7)
+
+  llista1.updated()
+
+
 //  (for ((a, b) <- vv1 zip vv2)yield a._2 * b._2).foldLeft(0.0)(_ + _)
 
 
