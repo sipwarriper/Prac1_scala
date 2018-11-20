@@ -15,16 +15,17 @@ object SimilitutEntreDocs extends App {
   def cosinesim (text1:String, text2:String, stop:List[String]):Double = {
     val mesfrequent1 = mesFrequent(text1,stop, 1)._2
     val mesfrequent2 = mesFrequent(text2,stop, 1)._2
-    var txt1 = nonStopFreq(text1, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent1)}
-    var txt2 = nonStopFreq(text2, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent2)}
-    //part lenta
-    txt1 = (txt1 ::: (for (b<-txt2 if !txt1.toMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1) //busquem les paraules q no tenim a txt1 de txt2 i les afegim amb frequencia = 0 a txt1 Al final ordenem alfabeticament, per tenir el mateix ordre en els dos vectors!
-    txt2 = (txt2 ::: (for (b<-txt1 if !txt2.toMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
-    //fi part lenta
-    (for ((a, b) <- txt1 zip txt2) yield a._2 * b._2).foldLeft(0.0)(_ + _) /( sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
+    val txt1 = nonStopFreq(text1, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent1)}
+    val txt2 = nonStopFreq(text2, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent2)}
+    (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _) /( sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
   }
 
   def mesFrequent(text:String, stop:List[String], n:Int) = nonStopFreq(text, stop, n).maxBy(_._2)
+
+  //busquem les paraules q no tenim a txt1 de txt2 i les afegim amb frequencia = 0 a txt1 Al final ordenem alfabeticament, per tenir el mateix ordre en els dos vectors!
+  def alinearVector(aAlinear:List[(String, Double)], suport:List[(String, Double)]):List[(String, Double)] =
+    (aAlinear ::: (for (b<-suport if !aAlinear.toMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1) //aixo es lent!
+
 
 
 
@@ -57,11 +58,13 @@ object SimilitutEntreDocs extends App {
     val filename3 = "pg11-net.txt"
     val fileContents2 = Source.fromFile(filename3).mkString
     println("\n\ncosinesim\n")
+    val start = System.nanoTime()
+
     val hi = cosinesim(fileContents,fileContents2,stopWords)
+
+    val end = System.nanoTime()
     println(hi)
-
-
-
+    println((end-start).toDouble/1000000000.0)
 
 
   }
