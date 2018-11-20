@@ -26,7 +26,7 @@ object SimilitutEntreDocs extends App {
   def alinearVector(aAlinear:List[(String, Double)], suport:List[(String, Double)]):List[(String, Double)] ={
     val aAlinearMap = aAlinear.toMap
     (aAlinear ::: (for (b<-suport if !aAlinearMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
-  } /
+  }
 
 
 
