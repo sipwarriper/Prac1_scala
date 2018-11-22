@@ -28,18 +28,17 @@ object SimilitutEntreDocs extends App {
     val aAlinearMap = aAlinear.toMap
     (aAlinear ::: (for (b<-suport if !aAlinearMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
   }
-
+  //obtenim les 10 frequències més frequents, i les 5 menys frequents
   def paraulafreqfreq(text:String) = {
     val llistaFrequencies = freq(text,1)
-    var temp:String = ""
-    for(nextFreq <- llistaFrequencies) temp = temp.concat(nextFreq._2.toString).concat(" ")
-    val freqfreqList = temp.split(" +").sliding(1).toList.map(_.mkString(" ")).groupBy(identity).mapValues(_.length).toList.sortBy(-_._2)
+    val stringFrequencies:String = llistaFrequencies.map(_._2.toString.concat(" ")).mkString
+    val freqfreqList = stringFrequencies.split(" +").groupBy(identity).mapValues(_.length).toList.sortBy(-_._2)
     Console.out.println("Les 10 frequencies mes frequents:")
     val freqAltes = freqfreqList.slice(0,10)
-    for(frequencia <- freqAltes)(Console.out.println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades"))
+    for(frequencia <- freqAltes)println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
     Console.out.println("Les 5 frequencies menys frequents:")
     val freqBaixes = freqfreqList.slice(freqfreqList.length-5,freqfreqList.length).sortBy(-_._2)
-    for(frequencia <- freqBaixes)(Console.out.println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades"))
+    for(frequencia <- freqBaixes) println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
   }
 
 

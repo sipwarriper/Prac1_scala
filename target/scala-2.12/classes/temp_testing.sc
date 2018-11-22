@@ -10,7 +10,8 @@ object testing {
 
   val genius = for (p<-hi) yield p.filter(_.isLetter)
 
-  genius.groupBy(identity).mapValues(_.length).toList
+  genius.groupBy(identity)
+    //.mapValues(_.length).toList
 
 
 
@@ -39,7 +40,7 @@ object testing {
   val llista1 = List(1,2,3,4,5)
   val llista2 = List(1,3,5,6,7)
 
-  llista1.updated()
+  //llista1.updated()
 
 
 //  (for ((a, b) <- vv1 zip vv2)yield a._2 * b._2).foldLeft(0.0)(_ + _)
