@@ -20,6 +20,7 @@ object SimilitutEntreDocs extends App {
     (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _) /(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
   }
 
+
   def mesFrequent(text:String, stop:List[String], n:Int) = nonStopFreq(text, stop, n).maxBy(_._2)
 
   //busquem les paraules q no tenim a txt1 de txt2 i les afegim amb frequencia = 0 a txt1 Al final ordenem alfabeticament, per tenir el mateix ordre en els dos vectors!
@@ -28,6 +29,18 @@ object SimilitutEntreDocs extends App {
     (aAlinear ::: (for (b<-suport if !aAlinearMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
   }
 
+  def paraulafreqfreq(text:String) = {
+    val llistaFrequencies = freq(text,1)
+    var temp:String = ""
+    for(nextFreq <- llistaFrequencies) temp = temp.concat(nextFreq._2.toString).concat(" ")
+    val freqfreqList = temp.split(" +").sliding(1).toList.map(_.mkString(" ")).groupBy(identity).mapValues(_.length).toList.sortBy(-_._2)
+    Console.out.println("Les 10 frequencies mes frequents:")
+    val freqAltes = freqfreqList.slice(0,10)
+    for(frequencia <- freqAltes)(Console.out.println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades"))
+    Console.out.println("Les 5 frequencies menys frequents:")
+    val freqBaixes = freqfreqList.slice(freqfreqList.length-5,freqfreqList.length).sortBy(-_._2)
+    for(frequencia <- freqBaixes)(Console.out.println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades"))
+  }
 
 
 
@@ -37,6 +50,7 @@ object SimilitutEntreDocs extends App {
     val fileContents = Source.fromFile(filename).mkString
 
     val llistaFreq = freq(fileContents,1).sortBy(-_._2)
+    val llistaFreqFreq = paraulafreqfreq(fileContents)
     val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
     val diff = llistaFreq.size
     println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
