@@ -1,3 +1,5 @@
+import java.io.File
+
 import scala.io.Source
 import scala.math.sqrt
 import scala.xml.XML
@@ -61,6 +63,10 @@ object SimilitutEntreDocs extends App {
   }
 
 
+  //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
+  def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
+
+
 
 
   override def main(args: Array[String]): Unit = {
@@ -100,6 +106,10 @@ object SimilitutEntreDocs extends App {
     val end = System.nanoTime()
     println(hi)
     println((end-start).toDouble/1000000000.0)
+
+    println(llistaFitxers("wikidocs"))
+
+
 
 
 
