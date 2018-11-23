@@ -1,5 +1,4 @@
 import java.io.File
-
 import scala.io.Source
 import scala.math.sqrt
 import scala.xml.XML
@@ -7,22 +6,28 @@ import scala.util.matching.Regex
 
 object SimilitutEntreDocs extends App {
 
+  //rep una String i retorn una llista amb tuples (paraula, freqüència)
   def freq(text:String, n:Int):List[(String, Int)] =
     normalitza(text).split(" +").sliding(n).toList.map(_.mkString(" ")).groupBy(identity).mapValues(_.length).toList
 
+  //rep una String i la normalitza (canvia tot el que no és lletra per espais i passa la string a mínuscules)
   def normalitza(text:String):String =
     text.map(c=> if(c.isLetter) c else ' ').toLowerCase().trim
 
+  //rep una String i una llista de Strings amb stop words, i fa el vector de frequencies filtran les stop words.
   def nonStopFreq(text:String, stop:List[String], n:Int):List[(String, Int)] =
     freq(text,n).filter{a => !stop.contains(a._1)}
 
-  def cosinesim (text1:String, text2:String, stop:List[String]):Double = {
-    val mesfrequent1 = mesFrequent(text1,stop, 1)._2
-    val mesfrequent2 = mesFrequent(text2,stop, 1)._2
-    val txt1 = nonStopFreq(text1, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent1)}
-    val txt2 = nonStopFreq(text2, stop, 1).map{a=> (a._1, a._2.toDouble/mesfrequent2)}
-    (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _) /(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
+
+  //rep dos vectors de frequencies absolutes i les converteix a tf.
+  def freqAtf(llistaFreq:List[(String, Int)]):List[(String, Double)] = {
+    val mesfrequent = llistaFreq.maxBy(_._2)._2
+    llistaFreq.map{a=> (a._1, a._2.toDouble/mesfrequent)}
   }
+
+  //rep dos vectors amb les paraules i les seves freqüencies tf, i retorna la semblança entre aquests dos fitxers.
+  def cosinesim (txt1:List[(String,Double)], txt2:List[(String,Double)]):Double =
+    (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _)/(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
 
 
   def mesFrequent(text:String, stop:List[String], n:Int) = nonStopFreq(text, stop, n).maxBy(_._2)
@@ -34,7 +39,7 @@ object SimilitutEntreDocs extends App {
   }
 
   //obtenim les 10 frequències més frequents, i les 5 menys frequents
-  def paraulafreqfreq(text:String) = {
+  def paraulafreqfreq(text:String): Unit = {
     val llistaFrequencies = freq(text,1)
     val stringFrequencies:String = llistaFrequencies.map(_._2.toString.concat(" ")).mkString
     val freqfreqList = stringFrequencies.split(" +").groupBy(identity).mapValues(_.length).toList.sortBy(-_._2)
@@ -66,6 +71,15 @@ object SimilitutEntreDocs extends App {
   //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
   def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
 
+  //donat un fitxer XML, el llegeix i converteix a una tupla amb el titol, el contingut i les referencies
+  def mapFreq(file:String):(String, String, List[String]) =
+    tractaXMLdoc(file)
+
+  //rep un fitxer en format tupla de strings (Títol, Contingut, Referències) i
+  //retorna una tupla equivalent, canviant el contingut per una llista amb les parelles de valors (paraula, frequencia)
+  def reduce(fileContent:(String, String, List[String]), stopWords:List[String]):(String, List[(String, Double)], List[String]) =
+    (fileContent._1, freqAtf(nonStopFreq(fileContent._2,stopWords,1)), fileContent._3)
+
 
 
 
@@ -74,7 +88,7 @@ object SimilitutEntreDocs extends App {
     val fileContents = Source.fromFile(filename).mkString
 
     val llistaFreq = freq(fileContents,1).sortBy(-_._2)
-    val llistaFreqFreq = paraulafreqfreq(fileContents)
+    //val llistaFreqFreq = paraulafreqfreq(fileContents)
     val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
     val diff = llistaFreq.size
     println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
@@ -97,21 +111,23 @@ object SimilitutEntreDocs extends App {
     for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
 
     val filename3 = "pg74.txt"
-    val fileContents2 = Source.fromFile(filename3).mkString
     println("\n\ncosinesim\n")
-    val start = System.nanoTime()
 
-    val hi = cosinesim(fileContents,fileContents2,stopWords)
+    val start = System.nanoTime()
+    val newFileContents = Source.fromFile(filename).mkString
+    val fileContents2 = Source.fromFile(filename3).mkString
+
+    val freq1 = nonStopFreq(newFileContents, stopWords, 1).sortBy(-_._2)
+    val freq2 = nonStopFreq(fileContents2, stopWords, 1).sortBy(-_._2)
+
+    val txt1 = freqAtf(freq1)
+    val txt2 = freqAtf(freq2)
+
+    val hi = cosinesim(txt1, txt2)
 
     val end = System.nanoTime()
     println(hi)
     println((end-start).toDouble/1000000000.0)
-
-    println(llistaFitxers("wikidocs"))
-
-
-
-
 
   }
 }

@@ -45,8 +45,6 @@ object testing {
 
 //  (for ((a, b) <- vv1 zip vv2)yield a._2 * b._2).foldLeft(0.0)(_ + _)
 
-  SimilitutEntreDocs.getListOfFiles("wikidocs")
-
 
 
 
