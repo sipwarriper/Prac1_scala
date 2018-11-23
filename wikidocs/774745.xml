@@ -1,0 +1,106 @@
+<page>
+    <title>Motor radial</title>
+    <ns>0</ns>
+    <id>774745</id>
+    <revision>
+      <id>13777452</id>
+      <parentid>13625231</parentid>
+      <timestamp>2014-07-10T06:36:29Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Radial engines]]</comment>
+      <text>[[Fitxer: Radial engine.gif|thumb|300px|Vista en tall d'un motor radial.]]
+
+
+Un ''' motor radial ''' o ''' motor estrella ''' és un tipus de [[disposició del motor]] de [[Motor de combustió|combustió interna]], en la qual els [[Cilindre (motor)|cilindres]] van ubicats radialment respecte del [[cigonyal]], formant una estrella com a la figura. Aquesta configuració va ser molt usada a [[aviació]], sobretot en grans [[avió|avions]] civils i militars, fins a l'aparició del [[Reactor (motor)|motor a reacció]].
+
+== Funcionament ==
+
+En aquest [[motor]] els [[Pistó|pistons]] van connectats per un [[mecanisme de biela-manovella]], diferent dels motors en línia. Un dels [[pistó|pistons]] està connectat a una [[biela]] més gran que les altres, anomenada biela principal, que al seu torn està connectada directament amb el [[cigonyal]]. Els altres pistons estan connectats a bieles més petites que estan connectades a la biela principal o biela mestra. Al conjunt de pistons, biela mestra i bieles secundàries se li coneix com a estrella. El nombre de pistons d'una estrella és generalment senar, ja que així l'ordre d'encesa minimitza les [[vibració|vibracions]].
+
+En els [[anys 1930]] es va iniciar un debat tècnic per veure quin dels tipus de motors, radial, en línia o en V, era millor. Per la seva banda el radial presenta una gran relació potència/pes, senzillesa de funcionament, alta potència i torsió superior a les altres dues disposicions. No obstant això el motor en línia o en V, pot ser fabricat amb menor o igual cilindrada que un motor radial, i les seves prestacions només queden en desavantatge pel seu sistema de refredament. Per aquesta raó el debat només es va resoldre en el transcurs del temps, demostrant que sense importar la disposició el millor motor és aquell que supleix les necessitats per les quals va ser escollit. Els tres tipus de disposició van ser reemplaçats progressivament amb la massificació dels motors de cilindres horitzontalment oposats (refredats per aire) i l'aparició dels [[Reactor (motor)|motors a reacció]].
+
+El motor radial va ser més popular en gran part a causa de la seva senzillesa, i moltes [[armada]]s el van usar per la seva fiabilitat (sobretot per a vols sobre grans superfícies desèrtiques o sobre aigua) i pel seu baix [[pes]] (ús en [[portaavions]]). Encara que els motors en línia ofereixin una [[àrea]] frontal més petita que radial, requereixen un sistema de refrigeració que es tradueix en més [[pes]] i complexitat, i a més generalment són més vulnerables en combat. Alguns avions caça de la segona guerra mundial, com el [[Supermarine Spitfire]] o el [[Messerschmitt Bf 109]] van utilitzar motors en V, buscant una línia aerodinàmica més fina, en canvi l'[[Armada dels Estats Units]] va utilitzar per gairebé tots els seus [[avió|avions]] el motor radial.
+
+[[Fitxer:DC-3 stermotor.jpg|thumb|300px|left|Fotografia de l'[[hèlice]] i el motor radial de [[babord]] d'un [[Douglas DC-3]]]]
+== Història ==
+{{AP|Història de l'aviació}}
+La idea dels motors radials sorgeix a finals dels [[anys 1920]] després de la [[Primera Guerra Mundial]], durant la qual els avions estaven propulsats per [[motor rotatiu|motors rotatius]]. De certa manera, aquests motors tenien una disposició radial, ja que els seus cilindres se situaven al voltant d'una part central i estaven refredats per aire, però són rotatius perquè els cilindres giren al voltant d'un [[cigonyal]], la qual cosa afavoreix el seu refredament però disminueix enormement la seva fiabilitat. Durant aquesta època és comú veure que algú encenia el motor d'un avió girant l'hèlix, ja que a diferència d'un motor en línia o en V que necessiten una arrencada per moure els components i iniciar el seu cicle operatiu, en moure l'hèlix d'un motor rotatiu s'està movent tot el sistema.
+
+Donada la tecnologia de l'època, era difícil la concepció de motors lleugers i eficients. Els motors rotatius tenien sovint errors de sobreescalfament, ja que havien de funcionar a màxima potència tot el temps, disminuint dràsticament la seva durabilitat i fiabilitat. L'únic mitjà de control que existia era apagar de vegades i després engegar durant el vol. Presentaven per això greus avaries com fatals fuites d'oli, temperatures superiors als 350nbsp;°C, i en conseqüència els avions s'incendiaven, incinerant als pilots o obligant-los a llançar-se al buit (sense [[paracaigudes]], ja que apareixeria diversos anys més tard). Aquest tipus de successos va cobrar moltes vides.
+
+Va ser llavors quan l'[[Armada dels Estats Units]] va establir els paràmetres que regirien als motors refredats per [[aire]], quan les seves investigacions van mostrar que aproximadament un 20% dels errors en els motors s'havia{{què}} del sistema de refredament [[líquid]] i que a més això redueix notòriament la relació pes/potència. Els paràmetres que va publicar l'Armada nord-americana per al desenvolupament d'aquests motors van ser els següents:
+
+# Menor pes per cavall de potència produït pel motor.
+# Alta eficiència de combustible.
+# La màxima fiabilitat possible.
+# Major resistència: Els motors de refrigeració líquida són més sensibles als danys de combat. Ja que petits danys de metralla poden causar la pèrdua de refrigerant i per tant la fallada del motor. Per contra un motor radial, de refrigeració per aire, segurament no patirà danys greus en les mateixes circumstàncies.ref{{ref-llibre|cognom=Thurston|nom=David B.|enllaçautor=David Thurston|títol=The World's Most Significant and Magnificent Aircraft: Evolution of the Modern Airplane|editorial=SAE|any=2000|pàgina=155| url=http://books.google.com/?id=7HTPRym0iYICpg=PA155| isbn =0-7680-0537-X}}/ref
+# Manteniment més fàcil possible.
+# Baix cost.
+# Facilitat per a ser produït en massa.
+
+Aquesta llista de requeriments afavoria la producció d'un motor refredat per aire, però semblava que res satisfeia completament aquestes exigències. Finalment, van avalar un contracte experimental a l'Aero-Engine Corporation de Charles Lawrance per al desenvolupament d'un motor radial de nou cilindres usant un disseny previ d'un radial de tres cilindres fet per Lawrance.
+
+D'aquesta manera neix el J-1, produït per Charles Lawrance sota contracte amb l'Armada nord-americana. Posteriorment la companyia d'aviació Wright va comprar l'empresa de Lawrance i el va contractar com a Enginyer en Cap, per la seva feina prometedor. D'aquesta manera el motor radial Wright Whirlwind J-5 va estar disponible en 1925.
+
+Aquest mateix any, tres enginyers de la Wright, incloent-hi a Frederick Rentschler, van començar a desenvolupar el seu propi disseny de motor radial en una recent divisió d'una fàbrica d'eines que aviat cediria el seu nom a la [[història de l'aviació]]: Pratt  Whitney. El primer motor, el R-1340 Wasp va ser finalitzat en vigílies del Nadal de 1925 i l'any següent va obtenir importants comandes de l'Armada dels Estats Units, fent passos que la convertirien en la fabricant més gran de motors d'aviació de la història.
+
+Ambdues companyies van comptar amb una important influència en la història de l'aviació, carregada en aquells dies de múltiples canvis culturals com el transport de correu i passatgers, les exhibicions aèries i els rècords dels grans pioners de l'aviació. Va ser així com un Wright Whirlwind propulsar a Richard Byrd en el seu viatge d'anada i tornada al [[Pol Nord]], en Wright Bellanca WB-2 que va batre el rècord d'economia de combustible en volar 51 hores sense proveir, amb la qual cosa aquest motor es va convertir en ideal per batre marques, l'aviador [[Charles Lindbergh]], en no poder comprar un Wright Bellanca, va emprendre el seu famós encreuament de l'Atlàntic el 1927 a bord del cèlebre Ryan Spirit of Saint Louis nip (nip: '' New York to Paris ''), propulsat també per un Wright Whirlwind J-5. Aquesta companyia va estar al capdavant del desenvolupament dels motors radials, aportant innovacions importants que permetien augmentar la potència, reduir vibracions i incrementar la seva eficiència.
+
+No obstant això Pratt  Whitney no es va quedar enrere: el seu motor [[R-1340 Wasp]] va donar inici a la massificació de la producció de motors radials des de la seva aparició, i juntament amb el posterior R-1680 Hornet (que perdria el seu èxit ràpidament) van marcar una fita en l'aviació. Amb el Wasp van succeir fets interessants, com el primer vol transatlàntic fet per una dona, l'aviadora [[Amelia Earhart]], i va ser el motor escollit per propulsar el conegut [[Lockheed Vega]] de la pilot, així com el seu [[Lockheed L- 10 Electra]]. [[Pratt  Whitney]] també és responsable de la creació del motor més venut de tots els temps, l'[[R-1830 Twin Wasp]] de doble biela mestra i 14 cilindres, que entre molts avions cèlebres propulsa el [[Douglas DC-3]]. La varietat de plantes motrius construïda per P  W van fer que aquesta companyia i els seus productes arribessin a tot tipus d'aeronaus durant una mica més de trenta-cinc anys, i la seva producció va cessar el 1960 amb l'arribada del [[Reactor (motor)|motor a reacció]].
+
+== Motors radials multiestrella ==
+Originalment els motors radials tenen un sol banc o estrella de cilindres, però en afegir pistons es fa necessària l'existència de més estrelles. Molts no excedeixen de dues estrelles, però el motor radial més gran construït en massa, el [[Pratt  Whitney]] [[Wasp Major]], va tenir 28 [[Cilindre (motor)|cilindres]] disposats a 4 estrelles, motor que va ser usat per diversos avions durant el període posterior a la [[Segona Guerra Mundial]].
+L'[[URSS]] va construir un nombre limitat de motors dièsel de vaixell, Zvezda, de 42 [[Cilindre (motor)|cilindres]] i set estrelles, un [[diàmetre]] de 160 [[mm]], 143.500 cmsup3/sup generant una potència de 4.500 k[[Watt|W]] (6.000 [[Cavall de vapor|CV]]) a 2.500 [[revolucions per minut|rpm]].
+
+== Avantatges i desavantatges ==
+* Com a primer '''avantatge''', hi ha la seva gran [[àrea]] frontal, ja que el refredament del motor es fa usant aire d'impacte, producte del desplaçament, a diferència dels motors en línia, en [[Motor en V|V]] oa [[Motor W|W]] que necessiten un sistema de refredament amb líquid, el qual implica més [[pes]]. Per tant, els motors refredats per aire tenen una major relació pes/potència que els motors refredats per líquid
+
+* Com que no utilitzar el sistema de refrigeració per líquid, la construcció i manteniment es facilita en comparació amb els motors en línia, en V o en W.
+
+* La quantitat de peces requerides per a l'acoblament és menor, la qual cosa incrementa la fiabilitat, ja que a major nombre de peces més gran és la possibilitat que passi alguna fallada en un sistema.
+
+* La seva simplicitat el fa més fiable i menys sensible als danys en combat, atès que els impactes de bala d'altres avions podien perforar i danyar alguns cilindres sense comprometre seriosament el seu funcionament, mentre que en motors refredats per líquid les bales produïen fuites en el sistema de refrigeració, fonent el motor immediatament.
+
+* Els ''' desavantatges ''' més importants es relacionen amb la seva gran àrea frontal, que produeix una gran resistència en comparació amb els altres tipus de motors que permeten coeficients aerodinàmics més petits.
+
+* Quan el flux d'aire augmenta (especialment en el descens) el motor es refreda per sota de la seva temperatura de funcionament, o augmenta la diferència entre la seva temperatura i la temperatura ambient, la qual cosa constitueix una fallada comunament coneguda com a xoc tèrmic, en el qual els cilindres pateixen fractures que els danyen parcialment o completament. Per evitar aquest error, els pilots estan capacitats per controlar la potència de tal manera que no disminueixi gaire, i intentar mantenir la barreja d'aire i combustible ben regulada, també el pilot pot variar la temperatura (en rangs molt petits) controlant l'obertura d'aletes externes de ventilació o persianes (en anglès Cowl Flaps), les quals se situen a la tapa protectora del motor i l'envolten just darrere de la part frontal. També cal evitar descensos bruscos.
+
+* Si es vol utilitzar [[sobrealimentació]] amb aquest tipus de motor, l'aire comprimit, després de passar pel compressor o turbina, ha de ser portat a cada un dels cilindres, mentre que en el motor en línia, en V o en W, cal només un conducte per al bloc sencer.
+
+* La bona relació pes/potència d'aquests motors disminueix a mesura que es redueix la grandària, per la qual cosa no és rendible fer un motor radial de cilindrades petites, i per això aeronaus lleugeres que no van usar el motor radial generalment portaven un motor en línia o un motor de cilindres horitzontalment oposats. Aquesta última disposició se segueix usant avui en dia gairebé de forma exclusiva per aeronaus noves, i comparteix significatives similituds amb els motors radials.
+
+== Actualitat ==
+
+Tot i que el motor radial no és usat massivament, actualment hi ha tres companyies que el construeixen.
+Iván Vedeneyev produeix variants del motor M-14 sobre un disseny original AI-14 d'Alexander Ivchenko que data de [[1950]]. Vedeneyev agregar un [[Turbocompressor|turbo]], de manera que s'aconsegueixen potències superiors i major rendiment. Hi ha una variant, la M 14V, per [[helicòpter]]s i una versió que lliura 400 [[Cavall de vapor|HP]] dissenyada originalment per al [[Su-31]]. Versions d'aquest motor són usades per alguns avions acrobàtics, [[Iàkovlev (fabricant d'avions)|Iàkovlev]] com el [[Iak-52]], i els [[Sukhoi]] [[Su-26]] i [[Su-29]].
+La companyia australiana Hemeroteca Engineering produeix motors de 7 cilindres i 110 [[Cavall de vapor|CV]], i de 9 cilindres i 150 [[Cavall de vapor|CV]]. Technopower produeix motors miniatura per [[Aeromodelisme|aeromodels]].
+
+== Vegeu també ==
+* [[Motor rotatiu]]
+* [[Motor de combustió interna#Arquitectura|Motor de combustió interna]]
+* [[Disposició del motor]]
+* [[Motor de combustió interna alternatiu]]
+
+== Referències ==
+references /
+
+== Enllaços externs ==
+{{Projectes germans|commons=Radial engine|motor radial}}
+* [http://www.transporte.cu/ignicion/CD% 20Boletines% 202001/motor-radial.htm Motors Radials]
+* [http://www.aviation-history.com/engines/radial.htm/Aviation History, pàgina web dedicada a la història de l'aviació (anglès)]
+* [http://www.enginehistory.org/Engine History, pàgina web dedicada a la història dels motors (anglès)]
+
+
+{{ORDENA:Motor Radial}}	!--ORDENA generat per bot--
+
+[[Categoria:Motors|radial]]
+[[Categoria:Motors d'aviació]]</text>
+      <sha1>qu38g2hkvbzw7zkyztygkropxwo3319</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

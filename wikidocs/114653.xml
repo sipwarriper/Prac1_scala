@@ -1,0 +1,75 @@
+<page>
+    <title>Ernest Lawrence</title>
+    <ns>0</ns>
+    <id>114653</id>
+    <revision>
+      <id>13770168</id>
+      <parentid>13043694</parentid>
+      <timestamp>2014-07-09T08:17:28Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}} i {{Projectes germans}} que enllaça amb [[commons:category:Ernest O. Lawrence]]</comment>
+      <text>{{Infotaula científic
+| nom = Ernest Orlando Lawrence
+| imatge       = Ernest Orlando Lawrence.jpg
+| imatge_amplada   = 180px
+| data_naixement   = {{birth date|1901|8|8|df=y}}
+| lloc_naixement   = [[Canton (Dakota del Sud)|Canton]], [[Dakota del Sud]]
+| data_mort      = {{death date and age|1958|8|27|1901|8|8|df=y}}
+| lloc_mort      = [[Palo Alto (Califòrnia)|Palo Alto]], [[Califòrnia]]
+| nacionalitat    = {{USA}}
+| camp        = [[Física]]
+| alma_mater     = 
+| institucions_treb  = 
+| assessor_doctor   = 
+| estudiants_doctor  = 
+| premis       = [[Premi Nobel de Física]] l'any [[1939]]
+}}
+{{Nobel|Física|1939}}
+'''Ernest Orlando Lawrence''' ([[Canton (Dakota del Sud)|Canton]], [[Dakota del Sud]] [[1901]] - [[Palo Alto (Califòrnia)|Palo Alto]], [[Califòrnia]] [[1958]]) fou un [[físic]] nord-americà guardonat amb el [[Premi Nobel de Física]] l'any [[1939]] i conegut sobretot per la invenció, utilització i millora del [[ciclotró]] i pel seu treball posterior en separació d'[[isòtop]]s d'[[urani]] al [[Projecte Manhattan]]. 
+
+== Biografia ==
+Nascut a la població de [[Canton (Dakota del Sud)|Canton]], situada a l'[[estat nord-americà]] de [[Dakota del Sud]], el [[8 d'agost]] de [[1901]] va assistir a classes al St. Olaf College de [[Minnesota]], però va ser transferit a la Universitat de Dakota del Sud després del primer any. Es va llicenciar el 1922 i va presentar la seva tesi doctoral en [[física]] per la [[Universitat Yale]] l'any [[1925]], on romangué com a professor realitzant investigacions sobre l'[[efecte fotoelèctric]], per passar posteriorment a ser nomenat professor ajudant el [[1927]]. 
+
+El [[1928]] va ser nomenat professor associat de física en la [[Universitat de Califòrnia, Berkeley|Universitat de Califòrnia]] a [[Berkeley]] i dos anys més tard va aconseguir una plaça de professor titular, el més jove a Berkeley. Allà va rebre l'àlies de ''Atom Smasher'' (en català: «destructor d'àtoms»).
+
+== Recerca científica ==
+[[Fitxer:Oppenheimer Fermi Lawrence.jpeg|thumb|left|230px|D'esquerra a dreta, [[Robert Oppenheimer]], [[Enrico Fermi]] i Ernest Lawrence]]
+La invenció que li va reportar fama mundial va partir d'un esbós en un tros de paper. Mentre estava assegut una tarda a la biblioteca Lawrence va fullejar un article i va quedar intrigat en veure un dels diagrames. La idea era produir les partícules de molt alta energia necessàries per a la [[desintegració atòmica]] mitjançant una successió de empentes petites. Lawrence els va dir als seus col·legues que havia trobat un mètode per a obtenir partícules de molt alta energia sense necessitar alts voltatges.
+
+[[Fitxer:Cyclotron patent.png|300px|right|thumb|Diagrama del ciclotró segons la patent del propi Lawrence ([[1934]])]]
+
+El primer model de [[ciclotró]] estava fet de filferro i cera, i probablement costava menys de 25 $ en total. Quan Lawrence va aplicar 2.000 [[volt]]s d'[[electricitat]] el seu ciclotró artesanal va obtenir projectils de 80.000 volts, la qual cosa va significar que el seu invent funcionava. Mitjançant màquines cada vegada majors Lawrence va ser capaç de proporcionar l'equipament necessari per als experiments de física d'altes energies. Al voltant d'aquest dispositiu va construir el seu [[Lawrence Berkeley National Laboratory|laboratori de radiació]], que seria un dels laboratoris més avançats d'investigació en física. Va rebre la [[patent]] del ciclotró l'any [[1934]] que va concedir a la Research Corporation. L'any [[1936]] va passar a ser director del laboratori de radiació de la universitat, càrrec que exerciria fins a la seva mort. 
+
+El [[1939]] fou guardonat amb el [[Premi Nobel de Física]] ''per la invenció i desenvolupament del ciclotró'', cerimònia que s'hagué de celebrar a Berkeley a causa de la [[Segona Guerra Mundial]] i rebé la medalla d'or del Premi Nobel de mans del cònsol suec a [[San Francisco]].
+
+Durant la [[Segona Guerra Mundial]] Lawrence va ajudar en gran mesura a les investigacions nord-americanes de les [[arma nuclear|armes nuclears]]. El seu laboratori seria un dels centres principals per a la investigació d'armament nuclear, i fou Lawrence qui va introduir [[Robert Oppenheimer]] en el [[Projecte Manhattan]]. Després de la guerra va fer campanyes a favor de les subvencions estatals als grans projectes científics, sent un defensor aferrissat de la «[[gran ciència]]», que necessita de grans màquines i molts diners. 
+
+El juliol de [[1958]] el [[president dels Estats Units]] [[Dwight D. Eisenhower]] va enviar Lawrence a [[Ginebra]] ([[Suïssa]]) per a negociar la suspensió de les proves nuclears amb la [[Unió Soviètica]]. Lawrence emmalaltiria a Ginebra, fet que l'obligà a tornar a Berkeley, on morí el [[27 d'agost]] d'aquell mateix any a la població californiana de [[Palo Alto (Califòrnia)|Palo Alto]].
+
+== Reconeixements ==
+En honor seu s'anomenà l'[[element químic]] [[Laurenci]], descobert l'any [[1961]], i el [[Cràter (impacte)|cràter]] [[Cràter Lawrence|Lawrence]] de la [[Lluna]].
+
+== Enllaços externs ==
+{{Projectes germans|commons=Ernest O. Lawrence}}
+* {{en}} [http://nobelprize.org/nobel_prizes/physics/laureates/1939/index.html Pàgina de l'Institut Nobel, Premi Nobel de Física 1939]
+
+
+{{ORDENA:Lawrence, Ernest}}
+
+[[Categoria:Físics estatunidencs]]
+[[Categoria:Premis Nobel de Física]]
+[[Categoria:Persones de Dakota del Sud]]
+[[Categoria:Premis Enrico Fermi]]
+
+{{Autoritat}}
+{{Enllaç AD|he}}
+{{Link GA|en}}</text>
+      <sha1>terlwv8okbmbjzwgkulf1r28cvo67z2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

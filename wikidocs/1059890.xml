@@ -1,0 +1,76 @@
+<page>
+    <title>Catapulta de torsió</title>
+    <ns>0</ns>
+    <id>1059890</id>
+    <revision>
+      <id>14048119</id>
+      <parentid>13228351</parentid>
+      <timestamp>2014-09-16T11:02:33Z</timestamp>
+      <contributor>
+        <username>Edu Rne</username>
+        <id>102861</id>
+      </contributor>
+      <minor></minor>
+      <comment>Edu Rne ha mogut [[Catapulta de torssio]] a [[Catapulta de torsió]]</comment>
+      <text>{{fusió a|ressort de torsió |data=abril de 2014 }}
+{{ortografia|data=abril de 2014}}
+[[Fitxer:Torsion-pendulum.ogg|thumb | Vídeo d'un model d'un pèndol de torsió oscil·lant ]]
+Un '''ressort de torsió''' és un [[ressort]] que treballa a [[torsió]] o girant, això és, mitjançant l'elasticitat és capaç d'emmagatzemar [[energia mecànica]] quan és girat i pot tornar quan s'allibera en forma de gir. La quantitat de força que allibera és proporcional a la quantitat total que sigui girat. Hi ha dos tipus: La [[barra de torsió]] és una barra recta i rígida de metall o goma que es gira absorbint la força mitjançant [[tensió tallant]] al voltant del seu eix en exercir un esforç de torsió en un dels seus extrems. D'aquest tipus deriva un altre més delicat cridat la fibra de torsió que consisteix en una fibra de vidre, quars fos o seda en tensió, que és retorçat sobre el seu eix i que s'usa en aparells sensibles. L'altre tipus és el ressort helicoïdal de torsió, que es compon d'un fil metàl·lic o de cable enrotllat en forma de [[Hèlix (geometria) | hèlix]] sobre el qual s'exerceixen moments flectors en els extrems. Encara que l'hèlix completa pugui considerar com un cargol sotmès a torsió, en realitat el fil no està sotmès a torsió de manera que la terminologia pot resultar confusa.
+
+== Coeficient de torsió ==
+Mentre que el ressort no arribi a la seva [[límit elàstic]], el ressort de torsió ha d'obeir la forma angular de la [[llei de Hooke]]: 
+
+: math \ Tau = - \ kappa \ theta \, /math
+
+on math \ tau \, /math és l'esforç de torsió exercit pel ressort en [[newton]]-metres, i math \ theta \, /math és l'angle de gir des de la posició d'equilibri en [[radian]]s. math \ kappa \, /math és una constant amb unitats de newton-metros/radians, que se'n diu el coeficient de torsió, mòdul elàstic de torsió, ràtio o simplement constant elàstica de la molla, igual a l'esforç de torsió requerit per girar el ressort un angle de 1 radiant. Aquest coeficient és anàleg al coeficient elàstic lineal. El signe negatiu indica que la direcció del ressort és contrari a la direcció del gir.
+
+L'energia'' U'', en juliols, emmagatzemada a la primavera de torsió és:
+
+: math U = \ frac {1} {2} \ kappa \ theta ^ 2 /math
+
+== Usos ==
+Alguns exemples familiars de l'ús de ressorts de torsió són les pinces de la roba i les trampes per a ratolins tradicionals. Altres usos menys coneguts són en els mecanismes de contrapès a les portes de garatge, o en els mecanismes d'obertura de maleters de cotxes. Alguns petits ressorts s'usen en equips electrònics com tapadores de càmeres digitals o reproductors de CD. Altres usos més específics són:
+*'' [[Barra de suspensió de torsió]]'' ha estat utilitzat en la [[suspensió de vehicles]] des de 1934 al Citroën Traction Avant. El Volkswagen Beetle o el Porsche 911 són els exemples més populars, però també s'han fet servir àmpliament en vehicles armats des de la [[Segona Guerra Mundial]] i en l'actualitat és comuna en els [[SUV]] 's.
+* La [[barra estabilitzadora]] usada en els sistemes de suspensió de vehicles també utilitza el principi del ressort de torsió.
+* El pèndol de torsió usat en el rellotge de pèndol de torsió es compon d'un pes suspès amb forma de roda que està unit a un cable mitjançant un ressort de torsió. El pes trencada voltant de l'eix del ressort, girant aquest, en comptes de pendular com un [[pèndol]] ordinari. La força del ressort reverteix la direcció de rotació, de manera que la roda oscil cap a un costat i altre, dirigint així els mecanismes del rellotge.
+* La catapulta de torsió o [[Mangana]] és un enginy de setge medieval inventat en la Grècia Antiga. Es basa en la torsió d'un ressort mitjançant cordes enrotllades que aconsegueixen propulsar el braç de la catapulta llançant projectils amb una gran força.
+* El [[ressort regulador]] és un ressort usat en rellotges que es basa en el principi del ressort de torsió.
+
+== Balança de torsió ==
+La balança de torsió, també anomenada el pèndol de torsió, és un aparell científic per mesurar forces molt febles. El seu disseny es creu que va poder ser de [[Charles-Augustin de Coulomb]], qui el va inventar el 1777, encara que [[John Michell]] disseny un anterior independentment el 1783.
+
+== Oscil·ladors harmònics torsionals ==
+Els pèndols, les rodes i els ressorts de torsió són exemples d'oscil·ladors harmònics de torsió que poden oscil·lar amb un gir rotacional al voltant del seu eix de torsió, en sentit horari o antihorari. El seu comportament és anàleg als oscil·ladors translacionals amb ressort-massa. Sent l'equació general del moviment:
+
+: math I \ frac {d ^ 2 \ theta} {dt ^ 2} + C \ frac {d \ theta} {dt} + \ kappa \ theta = \ tau (t) /math
+
+Si l'amortiment és petita, math C \ ll \ sqrt {\ frac {\ kappa} {I}} \, /math, que és el cas que els pèndols de torsió i les rodes de torsió, la freqüència de vibració és molt propera a la [[ressonància mecànica]] del sistema:
+
+: math F_n = \ frac {\ omega_n} {2 \ pi} = \ frac {1} {2 \ pi} \ sqrt {\ frac {\ kappa} {I}} \, /math
+
+La solució general en aquest cas en què no hi ha forces conductores (math \ tau = 0 \, /math), anomenada la solució transitòria, és:
+
+: math \ Theta = Ae ^ {- \ alpha t} \ cos {(\ omega t + \ phi)} \, /math
+
+on:
+
+:: math \ Alpha = C/2I \, /math
+:: math \ Omega = \ sqrt {\ omega_n ^ 2 - \ alpha ^ 2} = \ sqrt {\ kappa / I - (C/2I) ^ 2} \, /math
+
+== Enllaços externs ==
+* [http://www.magnet.fsu.edu/education/tutorials/java/torsionbalance/index.html Balança de torsió interactiva]
+* [http://www.engineersedge.com/spring_torsion_calc.htm Torsion spring calculator]
+* http://lheawww.gsfc.nasa.gov/ ~ merk / G / Big_G.html 
+* [http://www.npl.washington.edu/eotwash/experiments/experiments.html Four Torsion balanços used in contemporary physics experiments]
+* [http://www.mssu.edu/seg-vm/pict0349.html How Torsion balanços were used in petroleum prospecting]
+* [http://www.spring-makers-resource.net/torsion-springs.html Mechanics of Torsion springs]
+* [http://www.mathalino.com/reviewer/mechanics-and-strength-of-materials/helical-springs Solved mechanics problems involving springs (springs in sèries and in parallel)]
+
+{{orfe|data=abril de 2014}}
+
+[[Categoria:Elements de màquines]]</text>
+      <sha1>fc89vednhbdyo315jzo2fs8eams5ds6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

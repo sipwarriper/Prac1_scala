@@ -1,0 +1,57 @@
+<page>
+    <title>Control estadístic de processos</title>
+    <ns>0</ns>
+    <id>608457</id>
+    <revision>
+      <id>13787111</id>
+      <parentid>13787103</parentid>
+      <timestamp>2014-07-11T13:38:31Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: precissos  precisos</comment>
+      <text>El '''Control Estadístic de Processos''' o '''CEP''' (en [[anglès]], ''Statistical process control'', '''''SPC''''') és la minimització, a partir d'[[estadística|estudis estadístics]] de control, de la [[producció]] d'unitats defectuoses per mitjà de la disminució entre el [[temps]] entre el moment en què es produeix el [[defecte]] i el temps d'identificació d'aquest, a més de les seves causes, per tal que no es repeteixi.ref name=upc17/ Es va desenvolupar abans de la [[Segona Guerra Mundial]] a partir dels treballs de W. Shewhart publicats el [[1931]].ref name=upc17''Métodos estadísticos. Control y mejora de la calidad.'' Volum I, pàg.17. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas, Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya, 1997. ISBN 84-8301-222-7/ref Actualment és una eina més de la [[Qualitat Total]] per a poder diagnosticar les causes de la [[variabilitat]] i així poder reduir-la.ref name=qt/ 
+
+== Utilitat ==
+El CEP detecta ràpidament la presència de possibles causes assignables de la variabilitat, que després de l'estudi adient es mostren o bé com a falses alarmes o bé com efectivament causes de la variabilitat, i en aquest darrer cas aporta informació útil. És pràctic als processos que tendeixen a sofrir crisis.ref name=qt''Qualitat Total''. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas i Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya./ref
+
+== Fonamentació ==
+El control estadístic de procesos es basa en que tots els processos tenen, en general, una certa [[variabilitat aleatòria]] més una [[variabilitat assignable]].ref name=qt/
+* La variabilitat aleatòria és la provocada per causes comunes i generals, precisions estadístiques previsibles per mitjà de la [[llei Normal]] i la [[campana de Gauss]]. Aquests tipus de causes representen la majoria de les que provoquen la variabilitat.ref name=qt/
+* La variabilitat assignable l'és en canvi a poques causes esporàdiques, assignables i precises, importants, no previsibles, que queden fora de la campana de Gauss però que precisament per això són fàcils d'identificar i conseqüentment d'eliminar. Són les més importants a la investigació científica i tecnològica i, quant als processos industrials, les que cal eliminar inexcusablement.ref name=qt/
+
+== Objectiu ==
+L'objectiu del CEP és la millora de la [[qualitat]] dels processos a partir d'una reducció de la variabilitat del producte. En paraules de [[Genichi Taguchi]], ''reduir la variabilitat sempre és bo''.ref name=tw/ Una de les regles fonamentals del CEP és que mai s'ha de sobreajustar (demanar a un procés més precisió, o menys defectes, o menys temps, etc. dels requerits o necessaris) un procés, ja que això fa augmentar la variabilitat, que és just el contrari del que es cerca, i a més n'augmenta el cost (vegeu ''[[Control estadístic de processos#Metodologia|Valors '''m''' i '''n''' a la funció de pèrdua de Taguchi]]''). 
+
+== Metodologia ==
+El CEP es realitza mitjaçant el [[disseny d'experiments]] (en anglès, ''DEV''), no necessàriament complicats. La reducció de la variabilitat s'obté amb la utilització de sistemes i processos [[variable robusta|robustos]], és a dir, als quals els canvis incontrolables no massa grans tenen com a resultat productes que no s'allunyen massa de la franja objectiu que considerem bona.ref name=qt/ Per exemple, a la fórmula d'unes pólvores a les quals cal afegir llet i enfornar per a obtenir el pastís, interessa fer-la tal que el pastís resultant sigui bo, però a més, i aquí entra en joc la (poca) variabilitat, que ho sigui per a tothom. Interessa doncs una fórmula rígida, és a dir, que encara que l'usuari final (el qual no coneixem ni controlem) usi tipus de llet diferents (desnatada, de soja, sense desnatar, etc.) o que el seu forn sigui diferent (elèctric, de gas, gran, petit, etc.), el resultat final del pastís no sigui gaire diferent. El que no interessa és que a una sola persona, que casualment coincideix amb uns criteris incontrolables per qui dissenya les pólvores massa precisos (composició i tipus exactes de la llet, el forn, etc.) tingui un pastís boníssim i que totes les altres persones en tinguin un de dolent.
+
+Taguchi centra la variable en la fase de [[disseny]] i proposa una anàl·lisi de les dades amb un plantejament experimental.ref name=qt/ Per a trobar el valor òptim que ha de tenir una variable associada a una propietat d'un procés el CEP es basa en la funció de pèrdua de Taguchi.
+
+=== Funció de pèrdua ===
+La funció de pèrdua de Taguchi, per a una propietat donada, és simplement la funció suma de les funcions del cost d'aquesta propietat segons el valor que li donem i de la funció del cost que representa la no-qualitat del procés per al mateix valor de la propietat. Per a qualsevol valor, la funció del cost menys la de no-qualitat dóna el benefici econòmic d'aquest valor de la propietat al procés, que és màxim al valor mínim que assoleix la funció de pèrdua de Taguchi. Aquest mínim es dóna sempre per a un valor major al qual les funcions cost i no-qualitat es creuen, un punt que erròniament prenien algunes persones abans de conéixer el CEP, amb el qual el benefici pot ser menor i a sobre amb una qualitat és pitjor.
+
+És a dir, si '''L(x)''' és la funció pèrdues, sent '''x''' una propietat (per exemple, el gruix o la longitud d'un producte, el cost d'un o altre material amb el que es fa el producte, etc.), llavors:
+* L(x) = Cost (x) + No-Qualitat (x),ref name=qt/
+
+on '''Cost (x)''' és la funció, creixent, del [[cost]] del producte en funció del valor '''x''', i '''No-Qualitat (x)''' és la funció, decreixent, del cost que representa que el producte no assoleixi la qualitat desitjada. 
+
+Aquestes funcions es creuen en un valor de '''x''' igual a '''n''', però resulta que sovint '''m''''''n''', sent '''m''' el valor de '''x''' pel qual la funció '''L(x)''' es minimitza. El valor òptim de '''x''' per a centrar la producció (valor mig) és precisament sempre '''m''', i el benefici màxim que es pot obtenir és sempre la diferència entre '''Cost(m)''' i '''No-Qualitat (m).'''
+
+Hom podia tenir la temptació de, en comptes de centrar el procés en el valor '''m''', desplaçar-se a l'esquerra de la funció, per a tenir en aparença un menor cost de producció. Llavors, el cost absolut de producció sí seria més petit, però com el cost a causa dels errors i la no qualitat seria molt més gran, el resultat seia que el cost net (de producció menys l'associat a la manca de qualitat, com retirar produtes defectuosos, etc.) és major. En paraules de Taguchi, ''moure el valor mig de la producció amb l'objectiu de disminuir els costos és més immoral que l'acció d'un lladre''.ref name=twTaguchi i Wa, [[1985]]/ref
+
+== Referències ==
+{{Commonscat}}
+references/
+
+
+{{ORDENA:Control Estadistic De Processos}}	!--ORDENA generat per bot--
+
+[[Categoria:Qualitat]]</text>
+      <sha1>7tojry4xps2n65x4w7zju7m06555k19</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

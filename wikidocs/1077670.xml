@@ -1,0 +1,151 @@
+<page>
+    <title>Obsolescència digital</title>
+    <ns>0</ns>
+    <id>1077670</id>
+    <revision>
+      <id>13735302</id>
+      <parentid>13612183</parentid>
+      <timestamp>2014-07-03T20:44:36Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: Universitat de Standford  Universitat de Stanford</comment>
+      <text>L’'''obsolescència digital''' és aquella situació en la qual un recurs digital ja no és llegible, perquè el lector, el maquinari o el programari necessari per accedir-hi ja no estan disponibles.
+ref{{ref-web|cognom=National Archives|url=http://www.nationalarchives.gov.uk/documents/information-management/siro-guidance-on-the-risk-of-digital-obsolescence.pdf|consulta=11 març 2013|títol=Managing Digital Obsolescence Risks|obra=2009}}/ref 
+[[File:Symbol_version_obsolete.svg|thumb|Center|Símbol de versió obsoleta]]
+
+== Introducció ==
+Un document digital és aquell que conté la informació codificada per una sèrie de dígits binaris anomenada [[bitstream]] i, per llegir, visualitzar o gravar la informació es precisa d'un dispositiu que transmeti o gravi informació codificada en [[bits]]. En representar-se digitalment, les dades d'entrada són convertides en dígits (0,1) intel·ligibles per a la màquina i no per als sentits humans; i a la sortida, un altre dispositiu els convertirà en senyals analògics, intel·ligibles per als sentits humans.
+Per això, per descobrir el que està codificat en les cadenes binàries, és necessari el programa que les va crear o un altre que pugui interpretar el seu significat. Tal com va observar Abby Smith, en una reflexió gairebé existencialista «els objectes digitals només existeixen mitjançant la seva recuperació. Sense aquest acte d'assemblatge només tenim una sèrie de bits». 
+
+«When all data are recorded as 0s and 1s there is essentially no object thats exist outside of the act of retrieval. The demand for a access created the “object” that is the act of retrieval which precipitates the temporary reassembling  of 0s and 1s into a meaningful sequence that can be decoded by software and hardware».
+ref{{ref-publicació|cognom=Smith|nom=Abby|títol=Preservation in the future tense|publicació=CLIR issues|data=1998|volum=3|exemplar=maig/juny}}/ref 
+
+La complexitat pot augmentar si el [[sistema operatiu]] que interpreta els codis perquè el [[maquinari]] funciona faltés. Ja que el programa d'aplicació necessari per desxifrar aquests bits està basat en un sistema operatiu. Per tant, l'emmagatzematge dels recursos digitals actuals no aporta cap avantatge si es perd la capacitat de llegir-los en el futur.
+
+== Obsolescència d'aplicacions i arxiu informàtics ==
+L’aparició de nou programari que reemplaci versions anteriors pot ocasionar problemes a l'hora de llegir arxius més antics i fer impossible l’accés a la informació perquè el programari que la va originar ja no està disponible.
+El major risc el tenen els arxius d’informació creats en els anomenats ''formats propietaris''.
+
+{| class=wikitable
+|-
+! Formats propietaris
+|-
+| MS Word ([[Microsoft_Word|DOC o DOCX]])   
+|-
+| MS Excel ([[Microsoft_Excel|XLS o XLSX]], XLW)   
+|-
+| MS Power Point ([[Microsoft_PowerPoint|PPS, PPT o PPTX, PPSX]])   
+|-
+| Bitmap images ([[BMP]], [[TIFF]]) 
+|-
+| Vectorial images ([[WMF]])   
+|-
+| [[MP3]] Audio files   
+|-
+| Windows Media Audio ([[WMA]]) 
+|}
+
+
+Existeix la possibilitat d’utilitzar formats oberts les especificacions dels quals estan disponibles públicament, permetent la interoperabilitat de programari i la compatibilitat entre diferents programaris malgrat el pas del temps.
+{| class=wikitable
+|-
+! Formats oberts
+|-
+| [[Text pla|Plain text]] (ASCII) 
+|-
+| [[Hyper Text Markup Language]] (HTML) 
+|-
+| [[Extensible Markup Language]] (XML) 
+|-
+| [[OpenDocument|Open Document Format for Office Application]] 
+|-
+| Rich Text Format ([[RTF]]) 
+|-
+| [[PostScript]] (PS) 
+|-
+| Portable Document Format ([[PDF]]) y sus variantes PDF/A y PDF/X 
+|-
+! Formats oberts per a gràfics !! Formats oberts per a àudio 
+|-
+| Joint Photographic Expert Group ([[JPEG]])|| Ogg Vorbis ([[Ogg]]) 
+|-
+| Portable Network Graphics ([[PNG]])   || Musepack (MPC) 
+|-
+| Scalable Vector Graphics ([[SVG]])   || Free Lossless Audio Codec ([[FLAC]]) 
+|}
+
+Tanmateix, fins al moment les aplicacions i arxius més reeixits i duradors, són els “formats propietari”.
+
+Resumint, els motius pels quals un arxiu podria quedar obsolet són els següents:
+* El programari que ho llegeix és interrumput.
+* Un programari modern no llegeix els seus formats antics.
+* Un format es fa més complex o és reemplaçat.
+* El format no és prou massiu, per la qual cosa desapareixen les aplicacions compatibles.
+
+=== Com evitar l'obsolescència d'arxius ===
+En l'ordre de les activitats de [[preservació digital]], s'han de privilegiar els objectes creats amb aplicacions obsoletes o amb perill d'obsolescència.
+Per descomptat, examinant prèviament si el contingut d'aquests documents mereix l'esforç.ref{{ref-publicació|cognom=Rivera Donoso|nom=M.A.|títol=Directrices para la creación de un programa de preservación digital|publicació=Serie Bibliotecologia y Gestión de Información. 2009|pàgines=1-63|exemplar=43|consulta=22 març 2013}}/ref 
+Per a l'elecció dels formats, s'ha d'optar per aquells que tinguin més immunitat a l'obsolescència, per exemple:
+* Que tinguin bona compatibilitat cap enrere.
+* Que siguin àmpliament utilitzats globalment.
+* Que no siguin excessivament complexos ni tampoc massa simples.
+* Que tingui revisió d'errors incorporada.
+* Que tinguin un cicle d'actualitzacions relativament freqüent.
+* De preferència, que siguin formats oberts.
+
+== Exemples ==
+=== La missió del Viking Mars ===
+Un exemple famós fa referència a la missió del Mars_landing de 1976 de la [[NASA]]. Les dades  de l’aterratge foren enregistrades en cintes magnètiques que no varen ser processades durant més d'una dècada. Quan posteriorment es van intentar analitzar, les dades no eren llegibles, perquè estaven en un format desconegut i els programadors originals havien mort o deixat la NASA. Les imatges varen ser finalment extretes després de molts mesos de cavil·lacions sobre les dades y examinant com la maquinària de gravació funcionava.ref{{ref-notícia|cognom=Blakeslee|nom=Sandra|títol=Lost on Earth: Wealth of Data Found in Space|publicació=The New York Times|consulta=16 març 2013|data=1990-03-20}}/ref
+
+=== Projecte BBC Domesday ===
+Un altre exemple és el [[BBC]] Domesday publicat el 1986, en què es va compilar una enquesta de la nació. El nom prové del llibre Doomsday, ja que l’enquesta commemorava els  900 anys la publicació del llibre. Si bé la informació en el llibre de Domesday segueix sent accessible avui en dia, hi havia grans temors que els discos del projecte Domesday es convertiria en il·legible, ja que els ordinadors capaços de llegir el format utilitzat i els dispositius capaços d’accedir als discos esdevingueren rars. No obstant això, el sistema va ser emulat el 2002 usant un sistema anomenat DomesEm pel projecte  CAMILEON.ref{{ref-web|url=http://www2.si.umich.edu/CAMILEON/|títol=CAMiLEON}}/ref Això permet que la informació sigui accessible avui dia per ordinadors moderns.
+Les dades encriptades també poden arribar a ser un problema, ja que el procés necessari per descodificar les dades és intencionalment dissenyat per a ser el més difícil possible. Històricament, l'encriptació de dades ha estat força rar, però fins i tot els escassos casos del passat en mostren exemples de documents que només poden ser llegits després d'un gran esforç. Per exemple, va ser necessària la capacitat d'un projecte de computació distribuïda per trencar el codi  generat mecànicament pel xifrat de  missatges durant la Segona Guerra Mundial.ref{{ref-notícia|cognom=Wearden|nom=Graeme|títol=Distributed computing cracks Enigma code|publicació=CNET News|url=http://news.cnet.com/2100-1029_3-6043572.html?part=rss|consulta=15 març 2013|data=2006-02-27}}/ref  
+L'encriptació moderna gaudeix d'un ús molt més extens perquè molts editors requereixen la protecció atorgada per gestió de drets digitals (abreviat [[DRM]] en anglès).
+
+== Projectes per combatre l'obsolescència digital ==
+=== La càmera dels horrors ===
+La Bilioteca de la [[Universitat de Cornell]] ha desenvolupat un lloc web, anomenat  “La càmera dels horrors” en el qual s'enumeren i descriuen la major part dels suports que estan obsolets o en vies d'obsolescència.ref{{ref-web|url=http://www.dpworkshop.org/dpm-eng/oldmedia/index.html|títol=La càmera dels horrors}}/ref
+
+=== La Biblioteca de la Universitat de Stanford ===
+La col·lecció Cabrinety és una de les majors col·leccions històriques de programari de microinformàtica del món, conté títols de pràcticament totes les principals plataformes, no només d’ordinador sinó també de consoles de videojocs. La [[Universitat de Stanford]] va adquirir la col·lecció completa com un regal de la família Cabrinety el 1998. La seva intenció és preservar tot aquest programari copiant els suports originals per a emmagatzemar-los com a imatges de disc. La tasca esdevé complicada, no només pel deteriorament inherent dels suports que foren gravats anys ençà, sinó pel problema dels dispositius físics d’accedir a molts d'ells.ref{{ref-notícia|cognom=Santdford University Libraries|títol=Stanford Libraries preserves historical software collection with Federal Agency|url=http://library.stanford.edu/news/2013/03/stanford-libraries-preserves-historical-software-collection-federal-agency|consulta=17 març 2013|data=2013-03-05}}/ref
+
+=== El projecte CAMiLEON ===
+El projecte CAMiLEON (Creative Archiving at Michigan  Leeds) va ser una iniciativa conjunta de la Universitat de Michigan i la Universitat de Leeds per desenvolupar i avaluar una sèrie d'estratègies tècniques per a la conservació a llarg termini del material digital que pateix d'obsolescència digital. El projecte va ser finançat conjuntament pel  Comitè Mixt d'Informació del Regne Unit Systems Committee] (JISC) i el National Science Foundation de EUA per un període de 3-4 anys a partir de l'1 d'octubre de 1999. El Regne Unit component del projecte es va completar el 31 de desembre de 2002, el component dels EUA va acabar el 30 de setembre de 2003. El cas d'estudi fou el Domesday Project de la [[BBC]], que va ser publicat en [[LaserDisc|Laser discs]] en el format LaserVision Read Only Memory (LV-ROM). La proposta de CAMiLEON fou emular el maquinari obsolet mitjançant el sistema DomesEM, usant equipament modern que permet la visualització del contingut.ref{{ref-notícia|cognom=Robin|nom=Mckie|títol=Digital Domesday Book lasts 15 years not 1000|publicació=The Guardian|url=http://www.guardian.co.uk/uk/2002/mar/03/research.elearning|data=2002-03-03}}/refref{{ref-web|url=http://www2.si.umich.edu/CAMILEON/reports/camresearch/research.html|títol=CAMiLEON Research}}/ref
+
+== Obsolescència intencional ==
+En alguns casos, s'utilitzen tecnologies obsoletes en un intent deliberat per evitar la intrusió de dades en una estratègia coneguda com a  [http://en.wikipedia.org/wiki/Security_through_obsolescence seguretat a través de l'obsolescència].ref{{ref-web|cognom=Miller|nom=Robin|url=http://archive09.linux.com/articles/23313|consulta=22 març 2013|títol=Security through obsolescence|editor=Linux.com|data=2002-06-06}}/ref
+
+== Vegeu també ==
+* [[Obsolescència]]
+* [[Obsolescència planificada]]
+* [[Preservació digital]]
+
+== Referències ==
+{{Referències}}
+
+== Bibliografia==
+* {{ref-llibre |cognom=Keefer |nom=Alice |cognom2=Gallart |nom2=Núria |títol=La preservació de recursos digitals: El repte per a les biblioteques del segle XXI |url=http://books.google.es/books?id=QMQHw24cit0Cprintsec=frontcoverdq=La+preservaci%C3%B3+de+recursos+digitals:+El+repte+per+a+les+biblioteques+del+segle+XXIhl=casa=Xei=r5lKUev6FcmQhQel-YDoAwved=0CDEQ6AEwAA#v=onepageq=La%20preservaci%C3%B3%20de%20recursos%20digitals%3A%20El%20repte%20per%20a%20les%20biblioteques%20del%20segle%20XXIf=false |editorial=UOC |data=2007 |pàgines= |isbn=8497885848}}
+* {{Ref-llibre|cognom=Alberich|nom=Jordi|títol=Comunicación audiovisual digital. Nuevos medios, nuevos usos, nuevas formas|editorial=UOC|any=2005|isbn=8497881559|url=http://books.google.es/books/about/Comunicaci%C3%B3n_audiovisual_digital.html?hl=esid=aB9khHet164C|coautors=[et al]}}
+* {{ref-publicació|cognom=Abrams|nom=Stephen L.|títol=The role of format in digital preservation|publicació=Vine: The Journal of Information and Knowledge Management Systems|data=2004|pàgines=29-55|volum=2|exemplar=34}}
+* {{ref-web|cognom=Quick|nom=Ken|url=http://microfilm.net.au/pdf/ACS%20Datasurance%20White%20Paper.pdf|consulta=18 març 2013|títol=Ending Digital Obsolescence|editor=The Society for Imaging Science and Technology|coautors=Maxwell, Max|data=2005}}
+* {{ref-publicació|cognom=Neervens|nom=Annewil|títol=The Battle Against Digital Obsolescence: Exploring Strategies of Digital Preservation in New Media and New Media Art|publicació=New Media Theories|data=2009-01-20|pàgines=8-10|url=http://annewilneervens.files.wordpress.com/2009/03/new-media-theories-final-paper.pdf|consulta=19 març 2013}}
+* {{ref-web|cognom=Pondersphere|url=http://www.pondersphere.com/blog/2008/06/19/format-obsolescence-translating-and-preventing-other-formats-from-becoming-the-dead-languages-of-the-digital-world/|consulta=14 març 2013|títol=File Format Obsolescence: Translating (and preventing other formats from becoming) the dead languages of the digital world|data=2008-06-19}}
+
+== Enllaços externs ==
+*{{en}} [http://www.digitalpreservation.gov/formats/ The Library of Congress, Sustainability of Digital Formats]
+*{{en}} [[Wired Magazine]]: [http://wired-vig.wired.com/wired/archive/6.09/saved.html What death can't destroy and how to digitize it]
+*{{en}} [http://www.icpsr.umich.edu/dp Digital Preservation at ICPSR home page]
+*{{es}} [http://www.openformats.org/es1 formats oberts i formats propietaris]
+*{{en}} [http://www.bbc.co.uk/history/domesday Projecte BBC Domesday]
+
+{{ORDENA:Obsolescencia Digital}}	!--ORDENA generat per bot--
+[[Categoria:Emmagatzematge digital]]
+[[Categoria:Tecnologia]]</text>
+      <sha1>p2rov5o9345ibwq8o3r31183gd53a3h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

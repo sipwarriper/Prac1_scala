@@ -1,0 +1,1313 @@
+<page>
+    <title>Viquipèdia:Llista d'articles que totes les llengües haurien de tenir</title>
+    <ns>4</ns>
+    <id>12281</id>
+    <revision>
+      <id>12895930</id>
+      <parentid>12880693</parentid>
+      <timestamp>2014-02-01T09:46:57Z</timestamp>
+      <contributor>
+        <username>EVA (bot)</username>
+        <id>18201</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text (-Vladimir +Vladímir, -Illich +Il·litx, -Kuibishev +Kúibixev)</comment>
+      <text>{{obsolet|La llista no està actualitzada respecte la de meta amb els darrers canvis}}
+noinclude
+div style=float:right;
+{|
+|-
+|style=vertical-align:top;|{{Drecera|VP:AV|VP:VITAL|VP:LA}}
+|{{Viquipèdia:Articles vitals/Nivells/Navegació|n3}}
+|}/div
+[[Fitxer:Viquibola 1000.png|right|100px]]
+small''[http://ca.wikipedia.org/w/wiki.phtml?title={{FULLPAGENAMEE}}action=purge Actualitza la pàgina]''/small /span
+
+Hi ha un nombre creixent de ''viquipèdies'', algunes de molt grans, altres de moribundes. Hem proposat de revigoritzar-les, assegurant-nos que cada projecte conté un mínim d'informació útil. D'aquesta manera, els usuaris es poden animar a fer servir aquests projectes i augmentar-ne el seu creixement.
+
+Per això, suggerim de fer un llistat de 1000 articles bàsics, que caldria procurar que existissin en totes les viquipèdies. Aquests articles han de ser bàsics i incorporar només la informació més essencial. En molts casos, això vol dir només una taula o un [[Viquipèdia:esborrany|esborrany]]. Així, proveint articles petits que siguin fàcils de traduir, podem donar una mica d'ímpetu als projectes més petits.
+
+Com que la llista ha crescut tant, està dividida en dos nivells de prioritat. Les entrades de màxima prioritat, que són especialment necessàries per a tota Viquipèdia, estan marcades en '''negreta'''; com passa amb la llista, això no s'hauria de veure com a marca de la importància del tema, sinó tan sols com una utilitat més per ajudar les Viquipèdies petites.
+
+Si algun dels articles encara no existeix, segurament voldreu traduir-lo o iniciar-lo de nou. En aquest cas, pot resultar útil accedir a la versió de [[:en:Wikipedia:Simple English Wikipedia|simple english]], on s'intenta crear un nucli d'informació fàcilment traduïble a tots els idiomes.
+* Pot resultar útil usar aquesta pàgina com a [[Especial:Seguiment/Viquipèdia:Llista_d'articles_que_totes_les_llengües_haurien_de_tenir|llista de seguiment centralitzada]].
+* Consulteu '''[[Viquiprojecte:Els 1.000]]''', o bé la [[Usuari:TronaBot/log:Els 1000/llista general|llista d'articles fonamentals ordenats per la mida]] per una orientació sobre en quins articles treballar per millorar aquesta llista.
+* Seguint la idea d'aquesta llista, també s'ha creat una llista dels articles fonamentals de la viquipèdia en català. Vegeu:
+:* '''[[Viquipèdia:Llista dels 1000 articles fonamentals]].'''
+:* '''[[Viquiprojecte:Els 1000 Articles sobre la cultura catalana que tota viquipèdia hauria de tenir]]'''
+* Actualment '''{{PAGESINCATEGORY:Articles de qualitat dels 1000}}''' són articles de qualitat ({{qualitat}}) i '''{{PAGESINCATEGORY:Articles bons dels 1000}}''', articles bons ({{AB}}).
+
+{| class=infobox
+!style=border-bottom:1px solid; background:#efafea; font-size:larger; width:20em; margin:10px;|Llista de [[:meta:List of articles every Wikipedia should have|Meta]]
+|-
+|
+'''Atenció: Aquesta plana és una traducció de l'[[:meta:List of articles every Wikipedia should have|original]] a [[:meta:Main Page|Meta]], que s'edita col·laborativament al canal d'IRC, [irc://irc.freenode.org/wikilist #wikilist] a irc.freenode.org. Si us plau, no modifiqueu aquesta llista si no és perquè es modifica l'original a meta.'''
+|}
+br //noinclude
+------------------------------------
+En la darrera modificació de Meta, s'han aconseguit ja els 1000 articles, distribuïts de la següent manera:refCompte realitzat a les 18:35, el 15 de novembre de 2008 (UTC) i el darrer es va actualitzant automàticament.
+Per a veure versions anteriors, podeu consultar:
+* [[Viquipèdia:Llista d'articles que totes les llengües haurien de tenir/Arxiu|Arxiu 1]] 
+* [[Viquipèdia:Llista d'articles que totes les llengües haurien de tenir/Arxiu2|Arxiu 2]]/ref 
+{{TOCright}}
+{{Canvis recents als 1000}}
+{| class=wikitable
+|+
+|-
+!Seccions (Nov 08)!!Articles!!!!Seccions actuals!!Articles
+|-
+|Biografies||216||||Biografies||205 sup(205)/sup
+|-
+|Història||40||||Història i Geografia||{{PAGESINCATEGORY:Història i geografia (Els 1000 de META)}} sup(191)/sup
+|-
+|Geografia||148||||sup(147)/sup||
+|-
+|Societat||77||||Ciències socials||{{PAGESINCATEGORY: Societat (Els 1000 de META)}} sup(70)/sup
+|-
+|Cultura||150||||Arts i oci||{{PAGESINCATEGORY:Cultura i oci (Els 1000 de META)}} sup(76)/sup
+|-
+|.||.||||Filosofia, psicologia||{{PAGESINCATEGORY:Filosofia i psicologia (Els 1000 de META)}} sup(17)/sup
+|-
+|.||.||||Religió||{{PAGESINCATEGORY:Religió (Els 1000 de META)}} sup(25)/sup
+|-
+|.||.||||Llenguatge||{{PAGESINCATEGORY:Llengua i literatura (Els 1000 de META)}} sup(46)/sup
+|-
+|Ciència||245||||Ciències naturals||{{#expr:{{PAGESINCATEGORY:Ciència (Els 1000 de META)}}}} sup(299)/sup
+|-
+|Aliments||31||||.||sup(31)/sup
+|-
+|Matemàtiques||22||||.||sup(22)/sup
+|-
+|Tecnologia||71||||Tecnologia||{{PAGESINCATEGORY:Tecnologia (Els 1000 de META)}} sup(71)/sup
+|-
+|'''Total''' || '''1000'''||||'''Total''' || '''{{#expr: 205 + {{PAGESINCATEGORY:Història i geografia (Els 1000 de META)}} + {{PAGESINCATEGORY:Societat (Els 1000 de META)}} + {{PAGESINCATEGORY:Filosofia i psicologia (Els 1000 de META)}} + {{PAGESINCATEGORY:Religió (Els 1000 de META)}} + {{PAGESINCATEGORY:Llengua i literatura (Els 1000 de META)}} + {{PAGESINCATEGORY:Cultura i oci (Els 1000 de META)}} + {{PAGESINCATEGORY:Ciència (Els 1000 de META)}} + {{PAGESINCATEGORY:Tecnologia (Els 1000 de META)}}}}'''
+|}
+Per a una comparativa de la nostra llista i la de Meta, vegeu [[Viquipèdia:Llista d'articles que totes les llengües haurien de tenir/Quadre Meta-Viquipèdia|'''Quadre comparatiu Meta-Viquipèdia''']]. En qualsevol modificació de la llista tingueu present que tant l'anglesa com la de la viquipèdia coincideixin.
+------------------------------------
+------------------------------------
+!--comença llista--
+
+== Biografia (205) ==
+
+=== Actors, ballarins i models ===
+# [[Sarah Bernhardt|Bernhardt, Sarah]]
+# [[Charles Chaplin|Chaplin, Charlie]]
+# [[Marlene Dietrich|Dietrich, Marlene]]
+# [[Marilyn Monroe|Monroe, Marilyn]]
+
+=== Artistes i arquitectes ===
+# [[Le Corbusier|Corbusier, Le]]
+# [[Salvador Dalí i Domènech|Dalí, Salvador]]
+# [[Albrecht Dürer|Dürer, Albrecht]] {{Qualitat}}
+# [[Vincent van Gogh|Gogh, Vincent van]] {{qualitat}}
+# [[Francisco de Goya y Lucientes|Goya, Francisco]] {{Qualitat}}
+# [[Katsushika Hokusai|Hokusai]] {{Qualitat}}
+# [[Frida Kahlo|Kahlo, Frida]] {{Qualitat}}
+# [[Henri Matisse|Matisse, Henri]] {{Qualitat}}
+# '''[[Leonardo da Vinci|da Vinci, Leonardo]]''' {{qualitat}}
+# '''[[Michelangelo Buonarroti|Michelangelo]]''' {{qualitat}}
+# '''[[Pablo Picasso|Picasso, Pablo]]'''
+# '''[[Raffaello Sanzio|Rafael]]''' {{qualitat}}
+# '''[[Rembrandt van Rijn|Rembrandt]]''' {{qualitat}}
+# [[Peter Paul Rubens|Rubens, Peter Paul]] {{Qualitat}}
+# [[Sinan]]
+# [[Diego Velázquez|Velázquez, Diego]] {{qualitat}}
+# [[Andy Warhol|Warhol, Andy]] {{Qualitat}}
+# [[Frank Lloyd Wright|Wright, Frank Lloyd]]
+
+=== Escriptors, dramaturgs i poetes ===
+
+# [[Abu-Nuwàs]]
+# [[Matsuo Bashō|Bashō, Matsuo]] {{AB}}
+# [[Jorge Luis Borges|Borges, Jorge Luis]]
+# [[Lord Byron]]
+# '''[[Miguel de Cervantes Saavedra|Cervantes, Miguel de]]''' {{qualitat}}
+# [[Geoffrey Chaucer|Chaucer, Geoffrey]]
+# [[Anton Txékhov|Txékhov, Anton]] 
+# '''[[Dante Alighieri]]''' 
+# [[Charles Dickens|Dickens, Charles]] 
+# '''[[Fiódor Dostoievski|Dostoievski, Fiódor]]''' {{Qualitat}}
+# [[Gabriel García Márquez|García Márquez, Gabriel]]
+# '''[[Johann Wolfgang von Goethe|Goethe]]''' 
+# [[Hafīz]]
+# '''[[Homer]]''' 
+# [[Victor Hugo|Hugo, Victor]] 
+# [[James Joyce|Joyce, James]]
+# [[Franz Kafka|Kafka, Franz]]
+# [[Kālidāsa]]
+# [[Li Bai]] 
+# [[Naguib Mahfuz|Mahfuz, Naguib]] 
+# '''[[Molière]]''' 
+# [[Hans Christian Andersen|Andersen, Hans Christian]] 
+# [[Ovidi]] 
+# [[Marcel Proust|Proust, Marcel]]
+# [[Aleksandr Puixkin|Puixkin, Aleksandr]]
+# '''[[William Shakespeare|Shakespeare, William]]'''
+# [[Rabindranath Tagore|Tagore, Rabindranath]] 
+# [[Sòfocles]] 
+# [[Lev Nikolàievitx Tolstoi|Tolstoi, Lev]]
+# [[Mark Twain|Twain, Mark]] {{Qualitat}}
+# [[Virgili]]
+
+=== Compositors i músics ===
+
+# [[Louis Armstrong|Armstrong, Louis]] 
+# '''[[Johann Sebastian Bach|Bach, Johann Sebastian]]''' 
+# [[The Beatles|Beatles, The]] {{AB}}
+# '''[[Ludwig van Beethoven|Beethoven, Ludwig van]]''' 
+# [[Johannes Brahms|Brahms, Johannes]] 
+# '''[[Frédéric Chopin|Chopin, Frédéric]]''' 
+# [[Antonín Dvořák|Dvořák, Antonín]] 
+# [[Georg Friedrich Händel|Händel, Georg Friedrich]]
+# [[Gustav Mahler|Mahler, Gustav]] 
+# '''[[Wolfgang Amadeus Mozart|Mozart, Wolfgang Amadeus]]''' 
+# [[Giovanni Pierluigi da Palestrina|Palestrina, Giovanni Pierluigi da]]
+# [[Édith Piaf]] 
+# [[Giacomo Puccini|Puccini, Giacomo]]
+# [[Elvis Presley|Presley, Elvis]] 
+# [[Franz Schubert|Schubert, Franz]] 
+# [[Ígor Stravinski|Stravinsky, Ígor]] 
+# '''[[Piotr Ilitx Txaikovski|Txaikovski, Piotr Ilitx]]''' 
+# [[Hector Berlioz]] 
+# [[Giuseppe Verdi|Verdi, Giuseppe]] 
+# [[Antonio Vivaldi|Vivaldi, Antonio]] 
+# [[Richard Wagner|Wagner, Richard]]
+
+=== Exploradors ===
+
+# [[Roald Amundsen|Amundsen, Roald]] 
+# [[Neil Alden Armstrong|Armstrong, Neil]] 
+# [[Jacques Cartier|Cartier, Jacques]] 
+# '''[[Cristòfor Colom|Colom, Cristòfor]]''' {{qualitat}}
+# [[James Cook|Cook, James]] {{Qualitat}}
+# [[Hernán Cortés|Cortés Hernán]]
+# '''[[Iuri Gagarin|Gagarin, Iuri]]'''
+# [[Vasco da Gama|Gama, Vasco da]] 
+# [[Ibn Battuta|Battuta, Ibn]] 
+# '''[[Fernão de Magalhães|Magalhães, Fernão de]]''' 
+# [[Marco Polo|Polo, Marco]] {{AB}}
+# [[Zheng He]]
+
+=== Directors de cinema i guionistes ===
+
+# [[Ingmar Bergman|Bergman, Ingmar]] 
+# [[Walt Disney|Disney, Walt]] 
+# [[Serguei Eisenstein|Eisenstein, Serguei]]
+# [[Federico Fellini|Fellini, Federico]] 
+# [[Alfred Hitchcock|Hitchcock, Alfred]]{{qualitat}}
+# [[Stanley Kubrick|Kubrick, Stanley]] 
+# [[Akira Kurosawa|Kurosawa, Akira]] 
+# [[Satyajit Ray|Ray, Satyajit]] 
+# [[Steven Spielberg|Spielberg, Steven]]
+
+=== Inventors, científics i matemàtics ===
+
+# '''[[Arquimedes]]'''
+# [[Avicenna]] 
+# [[Tim Berners-Lee|Berners-Lee, Tim]] 
+# '''[[Nicolau Copèrnic|Copèrnic, Nicolau]]''' 
+# [[Marie Curie|Curie, Marie]] 
+# '''[[Charles Robert Darwin|Darwin, Charles]]''' {{Qualitat}}
+# [[Thomas Alva Edison|Edison, Thomas]] 
+# '''[[Albert Einstein|Einstein, Albert]]''' 
+# '''[[Euclides]]'''
+# '''[[Leonhard Euler|Euler, Leonhard]]'''
+# '''[[Michael Faraday|Faraday, Michael]]'''
+# [[Enrico Fermi|Fermi, Enrico]] 
+# [[Leonardo de Pisa|Fibonacci]] 
+# [[Henry Ford|Ford, Henry]] 
+# [[Jean Baptiste Joseph Fourier|Fourier, Joseph]] 
+# [[Galè]] 
+# '''[[Galileo Galilei]]''' 
+# [[Carl Friedrich Gauß|Gauss, Carl Friedrich]] 
+# [[Johannes Gutenberg|Gutenberg, Johannes]]
+# [[James Prescott Joule|Joule, James Prescott]] 
+# '''[[Johannes Kepler|Kepler, Johannes]]''' 
+# [[Muhàmmad ibn Mussa al-Khwarazmí|Khwarazmí, Muhàmmad ibn Mussa al-]] 
+# [[Gottfried Wilhelm Leibniz|Leibniz, Gottfried]] 
+# [[Carl von Linné|Linnaeus, Carolus]] {{Qualitat}}
+# '''[[James Clerk Maxwell|Maxwell, James Clerk]]''' 
+# '''[[Dmitri Mendeléiev|Mendeléiev, Dmitri]]'''
+# '''[[Isaac Newton|Newton, Sir Isaac]]'''
+# [[Louis Pasteur|Pasteur, Louis]]
+# [[Max Planck|Planck, Max]] 
+# [[Ernest Rutherford|Rutherford, Ernest]] 
+# [[Erwin Schrödinger|Schrödinger, Erwin]] 
+# [[Nikola Tesla|Tesla, Nikola]]
+# [[Alan Turing|Turing, Alan]] 
+# '''[[James Watt|Watt, James]]'''
+
+=== Filòsofs, economistes, historiadors i pensadors ===
+
+# '''[[Aristòtil]]''' 
+# [[Confuci]] 
+# [[Simone de Beauvoir|Beauvoir, Simone de]]
+# [[Chanakya]] 
+# [[Noam Chomsky|Chomsky, Noam]]
+# [[René Descartes|Descartes, René]] 
+# [[Sigmund Freud|Freud, Sigmund]] 
+# [[Georg Wilhelm Friedrich Hegel|Hegel, Georg Wilhelm Friedrich]] 
+# [[Ibn Khaldun|Khaldun, Ibn]] 
+# '''[[Immanuel Kant|Kant, Immanuel]]''' 
+# [[John Maynard Keynes|Keynes, John]]
+# [[Laozi]] 
+# [[John Locke|Locke, John]] 
+# [[Nicolau Maquiavel|Maquiavel, Nicolau]] 
+# '''[[Karl Marx|Marx, Karl]]''' 
+# [[Friedrich Wilhelm Nietzsche|Nietzsche, Friedrich]] 
+# '''[[Plató]]''' 
+# [[Jean-Jacques Rousseau|Rousseau, Jean-Jacques]] 
+# [[Jean-Paul Sartre]]
+# [[Sima Qian]] 
+# [[Adam Smith|Smith, Adam]] 
+# [[Sòcrates]] 
+# [[Voltaire]] {{Qualitat}}
+# [[Max Weber|Weber, Max]] 
+# [[Ludwig Wittgenstein|Wittgenstein, Ludwig]]
+# [[Zhu Xi]]
+
+=== Polítics, líders i aristòcrates ===
+
+# [[Akbar el Gran|Akbar]]
+# '''[[Alexandre el Gran]]''' 
+# [[Aśoka]]
+# [[Kemal Atatürk|Atatürk, Kemal]] 
+# '''[[August]]''' 
+# [[David Ben-Gurion|Ben-Gurion, David]] {{Qualitat}}
+# [[Otto von Bismarck|von Bismarck, Otto]] 
+# [[Simón Bolívar|Bolívar, Simón]]
+# '''[[Napoleó Bonaparte|Bonaparte, Napoleó]]''' 
+# '''[[Juli Cèsar|Cèsar, Juli]]''' 
+# '''[[Carlemany]]''' 
+# [[Winston Churchill|Churchill, Winston]]
+# [[Constantí I el Gran]] 
+# [[Cir II el Gran]] 
+# [[Charles de Gaulle|De Gaulle, Charles]] 
+# [[Elisabet I d'Anglaterra]] 
+# [[Mohandas Gandhi|Gandhi, Mohandas]] 
+# '''[[Genguis Khan|Genghis Khan]]''' 
+# [[Che Guevara|Guevara, Che]]
+# '''[[Adolf Hitler|Hitler, Adolf]]'''
+# [[Joana d'Arc]]
+# [[Martin Luther King|King, Martin Luther, Jr.]]
+# '''[[Lenin|Lenin, Vladímir]]'''
+# [[Abraham Lincoln|Lincoln, Abraham]] {{Qualitat}}
+# [[Lluís XIV de França]]
+# [[Rosa Luxemburg|Luxemburg, Rosa]]
+# [[Nelson Rolihlahla Mandela|Mandela, Nelson]] {{Qualitat}}
+# [[Mao Zedong]] 
+# [[Jawaharlal Nehru|Nehru, Jawaharlal]] 
+# [[Kwame Nkrumah|Nkrumah, Kwame]] 
+# [[Pere I de Rússia]] {{AB}} 
+# [[Qin Shi Huangdi]] 
+# [[Franklin Delano Roosevelt|Roosevelt, Franklin D.]]
+# [[Saladí]]{{AB}}
+# '''[[Ióssif Stalin|Stalin, Ióssif]]''' 
+# [[Solimà I el Magnífic]] 
+# [[Sun Yat-sen]] 
+# [[Tamerlà]] 
+# [[Úmar ibn al-Khattab]] 
+# [[George Washington|Washington, George]]
+
+=== Figures religioses ===
+
+# '''[[Abraham]]''' 
+# [[Tomàs d'Aquino|Aquino, Tomàs d']]
+# [[Agustí d'Hipona]] 
+# '''[[Siddharta Gautama|Buda]]'''
+# [[Al-Gazzali]]
+# '''[[Jesús de Natzaret|Jesús]]''' {{Qualitat}}
+# [[Martí Luter|Luter, Martí]] 
+# '''[[Moisès]]'''
+# '''[[Mahoma]]''' 
+# [[Pau de Tars]]
+
+== Filosofia, psicologia ({{PAGESINCATEGORY:Filosofia i psicologia (Els 1000 de META)}}) ==
+
+=== Filosofia ===
+
+# '''[[Filosofia]]''' {{Dels100}} 
+# [[Bellesa]] {{Dels100}} 
+# [[Dialèctica]]
+# [[Ètica]] {{Dels100}} 
+# [[Epistemologia]]
+# [[Feminisme]]
+# [[Lliure albir]]
+# '''[[Coneixement]]'''
+# [[Lògica]]
+# [[Ment]]
+# [[Realitat]] {{Dels100}} 
+# [[Veritat]]
+
+=== Psicologia ===
+
+# '''[[Comportament]]''' {{Dels100}} 
+# '''[[Emoció]]''' 
+# [[Amor]] 
+# [[Psicologia]]
+# '''[[Pensament]]''' {{Dels100}} 
+
+== Religió ({{PAGESINCATEGORY:Religió (Els 1000 de META)}}) ==
+
+=== Religió i espiritualitat ===
+
+# '''[[Déu]]''' {{Dels100}} 
+# '''[[Mitologia]]''' {{Dels100}} 
+# Filosofies
+## [[Ateisme]]
+## [[Fonamentalisme]]
+## [[Materialisme]]
+## [[Monoteisme]]
+## [[Politeisme]]
+# '''[[Ànima]]'''
+# '''[[Religió]]''' {{Qualitat}}{{Dels100}} 
+# Religions
+## '''[[Budisme]]'''
+## '''[[Cristianisme]]'''
+### [[Església Catòlica Romana]]
+## [[Confucianisme]]
+## '''[[Hinduisme]]'''
+### [[Xiva (hinduisme)]] 
+## '''[[Islam]]'''
+### [[Xiisme]]
+## [[Jainisme]]
+## '''[[Judaisme]]'''
+## [[Sikhisme]]
+## [[Daoisme]]
+## [[Zoroastrisme]]
+# Pràctiques espirituals
+## [[Sufisme]] 
+## [[Ioga]] 
+## [[Zen]]
+
+== Ciències socials ({{PAGESINCATEGORY:Societat (Els 1000 de META)}}) ==
+
+# '''[[Societat]]''' {{Dels100}} 
+# [[Civilització]] 
+# '''[[Educació]]''' {{Dels100}} 
+
+=== Família i relacions ===
+
+# '''[[Família]]''' {{Dels100}} 
+# '''[[Nen]]''' 
+# [[Home]] {{Dels100}} 
+# '''[[Matrimoni]]''' 
+# [[Dona]] {{Dels100}} 
+
+=== Política ===
+
+# '''[[Política]]''' {{Dels100}} 
+# [[Anarquisme]] 
+# [[Colonialisme]] 
+# [[Comunisme]]
+# [[Conservadorisme]]
+# [[Democràcia]] {{Dels100}} 
+# [[Dictadura]]
+# [[Diplomàcia]]
+# [[Feixisme]]
+# [[Globalització]] {{Dels100}} 
+# '''[[Govern]]'''
+# [[Ideologia]]
+# [[Imperialisme]]
+# [[Liberalisme]]
+# [[Marxisme]]
+# [[Monarquia]]
+# [[Nacionalisme]]
+# [[República]]
+# [[Socialisme]]
+# '''[[Estat (política)]]'''
+# [[Partit polític]]
+# [[Propaganda]]
+# [[Terrorisme]]
+
+=== Negocis i economia ===
+
+# '''[[Economia]]''' {{Dels100}} 
+# [[Capital (economia)|Capital]]
+# [[Capitalisme]]
+# [[Moneda]]
+## [[Euro]]
+## [[Ien]]
+## [[Dòlar dels Estats Units]]
+# [[Indústria]] {{Dels100}} 
+# '''[[Diner]]'''
+# [[Impost]]
+
+=== Dret ===
+
+# '''[[Dret]]'''
+# [[Constitució]]
+
+=== Organitzacions internacionals ===
+
+# [[Unió Africana]]
+# [[Lliga Àrab]]
+# [[Associació de Nacions del Sud-Est Asiàtic]]
+# [[Comunitat d'Estats Independents]]
+# [[Commonwealth]]
+# [[Unió Europea]] {{Dels100}} 
+# '''[[Creu Roja]]'''
+# [[Organització del Tractat de l'Atlàntic Nord]]
+# [[Premi Nobel]]
+# [[Organització de Països Exportadors de Petroli]]
+# '''[[Organització de les Nacions Unides]]'''
+## [[Tribunal Internacional de Justícia]]
+## [[Fons Monetari Internacional]]
+## [[UNESCO]]
+## [[Declaració Universal dels Drets Humans]]
+## [[Organització Mundial de la Salut]]
+# [[Banc Mundial]]
+# [[Organització Mundial del Comerç]]
+
+=== Guerra i exèrcit ===
+
+# [[Guerra civil]]
+# '''[[Militar]]'''
+# '''[[Pau]]'''
+# '''[[Guerra]]''' {{Dels100}} 
+
+=== Aspectes socials ===
+
+# [[Avortament]]
+# '''[[Pena de mort]]'''
+# '''[[Drets humans]]''' {{Dels100}} 
+# [[Racisme]]
+# '''[[Esclavitud]]'''
+
+== Llengua i literatura ({{PAGESINCATEGORY:Llengua i literatura (Els 1000 de META)}}) ==
+
+# '''[[Llenguatge]]''' {{Dels100}} 
+# Llengües específiques
+## [[Àrab]]
+## [[Bengalí]]
+## [[Xinès]]
+## [[Anglès]]
+## [[Esperanto]] {{Qualitat}}
+## [[Francès]]
+## [[Alemany]]
+## [[Grec]]
+## [[Hebreu]]
+## [[Hindustaní]]
+## [[Japonès]]
+## [[Llatí]]
+## [[Persa]]
+## [[Rus]]
+## [[Sànscrit]]
+## [[Castellà]]
+## [[Suahili]]
+## [[Tàmil]]
+## [[Turc]]
+# [[Lingüística]]
+# [[Gramàtica]]
+# '''[[Paraula]]'''
+## [[Fonema]]
+## [[Síl·laba]]
+# '''[[Sistema d'escriptura]]'''
+## [[Alfabet àrab]]
+## [[Escriptura xinesa]]
+## [[Alfabet ciríl·lic]]
+## [[Alfabet grec]]
+## [[Hangul]] 
+## [[Alfabet llatí]]
+# [[Alfabetisme]]
+# '''[[Traducció]]'''
+# '''[[Literatura]]''' {{Dels100}}
+## [[Prosa]]
+## [[Ficció]]
+### ''[[Les mil i una nits]]''
+## [[Novel·la]]
+### ''[[El somni del pavelló vermell]]'' 
+### ''[[Genji Monogatari]]'' {{Qualitat}}
+## '''[[Poesia]]'''
+### ''[[Epopeia de Gilgamesh]]''
+### ''[[Ilíada]]''
+### ''[[Mahabharata]]''
+### ''[[Shahnameh]]''
+
+== Ciències naturals ({{PAGESINCATEGORY:Ciència (Els 1000 de META)}}) ==
+
+# [[Ciència]]{{Dels100}} 
+# [[Natura]] {{qualitat}}{{Dels100}} 
+
+=== Astronomia ===
+
+# '''[[Astronomia]]'''
+# [[Asteroide]]
+# '''[[Big Bang]]''' {{Qualitat}}{{Dels100}} 
+# [[Forat negre]]
+# [[Cometa]]
+# '''[[Galàxia]]'''
+## [[Via Làctia]]
+# [[Any llum]]
+# '''[[Lluna]]'''
+# '''[[Planeta]]'''
+## '''[[Terra]]''' {{Dels100}} 
+## [[Júpiter (planeta)|Júpiter]]
+## [[Mart (planeta)|Mart]]
+## [[Mercuri (planeta)|Mercuri]] {{Qualitat}}
+## [[Neptú (planeta)|Neptú]] {{Qualitat}}
+## [[Saturn (planeta)|Saturn]] {{Qualitat}}
+## [[Urà (planeta)|Urà]] {{Qualitat}}
+## [[Venus (planeta)|Venus]]
+# [[Sistema solar]] {{Dels100}} 
+# '''[[Estrella]]'''
+## '''[[Sol]]'''
+# [[Univers]]{{Dels100}}
+
+=== Biologia ===
+
+# '''[[Biologia]]'''
+# Materials biològics
+## '''[[ADN]]''' {{qualitat}}
+## [[Enzim]] {{qualitat}}
+## [[Proteïna]]
+# [[Botànica]]
+# '''[[Mort]]'''
+## [[Suïcidi]]
+# [[Ecologia]]
+## [[Espècie amenaçada]]
+# [[Domesticació]] {{Qualitat}} {{Dels100}} 
+# '''[[Vida]]''' {{Dels100}} 
+# [[Classificació científica]]
+## [[Espècie]]
+
+==== Processos biològics ====
+
+# '''[[Metabolisme]]''' {{Qualitat}}
+## [[Digestió]]
+## '''[[Fotosíntesi]]'''
+## [[Respiració]]
+# '''[[Evolució]]''' {{Qualitat}}
+# '''[[Reproducció]]'''
+## [[Embaràs]]
+## [[Sexe]] {{Dels100}} 
+
+==== Anatomia ====
+
+# '''[[Anatomia]]'''
+# '''[[Cèl·lula]]''' {{Qualitat}}
+# [[Sistema circulatori]]
+## [[Sang]] {{Dels100}} 
+## [[Cor]]
+# [[Sistema endocrí]]
+# [[Aparell digestiu]]
+## [[Intestí gros]]
+## [[Intestí prim]]
+## [[Fetge]]
+# Sistema integumentari
+## [[Mamella]]
+## [[Pell]]
+# [[Múscul]]
+# [[Sistema nerviós]]
+## [[Cervell]] {{Dels100}} 
+## [[Sistema sensorial]]
+### [[Orella]]
+### [[Nas]]
+### [[Ull]]
+# [[Sistema reproductor]]
+# [[Sistema respiratori]]
+## [[Pulmó]]
+# [[Esquelet]]
+# [[Sistema immunitari]]
+
+==== Salut i medicina ====
+
+# '''[[Medicina]]'''
+# [[Addicció]]
+# [[Malaltia d'Alzheimer]]
+# '''[[Càncer]]'''
+# [[Còlera]]
+# [[Refredat]]
+# [[Odontologia]]
+# [[Discapacitat]]
+## [[Ceguesa]]
+## [[Sordesa]]
+## [[Malaltia mental]]
+# '''[[Malaltia]]'''
+# [[Medicament]]
+# [[Etanol]]
+# [[Nicotina]]
+## [[Tabac]]
+# '''[[Salut]]''' {{Dels100}}
+# [[Cefalàlgia]]
+# [[Infart miocardíac]]
+# '''[[Malària]]'''
+# [[Malnutrició]]
+# [[Obesitat]]
+# [[Pandèmia]]
+# [[Antibiòtic]] 
+## [[Penicil·lina]] {{Qualitat}}
+# [[Pneumònia]]
+# [[Poliomielitis]]
+# [[Malaltia de transmissió sexual]]
+## '''[[Sida]]'''
+# [[Accident vascular cerebral]] 
+# [[Tuberculosi]] {{Qualitat}}
+# [[Diabetis mellitus]]
+# '''[[Virus]]''' {{Qualitat}}
+## [[Grip]]
+## [[Verola]]
+
+==== Organismes ====
+
+# '''[[Organisme]]'''
+# '''[[Animal]]'''
+## [[Artròpode]]
+### '''[[Insecte]]'''
+#### [[Formiga]] {{Qualitat}}
+#### [[Antòfil]]
+#### [[Mosquit]]
+### [[Aranya]]
+## [[Cordat]]
+### '''[[Amfibi]]'''
+#### [[Anur]]
+### '''[[Ocell]]''' {{Qualitat}}
+#### [[Gall]]
+#### [[Colúmbid]]
+### '''[[Peix]]'''
+#### [[Tauró]]
+### '''[[Mamífer]]''' {{qualitat}}
+#### [[Camell]]
+#### [[Gat]] {{qualitat}}
+#### [[Bou]]
+#### [[Gos]] {{qualitat}}
+#### [[Elefant]]
+#### [[Cavall]]
+#### [[Ovella]] {{qualitat}}
+#### [[Rosegador]] {{qualitat}}
+#### [[Porc]]
+#### [[Primat]] {{qualitat}}
+##### '''[[Humà]]''' {{AB}}{{Dels100}} 
+#### [[Cetaci|Balenes i dofins]] {{Qualitat}}
+### '''[[Rèptil]]'''
+#### [[Dinosaure]] {{qualitat}}
+#### [[Serp]]
+# [[Arqueobacteri]] {{qualitat}}
+# '''[[Eubacteri]]''' {{qualitat}}
+# '''[[Fong]]'''
+# '''[[Planta]]'''
+## [[Flor]]
+## [[Arbre]]
+# [[Protist]]
+
+=== Química ===
+
+# '''[[Química]]'''
+# [[Bioquímica]]
+# [[Compost químic]]
+## [[Àcid]]
+## [[Base química|Base]]
+## [[Sal (química)|Sal]]
+# '''[[Element químic]]'''
+## '''[[Taula periòdica]]''' {{Dels100}} 
+## [[Alumini]]
+## [[Carboni]]
+## [[Coure]]
+## '''[[Or]]'''
+## [[Heli]]
+## '''[[Hidrogen]]'''
+## '''[[Ferro]]'''
+## [[Neó]]
+## [[Nitrogen]]
+## '''[[Oxigen]]'''
+## [[Plata]]
+## [[Estany (element)|Estany]]
+## [[Zinc]]
+# [[Química orgànica]]
+## [[Alcohol]]
+## [[Glúcid]]
+## [[Hormona]]
+## [[Lípid]]
+# '''[[Molècula]]'''
+
+=== Temps, clima i geologia ===
+
+# [[Allau]]
+# '''[[Clima]]''' {{Dels100}} 
+## [[El Niño]]
+## [[Escalfament global]]
+# [[Terratrèmol]]
+# '''[[Geologia]]'''
+## '''[[Mineral]]'''
+### [[Diamant]]
+## [[Tectònica de plaques]]
+## [[Roca]]
+# [[Catàstrofe natural]]
+## [[Tsunami]]
+# [[Volcà]]
+# '''[[Temps atmosfèric]]'''
+## [[Núvol]]
+## [[Inundació]]
+## [[Pluja]]
+## [[Neu]]
+## [[Tornado]]
+## [[Cicló tropical|Cicló]]
+## [[Vent]] {{Qualitat}}
+
+=== Física ===
+
+# '''[[Física]]'''
+# [[Acceleració]]
+# '''[[Àtom]]'''{{Dels100}} 
+# '''[[Energia]]'''{{Dels100}} 
+## [[Conservació de l'energia]]
+# [[Radiació electromagnètica]]
+## [[Infraroig]]
+## [[Ultraviolat]]
+## [[Llum]]
+### '''[[Color]]'''{{Dels100}} 
+# [[Mecànica clàssica]]
+# '''[[Força]]'''
+## [[Electromagnetisme]]
+### [[Camp magnètic]]
+## [[Gravetat]]
+## [[Força nuclear forta]]
+## [[Força nuclear feble]] 
+# [[Imant]]
+# '''[[Massa]]''' 
+# '''[[Metall]]'''
+## [[Acer]]
+# [[Fissió nuclear]] 
+# '''[[Estat de la matèria]]'''
+## [[Gas]]
+## [[Líquid]]
+## [[Plasma (estat de la matèria)|Plasma]]
+## [[Sòlid]]
+# [[Mecànica quàntica]]
+# [[Radioactivitat]]
+# [[Relativitat general]]
+# [[Relativitat especial]]
+# [[Semiconductor]]
+# '''[[So]]'''
+# '''[[Velocitat]]'''
+## [[Velocitat de la llum]]
+# [[Temperatura]]
+# '''[[Temps]]''' {{Dels100}} 
+# [[Termodinàmica]]
+# [[Buit]]
+
+=== Mesura i unitats ===
+
+# '''[[Mesura]]'''
+# [[Joule]] 
+# [[Quilogram]]
+# [[Litre]] 
+# [[Metre]] 
+# [[Sistema Internacional d'Unitats]] 
+# [[Segon]] 
+# [[Watt]]
+
+=== Temps ===
+
+# '''[[Calendari]]'''
+## [[Calendari gregorià]]
+# [[Segle]]
+# '''[[Dia]]'''
+# '''[[Mes]]'''
+# [[Zona horària]]
+# [[Setmana]]
+# '''[[Any]]'''
+
+=== Aliments ===
+
+# [[Aliment]] {{Dels100}} 
+# [[Pa]] {{Qualitat}}
+# [[Cereal]]
+## [[Ordi]]
+## [[Dacsa]]
+## [[Civada]]
+## [[Arròs]]
+## [[Sègol]]
+## [[Sorgo]]
+## [[Blat]]
+# [[Formatge]]
+# [[Xocolata]]
+# [[Mel]]
+# [[Fruit]]
+## [[Poma]]
+## [[Banana]]
+## [[Raïm (fruit)]]
+## [[Soia]]
+## [[Llimoner]]
+## [[Núcula]]
+# [[Carn]]
+# [[Sucre]]
+# [[Verdura]]
+## [[Patatera]]
+
+==== Begudes ====
+
+# [[Cervesa]] {{Qualitat}}
+# [[Vi]]
+# [[Cafè]]
+# '''[[Llet]]''' {{Qualitat}}
+# [[Te]]
+# '''[[Aigua]]''' {{Dels100}} 
+# [[Suc]]
+
+=== Matemàtiques ===
+
+# [[Matemàtiques]] 
+# [[Àlgebra]]
+## [[Logaritme]]
+## [[Àlgebra lineal]] 
+# [[Aritmètica]] 
+# [[Sistema de coordenades]] 
+# [[Anàlisi matemàtica]] 
+## [[Equació diferencial]]
+## [[Anàlisi numèrica]]
+# [[Equació]]
+# [[Funció matemàtica]]
+# [[Geometria]] 
+## [[Angle]] 
+## [[Àrea]] 
+## [[Nombre π|Pi]] {{Qualitat}}
+## [[Teorema de Pitàgores]] 
+# [[Demostració matemàtica]] 
+# [[Nombre]]{{AB}}{{Dels100}} 
+## [[Nombre complex]] 
+## [[Teoria de nombres]]
+# [[Infinit]] 
+# [[Teoria de conjunts]]
+# [[Estadística]] 
+# [[Simetria]]
+# [[Trigonometria]]
+
+== Tecnologia ({{PAGESINCATEGORY:Tecnologia (Els 1000 de META)}}) ==
+
+# '''[[Tecnologia]]''' {{Dels100}} 
+# [[Biotecnologia]]
+# [[Roba]]
+## [[Cotó]]
+# [[Enginyeria]]
+## [[Màquina]]
+## [[Robot]]
+## [[Cargol (enginyeria)|Cargol]]
+## [[Roda]]
+# '''[[Agricultura]]''' {{Dels100}} 
+## [[Regadiu]]
+## [[Arada]]
+# [[Metal·lúrgia]]
+# [[Nanotecnologia]]
+
+=== Comunicació ===
+
+# '''[[Comunicació]]'''
+# [[Llibre]] {{Dels100}} 
+# '''[[Informació]]''' {{Dels100}} 
+## [[Enciclopèdia]]
+# [[Periodisme]]
+## [[Premsa]]
+## [[Mitjà de comunicació de massa]] {{Dels100}} 
+# [[Impressió]]
+# [[Telèfon]]
+
+=== Electrònica ===
+
+# [[Electrònica]] 
+## [[Corrent elèctric]] 
+## [[Freqüència]]
+# Components
+## [[Condensador]] 
+## [[Inductor]] 
+## [[Transistor]] 
+## [[Díode]] 
+## [[Resistor|Resistència elèctrica]]
+## [[Transformador]]
+
+==== Ordinadors i Internet ====
+
+# [[Ordinador]]
+## [[Disc dur]]
+## [[Unitat Central de Procés]]
+## [[RAM]]
+# [[Intel·ligència artificial]]
+# [[Tecnologies de la Informació i la Comunicació]] {{Dels100}} 
+## [[Algorisme]]
+# [[Internet]]
+## [[Correu electrònic]]
+## [[World Wide Web]] {{Dels100}} 
+# [[Sistema operatiu]]
+# [[Llenguatge de programació]]
+# [[Programari]]
+
+=== Energia i combustibles ===
+
+# [[Energia renovable]] {{Dels100}} 
+# [[Electricitat]] {{Dels100}} 
+## [[Energia nuclear]]
+# [[Combustible fòssil]]
+# [[Motor de combustió interna]]
+# [[Màquina de vapor]]
+# [[Foc]]
+
+=== Materials ===
+# [[Vidre]]
+# [[Paper]]
+# [[Plàstic]] {{Dels100}} 
+# [[Fusta]]
+
+=== Transport ===
+
+# [[Transport]] {{Dels100}} 
+# [[Aeronau]]
+# [[Automòbil]]
+# [[Bicicleta]]
+# [[Submarí]]
+# [[Vaixell]]
+# [[Tren]]
+
+=== Armes ===
+
+# [[Arma]] {{Dels100}} 
+## [[Espasa]]
+## [[Arma de foc]]
+### [[Metralladora]]
+## [[Arma nuclear]]
+# [[Tanc]] {{Qualitat}}
+# [[Explosiu]]
+## [[Pólvora]]
+
+== Arts i oci ({{PAGESINCATEGORY:Cultura i oci (Els 1000 de META)}})==
+
+# '''[[Cultura]]''' {{Dels100}} 
+# '''[[Art]]''' {{Dels100}} {{Qualitat}}
+## [[Còmic]]
+## [[Pintura]] {{Dels100}} {{Qualitat}}
+## [[Fotografia]] 
+## [[Escultura]] {{Dels100}} {{Qualitat}}
+### [[Terrissa]] {{Qualitat}}
+# '''[[Dansa]]''' {{Dels100}} 
+# [[Moda]] {{Dels100}} 
+# '''[[Teatre]]''' 
+# [[Cal·ligrafia]] 
+
+=== Arquitectura i enginyeria civil ===
+
+# '''[[Arquitectura]]''' {{Dels100}} 
+# [[Arc (arquitectura)|Arc]] 
+# [[Pont]] 
+# [[Canal navegable]]
+# [[Presa d'aigua]]
+# [[Cúpula]]{{AB}}
+# '''[[Casa]]'''
+# Estructures
+## [[Presa de les Tres Gorges]]
+## [[Angkor Wat]]
+## [[Colosseu]] {{Qualitat}}
+## [[Gran Muralla Xinesa]] 
+## [[Torre Eiffel]]
+## [[Empire State Building]] 
+## [[Santa Sofia (Istanbul)|Santa Sofia]] 
+## [[Partenó]]
+## [[Necròpolis de Gizeh]] {{Qualitat}}
+## [[Basílica de Sant Pere del Vaticà]] 
+## [[Estàtua de la Llibertat]] 
+## [[Taj Mahal]] {{Qualitat}}
+# [[Piràmide (arquitectura)|Piràmide]] {{Qualitat}}
+# [[Torre]]
+
+=== Pel·lícules, ràdio i televisió ===
+
+# '''[[Pel·lícula]]'''
+## [[Animació]]
+### [[Anime]] {{Qualitat}}
+# '''[[Ràdio]]'''
+# '''[[Televisió]]''' {{Dels100}} 
+
+=== Música ===
+
+# '''[[Música]]''' {{Dels100}} 
+# [[Cançó]]
+# Gèneres musicals
+## [[Blues]]
+## [[Música clàssica]]
+### [[Òpera]]
+### [[Simfonia]]
+## [[Música electrònica]]
+## [[Flamenc (música)]] 
+## [[Hip hop]]
+## [[Jazz]]
+## [[Reggae]]
+## [[Música rock]]
+## [[Samba (música)]] 
+# Instruments musicals
+## [[Tambor]]
+## [[Flauta]]
+## [[Guitarra]]
+## [[Piano]]
+## [[Trompeta]]
+## [[Violí]]
+
+=== Jocs ===
+
+# '''[[Joc]]''' {{Dels100}} 
+## [[Backgammon]]
+## [[Escacs]]
+## [[Go]]
+# [[Joc d'aposta]]
+# [[Art marcial]]
+## [[Karate]]
+## [[Judo]]
+# [[Jocs Olímpics]]
+# '''[[Esport]]''' {{Dels100}} 
+## [[Atletisme]] {{AB}}
+## [[Automobilisme]] 
+## [[Beisbol]]
+## [[Basquetbol]]
+## [[Criquet]]
+## [[Futbol]]
+## [[Golf]]
+## [[Rugbi]]
+## [[Tennis]]
+# '''[[Joguet]]'''
+
+== Història i geografia ({{PAGESINCATEGORY: Història i geografia (Els 1000 de META)}}) ==
+
+=== Història ===
+
+# '''[[Història]]''' 
+
+==== Prehistòria i món antic ====
+
+# [[Prehistòria]] {{Dels100}} 
+# [[Edat de pedra]]
+# [[Edat del bronze|Edat de bronze]] 
+# [[Edat del ferro]]
+# [[Mesopotàmia]] 
+# [[Antic Egipte]] {{qualitat}}
+# [[Antiga Grècia]] {{Dels100}} 
+# [[Imperi Romà]] {{Dels100}}
+# [[Dinastia Han]] 
+# [[Imperi Gupta]] 
+
+==== Edat mitjana i edat moderna ====
+
+# [[Abbàssida]] 
+# [[Il·lustració]]
+# [[Civilització asteca]] {{AB}}
+# [[Imperi Bizantí]]
+# [[Croades]] 
+# [[Sacre Imperi Romanogermànic]] 
+# [[Guerra dels Cent Anys]] 
+# [[Edat mitjana]] {{Qualitat}} {{Dels100}} 
+# [[Imperi Mongol]] 
+# [[Dinastia Ming]] 
+# [[Imperi Otomà]]
+# [[Reforma Protestant]] 
+# [[Guerra dels Trenta Anys]]
+# [[Renaixement]] 
+# [[Dinastia Tang]]
+# [[Víking]]
+
+==== Edat contemporània ====
+
+# [[Guerra civil dels Estats Units]] 
+# [[Apartheid]] 
+# [[Imperi britànic|Imperi Britànic]] 
+# '''[[Guerra freda]]'''
+# [[Revolució Cultural]] 
+# '''[[Revolució Francesa]]''' {{AB}}{{Dels100}}
+# [[Gran depressió]]
+# [[Holocaust]] 
+# '''[[Revolució Industrial]]''' {{Qualitat}}{{Dels100}}
+# [[Tercer Reich]] 
+# [[Restauració Meiji]] 
+# [[Revolució Russa]]
+# [[Dinastia Qing]] 
+# [[Tractat de Versalles]] 
+# [[Guerra del Vietnam|Guerra de Vietnam]]
+# '''[[Primera Guerra Mundial]]''' 
+# '''[[Segona Guerra Mundial]]''' {{AB}}{{Dels100}}
+
+=== Geografia ===
+
+# '''[[Geografia]]''' {{Dels100}}
+# [[Muntanya]]
+# '''[[Ciutat]]''' {{Dels100}}
+# '''[[Continent]]'''
+# [[Desert]]
+# [[Pol Nord]]
+# '''[[Oceà]]'''
+# [[Bosc]]
+# [[Riu]]
+# '''[[Mar]]''' {{Dels100}} 
+# [[Pol Sud]]
+
+==== Continents i principals regions ====
+
+# '''[[Àfrica]]'''
+# '''[[Antàrtida]]'''
+# '''[[Àsia]]'''
+# '''[[Europa]]'''
+# [[Orient Pròxim]]
+# '''[[Amèrica del Nord]]'''
+# '''[[Oceania]]'''
+# '''[[Sud-amèrica]]'''
+
+==== Països ====
+
+Caldrien articles de la majoria o de tots els 243 països llistats a [[:en:List_of_countries|List of countries]]. Tot i així, alguns dels països que cal prioritzar per a les viquipèdies més petites, són aquests països:
+# [[Afganistan]]
+# [[Algèria]]
+# [[Argentina]]
+# [[Austràlia]]
+# [[Àustria]]
+# [[Bangla Desh]]
+# '''[[Brasil]]'''
+# [[Canadà]]
+# '''[[República Popular de la Xina]]'''
+# [[Cuba]]
+# [[República Democràtica del Congo]]
+# [[Egipte]]
+# [[Etiòpia]]
+# '''[[França]]'''
+# '''[[Alemanya]]'''
+# '''[[Índia]]'''
+# [[Indonèsia]]
+# [[Iran]]
+# [[Iraq]]
+# '''[[Israel]]'''
+# [[Itàlia]]
+# '''[[Japó]]''' {{qualitat}}
+# [[Mèxic]] {{qualitat}}
+# [[Països Baixos]]
+# [[Nigèria]]
+# [[Nova Zelanda]]
+# [[Pakistan]]
+# [[Polònia]]
+# '''[[Rússia]]'''
+# '''[[Portugal]]'''
+# [[Aràbia Saudita]]
+# [[Sud-àfrica]]
+# [[Corea del Sud]]
+# '''[[Espanya]]'''
+# [[Sudan]]
+# [[Suïssa]]
+# [[Tanzània]]
+# [[Tailàndia]]
+# [[Turquia]]
+# [[Ucraïna]]
+# [[Dubai]]
+# '''[[Regne Unit]]'''
+# '''[[Estats Units d'Amèrica]]'''{{AB}}
+# [[Ciutat del Vaticà]]
+# [[Veneçuela]]
+# [[Vietnam]]
+
+==== Ciutats ====
+
+# [[Amsterdam]] 
+# [[Atenes]] 
+# [[Bagdad]] 
+# [[Bangkok]] 
+# [[Pequín|Beijing]] 
+# '''[[Berlín]]''' 
+# [[Bogotà]] 
+# [[Regió de Brussel·les-Capital]]
+# [[Buenos Aires]] 
+# [[El Caire]]
+# [[Ciutat del Cap]] 
+# [[Damasc]] 
+# [[Delhi]] 
+# [[Dhaka]] 
+# [[Hong Kong]] 
+# [[Istanbul]] 
+# [[Jakarta]] 
+# '''[[Jerusalem]]''' 
+# [[Karachi]] 
+# [[Kinshasa]] 
+# [[Calcuta]] 
+# [[Lagos]] 
+# [[Los Angeles]] 
+# '''[[Londres]]''' 
+# [[La Meca]] 
+# [[Madrid]] 
+# [[Ciutat de Mèxic]] 
+# [[Moscou]] 
+# [[Bombai|Mumbai]] 
+# [[Nairobi]] 
+# '''[[Nova York]]''' 
+# '''[[París]]''' 
+# [[Rio de Janeiro]] 
+# '''[[Roma]]''' 
+# [[São Paulo]] 
+# [[Sant Petersburg]] 
+# [[Seül]] 
+# [[Xangai]] 
+# [[Singapur]] 
+# [[Sydney]] 
+# [[Teheran]] 
+# '''[[Tòquio|Tokyo]]''' 
+# [[Viena]] 
+# [[Washington DC]]
+
+==== Aigua ====
+
+# '''[[Riu Amazones]]''' 
+# [[Oceà Àrtic]] 
+# '''[[Oceà Atlàntic]]'''
+# [[Mar Bàltica]] 
+# [[Mar Negra]] 
+# [[Mar Carib]] 
+# [[Mar Càspia]]
+# [[Riu Congo]] 
+# [[Danubi]] 
+# [[Riu Groc]] 
+# [[Ganges]] 
+# [[Gran Barrera de Corall]] 
+# [[Grans Llacs d'Amèrica del Nord|Grans Llacs]] 
+# '''[[Oceà Índic]]'''
+# [[Indus]] 
+# [[Baikal]] 
+# [[Llac Tanganyika]]
+# [[Llac Victòria]] 
+# [[Mar Mediterrània]] {{Dels100}} 
+# [[Riu Mississipí]] 
+# [[Riu Níger]]
+# '''[[Nil]]''' 
+# [[Mar del Nord]] 
+# '''[[Oceà Pacífic]]''' 
+# [[Canal de Panamà]] 
+# [[Rin]] 
+# [[Canal de Suez]]
+# [[Oceà Antàrtic]] 
+# [[Volga]] 
+# [[Iang-Tsé]]
+
+==== Muntanyes, valls i deserts ====
+
+# [[Alps]] 
+# [[Andes]] 
+# '''[[Himàlaia]]''' 
+# [[Kilimanjaro]] 
+# [[Everest]] 
+# [[Muntanyes Rocalloses]]
+# '''[[Sàhara]]'''
+
+!--acaba llista--
+
+== Vegeu també ==
+*[[Viquipèdia:Els 100 articles fonamentals]] {{Dels100}}
+*[[Viquipèdia:Els 1000 articles fonamentals]] {{Els1000}}
+*[[Viquiprojecte:Els 1.000]]
+*[[:Categoria:1.000 de totes les llengües (Meta)]]
+
+== Símbols de valoració ==
+* {{Qualitat}} nowiki{{Qualitat}}/nowiki – Article de qualitat
+* {{AB}} nowiki{{AB}}/nowiki – Article bo
+* {{Dels100}} nowiki{{Dels100}}/nowiki - Article dels 100
+
+== Notes ==
+{{Referències}}
+
+!--- smallAquest article en altres llengües:
+... 
+[[Meta:Interlanguage links|''Tradueix aquesta pàgina!'']]/small ---
+
+[[Categoria:Articles classificats|{{PAGENAME}}]]</text>
+      <sha1>4b4wvmdx4u9dzkw04bqu204vyc1w94x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

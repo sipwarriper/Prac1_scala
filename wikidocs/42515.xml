@@ -1,0 +1,90 @@
+<page>
+    <title>Inflació</title>
+    <ns>0</ns>
+    <id>42515</id>
+    <revision>
+      <id>13813441</id>
+      <parentid>13617169</parentid>
+      <timestamp>2014-07-13T16:58:10Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}} i {{Projectes germans}} que enllaça amb [[commons:category:Inflation]]</comment>
+      <text>[[Fitxer:World Inflation rate 2010.png|thumb|350px|Taxes d'inflació arreu del món de l'any 2010, segons dades del CIA Factbook]]
+La '''inflació''' és un fenomen [[economia|econòmic]] que es caracteritza per una pujada generalitzada dels preus. Se sol associar a una emissió excessiva de [[diner|moneda]] respecte a l'oferta de béns i serveis. Però aquesta interpretació només respon a una part dels processos inflacionaris, si bé aquests són precisament els més extrems i persistents. Aquesta pujada relativa dels preus respecte a la moneda és sinònim d'una pèrdua del seu valor.
+
+El procés contrari a la inflació (és a dir, quan aquesta torna negativa) és la [[deflació]].
+
+== Causes ==
+
+La fórmula general del nivell preus, elaborada per [[Irving Fisher]], és:
+
+mathP = \frac{M V + M' V'}{T}/math
+
+On mathP/math és l'índex de preus, mathM/math la quantitat de diner circulant, mathV/math la seva velocitat de circulació, mathM'/math el volum de depòsits bancaris i mathV'/math el ritme al que aquests es gasten. mathT/math és el volum de transaccions o, aproximadament, el nivell de comerç.
+
+Cal destacar que l'[[Índex de Preus de Consum]] (IPC) no es calcula utilitzant aquesta fórmula (per impossibilitat tècnica), sinó mitjançant una ''cistella de la compra'' que inclou una sèrie de productes, dels quals es mesura el preu nominal mitjà.
+
+L'anàlisi de l'anterior fórmula permet elaborar els models de les principals teories de la inflació:
+
+* D'una banda, la interpretació [[monetarisme|monetarista]] de [[Milton Friedman]], considera que en tot moment la inflació és causada per un excés relatiu de moneda, i per tant responsabilitat de la [[política monetària]] i [[política financera|financera]] de l'[[Estat]]. És a dir, simplifiquen la fórmula a mathP = M / Q/math, on mathM/math és la massa monetària existent i mathQ/math la quantitat de béns i serveis oferts. 
+
+* Els [[Economia postkeynesiana|post-keynesians]] distingeixen tres tipus d'inflació, que es poden complementar els uns als altres. Un és causat per un increment global de la [[demanda agregada]], un per la reducció de l'oferta agregada i finalment una de caràcter estructural: les [[espiral salaris-preus|espirals salaris-preus]]. Si bé els dos primers casos podrien semblar coincidir amb la visió monetarista, cal dir que això no és així necessàriament, ja que per exemple, un increment de l'activitat productiva podria ocasionar aquest excés de demanda.
+
+* Alguns corrents de pensament no diferencien entre la moneda i altres mercaderies, i per tant consideren que el seu valor està subjecte a la llei de l'oferta i la demanda. Per tant, consideren que mentre hi hagi demanda, es pot emetre més moneda. Aquesta demanda pot ser ocasionada per l'oferiment de béns i serveis o per l'atresorament (mathM' V'/math negatiu).
+
+Cal dir que, a nivell profund, aquestes visions no són més que diferents òptiques sobre el mateix, i conegut, fenomen.
+
+== Conseqüències ==
+[[Fitxer:Inflacao.PNG|thumb|Inflació al Brasil 1930-2005]]
+No existeix consens sobre les conseqüències de la inflació sobre l'economia, i de fet aquestes depenen de l'origen d'aquesta inflació. Però en general es coincideix en què té un efecte expansiu a curt termini i depressiu a llarg termini, si bé factors psicològics (com la confiança) poden distorsionar completament aquestes previsions.
+
+Quant a la distribució de la riquesa, els efectes de la inflació són un desplaçament dels que tenen uns ingressos fixos als que en tenen uns de més flexibles. Tradicionalment, això ha coincidit amb els treballadors assalariats i pensionistes, que perdien [[poder adquisitiu]], i empreses, que augmentaven els seus guanys. La inflació també suposa un traspassament de riquesa dels [[creditor]]s als [[deutor]]s, sempre que aquest deute no es revisi amb l'IPC. 
+
+Als sistemes fiscals progressius, la inflació també pot suposar una pujada dels [[impost]]os. Tanmateix, quan la inflació és producte d'una emissió excessiva de diners, amb l'objectiu de l'Estat de finançar-se, es pot considerar com a un impost ocult, ja que es traspassa riquesa del [[sector privat]] al [[sector públic]].
+
+La inflació també té una sèrie de costs externs, ja que s'han d'actualitzar els preus amb més freqüència, i perquè existeix una tendència a evitar l'atresorament de diners (ja que aquests van perdent el seu [[valor (economia)|valor]]), cosa que implica un ús menys racional dels mateixos i, per exemple, més viatges al banc per fer ingressos (si el banc actualitza amb l'IPC).
+
+== Lluita contra la inflació ==
+
+Els efectes negatius ocasionats per les grans inflacions han fet que molts economistes hagin estudiat formes de lluitar contra ella. Algunes d'aquestes propostes s'han aplicat de forma draconiana, arribant a l'extrem de produir greus [[deflació|deflacions]] i el consegüent estancament de l'economia. Això succeeix especialment quan en comptes d'atendre a càlculs econòmics, s'actua per [[ideologia]]. 
+
+* L''''augment dels tipus d'interès''' ocasiona un fluxe de diners circulants cap als dipòsits bancaris, i d'aquests cap al [[banc central]], retirant l'excés de moneda. Aquesta mesura està específicament orientada cap al [[sector privat]].
+* Amb la '''política fiscal''', reduint el [[dèficit públic]] o augmentant el [[superàvit públic|superàvit]]. Això suposa que el [[sector públic]] retiri (o injecti menys) moneda al conjunt de l'economia.
+* Els '''sostres de preus''' suposen una mesura d'intervencionisme directe al mercat, que desvirtuen la fluctuació dels preus. Sol ser utilitzada només a casos d'emergència, per evitar grans desordres econòmics, i a curt termini. 
+* L''''emissió qualitativa''' de moneda, proposada per [[Walter Beveraggi]], considera que el problema no és tant la quantitat de moneda respecte a producció, sinó en què s'està utilitzant aquesta. Per tant proposa que a processos inflacionaris es retiri moneda que es dedicaria al consum (o a una gran demanda), augmentant-ne la que es dedica a l'augment de la producció (de l'oferta de béns i serveis). A moments de gran inflació, estaria justificat un augment de l'emissió de moneda, sempre que aquesta s'inverteixi a una producció de béns i serveis equivalents o superiors en valor.
+
+== Inflacions històriques ==
+
+Alguns processos inflacionaris han tingut un impacte històric especialment fort. Aquest és el cas, per exemple, de les grans [[hiperinflacions dels anys 20]] a [[Europa]] central (especialment [[Alemanya]] i [[Àustria]]), on una combinació de la falta d'experiència en l'ús de diner fiduciari (després de la caiguda del [[patró or]]), la necessitat de finançament públic per a pagar els deutes de la guerra i el descontrol d'aquest procés varen reduir el valor dels bitllets al del paper on estaven impresos. N'és cèlebre l'exemple de mestresses que anaven amb carros plens de bitllets a comprar pa.
+
+També destaca la crisi ocasionada als anys 70 quan l'emissió excessiva de [[Dòlar dels Estats Units|dòlars]] dels [[Estats Units]], per finançar la [[guerra de Vietnam]], juntament amb la [[Crisi del Petroli]], suposaren la destrucció de l'ordre econòmic de postguerra.
+
+La majoria de les grans [[guerres]] i [[revolució|revolucions]] també vénen acompanyades de processos inflacionaris, ja sigui per les necessitats de finançament, ja per la destrucció del teixit productiu o bé per una pèrdua de confiança en el futur (i per tant, en la moneda). Un cas famós és el de la [[Reichsmark]] a finals de la [[Segona Guerra Mundial]], que no valia res sense la cartilla de racionament i que, finalment, fou substituïda per cigarrets. El mateix succeí a la [[Guerra Civil Americana]], la [[Revolució Russa]], etc.
+
+== Vegeu també ==
+{{Projectes germans|commonscat=Inflation}}
+* [[Diner]]
+* [[Deflació]]
+* [[Estagflació]]
+* [[Evolució dels preus de l'ATM]]
+* [[Estabilitat de preus]]
+* [[Impost inflació]]
+
+== Bibliografia ==
+
+* [[John Kenneth Galbraith]], ''Money: Whence It Came, Where It Went'', 1975.
+
+
+{{ORDENA:Inflacio}}	!--ORDENA generat per bot--
+{{Autoritat}}
+{{Enllaç AB|zh}}
+
+[[Categoria:Macroeconomia]]</text>
+      <sha1>jowkh7ewz94wesbjcyfu1tu004gmxbq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

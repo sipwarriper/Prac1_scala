@@ -1,0 +1,460 @@
+<page>
+    <title>Tau Ceti</title>
+    <ns>0</ns>
+    <id>1052855</id>
+    <revision>
+      <id>14017982</id>
+      <parentid>13964366</parentid>
+      <timestamp>2014-09-07T15:00:27Z</timestamp>
+      <contributor>
+        <username>Manlleus</username>
+        <id>3761</id>
+      </contributor>
+      <comment>/* Investigacions planetària i vida */</comment>
+      <text>{{Starbox begin
+| name=Tau Ceti }}
+{{Starbox image
+| image=div style=position: relative[[File:Cetus constellation map.svg|250px|Ubicació de Tau Ceti]]
+     div style=position: absolute; left:46.4%; top:68.2%[[Fitxer:Cercle rouge 100%.svg|12px|Tau Ceti]]/div
+     /div !--http://meta.wikimedia.org/wiki/Help:Composite_images --
+| caption=Tau Ceti (encerclat) al sud de la constel·lació de la Balena. }}
+{{Starbox image
+| image=[[Fitxer:Dss.01.44.04.1-15.56.14.9.jpg|250px|L'estrella, observada pel visible]]
+| caption=L'estrella observada pel [[Espectre visible|canal]] [[llum visible|visible]] ([[European Southern Observatory|ESO]] Online Digitized Sky Survey) }}
+{{Starbox observe
+| epoch=J2000
+| constell=[[Constel·lació de la Balena|Balena]]
+| pronounce=/ˈtau ceti/
+| ra={{RA|01|44|04.0829}}ref name=SIMBAD{{ref-web| url=http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=tau+ceti |obra=SIMBAD
+ |títol=LHS 146 – High proper-motion Star 
+ |editor=Centre de Données astronomiques de Strasbourg
+ |consulta=14-01-2009 |llengua=anglès }}/ref
+| dec={{DEC|−15|56|14.928}}ref name=SIMBAD/
+| appmag_v={{nowrap|3,50 ± 0,01}}ref name=aaa494/ }}
+{{Starbox character
+| class=G8,5 Vref name=SIMBAD/
+| b-v=+0,72ref name=SIMBAD/
+| u-b=+0,22ref name=SIMBAD/
+| variable=Cap }}
+{{Starbox astrometry
+| radial_v=−16,4ref name=SIMBAD/
+| prop_mo_ra=−1721,94ref name=SIMBAD/
+| prop_mo_dec=854,17ref name=SIMBAD/
+| parallax=273,96
+| distance=11,905 ± 0,007 [[any llum|al]]
+| absmag_v={{nowrap|5.69 ± 0.01}}ref name=aaa494/ }}
+{{Starbox detail
+| mass={{nowrap|0,783 ± 0,012}}
+| radius={{nowrap|0,793 ± 0,004}}
+| luminosity={{nowrap|0,52 ± 0,03}}ref{{ref-publicació|autor=Pijpers, F. P.
+|títol=Selection criteria for targets of asteroseismic campaigns |llengua=anglès |publicació=Astronomy and Astrophysics |volum=400
+|exemplar=1
+|pàgines=241–248 |any=2003
+| doi=10.1051/0004-6361:20021839 | bibcode=2003AA...400..241P|arxiv = astro-ph/0303032 }}/ref
+| temperature={{nowrap|5,344 ± 50}}ref{{ref-publicació|autor=Santos, N. C.; Israelian, G.; García López, R. J.; Mayor, M.; Rebolo, R.; Randich, S.; Ecuvillon, A.; Domínguez Cerdeña, C.
+|títol=Are beryllium abundances anomalous in stars with giant planets?
+|llengua=anglès |publicació=Astronomy and Astrophysics |any=2004
+|volum=427
+|exemplar=3 |pàgines=1085–1096
+| arxiv=astro-ph/0408108
+| doi = 10.1051/0004-6361:20040509
+| bibcode=2004astro.ph..8108S}}/ref
+| metal=22–74%ref name=strobel /ref name=mnras286 /
+| gravity=4.4ref name=strobel /
+| rotation=34 diesref name=ApJL457 /
+| age=5,8ref name=mh08{{ref-publicació|autor=Mamajek, Eric E.; Hillenbrand, Lynne A.
+ |títol=Improved Age Estimation for Solar-Type Dwarfs Using Activity-Rotation Diagnostics
+ |llengua=anglès |publicació=The Astrophysical Journal |volum=687 |exemplar=2
+ |pàgines=1264–1293 |mes=novembre |any=2008
+ | doi=10.1086/591785 | bibcode=2008ApJ...687.1264M |arxiv = 0807.1686 }}/ref
+}}
+{{Starbox catalog |
+  names=Durre Menthor,ref{{ref-web|nom=David |cognom=Malin |data= 8 juny 2008 |títol=Cetus
+ |obra=David Malin Images |llengua=anglès |consulta=24-06-2009 | url=http://www.davidmalin.com/fujii/source/Cet.html 
+}}/refref name=pelagos{{ref-web|autor=Anonymous |títol=Cetus |editor=Omnipelagos.com
+ | url=http://pelagos.fasterlight.com/entry?n=cetus
+ |llengua=anglès |consulta=24-06-2009 }} lt; الدرر المنثور al durr' al-manthūur The Scattered Pearls (of the Broken Necklace)./ref 52 Ceti, [[Henry Draper catalogue|HD 10700]], [[Harvard Revised catalogue|HR 509]], [[Bonner Durchmusterung|BD-16°295]], [[General Catalogue of Trigonometric Parallaxes|GCTP 365.00]], [[Gliese-Jahreiss catalogue|GJ 71]], [[Luyten Half-Second catalogue|LHS 146]],  [[Luyten Two-Tenths catalogue|LTT 935]], [[Luyten Five-Tenths catalogue|LFT 159]], [[Smithsonian Astrophysical Observatory Star Catalog|SAO 147986]], LPM 84, FK5 59, [[Hipparcos catalogue|HIP 8102]].ref name=SIMBAD/ }}
+{{Starbox end}}
+'''Tau Ceti''' ('''τ Cet''', '''τ Ceti''')ref{{ref-web|url=http://www.oxforddictionaries.com/us/definition/american_english/tau|consulta=3 maig 2014|títol=Definició de ''tau'' a la versió online del Oxford Dictionary|editor=Oxford University Press|llengua=anglès}}/ref és una [[estrella]] de la [[constel·lació]] de la [[Constel·lació de la Balena|Balena]]ref group=NotaLa 19a estrella de la constel·lació./ref que és [[Classificació estel·lar|espectralment]] semblant al [[sol]], tot i que només té el 78% de la [[Massa solar|massa del sol]]. A una distància de poc menys 12 [[anys llum]] del [[sistema solar]], és una [[Llista d'estrelles més properes|estrella relativament propera]], i és l'estrella solitària més propera de [[nana groga|tipus G]].ref group=Nota[[Alfa del Centaure|Alfa del Centaure A]] és més a prop, però forma part d'un sistema triple./ref L'estrella apareix estable, amb una lleugera [[variació estel·lar]]. 
+ 
+Tau Ceti és [[metal·licitat|deficient del metall]], que es relaciona normalment quan no hi ha planetes gegants i pocs [[planetes terrestres|planetes rocosos]]. Les observacions han detectat que hi ha deu vegades més la pols present en el sistema solar.
+
+Des del desembre de 2012, hi ha proves de cinc planetes orbitant Tau Ceti, i un d'ells pot estar potencialment en la [[zona habitable]].ref name=bbc-planet2012{{ref-notícia|url=http://www.bbc.co.uk/news/science-environment-20770103 |títol=Tau Ceti's planets nearest around single, Sun-like star|obra=BBC News|data= 19 desembre 2012}}/refref name=astrobio-2012{{ref-notícia|url=http://www.astrobio.net/pressrelease/5220/tau-ceti-may-have-a-habitable-planet|títol=Tau Ceti May Have a Habitable Planet|obra=Astrobiology Magazine|data= 19 desembre 2012}}/ref A causa del [[disc residual]], qualsevol planeta que orbiti Tau Ceti pot patir més [[impacte astronòmic|impactes astronòmics]] que la Terra. Malgrat aquest obstacle de l'[[Habitabilitat planetària|habitabilitat]], les seves característiques com a [[anàleg solar]] (semblant al sol) han marcat l'interès estès per l'estrella. D'acord amb la seva estabilitat, semblança i relativa proximitat al sol, Tau Ceti està sempre en la llista d'objectius pel projecte de la [[SETI|Search for Extra-Terrestrial Intelligence]] (SETI), i apareix en la literatura de [[Tau Ceti en la ficció|ciència-ficció]].ref name=rutkowski2010{{citar ref|nom1=Chris A. |cognom1=Rutkowski |títol=The Big Book of UFOs
+ |editorial=Dundurn |any=2010 | isbn=1554887607 |pàgina=33
+ | url=http://books.google.com/books?id=cqmizCB7iacCpg=PA33 }}/ref
+
+L'astre es pot veure a ull nu, ja que és una estrella de tercera [[magnitud aparent|magnitud]].ref group=NotaNo es pot veure pèr sobre de [[75è paral·lel nord|latitud 75°N]], ja que té una declinació 90° nord, [[15è paral·lel sud|15°S]]. A la pràctica, els [[centelleig (astronomia)|efectes atmosfèrics]] redueixen la visibilitat de l'objecte quan és proper a l'horitzó./ref Des de Tau Ceti, el sol pot ser una estrella de tercera magnitud en la constel·lació de [[Boötes]].ref group=NotaDes de Tau Ceti el sol pot aparèixer diamètricament en el costat oposat del cel a les coordenades RA={{RA|13|44|04}}, Dec={{DEC|15|56|14}}, on es troba la propera [[Tau Boötis]]. La magnitud absoluta del sol és de 4,8, per tant, a una distància de {{val|3.65|ul=parsec}}, el sol pot tenir una magnitud aparent de:br math\begin{smallmatrix} m = M_v + 5\cdot((\log_{10} 3.64) - 1) = 2.6 \end{smallmatrix}/math./ref
+
+==Nom==
+Tau Ceti no té un nom tradicional reconegut àmpliament.
+
+El nom Tau Ceti és la [[nomenclatura de Bayer]] d'aquesta estrella, establerta en el 1603 com a part del catàleg estel·lar ''[[Uranometria]]'' del cartògraf celestial alemany [[Johann Bayer]]: és el nombre T en la seqüència de Bayer de la constel·lació Cetus. Té el nom propi de Durre Menthor,ref{{ref-llibre|autor=Moore, Patrick; Rees, Robin |any=2011
+ |pàgina=409 |títol=Patrick Moore's Data Book of Astronomy
+ |editorial=Cambridge University Press
+ |edició=2a ed.| isbn=0-521-89935-4
+ | url=http://books.google.com/books?id=2FNfjWKBZx8Cpg=PA408
+ |llengua=anglès |consulta=2011-04-28
+}}/ref que ve de l'aràb Al Durr' Al-Manthūur ('''الدرر المنثور'''), que significar Les Perles Disperses (del Collaret Trencat).ref name=pelagos/ En el catàleg d'estrella ''Calendarium'' d'[[Al Achsasi al Mouakket]], escrit al [[El Caire|Caire]] al voltant del 1650, aquesta estrella va ser designada com a '''Thālith al Naʽāmāt''' ('''تالت ألنعامة''' - ''taalit al naʽāmāt''), que va ser traduït al [[llatí]] com a '''Tertia Struthionum''', que significa ''el tercer dels estruços''.ref{{ref-publicació|cognom=Knobel |nom=E. B.
+ |títol=Al Achsasi Al Mouakket, on a catalogue of stars in the Calendarium of Mohammad Al Achsasi Al Mouakket
+ |llengua=anglès |publicació=Monthly Notices of the Royal Astronomical Society
+ |volum=55 |pàgina=429 |mes=Juny |any=1895
+ | bibcode=1895MNRAS..55..429K }}/ref Aquesta estrella, juntament amb [[Eta Ceti|η Cet]] (Deneb Algenubi), [[Theta Ceti|θ Cet]] (Thanih Al Naamat), [[Zeta Ceti|ζ Cet]] (Baten Kaitos), i [[Upsilon Ceti|υ Cet]], foren els '''Al Naʽāmāt''' ('''ألنعامة'''), les Estruces de Gallina.ref{{ref-llibre|cognom=Allen |nom=R. H. |any=1963
+ |enllaçautor=Richard Hinckley Allen
+ |títol=Star Names: Their Lore and Meaning
+ | url=http://penelope.uchicago.edu/Thayer/E/Gazetteer/Topics/astronomy/_Texts/secondary/ALLSTA/Cetus*.html
+ |llengua=anglès |consulta=2010-12-12 |edició=Reprint
+ |editorial=Dover Publications Inc
+ |lloc=New York | isbn=0-486-21079-0 |pàgina=162 }}/refref group=Nota[[Eta Ceti|η Cet]] com a '''Aoul al Naamat''' o '''Prima Sthrutionum''' (el primer estruç), [[Theta Ceti|θ Cet]] com a '''Thanih al Naamat''' o '''Secunda Sthrutionum'''  (el segon estruç), τ Cet com a '''Thalath al Naamat''' o '''Tertia Sthrutionum'''  (el tercer estruç), i [[Zeta Ceti|ζ Cet]] com a '''Rabah al Naamat''' o '''Quarta Sthrutionum'''  (el quart estruç). [[Upsilon Ceti|υ Cet]] hauria de ser el '''Khamis al Naamat''' o '''Quinta Sthrutionum''' (el cinquè estruç) degudament, però Al Achsasi Al Mouakket va designar el títol de ''el cinquè estruç'' a [[Gamma Andromedae|γ Gam]] amb consideració incerta./ref
+
+En xinès, el [[Lou (constel·lació xinesa)|Graner Quadrat Celestial]] (天倉) es refereix a un [[asterisme]] que consisteix en τ Ceti, [[Iota Ceti|ι Ceti]], [[Eta Ceti|η Ceti]], [[Zeta Ceti|ζ Ceti]], [[Theta Ceti|θ Ceti]] i [[57 Ceti]].ref{{ref-llibre|llengua= xinès
+ |títol= 中國星座神話
+ |autor= 陳久金
+ |editorial= 台灣書房出版有限公司
+ |any= 2005
+ | isbn      = 978-986-7332-25-7}}/ref De manera conseqüent, τ Ceti és coneguda com la Ciquena Estrella del Graner Quadrat Celestial (天倉五).ref{{ref-web|llengua= xinès
+ | url         = http://aeea.nmns.edu.tw/2006/0607/ap060710.html
+ |títol= 天文教育資訊網
+ | trans_title = Activities of Exhibition and Education in Astronomy (AEEA)
+ |autor= 陳輝樺 (Editor)
+ |data= 10 juliol 2006}}/ref
+
+==Moviment==
+El [[moviment propi]] d'una estrella és la seva quantitat de moviment a través de l'[[esfera celeste]], determinada per la comparació de la seva posició relativa a objectes més distants en el fons. Tau Ceti és considerat a ser una estrella d'alt moviment propi, ja que té un travessar anual de només dos [[segon d'arc|segons d'arc]].ref group=NotaEl moviment propi net és donat per:br
+math\begin{smallmatrix} \mu = \sqrt{ {\mu_\delta}^2 + {\mu_\alpha}^2 \cdot \cos^2 \delta } = 1907.79\,\text{mas/y} \end{smallmatrix}/math
+on ''mu;subalpha;/sub'' i ''mu;subdelta;/sub'' són els components del moviment propi en la R.A. i la Declinació, respectivament, i ''delta;'' és la Declinació. Vegeu:br
+{{ref-web|cognom= Majewski |nom= Steven R. |any=2006
+ | url = http://www.astro.virginia.edu/class/majewski/astr551/lectures/VELOCITIES/velocities.html
+ |títol=Stellar Motions |editor=Universitat de Virgínia
+ |llengua=anglès |consulta= 27-09-2007 }}/ref Es requereixen uns dos mil anys abans que aquesta estrella giri més d'un grau. Un alt moviment propi és un indicador de la proximitat al sol.ref{{ref-web|cognom=Reid |nom=Neill |data= 23 febrer 2002
+ | url=http://www-int.stsci.edu/~inr/nstars2.html
+ |títol=Meeting the neighbours: NStars and 2MASS
+ |editor=Space Telescope Science Institute
+ |llengua=anglès |consulta=11-12-2006 }}/ref Les estrelles properes poden travessar un angle d'arc a través del cel més ràpidament que les estrelles distants en el fons i són bones candidates per a estudis de [[paral·laxi]]. En el cas de Tau Ceti, les mesures de paral·laxi indiquen una distància d'11,9 anys llum. Això el converteix en [[Llista de les estrelles més properes|un dels sistemes estel·lars més propers]] al sol, i el més proper de [[Classificació estel·lar#Tipus G|tipus G en l'espectre]] després d'[[Alfa del Centaure|Alfa del Centaure A]].ref{{ref-web|cognom=Henry |nom=Todd J.
+ |data= 1 octubre 2006
+ | url=http://www.chara.gsu.edu/RECONS/TOP100.htm
+ |títol=The One Hundred Nearest Star Systems
+ |editor=Research Consortium on Nearby Stars
+ |llengua=anglès |consulta=11-12-2006 |urlarxiu= http://web.archive.org/web/20061128221321/http://www.chara.gsu.edu/RECONS/TOP100.htm|dataarxiu= 28 novembre 2006}}/ref
+
+La [[velocitat radial]] d'una estrella és el moviment cap o més enllà del sol. A diferència del moviment propi, la velocitat radial d'una estrella no pot ser directament observat, però ha d'estar determinat a través del mesurament de l'espectre. A causa de l'[[efecte Doppler]], les [[línia d'absorció|línies d'absorció]] en l'espectre d'una estrella serà modificat lleugerament cap al vermell (o en ones de longitud d'ona més llargues) si l'estrella s'està movent més enllà de l'observador, o cap al blau (o en ones més curtes) quan es mou cap a l'observador. En el cas de Tau Ceti, la velocitat radial és de −17 km/s, amb el valor negatiu indicant que s'està movent cap al sol.ref{{ref-publicació|autor=Butler, R. P.; Marcy, G. W.; Williams, E.; McCarthy, C.; Dosanjh, P.; Vogt, S. S.
+ |títol=Attaining Doppler Precision of 3 M s-1
+ |llengua=anglès |publicació=Publications of the Astronomical Society of the Pacific
+ |any=1996 |volum=108 |pàgines=500
+ | bibcode=1996PASP..108..500B  | doi = 10.1086/133755 }}/ref
+
+La distància a Tau Ceti, amb el seu moviment propi i velocitat radial, permet que es pugui calcular el moviment de l'estrella a través de l'espai. La [[cinemàtica estel·lar|velocitat espacial]] relativa al sol és de 37 km/s.ref group=NotaEls components de velocitat espacial són: U = +18; V = +29, i W = +13. Aquests camps són una velocitat espacial neta de:brmath\begin{smallmatrix} \sqrt{18^2 + 29^2 + 13^2} = 36,5\,\text{km/s.} \end{smallmatrix}/math/ref Aquest resultat pot ser utilitzar per calcular el camí orbital de Tau Ceti a través de la galàxia de la [[Via Làctia]]. Té una distància al centre galàctic de 9,7 quiloparsecs (32.000 anys llum) i una [[excentricitat orbital]] de 0,22.ref name=Mello{{ref-publicació|autor=Porto de Mello, G. F.; del Peloso, E. F.; Ghezzi, L.
+ |títol=Astrobiologically interesting stars within 10 parsecs of the Sun
+ |llengua=anglès |publicació=Astrobiology |any=2006 |volum=6
+ |exemplar=2 |pàgines=308–331
+ | doi= 10.1089/ast.2006.6.308
+ | pmid=16689649 | bibcode=2006AsBio...6..308P|arxiv = astro-ph/0511180 }}/ref
+
+==Propietats físiques==
+[[Fitxer:Compare sun tau ceti.png|left|thumb|320px|El sol (esquerra) és més gran i calent que la menys activa Tau Ceti (dret).]]
+Es creu que el sistema de Tau Ceti té un únic component estel·lar. Es va observar un fosc company òptic, que és possiblement relacionat gravitacionalment, però està a 10 segons d'arc de la primària.ref name=Pijpers2003{{ref-publicació|cognom=Pijpers |nom=F. P.
+ |coautors= Teixeira, T. C.; Garcia, P. J.; Cunha, M. S.; Monteiro, M. J. P. F. G.; [[Jørgen Christensen-Dalsgaard|Christensen-Dalsgaard, J.]]
+ |any=2003 |títol= Interferometry and asteroseismology: The radius of τ Ceti
+ |publicació=Astronomy  Astrophysics |volum=401
+ |exemplar=1
+ |pàgines= L15–L18 | url=http://www.aanda.org/index.php?option=articleaccess=standardItemid=129url=/articles/aa/full/2003/28/aafd171/aafd171.right.html
+ |llengua=anglès |consulta= 2007-09-24 | doi= 10.1051/0004-6361:20030837 | bibcode=2003AA...406L..15P}}/ref
+
+La majoria del que se sap sobre les propietats físiques de Tau Ceti i el seu sistema vé determinat a través de mesuraments [[espectroscopia|espectroscòpics]]. Comparant l'espectre es pot estimar els models informàtics de l'[[evolució estel·lar]], l'edat, massa, radi i lluminositat de Tau Ceti. Malgrat això, utilitzant un [[interferòmetre astronòmic]], es poden realitzar directament mesuraments del radi de l'estrella amb una presició del 0,5%.ref name=aaa494{{ref-publicació|autor=Teixeira, T. C.; Kjeldsen, H.; Bedding, T. R.; Bouchy, F.; [[Jørgen Christensen-Dalsgaard|Christensen-Dalsgaard, J.]]; Cunha, M. S.; Dall, T.; Frandsen, S.; Karoff, C.; Monteiro, M. J. P. F. G.; Pijpers, F. P.
+ |títol=Solar-like oscillations in the G8 V star τ Ceti
+ |llengua=anglès |publicació=Astronomy and Astrophysics |exemplar=1
+ |any=2009 |mes=gener |pàgines=237–242
+ | doi=10.1051/0004-6361:200810746
+ |volum=494 | bibcode=2009AA...494..237T|arxiv = 0811.3989 }}/ref Es desplega una línia de referència per mesurar angles molt més petits del que es poden resoldre utilitzant un [[telescopi]] convencional. Això va resultar, que el radi de Tau Ceti va ser mesurat com el {{nowrap|79.3 ± 0.4%}} del [[radi solar]].ref name=aaa494/ Aquest valor és de la mida estimada per a una estrella amb poc menys de la massa del sol.ref name=aa426{{ref-publicació|autor=Di Folco, E.; Thévenin, F.; Kervella, P.; Domiciano de Souza, A.; du Foresto, V. Coudé; Ségransan, D.; Morel, P.
+ |títol=VLTI near-IR interferometric observations of Vega-Like Stars
+ |llengua=anglès |publicació=Astronomy and Astrophysics
+ |any=2004 |volum=426
+ |exemplar=2 |pàgines=601–617
+ | bibcode=2004AA...426..601D
+ | doi=10.1051/0004-6361:20047189 }}/ref
+
+===Rotació===
+[[Fitxer:Hertzsprung-Russel StarData.png|thumb|upright=1.4|En el [[Diagrama de Hertzsprung-Russell|diagrama HR]], la posició de τ Ceti és quasi la mateixa que la del sol.]]
+El [[període de rotació]] de Tau Ceti va ser mesurat en les variacions periòdiques en les línies d'absorció clàssiques H i K del [[calci]] lleugerament [[Ionització|ionitzat]], o Ca II. Aquestes línies són associades amb l'activitat [[magnetisme|magnètica]] de la superfície,ref{{ref-web| url = http://www.mtwilson.edu/hk/Overview/
+ |títol= H-K Project: Overview of Chromospheric Activity
+ |editor= Mount Wilson Observatory
+ |llengua=anglès |consulta= 2006-11-15 }}/ref per tant la variació del període mesura el temps requerit per les zones d'activitat per completar una rotació completa d'una estrella. Això significa que el període de rotació de Tau Ceti és estimat en 34 dies.ref name=ApJL457{{ref-publicació|autor=Baliunas, S.; Sokoloff, D.; Soon, W.
+ |títol=Magnetic Field and Rotation in Lower Main-Sequence Stars: an Empirical Time-dependent Magnetic Bode's Relation?
+ |llengua=anglès |publicació=Astrophysical Journal Letters |any=1996
+ |volum=457
+ |exemplar=2 |pàgines=L99
+ | bibcode=1996ApJ...457L..99B | doi=10.1086/309891 }}/ref A causa de l'[[efecte Doppler]], l'[[rotació estel·lar|índex de rotació d'una estrella]] afecta la gruixudesa de les línies d'absorció en l'espectre. (la llum del costat de l'estrella allunyant-se de l'observador serà canviada a una longitud d'ona més llarga; la llum del costat movent-se cap a l'observador serà canviat a una longitud d'ona més curta.) Per tant, analitzant la gruixudesa d'aquestes línies, es pot determinar la velocitat rotacional d'una estrella. La velocitat de rotació projectada de Tau Ceti és:
+
+:math v_\mathrm{eq} \cdot \sin i \approx 1\  \text{km}/\text{s}. /math
+
+on ''v''subeq/sub és la velocitat a l'[[equador]] i ''i'' és l'angle d'[[inclinació]] de l'eix de rotació a la línia en observació. Per a una estrella G8 comuna, la velocitat de rotació és d'uns 2,5 km/s Els mesuraments de la relativa baixa velocitat rotacional indiquen que Tau Ceti és observada des d'aproximadament la direcció del seu pol.ref name=Gray1994{{ref-publicació|autor=Gray, D. F.; Baliunas, S. L.
+ |títol=The activity cycle of tau Ceti
+ |llengua=anglès |publicació=Astrophysical Journal
+ |any=1994 |volum=427 |exemplar=2 |pàgines=1042–1047
+ | bibcode=1994ApJ...427.1042G
+ | doi = 10.1086/174210 }}
+/refref{{ref-publicació|autor= Hall, J. C.; Lockwood, G. W.; Gibb, E. L.
+ |títol=Activity cycles in cool stars. 1: Observation and analysis methods and case studies of four well-observed examples
+ |llengua=anglès |publicació=Astrophysical Journal
+ |any=1995 |volum=442 |exemplar=2 |pàgines=778–793
+ | bibcode=1995ApJ...442..778H
+ | doi=10.1086/175483 }}/ref
+
+===Metal·licitat===
+
+La composició química d'una estrella proveeix pistes importants de la seva història evolutiva, incloent-hi l'època quan es va formar. El [[medi interestel·lar]] de pols i gas on les estrelles es formen està compost bàsicament d'[[hidrogen]] i [[heli]] amb certes quantitats d'elements pesants. Com que les estrelles properes evolucionen contínuament i moren, van plantar en el medi interestel·lar un augment en la porció d'elements més pesants. Així que les estrelles més joves tendiran a tenir una porció d'elements més pesants més elevada en les seves atmosferes que les estrelles més antigues. Aquests elements pesats són anomenats metalls pels astrònoms i la porció d'elements pesats és la [[metal·licitat]].ref{{ref-publicació|autor=Carraro, G.; Ng, Y. K.; Portinari, L.
+ |títol=Age Metallicity Relation and Star Formation History of the Galactic Disk
+ |llengua=anglès |publicació=Monthly Notices of the Royal Astronomical Society
+ |any=1999 |volum=296 |exemplar=4 |pàgines=1045–1056
+ | bibcode=1997astro.ph..7185C
+ | doi=10.1046/j.1365-8711.1998.01460.x |arxiv = astro-ph/9707185 }}/ref La quantitat de metal·licitat en una estrella és donada en termes del ràtio de [[ferro]] (Fe), i un element pesat de fàcil observació com l'hidrogen. Un [[logaritme]] de la relativa abundància de ferro és la comparació amb el sol. En el cas de Tau Ceti, la metal·licitat atmosfèrica és d'aproximadament:
+
+:math \left [ \frac{\mathrm{Fe}}{\mathrm{H}} \right ] = -0.50 /math
+
+o una tercera part l'abundància del sol. Els anteriors mesuraments han variat entre −0,13 a −0,60.ref name=strobel{{ref-publicació|autor=de Strobel, G. Cayrel; Hauck, B.; François, P.; Thevenin, F.; Friel, E.; Mermilliod, M.; Borde, S.
+ |títol=A catalogue of Fe/H determinations – 1991 edition
+ |llengua=anglès |publicació=Astronomy and Astrophysics Supplement Series
+ |any=1991 |volum=95 |exemplar=2 |pàgines=273–336
+ | bibcode=1992AAS...95..273C }}/refref name=mnras286{{ref-publicació|autor=Flynn, C.; Morell, O.
+ |títol=Metallicities and kinematics of G and K dwarfs
+ |llengua=anglès |publicació=Monthly Notices of the Royal Astronomical Society
+ |any=1997 |volum=286 |exemplar=3 |pàgines=617–625
+ | bibcode=1996astro.ph..9017F |arxiv = astro-ph/9609017 }}/ref 
+
+Aquesta menor abundància de ferror indica que Tau Ceti és gairebé sens dubte més antic que el sol. S'havia estimat anteriorment que l'edat aproximada és de 10 [[Any|Ga]] però ara es creu que és al voltant de la meitat en 5,8 Ga.ref name=mh08/ Això es compara els 4,57 Ga del sol. No obstant, l'edat calculada per ordinadors estimen que Tau Ceti és de 4,4–12 Ga, depenent del model adoptat.ref name=aa426 /
+
+A més de la rotació, un altre factor que poden ampliar les característiques d'absorció en l'espectre d'una estrella és l'ampliació de pressió. (Vegeu [[línia espectral]].) La presència de les partícules properes afecten la radiació emesa per una partícula individual. Per tant, la gruixudesa de la línia és dependent de la pressió en la superfície de l'estrella, que al mateix torn és determinada per la temperatura i la gravetat de la superfície. Aquesta tècnica va ser utilitzada per determinar la gravetat de la superfície de Tau Ceti. El {{nowrap|log ''g''}}, o [[logaritme]] de la gravetat superficial de l'estrella, és d'uns 4.4—molt proper als {{nowrap|log ''g'' {{=}} 4,44}} del sol.ref name=strobel /
+
+===Lluminositat i variabilitat===
+La [[lluminositat]] de Tau Ceti és igual a només el 55% de la [[lluminositat solar|lluminositat del sol]].ref name=Mello / Un [[planeta terrestre]] pot necessitar orbitar aquesta estrella a una distància d'uns 0,7 [[Unitat astronòmica|UA]] perquè coincideixi amb el nivell d'[[insolació]] solar de la Terra. Això és aproximadament el mateix que la distància mitjana entre [[Venus (planeta)|Venus]] i el sol.
+
+La [[cromosfera]] de Tau Ceti—la part de l'atmosfera d'una estrella just per sobre de la [[fotosfera]] emissora de llum—actualment mostra una petita o nul·la activitat magnètica, indicant una estrella estable.ref{{ref-publicació|autor=Frick, P.; Baliunas, S. L.; Galyagin, D.; Sokoloff, D.; Soon, W. |títol=Wavelet Analysis of Stellar Chromospheric Activity Variations
+ |llengua=anglès |publicació=The Astrophysical Journal
+ |any=1997 |volum=483 |exemplar=1 |pàgines=426–434
+ | doi = 10.1086/304206 | bibcode=1997ApJ...483..426F}}/ref Un estudi de nou anys sobre la temperatura, la [[Granulació fotosfèrica|granulació]], i la cromosfera van mostrar cap variació sistemàtica; les emissions de Ca II al voltant de les [[astronomia d'infraroig|bandes infraroges]] H i K mostren un possible cicle d'onze anys, però és feblement relatiu al sol.ref name=Gray1994/ Alternativament, es va suggerir que l'estrella pot estar en un estat de baixa activitat anàleg a un [[mínim de Maunder]]—un període històric, associat amb la [[Petita Edat de Gel]] a Europa, quan les [[erupció solar|erupcions solars]] es van convertir en extremadament rars en la superfície del sol.ref{{ref-publicació|autor= Judge, P. G.; Saar, S. H.
+ |data= 18 juliol 1995 |títol= The outer solar atmosphere during the Maunder Minimum: A stellar perspective
+ |llengua=anglès |publicació= High Altitude Observatory
+ | bibcode= 2007ApJ...663..643J |doi = 10.1086/513004 }}
+/refref{{ref-publicació|autor=Judge, Philip G.; Saar, Steven H.; Carlsson, Mats; Ayres, Thomas R. |títol= A Comparison of the Outer Atmosphere of the Flat Activity Star τ Ceti (G8 V) with the Sun (G2 V) and α Centauri A (G2 V) |llengua=anglès |publicació= The Astrophysical Journal
+ |volum= 609 |exemplar= 1 |pàgines= 392–406 |any= 2004
+ | doi = 10.1086/421044 | bibcode=2004ApJ...609..392J}}/ref Els perfils de [[línia espectral]] de Tau Ceti són extremadament estrets, indicant una baixa turbulència i rotació observada.ref{{ref-publicació|autor= Smith, G.; Drake, J. J.
+ |any= 1987 |mes= juliol |títol= The wings of the calcium infrared triplet lines in solar-type stars
+ |llengua=anglès |publicació= Astronomy and Astrophysics  
+ |volum= 181 |exemplar= 1 |pàgines= 103–111
+ | bibcode = 1987AA...181..103S }}/ref L'amplitud de les oscil·lacions de l'estrella són la meitat del sol, i tenen una durada menor.ref name=aaa494/
+
+===Disc de pols===
+En el 2004, un equip d'[[astrònom]]s britànics dirigits per Jane Greaves van descobrir que Tau Ceti té més de deu vegades la quantitat de material [[cometa]]ri i [[asteroide|asteroidal]] orbitant que la del sol. Això va ser determinat mesurant el disc de pols fred orbitant l'estrella produït per col·lisions entre petits cossos.ref name=Greaves{{ref-publicació|autor=J. S. Greaves, M. C. Wyatt, W. S. Holland, W. R. F. Dent |títol=The debris disc around tau Ceti: a massive analogue to the Kuiper Belt
+ |llengua=anglès |publicació=Monthly Notices of the Royal Astronomical Society
+ |any=2004 |volum=351 |exemplar=3 |pàgines=L54–L58
+ | bibcode=2004MNRAS.351L..54G
+ | doi = 10.1111/j.1365-2966.2004.07957.x }}/ref Aquest resultar posa un amortidor en la possibilitat de vida complexa en el sistema, ja que qualsevol planeta hauria patit de grans [[impacte astronòmic|impactes astronòmics]] aproximadament deu vegades la freqüència que la Terra. Greaves va observar durant la seva investigació: és el que [qualsevol planeta] pot experimentar del bombardejament constant d'asteroides del tipus que va acabar amb els [[dinosaure]]s.ref name=McKee2004{{ref-web|nom=Maggie |cognom=McKee
+ | url= http://media.newscientist.com/article.ns?id=dn6123
+ |títol=Life unlikely in asteroid-ridden star system
+ |llengua=anglès |consulta=25-09-2007 |data= 7 juliol 2004
+ |editor= [[New Scientist]] }}/ref Aquests bombardejaments haurien inhibit el desenvolupament de la [[biodiversitat]] entre impactes.ref name=Schirber2009{{ref-web|nom=Michael |cognom=Schirber | url=http://www.astrobio.net/news/modules.php?op=modloadname=Newsfile=articlesid=3066mode=threadorder=0thold=0
+ |títol=Cometary Life Limit
+ |llengua=anglès |consulta=2009-03-12 |data= 12 març 2009
+ |editor= [[NASA]] Astrobiology}}/ref Malgrat això, és possible que un [[gegant de gas]] de la mida de [[Júpiter (planeta)|Júpiter]] pot desviar els cometes i asteroides.ref name=Greaves/ref group=NotaNo està clar com és que Júpiter actualment proveeix protecció al sistema solar interior. Vegeu, per exemple:br
+{{ref-notícia|títol=Jupiter: Friend Or Foe? |data=2007-08-25 | url=http://www.sciencedaily.com/releases/2007/08/070824133636.htm 
+ |editorial=Science daily |llengua=anglès |consulta=2009-03-10 }}/ref
+
+El disc de pols va ser descobert mesurant la quantitat de radiació emesa pel sistema en la part [[astronomia infraroja llunyana|infraroja llunyana]] de l'[[espectre]]. El disc forma una característica simètrica que se centra en l'estrella, i el radi exterior té una mitjana de 55 UA. La falta de radiació infraroja de les parts més calentes del disc proper a Tau Ceti impliquen una retallada interior del radi de 10 UA. En comparació, el [[cinturó de Kuiper]] del sistema solar s'estén de les 30–50 UA. En ser mantingut per un llarg període de temps, aquest anell de pols ha de ser constantment afectat per col·lisions per cossos més grans.ref name=Greaves / La major part del disc apareix a estar orbitant Tau Ceti a una distància de 35–{{val|50|u=AU}}, així fora de la [[zona habitable]]. A aquesta distància, el cinturó de pols pot ser anàleg al [[cinturó de Kuiper]] que es troba fora de l'òrbita de [[Neptú (planeta)|Neptú]] en el sistema solar.ref name=Greaves /
+
+Tau Ceti mostra que les estrelles necessiten no perdre grans discs en aquesta edat i que un cinturó prim no pot ser comú en les estrelles semblants al sol.ref name=Greaves2005{{ref-publicació|cognom=Greaves |nom=Jane S.
+ |títol=Disks Around Stars and the Growth of Planetary Systems 
+ |llengua=anglès |publicació=[[Science (journal)|Science]]
+ |any=2005 |mes=gener |volum=307 |exemplar=5706
+ |pàgines=68–71 | doi= 10.1126/science.1101979
+ | pmid=15637266 |bibcode = 2005Sci...307...68G }}/ref El cinturó de Tau Ceti és només {{frac|1|20}}supa/sup part tan dens com el cinturó del seu jove veí, [[Epsilon Eridani]].ref name=Greaves/ La falta relativa de pols al voltant del sol pot ser el cas inusual: un membre de l'equip d'investigació suggereix que el sol pot haver passat a prop d'una altra estrella a principis de la seva història  i va perdre la majoria dels cometes i asteroides.ref name=McKee2004/ Les estrelles amb grans discs de pols han alterat astronòmicament el pensament sobre la formació de planetes; les estrelles de discos de pols, on el seu material és contínuament generat per col·lisions, semblen formar planetes fàcilment.ref name=Greaves2005/
+
+==Investigacions planetària i vida==
+[[Fitxer:Sol View from Tau Ceti.png|300px|thumbnail|esquerra|El sol vist des de Tau Ceti.br /{{mida|85%|Imatge realitzada amb el programa informàtic [[Celestia]]. ''Feu clic en la imatge per a una millor visualització.''}}]]
+Els principals factors que condueixen a l'interès a investigar Tau Ceti són les seves característiques semblants al sol i les seves implicacions per a possibles planetes i vida. Hall i Lockwood van informar que els termes 'estrella solar,' '[[anàleg solar]],' i 'bessona solar' [són] descripcions progressivament restrictives.ref{{ref-publicació|autor=Hall, J. C.; Lockwood, G. W.
+ |títol=The Chromospheric Activity and Variability of Cycling and Flat Activity Solar-Analog Stars
+ |llengua=anglès |publicació=The Astrophysical Journal |any=2004
+ |volum=614
+ |exemplar=2 |pàgines=942–946
+ | doi = 10.1086/423926
+| bibcode=2004ApJ...614..942H}}/ref Tau Ceti cau en la segona categoria, donant la seva massa i variabilitat semblant, però la falta relativa de metalls.ref group=NotaL'estrella [[18 Scorpii]], sens dubte la clara bessona solar, presenta un exmple que contrasta amb Tau Ceti: la seva metal·licitat és d'acord amb el sol però la seva variabilitat és significantment més alta. Vegeu:br{{ref-publicació|autor=Hall, J. C.; Lockwood, G. W.
+ |títol=Evidence of a Pronounced Activity Cycle in the Solar Twin 18 Scorpii |llengua=anglès |publicació=The Astrophysical Journal |volum=545
+ |exemplar=2 |any=2000 |pàgines=L43–L45
+ | doi=10.1086/317331 | bibcode=2000ApJ...545L..43H}}/ref Les semblances han inspirat les [[Tau Ceti en la ficció|referències de la cultura popular]] durant dècades, com també l'examinació científica.
+
+Tau Ceti va ser un objectiu de diverses recerques planetàries per velocitat radial. Fins al 1988, les observacions van descartar qualsevol variació periòdica atribuïbles a planetes massius al voltant de Tau Ceti en distància semblants a Júpiter.ref name=apj331{{ref-publicació|cognom=Campbell|nom= Bruce
+ |coautors=Walker, G. A. H. |any=1988 |mes=agost
+ |títol=A Search for Substellar Companions to Solar-Type Stars
+ |llengua=anglès |publicació=Astrophysical Journal |volum=331|pàgines=902–921 |doi=10.1086/166608 | bibcode=1988ApJ...331..902C}}/refref name=EPE/ Fins al desembre de 2012, es van realitzar mesuraments més precisos que mai per descartar aquests planetes.ref name=EPE{{ref-web|títol=Tables of Stars monitored by spectroscopy, with NO planet found
+ |editor=Extrasolar Planets Encyclopedia
+ |llengua=anglès |consulta=28-09-2007
+ | url=http://exoplanet.eu/list_no.html }}/ref La precisió de la velocitat va arribar als 11 m/s mesurats en un període de cinc anys.ref name=Endl2002{{ref-publicació|cognom=Endl |nom=M.
+ |coautors=Kurster M.; Els S.
+ |títol=The planet search program at the ESO Coud´e Echelle spectrometer
+ |llengua=anglès |publicació=Astronomy  Astrophysics
+ |any=2002 |volum=392
+ |exemplar=2 |pàgines=585–594
+ | bibcode=2002AA...392..671E
+ | doi=10.1051/0004-6361:20020937 |arxiv = astro-ph/0207512 }}/ref Aquest resultat exclou la presència de Júpiters calents, i probablement exclou qualsevol planeta amb una massa mínima més gran o igual a la de Júpiter i en períodes orbitals inferiors a 15 anys.ref name=Walker1995{{ref-publicació|cognom=Walker |nom=Gordon A. H.
+ |coautors=Walker Andrew H.; Irwin W.Alan; ''et al.''
+ |títol=A Search for Jupiter-Mass Companions to Nearby Stars
+ |llengua=anglès |publicació=Icarus |any=1995 |volum=116
+ |exemplar=2
+ |pàgines=359–375
+ | bibcode=1995Icar..116..359W
+ | doi=10.1006/icar.1995.1130 }} —Observeu que aquest estudi no exlou la possibilitat de planetes gran amb una massa més gran que Júpiter i un [[pla orbital]] que és proper a la perpendicular de la línia de visió./ref A més, un sondeig d'estrelles properes completat en 1999 realitzat per la [[Wide Field and Planetary Camera]] del [[Telescopi Espacial Hubble]], incloent-hi una recerca de febles companys de Tau Ceti; va resultar que no es van descobrir resultats fins als límits de la potència del telescopi.ref name=Schroeder2000{{ref-publicació|autor=Schroeder, D. J.; Golimowski, D. A.; Brukardt, R. A. ''et al.''
+ |títol=A Search for Faint Companions to Nearby Stars Using the Wide Field Planetary Camera 2
+ |llengua=anglès |publicació=Astronomical Journal |any=2000 |volum=119
+ |exemplar=2 |pàgines=906–922
+ | url = http://www.iop.org/EJ/article/1538-3881/119/2/906/990423.html
+ |llengua=anglès |consulta=14-08-2007 | doi = 10.1086/301227 | bibcode=2000AJ....119..906S}}/ref 
+
+Aquestes recerques només van excloure els cossos de [[nana marró|nanes marrones]] més grans i no es va impedir la troballa dels planetes gegants més petits, planetes semblants a la Terra en òrbita al voltant de l'estrella.ref name=Schroeder2000/ Si els [[Júpiters calents]] haguessin existit propers a l'òrbita, haurien interromput la [[zona habitable]] de l'estrella; la seva exclusió va ser considerat com un punt positiu per a la possibilitat de l'existència de planetes semblants a la Terra.ref name=apj331/ref name=SolStation{{ref-web| url=http://www.solstation.com/stars/tau-ceti.htm
+ |títol= Tau Ceti |llengua=anglès |consulta=25-09-2007
+ |editor=Sol Company }}/ref Les investigacions generals han demostrat una correlació positiva entre la presència de [[planetes extrasolars]] i una estrella associada relativament alta en metall, suggerint que les estrelles amb metal·licitat més baixa com la de Tau Ceti han reduït l'oportunitat de posseir planetes.ref{{ref-publicació|autor=Gonzalez, G. |data=17–21 març 1997
+ |títol=The Stellar Metallicity - Planet Connection
+ |llengua=anglès |publicació=ASP Conference Series
+ | bibcode=1998bdep.conf..431G }}/ref La composició atmosfèrica dels planetes de Tau Ceti pot revelar que la vida primitiva seria inorgànica, com l'oxigen a la Terra és indicatiu de vida.ref{{ref-publicació|cognom=Woolf |nom= Neville
+ |coautors=Angel, J. Roger |any=1998 |mes=setembre
+ |títol=Astronomical Searches for Earth-like Planets and Signs of Life
+ |llengua=anglès |publicació=Annual Review of Astronomy and Astrophysics
+ |volum=36
+ |exemplar=1 |pàgines=507–537
+ | doi= 10.1146/annurev.astro.36.1.507 | bibcode=1998ARAA..36..507W}}/ref
+
+===SETI i HabCat===
+[[Fitxer:Terrestrial Planet Finder PIA04499.jpg|thumb|250px|Tau Ceti pot ser un objectiu de recerca per la ''[[Terrestrial Planet Finder]]'']]
+
+El projecte de recerca més optimístic fou el [[Projecte Ozma]], que va ser destinat a la recerca d'[[intel·ligència extraterrestre]] ([[SETI]]) per l'examinació d'estrelles seleccionades per indicacions de senyals de ràdio artificials. Es va executar per l'astrònom [[Frank Drake]], que va seleccionar Tau Ceti i [[Epsilon Eridani]] com a objectius inicials. Ambdós estan situats prop del sistema solar i són físicament semblants al sol. No es van trobar senyals artificials malgrat les 200 hroes d'observacions.ref{{ref-web|cognom= Alexander |nom= Amir |any= 2006
+  | url = http://www.planetary.org/explore/topics/seti/seti_history_05.html 
+  |títol= The Search for Extraterrestrial Intelligence, A Short History
+  |editor= The Planetary Society |llengua=anglès |consulta= 08-11-2006|arxiuurl=http://web.archive.org/web/20070829220423/http://www.planetary.org/explore/topics/seti/seti_history_05.html|arxiudata=2007-08-29}}/ref Les recerques subsegüents de ràdio d'aquest sistema solar també han donat un resultat negatiu.
+
+Aquesta falta de resultats no han humitejat l'interès per observar el sistema de Tau Ceti per la recerca de [[Biosignatura|biosignatures]]. En el 2002, els astrònoms [[Margaret Turnbull]] i [[Jill Tarter]] van desenvolupar el [[Catalog of Nearby Habitable Systems]] (HabCat) sota els auspicis del [[Projecte Phoenix]], un altre esforç del SETI. La llista conté més de 17000 sistemes teòricament habitables, aproximadament el 10% de la mostra original.ref{{ref-publicació|cognom=Turnbull |nom= Margaret C.
+ |enllaçautor=Margaret Turnbull |coautors=Tarter, Jill
+ |any=2003 |mes=març |títol=Target Selection for SETI. I. A Catalog of Nearby Habitable Stellar Systems
+ |llengua=anglès |publicació= Astrophysical Journal Supplement Series
+ |volum=145 |exemplar=1 |pàgines=181–198
+ | bibcode=2003ApJS..145..181T | doi=10.1086/345779 |arxiv = astro-ph/0210675 }}/ref El següent any, Turnbull va refinar la llista amb els 30 sistemes més prometedors de 5000 en cent anys llum del sol, incloent Tau Ceti; això forma part de les bases de recerca de ràdio amb l'[[Allen Telescope Array]].ref{{ref-web| url= http://www.solstation.com/habitable.htm
+ |títol= Stars and Habitable Planets
+ |llengua=anglès |consulta=21-09-2007 |editor=Sol Company }}/ref També es va seleccionar a Tau Ceti en una curta llista de les cinc estrelles més adequades per a les recerques (indefinidament postposades)ref{{ref-web|data=06-02-2006|url=http://www.planetary.org/about/press/releases/2006/0206_Planetary_Society_Charges.html |títol=NASA budget statement |editor=[[Planetary Society]] |llengua=anglès |consulta=17-07-2006}}/ref El sistema de telescopis ''[[Terrestrial Planet Finder]]'', va comentar que que aquests llocs serien bons per viure si Déu posés el nostre planeta al voltant d'una altra estrella.ref{{ref-web| url=http://www.aaas.org/news/releases/2006/0218habitable.shtml
+ |títol= Astronomer Margaret Turnbull: A Short-List of Possible Life-Supporting Stars
+ |llengua=anglès |consulta=21-09-2007
+ |editor=[[American Association for the Advancement of Science]]
+ |data= 18 febrer 2006}}/ref
+
+{{vegeu també|Vida extraterrestre}}
+
+===Planetes===
+[[Fitxer:Tau ceti planetary orbits.svg|250px|thumbnail|dreta|Òrbites dels planetes de Tau Ceti]]
+El 19 de desembre de 2012, es van presentar proves que existeix un sistema de cinc planetes orbitant Tau Ceti.ref name=Tuomi2012preprint{{ref-publicació|cognom=Tuomi|nom=M.|coautors=et al|títol=Signals embedded in the radial velocity noise: Periodic variations in the Tau Ceti velocities|llengua=anglès |publicació=Astronomy  Astrophysics|exemplar=preprint|url=http://star-www.herts.ac.uk/~hraj/tauceti/paper.pdf|arxiv=1212.4277|bibcode = 2012yCat..35519079T |doi = 10.1051/0004-6361/201220509 }}/ref  La massa mínima dels planetes és estimada entre dos a sis vegades la de la Terra, amb períodes que van de 14 a 640 dies. Un d'ells, temptativament anomenat Tau Ceti e, apareix en òrbita a mig camí de Tau Ceti com la Terra ho fa des del sol. Amb la lluminositat de Tau Ceti del 52% del sol i una distància de l'estrella d'uns 0,552 UA, el planeta pot rebre 1,71 vegades més radiació estel·lar que la Terra, lleugerament menys que Venus amb 1,91 vegades la de la Terra. De totes maneres, algunes investigacions el situen en la zona habitable de l'estrella.ref name=bbc-planet2012/ref name=astrobio-2012/ El Planetary Habitability Laboratory va calcular que Tau Ceti f, pot rebre el 28,5% de llum que la Terra, comparat amb Mart amb el 43%, indicant que està per poc també en zona habitable de l'estrella.ref{{ref-web|url=http://phl.upr.edu/press-releases/twonearbyhabitableworlds|obra=Planetary Habitability Laboratory|editor=Universitat de Puerto Rico|títol=Two Nearby Habitable Worlds?|nom1=Abel Mendez |cognom1=Torres|data= 28 desembre 2012|llengua=anglès |consulta=22-03-2013}}/ref
+
+{{OrbitboxPlanet begin
+| name=Tau Ceti
+| 
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti b|b]]
+| mass_earth = 2,00 ± 0,80
+| period = 13,965 ± 0,02
+| semimajor = 0,105 ± 0,006
+| eccentricity = 0,16 ± 0,22
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti c|c]]
+| mass_earth = 3,1 ± 1,40
+| period = 35,362 ± 0,1
+| semimajor = 0,195 ± 0,01
+| eccentricity = 0,03 ± 0,28
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti d|d]]
+| mass_earth = 3,60 ± 1,7
+| period = 94,11 ± 0,7
+| semimajor = 0,374 ± 0,02
+| eccentricity = 0,08 ± 0,26
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti e|e]]
+| mass_earth = 4,30 ± 2,01
+| period = 168,12 ± 2,0
+| semimajor = 0,552 ± 0,03
+| eccentricity = 0,05 ± 0,22
+}}
+{{OrbitboxPlanet
+| exoplanet = [[Tau Ceti f|f]]
+| mass_earth = 6,67 ± 3,50
+| period = 642 ± 37
+| semimajor = 1,35 ± 0,09
+| eccentricity = 0,03 ± 0,26
+}}
+{{Orbitbox end}}
+
+== Veïnatge ==
+Tau Ceti és una estrella de l'hemisferi sud, en la [[constel·lació]] [[Cetus]] (''Balena''): assumint perfectes condicions visuals és visible sobre la latitud 75°N. La constel·lació és gran, i es troba just al sud de l'[[equador celeste]]. Altres estrelles visibles són la variable [[Mira (estel)|Mira]] i unes altres que malgrat trobar-se en la mateixa direcció des de la Terra, no estan físicament properes unes de les altres: per exemple la [[gegant taronja]] [[Beta Ceti]], la més brillant de la constel·lació, està aproximadament a 100 anys llum del sol, gairebé 10 vegades més lluny que Tau Ceti. La majoria de les estrelles properes a Tau Ceti són febles i no poden apreciar-se a simple vista, entre elles [[YZ Ceti]] i [[Luyten 726-8]].
+
+== En la ficció ==
+[[Fitxer:Isaac Asimov on Throne.png|thumb|left|Isaac Asimov, representat aquí en un tron, és un dels escriptors més importants de la ciència-ficció. També va citar en les seves obres el sistema τ Ceti.]]
+{{AP|Tau Ceti en la ficció}}
+Els [[sistema planetari|sistemes planetaris]] d'[[estrella|estrelles]] fora del [[sol]] i el [[sistema solar]] són un element bàsic en gran part de la [[ciència-ficció]]. Tau Ceti és la segona estrella més propera al Sol (després d'[[Alfa del Centaure en la ficció|Alfa del Centaure A]]) amb una [[Classificació estel·lar#Tipus G|classe espectral G]], que permet popularment al sistema, l'origen dels relats de ciència-ficció. El sol, també de classe G, proporciona un model obvi per la possibilitat que l'estrella pot albergar mons capaços de sostenir la vida. Però Tau Ceti, amb un pes de ~0,78 math\begin{smallmatrix}M_\odot\end{smallmatrix}/math, és pobre en metallref{{ref-publicació|cognom1=Flynn |nom1=C |cognom2=Morell |nom2=O |títol=Metallicities and kinematics of G and K dwarfs |publicació=[[Monthly Notices of the Royal Astronomical Society]] |any=1997 |volum=286 |exemplar=3 |pàgines=617–625 |bibcode=1996astro.ph..9017F |arxiv = astro-ph/9609017 |llengua=anglès |consulta=2012-05-23 }}/ref i així es pensa que és poc probable que contingui planetes rocosos; per altra banda, les observacions han detectat més de deu vegades la quantitat de pols al voltant de l'estrella del que hi ha al Sistema Solar,ref{{ref-publicació|cognom1=Greaves |nom1=J S |cognom2=Wyatt |nom2=M C |cognom3=Holland |nom3=W S |cognom4=Dent |nom4=W R F |títol=The debris disc around tau Ceti: a massive analogue to the Kuiper Belt |publicació=[[Monthly Notices of the Royal Astronomical Society]] |any=2004 |volum=351 |exemplar=3 |pàgines=L54–L58 |bibcode=2004MNRAS.351L..54G |doi=10.1111/j.1365-2966.2004.07957.x |llengua=anglès |consulta=2012-05-23 }}/ref una condició que tendeix a augmentar la probabilitat d'aquests cossos. Atès que la lluminositat de l'estrella és tot just el 55% que el [[sol]], aquests planetes haurien de girar en el radi orbital de [[Venus (planeta)|Venus]] per tal que coincideixi amb la insolació rebuda per la Terra.ref{{ref-publicació|cognom1=Porto de Mello |nom1=G F |cognom2=del Peloso |nom2=E F |cognom3=Ghezzi |nom3=L |títol=Astrobiologically interesting stars within 10 parsecs of the Sun |llengua=anglès |publicació=[[Astrobiology]] |any=2006 |volum=6 |exemplar=2 |pàgines=308–331 |doi= 10.1089/ast.2006.6.308 |pmid=16689649 |bibcode=2006AsBio...6..308P |arxiv = astro-ph/0511180 }}/ref A continuació es poden citar algunes obres de [[ciència-ficció]] que relaten sobre l'estrella o el seu sistema:
+* En les sagues [[Sèrie dels robots|dels robots]] i de la [[Saga de la Fundació|Fundació]] d'[[Isaac Asimov]], el [[planeta]] [[Aurora (planeta fictici)|Aurora]] i les seves dues llunes de la grandària d'[[asteroide]]s orbiten Tau Ceti.
+* En la [[Guia de l'Autoestopista Galàctic]] existeix un món conegut com ''Sirius Tau Ceti'' colonitzat -o construït per- la Corporació Cibernètica Sirius.
+* En la saga de novel·les de [[ciència-ficció]] de [[Harry Turtledove]] [[Worldwar]], el segon planeta de Tau Ceti és el lloc d'origen dels alienígenes d'aspecte [[rèptil|reptilià]] que s'anomenen ''La Raça'' (''The Race'' en [[Idioma anglès|anglès]]), que envaeixen i tracten de conquerir la [[Terra]] mentre hi està tenint lloc la [[Segona Guerra Mundial]].
+
+==Vegeu també==
+{{Portal|Astronomia}}
+{{Portal|Espai}}
+* [[Seqüència principal]]
+* [[Epsilon Eridani]]
+* [[Llista d'estrelles més properes]]
+
+==Notes==
+{{referències|grup=Nota|amplada=60em}}
+
+==Referències==
+{{referències|2}}
+
+== Bibliografia ==
+[[Fitxer:Cetus Hevelius.jpg|thumb|250px|[[Constel·lació de la Balena]], Johannes Hevelius 1690]]
+=== Bibliografia bàsica  ===
+* {{Ref-llibre |cognom=AA.VV |nom= |enllaçautor= |coautors= |títol=L'Universo - Grande enciclopedia dell'astronomia |url= |editorial=De Agostini |lloc=Novara |data=2002 |llengua=italià |isbn= }}
+* {{Ref-llibre |cognom=Gribbin |nom=J. |enllaçautor= |coautors= |títol=Enciclopedia di astronomia e cosmologia |url= |editorial=Garzanti |lloc=Milà |data=2008 |llengua=italià |isbn=88-11-50517-8 }}
+
+=== Estrelles ===
+* {{Ref-llibre |cognom= |nom= |enllaçautor= |coautors=Martha Evans Martin; Donald Howard Menzel |títol=The Friendly Stars: How to Locate and Identify Them |url= |editorial=Courier Dover Publications |lloc=Dover |data=1964 |isbn=0-486-21099-5 |llengua=anglès |pàgina= 147}}
+* {{Ref-llibre |cognom= |nom=R. J. Tayler |enllaçautor= |coautors= |títol=The Stars: Their Structure and Evolution |url= |editorial=Cambridge University Press |lloc= |data=1994 |llengua=anglès |isbn= 0-521-45885-4  |pàgina=16}}
+* {{Ref-llibre |cognom=De Blasi |nom=A. |enllaçautor= |coautors= |títol=Le stelle: nascita, evoluzione e morte |llengua=italià |url= |editorial=CLUEB |lloc=Bolonya |data=2002 |isbn=88-491-1832-5 }}
+* {{Ref-llibre |cognom= |nom= |enllaçautor= |coautors= |títol=Universo in evoluzione dalla nascita alla morte delle stelle |llengua=italià |url= |editorial=Sandit |lloc= |data=2007 |isbn=88-89150-32-7 }}
+* {{Ref-llibre |cognom= |nom= |enllaçautor= |coautors= |títol=The Brightest Stars: Discovering the Universe through the Sky's Most Brilliant Stars |url= |llengua=anglès |editorial= |lloc= |data=2008 |isbn=978-0-471-70410-2 |pàgina= 288 |llengua=anglès }}
+
+=== Carta celeste ===
+* {{Ref-web |cognom= |nom=Toshimi Taki |enllaçautor= |coautors= |títol=''Taki's 8.5 Magnitude Star Atlas'' |url=http://www.geocities.jp/toshimi_taki/atlas_85/atlas_85.htm |editor= |lloc= |data=2005 |isbn= |llengua=anglès }} {{pdf}}
+* {{Ref-llibre |cognom=Tirion, Rappaport, Lovi |nom= |enllaçautor= |coautors= |títol=Uranometria 2000.0 - Volume II: The Southern Hemisphere to +6° |url= |editorial=Willmann-Bell, inc. |lloc=Richmond, Virgínia, EUA |data=1987 |isbn=0-943396-15-8 |llengua=anglès }}
+* {{Ref-llibre |cognom=Tirion, Sinnott |nom= |enllaçautor= |coautors= |títol=Sky Atlas 2000.0 - Second Edition |url= |editorial= |lloc= |data= |isbn= |llengua=anglès }}
+* {{Ref-llibre |cognom=Tirion |nom= |enllaçautor= |coautors= |títol=The Cambridge Star Atlas 2000.0 |url= |editorial=Cambridge University Press |lloc=Cambridge, EUA |data=1998 |isbn=0-933346-90-5 |llengua=anglès }}
+* {{Ref-llibre |cognom=Tirion |nom= |enllaçautor= |coautors= |títol=The Cambridge Star Atlas 2000.0 |url= |editorial=Cambridge University Press |lloc=Cambridge, EUA |data=2001 |isbn=0-521-80084-6 |llengua=anglès }}
+
+== Enllaços externs ==
+{{Commonscat}}
+* {{en}} [http://uranometria.blogspot.com/p/near-star-catalogue.html Near Star Catalog]
+* {{en}} [http://www.astro.uiuc.edu/~kaler/sow/taucet.html Tau Ceti] al lloc web de Jim Kaler a STARS
+* {{en}} [http://www.centauri-dreams.org/?p=1471 Tau Ceti: Life Amidst Catastrophe?] a Centauri Dreams
+* {{en}} [http://arxiv.org/abs/1212.4277 Senyals integrats en el soroll de la velocitat radial. Les variacions periòdiques en les velocitats de tau Ceti] (18 Des 2012 : [[arxiv]]:1212.4277)  
+* {{en}} [http://nstars.nau.edu/index.cfm?fuseaction=nstars.home Nearby Stars Database]
+* {{en}} [http://www.rssd.esa.int/index.php?project=HIPPARCOSpage=hipsearch ''The Hipparcos and Tycho Catalogues''] European Space Agency, 9. Juliol 2007, consultat el 24 març 2008 (anglès, Número de catàleg 8102 en camp de cerca „Hipparcos Identifier“).
+{{Sky|01|44|04.0829|-|15|56|14.928|11.9}}
+{{Article de qualitat}}
+{{Enllaç AB|fr}}
+{{Enllaç AB|it}}
+{{Enllaç AB|ko}}
+{{Enllaç AB|zh}}
+{{Enllaç AD|cs}}
+{{Enllaç AD|de}}
+{{Enllaç AD|en}}
+
+[[Categoria:Balena]]
+[[Categoria:Articles de qualitat de física]]
+[[Categoria:Traduccions que són articles de qualitat]]</text>
+      <sha1>ns6ipxrsshghq1xygoktuffbbqkm3im</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

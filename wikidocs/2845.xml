@@ -1,0 +1,987 @@
+<page>
+    <title>Terra</title>
+    <ns>0</ns>
+    <id>2845</id>
+    <revision>
+      <id>13943824</id>
+      <parentid>13780780</parentid>
+      <timestamp>2014-08-16T10:02:03Z</timestamp>
+      <contributor>
+        <username>RotlinkBot</username>
+        <id>151337</id>
+      </contributor>
+      <minor></minor>
+      <comment>Bot: enllaç no actiu</comment>
+      <text>{{polisèmia}}
+{{Infobox Planet
+| bgcolour = #c0c0ff
+| name = Terra
+| symbol = [[Fitxer:Earth symbol.svg|25px|Símbol astronòmic de la Terra]]
+| image = [[Fitxer:Earth_Eastern_Hemisphere.jpg|250px|Terra]]
+| epoch = [[J2000.0]]ref group=nota name=epoch/
+| aphelion = 152.098.232 kmbr / 1,01671388 [[Unitat astronòmica|UA]]ref group=nota name=apsis/
+| perihelion = 147.098.290 kmbr / 0,98329134 UAref group=nota name=apsis/
+| semimajor = 149.598.261 kmbr / 1,00000261 UAref name=standish_williams_iau/
+| eccentricity = 0,01671123ref name=standish_williams_iau/
+| inclination = 7,155° respecte a l'[[equador]] del [[Sol]]br /1,57869°ref name=Allen294/ respecte al pla invariable
+| asc_node = 348,73936°ref name=earth_fact_sheet/ref group=nota name=asc_node/
+| arg_peri = 114,20783°ref name=earth_fact_sheet/ref group=nota name=arg_peri/
+| mean_anomaly = 357,51716°ref name=earth_fact_sheet/
+| period = 365,256363004 daysref name=IERS/br /1,000017421 [[Any julià|anys]]
+| avg_speed = 29,78 km/sref name=earth_fact_sheet/br /107.200 km/h
+| satellites = 1 satèl·lit natural (la [[Lluna]])
+br / més de 8.300 satèl·lits artificials artificial ({{as of|2001|3|1|lc=on}})ref{{ref-web|url=http://www.spaceref.com/news/viewpr.html?pid=4008|títol=Reentry Assessment - US Space Command Fact Sheet|autor=[[US Space Command]]|data=1 de març de 2001|editor=SpaceRef Interactive|consulta=7-5-2011}}/ref
+| physical_characteristics = yes
+| flattening = 0,0033528ref name=iers/
+| equatorial_radius = 6.378,1 kmref name=usno/ref name=WGS-84/
+| polar_radius = 6.356,8 kmref name=cazenave_ahrens1995/
+| mean_radius = 6.371,0 kmref name=hbcp2000/
+| circumference = 40.075,017 km ([[equador|equatorial]])ref name=WGS-84[[World Geodetic System]] (''WGS-84''). [http://earth-info.nga.mil/GandG/wgs84/ Disponible en línia] a National Geospatial-Intelligence Agency./refbr /40.007,86 km ([[meridional]])ref name=WGS-84-2/
+| surface_area = 510.072.000 kmsup2/supref name=Pidwirny 2006 /ref name=cia /ref group=nota name=surfacecover/
+{{nowrap|148.940.000 kmsup2/sup de terra (29.2 %)}}br /
+{{nowrap|361.132.000 kmsup2/sup d'aigua (70.8 %)}}
+| volume = 1,08321{{e|12}} kmsup3/supref name=earth_fact_sheet/
+| mass = 5,9736{{e|24}} kgref name=earth_fact_sheet/
+| density = 5,515 g/cmsup3/supref name=earth_fact_sheet/
+| surface_grav = 9,780327 [[metre per segon al quadrat|m/ssup2/sup]]ref name=yoder12/br /0,99732 ''g''
+| escape_velocity = 11,186 km/sref name=earth_fact_sheet/
+| sidereal_day = 0,99726968 dref name=Allen296 / br /23{{smallsup|h}} 56{{smallsup|m}} 4,100{{smallsup|s}}
+| rot_velocity = 1.674,4 km/href name=Cox2000/
+| axial_tilt = 23°26'21ref name=IERS/
+| albedo = 0,367 ([[Albedo geomètric|geometric]])ref name=earth_fact_sheet/br /
+0,306 ([[Albedo de Bond|Bond]])ref name=earth_fact_sheet/
+| adjectives = terrestre,ref[http://dlc.iec.cat/results.asp?txtEntrada=terrestreoperEntrada=0 DIEC]/ref terrícolaref[http://dlc.iec.cat/results.asp?txtEntrada=terr%EDcolaoperEntrada=0 DIEC]/ref
+| atmosphere = yes
+| temperatures = yes
+| temp_name1 = [[Kelvin]]
+| min_temp_1 = 184 Kref name=asu_lowest_temp/
+| mean_temp_1 = 287,2 Kref name=kinver20091210/
+| max_temp_1 = 331 Kref name=asu_highest_temp/
+| temp_name2 = [[Celsius]]
+| min_temp_2 = -89,2 °C
+| mean_temp_2 = 14 °C
+| max_temp_2 = 57,8 °C
+| surface_pressure = [[Atmosfera (unitat)|101,325]] [[Pascal (unitat)|kPa]] ([[nivell mitjà del mar]])
+| atmosphere_composition = 78,8% [[nitrogen]] (Nsub2/sub)ref name=earth_fact_sheet/br / 20,95% [[oxigen]] (Osub2/sub)br / 0,93% [[argó]]br / 0,038% [[diòxid de carboni]]br /Un 1% de [[vapor d'aigua]] (varia amb el [[clima]])
+|note = no
+}}
+La '''Terra''' és el tercer [[planeta]] en distància respecte al [[Sol]], el més dens i el cinquè en mida dels vuit planetes del [[sistema solar]]. És també el més gran dels quatre [[planeta tel·lúric|planetes terrestres]] del sistema solar. De vegades s'anomena ''món'' o el planeta blau.ref name=blueplanet/
+
+Hi habiten milions d'[[espècie]]s, inclosos els [[humà|humans]]; i és l'únic [[astre]] on se sap que hi ha [[vida]].ref name=science_241_4872_1441 / El planeta es va formar fa 4.540 milions d'anys, i [[Abiogènesi|hi va aparèixer vida]] en mil milions d'anys.ref name=age_earth1 / La [[biosfera]] de la Terra ha alternat significativament l'[[Atmosfera terrestre|atmosfera]] i altres condicions abiòtqiues, permetent la proliferació d'[[organisme aeròbic|organismes aeròbics]] i la formació de la [[capa d'ozó]] que, juntament amb el [[camp magnètic terrestre]], bloqueja la [[radiació solar]] perjudicial.ref name=Harrison 2002 / Les [[Geofísica|propietats físiques de la Terra]], així com la seva història [[geologia|geològica]] i òrbita, han permès que la vida persisteixi durant aquest període. S'espera que el planeta pugui tenir vida durant com a mínim 500 milions d'anys més.ref name=britt2000 /ref name=carrington /
+
+L'[[escorça terrestre]] es divideix en diversos segments rígids, o [[plaques tectòniques]], que es mouen per la superfície al llarg de molts milions d'anys. Un 71% de la superfície està coberta per oceans d'aigua salada, mentre que la resta consisteix en continents i illes que tenen llacs i altres fonts d'aigua que formen la [[hidrosfera]]. No se sap res de l'existència d'aigua líquida en equilibri, que és necessària per a tota forma de vida coneguda, a la superfície de cap altre planeta.ref group=nota name=water vapor/ Els [[Pol geogràfic|pols]] estan coberts principalment de gel sòlid o [[banquisa|banquises]]. [[Estructura interna de la Terra|L'interior del planeta]] roman actiu, amb una capa gruixuda d'un [[mantell (geologia)|mantell]] relativament sòlid, i un [[nucli de la Terra|nucli]] format per dues parts: l'[[nucli extern|extern]], que és líquid i genera un camp magnètic, i l'[[nucli intern|intern]] de ferro sòlid.
+
+La Terra interacciona amb altres objectes de l'espai, especialment el Sol i la [[Lluna]]. Actualment, la Terra orbita el Sol un cop cada 366,26 vegades que rota sobre el seu propi eix, que és equivalent a 365,26 [[dia solar|dies solars]] o un [[any sideri]].ref group=nota name=sidereal_solar/ L'eix de rotació de la Terra està [[Obliqüitat|inclinada]] 23,4° respecte a la perpendicular del pla orbital, produint variacions estacionals a la superfície del planeta amb un període d'u any tropical (365,24 dies solars).ref name=yoder1995/ L'únic [[satèl·lit natural]] de la Terra, la Lluna, que va començar a orbitar-la fa uns 4.530 milions d'anys, crea les [[marea|marees]], n'estabilitza la inclinació axial i alenteix gradualment la rotació del planeta. Fa entre 3.800 i 4.100 milions d'anys, nombrosos impactes d'[[asteroide]] durant el [[Formació i evolució del sistema solar#Bombardeig tard.C3.A0|Gran Bombardeig Tardà]] van provocar canvis significatius a l'ambient de la superfície.
+
+Tant els recursos [[mineral]]s del planeta, com els productes de la [[biosfera]], contribueixen recursos que s'utilitzen per alimentar la [[població mundial]]. Aquests habitants s'agrupen en uns 200 [[estat]]s independents, que interaccionen per mitjà de diplomàcia, comerç i accions militars. Les cultures humanes han desenvolupat visions molt diverses del planeta, incloent-hi personificacions com una deïtat, una creença en una [[Terra plana]] o [[Model geocèntric|com al centre de l'univers]].
+
+== Composició i estructura ==
+{{Main|Ciències de la Terra}}
+La Terra és un planeta terrestre, la qual cosa significa que és un cos rocós, en lloc d'un [[gegant gasós]] com [[Júpiter (planeta)|Júpiter]]. És el més gran dels quatre planetes terrestres del sistema solar en mida i massa. D'aquests quatre planetes, la Terra també té la densitat més gran, la [[gravetat superficial]] més alta, el camp magnètic més fort i la rotació més ràpida.ref name=stern20011125/ També és l'únic planeta terrestre amb [[tectònica de plaques]] activa.ref name=science288_5473_2002/
+
+=== Forma ===
+[[Fitxer:Terrestrial planet size comparisons.jpg|thumb|Comparació dels planetes interiors (d'esquerra a dreta): [[Mercuri (planeta)|Mercuri]], [[Venus (planeta)|Venus]], la Terra i [[Mart (planeta)|Mart]]]]
+La forma de la Terra és molt propera a la d'un [[esferoide oblat]], una esfera aixafada al llarg de l'eix de pol a pol de tal manera que hi hagi un bony al voltant de l'[[equador]].ref name=milbert_smith96/ Aquest bony és a causa de la [[rotació]] de la Terra, i fa que el diàmetre a l'equador sigui 43 km més gran que el diàmetre dels pols.ref name=ngdc2006/ El diàmetre mitjà de l'esferoide de referència és d'uns 12.742 km, que és aproximadament 40.000 km/[[Nombre pi|π]], ja que el metre es va definir originalment com a 1/10.000.000 de la distància de l'equador al [[pol Nord]] passant per [[París]] ([[França]]).ref name=nist_length2000/
+
+La [[topografia]] local es desvia d'aquest esferoide ideal, tot i que a escala global aquestes desviacions són molt petites: la Terra té una tolerància d'una part de cada 584, o 0,17%, de l'esferoide de referència. És menys, per tant, que la tolerància del 0,22% permesa en boles de billar.ref name=wpba2001/ Les desviacions locals més grans a la superfície rocosa de la Terra són el mont [[Everest]] (8.848 m sobre el nivell del mar local) i la [[fossa de les Mariannes]] (10.911 m sota el nivell del mar local). A causa de la deformació equatorial, les localitzacions de la superfície més llunyanes del centre de la Terra són els pics del [[Chimborazo]] a l'[[Equador]] i [[Huascarán]] al [[Perú]].ref name=ps20_5_16/ref name=lancet365_9462_831/ref name=tall_tales/
+
+{| class=wikitable style=float: right; clear: right; margin-left: 2em;
+|+ Composició química de l'escorçaref name=brown_mussett1981/
+!rowspan=2|Compost
+!rowspan=2|Fórmula
+!colspan=2|Composició
+|-
+!style=font-size: smaller;|Continental
+!style=font-size: smaller;|Oceànic
+|-
+|[[Sílice]]
+|style=text-align: center;|SiOsub2/sub
+|style=text-align: right;|60,2%
+|style=text-align: right;|48,6%
+|-
+|[[Alúmina]]
+|style=text-align: center;|Alsub2/subOsub3/sub
+|style=text-align: right;|15,2%
+|style=text-align: right;|16,5%
+|-
+|[[Calç]]
+|style=text-align: center;|CaO
+|style=text-align: right;|5,5%
+|style=text-align: right;|12,3%
+|-
+|[[Òxid de magnesi|Magnesia]]
+|style=text-align: center;|MgO
+|style=text-align: right;|3,1%
+|style=text-align: right;|6,8%
+|-
+|Òxid de ferro(II)
+|style=text-align: center;|FeO
+|style=text-align: right;|3,8%
+|style=text-align: right;|6,2%
+|-
+|[[Òxid de sodi]]
+|style=text-align: center;|Nasub2/subO
+|style=text-align: right;|3,0%
+|style=text-align: right;|2,6%
+|-
+|[[Òxid de potassi]]
+|style=text-align: center;|Ksub2/subO
+|style=text-align: right;|2,8%
+|style=text-align: right;|0,4%
+|-
+|Òxid de ferro(III)
+|style=text-align: center;|Fesub2/subOsub3/sub
+|style=text-align: right;|2,5%
+|style=text-align: right;|2,3%
+|-
+|[[Aigua]]
+|style=text-align: center;|Hsub2/subO
+|style=text-align: right;|1,4%
+|style=text-align: right;|1,1%
+|-
+|[[Diòxid de carboni]]
+|style=text-align: center;|COsub2/sub
+|style=text-align: right;|1,2%
+|style=text-align: right;|1,4%
+|-
+|[[Diòxid de titani]]
+|style=text-align: center;|TiOsub2/sub
+|style=text-align: right;|0,7%
+|style=text-align: right;|1,4%
+|-
+|[[Pentòxid de fòsfor]]
+|style=text-align: center;|Psub2/subOsub5/sub
+|style=text-align: right;|0,2%
+|style=text-align: right;|0,3%
+|-
+!colspan=2|Total
+!style=text-align: right;|99,6%
+!style=text-align: right;|99,9%
+|}
+
+=== Composició química ===
+{{principal|Nucli de la Terra}}
+La massa de la Terra és d'aproximadament 5,98{{e|24}} kg. Està composta principalment de [[ferro]] (32,1%), oxigen (30,1%), [[silici]] (15,1%), [[magnesi]] (13,9%), [[sofre]] (2,9%), [[níquel]] (1,8%), [[calci]] (1,5%), i [[alumini]] (1,4%); l'1,2% restant consisteix de quantitats en traces d'altres elements. Es creu que la regió del nucli està formada principalment de ferro (88,8%), amb quantitats inferiors de níquel (5,8%), sofre (4,5%), i menys d'un 1% d'elements en traces.ref name=pnas71_12_6973/
+
+El geoquímic F. W. Clarke va calcular que poc més d'un 47% de l'escorça de la Terra consisteix d'oxigen. Els components de les roques més comunes de l'escorça terrestre són gairebé tots òxids; el clor, el sofre i el fluor són les úniques excepcions importants i la seva quantitat total en qualsevol roca és generalment molt menys que un 1%. Els principals òxids són la sílice, l'alúmina, òxids de ferro, calç, magnesi, potassa i sosa. La sílice funciona principalment com a àcid, formant silicats, i tots els minerals més comuns de les roques ígnies són d'aquesta naturalesa. D'un càlcul basat en 1.672 anàlisis de tot tipus de roca, Clarke va deduir que el 99,22% estaven compostes d'11 òxids (vegeu taula a la dreta). La resta de constituents només es troben en quantitats molt petites.ref{{1911|article=Petrology}}/ref
+
+{| class=wikitable style=width:200px;
+|+ Composició de la terra en massa
+! [[Ferro]]
+| align=right|34,6% 
+|- 
+! [[Oxigen]]
+| align=right|29,5% 
+|- 
+! [[Silici]]
+| align=right|15,2% 
+|- 
+! [[Magnesi]]
+| align=right|12,7% 
+|- 
+! [[Níquel]]
+| align=right|2,4% 
+|- ola jamal
+! [[Sofre]]
+| align=right|1,9% 
+|- 
+! [[Titani]]
+| align=right|0,05% 
+|- 
+! Altres elements
+| align=right|3,65% 
+|}
+
+=== Estructura interna ===
+{{AP|Estructura interna de la Terra}}
+L'interior de la Terra, com el de tots els planetes terrestres, es divideix en capes segons les seves propietats químiques o físiques. Tanmateix, al contrari que la resta de planetes terrestres, té un nucli intern i extern distingits. La capa exterior de la Terra és una [[escorça terrestre|escorça]] de [[silicat]]s, damunt d'un mantell sòlid altament [[viscositat|viscosa]]. L'escorça està separada del mantell per la [[discontinuïtat de Mohorovičić]], i el gruix de l'escorça varia: de mitjana 6 km sota els oceans i 30–50 km als continents. L'escorça i la part freda, rígida i superior del mantell superior es coneix col·lectivament com a [[litosfera]]. A sota de la litosfera hi ha l'[[astenosfera]], una capa de viscositat relativament baixa. A sota el mantell, hi ha un nucli extern líquid extremadament poc viscós al damunt d'un nucli intern sòlid.ref name=tanimoto_ahrens1995/ El nucli intern pot rotar a una [[velocitat angular]] lleugerament més alta que la resta del planeta, avançant de 0,1 a 0,5° cada any.ref name=science309_5739_1313/
+
+{| class=wikitable style=margin:4px; margin-right:0; width:100%; text-align:center;
+|+ Capes geològiques de la Terraref name=pnas76_9_4192/
+|-
+! rowspan=8 style=width:250px; font-size:smaller; text-align:center; padding:0;|[[Fitxer:Earth-crust-cutaway ca.svg|250px|center|Tall des del nucli a l'exosfera. No a escala]]br /Tall des del nucli a l'exosfera. No a escala. (Cliqueu per ampliar)
+!Profunditatref name=robertson2001/br /span style=font-size: smaller;km/span
+!style=vertical-align: bottom;|Capa
+!Densitatbr /span style=font-size: smaller;g/cmsup3/sup/span
+|-
+|0–60
+|style=text-align:left;|
+;[[Litosfera]]ref group=notaVaria localment entre 5 i 200 km./ref
+:És la part més superficial que es comporta de manera elàstica. Comprèn l'escorça i la porció superior del mantell.
+|—
+|- style=background:#FEFEFE;
+|0–35
+|style=text-align:left; padding-left:1em;|
+; [[Escorça terrestre|Escorça]]ref group=notaVaria localment entre 5 and 70 km./ref
+: És la capa més superficial. Està composta per [[basalt]] en les conques oceàniques i per [[granit]] en els continents.
+|2,2–2,9
+|- style=background:#FEFEFE;
+|35–60
+|style=text-align:left; padding-left:1em;|
+; [[Mantell (geologia)#Mantell superior|Mantell superior]]
+: S'inicia a la Moho, que està a una profunditat mitjana de 6 km sota l'escorça oceànica i a una profunditat mitjana de 35,5 km sota l'escorça continental
+|3,4–4,4
+|-
+|  35–2890
+|style=text-align:left;|
+; [[Mantell (geologia)|Mantell]]
+: És una capa intermèdia entre l'escorça i el nucli. Arriba fins a una profunditat de 2.900 km. Està compost per [[peridotita]].
+|3,4–5,6
+|- style=background:#FEFEFE;
+|100–700
+|style=text-align:left; padding-left:1em;|
+; [[Astenosfera]]
+: És la porció del mantell que es comporta de manera fluida.
+|—
+|-
+|2890–5100
+|style=text-align:left;|
+; [[Nucli extern]]
+: Part externa del [[Nucli de la Terra|nucli]], que és líquida.
+|9,9–12,2
+|-
+|5100–6378
+|style=text-align:left;|
+; [[Nucli intern]]
+: Part interna del [[Nucli de la Terra|nucli]], que és sòlida.
+|12,8–13,1
+|}
+
+=== Escalfor ===
+L'escalfor interna de la Terra prové d'una combinació d'escalfor residual de l'acreció planetària (un 20%) i escalfor produïda per mitjà de [[radioactivitat]] (80%).ref name=turcotte/ Els principals isòtops que produeixen escalfor són el [[potassi|potassi-40]], [[urani|urani-238]], urani-235, i [[tori|tori-232]].ref name=sanders20031210/ Al centre del planeta, la temperatura pot ser de 7.000 K i la pressió pot arribar a 360 [[Pascal (unitat)|GPa]].ref name=ptrsl360_1795_1227/ Com que gran part de l'escalfor prové de radioactivitat, els científics creuen que al principi de la història de la Terra, abans que els isòtops amb períodes de semidesintegració curts s'haguessin esgotat, la producció d'escalfor de la Terra hauria estat molt més gran. Aquesta producció d'escalfor addicional, dues vegades l'actual fa 3.000 milions d'anys,ref name=turcotte / hauria augmentat la temperatura de la Terra, incrementant els ritmes de tectònica de plaques, permetent la producció de roques ígnies com les komatites que no es formen avui en dia.ref name=epsl121_1/
+
+{| class=wikitable style=text-align:center;
+|+ Isòtops que generen més escalfor avui en diaref name=TS 137/
+|-
+! Isòtop
+! Alliberament d'escalforbr /span style=font-size: smaller;[[Watt|W]]/kg isòtops/span
+! Període de semidesintegracióbr /br /span style=font-size: smaller;anys/span
+! Concentració mitjana del mantellbr /span style=font-size: smaller;kg isòtop/kg mantell/span
+! Alliberament d'escalforbr /span style=font-size: smaller;W/kg mantell/span
+|-
+| sup238/supU
+| {{nowrap|9,46 × 10sup−5/sup}}
+| {{nowrap|4,47 × 10sup9/sup}}
+| {{nowrap|30,8 × 10sup−9/sup}}
+| {{nowrap|2,91 × 10sup−12/sup}}
+|-
+| sup235/supU
+| {{nowrap|5,69 × 10sup−4/sup}}
+| {{nowrap|7,04 × 10sup8/sup}}
+| {{nowrap|0,22 × 10sup−9/sup}}
+| {{nowrap|1,25 × 10sup−13/sup}}
+|-
+| sup232/supTh
+| {{nowrap|2,64 × 10sup−5/sup}}
+| {{nowrap|1,40 × 10sup10/sup}}
+| {{nowrap|124 × 10sup−9/sup}}
+| {{nowrap|3,27 × 10sup−12/sup}}
+|-
+| sup40/supK
+| {{nowrap|2,92 × 10sup−5/sup}}
+| {{nowrap|1,25 × 10sup9/sup}}
+| {{nowrap|36,9 × 10sup−9/sup}}
+| {{nowrap|1,08 × 10sup−12/sup}}
+|}
+
+La pèrdua mitjana d'escalfor de la Terra és de {{nowrap|87 mW msup−2/sup}}, que suposa una pèrdua global de {{nowrap|4.42 × 10sup13/sup W}}.ref name=jg31_3_267/ Una part de l'energia termal del nucli es transporta cap a l'escorça per mitjà de plomes del mantell. Aquestes plomes poden produir [[punt calent|punts calents]].ref name=science246_4926_103/
+
+=== Hidrosfera ===
+{{principal|Hidrosfera}} 
+ 
+L'abundància d'aigua a la superfície de la Terra és una característica única que distingeix el Planeta blau de la resta del sistema solar. La hidrosfera de la Terra consisteix en els oceans, que tècnicament conté totes les altres superfícies del món, incloent-hi mars interiors, llacs, rius, i aigües subterrànies d'una profunditat de fins a 2.000 m. La posició sota l'aigua més profunda és la [[fossa Challenger]] de la [[fossa de les Mariannes]] a l'[[oceà Pacífic]] amb una profunditat de -10.911,4 m.ref group=nota name=trench_depth/ref name=kaiko7000/
+
+La massa dels oceans és d'aproximadament 1,35{{e|18}} [[tona (unitat)|tones]], o 1/4400 de la massa total de la Terra. Els oceans cobreixen una àrea de 3,618{{e|8}} kmsup2/sup amb una profunditat mitjana de 3.682 m, resultant en un volum estimat de 1,332{{e|9}} kmsup3/sup.ref name=ocean23_2_112/ Si tota la terra de la Terra s'expandís uniformement, l'aigua pujaria a una altitud de més de 2,7 km.ref group=nota La superfície total de la Terra és de 5,1{{e|8}} kmsup2/sup/ref Un 97,5% de l'aigua de la terra és salada, mentre que el 2,5% restant és aigua dolça. Gran part de l'aigua dolça, un 68,7%, és actualment gel.ref name=shiklomanov_et_al_1999/
+
+La [[salinitat]] mitjana dels oceans de la Terra és d'uns 35 grams de sal per quilogram d'aigua de mar (35 ‰).ref name=kennish2001/ La major part d'aquesta sal es va alliberar durant activitat volcànica de roques ígnies fredes.ref name=mullen2002/ Els oceans són també una reserva de gasos atmosfèrics dissolts, que són essencials per la supervivència de moltes formes de vida aquàtiques.ref name=natsci_oxy4/ L'aigua de mar té una influència important en el clima mundial, ja que els oceans actuen com a [[focus calòric]].ref name=michon2006/ Les variacions en la distribució de temperatura oceànica poden causar variacions climàtiques importants, com ''El Niño''.ref name=sample2005/
+
+=== Atmosfera ===
+{{principal|Atmosfera terrestre}}
+La [[pressió atmosfèrica]] a la superfície de la Terra és de mitjana 101,325 [[Pascal (unitat)|kPa]], amb una [[alçada d'escala]] d'uns 8,5 km.ref name=earth_fact_sheet/ Està composta en un 78% de [[nitrogen]] i un 21% d'[[oxigen]], amb quantitats en traces de [[vapor d'aigua]], [[diòxid de carboni]] i altres molècules gasoses. L'alçada de la [[troposfera]] varia amb la latitud, variant entre 8 km als pols i 17 km a l'equador, amb una mica de variació a causa del temps i factors estacionals.ref name=geerts_linacre97/
+
+La biosfera de la Terra ha alterat significativament la seva atmosfera. La fotosíntesi oxigènica va evolucionar fa 2.700 milions d'anys, formant l'atmosfera formada principalment per nitrogen i oxigen d'avui en dia. Aquest canvi va permetre la proliferació d'[[organisme aeròbic|organismes aeròbics]], així com la formació de la capa d'ozó que bloqueja la [[radiació solar]] [[ultraviolat|ultraviolada]], permetent al seu torn la vida a terra. Entre altres funcions atmosfèriques importants per la vida a la Terra hi ha el transport de vapor d'aigua, aportant gasos útils, fer que [[meteoroide]]s es cremin abans d'impactar amb la superfície, i moderar la temperatura.ref name=atmosphere/ Aquest últim fenomen es coneix com a [[efecte hivernacle]]: molècules en traces de l'atmosfera s'utilitzen per capturar energia tèrmica emesa des del terra, conseqüentment augmentant la temperatura mitjana. El vapor d'aigua, el diòxid de carboni, metà i ozó són els principals [[gas hivernacle|gasos hivernacle]] de l'atmosfera de la terra. Sense aquest efecte de retenció de calor, la temperatura mitjana de la superfície seria de -18 °C i la vida molt probablement no existiria.ref name=Pidwirny2006 /
+ 
+Les capes de l'atmosfera són: la [[troposfera]], l'[[estratosfera]], la [[mesosfera]], la [[termosfera]], i l'[[exosfera]]. Les seves altituds varien amb els canvis estacionals. La massa total de l'atmosfera és aproximadament 5,1·10sup18/sup kg.
+
+== Òrbita i rotació ==
+{{Vegeu també|Moviments de la Terra}}
+La Terra realitza els següents [[moviment]]s de forma simultània:
+* [[Translació]] sobre la seva òrbita al voltant del [[Sol]]
+* [[Rotació]] sobre el seu propi [[eix de la Terra|eix]], moviment que determina el dia i la nit. 
+* [[Precessió]] associada al gir que fa l'eix instantani de rotació de la Terra, a causa de la seva lleugera inclinació. 
+* [[Nutació]], una lleugera vibració perpendicular a la precessió i que ve donada per la influència gravitatòria de la Lluna en girar entorn de la Terra.
+
+=== Rotació ===
+[[Fitxer:Obliqüitat o inclinació de l'eix de la Terra.svg|thumb|175px|Animació que mostra la rotació de la terra]]
+{{AP|Rotació de la Terra}}
+El període de rotació de la Terra en relació al Sol —el seu dia solar mitjà— és de 86.400 segons de temps solar mitjà (86.400,0025 segons del [[Sistema Internacional d'Unitats|SI]]).ref name=aj136_5_1906/ Com que el dia solar de la Terra és lleugerament més llarg que durant el segle XIX a causa de l'[[Força de marea|acceleració de marea]], cada dia és entre 0 i 2 [[mil·lisegon]]s del [[Sistema Internacional d'Unitats|SI]] més llarg.ref name=USNO_TSD/ref{{format ref}}http://maia.usno.navy.mil/ser7/ser7.dat/ref
+
+El període de rotació de la Terra en relació a les estrelles fixes, anomenat ''dia estel·lar'' per l'International Earth Rotation and Reference Systems Service (IERS), és de {{nowrap|86164,098903691 segons}} de tems solar mitjà, o {{nowrap |23{{smallsup|h}} 56{{smallsup|m}} 4,098903691{{smallsup|s}}.}}ref name=IERS/ref group=nota name=Aoki/ El període de rotació de la Terra en relació a l'[[equinocci]] vernal, anomenat incorrectament ''[[dia sideral]]'', és de {{nowrap|86164,09053083288 segons}} de temps solar mitjà (UT1) {{nowrap|(23{{smallsup|h}} 56{{smallsup|m}} 4,09053083288{{smallsup|s}})}}.ref name=IERS/ Per tant el dia sideral és més curt que el dia estel·lar per uns 8,4 ms.ref name=seidelmann1992/ La longitud del dia solar mitjà en segons del SI és disponible a l'IERS per als períodes 1623–2005ref name=iers1623/ i 1962–2005.ref name=iers1962/
+
+A part de [[Meteor (astronomia)|meteors]] a l'atmosfera i satèl·lits en òrbita baixa, el moviment aparent dels cossos celestes vistos des de la Terra es realitza cap a l'oest, a una velocitat de 15°/h = 15'/min. Per a cossos propers a l'[[equador celeste]], això és l'equivalent a un diàmetre aparent del Sol o la Lluna cada dos minuts; des de la superfície del planeta, les mides aparents del Sol i la Lluna són aproximadament les mateixes.ref name=zeilik1998/ref name=angular/
+
+=== Òrbita ===
+{{AP|Òrbita de la Terra}}
+La Terra orbita el Sol a una distància mitjana d'uns 150 milions de quilòmetres cada 365,2564 dies solars mitjans, o un [[any sideri]]. Des de la Terra, això provoca un moviment aparent del Sol cap a l'est respecte les estrelles a un ritme d'aproximadament 1°/dia, o un diàmetre del Sol o la Lluna cada 12 hores. A causa d'aquest moviment, de mitjana la Terra tarda 24 hores —un [[temps solar|dia solar]]— en completar una rotació sencera sobre el seu eix fins que el Sol torna al meridià. La velocitat orbital de la Terra mitjana és d'uns 29,8 km/s (104.000 km/h), que és prou ràpid per a cobrir el diàmetre del planeta (d'uns 12.600 km) en set minuts, i la distància amb la Lluna (384.000 km) en quatre hores.ref name=earth_fact_sheet/
+
+La Lluna gira amb la Terra al voltant d'un [[baricentre]] comú cada 27,32 dies en relació a les estrelles del fons. Quan es combina amb la revolució comuna del sistema Terra–Lluna al voltant del Sol, el període del [[Mes#Mes_sin.C3.B2dic|mes sinòdic]] (de lluna nova a lluna nova), és de 29,53 dies. Vist des del [[pol celeste|pol nord celeste]], el moviment de la Terra, la Lluna, i les seves rotacions axials són totes antihoraris. Vist des d'un punt de vista damunt dels pols nord del Sol i la Terra, la Terra gira en un sentit antihorari al voltant del Sol. Els plans orbitals i axials no estan precisament alineats; la [[inclinació axial]] de la Terra és d'uns 23,4 graus respecte a la perpendicular al pla Terra–Sol, i el pla Terra–Lluna està inclinat uns 5 graus respecte al pla Terra-Sol. Sense aquesta inclinació, hi hauria un [[eclipsi]] cada dues setmanes, alternant entre [[eclipsi de Lluna|eclipsis de Lluna]] i [[eclipsi de Sol|eclipsis de Sol]].ref name=earth_fact_sheet /ref name=moon_fact_sheet/
+
+L'[[esfera de Hill]], o esfera d'influència [[gravetat|gravitacional]], de la Terra té un radi d'aproximadament 1,5 Gm (o 1.500.000 quilòmetres).ref name=vazquez_etal2006/ref name=hill_radius group=nota/ Aquesta és la distància màxima a la qual la influència gravitacional de la Terra és superior a la del Sol i altres planetes. Els objectes han d'orbitar la Terra dins d'aquest radi, o acabaran atrapats per la pertorbació gravitacional del Sol.
+
+[[File:236084main MilkyWay-full-annotated.jpg|thumb|Il·lustració de la [[Via Làctia]], mostrant la posició del Sol]]
+
+La Terra, juntament amb el sistema solar, es troba a la [[galàxia]] de la [[Via Làctia]], orbitant a uns 28.000 [[any-llum|anys-llum]] del centre de la galàxia. Actualment es troba a uns 20 anys-llum damunt del pla equatorial de la galàxia al [[Braç d'Orió]].ref name=nasa20051201/
+
+=== Inclinació de l'eix i estacions ===
+{{AP|Obliqüitat}}
+A causa de la inclinació de l'eix de la Terraoteta, la quantitat de llum solar que arriba a un punt determinat de la superfície varia al llarg de l'any. Això provoca canvis [[estació de l'any|estacionals]] al clima; l'estiu a l'hemisferi nord ocorre quan el pol nord apunta cap al Sol, i l'hivern quan apunta cal a la direcció oposada. Durant l'estiu, el dia dura més i el Sol puja més al cel. A l'hivern, el clima esdevé generalment més fred i els dies més curts. Per sobre del [[Cercle Àrtic]], es produeix un cas extrem en el qual no hi ha llum del dia durant una part de l'any. A l'hemisferi nord la situació és exactament oposada, amb el [[Pol Sud]] orientat cap a la direcció oposada del Pol Nord.
+
+[[File:The Earth and the Moon photographed from Mars orbit.jpg|thumb|left|La Terra i la Lluna vistes des de Mart, fotografiades pel Mars Reconnaissance Orbiter. Des de l'espai, es pot observar com la Terra té fases similars a [[Fases lunars|les de la Lluna]].]]
+Per convenció astronòmica, les quatre estacions es determinen pels [[solstici]]s —els punts de l'òrbita amb més inclinació axial respecte al Sol — i els [[equinocci]]s, quan la direcció de la inclinació i la direcció del Sol són perpendiculars. A l'hemisferi nord, el [[solstici d'hivern]] ocorre el 21 de desembre, el [[solstici d'estiu]] proper al 21 de juny, l'[[equinocci de primavera]] cap al 20 de març i l'[[equinocci de tardor]] cap al 23 de setembre. A l'hemisferi sud, la situació és oposada, amb els solsticis d'estiu i hivern intercanviats i les dates de l'equinocci de primavera i tardor intercanviades.ref name=bromberg2008/
+
+L'angle d'inclinació de la Terra és relativament estable al llarg de grans períodes de temps. Tanmateix, la inclinació pateix [[nutació]]; un moviment lleuger, irregular, amb un període principal de 18,6 anys.ref name=lin2006/ L'orientació (en lloc de l'angle) de l'eix de la Terra també canvia al llarg del temps, [[Precessió|precessant]] un cercle sencer en cicles de 25.800 anys; aquesta precessió és el motiu de la diferència entre un any sideral i un any tropical. Ambdós moviments són provocats per l'atracció variable del Sol i la Terra al bony equatorial de la Terra. Des del punt de vista de la Terra, els pols també migren uns quants metres a la superfície. Aquest moviment polar té components múltiples i cíclics, anomenats col·lectivament moviments quasiperiòdics. A part d'un component anual a aquest moviment, hi ha un cicle de 14 mesos anomenat [[moviment de Chandler]]. La velocitat rotacional de la Terra també varia en un fenomen conegut com a variació de la longitud del dia.ref name=fisher19960205/
+
+En èpoques modernes, el [[periheli]] de la Terra es produeix al voltant del 3 de gener, i l'[[afeli]] al voltant del 4 de juliol. Aquestes dates canvien amb el temps a causa de la [[precessió]] i altres factors orbitals, que segueixen patrons cíclics coneguts com a [[Teoria de Milankovitch|cicles de Milankovitch]]. La canviant distància entre la Terra i el Sol provoca un augment d'un 6,9%ref name=solar_energy group=nota/ en energia solar que arriba a la Terra al periheli en relació a l'afeli. Com que l'hemisferi sud està inclinat cap al Sol quan la Terra està més propera al Sol, l'hemisferi sud rep lleugerament més energia del Sol que l'hemisferi nord al llarg de l'any. Aquest efecte és molt menys significatiu que l'energia total per culpa de la inclinació axial, i la major part d'aquesta energia és absorbida per la proporció superior d'aigua a l'hemisferi sud.ref name=williams20051230/
+
+== La Lluna ==
+{{principal|Lluna}}
+{| class=wikitable style=float: right; margin-left: 0.5em;
+|+ '''Característiques'''
+|-
+| Diàmetre || 3,474.8 km
+|-
+| Massa || 7,349{{e|22}} kgbr /8,1{{e|19}} tones
+|-
+| [[Semieix major]] || 384,400 km
+|-
+| Període orbital || 27 d 7 h 43,7 m
+|}
+La Terra té un [[satèl·lit natural]], la [[Lluna]] que orbita al voltant de la Terra cada [[mes|27 1/3 dies]]. Així que hi ha un moviment de la Lluna respecte al Sol i les estrelles fixes a una velocitat d'aproximadament 12 °/dia, és a dir un diàmetre de la Lluna cada hora, en la direcció oposada al de la rotació diària del cel.
+
+Vist des del Pol Nord de la Terra, el moviment de la Terra, i la Lluna així com els seus moviments de rotació són tots directes (en sentit contrari a les agulles del rellotge). 
+ 
+El pla de l'equador i el pla de l'[[eclíptica]] formen un angle d'uns 23,5 graus. Això causa les estacions en la Terra. El pla de l'òrbita de la Lluna està inclinat aproximadament 5 graus respecte a l'eclíptica. Si no és així, hi hauria un eclipsi de Sol i un de Lluna tots els mesos.
+
+La Lluna té un quart del diàmetre de la Terra. Quan comparem aquesta relació planeta-satèl·lit amb les de la resta de planetes del sistema solar, veiem que no n'hi ha cap que tingui un satèl·lit tan gran en relació a la mida del planeta, excepte el sistema [[Plutó (planeta)|Plutó]]-[[Caront (satèl·lit)|Caront]].
+
+L'[[gravetat|atracció gravitatòria]] entre la Terra i la Lluna causa les [[marea|marees]] a la Terra. El mateix efecte a la Lluna fa que el seu [[període de rotació]] sigui igual que el [[període orbital]]. Com a resultat, la Lluna sempre presenta la mateixa cara a la Terra. En el seu moviment al voltant de la Terra diferents fraccions de la Lluna són il·luminades pel Sol, presentant un cicle complet de [[Fase lunar|fases lunars]].
+
+A causa de l'[[acceleració de les marees]], la Lluna s'allunya a raó de 38 mm per any. Al llarg dels mil·lennis, aquestes petites modificacions juntament amb l'allargament del dia terrestre en 23 [[Microsegon|µs]] per any, van sumant canvis significatius.ref{{ref-web 
+| url = http://sunearth.gsfc.nasa.gov/eclipse/SEcat5/secular.html| títol = Secular acceleration of the Moon| consulta = 2007-04-20| autor = Espenak, F.; Meeus, J.| editor = NASA| data = 2007-02-07
+|arxiuurl=https://archive.is/EtmF|arxiudata=2012-12-05}}/ref Durant el període [[Devonià]], per exemple, (fa aproximadament 410 milions d'anys) un any tenia 400 dies, essent cada un de 21,8 hores.ref{{ref-web 
+| url = http://www.skepticfiles.org/origins/coralclo.htm| títol = Using Coral as a Clock| consulta = 2007-04-20| cognom = Poropudas| nom = Hannu K. J.| editor = Skeptic Tank| data = 1991-12-16
+}}/ref
+
+La Lluna pot causar una variació moderada del [[clima]] terrestre. Les simulacions per ordinador mostren que la força d'atracció de la Lluna cap a la protuberància equatorial de la Terra causen una estabilització de la inclinació de l'eix de rotació, produint una variació moderada del clima. Sense aquesta estabilització alguns científics pensen que l'eix de rotació podria ser caòticament inestable, com pareix ocórrer en el planeta [[Mart (planeta)|Mart]]. Si l'eix de rotació de la Terra s'acostara a l'[[eclíptica]], la variació estacional del clima seria summament severa. Un pol apuntaria directament cap al Sol durant ''estiu'' i mentre per a l'altre seria nit permanent en ''hivern''. Els científics que han estudiat l'efecte pensen que això causaria la desaparició de la vida, afectant animals i plantes grans. 
+ 
+La Lluna vista des de la Terra, té la mateixa grandària angular que el Sol (el Sol és 400 vegades més gran, però està 400 vegades més lluny que la Lluna).ref name=angular{{ref-web|cognom=Williams|nom=David R.|data=2006-02-10
+|url=http://nssdc.gsfc.nasa.gov/planetary/planetfact.html
+|títol=Planetary Fact Sheets
+|editor=NASA|consulta=2008-09-28
+}}—Vegeu els diàmetres aparents en les pàgines del [[Sol]] i la [[Lluna]]./ref Açò permet que hi haja [[Eclipsi solar|eclipsis de sol]] totals. 
+
+{{-}}
+[[Fitxer:Earth_Moon_Scale.jpg|thumb|center|800px|Una representació a escala de les mides relatives i distància entre la Terra i la Lluna.]]
+
+L'origen de la Lluna és desconegut, però la hipòtesi més acceptada actualment és que es va formar per la col·lisió d'un protoplaneta de la grandària de Mart quan la Terra era jove. Aquesta hipòtesi explica la relativa manca de [[ferro]] i d'elements volàtils a la Lluna, i el fet que la seva composició sigui molt semblant a la de l'[[escorça terrestre]].ref{{ref-publicació
+|cognom = R. Canup and E. Asphaug
+|article = Origin of the Moon in a giant impact near the end of the Earth's formation
+|publicació = Nature
+|volum = 412
+|pàgines = 708–712
+|any = 2001
+|doi = 10.1038/35089010 }}/ref
+ 
+La Terra té com a mínim dos asteroides coorbitals, l'asteroide [[(3753) Cruithne]] i el [[2002 AA29|2002 AAsub29/sub]].ref{{ref-notícia|nom=David
+|cognom=Whitehouse
+|títol=Earth's little brother found
+|editorial=BBC News
+|data=2002-10-21
+|url=http://news.bbc.co.uk/1/hi/sci/tech/2347663.stm
+|consulta=2007-03-31 }}/ref
+
+== Habitabilitat ==
+{{seealso|Habitabilitat planetària}}
+Un planeta capaç de sostenir la vida és anomenat habitable, fins i tot si no se n'hi ha originat. La Terra té els (actualment entesos) requisits per a les condicions d'aigua líquida, un ambient en què molècules orgàniques complexes es poden assemblar, i suficient energia per sostenir el [[metabolisme]] dels éssers vius.ref{{ref-web 
+| url = http://astrobiology.arc.nasa.gov/roadmap/g1.html| títol = Astrobiology Roadmap| consulta = 2007-03-10| autor = Staff| editor = NASA, Lockheed Martin| mes = September| any = 2003
+}}/ref La distància de la Terra al Sol, així com la seva excentricitat orbital, velocitat de rotació, inclinació axial, història geològica, atmosfera sostinguda i camp magnètic protector contribueixen a les condicions necessàries per originar i sostenir la vida en el planeta.ref{{ref-llibre|nom=Stephen H.|cognom=Dole|any=1970|títol=Habitable Planets for Man|edició=2a ed.|editorial=American Elsevier Publishing Co.|url=http://www.rand.org/pubs/reports/R414/|consulta=2007-03-11|isbn=0-444-00092-5 }}/ref
+
+=== Biosfera ===
+{{principal|Biosfera}}
+De vegades es diu que les formes del planeta formen una biosfera. Es creu que la biosfera va començar a [[evolució|evolucionar]] fa uns 3.500 milions d'anys. La biosfera es divideix en diversos [[bioma|biomes]], habitades per plantes i animals similars. A la terra, els biomes se separen principalment per diferències en latitud, altitud sobre el nivell del mar i humitat. Als biomes terrestres que es troben dins dels cercles [[cercle àrtic|àrtic]] o [[cercle antàrtic|antàrtic]], a grans altituds o àrees àrides no hi abunda massa la vida; el pic de diversitat d'espècies es troba a terres baixes humides a latituds equatorials.ref name=amnat163_2_192/
+
+La [[Hipòtesi Gaia]] o teoria de Gaia és un model científic de la [[biosfera]] terrestre formulat pel biòleg [[James Lovelock]] i que suggereix que la [[vida]] sobre la Terra organitza les condicions climàtiques per a afavorir el seu propi desenvolupament.
+
+=== Recursos naturals i ús de la terra ===
+{| class=wikitable style=float:right;
+!Ús de la terra
+!Percentage
+|-
+| ''Terra treballable:'' ||style=text-align: right;| 13.13%ref name=cia/
+|-
+| ''Cultius permanents:'' ||style=text-align: right;| 4.71%ref name=cia/
+|-
+| ''Pastures permanents:'' ||style=text-align: right;| 26%
+|-
+| ''Boscos:'' ||style=text-align: right;| 32%
+|-
+| ''Àrees urbanes:'' ||style=text-align: right;| 1.5%
+|-
+| ''Altres:'' ||style=text-align: right;| 30%
+|}
+{{principal|Recursos naturals}}
+
+La terra proveeix de recursos que són explotables per humans per als seus propòsits. Alguns d'aquests són [[recursos no renovables|no renovables]], com els [[combustible fòssil|combustibles fòssils]], que són difícils de recuperar a petita escala.
+
+De l'escorça terrestre s'exploten grans dipòsits de [[combustible fòssil|combustibles fòssils]] tals com el [[carbó]], el [[petroli]], el [[gas natural]] i [[hidrat de metà]]. Aquests dipòsits són emprats pels humans tant per a la producció d'energia com a matèria primera per a la producció química. Les [[mena|menes]], cossos minerals, també s'han anat formant a la Terra mitjançant el procés anomenat [[mena gènesi]], resultant de l'[[erosió]] i la [[tectònica de plaques]].ref name=mnpl_utx2006/ Aquests cosos formen fonts concentrades de diversos [[metall]]s i altres [[element químic|elements químics]] útils.
+
+La biosfera de la Terra produeix molts recursos útils per als humans, incloent-hi (però lluny de limitar-se a això) menjar, fusta, [[medicament]]s, oxigen i el reciclatge de diversos residus orgànics. Els ecosistemes terrestres depenen de la fertilitat de la terra i de l'aigua dolça, mentre que els ecosistemes oceànics dels nutrients dissolts provinents de la terra.ref name=science299_5607_673/ Els humans també fan servir l'[[petjada ecològica|àrea de la terra]] fent servir materials de construcció per edificiar [[habitatge]]s. El [[1993]], l'ús humà de la Terra era d'aproximadament:
+
+La quantitat estimada de terra irrigada el [[1993]] era de 2.481.250 km².ref name=cia/
+
+=== Perills naturals i ambientals ===
+Grans superfícies de la superfície de la Terra són subjectes a clima extrem com [[cicló (meteorologia)|ciclons]] tropicals, [[huracà|huracans]], o [[tifó|tifons]] que dominen la vida en aquestes àrees. Durant el període 1980–2000, aquests esdeveniments provocaven una mitjana d'11.800 morts per any.ref name=walsh2008/ Molts llocs són subjectes a [[terratrèmol]]s, [[esllavissada|esllavissades]], [[tsunami]]s, [[volcà|erupcions volcàniques]], [[tornado]]s, [[dolina|dolines]], [[torb]]s, inundacions, sequeres, incendis, i altres desastres.
+
+Moltes àrees localitzades són subjectes a [[contaminació]] humana de l'aire i l'aigua, [[pluja àcida]] i substàncies tòxiques, pèrdua de vegetació, pèrdua de vida salvatge, extinció d'espècies, degradació del sol, erosió, i introducció d'[[espècie invasora|espècies invasores]].
+
+D'acord amb les [[Nacions Unides]], existeix un consens científic que relaciona activitats humanes amb l'[[escalfament global]] a causa d'emissions de diòxid de carboni industrials. Es prediu que provoqui canvis com la fosa de les glaceres i capes de gel, temperatures més extremes, canvis significatius al clima i una pujada del nivell del mar.ref name=un20070202/
+
+=== Geografia humana ===
+{{AP|Geografia humana}}
+{{VT|Món}}
+imagemap
+File:Continents vide couleurs.png|right|410px|
+
+poly 348 13 708 14 652 83 470 266 468 343 449 338 413 322 385 339 363 368 246 327 144 122 201 83 268 43 [[Amèrica del Nord]]
+poly 413 323 383 340 362 368 362 424 408 485 432 614 464 637 513 633 573 411 468 342 [[Amèrica del Sud]]
+poly 277 733 362 706 485 703 513 672 546 667 561 718 627 726 683 698 833 693 878 680 1148 676 1209 694 1212 738 1143 762 353 762 [[Antàrtida]]
+poly 686 218 634 257 595 297 622 339 669 372 720 371 772 545 902 550 947 327 914 320 890 329 847 253 839 237 752 214 739 210 [[Àfrica]]
+poly 839 238 739 210 685 219 653 209 596 140 709 14 917 12 915 151 894 149 881 158 892 172 884 180 890 192 861 183 807 198 815 215 [[Europa]]
+poly 916 12 1147 13 1310 90 1245 385 1237 435 1137 427 1060 351 942 362 946 328 912 319 890 328 841 238 817 217 807 198 857 184 892 191 891 172 882 160 899 149 914 152 [[Àsia]]
+poly 1309 93 1236 435 1150 465 1146 564 1388 621 1421 583 1453 536 1477 480 1488 399 1487 349 1471 278 1440 216 1394 159 [[Oceania]]
+poly 39 246 117 302 225 491 220 652 200 695 147 653 69 575 24 493 8 383 21 297 40 247 117 301 225 491 219 654 201 692 278 733 360 706 484 704 510 673 544 668 560 718 627 726 681 697 830 694 876 679 1148 676 1209 693 1211 736 1282 701 1334 665 1388 620 1146 564 1150 464 1235 435 1137 427 1059 351 941 362 902 550 772 544 718 371 665 371 621 339 596 296 682 220 652 210 596 139 471 265 469 343 469 343 572 411 514 634 462 637 431 615 407 484 362 427 362 367 247 328 143 123 86 176 [[Oceà|Oceans]]
+
+desc bottom-left
+/imagemap
+[[Fitxer:Earthlights dmsp.jpg|410px|right|thumb|La Terra de nit. Aquesta imatge no és fotogràfica, i molts llocs són més brillants que com aparaixerien a un observador directe.]]
+La Terra és la llar d'aproximadament 6.910.000.000 de persones al juliol de 2007,ref name=World Population Clock/ però les estimacions indiquen que la població mundial arribarà als 7 mil milions el 2012 i a 9.200 milions el 2050,ref name=un2006/ amb un major creixement de la població localitzat als països en vies de desenvolupament. La [[densitat de població]] varia considerablement entre les diferents regions del planeta, que es troba dividit en 5 continents: Àfrica, Amèrica, Àsia, Europa i Oceania, i 2 pols: l’Àrtic i l’Antàrtic (que rodeja el Pol Sud i és considerat per alguns exploradors, com l’últim continent descobert -com és el cas de Charles Wilkes el 1838; encara que pocs més ho van fer fins després de la Segona Guerra Mundial-). Cal remarcar, que la densitat de població és més gran al continent [[Àsia|asiàtic]]. A més, s'estima que a partir del 2020, aproximadament el 60% de la població mundial viurà en zones urbanes.ref name=prb2007/
+
+S'estima que només una vuitena part de la superfície de la Terra és adequada perquè hi puguin viure els humans. Tres quartes parts de la Terra estan cobertes per oceans, i la meitat de la superfície de terra és o bé deserta (14%),ref name=hessd4_439/ muntanyes altes (27%),ref name=biodiv/ o altres terrenys no adequats. L'assentament humà permanent més al nord és [[Alert]], a [[Ellesmere]] de [[Nunavut]] ([[Canadà]]).ref name=cfsa2006/ (82°28′N) El que es troba més al sud és l'estació Amundsen-Scott a l'[[Antàrtida]], gairebé exactament al Pol Sud (90°S).
+
+Els estats sobirans independents reclamen gairebé tota la superfície de terra del planeta, excepte algunes parts de l'Antàrtida i la terra de Bir Tawil entre [[Egipte]] i [[Sudan]]. A data del 2011 hi ha [[Llista d'estats independents i territoris dependents|204 estats sobirans]], incloent-hi els [[Llista d'estats membres de les Nacions Unides|193 membres de les Nacions Unides]]. A part, hi ha 59 territoris dependents, i una sèrie d'àrees autònomes, territoris sota disputa, i altres entitats.ref name=cia / Històricament, la Terra mai ha tingut un govern sobirà amb autoritat sobre tot el planeta, tot i que algunes nacions han intentat tenir el domini del món i han fracassat.ref name=kennedy1989/
+
+Les [[Nacions Unides]] són una organització internacional que es va crear amb l'objectiu d'intervenir en les disputes entre nacions, intentant evitar un conflicte armat.ref name=uncharter/ Tanmateix, no és un govern mundial. Les Nacions Unides són principalment un fòrum per a diplomàcia internacional i llei internacional. Si hi ha consens entre els membres, té un mecanisme per a intervenció armada.ref name=un_int_law/
+
+El primer humà a entrar en òrbita a la Terra va ser [[Iuri Gagarin]] el 12 d'abril de 1961.ref name=kuhn2006/ En total, unes 400 persones han visitat l'[[espai exterior]] i han arribat a l'òrbita de la Terra a data del 2004 i, d'aquestes 400, [[Programa Apollo|dotze]] han caminat a la Lluna.ref name=ellis2004/ref name=shayler_vis2005/ref name=wade2008/ Normalment els únics humans a l'espai són els que es troben a l'[[Estació Espacial Internacional]]. La tripulació de l'estació, de sis persones, se substitueix típicament cada sis mesos.ref name=nasa_rg_iss2007/ Els humans que han arribat és lluny de la Terra són la tripulació de l'[[Apollo 13]] del 1970, que van arribar a 400.171 km.ref name=cramb2007/
+
+== Origen ==
+La formació del planeta Terra està datada en 4,54·10sup9/sup anys.ref name=age_earth1/ El seu origen com a planeta ha de trobar-se lligat a l'origen i formació de la resta dels planetes del Sistema Solar. Bàsicament, i donant tan sols unes breus pinzellades sobre aquesta qüestió, direm que s'han proposat fonamentalment dues teories al respecte:
+# '''Teoria catastrofista''' (origen calent): Els planetes es varen formar a partir d'una llengua de material solar (gasos incandescents) produïda com a conseqüència del pas d'altra estrella per les proximitats del Sol. Un posterior refredament d'aquest material va permetre als planetes així formats passar primerament per una etapa líquida, i finalment per una etapa sòlida. Aquest pas intermedi (etapa líquida) hauria permès una decantació (separació dels materials per densitat) dels elements en capes concèntriques, com està comprovat que passa a la Terra. La calor interna de la Terra, segons està teoria, provindria de l'energia original. La forma de fus que té la distribució dels planetes del Sistema Solar, sembla ser un argument a favor d'una llengua inicial de material com a origen dels planetes; però, per altra banda, no hi ha una plena justificació per a no considerar altres possibilitats admetent la hipòtesi del pas d'altra estrella (per exemple: que el material solar inicial s'haguera dispersat a l'espai en compte de donar lloc als planetes)
+# '''Teoria de la nebulosa primitiva''' (origen fred): És la teoria més acceptada actualment (inicialment proposada per Kant i Laplace). Aquesta teoria considera que el Sol i els planetes es varen formar a partir d'una nebulosa original per concentració de la matèria freda que la formava. Pel que fa al Sol, la mateixa energia gravitacional és la que va donar lloc al començament de les reaccions nuclears de fusió. Els planetes es varen formar a partir de protoplanetes (semblants a meteorits) per un procés de creixement per atracció gravitatòria i xocs (procés d'acreció). Durant aquest procés, la temperatura dels planetes hauria arribat als 8.000-10.000 °C, i hauria permès la fusió dels elements i la separació en capes concèntriques en funció de les seves densitats. El posterior refredament hauria solidificat la part externa aïllant l'interior de perdudes energètiques (la calor interna tindria un origen primordial)
+
+== Punt de vista cultural ==
+[[Fitxer:AS8-13-2329.jpg|thumb|right|La primera fotografia feta per astronautes d'una sortida de la Terra, de l'[[Apollo 8]].]]
+
+Contràriament a la resta dels planetes del sistema solar, la humanitat no va començar a veure la Terra com a objecte en moviment al voltant del Sol fins al segle XVI.ref name=arnett20060716/ La Terra s'ha personificat sovint com a deïtat, particularment deessa. En moltes cultures la deessa mare també es representa com a deessa de la fertilitat. Els mites de la creació en moltes religions inclouen la creació de la Terra per una deïtat sobrenatural o deïtats.
+
+Al passat, hi havia creença en una [[Terra plana]],ref name=russell1997/ però va quedar obsolet amb el concepte d'una Terra esfèrica a causa d'observacions i circumnavegació.ref name=jacobs19980201/ La perspectiva humana sobre la Terra ha canviat amb el [[vol espacial]], i la biosfera es veu actualment des d'una perspectiva integrada globalment.ref name=fuller1963/ref name=lovelock1979/ Això es reflecteix en un moviment [[ecologisme|ecologista]] que està preocupat en els efectes de la humanitat sobre el planeta.ref name=mcmichael1993/
+
+== Vegeu també ==
+* [[Astronomia]]
+* [[Ubicació de la terra en l'univers]]
+* [[Sistema Solar]]
+* [[Història de la Terra]]
+* [[Història de la Terra en un dia]]
+* [[Futur de la Terra]]
+* [[Nucli de la Terra]]
+* [[Tectònica de plaques]]
+* [[Geologia]]
+* [[Geografia]]
+* [[Clima|Climes]] de la Terra
+* [[Població]] humana
+* [[Dia de la Terra]]
+
+== Notes ==
+{{Referències|2|grup=nota|refs=
+ref name=apsisafeli = ''a'' × (1 + ''e''); periheli = ''a'' × (1 - ''e''), on ''a'' és el semeix major i ''e'' és l'excentricitat./ref
+
+ref name=epochTotes les quantitats astronòmiques varien, tant secularment com periòdicament. Les quantitats donades són els valors al moment [[J2000.0]] de la variació secular, ignorant totes les variacions periòdiques/ref
+
+ref name=asc_nodeLa referència llista la longitud del node ascendent com a -11,26064°, que és equivalent a 348.73936° pel fet que qualsevol angle és igual a si mateix més 360°./ref
+
+ref name=arg_periLa referència llista la longitud del periheli, que és la suma de la longitud del node ascendent i l'argument del periheli. Això és, 114,20783° + (-11,26064°) = 102,94719°./ref
+
+ref name=sidereal_solarEl nombre de dies solars és un menys que el nombre de dies sideris ja que el moviment orbital de la Terra respecte el Sol resulta en una revolució addicional del planeta sobre el seu eix./ref
+
+ref name=water vaporActualment, els altres planetes del sistema solar són o bé massa calents o bé massa freds per tenir aigua líquida en equilibri vapor-líquid. A data del 2007, s'ha detectat vapor d'aigua a l'atmosfera de nomes un planeta extrasolar, i és un gegant gasós. Vegeu: {{ref-publicació | cognom=Tinetti|nom=G.|coautors=Vidal-Madjar, A.; Liang, M.C.; Beaulieu, J. P.; Yung, Y.; Carey, S.; Barber, R. J.; Tennyson, J.; Ribas, I|article=Water vapour in the atmosphere of a transiting extrasolar planet|publicació=Nature|mes=July|any=2007|volum=448|pàgines=169–171|url=http://www.nature.com/nature/journal/v448/n7150/abs/nature06002.html|doi = 10.1038/nature06002|pmid=17625559|exemplar=7150|bibcode = 2007Natur.448..169T }}
+/ref
+
+ref name=surfacecoverA causa de fluctuacions naturals, ambigüitats sobre les [[plataforma de gel|plataformes de gel]], i convencions cartogràfiques sobre datums verticals, els valors exactes de terra i oceà no són significatius. Les plataformes de gel de l'[[Antàrtida]] i [[Groenlàndia]] es compten com a terra, tot i que bona part de la roca es troba sota el nivell del mar./ref
+
+ref name=jaes41_3_379Including the [[Somali Plate]], which is currently in the process of formation out of the African Plate. See: {{ref-publicació|nom=Jean|cognom=Chorowicz|mes=October|any=2005|article=The East African rift system|publicació=Journal of African Earth Sciences|volum=43|exemplar=1–3|pàgines=379–410|doi=10.1016/j.jafrearsci.2005.07.019|bibcode = 2005JAfES..43..379C }}/ref
+
+ref name=trench_depthAquesta és la mesura presa pel ''[[Kaikō]]'' el març del 1995 i es creu que és la més exacta fins al moment. Vegeu [[Fossa Challenger]] per a més detalls./ref
+
+ref name=AokiAoki, la font d'aquestes xifres, utilitza el terme segons d'UT1 en lloc de segons de temkps solar mitjà.—{{ref-publicació | cognom=Aoki|nom=S.|article=The new definition of universal time|publicació=Astronomy and Astrophysics|any=1982|volum=105|exemplar=2|pàgines=359–361|bibcode=1982AA...105..359A}}/ref
+
+ref name=hill_radiusPer a la Terra, el [[radi de Hill]] és:
+
+:math\begin{smallmatrix} R_H = a\left ( \frac{m}{3M} \right )^{\frac{1}{3}} \end{smallmatrix}/math,
+
+on ''m'' és la massa de la Terra, ''a'' és una Unitat Astronòmica, i ''M'' és la massa del Sol. Per tant el radi en UA és:
+
+math\begin{smallmatrix} \left ( \frac{1}{3 \cdot 332.946} \right )^{\frac{1}{3}} = 0,01 \end{smallmatrix}/math./ref
+
+ref name=solar_energyL'afeli és un 103,4% de la distància al periheli. La radiació al periheli és un 106,9% l'energia de l'afeli./ref
+}}
+
+== Referències ==
+{{Referències|2|refs=
+ref name=blueplanet{{ref-publicació|data= febrer 2009|article=Exploring the Water Cycle of the ‘Blue Planet’: The Soil Moisture and Ocean Salinity (SMOS) mission|publicació=ESA Bulletin|editorial=[[European Space Agency]]|exemplar=137|pàgines=6–15 |url=http://www.esa.int/esapub/bulletin/bulletin137/bul137b_drinkwater.pdf |nom=Mark |cognom=Drinkwater |nom2=Yann |cognom2=Kerr |nom3=Jordi |cognom3=Font |coautors=et al|citació=A view of Earth, the ‘Blue Planet’ [...] When astronauts first went into the space, they looked back at our Earth for the first time, and called our home the ‘Blue Planet’.}}/ref
+
+ref name=cazenave_ahrens1995{{ref-llibre|nom=Anny|cognom=Cazenave|editor=Ahrens, Thomas J|any=1995|títol=Global earth physics a handbook of physical constants|editorial=American Geophysical Union|lloc=Washington, DC|isbn=0-87590-851-9|url=http://www.agu.org/reference/gephys/5_cazenave.pdf|urlarxiu=http://web.archive.org/web/20061016024803/http://www.agu.org/reference/gephys/5_cazenave.pdf|dataarxiu=16-10-2006|consulta=03-08-2008|format=PDF|capítol=Geoid, Topography and Distribution of Landforms}}/ref
+
+ref name=hbcp2000{{ref-llibre|autor=Various|editor=David R. Lide|any=2000|títol=Handbook of Chemistry and Physics|edició=81a ed.|editorial=CRC|isbn=0-8493-0481-4}}/ref
+
+ref name=Cox2000{{ref-llibre|editor=Arthur N. Cox|títol=Allen's Astrophysical Quantities|url=http://books.google.cat/?id=w8PK2XFLLH8Cpg=PA244|edició=4a ed.|any=2000|editorial=AIP Press|lloc=Nova York|isbn=0-387-98746-0|pàgines=244|consulta=17-08-2010}}/ref
+
+ref name=WGS-84-2{{ref-web|nom=Sigurd|cognom=Humerfelt|data= 26 octubre 2010|títol=How WGS 84 defines Earth|url=http://home.online.no/~sigurdhu/WGS84_Eng.html|consulta=29-04-2011 }}/ref
+
+ref name=yoder12{{ref-llibre|cognom=Yoder|nom=Charles F.|editor=T. J. Ahrens|any=1995|títol=Global Earth Physics: A Handbook of Physical Constants|editorial=American Geophysical Union|lloc=Washington|url=http://www.agu.org/reference/gephys.html|urlarxiu=http://replay.waybackmachine.org/20090421092502/http://www.agu.org/reference/gephys.html|dataarxiu=08-03-2007|consulta=17-03-2007|isbn=0-87590-851-9 |pàgines=12}}/ref
+
+ref name=kinver20091210{{ref-notícia|url=http://news.bbc.co.uk/2/hi/science/nature/8406839.stm|títol=Global average temperature may hit record level in 2010|cognom=Kinver|nom=Mark|data= 10 desembre 2009|obra=[[BBC Online]]|consulta=22-04-2010}}/ref
+
+ref name=Pidwirny 2006{{ref-publicació | cognom=Pidwirny|nom=Michael|data=02-02-2006|article=Surface area of our planet covered by oceans and continents.(Table 8o-1)|editorial=University of British Columbia, Okanagan|url=http://www.physicalgeography.net/fundamentals/8o.html|consulta=26-11-2007}}/ref
+
+ref name=iers{{cite conference|author=IERS Working Groups|editor=McCarthy, Dennis D.; Petit, Gérard|title=General Definitions and Numerical Standards|year=2003|booktitle=IERS Technical Note No. 32|publisher=U.S. Naval Observatory and Bureau International des Poids et Mesures|url=http://www.iers.org/MainDisp.csl?pid=46-25776|accessdate=03-08-2008}}/ref
+
+ref name=Allen294{{ref-llibre|títol=Allen's Astrophysical Quantities|autor=Allen, Clabon Walter; Cox, Arthur N.|editorial=Springer|any=2000|isbn=0-387-98746-0|url=http://books.google.cat/?id=w8PK2XFLLH8Cpg=PA294|pàgines=294|consulta=13-03-2011}}/ref
+
+ref name=Allen296{{ref-llibre|títol=Allen's Astrophysical Quantities|autor=Allen, Clabon Walter; Cox, Arthur N.|editorial=Springer|any=2000|isbn=0-387-98746-0|url=http://books.google.cat/?id=w8PK2XFLLH8Cpg=PA296|pàgines=296|consulta=17-08-2010}}/ref
+
+ref name=science_241_4872_1441{{ref-publicació | cognom=May|nom=Robert M.|article=How many species are there on earth?|publicació=Science|any=1988|volum=241|exemplar=4872|pàgines=1441–1449|bibcode=1988Sci...241.1441M|doi=10.1126/science.241.4872.1441|pmid=17790039}}/ref
+
+ref name=age_earth1Vegeu:
+* {{ref-llibre|nom=G.B.|cognom=Dalrymple|any=1991|títol=The Age of the Earth|editorial=Stanford University Press|lloc=California|isbn=0-8047-1569-6}}
+* {{ref-web|cognom=Newman|nom=William L.|data=09-07-2007|url=http://pubs.usgs.gov/gip/geotime/age.html|títol=Age of the Earth|editor=Publications Services, USGS|consulta=20-09-2007}}
+* {{ref-publicació | cognom=Dalrymple|nom=G. Brent|article=The age of the Earth in the twentieth century: a problem (mostly) solved|publicació=Geological Society, London, Special Publications|any=2001|volum=190|exemplar=1|pàgines=205–221|url=http://sp.lyellcollection.org/cgi/content/abstract/190/1/205|consulta=20-09-2007|doi = 10.1144/GSL.SP.2001.190.01.14}}
+* {{ref-web|cognom=Stassen|nom=Chris|data=10-09-2005|url=http://www.talkorigins.org/faqs/faq-age-of-earth.html|títol=The Age of the Earth|editor=[[TalkOrigins Archive]]|consulta=30-12-2008}}
+/ref
+
+ref name=Harrison 2002{{ref-llibre|nom=Roy M.|cognom=Harrison|coautors=Hester, Ronald E.|any=2002|títol=Causes and Environmental Implications of Increased UV-B Radiation|editorial=Royal Society of Chemistry|isbn=0-85404-265-2}}/ref
+
+ref name=standish_williams_iau{{ref-web|autor=Standish, E. Myles; Williams, James C|títol=Orbital Ephemerides of the Sun, Moon, and Planets|editor=International Astronomical Union Commission 4: (Ephemerides)|url=http://iau-comm4.jpl.nasa.gov/XSChap8.pdf|format=PDF|consulta=03-04-2010}} See table 8.10.2. Calculation based upon 1 AU = 149,597,870,700(3) m./ref
+
+ref name=carrington{{ref-notícia|nom=Damian|cognom=Carrington|títol=Date set for desert Earth|editorial=BBC News|data=21-02-2000|url=http://news.bbc.co.uk/1/hi/sci/tech/specials/washington_2000/649913.stm|consulta=31-03-2007}}/ref
+
+ref name=yoder1995{{ref-llibre|cognom=Yoder|nom=Charles F.|editor=T. J. Ahrens|any=1995|títol=Global Earth Physics: A Handbook of Physical Constants|editorial=American Geophysical Union|lloc=Washington|url=http://replay.waybackmachine.org/20090421092502/http://www.agu.org/reference/gephys.html|consulta=17-03-2007|isbn=0-87590-851-9 |pàgines=8}}/ref
+
+ref name=bowring_housch1995{{ref-publicació|autor=Bowring, S.|coautors=Housh, T.|article=The Earth's early evolution|any=1995|doi=10.1126/science.7667634|publicació=Science|volum=269|pàgina=1535|pmid=7667634|exemplar=5230|bibcode = 1995Sci...269.1535B }}/ref
+
+ref name=nature418_6901_949{{ref-publicació | cognom=Yin|nom=Qingzhu|article=A short timescale for terrestrial planet formation from Hf-W chronometry of meteorites|publicació=Nature|any=2002|volum=418|exemplar=6901|pàgines=949–952|doi=10.1038/nature00995|pmid=12198540|cognom2=Jacobsen|nom2=S. B.|cognom3=Yamashita|nom3=K.|coautors=et al|bibcode = 2002Natur.418..949Y }}/ref
+
+ref name=science310_5754_1671{{ref-publicació|autor=Kleine, Thorsten; Palme, Herbert; Mezger, Klaus; Halliday, Alex N.|article=Hf-W Chronometry of Lunar Metals and the Age and Early Differentiation of the Moon|publicació=Science|volum=310|exemplar=5754|data=24-11-2005|pàgines=1671–1674|doi=10.1126/science.1118842|pmid=16308422|bibcode = 2005Sci...310.1671K }}/ref
+
+ref name=reilly20091022{{ref-notícia|nom=Michael|cognom=Reilly|data= 22 octubre 2009|títol=Controversial Moon Origin Theory Rewrites History|url=http://news.discovery.com/space/moon-earth-formation.html|consulta=30 gener 2010}}/ref
+
+ref name=canup_asphaug2001a{{cite conference|author=Canup, R. M.; Asphaug, E.|title=An impact origin of the Earth-Moon system|booktitle=Abstract #U51A-02|publisher=American Geophysical Union|date=Fall Meeting 2001|bibcode=2001AGUFM.U51A..02C|accessdate=10-03-2007}}/ref
+
+ref name=canup_asphaug2001b{{ref-publicació|autor=Canup, R.; Asphaug, E.|article=Origin of the Moon in a giant impact near the end of the Earth's formation|publicació=Nature|volum=412|pàgines=708–712|any=2001|url=http://www.nature.com/nature/journal/v412/n6848/abs/412708a0.html|doi = 10.1038/35089010|pmid = 11507633|exemplar=6848|bibcode=2001Natur.412..708C}}/ref
+
+ref name=watersource{{ref-publicació|autor=Morbidelli, A.; Chambers, J.; Lunine, J. I.; Petit, J. M.; Robert, F.; Valsecchi, G. B.; Cyr, K. E.|article=Source regions and time scales for the delivery of water to Earth|publicació=Meteoritics  Planetary Science|any=2000|volum=35|exemplar=6|pàgines=1309–1320|bibcode=2000MPS...35.1309M|doi=10.1111/j.1945-5100.2000.tb01518.x}}/ref
+
+ref name=asp2002{{cite conference|author=Guinan, E. F.; Ribas, I|editor=Benjamin Montesinos, Alvaro Gimenez and Edward F. Guinan|title=Our Changing Sun: The Role of Solar Nuclear Evolution and Magnetic Activity on Earth's Atmosphere and Climate|booktitle=ASP Conference Proceedings: The Evolving Sun and its Influence on Planetary Environments|location=San Francisco|isbn=1-58381-109-5|publisher=Astronomical Society of the Pacific|bibcode=2002ASPC..269...85G|accessdate=27-07-2009}}/ref
+
+ref name=physorg20100304{{ref-notícia|autor=Staff|títol=Oldest measurement of Earth's magnetic field reveals battle between Sun and Earth for our atmosphere|data= 4 març 2010|obra=Physorg.news|url=http://www.physorg.com/news186922627.html|consulta=27-03-2010}}/ref
+
+ref name=williams_santosh2004{{ref-llibre|nom=John James William|cognom=Rogers|coautors=Santosh, M.|any=2004|títol=Continents and Supercontinents|pàgines=48|editorial=Oxford University Press US|isbn=0-19-516589-6}}/ref
+
+ref name=science164_1229{{ref-publicació | cognom=Hurley|nom=P. M.|any=1969|article=Pre-drift continental nuclei|publicació=Science|volum=164 |pàgines=1229–1242|doi=10.1126/science.164.3885.1229|pmid=17772560|mes=Jun|autor=Hurley, Pm; Rand, Jr|exemplar=3885 |bibcode = 1969Sci...164.1229H }}/ref
+
+ref name=rg6_175{{ref-publicació | cognom=Armstrong|nom=R. L.|any=1968|article=A model for the evolution of strontium and lead isotopes in a dynamic earth| publicació=Reviews of Geophysics|volum=6|exemplar=2|pàgines=175–199|doi=10.1029/RG006i002p00175|bibcode=1968RvGSP...6..175A}}/ref
+
+ref name=tp322_19{{ref-publicació|doi=10.1016/S0040-1951(00)00055-X|article=Early formation and long-term stability of continents resulting from decompression melting in a convecting mantle|any=2000|autor=De Smet, J.|publicació=Tectonophysics|volum=322|exemplar=1-2|pàgina=19|bibcode=2000Tectp.322...19D}}/ref
+
+ref name=science310_5756_1947{{ref-publicació|doi=10.1126/science.1117926|any=2005|mes=December|autor=Harrison, T.; Blichert-Toft, J.; Müller, W.; Albarede, F.; Holden, P.; Mojzsis, S.|article=Heterogeneous Hadean hafnium: evidence of continental crust at 4.4 to 4.5 ga|volum=310|exemplar=5756|pàgines=1947–50|pmid=16293721|publicació=Science|bibcode = 2005Sci...310.1947H }}/ref
+
+ref name=jaes23_799{{ref-publicació|doi=10.1016/S1367-9120(03)00134-2|article=Continental crustal growth and the supercontinental cycle: evidence from the Central Asian Orogenic Belt|any=2004|autor=Hong, D.|publicació=Journal of Asian Earth Sciences|volum=23|exemplar=5|pàgina=799|bibcode = 2004JAESc..23..799H }}/ref
+
+ref name=ajes38_613{{ref-publicació | cognom=Armstrong|nom=R. L.|any=1991|article=The persistent myth of crustal growth|publicació=Australian Journal of Earth Sciences|volum=38|exemplar=5|pàgines=613–630|doi=10.1080/08120099108727995|bibcode = 1991AuJES..38..613A }}/ref
+
+ref name=as92_324{{ref-publicació|autor=Murphy, J. B.; Nance, R. D.|article=How do supercontinents assemble?|publicació=American Scientist|any=1965|volum=92|exemplar=4|pàgines=324–33|url=http://scienceweek.com/2004/sa040730-5.htm|consulta=05-03-2007|doi=10.1511/2004.4.324}}/ref
+
+ref name=purves_et_al2001{{ref-llibre|autor=Purves, William Kirkwood; Sadava, David; Orians, Gordon H.; Heller, Craig|títol=Life, the Science of Biology: The Science of Biology|editorial=Macmillan|pàgines=455|any=2001|isbn=0-7167-3873-2}}/ref
+
+ref name=sa282_6_90{{ref-publicació | cognom=Doolittle|nom=W. Ford|article=Uprooting the tree of life|publicació=Scientific American|mes=February|any=2000|volum=282|exemplar=6|pàgines=90–95|doi=10.1038/nature03582|cognom2=Worm|nom2=Boris|bibcode = 2005Natur.434E...2M }}/ref
+
+ref name=jas22_3_225{{ref-publicació|autor=Berkner, L. V.; Marshall, L. C.|article=On the Origin and Rise of Oxygen Concentration in the Earth's Atmosphere|publicació=Journal of Atmospheric Sciences|any=1965|volum=22|exemplar=3|pàgines=225–261|bibcode=1965JAtS...22..225B|doi=10.1175/1520-0469(1965)0220225:OTOARO2.0.CO;2}}/ref
+
+ref name=burton20021129{{ref-web|cognom=Burton|nom=Kathleen|data=29-11-2002|url=http://www.nasa.gov/centers/ames/news/releases/2000/00_79AR.html|títol=Astrobiologists Find Evidence of Early Life on Land|editor=NASA|consulta=05-03-2007}}/ref
+
+ref name=kirschvink1992{{ref-llibre|cognom=Kirschvink|nom=J. L.| any=1992|títol=Late Proterozoic low-latitude global glaciation: the Snowball Earth|col·lecció=The Proterozoic Biosphere: A Multidisciplinary Study|pàgines=51–52|editorial=Cambridge University Press|isbn=0-521-36615-1}}/ref
+
+ref name=sci215_4539_1501{{ref-publicació|autor=Raup, D. M.; Sepkoski, J. J.|article=Mass Extinctions in the Marine Fossil Record|publicació=Science|any=1982|volum=215|exemplar=4539|pàgines=1501–1503|bibcode=1982Sci...215.1501R|doi =10.1126/science.215.4539.1501|pmid=17788674}}/ref
+
+ref name=gould1994{{ref-publicació | cognom=Gould|nom=Stephan J.|article=The Evolution of Life on Earth|publicació=Scientific American|mes=October|any=1994|url=http://brembs.net/gould.html|consulta=05-03-2007}}/ref
+
+ref name=bgsa119_1_140{{ref-publicació|autor=Wilkinson, B. H.; McElroy, B. J.|article=The impact of humans on continental erosion and sedimentation|publicació=Bulletin of the Geological Society of America|any=2007|volum=119|exemplar=1–2|pàgines=140–156|url=http://bulletin.geoscienceworld.org/cgi/content/abstract/119/1-2/140|consulta=22-04-2007|doi = 10.1130/B25899.1}}/ref
+
+ref name=psc{{ref-web|autor=Staff|url=http://www.lakepowell.net/sciencecenter/paleoclimate.htm|títol=Paleoclimatology – The Study of Ancient Climates|editor= Page Paleontology Science Center|consulta= 02-03-2007}}/ref
+
+ref name=asu_lowest_temp{{ref-web|url=http://wmo.asu.edu/world-lowest-temperature|títol=World: Lowest Temperature|obra=[[WMO]] Weather and Climate Extremes Archive|editor=[[Arizona State University]]|consulta=07-08-2010}}/ref
+
+ref name=asu_highest_temp{{ref-web|url=http://wmo.asu.edu/world-highest-temperature|títol=World: Highest Temperature|obra=[[WMO]] Weather and Climate Extremes Archive|editor=[[Arizona State University]]|consulta=07-08-2010}}/ref
+
+ref name=sun_future{{ref-publicació|autor=Sackmann, I.-J.; Boothroyd, A. I.; Kraemer, K. E.|article=Our Sun. III. Present and Future|publicació=Astrophysical Journal|any=1993|volum=418|pàgines=457–468|doi=10.1086/173407|bibcode=1993ApJ...418..457S|format=PDF}}/ref
+
+ref name=icarus74_472{{ref-publicació | cognom=Kasting|nom=J.F.|any=1988|article=Runaway and Moist Greenhouse Atmospheres and the Evolution of Earth and Venus|publicació=Icarus|volum=74|exemplar=3|pàgines=472–494|doi=10.1016/0019-1035(88)90116-9|bibcode=1988Icar...74..472K|pmid=11538226}}/ref
+
+ref name=ward_brownlee2002{{ref-llibre|autor=Ward, Peter D.; Brownlee, Donald|any=2002|títol=The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World|editorial=Times Books, Henry Holt and Company|lloc=Nova York|isbn=0-8050-6781-7}}/ref
+
+ref name=britt2000{{ref-web|nom=Robert|cognom=Britt|url=http://replay.waybackmachine.org/20090605231345/http://www.space.com/scienceastronomy/solarsystem/death_of_earth_000224.html |títol=Freeze, Fry or Dry: How Long Has the Earth Got?|data=25-02-2000}}/ref
+
+ref name=pnas1_24_9576{{ref-publicació|autor=Li, King-Fai; Pahlevan, Kaveh; Kirschvink, Joseph L.; Yung, Yuk L.|any=2009|article=Atmospheric Pressure as a Natural Climate Regulator for a Terrestrial Planet with a Biosphere|publicació=Proceedings of the National Academy of Sciences|volum=1–6|exemplar=24|pàgines=9576–9579|url=http://www.gps.caltech.edu/~kfl/paper/Li_PNAS2009.pdf|consulta=19-07-2009|doi=10.1073/pnas.0809436106|pmid=19487662|pmc=2701016|bibcode = 2009PNAS..106.9576L }}/ref
+
+ref name=sec1014{{ref-publicació|autor=Guillemot, H.; Greffoz, V.|article=Ce que sera la fin du monde|publicació=Science et Vie|mes=March|any=2002|volum=N° 1014|llengua=francès}}/ref
+
+ref name=hess5_4_569{{ref-publicació | cognom=Bounama|nom=Christine|any=2001|cognom2=Franck|nom2=S.|cognom3=Von Bloh|nom3=W.|article=The fate of Earth's ocean|publicació=Hydrology and Earth System Sciences|volum=5|exemplar=4|pàgines=569–575|editorial=Potsdam Institute for Climate Impact Research|lloc=Germany|url=http://www.hydrol-earth-syst-sci.net/5/569/2001/hess-5-569-2001.pdf|consulta=03-07-2009|doi=10.5194/hess-5-569-2001|bibcode=2001HESS....5..569B}}/ref
+
+ref name=sun_future_schroder{{ref-publicació|nom=K.-P.|cognom=Schröder|cognom2=Connon Smith|nom2=Robert|any=2008|article=Distant future of the Sun and Earth revisited|doi=10.1111/j.1365-2966.2008.13022.x|publicació=Monthly Notices of the Royal Astronomical Society|arxiv=0801.4031|volum=386|exemplar=1|pàgina=155|bibcode=2008MNRAS.386..155S}}br /See also {{ref-notícia|nom=Jason|cognom=Palmer|url=http://space.newscientist.com/article/dn13369-hope-dims-that-earth-will-survive-suns-death.html?feedId=online-news_rss20|títol=Hope dims that Earth will survive Sun's death|data=22-02-2008|obra=NewScientist.com news service|consulta=24-03-2008}}/ref
+
+ref name=stern20011125{{ref-web|cognom=Stern|nom=David P.|data=25-11-2001|url= http://astrogeology.usgs.gov/HotTopics/index.php?/archives/147-Names-for-the-Columbia-astronauts-provisionally-approved.html|títol=Planetary Magnetism|editor=NASA|consulta=01-04-2007}}/ref
+
+ref name=science288_5473_2002{{ref-publicació | cognom=Tackley|nom=Paul J.|article=Mantle Convection and Plate Tectonics: Toward an Integrated Physical and Chemical Theory|publicació=Science|data=16-06-2000|volum=288|exemplar=5473|pàgines=2002–2007|doi=10.1126/science.288.5473.2002|pmid=10856206|bibcode = 2000Sci...288.2002T }}/ref
+
+ref name=milbert_smith96{{ref-web|autor=Milbert, D. G.; Smith, D. A|url=http://www.ngs.noaa.gov/PUBS_LIB/gislis96.html|títol=Converting GPS Height into NAVD88 Elevation with the GEOID96 Geoid Height Model|editor=National Geodetic Survey, NOAA|consulta=07-03-2007}}/ref
+
+ref name=ngdc2006{{ref-web|autor=Sandwell, D. T.; Smith, W. H. F.|data=07-07-2006|url=http://www.ngdc.noaa.gov/mgg/bathymetry/predicted/explore.HTML|títol=Exploring the Ocean Basins with Satellite Altimeter Data|editor=NOAA/NGDC|consulta=21-04-2007}}/ref
+
+ref name=nist_length2000{{ref-web|autor=Mohr, P.J.; Taylor, B.N.|mes=October|any=2000|url=http://physics.nist.gov/cuu/Units/meter.html|títol=Unit of length (meter)|obra=NIST Reference on Constants, Units, and Uncertainty|editor=NIST Physics Laboratory|consulta=23-04-2007}}/ref
+
+ref name=wpba2001{{ref-web|autor=Staff|mes=November|any=2001|url=http://www.wpa-pool.com/index.asp?content=rules_spec|títol=WPA Tournament Table  Equipment Specifications|editor=World Pool-Billiards Association|consulta=10-03-2007}}/ref
+
+ref name=ps20_5_16{{ref-publicació | cognom=Senne|nom=Joseph H.|article=Did Edmund Hillary Climb the Wrong Mountain|publicació=Professional Surveyor|any=2000|volum=20|exemplar=5|pàgines=16–21}}/ref
+
+ref name=lancet365_9462_831{{ref-publicació | cognom=Sharp|nom=David|article=Chimborazo and the old kilogram|publicació=The Lancet|data=05-03-2005|volum=365|exemplar=9462|pàgines=831–832|doi=10.1016/S0140-6736(05)71021-7}}/ref
+
+ref name=tall_tales{{ref-web|url=http://www.abc.net.au/science/k2/moments/s1086384.htm|títol=Tall Tales about Highest Peaks|editor=Australian Broadcasting Corporation|consulta=29-12-2008}}/ref
+
+ref name=brown_mussett1981{{ref-llibre|autor=Brown, Geoff C.; Mussett, Alan E.|títol=The Inaccessible Earth|edició=2a ed.|any=1981|pàgines=166|editorial=Taylor  Francis|isbn=0-04-550028-2}} Note: After Ronov and Yaroshevsky (1969)./ref
+
+ref name=pnas71_12_6973{{ref-publicació|autor=Morgan, J. W.; Anders, E.|article=Chemical composition of Earth, Venus, and Mercury|publicació=Proceedings of the National Academy of Science|any=1980|volum=71|exemplar=12|pàgines=6973–6977|consulta=04-02-2007|doi=10.1073/pnas.77.12.6973|pmid=16592930|pmc=350422|bibcode = 1980PNAS...77.6973M }}/ref
+
+ref name=tanimoto_ahrens1995{{ref-llibre|nom=Toshiro|cognom=Tanimoto|editor=Thomas J. Ahrens|any=1995|capítol=Crustal Structure of the Earth|títol=Global Earth Physics: A Handbook of Physical Constants|editorial=American Geophysical Union|lloc=Washington, DC|isbn=0-87590-851-9|url=http://www.agu.org/reference/gephys/15_tanimoto.pdf|urlarxiu=http://web.archive.org/web/20061016194153/http://www.agu.org/reference/gephys/15_tanimoto.pdf|dataarxiu=16-10-2006|format=PDF|consulta=03-02-2007}}/ref
+
+ref name=science309_5739_1313{{ref-publicació | cognom=Kerr|nom=Richard A.|article=Earth's Inner Core Is Running a Tad Faster Than the Rest of the Planet|publicació=Science|data=26-09-2005|volum=309|exemplar=5739|pàgina=1313|doi=10.1126/science.309.5739.1313a|pmid=16123276}}/ref
+
+ref name=pnas76_9_4192{{ref-publicació | cognom=Jordan|nom=T. H.|article=Structural Geology of the Earth's Interior|publicació=Proceedings National Academy of Science|any=1979|volum=76|exemplar=9|pàgines=4192–4200|consulta=24-03-2007|doi=10.1073/pnas.76.9.4192|pmid=16592703|pmc=411539|bibcode = 1979PNAS...76.4192J }}/ref
+
+ref name=robertson2001{{ref-web|cognom=Robertson|nom=Eugene C.|data=26-07-2001|url=http://pubs.usgs.gov/gip/interior/|títol=The Interior of the Earth|editor=USGS|consulta=24-03-2007}}/ref
+
+ref name=turcotte{{ref-llibre|cognom=Turcotte|nom=D. L.|coautors=Schubert, G.|títol=Geodynamics|editorial=Cambridge University Press|lloc=Cambridge, England, UK| any=2002|edició=2a ed.|pàgines=136–137|capítol=4|isbn=978-0-521-66624-4}}/ref
+
+ref name=sanders20031210{{ref-notícia|nom=Robert|cognom=Sanders|títol=Radioactive potassium may be major heat source in Earth's core|editorial=UC Berkeley News|data=10-12-2003|url=http://www.berkeley.edu/news/media/releases/2003/12/10_heat.shtml|consulta=28-02-2007}}/ref
+
+ref name=ptrsl360_1795_1227{{ref-publicació|autor=Alfè, D.; Gillan, M. J.; Vocadlo, L.; Brodholt, J; Price, G. D.|article=The ''ab initio'' simulation of the Earth's core|publicació= Philosophical Transaction of the Royal Society of London|any=2002|volum=360|exemplar=1795|pàgines=1227–1244|url=http://chianti.geol.ucl.ac.uk/~dario/pubblicazioni/PTRSA2002.pdf|format=PDF|consulta=28-02-2007}}/ref
+
+ref name=epsl121_1{{ref-publicació | cognom=Vlaar|nom=N|article=Cooling of the Earth in the Archaean: Consequences of pressure-release melting in a hotter mantle|any=1994|publicació=Earth and Planetary Science Letters|volum=121|exemplar=1-2|pàgina=1|doi=10.1016/0012-821X(94)90028-0|coautors=Vankeken, P.; Vandenberg, A. |url=http://www.geo.lsa.umich.edu/~keken/papers/Vlaar_EPSL94.pdf |format=PDF|bibcode=1994EPSL.121....1V}}/ref
+
+ref name=TS 137{{ref-llibre|cognom=Turcotte|nom=D. L.|coautors=Schubert, G.|títol=Geodynamics|editorial=Cambridge University Press|lloc=Cambridge, England, UK|any=2002|edició=2a ed.|pàgines=137|capítol=4|isbn=978-0-521-66624-4}}/ref
+
+ref name=heat loss{{ref-publicació|doi=10.1029/JB086iB12p11535|article=Oceans and Continents: Similarities and Differences in the Mechanisms of Heat Loss|any=1981|cognom=Sclater|nom=John G|publicació=Journal of Geophysical Research|volum=86|exemplar=B12 |pàgina=11535|coautors=Parsons, Barry; Jaupart, Claude|bibcode=1981JGR....8611535S}}/ref
+
+ref name=science246_4926_103{{ref-publicació|autor=Richards, M. A.; Duncan, R. A.; Courtillot, V. E.|article=Flood Basalts and Hot-Spot Tracks: Plume Heads and Tails|publicació=Science|any=1989|volum=246|exemplar=4926|pàgines=103–107|bibcode=1989Sci...246..103R|doi=10.1126/science.246.4926.103|pmid=17837768}}/ref
+
+ref name=brown_wohletz2005{{ref-web|autor=Brown, W. K.; Wohletz, K. H.|any=2005|url=http://www.ees1.lanl.gov/Wohletz/SFT-Tectonics.htm|títol=SFT and the Earth's Tectonic Plates|editor=Los Alamos National Laboratory|consulta=02-03-2007}}/ref
+
+ref name=kious_tilling1999{{ref-web|autor=Kious, W. J.; Tilling, R. I.|data= 05-05-1999|url=http://pubs.usgs.gov/gip/dynamic/understanding.html|títol=Understanding plate motions|editor=USGS|consulta=02-03-2007}}/ref
+
+ref name=seligman2008{{ref-web|nom=Courtney|cognom=Seligman|any=2008|url=http://cseligman.com/text/planets/innerstructure.htm|títol=The Structure of the Terrestrial Planets|obra=Online Astronomy eText Table of Contents|editor=cseligman.com|consulta=28-02-2008}}/ref
+
+ref name=duennebier1999{{ref-web|cognom=Duennebier|nom=Fred|data=12-08-1999|url=http://www.soest.hawaii.edu/GG/ASK/plate-tectonics2.html|títol=Pacific Plate Motion|editor=University of Hawaii|consulta=14-03-2007}}/ref
+
+ref name=noaa20070307{{ref-web|autor=Mueller, R.D.; Roest, W.R.; Royer, J.-Y.; Gahagan, L.M.; Sclater, J.G.|data=07-03-2007|url=http://www.ngdc.noaa.gov/mgg/fliers/96mgg04.html|títol=Age of the Ocean Floor Poster|editor=NOAA|consulta=14-03-2007}}/ref
+
+ref name=cmp134_3{{ref-publicació|doi=10.1007/s004100050465|article=Priscoan (4.00–4.03 Ga) orthogneisses from northwestern Canada|any=1999|cognom=Bowring|nom=Samuel A.|publicació=Contributions to Mineralogy and Petrology|volum=134|exemplar=1|pàgina=3|cognom2=Williams|nom2=Ian S.|bibcode = 1999CoMP..134....3B }}/ref
+
+ref name=podp2000{{ref-web|autor=Meschede, M.; Udo Barckhausen, U.|data=20-11-2000|url=http://www-odp.tamu.edu/publications/170_SR/chap_07/chap_07.htm|títol=Plate Tectonic Evolution of the Cocos-Nazca Spreading Center|obra=Proceedings of the Ocean Drilling Program|editor=Texas AM University|consulta=02-04-2007}}/ref
+
+ref name=gps_time_series{{ref-web|autor=Staff|url=http://sideshow.jpl.nasa.gov/mbh/series.html|títol=GPS Time Series|editor=NASA JPL|consulta=02-04-2007}}/ref
+
+ref name=Pidwirny2006{{ref-web|cognom=Pidwirny|nom=Michael|any=2006|url=http://www.physicalgeography.net/fundamentals/7h.html|títol=Fundamentals of Physical Geography (2nd Edition)|editor=PhysicalGeography.net|consulta=19-03-2007}}/ref
+
+ref name=kring{{ref-web|cognom=Kring|nom=David A|url=http://www.lpi.usra.edu/science/kring/epo_web/impact_cratering/intro/|títol=Terrestrial Impact Cratering and Its Environmental Effects|editor=Lunar and Planetary Laboratory|consulta=22-03-2007}}/ref
+
+ref name=layers_earth{{ref-web|autor=Staff|url=http://volcano.oregonstate.edu/vwdocs/vwlessons/plate_tectonics/part1.html|títol=Layers of the Earth|editor=Volcano World|consulta=11-03-2007}}/ref
+
+ref name=jessey{{ref-web|cognom=Jessey|nom=David|url=http://geology.csupomona.edu/drjessey/class/Gsc101/Weathering.html|títol=Weathering and Sedimentary Rocks|editor=Cal Poly Pomona|consulta=20-03-2007}}/ref
+
+ref name=de_pater_lissauer2010{{ref-llibre|autor=de Pater, Imke; Lissauer, Jack J.|títol=Planetary Sciences|pàgines=154|edició=2a ed.|editorial=Cambridge University Press|any=2010|isbn=0-521-85371-0}}/ref
+
+ref name=wekn_bulakh2004{{ref-llibre|autor=Wenk, Hans-Rudolf; Bulakh, Andreĭ Glebovich|títol=Minerals: their constitution and origin|pàgines=359|editorial=Cambridge University Press|any=2004|isbn=0-521-52958-1}}/ref
+
+ref name=cia{{ref-web|autor=Staff|data=24-07-2008|url=https://www.cia.gov/library/publications/the-world-factbook/geos/xx.html|títol=World|obra=The World Factbook|editor=Central Intelligence Agency|consulta=05-08-2008}}/ref
+
+ref name=fao1994{{ref-llibre|autor=FAO Staff|any=1995|títol=FAO Production Yearbook 1994|edició=48a ed.|editorial=Food and Agriculture Organization of the United Nations|lloc=Rome, Italy|isbn=92-5-003844-5}}/ref
+
+ref name=sverdrup{{ref-llibre|nom=H. U.|cognom=Sverdrup|coautors=Fleming, Richard H.|data=01 gener 1942|títol=The oceans, their physics, chemistry, and general biology|editorial=Scripps Institution of Oceanography Archives|url=http://repositories.cdlib.org/sio/arch/oceans/|consulta=13-06-2008|isbn=0-13-630350-1}}/ref
+
+ref name=kaiko7000{{ref-web|títol=7,000 m Class Remotely Operated Vehicle ''KAIKO 7000''|url=http://www.jamstec.go.jp/e/about/equipment/ships/kaiko7000.html|editor=Japan Agency for Marine-Earth Science and Technology (JAMSTEC)|consulta=07-06-2008}}/ref
+
+ref name=ocean23_2_112{{ref-publicació | cognom=Charette|nom=Matthew A.|coautors=Smith, Walter H. F.|article=The Volume of Earth's Ocean|publicació=Oceanography|volum=23|exemplar=2|pàgines=112–114|any=2010|mes=June|url=http://www.tos.org/oceanography/issues/issue_archive/issue_pdfs/23_2/23-2_charette.pdf|consulta=04-06-2010}}/ref
+
+ref name=shiklomanov_et_al_1999{{ref-web|autor=Shiklomanov, Igor A.|coautors=''et al.''|any=1999|url=http://webworld.unesco.org/water/ihp/db/shiklomanov/|títol=World Water Resources and their use Beginning of the 21st century Prepared in the Framework of IHP UNESCO|editor=State Hydrological Institute, St. Petersburg|consulta=10-08-2006}}/ref
+
+ref name=kennish2001{{ref-llibre|nom=Michael J.|cognom=Kennish|any=2001|títol=Practical handbook of marine science|pàgines=35|edició=3a ed.|editorial=CRC Press|col·lecció=Marine science series|isbn=0-8493-2391-6}}/ref
+
+ref name=mullen2002{{ref-web|cognom=Mullen|nom=Leslie|data=11-06-2002|url=http://www.astrobio.net/news/article223.html|títol=Salt of the Early Earth|editor=NASA Astrobiology Magazine|consulta=14-03-2007}}/ref
+
+ref name=natsci_oxy4{{ref-web|cognom=Morris|nom=Ron M|url=http://replay.waybackmachine.org/20090415082741/http://seis.natsci.csulb.edu/rmorris/oxy/oxy4.html|títol=Oceanic Processes|editor=NASA Astrobiology Magazine|consulta=14-03-2007}}/ref
+
+ref name=michon2006{{ref-web|cognom=Scott|nom=Michon|data=24-04-2006|url=http://earthobservatory.nasa.gov/Study/HeatBucket/|títol=Earth's Big heat Bucket|editor=NASA Earth Observatory|consulta=14-03-2007}}/ref
+
+ref name=sample2005{{ref-web|nom=Sharron|cognom=Sample|data=21-06-2005|url=http://science.hq.nasa.gov/oceans/physical/SST.html|títol=Sea Surface Temperature|editor=NASA|consulta=21-04-2007}}/ref
+
+ref name=geerts_linacre97{{ref-web|cognom=Geerts|nom=B.|coautors=Linacre, E.|url=http://www-das.uwyo.edu/~geerts/cwx/notes/chap01/tropo.html|títol=The height of the tropopause|mes=November|any=1997|obra=Resources in Atmospheric Sciences|editor=University of Wyoming|consulta=10-08-2006}}/ref
+
+ref name=atmosphere{{ref-web|autor=Staff|data=08-10-2003|url=http://www.nasa.gov/audience/forstudents/9-12/features/912_liftoff_atm.html|títol=Earth's Atmosphere|editor=NASA|consulta=21-03-2007}}/ref
+
+ref name=moran2005{{ref-web|cognom=Moran|nom=Joseph M.|any=2005|url=http://www.nasa.gov/worldbook/weather_worldbook.html|títol=Weather|obra=World Book Online Reference Center|editor=NASA/World Book, Inc|consulta=17-03-2007}}/ref
+
+ref name=berger2002{{ref-web|cognom=Berger|nom=Wolfgang H.|any=2002|url=http://earthguide.ucsd.edu/virtualmuseum/climatechange1/cc1syllabus.shtml|títol=The Earth's Climate System|editor=University of California, San Diego|consulta=24-03-2007}}/ref
+
+ref name=rahmstorf2003{{ref-web|nom=Stefan|cognom=Rahmstorf|any=2003|url =http://www.pik-potsdam.de/~stefan/thc_fact_sheet.html|títol=The Thermohaline Ocean Circulation|editor=Potsdam Institute for Climate Impact Research|consulta=21-04-2007}}/ref
+
+ref name=hydrologic_cycle{{ref-web|autor=Various|data=21-07-1997|url=http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/hyd/home.rxml|títol=The Hydrologic Cycle|editor=University of Illinois|consulta=24-03-2007}}/ref
+
+ref name=sadava_heller2006{{ref-llibre|autor=Sadava, David E.; Heller, H. Craig; Orians, Gordon H.|títol=Life, the Science of Biology|editorial=MacMillan|any=2006|edició=8a ed.|pàgines=1114|isbn=0-7167-7671-5}}/ref
+
+ref name=climate_zones{{ref-web|autor=Staff|url=http://www.ace.mmu.ac.uk/eae/Climate/Older/Climate_Zones.html|títol=Climate Zones|editor=UK Department for Environment, Food and Rural Affairs|consulta=24-03-2007}}/ref
+
+ref name=sciweek2004{{ref-web|autor=Staff|any=2004|url=http://scienceweek.com/2004/rmps-23.htm|títol=Stratosphere and Weather; Discovery of the Stratosphere|editor=Science Week|consulta=14-03-2007}}/ref
+
+ref name=cordoba2004{{ref-web|nom=S. Sanz Fernández|cognom=de Córdoba|data=21-06-2004|url=http://www.fai.org/astronautics/100km.asp|títol=Presentation of the Karman separation line, used as the boundary separating Aeronautics and Astronautics|editor=Fédération Aéronautique Internationale|consulta=21-04-2007}}/ref
+
+ref name=jas31_4_1118{{ref-publicació|autor=Liu, S. C.; Donahue, T. M.|article=The Aeronomy of Hydrogen in the Atmosphere of the Earth|publicació=Journal of Atmospheric Sciences|any=1974|volum=31|exemplar=4|pàgines=1118–1136|bibcode=1974JAtS...31.1118L|doi=10.1175/1520-0469(1974)0311118:TAOHIT2.0.CO;2}}/ref
+
+ref name=sci293_5531_839{{ref-publicació|article=Biogenic Methane, Hydrogen Escape, and the Irreversible Oxidation of Early Earth|autor=Catling, David C.; Zahnle, Kevin J.; McKay, Christopher P.|publicació=Science|volum=293|exemplar=5531|pàgines=839–843|url=http://www.sciencemag.org/cgi/content/full/293/5531/839|doi=10.1126/science.1061976|any=2001|pmid=11486082|bibcode = 2001Sci...293..839C }}/ref
+
+ref name=abedon1997{{ref-web|cognom=Abedon|nom=Stephen T.|data=31-03-1997|url=http://www.mansfield.ohio-state.edu/~sabedon/biol1010.htm|títol=History of Earth|editor=Ohio State University|consulta=19-03-2007}}/ref
+
+ref name=arwps4_265{{ref-publicació | cognom=Hunten|nom=D. M.|article=Hydrogen loss from the terrestrial planets|publicació=Annual review of earth and planetary sciences|any=1976|volum=4|exemplar=1|pàgines=265–292|bibcode=1976AREPS...4..265H|doi=10.1146/annurev.ea.04.050176.001405|cognom2=Donahue|nom2=T. M}}/ref
+
+ref name=fitzpatrick2006{{ref-web|cognom=Fitzpatrick|nom=Richard|data= 16-02-2006|url=http://farside.ph.utexas.edu/teaching/plasma/lectures/node69.html|títol=MHD dynamo theory|editor=NASA WMAP|consulta=27-02-2007}}/ref
+
+ref name=campbelwh{{ref-llibre|cognom=Campbell|nom=Wallace Hall|títol=Introduction to Geomagnetic Fields|editorial=Cambridge University Press|any=2003|lloc=Nova York|pàgines=57|isbn=0-521-82206-8}}/ref
+
+ref name=stern2005{{ref-web|cognom=Stern|nom=David P.|data=08-07-2005|url=http://www-spof.gsfc.nasa.gov/Education/wmap.html|títol=Exploration of the Earth's Magnetosphere|editor=NASA|consulta=21-03-2007}}/ref
+
+ref name=USNO_TSD{{ref-web|títol=Leap seconds|editor=Time Service Department, USNO|url=http://tycho.usno.navy.mil/leapsec.html|consulta=23-09-2008}}/ref
+
+ref name=IERS{{ref-web|autor=Staff|data=07-08-2007|url=http://hpiers.obspm.fr/eop-pc/models/constants.html|títol=Useful Constants|editor=[[International Earth Rotation and Reference Systems Service]]|consulta=23-09-2008}}/ref
+
+ref name=seidelmann1992{{ref-llibre|cognom=Seidelmann|nom=P. Kenneth|any=1992|títol=Explanatory Supplement to the Astronomical Almanac|pàgines=48|editorial=University Science Books|lloc=Mill Valley, CA|isbn=0-935702-68-7}}/ref
+
+ref name=iers1623{{ref-web|autor=Staff|url=http://hpiers.obspm.fr/eop-pc/earthor/ut1lod/lod-1623.html|títol=IERS Excess of the duration of the day to 86400s ... since 1623|editor=International Earth Rotation and Reference Systems Service (IERS)|consulta=23-09-2008}}—Graph at end./ref
+
+ref name=iers1962{{ref-web|autor=Staff|url=http://hpiers.obspm.fr/eop-pc/earthor/ut1lod/figure3.html|urlarxiu=http://web.archive.org/web/20070813203913/http://hpiers.obspm.fr/eop-pc/earthor/ut1lod/figure3.html|dataarxiu=13-08-2007|títol=IERS Variations in the duration of the day 1962–2005|editor=International Earth Rotation and Reference Systems Service (IERS)|consulta=23-09-2008}}/ref
+
+ref name=zeilik1998{{ref-llibre|cognom=Zeilik|nom=M.|coautors=Gregory, S. A.|títol=Introductory Astronomy  Astrophysics|edició=4a ed.|pàgines=56|editorial=Saunders College Publishing|isbn=0-03-006228-4|any=1998}}/ref
+
+ref name=angular{{ref-web|cognom=Williams|nom=David R.|data=10-02-2006|url=http://nssdc.gsfc.nasa.gov/planetary/planetfact.html|títol=Planetary Fact Sheets|editor=NASA|consulta=28-09-2008}}—See the apparent diameters on the Sun and Moon pages./ref
+
+ref name=earth_fact_sheet{{ref-web|cognom=Williams|nom=David R.|data=01-09-2004|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html|títol=Earth Fact Sheet|editor=NASA|consulta=09-08-2010}}/ref
+
+ref name=moon_fact_sheet{{ref-web|cognom=Williams|nom=David R.|data=01-09-2004|url=http://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html|títol=Moon Fact Sheet|editor=NASA|consulta=21-03-2007}}/ref
+
+ref name=vazquez_etal2006{{ref-web|autor=Vázquez, M.; Montañés Rodríguez, P.; Palle, E.|any=2006|url =http://www.iac.es/folleto/research/preprints/files/PP06024.pdf|títol=The Earth as an Object of Astrophysical Interest in the Search for Extrasolar Planets|editor=Instituto de Astrofísica de Canarias|consulta=21-03-2007 |format=PDF}}/ref
+
+ref name=nasa20051201{{ref-web|autor=Astrophysicist team|data=01-12-2005|url=http://imagine.gsfc.nasa.gov/docs/ask_astro/answers/030827a.html|títol=Earth's location in the Milky Way|editor=NASA|consulta=11-06-2008}}/ref
+
+ref name=bromberg2008{{ref-web|cognom=Bromberg|nom=Irv|data=01-05-2008|url=http://www.sym454.org/seasons/|títol=The Lengths of the Seasons (on Earth)|editor=University of Toronto|consulta=08-11-2008}}/ref
+
+ref name=lin2006{{ref-web|nom=Haosheng|cognom=Lin|títol=Animation of precession of moon orbit|obra=Survey of Astronomy AST110-6|any=2006|editor=University of Hawaii at Manoa|url=http://www.ifa.hawaii.edu/users/lin/ast110-6/applets/precession_of_moon_orbit.htm |consulta=10-09-2010}}/ref
+
+ref name=williams20051230{{ref-web|cognom=Williams|nom=Jack|data=20-12-2005|url=http://www.usatoday.com/weather/tg/wseason/wseason.htm|títol=Earth's tilt creates seasons|editor=USAToday|consulta=17-03-2007}}/ref
+
+ref name=fisher19960205{{ref-web|cognom=Fisher|nom=Rick|data=05-02-1996|url=http://www.cv.nrao.edu/~rfisher/Ephemerides/earth_rot.html|títol=Earth Rotation and Equatorial Coordinates|editor=National Radio Astronomy Observatory|consulta=21-03-2007}}/ref
+
+ref name=espenak_meeus20070207{{ref-web|autor=Espenak, F.; Meeus, J.|data=07-02-2007|url=http://sunearth.gsfc.nasa.gov/eclipse/SEcat5/secular.html|títol=Secular acceleration of the Moon|editor=NASA|consulta=20-04-2007|arxiuurl=https://archive.is/EtmF|arxiudata=2012-12-05}}/ref
+
+ref name=hannu_poropudas19911216{{ref-web|nom=Hannu K. J.|cognom=Poropudas|data=16-12-1991|url=http://www.skepticfiles.org/origins/coralclo.htm|títol=Using Coral as a Clock|editor=Skeptic Tank|consulta= 20-04-2007}}/ref
+
+ref name=aaa428_261{{ref-publicació|autor=Laskar, J.; Robutel, P.; Joutel, F.; Gastineau, M.; Correia, A.C.M.; Levrard, B.|article=A long-term numerical solution for the insolation quantities of the Earth|publicació=Astronomy and Astrophysics|any=2004|volum=428|exemplar=1|pàgines=261–285|bibcode=2004AA...428..261L|doi = 10.1051/0004-6361:20041335}}/ref
+
+ref name=nature410_6830_773{{ref-publicació | cognom=Murray|nom=N.|cognom2=Holman|nom2=M|article=The role of chaotic resonances in the solar system|publicació=Nature|any=2001|volum=410|exemplar=6830|pàgines=773–779|arxiv=astro-ph/0111602|consulta=05-08-2008|doi=10.1038/35071000|pmid=11298438}}/ref
+
+!-- unused reference
+ref name=lps27_1437{{ref-publicació|autor=Williams, D.M.; J.F. Kasting|article=Habitable planets with high obliquities|publicació=Lunar and Planetary Science|any=1996|volum=27|pàgines=1437–1438|bibcode=1996LPI....27.1437W}}/ref --
+
+ref name=nature412_708{{ref-publicació|autor=Canup, R.; Asphaug, E.|article=Origin of the Moon in a giant impact near the end of the Earth's formation|publicació=Nature|volum=412|pàgines=708–712|any=2001|doi=10.1038/35089010|pmid=11507633|exemplar=6848|bibcode=2001Natur.412..708C}}/ref
+
+ref name=whitehouse20021021{{ref-notícia|nom=David|cognom=Whitehouse|títol=Earth's little brother found|editorial=BBC News|data=21-10-2002|url=http://news.bbc.co.uk/1/hi/sci/tech/2347663.stm|consulta=31-03-2007}}/ref
+
+ref name=ab2003{{ref-web|autor=Staff|mes=September|any=2003|url=http://astrobiology.arc.nasa.gov/roadmap/g1.html|títol=Astrobiology Roadmap|editor=NASA, Lockheed Martin|consulta=10-03-2007}}/ref
+
+ref name=dole1970{{ref-llibre|nom=Stephen H.|cognom=Dole|any=1970|títol=Habitable Planets for Man|edició=2a ed.|editorial=American Elsevier Publishing Co|url=http://www.rand.org/pubs/reports/R414/|consulta=11-03-2007|isbn=0-444-00092-5}}/ref
+
+ref name=amnat163_2_192{{ref-publicació | cognom=Hillebrand|nom=Helmut|article=On the Generality of the Latitudinal Gradient|publicació=American Naturalist|any=2004|volum=163|exemplar=2|pàgines=192–211|doi=10.1086/381004|pmid=14970922}}/ref
+
+ref name=mnpl_utx2006{{ref-web|autor=Staff|data=24-11-2006|url=http://www.utexas.edu/tmm/npl/mineralogy/mineral_genesis/|títol=Mineral Genesis: How do minerals form?|editor=Non-vertebrate Paleontology Laboratory, Texas Memorial Museum|consulta=01-04-2007}}/ref
+
+ref name=science299_5607_673{{ref-publicació | cognom=Rona|nom=Peter A.|article=Resources of the Sea Floor|publicació=Science|any=2003|volum=299|exemplar=5607|pàgines=673–674|url=http://www.sciencemag.org/cgi/content/full/299/5607/673?ijkey=AHVbRrqUsmdHYkeytype=refsiteid=sci|consulta=04-02-2007|doi = 10.1126/science.1080679|pmid = 12560541}}/ref
+
+ref name=un20070202{{ref-web|autor=Staff|data= 02-02-2007|url=http://www.un.org/apps/news/story.asp?NewsID=21429Cr=climateCr1=change|títol=Evidence is now 'unequivocal' that humans are causing global warming – UN report|editor=United Nations|consulta=07-03-2007|urlarxiu=http://replay.waybackmachine.org/20081221031717/http://www.un.org/apps/news/story.asp?NewsID=21429Cr=climateCr1=change|dataarxiu=21 desembre 2008}}/ref
+
+ref name=World Population Clock{{ref-web|autor=United States Census Bureau|url=http://www.census.gov/ipc/www/popclockworld.html|títol=World POP Clock Projection|obra=United States Census Bureau International Database|data=07 gener 2008|consulta= 07 gener 2008}}/ref
+
+ref name=un2006{{ref-web|autor=Staff|url=http://www.un.org/esa/population/publications/wpp2006/wpp2006.htm|urlarxiu=http://replay.waybackmachine.org/20090905200753/http://www.un.org/esa/population/publications/wpp2006/wpp2006.htm|dataarxiu= 5 setembre 2009|títol=World Population Prospects: The 2006 Revision|editor=United Nations|consulta=07-03-2007}}/ref
+
+ref name=prb2007{{ref-web|autor=Staff|any=2007|url=http://www.prb.org/Educators/TeachersGuides/HumanPopulation/PopulationGrowth/QuestionAnswer.aspx|títol=Human Population: Fundamentals of Growth: Growth|editor=Population Reference Bureau|consulta=31-03-2007}}/ref
+
+ref name=hessd4_439{{ref-publicació|autor=Peel, M. C.; Finlayson, B. L.; McMahon, T. A.|article=Updated world map of the Köppen-Geiger climate classification|publicació=Hydrology and Earth System Sciences Discussions|any=2007|volum=4|exemplar=2|pàgines=439–473|url=http://www.hydrol-earth-syst-sci-discuss.net/4/439/2007/hessd-4-439-2007.html|consulta=31-03-2007|doi=10.5194/hessd-4-439-2007}}/ref
+
+ref name=biodiv{{ref-web|autor=Staff|url=http://www.biodiv.org/programmes/default.shtml|títol=Themes  Issues|editor=Secretariat of the Convention on Biological Diversity|consulta=29-03-2007}}/ref
+
+ref name=cfsa2006{{ref-web|autor=Staff|data=15-08-2006|url=http://www.tscm.com/alert.html|títol=Canadian Forces Station (CFS) Alert|editor=Information Management Group|consulta=31-03-2007}}/ref
+
+ref name=kennedy1989{{ref-llibre|nom=Paul|cognom=Kennedy|enllaçautor=Paul Kennedy|any=1989|títol=[[The Rise and Fall of the Great Powers]]|edició=1a ed.|editorial=Vintage|isbn=0-679-72019-7}}/ref
+
+ref name=uncharter{{ref-web|url=http://www.un.org/aboutun/charter/|títol=U.N. Charter Index|editor=United Nations|consulta=23-12-2008|urlarxiu=http://replay.waybackmachine.org/20090220011242/http://www.un.org/aboutun/charter/|dataarxiu= 20 febrer 2009}}/ref
+
+ref name=un_int_law{{ref-web|autor=Staff|url=http://www.un.org/law/|títol=International Law|editor=United Nations|consulta=27-03-2007|urlarxiu=http://replay.waybackmachine.org/20081231055149/http://www.un.org/law/|dataarxiu=31 desembre 2009}}/ref
+
+ref name=kuhn2006{{ref-llibre|nom=Betsy|cognom=Kuhn|any=2006|títol=The race for space: the United States and the Soviet Union compete for the new frontier|pàgines=34|editorial=Twenty-First Century Books|isbn=0-8225-5984-6}}/ref
+
+ref name=ellis2004{{ref-llibre|nom=Lee|cognom=Ellis|any=2004|títol=Who's who of NASA Astronauts|editorial=Americana Group Publishing|isbn=0-9667961-4-4
+}}/ref
+
+ref name=shayler_vis2005{{ref-llibre|nom=David|cognom=Shayler|nom2=Bert|cognom2=Vis|any=2005|títol=Russia's Cosmonauts: Inside the Yuri Gagarin Training Center|editorial=Birkhäuser|isbn=0-387-21894-7}}/ref
+
+ref name=wade2008{{ref-web|cognom=Wade|nom=Mark|data=30-06-2008|url=http://www.astronautix.com/articles/aststics.htm|consulta=23-12-2008|títol=Astronaut Statistics|editor=Encyclopedia Astronautica}}/ref
+
+ref name=nasa_rg_iss2007{{ref-web|data=16 gener 2007|url=http://www.nasa.gov/mission_pages/station/news/ISS_Reference_Guide.html|títol=Reference Guide to the International Space Station|editor=NASA|consulta=23-12-2008}}/ref
+
+ref name=cramb2007{{ref-notícia|nom=Auslan|cognom=Cramb|editorial=Telegraph|títol=Nasa's Discovery extends space station|data=28-10-2007|url=http://www.telegraph.co.uk/earth/earthnews/3311903/Nasas-Discovery-extends-space-station.html|consulta=23-03-2009}}/ref
+
+ref name=randhouse2005{{ref-llibre|mes=July|any=2005|títol=Random House Unabridged Dictionary|editorial=Random House|isbn=0-375-42599-3}}/ref
+
+ref name=liungman2004{{ref-llibre|nom=Carl G.|cognom=Liungman|any=2004|capítol=Group 29: Multi-axes symmetric, both soft and straight-lined, closed signs with crossing lines|títol=Symbols – Encyclopedia of Western Signs and Ideograms|pàgines=281–282|editorial=Ionfox AB|lloc=Nova York|isbn=91-972705-0-4}}/ref
+
+ref name=arnett20060716{{ref-web|nom=Bill|cognom=Arnett|data= 16 juliol 2006|títol=Earth|obra=The Nine Planets, A Multimedia Tour of the Solar System: one star, eight planets, and more|url=http://nineplanets.org/earth.html|consulta=09-03-2010}}/ref
+
+ref name=Dutch2002{{ref-publicació|autor=Dutch, S.I.|any=2002|article=Religion as belief versus religion as fact|publicació=Journal of Geoscience Education|volum=50|exemplar=2|pàgines=137–144|url=http://nagt.org/files/nagt/jge/abstracts/Dutch_v50n2p137.pdf|consulta=28-04-2008|format=PDF}}/ref
+
+ref name=edis2003{{ref-llibre|nom=Taner|cognom=Edis|any=2003|títol=A World Designed by God: Science and Creationism in Contemporary Islam|editorial=Amherst: Prometheus|url=http://www2.truman.edu/~edis/writings/articles/CFI-2001.pdf|isbn=1-59102-064-6|consulta=28-04-2008|format=PDF}}/ref
+
+ref name=jge53_3_319{{ref-publicació|autor=Ross, M.R.|any=2005|article=Who Believes What? Clearing up Confusion over Intelligent Design and Young-Earth Creationism|publicació=Journal of Geoscience Education|volum=53|exemplar=3|pàgina=319|url=http://www.nagt.org/files/nagt/jge/abstracts/Ross_v53n3p319.pdf|consulta=28-04-2008|format=PDF}}/ref
+
+ref name=arghg4_143{{ref-publicació|autor=Pennock, R. T.|article=Creationism and intelligent design|publicació=Annual Review of Genomics Human Genetics|volum=4|exemplar=1|pàgines=143–63|any=2003|pmid=14527300|doi=10.1146/annurev.genom.4.070802.110400}}/ref
+
+ref name=sec_nap2008{{ref-llibre|títol=Science, Evolution, and Creationism|url=http://books.nap.edu/openbook.php?record_id=11876page=R1|any=2008|editorial=National Academies Press|lloc=Washington, D.C|isbn=0-309-10586-2|consulta=13-03-2011}}/ref
+
+ref name=jrst43_4_419{{ref-publicació | cognom=Colburn,|nom=A.|cognom2=Henriques|nom2=Laura|any=2006|article=Clergy views on evolution, creationism, science, and religion|publicació=Journal of Research in Science Teaching|volum=43|exemplar=4|pàgines=419–442|doi=10.1002/tea.20109|bibcode = 2006JRScT..43..419C }}/ref
+
+ref name=frye1983{{ref-llibre|cognom=Frye|nom=Roland Mushat|any = 1983|títol=Is God a Creationist? The Religious Case Against Creation-Science|editorial=Scribner's|isbn=0-684-17993-8}}/ref
+
+ref name=nathist106_2_16{{ref-publicació|autor=Gould, S. J.|any=1997|article=Nonoverlapping magisteria|publicació=Natural History|volum=106|exemplar=2|pàgines=16–22|url=http://www.jbburnett.com/resources/gould_nonoverlapping.pdf|consulta=28-04-2008|format=PDF}}/ref
+
+ref name=russell1997{{ref-web|cognom=Russell|nom=Jeffrey B|url=http://www.asa3.org/ASA/topics/history/1997Russell.html|títol=The Myth of the Flat Earth|editor=American Scientific Affiliation|consulta=14-03-2007}}; but see also [[Cosmas Indicopleustes]]./ref
+
+ref name=jacobs19980201{{ref-web|cognom=Jacobs|nom=James Q.|data=01-02-1998|url=http://www.jqjacobs.net/astro/aegeo.html|títol=Archaeogeodesy, a Key to Prehistory|consulta=21-04-2007}}/ref
+
+ref name=fuller1963{{ref-llibre|nom=R. Buckminster|cognom=Fuller|enllaçautor=Buckminster Fuller|any=1963|títol=[[Operating Manual for Spaceship Earth]]|edició=First|editorial=E.P. Dutton  Co|lloc=Nova York|isbn=0-525-47433-1|url=http://www.futurehi.net/docs/OperatingManual.html|consulta=21-04-2007}}/ref
+
+ref name=lovelock1979{{ref-llibre|nom=James E.|cognom=Lovelock|enllaçautor=James Lovelock|any=1979|títol=Gaia: A New Look at Life on Earth|edició=First|editorial=Oxford University Press|lloc=Oxford|isbn=0-19-286030-5}}/ref
+
+ref name=mcmichael1993For example: {{ref-llibre|nom=Anthony J.|cognom=McMichael|any=1993|títol=Planetary Overload: Global Environmental Change and the Health of the Human Species|editorial=Cambridge University Press|isbn=0-521-45759-9}}/ref
+
+ref name=aj136_5_1906{{ref-publicació|autor=McCarthy, Dennis D.; Hackman, Christine; Nelson, Robert A.|article=The Physical Basis of the Leap Second|publicació=The Astronomical Journal|volum=136|exemplar=5|pàgines=1906–1908|mes=November|any=2008|doi=10.1088/0004-6256/136/5/1906|bibcode=2008AJ....136.1906M}}/ref
+
+ref name=jg31_3_267{{ref-publicació|autor=Pollack, Henry N.; Hurter, Suzanne J.; Johnson, Jeffrey R.|article=Heat flow from the Earth's interior: Analysis of the global data set|publicació=Reviews of Geophysics|volum=31|exemplar=3|pàgines=267–280|mes=August|any=1993|doi=10.1029/93RG01249|bibcode=1993RvGeo..31..267P |url=http://www.agu.org/journals/ABS/1993/93RG01249.shtml}}/ref
+
+ref name=lang2003{{ref-llibre|nom=Kenneth R.|cognom=Lang|any=2003|títol=The Cambridge guide to the solar system|pàgines=92|editorial=Cambridge University Press|isbn=0-521-81306-9}}/ref
+
+ref name=usno{{ref-web|títol=Selected Astronomical Constants, 2011|obra=The Astronomical Almanac|url=http://asa.usno.navy.mil/SecK/2011/Astronomical_Constants_2011.txt|consulta=25-02-2011}}/ref
+
+ref name=christou_asher2011{{cite arXiv|author=Christou, Apostolos A.; Asher, David J.|date= 31 març 2011|title=A long-lived horseshoe companion to the Earth|eprint=1104.0036|version=v1 }} See table 2, p. 5./ref
+
+ref name=ucs{{ref-web|títol=UCS Satellite Database|data= 31 gener 2011|obra=Nuclear Weapons  Global Security|editor=Union of Concerned Scientists|url=http://www.ucsusa.org/nuclear_weapons_and_global_security/space_weapons/technical_issues/ucs-satellite-database.html|consulta=12-05-2011 }}/ref
+
+ref name=walsh2008{{ref-llibre|nom=Patrick J.|cognom=Walsh|títol=Oceans and human health: risks and remedies from the seas|pàgines=212| editorial=Academic Press, 2008|isbn=0123725844|url=http://books.google.cat/books?id=c6J5hlcjFaACpg=PA212 }}/ref
+}}
+
+== Bibliografia ==
+* {{ref-llibre|nom=Neil F.|cognom=Comins|any=2001
+|títol=Discovering the Essential Universe
+|edició=Second|editorial=W. H. Freeman
+|url=http://adsabs.harvard.edu/abs/2003deu..book.....C
+|consulta=2007-03-17|isbn=0-7167-5804-0 }}
+* {{ref-web|editor=Kirk Munsell|data= 2006-10-19
+|url = http://sse.jpl.nasa.gov/planets/profile.cfm?Object=EarthDisplay=OverviewLong|títol= Solar System Exploration: Earth|editor= NASA|consulta= 2007-03-17 }}
+* {{ref-llibre 
+|nom=Peter D.|cognom=Ward
+|coautors=Donald Brownlee|any=2002
+|títol=The Life and Death of Planet Earth: How the New Science of Astrobiology Charts the Ultimate Fate of Our World
+|editorial=Times Books, Henry Holt and Company
+|isbn=0-8050-6781-7 }}
+* {{ref-web|cognom= Williams|nom= David R.
+|data= 2004-09-01
+|url = http://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+|títol= Earth Fact Sheet|editor= NASA
+|consulta= 2007-03-17 }}
+* {{ref-llibre
+|cognom=Yoder|nom=Charles F.
+|editor=T. J. Ahrens|any=1995
+|títol=Global Earth Physics: A Handbook of Physical Constants
+|editorial=American Geophysical Union|lloc=Washington
+|url=http://www.agu.org/reference/gephys.html
+|consulta=2007-03-17|isbn=0875908519 }}
+* {{ref-web|cognom=Newman|nom=William L.|data=2007-07-09
+|url=http://pubs.usgs.gov/gip/geotime/age.html
+|títol=Age of the Earth
+|editor=Publications Services, USGS
+|consulta=2007-09-20 }}
+
+== Enllaços externs ==
+{{commonscat|Earth|la Terra}}
+* [http://geomag.usgs.gov USGS Geomagnetism Program] (en anglès)
+* [http://earthobservatory.nasa.gov NASA Earth Observatory] (en anglès)
+* [http://solarsystem.nasa.gov/planets/profile.cfm?Object=Earth Earth Profile] del [http://solarsystem.nasa.gov NASA's Solar System Exploration] (en anglès)
+* [http://www.nasa.gov/centers/goddard/earthandsun/earthshape.html Climate changes cause Earth's shape to change - NASA] (en anglès)
+{{Terra}}
+{{Ubicació de la Terra}}
+{{Sistema solar}}
+
+{{100+1000|Ciència}}
+
+{{Enllaç AB|de}}
+{{Enllaç AB|is}}
+{{Enllaç AB|ja}}
+{{Enllaç AB|lt}}
+{{Enllaç AB|lv}}
+{{Enllaç AB|simple}}
+{{Autoritat}}
+{{Enllaç AD|af}}
+{{Enllaç AD|ar}}
+{{Enllaç AD|bg}}
+{{Enllaç AD|da}}
+{{Enllaç AD|en}}
+{{Enllaç AD|es}}
+{{Enllaç AD|it}}
+{{Enllaç AD|la}}
+{{Enllaç AD|mk}}
+{{Enllaç AD|nl}}
+{{Enllaç AD|pl}}
+{{Enllaç AD|pt}}
+{{Enllaç AD|sr}}
+{{Enllaç AD|vi}}
+
+[[Categoria:Terra| ]]
+
+[[new:बँग्वारा]]</text>
+      <sha1>7x77m5dn6y2fmm45ubhdqwqocn9hndm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

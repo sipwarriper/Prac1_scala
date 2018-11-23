@@ -1,0 +1,172 @@
+<page>
+    <title>Tecnologia de la informació</title>
+    <ns>0</ns>
+    <id>1046427</id>
+    <revision>
+      <id>13809330</id>
+      <parentid>13748129</parentid>
+      <timestamp>2014-07-13T08:37:52Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Imatge:2005ICT.PNG|thumb|right|upright=1.3|Mapa de bombolles que mostra la distribució de la despesa en tecnologies de la informació i la comunicació l'any 2005. Les mida de les bombolles representa el percentatge respecte al líder del mercat, els Estats Units, que van tenir una despesa de 1.096.112.600.000 dòlars.ref{{citar publicació|url=http://siteresources.worldbank.org/DATASTATISTICS/Resources/table5_11.pdf |editor=World Bank Group|títol=The information age|llengua=anglès|capítol=5.11|pàgines=p. 304-307 |publicació=2007 World Development Indicators}}/ref]]
+La '''tecnologia de la informació''' (sovint també abreujada '''IT''') és l'aplicació d'[[ordinadors]] i d'equipaments de telecomunicacions per emmagatzemar, recuperar, transmetre i manipular informació,ref name=DOP
+{{citation |contribution=IT |title=A Dictionary of Physics |editor-last=Daintith |editor-first=John |publisher=Oxford University Press |year=2009 |url=http://www.oxfordreference.com/views/ENTRY.html?subview=Mainentry=t83.e1592 |accessdate=1 August 2012}}
+/ref sovint en un context d'un negoci o qualsevol empresa.ref{{cite web|url=http://foldoc.org/information+technology|title=Free on-line dictionary of computing (FOLDOC)|accessdate=9 Feb. 2013}}/ref El terme s'utilitza sovint com a sinònim per a ordinadors i xarxes de computadores, però també engloba altres distribucions de tecnologia com la televisió i els telèfons. Diverses [[indústria informàtica|indústries]] s'associen amb tecnologia de la informació, com maquinari d'ordinadors, [[programari]], electrònica, [[semiconductor]]s, [[Internet]], equipament de telecomunicacions, [[comerç electrònic]] i serveis d'ordinadors.ref name=DMC{{citation |last1=Chandler |first1=Daniel |last2=Munday |first2=Rod |contribution=Information technology |title=A Dictionary of Media and Communication |edition=first |publisher=Oxford University Press |url=http://www.oxfordreference.com/views/ENTRY.html?subview=Mainentry=t326.e1343}}/refref name=Ralston2000On the later more broad application of the term IT, Keary comments- In its original application 'information technology' was appropriate to describe the convergence of technologies with application in the broad field of data storage, retrieval, processing, and dissemination. This useful conceptual term has since been converted to what purports to be concrete use, but without the reinforcement of definition...the term IT lacks substance when applied to the name of any function, discipline, or position. {{cite book|author=Anthony Ralston|title=Encyclopedia of computer science|url=http://books.google.com/books?id=yQ9LAQAAIAAJ|accessdate=12 May 2013|year=2000|publisher=Nature Pub. Group|isbn=978-1-56159-248-7}}./ref
+
+En un context de negocis, l'Associació de tecnologia de la informació d'Amèrica ha definit la tecnologia de la informació com l'estudi, disseny, desenvolupament, aplicació, implementació, suport i administració de sistemes d'informació basats en computadores.{{sfn|Proctor |2011|loc=prefacI}} Les responsabilitats d'aquelles persones que treballen en aquest camp inclouen l'administració de xarxes, desenvolupament i instal·lació de programari, i el disseny i l'administració  del cicle vital d'una organització a través del qual el maquinari es manté, es millora i es reemplaça.
+
+Els humans han anat guardant, recuperant, manipulant i comunicant informació des que els sumeris a [[Mesopotàmia]] van desenvolupar l'escriptura cap a l'any 3000 aC,ref name=Butler{{citation |last=Butler |first=Jeremy G. |contribution=A History of Information Technology and Systems |url=http://www.tcf.ua.edu/AZ/ITHistoryOutline.htm |publisher=University of Arizona }}/ref però el terme tecnologia de la informació en el seu sentit modern va aparèixer per primera vegada en un article del 1958 publicat a ''Harvard Business Review''; els autors Leavitt i Whisler van comentar que la nova tecnologia encara no té cap nom establert. L'hauríem d'anomenar tecnologia de la informació.ref name=LeavittWhisler{{citation |title=Management in the 1980s |url=http://hbr.org/1958/11/management-in-the-1980s |last1=Leavitt |first1=Harold J. |last2=Whisler |first2=Thomas L. |journal=Harvard Business Review |year=1958 |volume=11}}/ref Basant-se en l'emmagatzematge i la processió de la tecnologia utilitzada, es pot distingir quatre fases diferents en el desenvolupament de la tecnologia de la informació: la fase pre-mecànica (3000nbsp;aCnbsp;– 1450nbsp;dC.), la mecànica (1450–1840), l'electromecànica (1840–1940) i l'electrònica (1940-actualment).ref name=Butler/ Aquest article es concentra en el període més recent (l'electrònic), que va començar al voltant de l'any 1940.
+
+== Història dels ordinadors ==
+{{AP|Història dels ordinadors}}
+
+Ja fa milers d'anys que s'han utilitzat dispositius per ajudar-se en càlculs, probablement el primer dispositiu sent en forma de [[pal de recompte]].ref name=Schmandt-Besserat{{citation |last=Schmandt-Besserat |first=D. |title=Decipherment of the earliest tablets |journal=Science |year=1981 |volume=211 |issue=4479 |pages=283–285 |doi=10.1126/science.211.4479.283 |pmid=17748027}} /ref El [[mecanisme d'Anticitera]], que data de principis del primer segle a.C., es considera generalment el [[computador analògic]] mecànic més primerenc; també és el primer mecanisme mogut per engranatges conegut.{{sfn|Wright|2012|p=279|ps=}} Dispositius amb engranatges comparables no van aparèixer a Europa fins al segle XVI,{{sfn|Childress|2000|p=94|ps=}} i no fou fins al 1745 que es desenvolupà la primera calculadora mecànica capaç de resoldre les quatre operacions aritmètiques bàsiques.{{sfn|Chaudhuri|2004|p=3|ps=}}
+
+Els ordinadors electrònics, utilitzant tant relleus com vàlvules, van començar a aparèixer a principis de la dècada dels 1940. L'electromagnètic [[Zuse Z3]], acabat l'any 1941, fou el primer ordinador programable del món, i pels estàndards moderns una de les primeres màquines que poden ser considerades una màquina computadora completa. El [[Colossus]], desenvolupat durant la Segona Guerra Mundial per desxifrar els missatges [[Alemanya Nazi|alemanys]] fou el primer ordinador [[electrònica|electrònic]] [[digital]]. Tot i que era programable, no servia per a múltiples tasques, només en servia per una de sola. Tampoc podia emmagatzemar el programa en la seva memòria. En comptes d'això, la programació es duia a terme utilitzant endolls i interruptors per alterar la connexió interna.{{sfn|Lavington|1980|p=|ps=}} El primer [[ordinador de programa emmagatzemat|ordinador modern digital que podia emmagatzemar programes]] fou la [[SSEM|Màquina Experimental de Petita Escala de Manchester]] (SSEM), que va córrer el primer programa el 21 de juny de 1948.ref name=Enticknap{{citation |last=Enticknap |first=Nicholas |title=Computing's Golden Jubilee |journal=Resurrection |issue=20 |publisher=The Computer Conservation Society |date=Summer 1998 |url=http://www.cs.man.ac.uk/CCS/res/res20.htm#d |issn=0958-7403 }}/ref
+
+== Emmagatzematge de dades ==
+{{AP|Dispositiu d'emmagatzematge de dades}}
+
+Els primers computadors electrònics com el [[Colossus]] utilitzaven una [[cinta perforada]], una tira de paper llarga en la qual les dades es representaven mitjançant un seguit de forats, una tecnologia actualment obsoleta.{{sfn|Alavudeen|Venkateshwaran|2010|p=178|ps=}} L'emmagatzematge electrònic de dades, tècnica utilitzada en els ordinadors moderns, data de la [[Segona Guerra Mundial]], quan es va desenvolupar una forma de [[memòria de línia de retard]] per treure ecos indesitjats de senyals de [[radar]]s. La primera aplicació d'aquest mètode fou la línia de retard de mercuri.{{sfn|Lavington|1998|p=1|ps=}} El primer dispositiu d'emmagatzematge digital [[RAM|d'accés aleatori]] fou el [[tub Williams]], basat en un [[tub de raigs catòdics]] estàndard,ref name=Resurrection{{citation |title=Early computers at Manchester University |journal=Resurrection |volume=1 |issue=4 |publisher=The Computer Conservation Society |date=Summer 1992 |url=http://www.cs.man.ac.uk/CCS/res/res04.htm#g |issn=0958-7403 }}/ref però la informació gravada dins seu era volàtil, cosa que feia que s'hagués de refrescar contínuament, i per tant es perdia quan se n'anava la llum. La primera forma de magatzem d'informació no volàtil dins d'un ordinador fou la [[memòria de tambor]], inventada l'any 1932ref name=MagDrum{{citation |url=http://cs-exhibitions.uni-klu.ac.at/index.php?id=222 |title=Magnetic drum |work=Virtual Exhibitions in Informatics |editor=Universität Klagenfurt }}/ref i utilitzada en el [[Ferranti Mark I]], el primer ordinador electrònic comercial disponible per a propòsits generals.ref name=Digital60MM1{{citation |title=The Manchester Mark 1 |url=http://www.digital60.org/birth/manchestercomputers/mark1/manchester.html |publisher=University of Manchester}}/ref
+
+Avui en dia, la majoria de les dades digitals es desen magnèticament en dispositius com [[disc dur|discs durs]], o de forma òptica en mèdia com ara en [[CD-ROM]]s.{{sfn|Wang|Taratorin|1999|pp=4–5}} S'estima que la capacitat mundial d'emmagatzematge en dispositius electrònics va créixer de menys de 3 [[exabyte]]s l'any 1986 a 295 exabytes el 2007,ref name=HilbertLopez2011[http://www.sciencemag.org/content/332/6025/60 The World's Technological Capacity to Store, Communicate, and Compute Information], Martin Hilbert and Priscila López (2011), [[Science]], 332(6025), 60-65; free access to the article through here: martinhilbert.net/WorldInfoCapacity.html/ref doblant-se aproximadament cada 3nbsp;anys.ref name=Hilbertvideo2011[http://ideas.economist.com/video/giant-sifting-sound-0 video animation on The World's Technological Capacity to Store, Communicate, and Compute Information from 1986 to 2010]/ref
+
+== Bases de dades ==
+{{AP|Base de dades}}
+Els primers sistemes d'administració de bases de dades va aparèixer durant la dècada dels 1960s per tractar el problema de guardar i recuperar grans quantitats de dades acuradament i ràpida. Un dels primers sistemes sembalts era l'IMS (abreviació de ''Information Management System'', en català Sistema d'Administració d'Informació) de l'empresa [[IBM]],{{sfn|Ward|Dafoulas|2006|p=2|ps=}} el qual encara es desplega àmpliament més de 40 anys després.ref name=IMS{{citation |last=Olofson |first=Carl W. |contribution=A Platform for Enterprise Data Services |date=October 2009 |publisher=[[International Data Corporation|IDC]] |url=http://public.dhe.ibm.com/software/data/sw-library/ims/idc-power-of-ims.pdf |accessdate=7 August 2012}}/ref IMS emmagatzema dades jeràrquicament,{{sfn|Ward|Dafoulas|2006|p=2|ps=}} però durant els 1970s [[Edgar F. Codd|Ted Codd]] va proposar un model d'emmagatzematge relacional alternatiu basat en la [[teoria de conjunts]] i la [[lògica de predicats]] i els conceptes familiars de taules, files i columnes. El primer [[sistema de gestió de bases de dades relacionals]] (RDBS) comercial disponible el va fer [[Oracle Corporation|Oracle]] l'any 1980.{{sfn|Ward|Dafoulas|2006|p=3|ps=}}
+
+Tots els sistemes de gestió de dades consisteixen en un conjunt de components que tots junts permeten que les dades que emmagatzemen siguin accessibles simultàniament per molts usuaris mentre mantenen la seva integritat. Una característica de totes les bases de dades és que l'estructura de les dades que contenen es defineixen i es guarden separadament de les dades en si, en un [[esquema de base de dades]].{{sfn|Ward|Dafoulas|2006|p=2|ps=}}
+
+El [[XML|llenguatge de marques extensible]] (XML, ''extensible markup language'' en anglès) s'ha convertit en un format popular per la representació de dades en els últims anys. Tot i que les dades en XML es poden guardar en [[sistema de fitxera|sistemes de fitxers]] normals, sovint es mantenen en [[base de dades relacional|bases de dades relacionals]] per aprofitar-se de la seva robusta implementació verificada per anys tant d'esforços teòrics com pràctics.{{sfn|Pardede|2009|p=2|ps=}} Com una evolució de l'[[Standard Generalized Markup Language]] (SGML), l'estructura basada en un text de l'XML ofereix l'avantatge de ser llegida tant per una màquina com per un humà.{{sfn|Pardede|2009|p=4|ps=}}
+
+== Recuperació de dades ==
+El model de base de dades relacional va introduir un llenguatge de programació independent ''[[SQL|Structured Query Language]]'' (SQL), basat en l'[[àlgebra relacional]].{{sfn|Ward|Dafoulas|2006|p=3|ps=}}
+
+Els termes dada i informació no són sinònims. Qualsevol cosa emmagatzemada és una dada, però només esdevé informació quan s'organitza i es presenta de manera que tingui un significat.{{sfn|Kedar|2009|pp=1–9|ps=}} La majoria de les dades digitals del món no tenen estructura, i estan guardades en una gran varietat de diferents formats físics{{sfn|van der Aalst|2011|p=2|ps=}}ref group=n.Format es refereix a les característiques físiques de les dades emmagatzemades com el seu esquema de [[Codificació de caràcters|codificació]]; estructura descriu l'organització d'aquestes dades./ref fins i tot dins una única organització. Els [[magatzem de dades|magatzems de dades]] es van començar a desenvolupar durant els anys 1980 per integrar aquests dipòsits separats. Sovint contenen dades extretes de diverses fonts, incloent fonts externes com Internet, organitzat de manera que faciliti la feina als sistemes de suport a la presa de decisions (DSS).{{sfn|Dyché|2000|pp=4–6}}
+
+=== Sistema de suport a la presa de decisions ===
+El concepte de sistema de suport a les decisions (DSS per les seves sigles en anglès ''Decision support system'') és molt ampli, perquè hi ha molts enfocaments per a la presa de decisions i a causa de l'extensa gamma d'àmbits en els quals es prenen. Aquests sistemes de suport són del tipus [[OLAP]] o de [[mineria de dades]], que proporcionen informació i suport per prendre una decisió. 
+
+Un DSS pot adoptar moltes formes diferents. En general, podem dir que un DSS és un sistema informàtic utilitzat per servir de suport, més que automatitzar, el procés de presa de decisions. La decisió és una elecció entre alternatives basades en estimacions dels valors d'aquestes alternatives. El suport a una decisió significa ajudar les persones que treballen soles o en grup a reunir intel·ligència, generar alternatives i prendre decisions. Recolzar  el procés de presa de decisió implica el suport a l'estimació, l'avaluació i/o la comparació d'alternatives. A la pràctica, les referències a DSS acostumen a ser referències a aplicacions informàtiques que realitzen una funció de suport.refAlter, S. L. (1980). Decision support systems: current practice and continuing challenges. Reading, Mass., Addison-Wesley Pub./ref
+
+== Transmissió de dades ==
+La transmissió de dades inclou tres aspectes: la transmissió, la propagació i la recepció.{{sfn|Weik|2000|p=361|ps=}}
+
+XML s'ha fet servir de forma creixen com a mitjà d'intercanvi de dades des dels primers anys de la dècada dels 2000s,{{sfn|Pardede|2009|p=xiii}} particularment per a interaccions orientades a màquines com aquelles involucrades en [[protocol de comunicació|protocols]] orientats a pàgines web com [[SOAP]],{{sfn|Pardede|2009|p=4}} descrivint més aviat dada en trànsit quenbsp;... ''dada en descans''.{{sfn|Pardede|2009|p=xiii}} Un dels reptes d'aquest ús és convertir dades de bases relacionals en estructures [[Model d'Objectes del Document|DOM]] en XML.{{sfn|Lewis|2003|pp=228–231}}
+
+== Manipulació de dades ==
+Hilbert i Lopezref name=HilbertLopez2011[http://www.sciencemag.org/content/332/6025/60 The World's Technological Capacity to Store, Communicate, and Compute Information], Martin Hilbert and Priscila López (2011), [[Science (journal)]], 332(6025), 60-65; free access to the article through here: martinhilbert.net/WorldInfoCapacity.html/ref identifiquen el pas exponencial d'un canvi tecnològic (un tipus de [[llei de Moore]]): la capacitat de les màquines de ser aplicades específicament per computar informació per capita es va doblar aproximadament cada 14 mesos entre el 1986 i el 2007; la capacitat per capita dels ordinadors globals de propòsits generals es va doblar cada 18 mesos durant les mateixes dues dècades; la telecomunicació global per capita es va doblar cada 34 mesos; la capacitat per capita d'emmagatzematge mundial va tardar aproximadament 40 mesos per doblar-se (cada 3 anys); i la informació d'emissions per capita s'ha doblat cada 12,3 anys.ref name=HilbertLopez2011/
+
+S'emmagatzemen quantitats massives de dades arreu del món cada dia, però a no ser que es pugui analitzar i presentar efectivament, resideix essencialment al que s'anomenen tombes de dades: arxius de dades que es visiten rarament.{{sfn|Han|Kamber|Pei|2011|p=5|ps=}} Per solucionar aquest problema, va aparèixer el camp de [[mineria de dades]]nbsp;– el procés de descobrir patrons interessants i coneguts a partir de grans quantitats de dades{{sfn|Han|Kamber|Pei|2011|p=8|ps=}}nbsp;– a finals de la dècada dels 1980s.{{sfn|Han|Kamber|Pei|2011|p=xxiii|ps=}}
+
+== Base de coneixement ==
+Una Base de coneixement (o ''knowledgebase'' en anglès; KB, kb or Δ) és un tipus especial de base de dades per a la [[gestió del coneixement]]. Proveeix els medis per a la recol·lecció, organització i recuperació computaritzada de coneixement.
+
+Les bases de coneixement s'han classificat en dos grans tipus: 
+*Bases de coneixement llegibles per màquines, dissenyades per emmagatzemar coneixement en una forma llegible per l'ordinador, usualment per tal d'obtenir raonament deductiu automàtic aplicat a elles. Contenen una sèrie de dades, usualment en la forma de regles que descriuen el coneixement de manera lògicament consistent. Operadors lògics com I ([[conjunció (gramàtica)|conjunció]]), O ([[disjunció]]), condició lògica i negació són utilitzada per augmentar-la des del coneixement atòmic. Per tant la deducció clàssica pot ser utilitzada per raonar sobre el coneixement a la base de coneixement. Aquest tipus de bases de coneixement són utilitzades pel [[web semàntic]].ref{{citar web|url=http://searchcrm.techtarget.com/sDefinition/0,,sid11_gci753399,00.html|títol= Whatis.com definition of Knowledge Base|llengua=anglès|consulta= 31 de maig de 2013}}/ref 
+*Bases de coneixement llegibles per humans estan dissenyades per permetre a les persones accedir al coneixement que elles contenen, principalment per a propòsits d'aprenentatge. Aquestes són comunament usades per obtenir i conduir coneixement explícit de les organitzacions, inclouen articles, [[llibre blanc]], manuals d'usuari i d'altres. El principal benefici que proveeixen les bases de coneixement és proporcionar medis de descobrir solucions a problemes ja resolts, els quals podrien ser aplicats com a base a altres problemes dins o fora del mateix àrea de coneixement.
+
+El més important aspecte d'una base de coneixement és la qualitat de la informació que aquesta conté. Les millors bases de coneixement tenen articles curosament redactats que es manté al dia, un excel·lent sistema de recuperació d'informació (motor de recerca]), i un delicat format de contingut i estructura de classificació. Una base de coneixement pot usar una [[ontologia]] per especificar l'estructura (tipus d'entitats i relacions) i el seu esquema de classificació. Una ontologia, juntament amb un grup d'instàncies de les seves classes constitueixen una base de coneixement.ref {{citar web |url=http://protege.stanford.edu/index.html|títol= Protégé, an open source ontology editor and knowledge-base framework|consulta= 31 de maig de 2013}}/ref
+
+== Perspectiva acadèmica ==
+En un context acadèmic, l'[[Associació per la Maquinària Computadora]] defineix la tecnologia de la informació com a uns programes pregraduats que preparen els estudiants per conèixer les necessitats de la tecnologia dels ordinadors del negoci, el govern, la salut, les escoles, i altres tipus d'organitzacionsnbsp;.... Els especialistes en la tecnologia de la informació assumeixen la responsabilitat de seleccionar els productes de maquinari i programari apropiats per una organització, integrant aquells productes amb necessitats organitzacionals i infraestructura, i instal·lar, personalitzar i mantenir aquelles aplicacions pels usuaris de l'ordinador de l'organització.ref name=curricula The Joint Task Force for Computing Curricula 2005.[http://www.acm.org/education/curric_vols/CC2005-March06Final.pdf Computing Curricula 2005: The Overview Report (pdf)]/ref
+
+== Perspectiva comercial ==
+El valor a nivell de negoci de la tecnologia de la informació prové de l'automatització dels processos, de proveir informació per a la presa de decisions, de connectar els negocis amb els seus clients i proveir d'eines de productivitat que incrementin l'eficiència.
+
+{| class=wikitable style=width:50%; margin:1em auto 1em auto;
+|+ Pronòstic de la Despesa mundial en ITref{{ citar web |url=http://www.gartner.com/DisplayDocument?id=2291618|títol= Forecast Alert: IT Spending, Worldwide, 4Q12 Update|autor=Gartner|llengua=anglès|consulta= 31 de maig de 2013}}/ref (bilions de dòlars americans)
+|-
+!|Categoria
+!|2012 despesa
+!|2013 despesa
+|-
+|| [[Perifèric|Dispositius]] || 627 || 666
+|-
+|| [[Servei de Centre de Dades|Sistemes de Centre de Dades]] || 141 || 147
+|-
+|| [[Software empresarial]] || 278 || 296
+|-
+|| [[Gestió de serveis IT|Serveis IT]] || 881 || 927
+|-
+|| [[Telecomunicació|Serveis de telecomunicacions]] || 1.661 || 1.701
+|-
+|| Total || 3.588 || 3.737
+|}
+
+== Tecnologia de la informació en negocis ==
+La tecnologia de la informació ha tingut un gran impacte en negocis, entre altres, de la següent manera:
+#Ha incrementat l'eficiència i la competitivitat de pràcticament qualsevol negoci {{sfn|McFarlan|1985|p=43-50|ps=}}
+#Reducció de feines manuals, evitant el possible error per part del treballador {{sfn|Wright|2000|p=37|ps=}}ref name=impactIT/ 
+#Permet a l'empresa dependre de bases de dades importants en ordinadors.ref name=impactIT{{citar web|url=bhttp://www.presentsoft.co.in/2010/08/03/the-impact-of-information-technology-on-business/|títol= The Impact of Information Technology on Business|consulta=30-05-2013}}/ref
+
+La tecnologia de la informació com a eina per millorar l'activitat principal s'ha d'utilitzar amb cura. Només s'aconsegueix l'efecte positiu quan la gestió de l'empresa veu clarament quines accions futures s'han de fer. Per exemple, si hi ha una eina que podria aportar valor a l'empresa, cal preveure quin serà el negoci en si mateix i la forma de desenvolupar l'ús de la tecnologia de la informació per donar suport a la implementació reeixida de les estratègies de negoci. En cas contrari, tot i ser de gran abast, aquesta eina és cara i difícil d'emprar, cosa que podria fer que els fons destinats a la tecnologia de la informació es destinessin en va.ref{{citar web|url=http://www.topsbi.ru/default.asp?artID=109|títol=Феликс Гликман: Информационные технологии как тюнинг основного бизнеса|autor=Сайт компании TopS Business Integrator|consulta=30-05-2013}}/ref
+
+== Ètica ==
+{{AP|Infoètica}}
+El camp de l'ètica de les tecnologies de la informació, també anomenada infoètica,ref name=TERMCAT{{TERMCAT |id= Infoètica| nom = infoètica|consulta= 1 de maig de 2013}}/ref fou establert pel matemàtic [[Norbert Wiener]] durant els anys 1940.{{sfn|Bynum|2008|p=9}} Algunes de les qüestions ètiques associades amb l'ús de la tecnologia de la informació són:{{sfn|Reynolds|2009|pp=20–21}}
+* L'incompliment del copyright per aquells que descarreguen fitxers guardats sense el permís dels propietaris del copyright
+* Patrons seguint els correus electrònics dels seus treballadors i altres usos d'Internet
+* [[Correu brossa|Correus no sol·licitats]]
+* [[Cracker]]s accedint a bases de dades en línia
+* Pàgines web instal·lant [[galeta (informàtica)|galetes]] o [[programari espia|programaris espia]] per seguir les activitats d'un usuari en línia
+
+==Vegeu també==
+{{Portal|Tecnologies de la Informació i la Comunicació}}
+*[[Tecnologies de la Informació i la Comunicació]]
+
+== Referències ==
+=== Citacions ===
+{{Referències|2}}
+
+=== Notes ===
+references group=n. /
+
+=== Bibliografia ===
+{{refbegin|30em}}
+* {{citation |last1=Alavudeen |first1=A. |last2=Venkateshwaran |first2=N. |title=Computer Integrated Manufacturing |year=2010 |publisher=PHI Learning | isbn =978-81-203-3345-1}}
+* {{citation |last=Bynum |first=Terrell Ward |contribution=Norbert Wiener and the Rise of Information Ethics |title=Information Technology and Moral Philosophy |year=2008 |editor1-last=van den Hoven |editor1-first=Jeroen |editor2-last=Weckert |editor2-first=John |publisher=Cambridge University Press | isbn =978-0-521-85549-5}}
+* {{citation |last=Chaudhuri |first=P. Pal |title=Computer Organization and Design |year=2004 |publisher=PHI Learning | isbn =978-81-203-1254-8}}
+*{{citation |last=Childress |first=David Hatcher| title=Technology of the Gods: The Incredible Sciences of the Ancients |year=2000| publisher=Adventures Unlimited Press | isbn =978-0-932813-73-2}}
+* {{citation |last=Dyché |first=Jill |title=Turning Data Into Information With Data Warehousing |year=2000 |publisher=Addison Wesley | isbn =978-0-201-65780-7}}
+* {{citation |last1=Han |first1=Jiawei |last2=Kamber |first2=Micheline |last3=Pei |first3=Jian |title=Data Minining: Concepts and Techniques |year=2011 |edition=3rd |publisher=Morgan Kaufman | isbn =978-0-12-381479-1}}
+* {{citation |last=Kedar |first=Seema |title=Database Management Systems |year=2009 |publisher=Technical Publications | isbn =978-81-8431-584-4}}
+* {{citation |last=Lavington |first=Simon |title=Early British Computers|publisher=Digital Press |year=1980| isbn =978-0-7190-0810-8}}
+* {{citation |last=Lavington |first=Simon |title=A History of Manchester Computers |year=1998 |edition=2 |publisher=The British Computer Society | isbn =978-1-902505-01-5}}
+* {{citation |last=Lewis |first=Bryn |contribution=Extraction of XML from Relational Databases |title=XML-Based Data Management and Multimedia Engineeringnbsp;– EDBT 2002 Workshops |year=2003 |editor1-first=Akmal B. |editor1-last=Chaudhri |editor2-first=Chabane |editor2-last=Djeraba |editor3-first=Rainer |editor3-last=Unland |editor4-first=Wolfgang |editor4-last=Lindner | publisher=Springer | isbn = 978-3540001300}}
+* {{citation |last=Pardede |first=Eric |title=Open and Novel Issues in XML Database Applications |year=2009 |publisher=Information Science Reference | isbn =978-1-60566-308-1}}
+* {{citation |last=Proctor |first=K. Scott |title=Optimizing and Assessing Information Technology: Improving Business Project Execution |year=2011 |publisher=John Wiley  Sons | isbn =978-1-118-10263-3}}
+* {{citation |last=Reynolds |first=George |title=Ethics in Information Technology |year=2009 |publisher=Cengage Learning | isbn =978-0-538-74622-9}}
+* {{citation |last=van der Aalst |first=Wil M. P. |title=Process Mining: Discovery, Conformance and Enhancement of Business Processes |year=2011 |publisher=Springer | isbn =978-3-642-19344-6}}
+* {{citation |last1=Wang |first1=Shan X. |last2=Taratorin |first2=Aleksandr Markovich |title=Magnetic Information Storage Technology |year=1999 |publisher=Academic Press | isbn =978-0-12-734570-3}}
+* {{citation |last1=Ward |first1=Patricia |last2=Dafoulas |first2=George S. |title=Database Management Systems |year=2006 |publisher=Cengage Learning EMEA | isbn =978-1-84480-452-8}}
+* {{citation |last=Weik |first=Martin |title=Computer Science and Communications Dictionary |volume=2 |year=2000 |publisher=Springer | isbn =978-0-7923-8425-0}}
+* {{citation |last=Wright |first=Michael T. |contribution=The Front Dial of the Antikythera Mechanism |year=2012 |editor1-last=Koetsier |title=Explorations in the History of Machines and Mechanisms: Proceedings of HMM2012 |editor1-first=Teun |editor2-last=Ceccarelli |editor2-first=Marco |pages=279–292 |publisher=Springer | isbn =978-94-007-4131-7}}
+* {{citation |last=McFarlan |first=Warren |title=La tecnología de la información cambia el modo de competir| year=1985 |publisher=Harvard Deusto Business Review, | issn =0210-900X}}
+* {{citation |last=Doyle |first=Stephan |title=La tecnología de la información cambia el modo de competir| year=2000 |publisher=Harvard Deusto Business Review, | isbn =0748736093}}
+
+{{refend}}
+
+=== Altres lectures ===
+* {{Ref-llibre | cognom = Allen | nom = T. | nom 2 = M. S. | cognom2 = Morton | any = 1994 | títol = Information Technology and the Corporation of the 1990s | lloc = New York | editorial = [[Oxford University Press]] | llengua = anglès}}
+* {{Ref-llibre | cognom = Gleick | nom = James | any = 2011 | títol = The Information: A History, a Theory, a Flood | lloc = New York | editorial = Pantheon Books | llengua = anglès}}
+* {{Ref-llibre | cognom = Shelly | nom = Gary | coautors = Cashman, Thomas, Vermaat, Misty, and Walker, Tim | any = 1999 | títol = Discovering Computers 2000: Concepts for a Connected World | lloc = Cambridge, Massachusetts | editorial = Course Technology | llengua = anglès}}
+* {{Ref-llibre | cognom = Webster | nom = Frank | cognom2 = Robins | nom2 = Kevin | any = 1986 | títol = Information Technology—A Luddite Analysis | lloc = Norwood, New Jersey (USA) | editorial = Ablex | llengua = anglès}}
+
+== Enllaços externs ==
+{{Commonscat}}
+* {{citar web | url = http://www.weforum.org/pdf/gitr/2009/gitr09fullreport.pdf | títol = The Global Information Technology Report 2008–2009 | editor = The World Economic Forum | format = pdf | any = 2999 | consulta = 29 maig 2013 | llengua = anglès}}
+
+{{1000 Tecnologia}}
+{{Autoritat}}
+{{ORDENA:Tecnologia De La Informacio}}
+[[Categoria:Tecnologia]]</text>
+      <sha1>q0l8nind8q7h81wsvq2cr88iip3kio8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

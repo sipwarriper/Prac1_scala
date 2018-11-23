@@ -1,0 +1,84 @@
+<page>
+    <title>Distribució Desmodròmica</title>
+    <ns>0</ns>
+    <id>555159</id>
+    <revision>
+      <id>13513093</id>
+      <parentid>13340010</parentid>
+      <timestamp>2014-06-03T07:22:21Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: motorista suïs '''Mario  motorista suís '''Mario</comment>
+      <text>{{2L|data=febrer de 2013}}
+[[Fitxer:Desmodromic valve 1.jpg|rigth|thumb|Sistema desmodròmic]]
+La '''distribució Desmodròmica''' és un tipus de distribució en els motors de quatre temps, on és controlada tant l'obertura com el tancament de les vàlvules (recordar, que en les distribucions normals, el tancament es fa per molles). Els motors que fan ús d'aquesta distribució es diuen normalment ''DESMO''. Cal recordar que actualment és una ''patent mundial de Ducati''.
+
+== Història ==
+
+El sistema actual ''desmo'', ha estat perfeccionat per l'enginyer de Ducati '''Fabio Taglioni'''. Té el mèrit de dissenyar-lo i fer funcionar un mecanisme de conducció de les vàlvules, i fer-ho funcionar en curses a principis dels anys cinquanta en la casa automobilística [[Mercedes-Benz|'''Mercedes Benz''']].
+
+El Mercedes de fórmula 1, amb sistema desmodròmic, i injecció directa en el cilindre (tècnica usada a '''Daimler''' en el seu motor de 12 cilindres dels avions de caça a la ''Segona Guerra Mundial''), va aparèixer el 1954 a [['''Reims''']], al ''Gran Premi de França'', amb un doblet (1r [[Juan Manuel Fangio|Fangio]], 2n Kling), i guanya successivament als ''GP d'Alemanya, Suïssa, e Itàlia''. El 1955 va guanyar el Campionat Mundial de Formula 1, amb Fangio, i amb el motor de 3000 cc de sis cilindres la '''Mille Miglia''' ('''[[Stirling Moss]]''', va aconseguir el rècord a 160 Km/h). Seguit de l'incident de '''[[Le Mans]]''', on Mercedes, a causa d'una col·lisió, va causar una tragèdia entre els espectadors de tribuna, a fi d'any Mercedes es retira de les curses.
+
+== Etimologia ==
+
+El nom Desmodròmic, ve de les paraules gregues ''desmos = controlat'' i ''dromos = cursa''. D'aquí el nom, ja que és un sistema de distribució, on la vàlvula és controlada tant en la cursa d'obertura, com en la fase de tancament.
+
+== Funcionament ==
+
+En el sistema desmodròmic, se substitueix la molla que tanca la vàlvula, per un mecanisme de balancí, comandat per l'arbre de lleves, això vol dir que l'arbre, porta unes lleves complementàries, que actuen sobre aquests balancins, i per tant l'[[Arbre de lleves|arbre de lleves]] comanda tant l'obertura com el tancament.
+
+El sistema actual, utilitza una molla que actua sobre els balancins, assegurant un perfecte tancament a baixes revolucions (ralentí).
+
+== Avantatges ==
+[[Fitxer:Desmo photo.jpg|rigth|thumb|En una Ducati ''Desmo'', es veu el balanci inferior que tanca la vàlvula]]
+Els avantatges que ofereix aquest sistema són molts:
+
+*''Règim de rotació més elevat'', respecte als motors amb molles, o al més complex i costós sistema de ''vàlvules neumàtiques'' (tecnologia derivada de Fórmula 1, i portada a moto GP, amb escàs resultat en '''Aprilia RSCube''', primer e '''Ilmor Engineering''' amb la 4 clindres de 800 cc del motorista suís '''Mario Illien''', amb passat després a F1).
+
+Això és perquè el retorn de la vàlvula és precís, i evita la topada de la vàlvula amb el cap del pistó, mentre que en els altres sistemes, cal respectar la velocitat de retorn de la vàlvula, donat que a elevats règims es manifesta el fenomen de flotació (les vàlvules no arriben a tancar, i el motor està fora del règim).
+
+*''Consum més reduït'', és molt lleuger, ja que accionar aquest sistema consumeix menys energia que altres més complicats (augmentar el nombre de vàlvules per reduir la inèrcia).
+
+*''Prestacions superiors'', ja que es pot fer girar el motor a més revolucions (augmentar el règim de gir), i per tant augmentar la potencia, respecte a un motor amb altre tipus de distribució, a més com que és un sistema que consumeix poca energia, no es nota a mitjà i baix règim. I no és casual que el sistema desmodròmic s'utilitzi més en motos que en cotxes, ja que el motor d'aquestes, gira a més règim que els cotxes. L'enginyer Taglioni deia ''El desmo a alt règim dóna molt, i a baix no menja res''.
+
+== Ús actual ==
+[[Fitxer:Desmodromiczne sterowanie zaworów.svg|rigth|thumb|Sistema actual amb arbre de lleves en cap]]
+És un sistema poc difós (la producció en sèrie només la fa Ducati), perquè es prefereix el mecanisme de retorn per molla per la seva facilitat de projecte.
+
+Actualment Ducati utilitza la distribució desmodròmica a tota la seva producció motorista, inclosos els motors de competició (''Superbikes, Moto GP''), i amb excel·lents resultats, on la Desmosedici (4 cilindres en V a 90°, 16 vàlvules amb govern desmodròmic), ha demostrat ser la moto més potent, i la més austera en el consum de combustible, portant a Casey Stoner a guanyar el campionat del món del 2007, i a diversos subcampionats.
+
+== Bibliografia ==
+
+*{{en}} Mick Walke,'' Ducati Desmo: The Making of a Masterpiece'', Osprey Publishing (UK), 1989, ISBN 085045879X
+*{{en}} LJK Setright ''The Grand Prix Car 1954/1966'', ed. W. W. Norton  Co, 1968, New York
+*{{en}} LJK Setright ''Some Unusual Engines'', ed. Mecanical Engineers Publications Ltd. 1975, Londres.
+
+== Vegeu també ==
+
+*[[Arbre de lleves]]
+
+== Enllaços externs ==
+{{Commonscat|Desmodromic}}
+
+
+*{{es}} Distribución desmodrómica (http://www.mecanicavirtual.org/desmo.htm)
+*{{es}} Distribución desmodrómica (http://www.km77.com/glosario/d/distribucion.asp)
+*{{es}} Distribución desmodrómica (http://blogdemotos.com/00425/distribucion·desmodromica/)
+* {{es}} Desmo qué? Sísí, desmodrómico(http://8000vueltas.com/2007/07/03/%c2%bfdesmo-que-sisi-desmodromico/comment-page-1#comment-8434)
+*{{it}} Mondo Ducati sulla distribuzione desmo (http://motoitaliane.it/mondoducati/distrbu.htm)
+*{{it}} Pinguin Racing Team: ''Principio del desmo'' (http://www.pinguinracingteam.net/Tecnica/Tecnica%20Moto/Desmo.htm)
+*{{en}} Desmodromology (http://members.chello.nl/~wgj.jansen/)
+*{{it}} Disegno del sistema desmodromico Ducati (http://static.blogo.it/motoblog/desmo.jpg)
+
+:* Per la redacció d'aquest article s'ha fet amb la traducció del article italià 
+
+{{ORDENA:Distribucio Desmodromica}}
+[[Categoria:Motors]]</text>
+      <sha1>ohtk2o1jcbsxvdcea8bkgpx4nbx7lp9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

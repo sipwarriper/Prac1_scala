@@ -1,0 +1,133 @@
+<page>
+    <title>Gasogen</title>
+    <ns>0</ns>
+    <id>128031</id>
+    <revision>
+      <id>13061567</id>
+      <parentid>12770097</parentid>
+      <timestamp>2014-03-15T17:51:00Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: mixte - mixt]])</comment>
+      <text>[[File:Adler Diplomat 3 GS mit Holzgasgenerator-hinten rechts.JPG|thumb|right|[[Adler Diplomat]] amb gasogen (1941)]]
+El '''gasogen''' és un aparell que permet obtenir [[combustible]] gasós a partir de combustibles sòlids com el [[carbó]], la [[llenya]] o gairebé qualsevol residu combustible. Al cremar la llenya o el carbó de forma parcial es genera, entre altres gasos, [[monòxid de carboni]], que té un baix [[poder calorífic]], resultant de l'oxidació incompleta del [[carboni]] per l'[[oxigen]]. Si se li afegeix aigua també es pot generar [[hidrogen]].
+
+== Història ==
+[[Fitxer:Gasogen de Cal Pasqual 2.jpg|thumb|[[Gasogen de Cal Pasqual]], a Igualada]]
+Al [[segle XIX]] es van començar a construir els primer models, se'ls anomenava motors de [[gas pobre]]. Aquest tipus de gas era una font d'energia que s'usà en un període curt de finals del segle XIX a principis del segle XX.ref name=pasqualaltaanoia.info, [http://www.altaanoia.info/cat/Punts-d-Interes/El-gasogen-de-Cal-Pasqual Gasogen de Cal Pasqual]/ref Fou posterior als cicles del vapor i anterior a l'entrada massiva de l'electricitat, que el desbancà ràpidament.ref name=pasqual/
+
+Va tenir un ús molt estès a Espanya després de la [[guerra civil espanyola|guerra civil]] degut a les dificultats d'abastiment de petroli en el mercat mundial. També tingué ús durant la [[Segona Guerra Mundial]], especialment a Alemanya, per al transport civil. S'afegia als automòbils un remolc on anava el generador. Utilitzant aquest sistema es podia aprofitar combustibles sòlids per a moure [[Motor de combustió interna|motors de combustió interna]] en temps d'escassesa de [[benzina]] i [[gasoil]].
+
+Cal destacar el [[gasogen de Cal Pasqual]], instal·lat després de la guerra civil a la fàbrica tèxtil de cal Pasqual, a [[Igualada]], que és l'únic conservat a Catalunya i probablement a Europa.ref name=pasqual/ Era una instal·lació que obtenia gas pobre que s'emprava com a combustible per fer funcionar els telers i donar llum a la fàbrica, en una època d'escassetat i restriccions.ref name=pasqual/ També cedia corrent elèctric durant les hores de talls d'electricitat com a conseqüència de les restriccions. El monòxid de carboni era un gas tòxic, mortal per als treballadors, però permetia usar molts tipus de matèries combustibles per a la seva obtenció. Va funcionar fins al 1955 i s'ha conservat, essent visitable al carrer Sant Carles, a Igualada.ref name=pasqual/
+
+Actualment ha tornat a ser útil per a obtenir combustible adequat per a motors, a partir de llenya i altres residus de [[biomassa]]. En països pobres potser és l'única forma d'utilitzar motors i en països desenvolupats permet disminuir el consum de [[Combustible fòssil|combustibles fòssils]].
+
+Avui en dia, aquest sistema té altres usos. Les centrals com la de Elcogas, a [[Puertollano]], es basa en aquest sistema, produint energia elèctrica. Aquesta central, semblant a moltes altres en el món, encara que pionera en aspectes de rendiment, utilitza un sistema productiu basat en la tecnologia de gasificació de carbó integrada en un cicle combinat, amb unes característiques mediambientals modèliques, reduint les emissions atmosfèriques per sota de l'establert en la legislació vigent.
+
+==Funcionament del gasogen (gas d'aire i gas d'aigua)==
+
+El principi del gasogen és de produir la combustió en gerro tancat del combustible subalimentant-lo d'aire, per tal de produir gasos combustibles tal com CO (Monòxid de carboni), H2 (hidrogen), i CH4(metà), (llavors parlem de [[gas d'aire]]), seguint les fórmules
+
+2C + O2 = 2CO + 58000cal
+
+C + O2 = CO2 + 97000cal
+
+2CO + O2 = 2CO2 + 136000cal
+
+CO2 + C = 2CO + 38000cal
+
+En certs casos, s'injecten febles quantitats d'aigua en l'aire de combustió perquè es trenqui i produir així majors quantitats d'hidrogen, (llavors parlem de [[gas d'aigua]]), seguint les fórmules:
+
+C + H2O = CO + H2 - 28000cal
+
+C + 2H2O = CO2 + 2H2 - 18000cal
+
+CO + H2O = CO2 + H2 + 9400cal
+
+Finalment hi ha altres casos, en què es fan servir ambdues tècniques al mateix temps (llavors parlem de [[gas mixt]])
+
+==Principals tipus de gasògens amb carbó==
+
+Existeix tres famílies de gasògens seguint el sentit de la combustió, la tria depèn del combustible utilitzat.
+
+===Gasogen per tiratge en alçària===
+El corrent d'aire i de gas circulen en el sentit invers del combustible. Interessant en el nivell tèrmic però requereix combustibles contenint poca matèria volàtil per evitar els quitrans en la sortida. Conviden als carbons de boscos molt purs per evitar l'embús de la reixa per les escòries.
+
+===Gasogen per tiratge a la part baixa===
+
+El gas i l'aire circulen en el mateix sentit que el combustible, els gasos travessen la zona incandescent, els eventuals quitrans són doncs petats. Aquest dispositiu es limita també les pols en la sortida.
+
+===Gasogen a tovera, o gasogen per tiratge transversal===
+ 
+L'aire és admès horitzontalment per una tovera al cor de la zona de combustió, allò que necessite una tovera en bronze massiu, o un refredament molt poderós, per evitar la fusion. S'hi pot cremar carbó de bosc, del coc, o de l'antracita, o una barreja, el que permet filtrar les impureses dels combustibles fòssils pel carbó de bosc. El principal interès d'aquesta disposició és la simplicitat de construcció, una vegada resolt el problema de la tovera.
+
+===Gasogen de llenya===
+
+El gasogen a llenya ha de reunir en un sol i mateix aparell una zona de carbonització i una zona de gasificació. El tipus més corrent és el gasogen a diàbolo. El diàbolo és un encongiment pel qual tots els gasos estan obligats a passar travessant la zona incandescent, petant així la major part dels quitrans i àcids. És en efecte important de suprimer més eficaçment aquests productes que fan malbé el motor. El diàbolo, per la seva disposició, deu résiter a molt fortes temperatures.
+
+==Aparells annexos== 
+
+===Refredament dels gasos===
+
+Pot ser útil, en el cas de gasogen que alimenta un motor, refredar els gasos abans de la seva admissió, per pal·liar els problemes de rendiment.
+S'actua en general per contacte i per distensió, en caixons en xapes amb embolics, o per feixos de tubs. L'aigua de condensació recuperada pot servir per fer un xipolleig del gas, el que neteja el gas de certes impureses.
+
+===Depuració dels gasos===
+====Depurador sec====
+Es tracta de fer travessar els gasos en carbó de bosc polvoritzat, de suro o de coc. Sobretot utilitzat darrere els gasògens a carbó.
+
+====Depurador humit==== 
+
+Consisteix a rentar el gas fent-ho xipollejar a l'aigua, per tal de retirar una minyona marxada de les impureses, després fer passar el gas en un filtre de suro que retindrà la humitat i les impureses residuals.
+
+===Carburació dels gasos=== 
+
+És efectuada per un mesclador de gas.
+
+===Posada en marxa del ventilador===
+
+Consisteix a crear un tiratge amb l'ajuda d'un ventilador elèctric per permetre l'encesa de la càrrega de combustible. El gasogen és llavors aïllat de l'admissió motor per una comporta. La qualitat del gas és verificada en la sortida del ventilador per la inflamació d'aquest. Quan la qualitat del gas és bona, es talla el ventilador, obre la comporta d'aïllament, arregla la riquesa del mesclador al màxim, i s'acciona el motor d'engegada. Tots això ha de ser efectuat ràpidament per no ofegar el gasogen. Una vegada el motor arrencat, cal arreglar constantment la riquesa, de vegades ho avança a l'encesa, i el ralentí.
+
+===Posada en marxa al carburant de sortida===
+
+El motor ha de ser equipat per funcionar amb un altre carburant (benzina, alcohol...), sobre el qual s'arrenca el motor. S'obre la comporta del mesclador per crear la depressió necessària a l'encesa del gasogen quan el motor gira.
+
+===Manteniment del vehicle a gasogen=== 
+
+Diari:
+
+* Ompliment de la tremuja de combustible
+* Neteja de la llar i cendrer
+* Buidat dels refrigerants i depuradors (gasogen de llenya)
+* Neteja de la tovera i de la llar per retirar el lleter i les escòries (Gasogen de carbó)
+
+Setmanal:
+
+* Buidat i neteges dels filtres secs i humits, dels cendrers de depurador
+* Comprovació de l'estanquitat del conjunt.
+
+==Article relacionats==
+* [[Gas combustible]]
+* [[Gas d'aire]]
+* [[Gas d'aigua]]
+* [[Gas de fusta]]
+* [[Gas ciutat]]
+* [[Blaugas]]
+* [[Piròlisi]]
+
+== Referències ==
+{{Referències}}
+
+[[Categoria:Tecnologia energètica]]
+[[Categoria:Gasos combustibles]]
+
+[[en:Wood gas generator]]
+[[es:Gasógeno]]</text>
+      <sha1>1okbeg9j3z7h0t8svplmfuthev0gym4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

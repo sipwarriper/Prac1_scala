@@ -1,0 +1,116 @@
+<page>
+    <title>Operó lac</title>
+    <ns>0</ns>
+    <id>60807</id>
+    <revision>
+      <id>13883676</id>
+      <parentid>13754376</parentid>
+      <timestamp>2014-07-24T00:17:05Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: adicionals  addicionals</comment>
+      <text>L''''operó lac''' és un [[operó]] requerit per al transport i metabolització de la [[lactosa]] en l{{'}}''[[Escherichia coli]]'' i alguns altres [[bacteri entètic|bacteris entèrics]]. Consisteix en tres [[gen estructural|gens estructurals]] adjacents, un [[promotor]], un [[terminador]], i un [[operador]]. L'operó ''lac'' està regulat per diversos factors incloent-hi la disponibilitat de [[glucosa]] i de [[lactosa]]. La regulació genètica de l'operó lac va ser el primer mecanisme regulador en ser elucidat en tota la seva magnitud i és sovint emprat com a exemple canònic de la [[regulació gènica]] en [[procariotes]].
+
+[[Fitxer:Lac operon1.png|thumb|600px|center|Operó lac]]
+
+== Estructura de l'operó ==
+[[Fitxer:Lactose_etc.png|right|300px|Lactosa sencera i hidrolitzada]]
+L'operó lac consisteix en tres [[gen estrctural|gens estructurals]], un [[promotor]], un [[terminador]], i un [[operador]]. Els tres gens estructurals són: ''[[lacZ]]'', ''[[lacY]]'', i ''[[lacA]]''. El ''lacZ'' codifica per a la [[Beta-galactosidasa|β-galactosidasa]] (LacZ), un [[enzim]] intracel·lular que hidrolitza el [[disacàrid]] de lactosa en [[glucosa]] i [[galactosa]]. El ''lacY'' codifica la [[permeasa del beta-galactòsid|permeasa del β-galactòsid]] (LacY), una [[proteïna]] de [[membrana cel·lular|membrana]] que permet el transport de [[lactosa]] a dins de la cèl·lula. El ''lacA'' codifica la [[transacetilasa del beta-galactòsid|transacetilasa del β-galactòsid]] (LacA), un enzim que transmet un [[grup acetil]] des de l'[[acetil-CoA]] al [[beta-galactòsid|β-galactòsids]]. Només el ''lacZ'' i el ''lacY'' apareoixen com a necessaris en el [[catabolisme]] de la lactosa.
+
+El control específic dels gens de l'operó lac depenen de la disponibilitat de [[Substrat (bioquímica)|substrat]] (lactosa) del bacteri. No hi ha producció de les proteïnes codificades quan la lactosa no es troba disponible com a font de carboni.
+
+Els gens de l'operó estan orientats en la mateixa direcció immediatament adjacent al cromossoma i són cotranscrites en una sola molècula d'[[ARNm]]. La transcripció de tots els gens comença amb la unió de la [[polimerasa de l'ARN]] a un [[promotor]] establert just abans del gen [[lacZ]].
+[[Fitxer:Lac_operon.png|thumb|center|550px|L'operó lac en detall]]
+La resposta reguladora de la lactosa requereix una ''proteïna reguladora'' anomenada ''repressor de la lactosa''. El gen codificador del repressors ''lacI'' s'ajunta a prop de l'operó ''lac'' i és sempre expressat (referit com a expressió constitutiva). Si la lactosa no és en el medi de cultiu, el repressor s'uneix fortament a una curta seqüència d'ADN promotor avall a prop de l'inici del ''lacZ'' anomenada ''operador lac''. La unió del repressor a l'operó interfereix amb la unió de la polimerassa al promotor de manera que el mRNA només és expressat a nivell basals. Quan les cèl·lules creixen en la presència de lactosa, un metabolit de la lactosa anomenat al·lolactosa s'uneix al repressor, causant un canvi en la seva conformació. Un cop alterat, el repressor és incapaç d'unir-se a l'operador permetent a la polimerasa de transcriure els gens ''lac'' podent assolir alts nivells de les proteïnes codificades.
+
+=== Nomenclatura genètica ===
+
+Es fan servir mnemòtics de tres lletres per descriure els [[fenotip]]s que presenten els bacteris incloent-hi l{{'}}''E. coli''. En el cas del Lac, els bacteris salvatges són Lacsup+/sup i són capaces de fer servir la lactosa com a font de carboni i energia, mentre que el mutant Lacsup-/sup no la pot fer servir. Les mateixes tres lletres són emprades en minúscula i cursiva per etiquetar els gens involucrats en un fenotipi concret, on cada gen diferent és diferenciat amb l'afegitó d'una lletra extra. Els gens ''lac'' que codifiquen enzims són el ''lacZ'', ''lacY'', i ''lacA''. El quart gen ''lac'' és el ''lacI'', que codifica el repressor per a la lactosa. La I ve de ''inducibilitat''. Hom pot distingir entre els gens ''estructurals'' que codifiquen enzims, i els gens reguladors que codifiquen proteïnes que afecten l'expressió genètica. L'ús actual expandeis l'ús de la nomenclatura fenotípica per aplicar-la a les proteïnes: així doncs, LacZ és la proteïna producte del gen ''lacZ'' que de fet és la β-galactosidasa. Diverses cadenes curtes que no són gens també afecten l'expressió genètica, incloent el promotor ''lac'', el ''lac p'', i l'operador del ''lac'', el ''lac o''. Tot i que no és un ús estrictament estàndard, els mutants que afecten el ''lac o''són referits com a ''lac o''supc/sup, per raons històriques.
+
+== Anàlegs a la lactosa ==
+
+S'ha descrit cert nombre d'anàlegs o derivats de la lactosa que són útils per treballar amb aquest operó. Aquests components són principalment substituidors de la galactosa en el lloc d'unió a l'inhibidor. [[Fitxer:IPTG2.svg|left|200px|IPTG]] L' isopropil-β-D-tio-galactòsid ([[IPTG]]) és emprat freqüentment com a un inductor de l'operó lac per a treballs fiusiològics.{{ref|Stryer}} L'IPTG s'uneix al repressor i l'inactiva, però no és un substrat de la β-galactosidasa.  Un avantatge de l'IPTG per l'estudis ''[[in vivo]]'' és que no pot ser metabolitzat per l{{'}}''E. coli'', de manera que la velocitat de creixement de les cèl·lules no esdevé una variable en l'experiment. A més, l'IPTG és transportat eficientment independentment de si el gen ''lacY'' és funcional.
+
+La fenil-β-D-galactosa ([[fenil-Gal]]) és un substrat per a la β-galactosidasa, però no inactiva el repressor i per tant no és un inductor. Per tant, com que les cèl·lules salvatges produeixen de forma constitutiva una quantitat petitíssima de β-galactosidasa, no poden créixer amb fenil-Gal com a font de carboni. En canvi sí que ho fan els mutants mancats de repressor. Així doncs, els [[medi mínim|medis mínims]] que contenen la fenil-Gal com a font de carboni i energia són selectius per als mutants del repressor i de l'operador.
+
+Si se sembren unes 10{{sup|8}} cèl·lules salvatges en plaques d'agar amb fenil-Gal les poques que creixin seran principalment mutants es pontanis per al repressor. La distribució relatiba de mutants del repressor o de l'operador és deguda al nombre de parells de bases que ocupen que és proporcional al nombre de mutacions espontànies que els poden afectar. Com que el gen ''lacI'' és unes 50 vegades més gros que l'operador els mutants repressors predominen en la selecció.
+
+Hi ha altres compostos que serveixen coma indicadors de l'activitat de la β-galactosidasa.[[Fitxer:ONPG.svg|right|200px|ONPG]] ONPG és digerit per produir el compost d'intens color groc orthonitrophenol i és sovint emprada com a substrat d'anàlisi per a la β-galactosidasa ''[[in vitro]]''.  X-gal (5-brom-4-clor-3-indolil-β-D-galactòsid) fa que els colònies amb el gen actiu creixin blaves.
+[[Fitxer:X-Gal.svg|left|200px|Xgal]]
+Al·lolactosa és un [[isòmer (química)|isòmer]] de la lactosa i l'inductor de l'operó lac.  Mentre que la lactosa és la galactosa-(β1→4)-glucosa, l'al·lolactosa és la galactosa-(β1→6)-glucosa. La lactosa és convertida a al·lolactosa per la β-galactosidasa en una reacció alternativa a la hidrolítica.  [[Fitxer:allolactose.svg|right|250px|Al·lolactosa]]
+
+Un experiment fisiològic que demostra el paper del LacZ en la producció de l'inductor autèntic en les cèl·lules de l{{'}}''E. coli'' és l'obervació de què un mutant sense activitat ''lacZ'' encara pot produir permeasa LacY permease quan creix amb IPTG però no quan creix amb lactosa. L'explicació és que el processament de la lactosa a al·lolactosa (catalitzat per la β-galactosidasa) és necessari per produir l'inductor a dins de la cèl·lula.
+
+== Classificació dels mutants reguladors ==
+
+Una escletxa conceptual de Jacob-Monod fou reconéixer la distinció entre les substàncies reguladores i els llocs on actuen per canviar l'expressió gènica. Jacob, que havia estat soldat, va posar l'analogia d'un bombarder que llença la seva càrrega mortal a la recepció d'una transmissió especial d'un senyal de ràdio. Un sistema d'actuació requereix tant un transmissor de terra com un receprtor en l'avió. Si el transmissor especial estiguera trencat el sistema podria funcionar mitjançant la introducció d'un segon transmissor funcional. Per contres, el sistema mai podria funcionar si el defecte fora en el receptor. El comportament d'aquest segon bombardejador no pot ser canviat per la introducció d'un segon avió funcional.
+
+Per analitzar els mutants reguladors de l'operó ''lac'', Jacob va desenvolupar un sistema que amb una segona còpia dels gens ''lac'' (''lacI'' amb el seu promotor, i ''lacZYA'' amb el promotor i l'operador) podria ser introduït en un cultiu cel·lular. Un cultiu d'aquests bascteris que són diploides per als gens lac però normals per a tota la resta, són probats en el fenotip regulador. En particular és determinat quan el LacZ i el LacY són produïts en absència d'IPTG. Aquest experiment en el que els gens o els clústers són probats en parells s'anomena ''[[test de complemetació]]''.
+[[Fitxer:Lac_complementation.png|center|500px|Complemetació del lac]]
+
+Aquest test queda il·lustrat en la figura (el ''lacA'' és omès per simplicitat). Primer són mostrats certs estats [[haploide]]s  (la cèl·lula conté una única còpia dels gens ''lac''). (a) mostra repressió, (b) inducció per IPTG, i (c) i (d) els efectes d'una mutació en el gen ''lacI'' o l'operador respectivament. El test de complementació per repressió és mostrat en (e). Si una còpia dels gens ''lac'' té una mutació en el ''lacI'',però la segona còpia és salvatge per a ''lacI'', el fenotip resultant és normal: el LacZ no és expressat sense IPTG. Es diu que les mutacions que afecten el repressor són ''recessives'' a les mutacions salvatges (i aquest salvatge és ''dominant''), i això s'explica pel fet que el repressor és una proteïna petita que pot difondre en la cèl·lula. La còpia de l'operó ''lac'' adjacent al ''lacI'' defectiu és apagada amb eficiència per la proteïna produïda per la segona còpia del ''lacI''.
+
+Si el mateix experiment es realitza amb una mutació en l'operó, s'obté un resultat diferent (f). El fenotip d'una cèl·lula fent amb un operador mutant i un de salvatge és el de producció de LacZ i LacY en absència de l'inductor IPTG. La mutació de l'operó és dominant. Quan el lloc de l'operador on el repressor s'ha d'unir és malmès per mutació, la presència d'un segon lloc funcional en la mateixa cèl·lula no modifica l'expressió dels gens controlats per l'al·lel mutant.
+
+Una versió més sofisticada d'aquest experiment empra operons marcats per diferenciar entre les dues còpies dels gens ''lac'' i mostrar que els gens desregulats són els següents a l'operador mutant (g). Per exemple, si se suposa que una còpia està marcada per una mutació que inactiva el ''lacZ'' de manera que només pugui produir la proteïna ''LacY'' mentre la segona té una mutació que afecta el ''lacY'' i només pot produir LacZ. En aquesta versió, només la còpia de l'operó lac que és adjent a l'operó mutant és expressat sense IPTG. Llavors es diu que la mutació de l'operador és ''cis-dominant'', és dominant en soques salvatges però afecta només a la còpia de l'operó quan n'és immediatament adjacent.
+
+Aquesta explicació és enganyosa en un sentit important ja que procedeix d'una descripció de l'experiment i després l'explicació dels resultats en termes dun model. Però de fet, sovint és cert que primer ve el model i es forma un experiment específicament per provar-lo. Jacob i Monod primer es varen imaginar que hi ha d'haver un operador i després van dissenyar els seus tests de complementació per a demostrar-ho.
+
+La dominància dels operadors mutants també suggereixen un procediment per a seleccionar-los específicament. Si els mutants reguladors són seleccionats d'un cultiu de salvatges fent servir fenil-Gal com s'ha descrit amunt les mutacions de l'operó són rares comparades amb els mutants del repressor ja que la longitud en parells de bases és curta. Però si en canvi s'inicia amb una catenària que té dues còpies dels gens ''lc'' (que és diploide per a ''lac''), les mutacions del repressor (que encara ocorren) no són recuperades ja que la complementació per part dels gens saltages els confereix un fenotip salvatge. En canvi les mutacions de l'operador predominen.
+
+== Regulació per AMP cíclic ==
+El microorganisme experimental emprat per en [[François Jacob]] i en [[Jacques Monod]]  va ser l{{'}}''[[E. coli]]'', ésser model habitual del laboratori, però diversos conceptes reguladors són fonamentals en la regulació cel·lular dels organismes. La idea principal és que les proteïnes no són sintetitzades quan no són necesitades, l{{'}}''E. coli'' conserva els recursos i l'energia cel·lular no produint les tres proteïnes lac quan no hi ha necessitat de metabolitzar lactosa mentre hi hagi disponible d'altres sucres com la [[glucosa]]. La pregunta clau és com aconseguix l'E.coli controlar certs gens en resposta a les necessitats metabòliques.
+
+Durant la [[Segona Guerra Mundial]], en Monod va estar provant els efectes de combinacions de sucres en l{{'}}''E.coli''. Va trobar que els bacteris que creixen amb dos sucres diferents sovint presenten dues fases de creixement. Per exemple, si se subministra alhora la glucosa i la lactosa, la glucosa es metabolitzarà primer (fase de creixement I, en la figura 2) i després la lactosa (fase de creixement II). Aquest fenomen s'anomena diàuxia.
+
+[[Fitxer:Bacterial_growth_monod.png|thumb|right|200px|Figura 2: [[corba de creixement]] bifàsica de Monod]]
+
+No hi ha metabolització de lactosa durant la primera part de la corba de creixement diàuxic ja que la β-galactosidasa no és generada quan en el medi es troben presents tant la glucosa com la lactosa. 
+
+L'explicació depén de la caracterització de mutacions addicionals afectant els gens ''lac'' a més de les explicades pel model clàssic. Hi havia dos altres gens coneguts que lluny del ''lac'', i quan s'esdevé un mutant en una disminució del nivell d'exprssió en ''presència'' de l'IPTG i fins i tot en una catenària que és mutant per a l'operador o el repressor. La descoberta el [[1957]] de l'[[adenosina monofosfat cíclica|AMP cíclic]] (en cèl·lules eukariotes) i una dècada després en l{{'}}''E.coli'' ha conduït a la demostració que els mutants defectius en un d'aquests gens poden recuperar la plena activitat afegint AMP cíclic al medi.
+
+El gen ''cya'' codifica l'[[adenilat clicasa]], que produeix AMP cíclic.  En un mutant ''cya'', l'absència d'AMP cíclic provoca que l'expressió dels gens ''lacZYA'' sigui més de deu vegades més reduïda que el normal.  L'addició d'AMP cíclic corregeix la baixa expressió característica dels mutants ''cya''. El segon gen, ''crp'', codifica una proteïna anomenada ''proteïna de l'activador cAMP'' (PAC o PAC en anglès)
+
+Aquesta regulació dual provoca que hi hagi una baixa producció d'enzims de metabolització de la lactosa quan hi ha tant lactosa com glucosa perquè la lactosa inhibeix la unió del LacI a l'operador però les concentracions elevades de cAMP i en presència de lactosa hi hga elevats nivells d'expressió (Fase II en la Figura 2). Aquest sistema és necessari per permetre la metabolització de lactosa abans que el consum total de glucosa sigui tan baix que activi l'operó lac amb la paradoxa de què no té ja prou energia per a l'expressió proteica 
+
+En resum:
+* Quan la lactosa està absent no hi ha producció enzimàtica de l'operó lac (l'operador hi té unit el LacI).
+* Quan hi és present la lactosa al mateix que una altra font de carboni preferida (com la glucosa) es produeix una petita quantitat d'enzim (el LacI no es troba unit a l'operador).
+* Quan la lactosa es és la font preferida de carboni (per exemple, en absència de glucosa) el complex cAMP-PAC s'uneix al promotor essent maximitzada la producció de l'operó lac.
+
+La pregunta és per què hi ha un retard entre les dues fases de creixement. Primerament, per què la proteïna reguladora PAC, s'ha d'ensamblar en l'operador lac, donant lloc a un increment en la producció d'[[ARNm]]. L'augment de còpies de l'ARNm del lac desemboca en la producció (vegeu [[traducció genètica]]) d'un nombre més elevat de les proteïnes codificades per l'operó. Després d'un retard necessari per a incrementar la concentració d'enzims metabolitzadors de la lactosa, els bacteris entren en una nova fase de [[creixement cel·lular]].
+
+Després de la hidròlisi de la lactosa aquesta forma glucosa i galactosa (fàcilment convertible en glucosa). En termes metabòlics, la lactosa és tan profitosa com la glucosa com a font d'energia i carboni. El nivell cAMP està relacionat no a la concentració intracel·lular sinó a la velocitat del transport de glucosa que influencia a la velocitat de l'adenilat ciclasa.
+
+El per què l{{'}}''E.coli'' funciona d'aquesta manera només entra en el camp de les especulacions. Tots els bacteris entèrics fermenten glucosa. És de suposar que és degut al fet que en els seus medis en troben amb freqüència. Podria ser possible que una petita diferència en l'eficiència de transport o metabolització de la glucosa versus la lactosa fes que per a aquestes cèl·lules fos favorable aquesta regulació de l'operó ''lac''.
+
+== Natura multimèrica del repressor i el complex de l'operador ==
+El [[repressor lac]] és un tetràmer d'idèntiques subunitats. Cada subunitat conté un motiu hèlix-gir-hèlix (HTH) capaç d'unir-se a l'ADN. La regió de l'operador on s'uneix el repressor és una seqüència amb simetria d'inverted repeats. La regió de l'operadot de l'ADN s'uneix a dues de les subuintats del repressor tetramèric.  Tanmateix, com que les altres dues subunitats no fan res en aquest model, aquesta propietat no va ser entesa durant molts anys.
+
+Eventualment es va descobrir que dos operadors menors addicionals estan implicats en la regulació ''lac''. Un d'ells, (Osub3/sub) és a la fi del gen ''lacI'' i l'altre (Osub2/sub) és uns 400 bp downstream a la part inicial del ''lacZ''. Aquestes dues regions no van ser trobades en els treballs primerencs, ja que tenien funcions redundants i les mutacions indivuduals no afecten massa la repressió. Les mutacions puntuals en qualsevol de les dues regions Osub2/sub o Osub3/sub només varien dues o tres vegades els efectes. Tanmateix, la seva importància ha quedat palesa pel fet que un doble mutant en les dues regions veu disminuir la producció unes 70 vegades.
+
+En el model actual, el repressor s'uneix simultàniament alhora a l'operador principal Osub1/sub i a Osub2/sub o Osub3/sub.  L'ADN que intervé impedeix d'actuar el complex. La natura redundant dels dos operadors menors suggereix que no és important tenir un complex amb un llaç específic.
+
+=== Mecanisme d'inducció ===
+El repressor és una [[proteïna al·lostèrica]], pot assumir un de dues formes tridimensionals lleugerament diferents que estan en equilibri amb l'altra. En una forma el repressor és capaç d'unir-se a l'operador i no en l'altra. Segons el model clàssic de la inducció, la unió de l'inductor al repressor, ja sigui al·lolactosa o IPTG, afecta la distribució del repressor entre les dues formes. De manera que el repressor amb la unició de l'inductor és estabilitzat en la conformació de no unió a l'ADN. Tanmateix aquest model tan simple no ho explica tot ja que el repressor s'uneix amb una mica d'estabilitat a l'ADN però amb tot és llançat fora per adicií de l'inductor. Per tant, sembla clar que el repressor també es pot unir a l'inductor mentre encara està unit a l'ADN.
+
+== Premi Nobel ==
+
+Per la seva tasca en elucidar la regulació ''lac'', la feina d'en Jacques Monod i en François Jacob a l'[[Institut Pasteur]] de [[París]], va rebre el [[Premi Nobel]] en Fisiologia o Medicina el [[1965]]. Val a dir que també havien fet altres troballes importants.
+
+== Referències ==
+# {{nota|Stryer}} Llibre de text en línia: ''Biochemistry'' by Jeremy M. Berg, John L. Tymoczko and Lubert Stryer (2002) Published by W. H. Freeman and Co. New York [http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Searchdb=booksdoptcmdl=GenBookHLterm=Allolactose+AND+217267%5Buid%5Drid=stryer.section.4431#4441 Prokaryotic DNA-Binding Proteins Bind Specifically to Regulatory Sites in Operons]
+
+
+{{ORDENA:Opero Lac}}	!--ORDENA generat per bot--
+
+[[Categoria:Genètica molecular]]
+[[Categoria:Metabolisme]]</text>
+      <sha1>7ffrwgq18s09xyg3k8rtcxdwma7n9ks</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,68 @@
+<page>
+    <title>Radioastronomia</title>
+    <ns>0</ns>
+    <id>406410</id>
+    <revision>
+      <id>13921010</id>
+      <parentid>13811678</parentid>
+      <timestamp>2014-08-06T23:29:25Z</timestamp>
+      <contributor>
+        <ip>186.110.76.237</ip>
+      </contributor>
+      <text>[[Fitxer:USA.NM.VeryLargeArray.02.jpg|thumb|El [[Very Large Array]], un [[interferometria|interferòmetre]] de Ràdio a [[Nou Mèxic]], [[Estats Units|EUA]]]]
+La '''radioastronomia''' és la branca de l'[[astronomia]] que estudia els objectes celestes i els fenòmens [[astrofísica|astrofísics]] mesurant la seva emissió de [[radiació electromagnètica]] en la regió de ràdio de l'[[espectre]]. Les ones de ràdio tenen una [[longitud d'ona]] major que la de la [[llum visible]]. En la radioastronomia, per a poder rebre bons senyals, s'han d'utilitzar grans antenes o grups d'[[antena]]s més petites treballant en paral·lel. La majoria dels [[radiotelescopi]]s utilitzen una [[antena parabòlica]] per a amplificar les ones, i així obtenir una bona lectura d'aquestes. Això permet als astrònoms observar l'espectre de ràdio d'una regió del cel. La radioastronomia és una àrea relativament nova de la investigació astronòmica, que encara té molt per descobrir. 
+
+En l'actualitat, existeixen radiotelescopis gegants, permetent observacions d'una resolució impossible en altres [[longitud d'ona|Longituds d'ona]]. Entre els problemes que la radioastronomia ajuda a estudiar, es troben la [[formació estel·lar]], les [[galàxia activa|galàxies actives]], la [[cosmologia]], etc. 
+
+== Història ==
+Una de les primeres investigacions d'ones de ràdio d'origen extraterrestre va ser portada a terme per [[Karl Guthe Jansky]], un enginyer de [[Bell Labs|Bell Telephone Laboratories]], en els començaments de 1930. El primer objecte detectat fou el centre de la [[Via Làctia]], seguit pel [[Sol]]. Aquests primers descobriments van ser confirmats per [[Grote Reber]] el 1938. Després de la [[Segona Guerra Mundial]], a Europa i els Estats Units, els astrònoms van desenvolupar importants millores en la radioastronomia, i aquest camp va començar a florir. 
+
+Un dels desenvolupaments més notables vingué en [[1946]] amb la introducció de la ràdio [[interferometria]] per [[Martin Ryle]] de [[Cavendish Astrophysics Group]] en Cambridge ( qui va obtenir el [[Premi Nobel]] per això, i el seu treball de [[aperture synthesis]]), també el mirall interferòmetre de Lloyd desenvolupat independentment per [[Joseph Pawsey|Joseph Pawsey's]] en 1946 a la [[Universitat de Sydney]]. Dos temes, un astronòmic i un tècnic, van dominar la investigació en Cambridge des de fins de 1940 durant més de trenta anys. Quina era la naturalesa de les fonts de ràdio discretes o estrelles de ràdio? On estaven, quins eren, quines eren les seves característiques?, quantes existien?, com funcionaven i quina era la seva significació a l'univers? D'importància paral·lela era el trencaclosques de com idear les noves classes de radiotelescopi que aclaririen aquestes preguntes astronòmiques.
+
+== Avanços == 
+La radioastronomia ha dut a un important increment en el coneixement astronòmic, particularment amb el descobriment de moltes classes de nous objectes, incloent-hi els [[púlsar]]s, [[quàsar]]s i les [[galàxia activa|galàxies actives]]. Això és degut al fet que la radioastronomia ens permet veure coses que no són possibles de detectar en l'astronomia òptica. Tals objectes representen alguns dels processos físics més extrems i energètics en l'univers. 
+
+La radioastronomia és també en part responsable per la idea que la [[matèria fosca]] és un important component del nostre univers; els mesuraments de ràdio de la rotació de les [[galàxia|galàxies]] suggereix que hi ha molta més massa en les galàxies que la que ha estat observada directament. La [[radiació de fons de microones]] (CMB) va ser detectada per primera vegada utilitzant radiotelescopis. Els radiotelescopis també han estat utilitzats per a investigar objectes molt més propers a la terra, incloent-hi observacions del [[Sol]], l'activitat solar i mapejos per radar dels [[planeta|planetes]] del [[Sistema Solar]].
+
+Els radiotelescopis poden ser ara trobats per tot el món. Radiotelescopis molt distanciats uns d'uns altres són utilitzats freqüentment en combinació utilitzant una tècnica anomenada[[interferometria]] per a obtenir observacions d'alta resolució que no poden ser obtingudes utilitzant un sol receptor. Inicialment radiotelescopis distanciats per uns pocs quilòmetres eren combinats usant interferometria, però a partir de 1970, radiotelescopis al voltant de tot el món (fins i tot orbitant la terra) són combinats per a realitzar mapejos interferòmetres de gran grandària ([[Very Long Baseline Interferometry]] (VLBI)). 
+
+== Formes d'emissió d'ones de ràdio ==
+L'emissió en ràdio es pot presentar en dues formes: radiocontinu i [[línia espectral|línies espectrals]]. En el ràdio continu l'emissió s'estén en una regió ampla de l'[[espectre electromagnètic]] mentre que les [[línia espectral|línies espectrals]] estan centrades en una freqüència específica. Aquestes formes depenen de l'origen físic de la radiació. 
+
+=== Radiocontinu ===
+En les [[galàxia]]s el radiocontinu prové de tres mecanismes: [[radiació sincrotró]], [[emissió lliure-lliure]] i [[cos negre|emissió tèrmica]]. La [[radiació sincrotró]] és emesa en la seva major part per electrons relativistes confinats en els camps magnètics de les galàxies. També una part d'aquesta emissió prové directament dels [[romanent de supernova|romanents de supernova]], els nuclis de [[galàxia activa|galàxies actives]], els [[púlsar]]s i els [[microquàsar]]s. L'[[emissió lliure-lliure]] prové en la seva major part de les regions de [[formació estel·lar]] mentre que, l'[[cos negre|emissió tèrmica]] té el seu origen a aquestes longituds d'ona en cossos relativament freds, en la seva majoria la pols del [[mitjà interestel·lar]].
+
+A escales més petites les [[estrella|estrelles]] més potents i properes poden ser observades en ràdiocontinu, en particular el nostre [[Sol]]. I, en escales majors la principal emissió en radiocontinu és la [[radiació de fons de microones]]. 
+
+=== Línies espectrals ===
+Les diferents espècies químiques que hi ha en l'univers i en els seus objectes emeten o absorbeixen llum en diferents [[línia espectral|línies espectrals]], seguint les lleis de la [[mecànica quàntica]]. En regió de ràdio de l'[[espectre electromagnètic]] se solen trobar línies de transició, rotacionals i vibracionals dels àtoms i molècules més comunes en l'univers. Aquestes línies solen observar-se en emissió però també poden observar-se en absorció sobre un fons de radiocontinu. Algunes d'aquestes línies són: 
+
+* La línia de HI que prové de la transició superfina de l'[[hidrogen]] atòmic (transició entre estats que l'[[espín]] de l'[[electró]] i el [[protó]] és paral·lel i antiparalel), centrada en 1.4 GHz. Aquesta línia traça el gas atòmic que és la principal reserva de gas en les galàxies. 
+* Les línies rotacionals del CO. Es troben en la zona mil·limètrica de l'espectre i són els principals traçadors del contingut d'[[hidrogen]] molecular en estar el contingut de CO íntimament associat al de Hsub2/sub.
+
+També s'observen altres línies com el NHsub3/sub, OH, HCN, etc., que tracen diferents propietats físiques i químiques de les diferents regions i objectes de l'univers.
+
+== Fonts d'emissió d'ones de ràdio == 
+
+*Els nuclis de [[galàxia activa|galàxies actives]] i els [[púlsar]]s posseïxen dolls de partícules carregades que emeten radiació de [[sincrotró]].
+*La [[radiació de fons de microones]] és emissió de ràdio de [[cos negre]].
+*Els [[romanent de supernova|romanents de supernova]] emeten radiació difusa en ràdio. 
+
+== Vegeu també ==
+* [[Atacama Large Millimeter Array]]
+
+== Enllaços externs ==
+{{Commonscat}}
+
+*[http://www.iar.unlp.edu.ar Institut Argentí de Radioastronomia] {{es}}
+*[http://www.laeff.inta.es/partner/cursos/cursos.php Material didàctic i cursos de radioastronomia] del projecte [http://www.laeff.inta.es/partner/ PARTNeR] {{es}}
+*[http://www.nrao.edu/whatisra/history.shtml Història de la radioastronomia] {{en}}
+*[http://www.obs-nancay.fr/usn/a_histor.htm La història del radiobservatori Nancay.] - Una història de la radioastronomia [[França|francesa]] {{en}}
+*[http://arjournals.annualreviews.org/doi/full/10.1146/annurev.astro.39.1.457?cookieSet=1 History of High-Resolution Radio Astronomy], publicat en ''Annual Review of Astronomy and Astrophysics'' de setembre de 2001 {{en}}
+{{Autoritat}}
+[[Categoria:Radioastronomia| ]]</text>
+      <sha1>cl4c4io3q5n16222rv3sewna4wn9xqt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,5 +1,7 @@
 import scala.io.Source
 import scala.math.sqrt
+import scala.xml.XML
+import scala.util.matching.Regex
 
 object SimilitutEntreDocs extends App {
 
@@ -28,6 +30,7 @@ object SimilitutEntreDocs extends App {
     val aAlinearMap = aAlinear.toMap
     (aAlinear ::: (for (b<-suport if !aAlinearMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
   }
+
   //obtenim les 10 frequències més frequents, i les 5 menys frequents
   def paraulafreqfreq(text:String) = {
     val llistaFrequencies = freq(text,1)
@@ -39,6 +42,22 @@ object SimilitutEntreDocs extends App {
     Console.out.println("Les 5 frequencies menys frequents:")
     val freqBaixes = freqfreqList.slice(freqfreqList.length-5,freqfreqList.length).sortBy(-_._2)
     for(frequencia <- freqBaixes) println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
+  }
+
+  //rep el nom de un docoment de la wiki i torna el nom, el contingut i una llista de referències
+  def tractaXMLdoc(docName:String): (String, String, List[String]) = {
+    val xmlleg=new java.io.InputStreamReader(new java.io.FileInputStream(docName), "UTF-8")
+    val xmllegg = XML.load(xmlleg)
+    // obtinc el titol
+    val titol=(xmllegg \\ "title").text
+    // obtinc el contingut de la pàgina
+    val contingut = (xmllegg \\ "text").text
+
+    // identifico referències
+    val refs=(new Regex("\\[\\[[^\\]]*\\]\\]") findAllIn contingut).toList
+    // elimino les que tenen :
+    val kk = refs.filterNot(x=> x.contains(':'))
+    (titol, contingut, kk)
   }
 
 
@@ -81,6 +100,7 @@ object SimilitutEntreDocs extends App {
     val end = System.nanoTime()
     println(hi)
     println((end-start).toDouble/1000000000.0)
+
 
 
   }

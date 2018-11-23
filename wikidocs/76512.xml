@@ -1,0 +1,289 @@
+<page>
+    <title>Partit Socialdemòcrata d'Alemanya</title>
+    <ns>0</ns>
+    <id>76512</id>
+    <revision>
+      <id>14056488</id>
+      <parentid>13736917</parentid>
+      <timestamp>2014-09-19T23:05:01Z</timestamp>
+      <contributor>
+        <username>Nil Monsó Ramon</username>
+        <id>2462</id>
+      </contributor>
+      <text>{{Partit polític
+|name = Partit Socialdemòcrata d'Alemanya
+|original_name = Sozialdemokratische Partei Deutschlands 
+|lang1 = 
+|name_lang1 = 
+|lang2 = 
+|name_lang2 = 
+|lang3 = 
+|name_lang3 = 
+|lang4 = 
+|name_lang4 = 
+|logo = [[Fitxer:SPD logo.svg|170px|Partit Socialdemòcrata d#039;Alemanya]]
+|colorcode = #ED1B34
+|lider = [[Sigmar Gabriel]] 
+|president = 
+|secretary_general = [[Yasmin Fahimi]] 
+|spokesperson = 
+|leader1_title = Líder al [[Bundestag]]
+|leader1_name = [[Thomas Oppermann]]
+|leader2_title = 
+|leader2_name = 
+|leader3_title = 
+|leader3_name = 
+|leader4_title = 
+|leader4_name = 
+|leader5_title = 
+|leader5_name = 
+|slogan = 
+|founded = {{data inici|1863|05|23}} (ADAV) br {{data inici|1869|08|7}} (SDAP) br {{data inici|1875|05|27}} (unió)
+|dissolved = 
+|merger = 
+|split = 
+|predecessor = 
+|merged = 
+|successor = 
+|headquarters = [[Willy Brandt|Willy-Brandt]]-Haus br D-10911 [[Berlín]]
+|newspaper = 
+|youth_wing = [[Jusos]]
+|wing1_title = 
+|wing1 = 
+|wing2_title = 
+|wing2 = 
+|wing3_title = 
+|wing3 = 
+|membership_year = 2013ref[http://www.bpb.de/politik/wahlen/wer-steht-zur-wahl/europawahl-2014/180941/spd]/ref
+|membership = 473,662
+|ideology = [[Socialdemocràcia]], br [[Socialisme]] [[democràcia|democràtic]] br [[Centreesquerra|Centre-esquerra]]
+|religion = 
+|national = 
+|international = [[Internacional Socialista]]
+|european = [[Partit Socialista Europeu]]
+|europarl = [[Aliança Progressista de Socialistes i Demòcrates]]
+|affiliation1_title = 
+|affiliation1 = 
+|colors = vermell i blanc
+|blank1_title = 
+|blank1 = 
+|blank2_title = 
+|blank2 = 
+|blank3_title = 
+|blank3 = 
+|seats1_title = Diputats al [[Bundestag]]
+|seats1 = timeline
+ImageSize = width:100 height:25
+PlotArea = left:0 bottom:0 top:0 right:0
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = x.y
+Period = from:0 till:631
+TimeAxis = orientation:horizontal
+AlignBars = early
+Colors =
+ id:gray value:rgb(0.85,0.85,0.85)
+ id:darkgray value:rgb(0.27,0.27,0.27)
+ id:midgray value:rgb(0.57,0.57,0.57)
+ id:blue value:rgb(0.07, 0.44, 0.76)
+ id:green value:rgb(0.38, 0.73, 0.27)
+ id:orange value:rgb(1, 0.55, 0)
+ id:red value:rgb(0.80,0, 0)
+BarData =
+ bar:Wikipedias
+PlotData=
+ bar:Wikipedias from:0 till:631 color:gray width:0.2in text:/631
+ bar:Wikipedias from:0 till:193 color:pink width:0.2in text:193
+/timeline
+|seats2_title = Diputats als Parlaments Regionals
+|seats2 = timeline
+ImageSize = width:100 height:25
+PlotArea = left:0 bottom:0 top:0 right:0
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = x.y
+Period = from:0 till:1854
+TimeAxis = orientation:horizontal
+AlignBars = early
+Colors =
+ id:gray value:rgb(0.85,0.85,0.85)
+ id:darkgray value:rgb(0.27,0.27,0.27)
+ id:midgray value:rgb(0.57,0.57,0.57)
+ id:blue value:rgb(0.07, 0.44, 0.76)
+ id:green value:rgb(0.38, 0.73, 0.27)
+ id:orange value:rgb(1, 0.55, 0)
+ id:red value:rgb(0.80,0, 0)
+BarData =
+ bar:Wikipedias
+PlotData=
+ bar:Wikipedias from:0 till:1854 color:gray width:0.2in text:/1854
+ bar:Wikipedias from:0 till:609 color:pink width:0.2in text:609
+/timeline
+|seats3_title = Eurodiputats al [[Parlament Europeu]]
+|seats3 = timeline
+ImageSize = width:100 height:25
+PlotArea = left:0 bottom:0 top:0 right:0
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = x.y
+Period = from:0 till:96
+TimeAxis = orientation:horizontal
+AlignBars = early
+Colors =
+ id:gray value:rgb(0.85,0.85,0.85)
+ id:darkgray value:rgb(0.27,0.27,0.27)
+ id:midgray value:rgb(0.57,0.57,0.57)
+ id:blue value:rgb(0.07, 0.44, 0.76)
+ id:green value:rgb(0.38, 0.73, 0.27)
+ id:orange value:rgb(1, 0.55, 0)
+ id:red value:rgb(0.80,0, 0)
+BarData =
+ bar:Wikipedias
+PlotData=
+ bar:Wikipedias from:0 till:96 color:gray width:0.2in text:/96
+ bar:Wikipedias from:0 till:27 color:pink width:0.2in text:27
+/timeline
+|symbol = 
+|flag = 
+|website = [http://www.spd.de/ http://www.spd.de/]
+}}
+El '''Partit Socialdemòcrata d'Alemanya''' (en [[alemany]], ''Sozialdemokratische Partei Deutschlands'') és un [[Llista de partits polítics alemanys|partit polític alemany]] d'ideologia [[socialdemocràcia|socialdemòcrata]] fundat el [[1863]]. És membre del [[Partit Socialista Europeu]].
+
+== Ideologia del SPD ==
+El SPD és un partit de centreesquerra alemany, que forma part del [[Partit Socialista Europeu|PSE]] (Partit Socialista Europeu).
+
+== Història del SPD ==
+El primer antecedent del Partit Socialdemòcrata d'Alemanya es troba en la fundació, el 23 de maig de [[1863]], de l'Associació General de Treballadors d'Alemanya (''Allgemeiner Deutscher Arbeiterverein'', ADAV, la primera organització obrera alemanya) per part de [[Ferdinand Lassalle]]. Es tractava d'una organització socialista de caràcter reformista, en la qual no participaven els marxistes alemanys. L'any següent es va fundar l'[[Associació Internacional de Treballadors]] (AIT, o I Internacional), i eL [[1868]] se celebrava A [[Nuremberg]] el Congrés d'Associacions Culturals Obreres d'Alemanya, les organitzacions de les quals participants es van adherir a la Internacional, i el [[1869]] se celebrava el Congrés constituent del Partit Obrer Socialdemòcrata d'Alemanya (''Sozialdemokratische Arbeiterpartei Deustchlands'', SDAP). El nou partit obrer, liderat per [[Wilhelm Liebknecht]] i afí al marxisme, va adoptar en aquell congrés el ''Programa d'[[Eisenach]]'' (per la ciutat que es va celebrar), en el qual es definia el partit com la secció alemanya de l'AIT i s'exigiria, entre altres coses, la separació entre Església i Estat, el sufragi universal masculí, la substitució de l'exèrcit imperial per una milícia popular, l'abolició del treball infantil i l'establiment d'una jornada ''normal'' de treball, el desenvolupament d'un model fiscal progressiu i el suport estatal al cooperativisme. 
+
+En [[1875]], en el Congrés de [[Gotha]], es va produir la unificació de l'associació ''lassalleana'' amb els ''eisenachians'' en el nou el Partit Socialista dels Treballadors Alemanys (''Sozialistische Arbeiterpartei Deutschlands'', SAPD). El SAPD va adoptar com primer programa el ''Programa de Gotha'', que va rebre dures crítiques de [[Karl Marx|Marx]] i [[Friedrich Engels|Engels]] per incorporar massa concessions ideològiques a la teoria política lassalleana. En 1890 va adoptar el nom actual. 
+
+[[Otto von Bismarck]] va posar el partit fora de la llei en 1878 per les seves postures revolucionàries i pel seu republicanisme, encara que el partit va seguir presentant candidats, com independents, a les eleccions, convertint-se en el principal partit d'Alemanya. En 1890 va ser legalitzat de nou, contant en aquest any, en les eleccions generals, amb 1.400.000 vots que li van donar 35 diputats al [[Reichstag]]. A més comptava amb 19 diaris i 41 setmanaris, entre ells el seu òrgan teòric ''Die Neue Zeit'' (1883-1923; 6.000 exemplars). El 1905 comptava amb 400.000 afiliats. En 1912 es va convertir en la primera força del Parlament alemany amb 110 diputats de 409. 
+
+En el congrés de 1891 el SPD va adoptar reemplaçar el ''Programa de Gotha'' pel ''[[Programa d'Erfurt]]'', elaborat per [[Karl Kautsky]], [[Eduard Bernstein]] i [[August Bebel]], en un sentit revolucionari més radical que l'anterior. No obstant això, el partit assumí que la transformació socialista de la societat ha de ser efectudada per un govern legitimat per unes eleccions democràtiques. 
+
+Durant la [[Primera Guerra Mundial]] va donar la participació d'Alemanya en la guerra, el que va suposar la sortida del partit, en 1917, de la seva ala esquerrana, que va formar el [[Partit Socialdemòcrata Independent d'Alemanya]] (USPD), i de la [[Lliga Espartaquista]]. Aquesta última va donar origen al [[Partit Comunista d'Alemanya]] (KPD) en 1918. Després de la proclamació de la república a Alemanya, el SPD es va convertir en part de la coalició de Weimar i en un dels pilars de la pròpia [[República de Weimar]], liderant bona part dels gabinets de la república i en 1922 la majoria de l'USPD es va reintegrar en el SPD. El [[14 de juliol]] de [[1933]] el partit va ser prohibit per les autoritats [[nazi]]s, després de ser l'únic partit que havia votat en contra de la Llei de plens poders, que li donava poders extraconstitucionales al govern nazi. El SPD va establir la seva seu general en l'exili, primer a [[Praga]] i després a [[París]] i [[Londres]]. Després de la fi de la [[Segona Guerra Mundial]] el SPD es va dividir en dos partits: A [[Alemanya Occidental]] va tornar a la normalitat; Primer va romandre en l'oposició i després va arribar al govern amb [[Willy Brandt]] i [[Helmut Schmidt]] entre 1969 i 1982. Paral·lelament, a la part d'Alemanya sota administració soviètica, el SPD es va unir amb el KPD formant el [[Partit Socialista Unificat d'Alemanya]] (Sozialistische Einheitspartei Deutschlands), que va ser el partit oficial de la [[República Democràtica Alemanya]] fins poc abans de la seva desaparició. Així, el partit va deixar d'existir a la RDA fins al seu restabliment el 1989.
+
+En el ''[[Programa de Godesberg]]'' de 1959 el partit va abandonar oficialment el concepte de [[lluita de classes]] i els principis [[marxisme|marxistes]] i després d'un període en el qual es va oposar a l'entrada en l'[[OTAN]], es va convertir en un dels seus principals valedors. Poc després de la caiguda del mur de Berlín, es va formar el Partit Socialdemòcrata de la RDA (SPD-DDR, el qual, amb la reunificació de les dues Alemanyes va unir-se al SPD.
+Sota el lideratge de [[Gerhard Schröder]], va vèncer a les eleccions de setembre de 1998 i en coalició amb [[Bündnis 90 / Die Grünen|Els Verds]] va tornar al govern aplicant mesures moderades considerades neoliberals per l'ala esquerra del partit, el que va provocar descontentament en les seves bases, que havien anat disminuint des d'1.000.000 de militants en 1976, 775.000 en 1998 i 600.000 al març de 2005.
+
+Pel gener de 2005 una part de l'ala esquerra del partit va abandonar per a formar l'[[Alternativa Electoral pel treball i la Justícia Social]] (WASG) a la que es va unir [[Oskar Lafontaine]], antic president del SPD. A les eleccions federals de 2005 el SPD va aconseguir el 38,4% dels vots i 145 escons en el Bundestag per darrere de la coalició [[CDU]]-[[CSU]], formant aquests tres partits un govern de coalició sota el lideratge d'[[Angela Merkel]], amb el líder socialdemòcrata [[Franz Müntefering]] com vicecanceller.
+
+A les eleccions federals del setembre de 2009 perderen un gran nombre de diputats i passaren a l'oposició, la CDU/CSU formà coalició amb el FDP. Des del desembre de 2013 tornen a formar part del [[Gabinet Merkel III|govern]] d'Angela Merkel. 
+
+== Dades principals ==
+* Líder: [[Sigmar Gabriel]].
+* Nom en alemany: Sozialdemokratische Partei Deutschlands.
+* Data de fundació: 1863.
+* Estat amb més presència: [[Hamburg (estat)|Hamburg]] (48,4%)
+* Estat amb menys presència: [[Saxònia]] i [[Turíngia]] (12,4%).
+* Seu central: [[Willy Brandt]] Haus ([[Berlín]]).
+
+== Situació actual del SPD ==
+Es troba al govern federal des del [[17 de desembre]] de [[2013]]. 
+
+=== Als estats ===
+Governa en solitari a:
+
+* [[Hamburg (estat)|Hamburg]]
+
+Governa amb la [[CDU]] a:
+
+* [[Berlín]]
+* [[Mecklemburg – Pomerània Occidental]]
+* [[Saxònia-Anhalt]]
+* [[Saarland]]
+* [[Turíngia]]
+
+
+Governa amb els [[Aliança 90/Els Verds|Verds]] a:
+
+* [[Baden-Württemberg]]
+* [[Baixa Saxònia]]
+* [[Bremen]]
+* [[Renània-Palatinat]]
+* [[Rin del Nord-Westfàlia]]
+
+Governa amb [[Aliança 90/Els Verds|Verds]] i [[Associació de Votants de Schleswig Meridional|SSW]] a: 
+
+* [[Slesvig-Holstein]]
+
+Governa amb [[L'Esquerra (Alemanya)|L'Esquerra]] a:
+
+
+* [[Brandenburg]]
+
+Resta a l'oposició a:
+
+* [[Baviera]]
+* [[Hessen]]
+* [[Saxònia]]
+
+
+=== Estadístiques ===
+{| class=prettytable
+|- class=hintergrundfarbe6
+! colspan=4 | Resultats al [[Bundestag]] des de [[1949]]ref{{format ref}} http://www.btw05.de/hist_brd.html/ref
+|- class=hintergrundfarbe8
+! Any
+! %
+! Escons
+! Candidat
+|-
+| [[Eleccions federals alemanyes de 1949|1949]] || align=center | 29,2 % || align=center | 131 || align=center | [[Kurt Schumacher]]
+|-
+| [[Eleccions federals alemanyes de 1953|1953]] || align=center | 28,8 % || align=center | 151 || align=center | [[Erich Ollenhauer]]
+|-
+| [[Eleccions federals alemanyes de 1957|1957]] || align=center | 31,8 % || align=center | 169 || align=center | Erich Ollenhauer
+|-
+| [[Eleccions federals alemanyes de 1961|1961]] || align=center | 36,2 % || align=center | 190 || align=center | [[Willy Brandt]]
+|-
+| [[Eleccions federals alemanyes de 1965|1965]] || align=center | 39,3 % || align=center | 202 || align=center | Willy Brandt
+|-
+| [[Eleccions federals alemanyes de 1969|1969]] || align=center | 42,7 % || align=center | 224 || align=center | Willy Brandt
+|-
+| [[Eleccions federals alemanyes de 1972|1972]] || align=center | 45,8 % || align=center | 230 || align=center | Willy Brandt
+|-
+| [[Eleccions federals alemanyes de 1976|1976]] || align=center | 42,6 % || align=center | 214 || align=center | [[Helmut Schmidt]]
+|-
+| [[Eleccions federals alemanyes de 1980|1980]] || align=center | 42,9 % || align=center | 218 || align=center | Helmut Schmidt
+|-
+| [[Eleccions federals alemanyes de 1983|1983]] || align=center | 38,2 % || align=center | 193 || align=center | [[Hans-Jochen Vogel]]
+|-
+| [[Eleccions federals alemanyes de 1987|1987]] || align=center | 37,0 % || align=center | 186 || align=center | [[Johannes Rau]]
+|-
+| [[Eleccions federals alemanyes de 1990|1990]] || align=center | 33,5 % || align=center | 239 || align=center | [[Oskar Lafontaine]]
+|-
+| [[Eleccions federals alemanyes de 1994|1994]] || align=center | 36,4 % || align=center | 252 || align=center | [[Rudolf Scharping]]
+|-
+| [[Eleccions federals alemanyes de 1998|1998]] || align=center | 40,9 % || align=center | 298 || align=center | [[Gerhard Schröder]]
+|-
+| [[Eleccions federals alemanyes de 2002|2002]] || align=center | 38,5 % || align=center | 251 || align=center | Gerhard Schröder
+|-
+| [[Eleccions federals alemanyes de 2005|2005]] || align=center | 34,2 % || align=center | 222 || align=center | Gerhard Schröder
+|-
+| [[Eleccions federals alemanyes de 2009|2009]] || align=center | 23,0 % || align=center | 146 || align=center | [[Frank-Walter Steinmeier]]
+|-
+| [[Eleccions federals alemanyes de 2013|2013]] || align=center | 25,7 % || align=center | 193 || align=center | [[Peer Steinbrück]]
+|-
+|}
+
+==Vegeu==
+* [[Associació Lliure de Sindicats d'Alemanya]]
+
+== Referències ==
+div style=font-size:90%;{{referències|1}}/div
+
+== Enllaços externs ==
+{{commons|Category:Sozialdemokratische Partei Deutschlands|Social Democratic Party of Germany}}
+
+{{Partitspoliticsalemanya}}
+
+
+{{ORDENA:Partit Socialdemocrata D'Alemanya}}	!--ORDENA generat per bot--
+{{Autoritat}}
+{{Enllaç AD|he}}
+
+[[Categoria:Partits membres del Partit Socialista Europeu]]
+[[Categoria:Partits polítics d'Alemanya]]</text>
+      <sha1>lbinrygx8jaysdsoh2woth9iik8hrq4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

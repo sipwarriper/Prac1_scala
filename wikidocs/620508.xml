@@ -1,0 +1,68 @@
+<page>
+    <title>David A. Huffman</title>
+    <ns>0</ns>
+    <id>620508</id>
+    <revision>
+      <id>13819198</id>
+      <parentid>13200809</parentid>
+      <timestamp>2014-07-14T06:38:04Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Infotaula persona
+| nom = David A. Huffman
+| imatge = 
+| peu = 
+| data_naix = {{Data naixement|1925|08|9}}
+| lloc_naix = [[Ohio]], [[USA]]
+| data_mort = {{Data defunció i edat|1999|10|7|1925|08|9}}
+| lloc_mort = 
+| nacionalitat = {{USA}}
+| altres_noms = 
+| conegut_per = 
+| ocupació = Professor
+}}
+''' David A. Huffman ''' (va néixer el [[9 d'agost]] de [[1925]] i va morir el [[7 d'octubre]] de [[1999]]) fou un personatge il·lustre en el camp de [[ciències de la computació]] en general i en la [[Codi font|codificació]] de dades en particular, a més de ser professor als [[Estats Units d'Amèrica]].
+
+Al llarg de la seva vida va fer contribucions importants a l'estudi d'aparells finits, circuits aleatoris, síntesi de procediments, i disseny de senyals. No obstant això és més conegut pel codi de Huffman, un sistema de compressió i codificació de longitud variable. Aquest va ser el resultat del seu projecte de fi de carrera que va escriure mentre era un estudiant de postgrau en l'[[Institut Tecnològic de Massachusetts]] (MIT).
+
+El codi de Huffman, també conegut com a [[codificació Huffman]], pot ser usat en gairebé qualsevol aplicació, ja que és un sistema vàlid per a la compressió i posterior transmissió de qualsevol dada en format digital, podent aplicar-se a [[fax]] és, [[mòdem]]s, [[Xarxa d'ordinadors|xarxes d'ordinadors]] i [[televisió]].
+
+== Biografia ==
+
+Nascut a [[Ohio]], va aconseguir el seu títol en [[enginyeria elèctrica]] a la [[Universitat Estatal d'Ohio]] quan tenia 18 anys d'edat. Posteriorment va complir [[servei militar]], arribant a ser oficial de la [[Armada|marina]], i l'encarregat del manteniment de [[radar]] d'un destructor que va ajudar netejar de mines les aigües [[Xina|xineses]] i [[Japó|japoneses]] després de la [[Segona Guerra Mundial]].
+
+Va continuar els seus estudis aconseguint els títols de [[enginyeria electrònica]] i de postgrau a Ohio ([[1949]]) i a l'[[Institut Tecnològic de Massachusetts]] (MIT), respectivament.
+
+Es va unir al cos docent en [[1953]] a l'[[Institut de Massachusetts]]. El [[1967]], va anar a la [[Universitat de Califòrnia]] (Santa Cruz), també com a docent, i va fundar el departament de ciència informàtica, on va tenir un paper molt important en el desenvolupament dels programes acadèmics del departament. Fins i tot, entre els anys [[1970]] i [[1973]] va exercir-hi funcions com a president. Es va jubilar a [[1994]], però va romandre en actiu com a professor [[emèrit]], ensenyant teoria de la informació i donant cursos d'anàlisi de senyals.
+
+Va fer contribucions importants en moltes altres àrees, incloent teoria de la informació i codificació, dissenys de senyal per a aplicacions de radar i comunicacions, així com procediments de disseny per circuits lògics asíncrons. Com a conseqüència del seu treball sobre les propietats matemàtiques de les superfícies L'escoliosi de zero, va elaborar les seves pròpies tècniques per doblegar paper en formes de esculpides anormals.
+
+Els seus èxits li van valer nombrosos premis i honors. L'últim d'ells va ser a [[1999]], quan va rebre la medalla de l'institut Electrònic [[Richard Hamming]] i dels enginyers electrònics ([[IEEE]]) en reconeixement de les seves contribucions excepcionals a les ciències d'informació i la informàtica. També va rebre la medalla [[E. Louis Levy]] del [[Institut de Franklin]] sobre la seva tesi doctoral sobre la commutació seqüencial de [[Circuit elèctric]]. També va rebre premis com alumne distingit de la Universitat d'Ohio i el [[Wallace McDowell]] i altres prestigiosos premis d'investigació tecnològica.
+
+Va morir a [[1999]] després d'una lluita de 10 mesos contra el [[càncer]]. Mai va tractar de patentar cap dels resultats del seu treball, sinó que en el seu lloc va concentrar els seus esforços en l'educació. En paraules del propi Huffman, '' Els meus productes són els meus estudiants ''.
+
+== Vegeu també ==
+
+* [[Compressió de dades]]
+* [[Algorisme de compressió sense pèrdua]]
+* [[Codificació Huffman]]
+* [[Entropia (informació)|Entropia]]
+
+== Enllaços externs ==
+* [http://www.ucsc.edu/currents/99-00/10-18/inmemoriam.html In Memoriam]
+* [http://www.ucsc.edu/news_events/press_releases/archive/99-00/10-99/huffman.htm Notícia sobre Huffman]
+* [http://www.sgi.com/grafica/huffman/Article de Huffman]
+{{Autoritat}}
+{{ORDENA:Huffman, David A}}
+
+[[Categoria:Informàtics estatunidencs]]
+[[Categoria:Persones d'Ohio]]</text>
+      <sha1>dfu30by8lkaqk1yb0r4fyu8cihoa7ra</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,91 @@
+<page>
+    <title>Filtre analògic</title>
+    <ns>0</ns>
+    <id>515086</id>
+    <revision>
+      <id>13053122</id>
+      <parentid>12809764</parentid>
+      <timestamp>2014-03-14T12:41:17Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: de el - del [[computador</comment>
+      <text>Un '''filtre analògic''' és un [[filtre electrònic]] fet per tractar senyals elèctrics [[Senyal analògic|analògics]]. El paràmetre pel qual sol discriminar és la [[freqüència]]. Un filtre ideal hauria de transmetre sense canvis els senyals d'una determinada gamma de freqüències, anomenada banda passant, i rebutjar-ne la resta (banda eliminada). Això, a la pràctica, és impossible per raons físiques. Per això s'utilitzen un seguit d'aproximacions matemàtiques que compleixen amb les característiques desitjades, dins de certes especificacions de disseny.
+
+== Història ==
+Hi ha tres etapes principals en la història del desenvolupament dels filtres analògics.
+# '''Filtres simples'''. Estaven formats per condensadors i inductors.
+# '''Filtres d'imatge'''. La teoria del filtre d'imatge va sorgir de la teoria de línies de transmissió, llavors el seu disseny va ser construït de manera similar a l'anàlisi de línies de transmissió.
+# '''Xarxa de filtres de síntesi'''. Les bases matemàtiques de la xarxa de filtres de síntesi es van crear en els anys 1930 i 1940. Després de la Segona Guerra Mundial, es van convertir en l'eina principal del disseny de filtres.
+
+== Tipus de filtres ==
+Hi ha diferents tipus de classificació de filtres.
+* Atenent al guany:
+** '''Filtres passius''': atenuen el senyal en major o menor grau. S'implementen amb components passius com [[condensador|condensadors]], [[inductor|bobines]] i [[Resistència elèctrica (component)|resistències]].
+** '''Filtres actius''': són els que poden presentar guany en tot o part del senyal d'eixida respecte al d'entrada. En la seua implementació solen aparèixer [[amplificador operacional|amplificadors operacionals]].
+* Atenent a la seua resposta en freqüència:
+** [[Filtre passa baix]]: és aquell que permet el pas de freqüències baixes, des de freqüència 0 o contínua fins a una de determinada. Presenten zeros a altes freqüències i pols a baixes freqüències.
+** [[Filtre passa alt]]: és el que permet el pas de freqüències des d'una freqüència de tall determinada cap amunt, sense que existisca un límit superior especificat. Presenten zeros a baixes freqüències i pols a altes freqüències.
+
+** [[Filtre passa banda]]: són aquells que permeten el pas de components freqüencials continguts en un determinat rang de freqüències, comprès entre una freqüència de tall superior i una altra d'inferior.
+** [[Filtre elimina banda]]: és el que dificulta el pas de components freqüencials continguts en un determinat rang de freqüències, comprès entre una freqüència de tall superior i una altra d'inferior.
+** [[Filtre multibanda]]: és el que presenta diversos rangs de freqüències en els quals hi ha un comportament diferent.
+** [[Filtre variable]]: és aquell que pot canviar els seus marges de freqüència.
+
+* Atenent al mètode de disseny:
+** [[Filtre de Butterworth]]: produeix la resposta més plana que sigui possible fins a la freqüència de tall. 
+** [[Filtre de Txebixev#Filtre de Txebixev de tipus I|Filtre de Txebixev I]] i [[Filtre de Txebixev#Filtre de Txebixev de tipus II|Filtre de Txebixev II]]: són filtres que únicament tenen pols, presenten un arrissat constant a la banda passant i presenten una caiguda monòtona a la banda no passant.
+** [[Filtre el·líptic]] o de Cauer: aconsegueix estrènyer la zona de transició entre bandes.
+** [[Filtre de Bessel]]: està dissenyat per tenir una fase lineal a les bandes passants, de manera que no distorsiona els senyals. En canvi, té una major zona de transició entre les bandes passants i no passants.
+
+* Atenent a la seua aplicació:
+** [[Filtre de xarxa]]. Aquest tipus de circuit impedeix l'entrada de soroll extern. A més impedeix que el sistema contamine la xarxa, de tal forma que es poden utilitzar fonts analògiques i digitals o fonts [[Modulació per amplària de polsos|PWM]] que afecten negativament la resta de l'equip. També és possible corregir el factor de potència, ja que el circuit redueix significativament els becs de corrent generats pel condensador quan es carrega. El circuit consistix bàsicament en un filtre pas sota on la primera bobina elimina soroll en general (freqüències altes), juntament amb els condensadors. El transformador elimina el soroll sobrant, que els condensadors no eliminen. Al transformador se li denomina xoc de manera comuna. Són els utilitzats per a garantir la qualitat del senyal d'alimentació, aquests tenen com a objectiu eliminar sorolls tant en manera comuna com en manera diferencial.
+
+* Altres tipus:
+** [[Filtre piezoelèctric|Filtres piezoelèctrics]]. Aquest filtre aprofita les propietats ressonants de determinats materials com el [[quars]]. Aquest cristall de quars s'utilitza com component de control de la freqüència de circuits oscil·ladors convertint les vibracions mecàniques en [[voltatge]]s elèctrics a una freqüència específica. Açò ocorre a causa del [[efecte piezoelèctric]]. En un material piezoelèctric, quan s'aplica una pressió mecànica sobre un eix, s'obté com a conseqüència la creació d'una càrrega elèctrica. En alguns materials, es troba que aplicant un camp elèctric segons un eix, produeix una deformació mecànica segons altre eix situat a un angle recte respecte al primer. Per les propietats mecàniques, elèctriques, i químiques, el quars és el material més apropiat per a fabricar dispositius amb freqüència bé controlada. També hi ha filtres com el de [[Bobina de xoc |ferrita]] que existeix en molts cables. És normal trobar-se'ls en les pantalles del [[computador]]. Ací es té la propietat de presentar distintes [[impedància|impedàncies]] a alta i baixa freqüència.
+** [[Filtre atòmic|Filtres atòmics]]
+
+== Exemple ==
+En aquest exemple es mostra un filtre Butterworth d'ordre 4 amb [[freqüència de tall]] en 1000 [[Hz]]. La implementació es basa en cèl·lules [[Filtre de Sallen-Key|Sallen-Key]]. En la següent figura es mostra el [[circuit elèctric]]:
+
+center[[Fitxer:Filtro_a_2.PNG|filtre Butterworth d'ordre 4]]/center
+
+La resposta en freqüència es mostra en la següent gràfica:
+
+center[[Fitxer:Filtro_a_1.PNG|Resposta en freqüència]]/center
+
+Ací es mostra en color negre la resposta en [[mòdul (matemàtiques)|mòdul]] (en [[Decibel|dB]]) i en roig la resposta en fase.
+
+== Aplicacions ==
+* Filtres anti[[aliasing]].
+* Filtres de reconstrucció.
+* [[Equalitzador|Equalitzadors]].
+
+A causa del fet que se solen realitzar amb components discrets i que tenen poca flexibilitat, no se solen dissenyar filtres analògics d'ordres elevats. En comptes d'això s'empren convertidors i filtres digitals.
+
+== Programari per a dissenyar filtres ==
+* Filter Wiz Pro
+* FilterLab
+* FilterCad
+* Filter Solutions
+* Multisim
+* [[Matlab]]
+* [[Scilab]]
+* [[LabVIEW]] Digital Filter Design Toolkit
+
+== Vegeu també ==
+* [[Pierre-Simon Laplace]]
+* [[Sèrie de Fourier]]
+
+{{ORDENA:Filtre Analogic}}
+{{Enllaç AB|en}}
+
+[[Categoria:Filtres electrònics|Analogic]]
+[[Categoria:Circuits electrònics]]</text>
+      <sha1>6d893a4ou029vnhgjjagzh8838u6hko</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

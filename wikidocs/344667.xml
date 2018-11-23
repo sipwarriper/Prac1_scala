@@ -1,0 +1,475 @@
+<page>
+    <title>Metro de Londres</title>
+    <ns>0</ns>
+    <id>344667</id>
+    <revision>
+      <id>13798457</id>
+      <parentid>13767432</parentid>
+      <timestamp>2014-07-12T13:50:00Z</timestamp>
+      <contributor>
+        <username>YLSS</username>
+        <id>136963</id>
+      </contributor>
+      <minor></minor>
+      <comment>upd link</comment>
+      <text>{{Infobox Transport
+| nom = London Undergroundbr /''The Tube''
+| image = Underground.svg|thumb|Logo oficial.
+| imagesize = 150px
+| pais = [[Regne Unit]]
+| municipi = [[Gran Londres]], Chiltern,br /Epping Forest,br /Three Rivers i Watford
+| transport = Trànsit ràpid
+| inauguracio = [[1863]]
+| linies = 11
+| estacions = 270 (260 pròpies)
+| longitud = 400 km (aproximadament)
+| ample = [[ample ferroviari estàndard|1.435]] [[mm]]
+| operador = [[Transport for London]]
+| over = si
+| tram = si
+| dock = si
+}}
+El '''Metro de Londres''' (en [[anglès]], ''London Underground'' i popularment conegut com ''the Tube'') és un sistema de [[metro]] o ferrocarril metropolità de trànsit ràpid del [[Gran Londres]] (regió metropolitana de [[Londres]]) i algunes àrees properes com [[Essex]], [[Hertfordshire]] i [[Buckinghamshire]] a [[Anglaterra]] ([[Regne Unit]]). El primer tram es va obrir el [[1863]], convertint-se en la primera xarxa de metro del món,ref name=first1Wolmar 2004, pàg. 18./ref i el [[1890]], en la primera a utilitzar trens elèctrics.ref name=first2Wolmar 2004, pàg. 135./ref Habitualment és anomenat ''el tub'' (the Tube) per la forma que tenen els túnels, tot i que el 55% de la xarxa no és subterrània.
+
+Les línies més antigues de l'actual xarxa de metro de [[Londres]] van ser construïdes per diverses empreses privades i van esdevenir part d'un sistema integrat de transport el [[1933]] amb la creació de [[London Passenger Transport Board]] (LPTB), més coneguda com a ''London Transport''. La xarxa no es va convertir en una sola entitat fins al [[1985]], quan el [[govern del Regne Unit]] va crear London Underground Limited (LUL).ref name=history[http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/1604.aspx Transport for London,] història {{en}}/ref Des del [[2003]] [[Transport for London]] (TfL) és el propietari de LUL. La corporació s'encarrega de gestionar la majoria dels aspectes relacionats amb el transport al [[Gran Londres]] i és dirigit per un consell i un comissionat designat per l'[[alcalde de Londres]].ref[http://webarchive.nationalarchives.gov.uk/20110929065714/http://www.london.gov.uk/help/faq.jsp Greater London Authority,] Com trobo informació sobre el transport a Londres? {{en}}/ref
+
+El metro té 270 estacions i aproximadament 400 km de vies (250 milles).ref name=facts[http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/1608.aspx Transport for London], xifres clau {{en}}/ref És la major xarxa de metro del món pel que fa a quilómetres de viesref[http://mic-ro.com/metro/table.html http://mic-ro.com/metro/table.html Metrobits,] dades dels metros del món {{en}} {{es}} {{fr}} {{pt}}/ref i nombre d'estacions. El [[2007]] es van registrar mil milions de passatgers.ref[http://www.webarchive.org.uk/wayback/archive/20100129154835/http://www.tfl.gov.uk/corporate/media/newscentre/archive/4770.aspx Transports for London,] El metro transporta mil milions de passatgers per primer cop {{en}}/ref
+
+El [[tube map|mapa del metro]], amb el seu esquema de disseny no geogràfic i de codi de colors de línies, es considera un disseny clàssic, i molts altres mitjans de transport de tot el món han estat influenciats per aquest.
+
+== Història ==
+La construcció de ferrocarrils al [[Regne Unit]] va començar a principis del [[segle XIX]]. El [[1854]] ja s'havien construït fora del centre de [[Londres]] sis estacions terminals de línies diferents: London Bridge, Euston, Paddington, King's Cross, Bishopsgate i Waterloo. Tan sols l'estació de Fenchurch Street era dins de l'actual districte de [[Ciutat de Londres]]. La congestió del trànsit a la ciutat i rodalia havia crescut significativament, en part perquè els passatgers dels ferrocarrils tenien l'obligació de continuar els seus trajectes per carretera per arribar al centre de la ciutat. Durant la [[dècada del 1830]] va aparèixer la idea de construir un ferrocarril subterrani per enllaçar la [[Ciutat de Londres]] i les principals estacions terminals, però no va ser fins a la [[dècada del 1850]] que es va prendre la idea seriosament com a solució per a descongestionar el trànsit.ref{{Ref-llibre |cognom= Green |nom= Oliver |títol= The London Underground: An Illustrated History |editorial= Ian Allan Ltdl |lloc= London |data= 1987 |isbn= 0711017204}}/ref
+
+=== El primer ferrocarril subterrani ===
+[[Fitxer:Constructing the Metropolitan Railway.png|thumb|250px|Construcció de Metropolitan Railway a prop de [[estació de King's Cross|King's Cross]], el 1861.]]
+El [[1854]] es va aprovar una acta del Parlament per a la construcció d'un [[ferrocarril]] subterrani entre l'estació de [[estació de London Paddington|Paddington]] i l'estació de [[estació de Farringdon|Farringdon Street]] via [[estació de King's Cross|King's Cross]], que s'havia d'anomenar [[Metropolitan Railway]]. La companyia [[Great Western Railway]] (GWR) va finançar el projecte amb l'acord que es construís un enllaç entre el ferrocarril metropolità i la seva línia terme a Paddington. També es va acordar que GWR faria el disseny dels trens especials per a la nova línia.
+
+La construcció es va posposar diversos anys per la falta de diners. Que el projecte anés soterrat totalment era idea de [[Charles Pearson]], advocat de ''City of London Corporation''. Pearson havia recolzat aquesta idea des de feia uns anys i tenia al cap la demolició de les barriades poc higièniques i portar els seus habitants a noves acomodacions als suburbis. Les noves línies de ferrocarril permetrien que aquests habitants poguessin anar a treballar al centre de la ciutat. Tot i que ell mai va intervenir directament en el plans de la ''Metropolitan Railway'', se'l considera com un dels visionaris del concepte del metro o ferrocarril metropolità subterrani. El [[1859]] Pearson va persuadir a ''City of London Corporation'', on treballava, perquè financés l'obra. Finalment els treballs van començar el febrer de [[1860]], sota les ordres de l'[[enginyeria|enginyer]] [[John Fowler]]. Pearson va morir l'any 1862, un any abans que l'obra estigués acabada.
+
+La [[Metropolitan Railway]] es va inaugurar el [[10 de gener]] de [[1863]].ref name=history / Als pocs mesos de l'obertura ja transportava 26.000 passatges al dia.refGreen 1987, pàg. 5./ref La [[Hammersmith  City Line|Hammersmith  City Railway]] va obrir el [[13 de juny]] de [[1864]] entre Hammersmith i [[estació de London Paddington|Paddington]]. 
+Inicialment l'operadora en va ser GWR entre Hammersmith i Farringdon Street. A l'abril de [[1865]] la companyia ''Metropolitan'' es va fer amb el servei. A finals de [[1865]] la ''Metropolitan Railway'' havia arribat a Moorgat Street. Més tard es van obrir més trams fins a Swiss Cottage, South Kensington i Addison Road. El ferrocarril inicialment era de doble ample, permetent a GWR fer circular tant trens de via ampla com de via estàndard. Desacords entre GWR i la Metropolitan van forçar a la Metropolitan a canviar l'ample a [[ample ferroviari estàndard|estàndard]] el [[1863]] després que GWR retirés les seves existències. Aquestes diferències van acabar desapareixent, encara que la via ampla havia estat totalment retirada el març de [[1869]].
+
+El [[24 de desembre]] de [[1868]], [[Metropolitan District Railway]] va començar els seus serveis entre [[estació de South Kensington|South Kensington]] i [[estació de Westminster|Westminster]] utilitzant trens de la Metropolitan Railway. La companyia aviat seria coneguda com a the District, el [[1864]] s'incorporava per a formar un ferrocarril circular juntament amb la línia Metropolitan. Això formava part d'un pla per construir un cercle interior, [[Inner Circle line]], i un cercle exterior, [[Outer Circle line]] al voltant de [[Londres]].
+
+Una feroç rivalitat es va desenvolupar entre District i Metropolitan, provocant un retard en la finalització del Inner Circle. La rivalitat era provocada per la competició entre les dues companyies per construir ferrocarrils, més importants financerament parlant, als suburbis de [[Londres]]. [[London and North Western Railway]] (LNWR) va començar a fer funcionar l'[[Outer Circle Line|Outer Circle]] des de Broad Street via Willesden Junction, Addison Road i [[estació d'Earl's Court|Earl's Court]] a Mansion House el [[1872]].
+
+L'[[Inner Circle line|Inner Circle]] no es va completar fins al [[1884]] i els serveis eren proveïts conjuntament per Metropolitan i District. Al mateix temps, District havia acabat la seva ruta entre [[estació de West Brompton|West Brompton]] i [[estació de Blackfriars|Blackfriars]] el [[1870]], amb un intercanviador amb [[Metropolitan Railway]] a South Kensington. El [[1877]] començaven a circular els seus propis serveis entre [[estació de Hammersmith|Hammersmith]] i [[estació de Richmond|Richmond]], en una línia que s'havia obert inicialment per [[London  South Western Railway]] (LSWR). District va obrir una nova línia des de [[estació de Turnham Green|Turnham Green]] a [[estació d'Ealing Broadway|Ealing]] el [[1879]]ref name=Chiswick Past{{ref-llibre|cognom=Clegg|nom=Gillian |títol=Chiswick Past|editorial=Historical Publications Ltd|any=1995|isbn=0948667338}}, at pàg. 72/ref i perllongat cap al ramal de West Brompton a [[estació de Fulham Broadway|Fulham]] el 1880.
+
+Els primers túnels foren construïts mitjançant el mètode cut-and-cover o fals túnel, obrint els carrers. Això va provocar molèsties generals al haver de destruir algunes propietats de la superfície. Els primers trens foren de vapor, que necessitaven ventilació eficaç.
+
+El [[7 de desembre]] de [[1869]] [[London, Brighton and South Coast Railway]] (LBSCR) va començar a operar entre [[estació de Wapping|Wapping]] i [[estació de New Cross Gate|New Cross Gate]] a la línia [[East London Railway]] (ELR) utilitzant el túnel [[Thames Tunnel]] dissenyat per [[Marc Brunel]], qui va inventar un revolucionari mètode de construcció, el tunnelling shield o túnel escut. El túnel fou obert com un túnel peatonal, però el [[1865]] fou comprat per ELR mitjançant un consorci de sis empreses: [[Great Eastern Railway]] (GER); London, Brighton and South Coast Railway (LBSCR); [[London, Chatham and Dover Railway]] (LCDR); [[South Eastern Railway (UK)|South Eastern Railway]] (SER); Metropolitan Railway; i Metropolitan District Railway. El [[1884]] District i Metropolitan van començar a circular per la línia.
+
+A finals de la dècada de 1880 els ferrocarrils arribaven a Chesham (Metropolitan), Hounslow West, Wimbledon i Whitechapel (District) i [[estació de New Cross|New Cross]] (East London Railway). A finals del [[segle XIX]], Metropolitan havia ampliat les seves línies més enllà de [[Londres]] a [[estació d'Aylesbury|Aylesbury]], [[Verney Junction]] i [[Brill]], creant nous suburbis al llarg de la ruta, que més tard foren anomenats per la companyia com [[Metro-land]] (''terra del metro''). Fins a la [[dècada de 1930]] l'empresa mantenia les seves ambicions de ser considerada una línia principal en lloc d'un ferrocarril urbà.
+
+=== Les primeres línies tub ===
+[[Fitxer:Gb-lu-Angel-southbound.jpg|thumb|Estació d'Angel (direcció sud) a la ''Northern Line'']]
+Les primeres línies, excloent la ELR, es trobaven a tan sols tres metres de profunditat. Els avenços en la construcció de túnels van permetre construir-los més profundament i com a conseqüència hi va haver menys interrupcions als carrers i una disminució dels costos de les obres.
+
+La [[City and South London Railway|City  South London Railway]] (CSLR, actualment part de la [[Northern Line]]) es va inaugurar el [[1890]] entre Stockwell i King William Street (no correspon a l'actual estació). Aquesta línia va ser la primera línia ''deep-level'', és a dir, construïda a gran profunditat, i la primera línia elèctrica del món.ref name=first deepWolmar 2004, pàg. 4./ref El [[1900]] es va estendre cap a Clapham Common pel sud i cap a Moorgate Street (via ''diversion'') al nord. El segon ferrocarril similar va ser [[Waterloo  City Line|Waterloo and City Railway]] el [[1898]],ref name=roseRose 2005./ref construït i operat per [[London and South Western Railway|London  South Western Railway]].
+
+El [[30 de juliol]] de [[1900]] va començar a funcionar la [[Central Line|Central London Railway]] (coneguda com a ''Central Line''), entre [[Estació de Bank  Monument|Bank]] i Shepherd's Bush.ref name=rose/ Se li va donar el sobrenom de ''Twopenny Tube''ref name=twopennyWolmar 2004, pàg.154–155./ref pels seus túnels cilíndrics, i amb el pas del temps ''the Tube'' es va convertir en el sobrenom de tota la xarxa de metro. A l'estació de [[estació de Bank|Bank]] s'hi va construir un intercanviador entre CSLR i WCR.
+
+=== Integració ===
+A principis del [[segle XX]] hi havia sis operadores independents donant servei a la xarxa de Metro i això causava als passatgers alguns inconvenients. En moltes estacions havien de caminar una bona distància per la superfície per enllaçar amb una altra línia. Com que no hi havia un sístema únic, els costos associats eren majors i algunes companyies tenien problemes seriosos per aconseguir els diners que necessitaven per electrificar i expandir les línies. Com a resultat moltes empreses buscaven algú que pogués finançar les obres. Un dels més importants fou [[Charles Yerkes]], un magnat [[Estats Units d'Amèrica|americà]] que va assegurar la construcció de [[Charing Cross, Euston and Hampstead Railway]] (CCEHR) el [[1900]]. Al març del [[1901]] va obtenir el control de ''District'' i això li va permetrer formar la ''Metropolitan District Electric Traction Company'' (MDET). Al setembre del mateix any ja havia adquirit dues companyies més, [[Great Northern, Piccadilly and Brompton Railway|Great Northern  Strand Railway]] i [[Great Northern, Piccadilly and Brompton Railway|Brompton  Piccadilly Circus Railway]]. Respecte a aquesta última, el Parlament n'acabava d'aprovar la construcció juntament amb la moribunda Baker Street  Waterloo Railway. El [[1902]] les companyies que havia anat adquirint Charles Yerkes es van reanomenar sota el nom comú d'[[Underground Electric Railways Company|Underground Electric Railways of London Company Ltd]] (UERL). La UERL també tenia en propietat tres companyies de tramvies i va comprar la [[London General Omnibus Company]], creant una organització que es coneixeria col·loquialment com ''the Combine'' i que va anar dominant la construcció del metro a Londres fins a la [[dècada de 1930]].
+
+[[Fitxer:London Underground Embankment 1090744 1090752.jpg|600px|center|District i Circle Line]]
+
+Amb la bona situació econòmica de [[Charles Yerkes]], District va obrir la branca de [[estació de South Harrow|South Harrow]] el [[1903]] i va completar l'enllaç amb el ramal d'Uxbridge de la Metropolitan el [[1904]]. El [[1905]] ''District Railway'' i ''Inner Circle'' ja tenien en funcionament trens elèctrics. 
+
+Baker Street  Waterloo Railway va obrir el [[1906]], més tard simplement anomenada [[Bakerloo Line|Bakerloo]], cap al [[1907]] ja havia arribat a Edgware Road al nord i Elephant  Castle al sud. L'acabada de reanomenar [[Great Northern, Piccadilly and Brompton Railway]] va obrir el [[1906]] amb túnels que es trobaven a 60 metres de profunditat.
+
+Altres companyies independents també van seguir els seus projectes al llarg del [[segle XX]], com [[Northern City Line|Great Northern  City Railway]] que obria el [[1904]]. Aquesta línia era l'única tipus tub que tenia el diàmetre suficient perquè hi circulessin trens de ferrocarril de mida habitual i originàriament es pretenia que formés part d'una línia de ferrocarril i no de metro. Però la falta de capital va provocar que la línia seguís separada de la xarxa de ferrocarril fins a la [[dècada de 1970]].
+
+A principis de [[1908]], en un esforç per augmentar el nombre de passatgers, les operadores de metro van acordar promoure serveis conjunts sota el nom de ''the Underground'' (el metro), publicant un mapa gratuït de la xarxa i nova publicitat. Al [[tube map|mapa]] hi sortia la ''Bakerloo Railway'', ''Central London Railway'', ''City  South London Railway'', ''District Railway'', ''Great Northern  City Railway'', ''Hampstead Railway'' (nom curt de CCEHR), ''Metropolitan Railway'' i ''Piccadily Railway''. Altres línies hi apareixien però no tan clarament. El mapa també incloïa part de la ELR, però el mapa no era prou gran, i la ''Waterloo  City Railway'', que no es va incloure en la integració. Des de llavors el nom ''the Underground'' apareix a les estacionsref name=tfl.gov.uk{{cite web|url=http://www.tfl.gov.uk/assets/downloads/corporate/london-underground-fact-sheet.pdf|format=PDF|title=Dades clau del metro de Londres {{en}}|publisher=Transport for London|accessdate=2008-09-13|archiveurl=http://www.webarchive.org.uk/wayback/archive/20091201113200/http://www.tfl.gov.uk/assets/downloads/corporate/london-underground-fact-sheet.pdf|archivedate=2009-12-01}}/ref i es van introduir màquines per als bitllets. El [[1913]] va ser quan va aparéixer el famós logotip en forma de cercle i una barra hortizontal del metro de Londres, conegut com a the roundelref[http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/history/1606.aspx Història del metro de Londres {{en}}]/ref dissenyat per [[Edward Johnston]].ref name=tfl.gov.uk/
+
+L'[[1 de gener]] de [[1913]] UERL, la companyia de [[Charles Yerkes]], va absorbir dos companyies independents, la CSLR i la Central London Railway. A mesura que the Combine s'anava estenent, només la companyia Metropolitan es quedava fora del procés d'integració, ja que tenia l'ambició de ser considerada una línia principal de ferrocarril. Hi va haver diferents propostes per a fusionar les dues companyies però la Metropolitan ho va rebutjar. Aquell mateix any la Metropolitan reafirmava la seva independència comprant Great Northern and City Railway. Metropolitan va retenir la seva imatge independent fins al [[1933]], quan es va crear [[London Passenger Transport Board]].
+
+Metropolitan també va intentar electrificar les seves línies. District i Metropolitan acordaren utilitzar sistemes de baix voltatge per a l'[[Inner Circle Line]], compost per dos carrils elèctrics el [[1901]]. Al principi van començar a circular trens elèctrics pel tram d'Uxbridge i el [[1906]] fins a Wembley Park. El tram de Hammersmith  City també es va reconvertir al sistema elèctric l'any [[1906]]. El [[1913]] l'electrificació de les línies de ELR continuava. Més tard, segons la llei de ferrocarrils de 1921 (Railways Act 1921) es va fusionar tot l'efectiu lligat a línies de ferrocarrils en quatre empreses (per tant, esborrant el consorci que havia construït la ELR) i la Metropolitan va acordar executar la circulació de serveis de passatgers a la línia.
+
+La perllongació de [[Bakerloo Line]] es va completar el [[1915]], i el servei es va tornar a estendre fins a Watford Junction via [[London and North Western Railway]] el 1917. L'extensió de [[Central Line]] es va posposar per la guerra civil.
+
+Durant la [[dècada de 1920]] es va integrar CCEHR i CSLR, esdevenint la [[Northern Line]]. La integració va necessitar que entre el 1922 i 1924 es tanquessin temporalment alguns trams.
+
+=== La primera corporació ===
+El [[1933]], Combine, Metropolitan i la resta de línies d'autobús i tramvia independents es van fondre en [[London Passenger Transport Board]] (LPTB), una corporació pública autofinançada que es va constituir l'1 de juliol de 1933. La LPTB aviat seria anomenada col·loquialment com London Transport (LT).
+
+Poc després de la seva creació, London Transport va començar el procés d'integrar les línies de metro en una única xarxa. Totes les línies que havien estat separades fins llavors se'ls hi van donar noms nous. Harry Beck va dissenyar el nou [[tube map|mapa del metro]] on apareixia [[District Line]], [[Bakerloo Line]], [[Piccadilly Line]], [[Northern Line|Edgware, Highgate and Morden Line]], [[Metropolitan Line]], [[Northern City Line|Great Northern  City Line]], [[East London Line]] i [[Central Line|Central London Line]]. Considerat com un disseny clàssic, actualment encara s'utilitza una versió actualitzada d'aquest mapa. [[Waterloo  City Line]] no fou inclosa al mapa, ja que encara pertanyia a una companyia de ferrocarril que tenia en propietat línies principals ([[Southern Railway (Great Britain)|Southern Railway]]).
+
+LT va anunciar un pla per l'ampliació i modernització de la xarxa sota el nom de [[New Works Programme]], que havia seguit l'anunci de propostes de millora per a la Metropolitan Line. Aquest pla consistia a ampliar algunes línies, fer-se càrrec de les operacions d'altres des de línies de ferrocarril principals i l'electrificació de tota la xarxa. Durant la [[dècada de 1930]] i de [[dècada de 1940|1940]], alguns trams de línies principals de ferrocarril es van convertir en línies de metro. 
+
+LT va optar per abandonar les rutes que comportaven una important pèrdua financera. Poc després que LPTB comencés a operar, els seveis cap a Verney Junction i Brill a la Metropolitan Railway es van parar. La reanomenada [[Metropolitan Line]] va traslladar la seva estació terminal a Aylesbury.
+[[Fitxer:Blitz West End Air Shelter.jpg|thumb|Persones refugiades al metro durant un bombardeig del blitz]]
+L'arribada de la [[Segona Guerra Mundial]] va retardar tots els plans d'expansió. Des de mitjans de la [[dècada de 1940]] els bombardejos de [[Blitz]] van conduir a la utilització de les estacions del metro com a refugis aeris. Les autoritats inicialment van intentar evitar que les estacions s'utilitzessin com a refugis, però més tard van subministrar lliteres, latrines i serveis d'alimentació. Més tard es van arribar a construir vuit regufis a gran profunditat sota algunes estacions per a ser utilitzats com a refugis (cada nivell podia soportar fins a 8.000 persones) i ser reconvertits en noves línies paral·leles després de la guerra. Algunes d'aquestes estacions es van convertir en les oficines del govern. Alguns exemples són [[estació de Down Street|Down Street]], que es va utilitzar com a seu del Railway Executive Committee (comitè executiu de ferrocarril) i per a reunions del Gabinet de Guerra abans que es finalitzessin les obres del [[Churchill Museum and Cabinet War Rooms|Cabinet War Rooms]];ref{{ref-llibre |cognom=Conner|nom=J.E.|títol=Estacions del metro en desús|any=1999|editorial=Capital Transport|capítol=Down Street|pàgines=33|isbn=185414-250-X}}/ref [[estació de Brompton Road|Brompton Road]], utilitzada com a centre de control d'anti-bombardejos i que actualment l'utilitza la universitat naval, London's University Royal Naval Unit (URNU), i aèria, University London Air Squadron (ULAS).
+
+Després de la guerra, en un dels últims actes de la LPTB, es va donar el vistiplau per a la realització dels perllongaments que s'havien posposat de la [[Central Line]]. Les extensions cap a West Ruislip es van completar el 1948 i cap a Epping el 1949.
+
+=== Nacionalització ===
+[[Fitxer:TubeStationWithTrain.jpg|thumb|left|Tren 1995 Stock a l'estació de Mornington Crescent de la [[Northern Line]].]]
+L'[[1 de gener]] de [[1948]], London Transport fou nacionalitzada pel govern [[Partit Laborista (Regne Unit)|Laborista]] i es va incorporar a la [[British Transport Commission]] (BTC) juntament amb altres línies de ferrocarril. LPTB fou reemplaçada per London Transport Executive (LTE) i això va comportar que per primer cop a la història el metro de Londres esigués en mans del [[govern del Regne Unit|govern]].
+
+La nacionalització es va produir tant per necessitat com per ideologia. Les línies de ferrocarril es van veure ofegades per una economia de guerra durant la [[Primera Guerra Mundial]] i a finals de la [[Segona Guerra Mundial]] quatre companyies estaven a prop de la fallida. Per això la nacionalització va ser la forma més senzilla de salvar els ferrocarrils a curt termini i proporcionar diners per arreglar els danys ocasionats per la guerra. La prioritat de BTC fou la reconstrucció de les principals línies de ferrocarrils per davant del manteniment de la xarxa de metro. L'inacabat pla de reforma, anomenat [[New Works Programme]], fou posposat.
+
+La British Transport Commission va autoritzar l'acabament de l'electrificació de la xarxa per reemplaçar les locomotores que encara hi havia en algunes parts del sistema. Finalment les locomotores van desaparèixer completament del metro el [[1961]].ref[http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/history/1606.aspx Transport for London,] Milestones dades clau. {{en}}/ref
+
+El [[1963]] es va reemplaçar la [[London Transport Executive]] per [[London Transport Board]].
+
+=== Control de la GLC ===
+Després de [[London Transport Board]], l'1 de gener de [[1970]] [[Greater London Council]] (GLC) prenia el control del transport de Londres. Aquest període és el de major controvèrsia en la història del transport a Londres, caracteritzat per l'escassedat de personal i baixos fons. El [[1980]] el [[Partit Laborista (Regne Unit)|partit Laborista]] dirigint GLC, va començar el projecte Fares Fair, que va augmentar les taxes locals per tal de reduir els preus dels bitllets. La campanya va ser un èxit i l'ús del metro va augmentar significativament. Però això va causar grans crítiques per part del districte de [[Bromley (districte)|Bromley]], ja que aquesta àrea no disposava d'estacions de metro. El consell de Bromley va portar GLC a la justícia britànica basant-se en què aquesta política era il·legal segons la interpretació que feien de la llei Transport (London) Act 1969. Finalment es va dictaminar que la llei estipula que ha de planificar el transport de Londres, en la mesura del possible, fins al punt de l'equilibri. En línia amb aquesta sentència les Fares Fair van ser revertides i es van augmentar les tarifes un 100% el [[1982]], provocant una disminució del nombre de passatgers. L'escàndol va acabar amb la finalització del control de GLC el [[1986]].
+
+Tot i això en aquest període es va produir la primera gran inversió després de la guerra amb l'obertura de la línia [[Victoria Line|Victoria]], construïda en diagonal des del nord-est cap al sud-oest incorporant senyalització de control centralitzada i trens amb conducció automàtica. La línia es va obrir en trams entre [[1968]] i [[1971]]. [[Piccadilly Line]] es va estendre fins a l'[[estació de Heathrow Terminals 1, 2, 3|aeroport de Heathrow]] el [[1977]], i la [[Jubilee Line]] es va obrir el 1979 amb una part de la línia de [[Bakerloo Line|Bakerloo]]. A més a més es va introduir el bitllet per zones, llegat del projecte de Fares Fair, que actualment segueix en ús.
+
+=== London Regional Transport ===
+El [[1984]] el govern [[Partit Conservador (Regne Unit)|Conservador]] de [[Margaret Thatcher]] va eliminar GLC del control del transport de Londres i fou substituït per [[London Regional Transport]] (LRT). La Secretaria d'Estat de Transport era la responsable directa de la nova corporació, LRT. El Govern va planificar millores en el sistema i com a part d'aquesta estratègia London Underground Limited es va constituir l'[[1 d'abril]] de [[1985]] com a subsidiària de LRT per al funcionament de la xarxa de metro.
+
+La reducció de costos no va estar exempta de crítiques. El 18 de novembre de 1987 un incendi va escombrar l'estació de King's Cross, la de més ocupació de la xarxa, que va acabar amb la mort de 31 persones. Més tard es va saber que l'incendi s'havia iniciat en una escala mecànica amb passos i costats de fusta, i tot i que no es podia fumar al metro a causa d'un altre incendi a Oxford Circus, el foc va ser probablement causat per un llumí encés que va caure pel costat de les escales mecàniques.refFennell 1988, pàg. 111/ref La pista de circulació no s'havia netejat i s'hi havia acumulat greixos i fibres deteriorades. [[Frank Dobson]], membre del Parlament, va informar a la [[Cambra dels Comuns del Regne Unit|Cambra dels Comuns]] que el nombre de treballadors en una estació que hi passaven fins a 200.000 passatgers cada dia s'havien retallat de 16 a 10 i els treballadors de neteja de 14 a 2.ref[http://www.time.com/time/magazine/article/0,9171,966071-2,00.html Time,] De les escales a l'infern {{en}}/ref L'esdeveniment va acabar amb la retirada de les escales de fusta.
+
+El 1994 amb la privatització de [[British Rail]], LRT va prendre el control de [[Waterloo  City Line]], incorporant-se a la xarxa per primer cop. Aquest mateix any es van finalitzar els serveis poc utilitzats del tram Epping Ongar de la línia [[Central Line|Central]] i Aldwych de [[Piccadilly Line|Piccadilly]].
+
+El 1999 el perllongament de [[Jubilee Line|Jubilee]] a Stratford es va completar. El projecte també incloïa l'obertura d'una estació enllaç a [[estació de Westminster|Westminster]].
+
+=== Societat pública i privada ===
+[[Transport for London]] (TfL) va reemplaçar el [[2000]] a LRT (fent-se així propietaria de LUL, London Underground Limited), desenvolupament que coincideix amb l'elecció de l'[[alcalde de Londres]] i de l'[[Assemblea del Gran Londres]]. 
+
+El gener de [[2003]] el metro de Londres va començar a operar com una societat público-privada, però el manteniment de la infraestructura i el material rodant se n'ocupen dues empreses privades, Metronet i Tube Lines, amb un contracte de 30 anys mentre TfL sigui la propietaria i l'operadora de LUL.
+
+Hi va haver molta controvèrsia sobre l'aplicació de la societat público-privada (PPP). Els partidaris d'aquest canvi afirmen que el sector privat elimina la ineficiència de les empreses del sector públic i assumeix els riscs associats amb el funcionament de la xarxa, mentre que els opositors creuen que la necessitat de fer beneficis redueix la inversió i els serveis públics al metro.
+
+Des de llavors que existeix la crítica sobre l'actuació de les empreses privades. Per exemple [[The Londoner]], un butlletí publicat per l'[[Autoritat del Gran Londres]], publicava en una edició del gener de 2007 els errors de l'empresa Metronet sota el títol Metronet culpable de errors inexcusables.ref
+{{cite news | title =Metronet culpable de errors inexcusables {{en}} | publisher = [[The Londoner]] | date =January 2007 | url =http://www.london.gov.uk/londoner/07jan/p3b.jsp?nav=around | accessdate =2007-01-10}}/ref
+
+Metronet es va declarar insolvent el 18 de juliol de 2007ref{{cite news | title =La fallida de Metronet {{en}} | publisher = [[BBC News]] | date =2007-07-18 | url =http://news.bbc.co.uk/1/hi/business/6903977.stm | accessdate =2007-08-21 }}/refref{{cite web|url=http://www.metronetrail.com/default.asp?sID=1184745625515|title=Administració de la PPP {{en}}|publisher=Metronet Rail|accessdate=2008-06-05}}/ref i TfL ha assumit els compromisos pendents de Metronet.
+
+El [[Govern del Regne Unit]] ha fet esforços per trobar una altra empresa privada per omplir el buit deixat per la liquidació de Metronet. Fins ara TfL ha estat l'única que ha posat interés a fer-se càrrec de les responsabilitats de Metronet. Tot i que Tube Lines sembla una empresa estable, s'ha posat en dubte la supervivència de la PPP, ja que el cas de la desaparició de Metronet ha costat al govern 2 mil milions de [[lliures esterlines]]. Les cinc empreses privades que formen Metronet han hagut de pagar 70 milions de lliures cada una per pagar els deutes del consorci, però el contribuent ha de pagar la resta de la factura.ref{{cite journal|month=April | year=2008|journal=Railway Magazine}}, at pàg.6/ref
+
+== Transport for London ==
+[[Transport for London]] (TfL) es va crear l'any [[2000]] com un organisme responsable d'integrar el sistema de transport de Londres. Va substituir [[London Regional Transport]] però no fou fins al juliol de 2003 que assumí el control de London Underground Limited.ref {{Cite web | url = tub http://www.london.gov.uk/help/faq.jsp # | title = PMF {{en}} | editor = Major Autoritat Londres | accessdate = 2008-07-11}}/ref
+
+TfL forma part de l'[[Autoritat del Gran Londres]], govern del [[Gran Londres]], i es constitueix com una empresa pública regulada per normes de les finances públiques locals.ref{{cite web|url=http://www.tfl.gov.uk/corporate/about-tfl/4510.aspx|title=Informació de la companyia TfL {{en}}|publisher=Transport for London|accessdate=2008-07-11}}/ref Té tres subsidiàries: London Transport Insurance (Guernsey) Ltd., TfL Pension Fund Trustee Co. Ltd. i Transport Trading Ltd (TTL). TTL té sis filials en propietat, una de les quals és metro de Londres (LUL).ref[http://web.archive.org/web/20070729054708/www.tfl.gov.uk/corporate/about-tfl/boardandchiefofficers/1452.aspx Filials de TfL {{en}}]/ref
+
+La junta de TfL és nomenada per l'[[alcalde de Londres|Alcaldia de Londres]]. L'alcalde també estableix l'estructura i el nivell de les tarifes del transport públic a Londres. Tot i que el dia a dia de la corporació es deixa en mans del Comissari de Transport for London. L'actual comissionari és [[Peter Hendy]].ref{{cite web|url=http://www.tfl.gov.uk/corporate/about-tfl/1434.aspx|title=Cap de Taula {{en}}|publisher=Transport for London|accessdate=2008-09-13}}/ref
+
+L'alcaldia és responsable de proporcionar una estratègia integrada de transport per al [[Gran Londres]] i ha de consultar a [[Autoritat del Gran Londres|GLA]], TfL, els consells locals i altres en l'estratègia. GLA, per exemple, inspecciona i aprova el pressupost de l'alcaldia. A més GLA pot convocar l'Alcalde i alts funcionaris per donar comptes de TfL. London TravelWatch, és un òrgan nomenat per l'[[Assemblea de Londres|Assemblea]] i presenta informe de les queixes sobre el transport.ref{{cite web|url=http://www.london.gov.uk/gla/transport.jsp|title=Transport {{en}}|publisher=Greater London Authority|accessdate=2008-07-11|archiveurl=http://www.webarchive.org.uk/wayback/archive/20100107034020/http://www.london.gov.uk/gla/transport.jsp|archivedate=2010-01-07}}/ref
+
+== Infraestructura ==
+=== Estacions i línies ===
+{{vegeu lliure|Per a un inventari complet de les estacions, vegeu la '''[[Llista d'estacions del metro de Londres]]'''}}
+Les 11 línies del metro de Londres són: [[Bakerloo Line]], [[Central Line]], [[Circle Line]], [[District Line]], [[Hammersmith  City Line]], [[Jubilee Line]], [[Metropolitan Line]], [[Northern Line]], [[Piccadilly Line]], [[Victoria Line]] i [[Waterloo  City Line]]. Fins al [[2007]] hi havia una dotzena línia, la [[East London Line]], que es va tancar per transferir-la a [[London Overground]]. Actualment aquesta està en obres i està previst que es reobri el [[2010]].
+
+{| class=sortable wikitable style=margin: 0 auto; text-align:center;
+|+ style=margin:inherit; text-align:center; padding-bottom:0.25em|'''Línies del metro de Londres'''
+! Nom
+! Color
+! Primerbr /servei
+! Primera seccióbr /en servei *
+! El nom databr /de
+! Tipus
+! Longitudbr //km
+! Longitudbr //milles
+! Estacions
+! Viatges br /anuals (000s)
+! Nre. mitjà de viatges br /per mil (000s)
+|-
+| style=text-align:left;|[[Bakerloo Line]]
+| style=background:#{{TfL color|Bakerloo}}; color:white;|Marró
+| 1906
+| 1906
+| 1906
+| Profunda
+| 23.2
+| 14.5
+| 25
+| 95,947
+| 6,617
+|-
+| style=text-align:left;|[[Central Line]]
+| style=background:#{{TfL color|Central}}; color:white;|Vermell
+| 1900
+| 1856
+| 1900
+| Profunda
+| 74
+| 46
+| 49
+| 183,582
+| 3,990
+|-
+| style=text-align:left;|[[Circle Line]]
+| style=background:#{{TfL color|Circle}};|Groc
+| 1884
+| 1863
+| 1949
+| Superficial
+| 22.5
+| 14
+| 27
+| 68,485
+| 4,892
+|-
+| style=text-align:left;|[[District Line]]
+| style=background:#{{TfL color|District}}; color:white;|Verd
+| 1868
+| 1858
+| 1868-1905
+| Superficial
+| 64
+| 40
+| 60
+| 172,879
+| 4,322
+|-
+| style=text-align:left;|[[Hammersmith  City Line]]
+| style=background:#{{TfL color|Hammersmith  City}};|Rosa
+| 1863
+| 1858
+| 1988
+| Superficial
+| 26.5
+| 16.5
+| 28
+| 45,845
+| 2,778
+|-
+| style=text-align:left;|[[Jubilee Line]]
+| style=background:#{{TfL color|Jubilee}}; color:white;|Gris
+| 1979
+| 1879 !-- THIS IS NOT A TYPO. Please stop 'fixing' it. See talk. --
+| 1979
+| Profunda
+| 36.2
+| 22.5
+| 27
+| 127,584
+| 5,670
+|-
+| style=text-align:left;|[[Metropolitan Line]]
+| style=background:#{{TfL color|Metropolitan}}; color:white;|Magenta
+| 1863
+| 1863
+| 1863
+| Superficial
+| 66.7
+| 41.5
+| 34
+| 53,697
+| 1,294
+|-
+| style=text-align:left;|[[Northern Line]]
+| style=background:#{{TfL color|Northern}}; color:white;|Negre
+| 1890
+| 1867
+| 1937
+| Profunda
+| 58
+| 36
+| 50
+| 206,987
+| 5,743
+|-
+| style=text-align:left;|[[Piccadilly Line]]
+| style=background:#{{TfL color|Piccadilly}}; color:white;|Blau fosc
+| 1906
+| 1869
+| 1906
+| Profunda
+| 71
+| 44.3
+| 52
+| 176,177
+| 3,977
+|-
+| style=text-align:left;|[[Victoria Line]]
+| style=background:#{{TfL color|Victoria}}; color:white;|Blau clar
+| 1968
+| 1968
+| 1968
+| Profunda
+| 21
+| 13.25
+| 16
+| 161,319
+| 12,175
+|-
+| style=text-align:left;|[[Waterloo  City Line]]
+| style=background:#{{TfL color|Waterloo  City}}; color:black;|Xarxet
+| 1898
+| 1898
+| 1898 
+| Profunda
+| 2.5
+| 1.5
+| 2
+| 9,616
+| 6,410
+|-class=sortbottom
+|colspan=11 style=text-align:left; | {{mida|1=''* Si l'any és anterior al de l'any del Primer servei, això indica que la línia abans operava en una altra línia de metro o per una altra operadora''}}.
+|}
+
+El metro serveix a 268 [[llista d'estacions del metro de Londres|estacions]] i actualment n'hi ha sis addicionals de la East London line, que està tancada i el recorregut s'efectua en autobús. Catorze estacions de metro estan fora de Londres, de les quals cinc (Amersham, Chalfont  Latimer, Chesham, Chorleywood i Epping) estan a tocar de l'autopista orbital M25. Dels 32 districtes de Londres, sis no tenen cap estació de metro ([[Bexley (districte)|Bexley]], [[Bromley (districte)|Bromley]], [[Croydon (districte)|Croydon]], [[Kingston upon Thames (districte)|Kingston]], [[Lewisham (districte)|Lewisham]] i [[Sutton (districte)|Sutton]]), i un setè districte, el de [[Hackney]], que té dues estacions als límits del districte (Old Street i Manor House).
+
+[[Fitxer:London Underground Zone 1.svg|center|600px|thumb|Zona 1 (zona central) del Metro i [[Docklands Light Railway]].]]
+
+[[Fitxer:London Underground subsurface and tube trains.jpg|thumb|Hi ha dues mides de trens, els més llargs i els ''tube trains''.]]
+
+Les línies del metro de Londres es classifiquen en dos tipus: ''subsurface'' i ''deep-level''. Les línies subsurface són línies que es van construir a poca profunditat, a uns 5 metres, ja que es va utilitzar el mètode de construcció cut-and-cover, és a dir que van ser excavades a l'aire lliure i després soterrades construint un fals túnel. Les línies ''deep-level'', també anomenades Tube lines (en [[català]] ''línies tub''), són línies que es troben a una profunditat d'uns 20 metres o més i que foren construïdes mitjançant el mètode de túnel escut i on cada via té el seu propi túnel. Les línies ''deep-level'' tenen un diàmetre molt petit, uns 3'56 metres, i per tant un gàlib menor que la resta de línies. Ambdós tipus de línies normalment surten a la superfície a mesura que s'allunyen de l'àrea central.
+
+Mentre que les línies tub són independents, les línies subsurface formen una xarxa interconnectada, és a dir que cada línia comparteix vies com a mínim amb dues línies.
+
+=== Material rodant ===
+[[Fitxer:Stratford Depot 27.JPG|thumb|Trens del 1996 a les cotxeres de Stratford Market]]
+El metro utilitza material rodant construït entre el [[1960]] i el [[2005]]. Els trens de les línies subsurface s'identifiquen amb una lletra ([[A62 Stock (Metro de Londres)|A Stock]] de la [[Metropolitan Line|Metropolitan]]), mentre que a les línies deep-level s'utilitza l'any en què foren dissenyats ([[1996 Stock (Metro de Londres)|1996 Stock]] de la [[Jubilee Line|Jubilee]]). Totes les línies treballen amb un sol tipus de trens menys [[District Line]] que utilitza [[C69 Stock (Metro de Londres)|C Stock]] i [[D78 Stock (Metro de Londres)|D Stock]]. Actualment hi ha dos tipus de trens que s'estan desenvolupant, un [[2009 Stock (Metro de Londres)|2009 Stock]] per a la línia [[Victoria Line|Victoria]] i [[S Stock (Metro de Londres)|S stock]] per a les línies subsurface, de les quals la [[Metropolitan Line]] serà la primera a substituir els seus trens A Stock. El metro de Londres és un dels pocs que utilitza un sistema amb quatre rails.
+
+=== Temperatura ===
+A l'estiu les temperatures en algunes part del metro de Londres poden arribar a ser molt desagradables a causa de la poca ventilació que hi ha als túnels. Temperatures que van arribar als 47° durant l'onada de calor del [[2006]].ref[http://news.bbc.co.uk/1/hi/england/london/5191604.stm BBC news,] Baking hot at Baker Street {{en}}/ref Alguns cartells publicitaris es van poder veure a la xarxa del metro aconsellant als passatgers que portessin ampolles d'aigua per refrescar-se.ref[http://www.flickr.com/photos/anniemole/166070278/ Cartells de TfL {{en}}]/ref
+
+=== Millores i expansió ===
+[[Fitxer:Piccadilly T5 Extension.JPG|thumb|Diagrama a l'estació de Ealing Common del tram a [[Aeroport de Heathrow|Heathrow]]]]
+Hi ha moltes millores previstes per al metro de Londres. Es va obrir una nova estació a la línia [[Piccadilly Line|Piccadilly]] a la terminal 5 de [[Aeroport de Heathrow|Heathrow]] el [[27 de març]] de [[2008]], sent la primera expansió del metro des de [[1999]].ref{{cite news|url=http://www.tfl.gov.uk/corporate/media/newscentre/archive/5507.aspx|title=Primers trens a la terminal 5 de Heathrow {{en}}|date=2007-07-18|publisher=Transport for London|accessdate=2008-07-11|archiveurl=http://www.webarchive.org.uk/wayback/archive/20100129155048/http://www.tfl.gov.uk/corporate/media/newscentre/archive/5507.aspx|archivedate=2010-01-29}}/ref A totes les línies s'hi fan obres per millorar la capacitat i fiabilitat, amb nova senyalització computoritzada, operacions automàtiques als trens (ATO), renovació de vies i estacions, i on sigui necessari canvi de material rodant. Entre el 2006 i 2007 va tenir lloc un programa pilot de refrigeració d'aigua subterrània a [[estació de Victoria (Londres)|Victoria]] per determinar si un sistema d'aquest tipus seria viable i eficaç per un ús generalitzat.ref{{cite web | title =Xarxa SSL {{en}}| publisher =alwaystouchout.com | date =2006-12-07 | url =http://www.alwaystouchout.com/project/39 | accessdate = 2007-01-10 }}/ref També es fan proves de cobertura de [[telefonia mòbil]] a la línia [[Waterloo  City Line|Waterloo  City]]ref{{cite web | title=Prova de telefonia mòbil a Waterloo  City {{en}}| publisher =Transport for London | date = 2007-03-15 | url=http://www.tfl.gov.uk/corporate/media/newscentre/archive/4577.aspx | accessdate =2008-07-11 |archiveurl=http://www.webarchive.org.uk/wayback/archive/20100129154832/http://www.tfl.gov.uk/corporate/media/newscentre/archive/4577.aspx|archivedate=2010-01-29}} /ref per veure si la cobertura es pot estendre a la resta de la xarxa. Tot i que no forma part del metro, la xarxa [[Crossrail]] preveu una nova ruta al centre de Londres integrada a la xarxa del metro.
+
+La construcció de la línia [[Chelsea-Hackney Line]] fa temps que va ser proposada, i podria entrar en servei l'any [[2025]]. Podria formar part de la xarxa del metro, cosa que significaria una nova línia des del nord-est cap al sud de Londres i que proporcionaria bastants intercanvis amb altres línies i alleujeraria el gruix de passatgers. Tot i això encara està en el tauler de dibuix, quan la primera proposta data de l'any [[1901]]. El 2007 la línia va passar per Cross London Rail Ltd, actual desenvolupador de Crossrail. Per tant la línia podria ser part de la xarxa de metro o de [[National Rail]], havent-hi avantatges i desavantatges per ambdós.
+
+La proposta de l'enllaç de [[Croxley Rail Link|Croxley Rail]] preveu el desviament del tram de Watford de línia [[Metropolitan Line|Metropolitan]] al llarg d'una via fèrria en desús. El projecte espera el finançament del consell de [[Hertfordshire]] i del departament de transport.ref name=TFLcroxley{{cite web 
+|url=http://www.tfl.gov.uk/corporate/projectsandschemes/networkandservices/2053.aspx |title=Enllaç de Croxley Rail {{en}} |publisher=Transport for London|accessdate=2008-07-24}}/ref
+
+L'[[Alcalde de Londres]], [[Boris Johnson]], va suggerir que s'està pensant en un perllongament de la línia [[Bakerloo Line|Bakerloo]] cap a [[Lewisham (districte)|Lewisham]] per la falta de metro al sud de Londres.ref name=Regen.net{{cite web |url=http://www.regen.net/news/login/884153/ |title=Johnson considera el perllongament de Bakerloo {{en}} |publisher=Transport for London|accessdate=2009-02-02}}/ref
+
+== Viatjar ==
+=== Bitllets ===
+Les tarifes del metro es calculen mitjançant les zones [[Travelcard]] de [[Transport for London|TfL]]. El [[Gran Londres]] està dividit en 6 zones: la [[Travelcard Zone 1|Zona 1]] és la més central, amb un límit més enllà dels límits de la [[Circle Line|línia circular]], i la [[Travelcard Zone 6|Zona 6]] és la més exterior i inclou l'[[Aeroport de Heathrow]]. Les línies de la [[Metropolitan Line]] que transcorren per fora del [[Gran Londres]] es troben a les [[Travelcard Zones 7-9|Zones 7-9]].ref{{cite news| title = Zonificació {{en}} | publisher = [[Watford|Watford Observer]] | url =http://www.watfordobserver.co.uk/news/1855280.numbered_zones_for_stations/ | accessdate =2008-07-11 }}/ref
+
+Els bitllets de les [[Travelcard Zones 7-9|Zones 7-9]] també serveixen per a la línia [[Euston-Watford Junction Line|Euston-Watford Junction]] (part de [[London Overground]]) fins a Watford High Street. Watford Junction queda fora d'aquestes zones i s'hi aplica una tarifa especial.
+
+Hi ha personal a les taquilles, algunes d'elles obren durant períodes limitats, però també hi ha màquines automàtiques que es poden utilitzar en qualsevol moment. Algunes d'aquestes venen una gamma limitada de bitllets i només accepten monedes, mentre que d'altres que disposen de pantalla tàctil accepten monedes i tarjetes de [[targeta de crèdit|crèdit]] o de dèbit. 
+
+Recentment [[Transport for London]] ha introduït la [[Oyster card]], una targeta intel·ligent amb un xip sense contacte [[RFID]] incrustat. Els viatgers poden obtenir aquesta targeta amb càrrec a crèdit per pagar els viatges. Els bitllets Travelcard poden ser utilitzats al metro, autobusos, tramvies i [[Docklands Light Railway]]. Però utilitzar l'Oyster és una opció més barata que la compra de bitllets a taquilla o les Travelcard i LUL, implementant diferències de preu significatives, i anima als passatgers a utilitzar-la en lloc de fer ús de les Travelcard i dels diners en efectiu (als autobusos). L'Oyster també es pot utilitzar als ferrocarrils de [[National Rail]] a [[Londres]]. Pay as you go (Oyster) es troba disponible en un limitat, però creixent, [[Oyster card (pay as you go) a National Rail|nombre de rutes]] de NR.ref{{cite web | title =L'ajuda d'Oyster {{en}} | publisher =Transport for London | url =http://transportforlondon.custhelp.com/cgi-bin/transportforlondon.cfg/php/enduser/std_adp.php?p_sid=p_lva=p_li=p_faqid=%2011 | accessdate =2008-07-11 }}/refref{{cite news | title =El secretari de transport i l'Alcalde de Londres anuncien la nova Oyster {{en}} | publisher = Transport for London | date =2006-05-10 | url =http://www.tfl.gov.uk/corporate/media/newscentre/archive/3597.aspx | accessdate =2008-07-11 }}/ref
+
+Per als turistes i no residents que no hagin de viatjar en l'hora punta del matí la millor opció és la compra del bitllet de Travelcard per a tot el dia. Aquest costa [[lliures esterlines|£]] 5.50 i permet un nombre il·limitat de viatges a la xarxa des de 9:30 am i durant la resta del dia. Tot i això per alguns viatgers serà més avantatjós comprar una targeta pay as you go Oyster.ref[http://www.moneysavinglondon.com/Travel-in-London/cheapest-ways-to-get-around-london.html Money saving London,] les maneres barates d'accedir al metro {{en}}/ref
+
+==== Penalitzacions i evasió de tarifes ====
+A més del personal de les taquilles, el metro és patrullat per inspectors uniformats i de paisà amb lectors. Els passatgers que viatgin sense un bitllet vàlid estaran obligats a pagar [[lliures esterlines|£]] 50, o menys si paguen abans de 21 dies. No pagar la multa pot comportar, segons la llei de regulació de ferrocarrils Regulation of Railways Act 1889, haver de pagar una segona multa de fins a [[lliures esterlines|£]] 1.000 o tres mesos d'empresonament.
+
+[[Fitxer:London Bridge Jubilee Platforms.JPG|right|thumb|Andanes de [[Jubilee Line]]]]
+
+=== Retards ===
+Segons les estadístiques obtingudes per Freedom of Information Act, la mitjana del viatgers de mobilitat pendular (gent que viatga diàriament de la feina a casa) a la [[Metropolitan Line|Metropolitan]] haurien perdut tres dies, 10 hores i 25 minuts durant el [[2006]] a causa dels retards.ref{{cite news | last =Stephens | first =Alex | title = El metro et fa perdre tres dies de la teva vida {{en}} | publisher =The Harrow Observer | date =2006-12-06 | url =http://www.harrowobserver.co.uk/west-london-news/tm_headline=tube-wastes-three-days-a-year-of-your-lifemethod=fullobjectid=18244569siteid=53431-name_page.html | accessdate = 2008-07-11 }}/ref Entre el 17 de setembre del 2006 i el 14 d'octubre del 2006, 211 trens van tenir demores de més de 15 minuts.ref name=performance
+{{cite web | title= Rendiment del metro de Londres {{en}} | publisher = Transport for London | url=http://www.tfl.gov.uk/tfl/corporate/modesoftransport/tube/performance/ | accessdate =2008-07-11 }}/ref Els passatgers tenen el dret a reemborsar el preu del bitllet si el viatge es retarda més de 15 minuts per circumstàncies sota el control de [[Transport for London]].ref{{cite web | title = Restitucions als clients {{en}} | publisher =Transport for London | url =http://www.tfl.gov.uk/tfl/tickets/refunds/tuberefund/ | accessdate = 2008-07-11}}/ref
+
+=== Temps de funcionament ===
+El Metro no funciona les 24 hores del dia, excepte Any nou i altres esdeveniments importants, perquè la majoria de línies només tenen dues vies i necessiten que es faci el manteniment necessari. Els primers trens comencen a circular aproximadament a les 4:45, i alguns trajectes més curts, que no circulen per tota la línia comencen a les 5:30 i acaben a la 1:00.
+
+=== Accessibilitat ===
+[[Fitxer:Westminster underground.jpg|thumb|Estació de [[estació de Westminster|Westminster]].]]
+L'accessibilitat de les persones amb problemes de mobilitat (PMR) no es va considerar quan el sistema va ser construït i la majoria d'estacions no són accessibles a tothom. Les estacions construïdes recentment s'han dissenyat per ser accessibles, però la readaptació a les característiques d'accessibilitat a estacions antigues es fa difícil pels costos i tècniques. Tot i que en algunes estacions hi ha escales mecàniques i ascensors, a vegades hi ha algun esglaó en algun punt del recorregut.
+
+La majoria d'estacions que es troben a la superfície tenen alguna escala o esglaons entre el replà de l'estació i el nivell del carrer, i la majoria d'estacions sota terra requereixen l'ús d'escales o d'algunes de les 410 escales mecàniques del sistema. A l'estació de Covent Garden les escales d'emergència tenen 193 esglaons, equivalent a un edifici de 15 pisos,ref{{cite web | title = El viatge més curt al metro {{en}} | work = The Big Smoke | publisher = [[Time Out]] | date = 2007-04-17 | url = http://www.timeout.com/london/features/2816.html | accessdate = 2008-06-05 }}/ref i s'aconsella als passatgers que utilitzin els ascensors.
+
+Les escales mecàniques a les estacions del metro són de les més llargues d'[[Europa]]. L'escala mecànica més llarga es troba a l'estació d'Angel i té una llargada de 60 metres i 27'5 metres de desnivell, que pot arribar a duu fins a 13.000 passatgers per hora. Com a altres sistemes de metro es recomana que aquelles persones que no tenen pressa vagin a la part dreta i permetin el pas per l'esquerra. [[Transport for London]] produeix un mapa que indica les parades accessibles i des del 2004 indica amb un símbol d'una cadira de rodes ([[Fitxer:BSicon lACC.svg|35px|Accessibilitat]]) aquelles estacions que s'hi pot accedir sense utilitzar escales des del carrer.
+
+TfL té planificat que l'any [[2020]] hi haurà una xarxa amb més de 100 estacions completament accessibles, que consistirà d'aquelles recentment construïdes o reconstruïdes i força estacions surburbanes que queden a nivell de carrer. Algunes estacions clau han estat escollides per fer-ne una renovació pel seu alt ús.
+
+=== Saturació ===
+La saturació o sobreocupació al metro és una preocupació des de fa anys i sobretot pels que van cada dia a la feina en hores punta (moviment pendular). Camden Town i Covent Garden són dues estacions que tenen problemes particulars i a certes hores hi ha restriccions d'accés.ref{{cite web | title = Mapa del metro {{en}} |month=May | year=2008|publisher =Transport for London | url =http://www.tfl.gov.uk/assets/downloads/Standard-Tube-map.pdf | accessdate = 2008-07-11|format=PDF}}/ref A les altres estacions les restriccions només es produeixen quan és necessari. Algunes estacions s'han reconstruït o reformat pels problemes de sobreocupació, com per exemple Clapham Common i Clapham North a [[Northern Line]] que tenien una sola andana central força estreta. En algunes ocasions, com partits de futbol, hi ha la presència de policies per prevenir la saturació i els accidents derivats.
+
+Segons un informe de la [[Cambra dels Comuns del Regne Unit|Cambra dels Comuns]],ref{{cite news | title =Commuters encaren un trauma diari {{en}}| publisher = [[BBC News]] | date =2003-10-15 | url =http://news.bbc.co.uk/1/hi/uk/3191562.stm | accessdate = 2007-01-18 }}/ref els anomenats commuters, és a dir aquella gent que fa el moviment pendular per desplaçar-se de casa al lloc de treballar, han de soportar un trauma diari i són forçats a viatjar en condicions intolerables.
+
+=== Seguretat ===
+[[Fitxer:Mind-the-gap.jpg|left|thumb|250px|L'avís ''Mind the gap'' a les andanes del metro de Londres]]
+Els accidents a la xarxa del metro de Londres, que transporta mil milions de passatgers l'any, són poc habituals. Les estadístiques diuen que hi ha un accident mortal per cada 300 milions de viatges.ref[http://www.economist.com/research/backgrounders/displaystory.cfm?story_id=2155915 Primer la seguretat {{en}}] ''[[The Economist]]''./ref Al metro s'hi poden veure alguns consells de seguretat per als passatgers com mind the gap (aneu amb compte amb l'espai entre el tren i l'andana), i que no passin la línia groga pintada al terra de les andanes. Hi ha pocs accidents per saturació a les andanes i en aquests casos el personal vigila les entrades de viatgers quan el metro es veu excessivament saturat.
+
+La majoria de víctimes mortals a la xarxa són provocats per un [[suïcidi]]. La majoria d'andanes d'estacions de línies deep-level tenen forats entre les vies, originàriament construïts pel drenatge de l'aigua però que també ajuden a prevenir morts o lesions greus en caigudes de passatgers.ref{{cite journal | last =Coats | first =T. J. | coauthors =Walter, D. P. | title =Estudi del disseny de les estacions {{en}} | journal = [[British Medical Journal]] | issue =319 | pages =957 | publisher = [[British Medical Association]] | date =1999-10-09 | url =http://bmj.bmjjournals.com/cgi/content/full/319/7215/957 | accessdate = 2008-07-11 | pmid =10514158 }}/ref
+
+== El disseny i l'art ==
+[[Fitxer:Piccadilly Circus Tube Roundel Andh.JPG|thumb|La imatge de London Underground a Piccadilly Circus]]
+El [[Tube map|mapa del metro]] de TfL i el logo rodó són instantàniament reconeguts per qualsevol londinenc, per la majoria de britànics i molta gent del planeta. 
+
+TfL té llicències de venda de roba i altres accessoris, i també la [[marca registrada]] per prendre accions legals contra tot aquell qui copiï la seva marca. Fins i tot l'anunci de mind the gap (aneu amb compte amb l'espai entre vagó i andana) s'ha convertit en un eslògan molt conegut.
+
+=== Mapa ===
+{{principal|Tube map}}
+Els mapes originals eren sovint mapes de carrers o geogràfics amb les línies impreses a sobre, i que, a més de ser visualment complexos, produïen problemes d'espai a les estacions de les zones centrals.
+
+L'estil del mapa modern es basa en el disseny de l'enginyer [[Harry Beck]] del [[1933]].ref{{cite web | last =Beck | first =Harry | authorlink =Harry Beck | title =Mapa del metro | publisher =Transport for London | url =http://www.tfl.gov.uk/assets/images/general/beckmap1.jpg | accessdate = 2008-07-11 }}/ref Està caracteritzat amb un fons esquemàtic no geogràfic i s'utilitza un codi de colors per a cada línia.
+
+El mapa actualment es considera un disseny clàssic i altres sistemes han adoptat mapes similars, fins i tot algunes companyies d'autobús han adoptat el concepte.
+
+=== El logotip ===
+[[Fitxer:LU Leytonstone sign.jpg|thumb|El logotip rodó al metro data de [[1908]].]]
+L'origen del logotip rodó, ara anomenat ''roundel'' i antigament bulls-eye o target (en [[català]], ''ulls de toro'' i ''diana''), és desconegut. El primer ús va ser al [[segle XIX]] com a símbol de [[London General Omnibus Company]] i al metro va arribar el [[1908]] per a col·locar els noms de les estacions a les andanes. El cercle vermell amb una barra blava fou ràpidament adoptat amb la paraula U{{mida|1=NDERGROUN}}D a la barra central, per a crear una identitat.ref{{cite web | title =Història del logotip {{en}} | publisher = [[London Transport Museum]] | url =http://www.ltmcollection.org/roundel/about/detailedhistory.html | accessdate = 2008-11-15}}/ref El [[1919]] el logotip fou modificat per [[Edward Johnston]].
+
+A cada estació s'hi pot trobar, a les entrades i al llarg de les andanes, el cercle amb el seu nom a la barra central. D'aquesta manera els passatgers poden veure fàcilment a l'estació que es troben.
+
+Aquest cercle s'ha utilitzat als autobusos i als metros durant molt de temps i des que [[Transport for London]] té el control de la majoria de transports de Londres s'ha aplicat a altres com [[taxi]]s, [[tramvia|tramvies]] i al Docklands Light Railway. Fins al punt que la rodona ha esdevingut un símbol de [[Londres]].
+
+=== Contribucions a l'art ===
+[[Fitxer:Roundelfamily.jpg|thumb|left|Algunes de les rodones utilitzades.]]
+[[Fitxer:RussellSqTilework.jpg|thumb|left|Tipografia d'[[Edward Johnston]] a Russel Square]]
+El metro actualment contribueix a l'art a través dels projectes Platform for Art i Poems on the Underground (en [[català]], ''Plataforma per l'art'' i ''Poemes al metro''). Hi ha cartelleres per a cartells per crear un ambient positiu i per enriquir el viatge dels passatgers.
+
+El seu llegat artístic inclou la contractació des de la [[dècada de 1920]] de coneguts dissenyadors gràfics, il·lustrados i artistes per a la creació de la publicitat. Els dissenyadors que han creat treballs per al metro incloent per exemple Man Ray, Edward McKnight Kauffer i Fougasse. Durant els darrers anys alguns han estat R. B. Kitaj, Juan Bellany i Howard Hodgkin.
+
+En l'arquitectura, Leslie Green va establir un estilisme similar a les cases per a les façanes de les noves estacions construïdes a les primeres dècades del [[segle XX]] de les línies [[Bakerloo Line|Bakerloo]], [[Piccadilly Line|Piccadilly]] i [[Northern Line|Northern]]. A la [[dècada de 1920]] i [[dècada de 1930|1930]], Charles Holden va dissenyar una sèrie d'estacions modernistes i art-deco per les quals el metro segueix sent famós. El disseny de Holden per a l'edifici seu del metro a [[55 Broadway]] inclou escultures avantguardistes de Jacob Epstein, Eric Gill i [[Henry Moore]]. Misha Black fou l'encarregada del disseny de la [[Victoria Line]], contribuint a l'estil uniforme de la línia,ref{{cite web | title =Black, Sir Misha | publisher =''20th Century London'' | url =http://www.20thcenturylondon.org.uk/server.php?show=conInformationRecord.150 | accessdate = 2008-06-25}}/ref mentre que les estacions de la perllongació de [[Jubilee Line]] foren dissenyades per arquitectes com [[Norman Robert Foster|Norman Foster]], Michael Hopkins, Will Alsop i Ian Ritchie.
+
+Moltes estacions tenen dissenys propis per ajudar a la identificació visual. Sovint són de temàtica local significativa. Com per exemple l'estació de Baker Street, que incorpora repeticions de la silueta de [[Sherlock Holmes]]. A Tottenham Court Road hi ha mosaics semiabstractes d'Eduardo Paolozzi que representa la indústria musical local de Denmark Street. A Charing Cross hi ha murals de la construcció de la pròpia estació, fets per David Gentleman.
+
+=== A la cultura popular ===
+
+El metro de Londres ha aparegut en moltes películ·les i shows de [[televisió]] com per exemple: ''Sliding Doors'', ''Tube Tales'' i ''Neverwhere''. L'oficina de Pel·lícules del metro de Londres reb més de 100 peticions per mes. El metro també ha mostrat la seva part muscial a ''Down in the Tube Station at Midnight'' i literaria a ''V de Vendetta''. Les llegendes urbanes encara són presents avui en dia.ref[http://www.bbc.co.uk/dna/h2g2/alabaster/A673391 BBC,] els fantames del metro {{en}}/ref
+
+Després de col·locar una sèrie d'anuncis falsos a la seva pàgina web, es van cancel·lar els contractes el 2007 de l'anunciadora del metro [[Emma Clarke]].ref{{cite news | last = Griffiths | first = Peter | title = L'anunciadora del metro fa anuncis falsos {{en}} | publisher = Reuters | date = 2007-11-26 | url = http://www.reuters.com/article/idUSL2663927720071126|accessdate=2008-07-11}}/refref{{cite web | last = Clarke | first = Emma | title = Anuncis falsos {{en}} | publisher = Emma Clarke – Voiceover and writer for radio, television and new mitjança | url = http://www.emmaclarke.com/fun/mind-the-gap/spoof-london-underground-announcements|accessdate=2008-07-11}}/ref
+
+L'anunci ''mind the gap'', que es pot escoltar quan els trens entren a les andanes, ha esdevingut una frase coneguda i també el nom d'una banda de música.
+
+== Referències ==
+{{referències|2}}
+
+== Bibliografia ==
+* {{ref-llibre|autor=Wolmar, Christian|títol=The Subterranean Railway: How the London Underground Was Built and How It Changed the City For Ever|editorial=Atlantic |any=2004|isbn=1-84354-023-1|consulta=2008-07-11}}
+* {{ref-llibre|cognom=Rose|nom=Douglas|títol=The London Underground: A Diagrammatic History|editorial=Capital Transport|any=2005|isbn=978-1-85414-315-0}}
+
+== Enllaços externs ==
+{{Projectes germans|commons=London Underground}}
+;Enllaços oficials
+* [http://www.tfl.gov.uk/tube/ Pàgina principal de ''Transport for London''] {{en}}
+** [http://www.tfl.gov.uk/tube/maps/ Mapes del Tube i DLR] {{en}}
+** [http://www.tfl.gov.uk/corporate/modesoftransport/londonunderground/1608.aspx Dades bàsiques] {{en}}
+** [http://www.tfl.gov.uk/gettingaround/default.aspx Informació turística] {{en}}
+* [http://www.btp.police.uk Policia del Transport Britànic] {{en}}
+* [http://www.ltmuseum.co.uk/ Museu del Transport de Londres] {{en}}
+
+;Enllaços tècnics
+* [http://www.davros.org/rail/culg/ Guies de les línies del Metro] {{en}}
+* [http://www.squarewheels.org.uk/rly/stock/ Trens del metro de Londres] {{en}}
+* [http://www.cryptart.com/tube Mapes tècnics] {{en}}
+* [http://www.trainweb.org/tubeprune/index.htm The Tubeprune] {{en}}
+
+;Enllaços visuals
+* [http://photos.ltmcollection.org Colleció fotogràfica del Museu del Transport de Londres] {{en}}
+* [http://www.nycsubway.org/eu/uk/london/ Fotografies del metro] {{en}}
+* [http://www.dougrose.co.uk/ Edwardian Tile Patterns] {{en}}
+* [http://www.pbase.com/giliyaari/london_tube Fotografies del metro de Londres] {{en}}
+* [http://www.tubephotos.com/ L'arquitectura del ''tube''] {{en}}
+
+;Altres enllaços
+* [http://train.spottingworld.com/London_Underground_trivia London Underground Trivia] {{en}}
+* [http://underground-history.co.uk/ Disused Stations on London's Underground] {{en}}
+* [http://www.pendar.pwp.blueyonder.co.uk/Tube/ London's Abandoned Tube Stations] {{en}}
+* [http://www.berga.nu/Lennart_T/lu/index.html Index to London Underground History] - A timeline of the London Underground {{en}}
+* [http://citymayors.com/transport/london_underground.html CityMayors article on history] {{en}}
+* [http://www.citymayors.com/transport/london-transport.html CityMayors article on PPP] {{en}}
+* [http://terkepnezo.hu/terkep-europa-map/london-underground-map-london-tube-map-interactive-google-underground-map-here.html Interactive London Underground Map] {{en}}
+
+{{TfL}}
+
+{{Article de qualitat}}
+{{coord|51|29|34|N|00|06|03|W|source:ptwiki|display=title}}
+{{ORDENA:Metro De Londres}}
+[[Categoria:Metro de Londres| ]]
+[[Categoria:Articles de qualitat de ciències de la Terra]]
+
+{{Enllaç AD|de}}
+{{Enllaç AD|pt}}
+{{Enllaç AD|sk}}</text>
+      <sha1>c1hsoivfcdkdl0j2uepgvq8zza1amlc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

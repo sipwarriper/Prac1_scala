@@ -1,0 +1,323 @@
+<page>
+    <title>Viquipèdia:La taverna/Novetats/Arxius/2005/11</title>
+    <ns>4</ns>
+    <id>49446</id>
+    <revision>
+      <id>7513072</id>
+      <parentid>3080712</parentid>
+      <timestamp>2011-05-04T10:38:00Z</timestamp>
+      <contributor>
+        <username>Vriullop</username>
+        <id>1063</id>
+      </contributor>
+      <minor></minor>
+      <comment>Viquipèdia:La taverna/Arxius/Novetats/2005/11 mogut a Viquipèdia:La taverna/Novetats/Arxius/2005/11: reestructuració dels arxius de la taverna en subpàgines</comment>
+      <text>= '''''Tauler''''' =
+noinclude{{NoEditeuArxius}}/noinclude
+
+noinclude__TOC__/noinclude
+
+== Preparatius per als 20.000 articles. ==
+
+En la línia d'estrenar els 20.000 articles, a banda d'estrenar nova [[Viquip%C3%A8dia:Presa_de_decisions/2005/Sobre_la_reforma_de_la_plana_principal_de_la_Viquip%C3%A8dia|Portada]], nou [[Usuari:Pepetps/Portal_de_la_comunitat|Portal del Viquipedista]], i [[Viquip%C3%A8dia:La_taverna#Un_nou_canvi_d.27imatge_de_la_portada_-.3E_CANVI_D.27IMATGE_DE_LA_TAVERNA|nova Taberna]]... podrien estrenar també el nou aspecte de la Viquipèdia. Que no vos heu adonat encara? Hehehe... Aneu a la vostra pàgina d'usuari i pitgeu sobre ''actualitzar/recarregar/recargar/actualizar/reload'' (o ''ctrl-r'', per a Mozilla/Koqueror, ''ctrl-f5'' per a IE/Opera, cmd-r per a ''Safari''), i comprovareu ''in situ'' el canvi. Vos agrada? Encara és en fase de proves, així que s'admeten suggerències, crítiques, observacions, etc...
+
+També estic preparant una sèrie d'aspectes per a les plantilles de fulleig (p. ex. nowiki{{/nowiki[[Template:Comarques de Catalunya|Comarques de Catalunya]]nowiki{{/nowiki), de manera que es poden pitjar amagar-les o no, entre d'altres coses. Per últim, propose fer el [[Viquipèdia:Viquiprojecte Estrena Vint miler d'articles|Viquiprojecte Estrena del vint miler d'articles]], on hi podriem agrupar totes les tasques que s'han proposat per a l'actualització, renovació, difusió, i millorament de la Viquipèdia per a quan abastem els 20.000 articles. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 16:31 14 oct, 2005 (UTC)
+:
+:Martorell, m'agrada la idea d'aquest viquiprojecte, podríem aprofitar el que hi ha a manteniment i reforma i fer un nou projecte d'actualització/revisió constant de la nostra viqui--[[Usuari:Barcelona|barcelona]] 21:39 14 oct, 2005 (UTC)
+:
+:Ostres, ho acabo de veure. Fantàstic, una gran feina, Martorell! Si se m'acut alguna millora (difícil!) ja avisaré... --[[Usuari:Oersted|Oersted]] 18:07 14 oct, 2005 (UTC)
+
+A mi no m'acaba d'agradar que tots els enllaços surtin subratllats. Es pot treure això? i com puc tornar a l'aspecte anterior? --[[Usuari:Glm|Glm]] 18:46 14 oct, 2005 (UTC)
+:
+:A Preferències, Misc, Subratlla enllaços: selecciona Never. Ja està.--[[Usuari:Vriullop|VRiullop]] (''[[Usuari_Discussió:Vriullop|parlem-ne]]'') 19:01 14 oct, 2005 (UTC)
+
+Merci, no ho havia vist. Molt millor ara! --[[Usuari:Glm|Glm]] 19:15 14 oct, 2005 (UTC)
+::
+::Sí, gran feina, Matorell! Felicitacions!! --[[Usuari:Alonso|Alonso]] 22:10 14 oct, 2005 (UTC)
+
+Trobo fantástic el canvi d'imatge (ni m'imaginava que es pogués fer). Pel meu gust faria les opcions d'usuari de la part de dalt més fosques, perque son una mica difícils de llegir. --[[Usuari:Arturo Reina|Arturo Reina]] 20:41 15 oct, 2005 (UTC)
+
+Està genial!!!. Caldria quadrar un poc el ninot que ix al costat del nom d'usuari i de '''registre/entrada''' (posar-lo un poquet més cap avall). Li calia un canvi d'imatge i ho estem aconseguint. Enhorabona. --[[Usuari:Pepetps|Pepetps]] ''([[Usuari_Discussió:Pepetps|Podem discutir-ho]])'' 10:55 16 oct, 2005 (UTC)
+:Està decapitat! Que això ho miren criatures! [[Usuari:Rata de Biblioteca|Rata de Biblioteca]] 08:22 17 oct, 2005 (UTC)
+
+===Atenció===
+'''Aquest cap de setmana arribarem als 20.000 articles'''
+
+[[Usuari:Plàcid Pérez Bru|Plàcid Pérez Bru]] 21:13, 18 nov 2005 (UTC) 
+
+=== Més canvis d'aspecte ===
+
+
+Hi he afegit més canvis. Recarregeu la memòria cau dels vostres ordiandors com vaig indicar-vos abans, per a poder visualitzar-ho. He canviat la Taverna, vos sembla bé així?. Si quasevol usuari considera que son canvis massa radicals, no tinc cap problema en revertir-ho i passar-lo com a proposta. Per altra banda, he fet colors diferents de fons depenent de l'espai de noms en què ens trobem. Així, per exemple, els articles tenen un fons normal, en blanc, mentres que les discussions en groc, els MediaWiki en blau, etc. etc. etc. Per últim, he pres nota de les observacions que heu fet alguns sobre el ninot i que és massa clar els enllaços de dalt a la dreta, hi farè modificacions. 
+
+Però el canvi més cridaner és el seguiment de fils per a les pàgines de discussió. Vos heu fixat que els comentaris van sagnats per a saber a quin missatge es respon?? No obstant, perquè es mostre bé correctament el format per sangs, heu d'iniciar sempre cada línia de la vostra intervenció amb el nombre de : que heu fet. Per exemple:
+
+'''Abans:'''
+Si escriuim el text de la següent manera:
+pre
+:Aquest text és una mostra del petit canvi de costum que tenim quan intervenim als textos de les pàgines de discussió. --~~~~
+
+:: No crec que coste gaire d'acostumar-se en introduir dos punts sempre. --~~~~
+
+::: Home, un poc sí que costa. --~~~~
+/pre
+Es visualitzarà així:
+
+:Aquest text és una mostra del petit canvi de costum que tenim quan intervenim als textos de les pàgines de discussió. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:13 17 oct, 2005 (UTC)
+
+:: No crec que coste gaire d'acostumar-se en introduir dos punts sempre. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:13 17 oct, 2005 (UTC)
+
+::: Home, un poc sí que costa. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:13 17 oct, 2005 (UTC)
+
+I, com comprovareu, no es veuen bé els fils correctament.
+
+'''Ara:'''
+Si escriuim el text de la següent manera:
+pre
+:Aquest text és una mostra del petit canvi de costum que tenim quan intervenim als textos de les pàgines de discussió. --~~~~
+::
+:: No crec que coste gaire d'acostumar-se en introduir dos punts sempre. --~~~~
+:::
+::: Home, un poc sí que costa. --~~~~
+/pre
+Es visualitzarà així:
+
+:Aquest text és una mostra del petit canvi de costum que tenim quan intervenim als textos de les pàgines de discussió. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:13 17 oct, 2005 (UTC)
+::
+:: No crec que coste gaire d'acostumar-se en introduir dos punts sempre. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:13 17 oct, 2005 (UTC)
+:::
+::: Home, un poc sí que costa. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:13 17 oct, 2005 (UTC)
+
+I aleshores sí es veuen bé els fils.
+
+Què en penseu?. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:06 17 oct, 2005 (UTC)
+
+:Em sembla bé, per l'Internet Explorer, però els que utilitzem Mozilla Firefox no veiem rés. --[[Usuari:Alonso|Alonso]] 21:00 17 oct, 2005 (UTC)
+::
+:: Jo utilitzo el Firefox i ho veig perfectament --[[Usuari:Oersted|Oersted]] 21:27 17 oct, 2005 (UTC)
+:::
+:::Sí, ho sento.  He esborrat la memòria cache i ara ho veig perfectament. ;-) --[[Usuari:Alonso|Alonso]] 21:36 17 oct, 2005 (UTC)
+
+:A mi no m'acaba de plaure. (digueu-me antiquat!...) Jo crec que ara les contribucions d'un sol usuari que vulgui jugar amb els sagnats dins d'un sol missatge/dissertació/explicació seva ara sembla que siguin de persones diferents. I tanta línia, a més, crec que molesta. Jo tornaria a l'aspecte anterior. O, com a màxim, canviaria el color que aparegués a la pàgina de discussió, però jo el faria tot uniforme, sense fils de discussió. Però és només una opinió, he he. Per cert: es podria fer que (mentre s'edita una discussió) en groc només hi aparegués la pestanya de discussió i edita i NO totes les pestanyes com ara?--[[Usuari:Jahecaigut|Jahecaigut]] 17:18 21 oct, 2005 (UTC)
+
+Ja he començat a redactar l'article de [[Viquipèdia:Viquiprojecte Fita del vint miler d'articles|Viquiprojecte Fita del vint miler d'articles]]. M'ajudeu?. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 22:07 23 oct, 2005 (UTC)
+
+==Algú està preparant una nota de premsa?==
+
+Ben aviat arribarem als 20.000 articles, algú està preparant una nota de premsa?
+
+Plàcid [[Usuari:80.58.40.170|80.58.40.170]] 20:39 22 oct, 2005 (UTC)
+
+: Sí, estem centralitzant diferents tasques ''pre-vintmilerians'' a [[Viquipèdia:Viquiprojecte Fita del vint miler d'articles]]. T'hi apuntes? --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 11:43 25 oct, 2005 (UTC)
+
+==Col·laboració a la Malla.net==
+
+Els de la Malla.net m'han demanat una col·laboració sobre la fiabilitat dels coneixements que dona la Viquipèdia, a sota hi ha el text que he escrit, us agrairé les vostres esmenes i/o contribucions:
+----
+La Viquipèdia no és una font segura de coneixement? Qui pot assegurar que hi ha un coneixement humà segur?
+
+La Viquipèdia, com diem a la Wikipedia en Català, pot ser tan fiable com qualsevol altra enciclopèdia. Es podria argumentar que una enciclopèdia feta per els propis usuaris pot ser feta mal bé per qualsevol vàndal, però el que fa que la Viquipèdia sia tan vulnerable també fa que, al mateix temps, sia, a la practica, invulnerable als atacs dels trinxeraires. La gran capacitat de canvi que suposa el que qualsevol usuari pugui editar un article fa que al cap de poc temps un article fet mal bé sia fet de bell nou, o esmenat. 
+Per altre banda l'origen de la Viquipèdia és oposat al concepte tradicional d'enciclopèdia en el sentit de que mentre una enciclopèdia ha estat feta per uns tècnics als que, si em permeteu l'expressió, no es sap molt bé qui els ha donat llicència per dir el que els altres hem de dir; a la Viquipèdia nosaltres diem el que hem de dir.
+
+Les llengües no són el producte d'un laboratori, d'uns savis tancats dintre d'una torre de marfil. Són el que parla el poble als carrers. Hi ha cap motiu perquè una enciclopèdia, un text sobre allò que és una llengua, un idioma, hagi de ser creat d'una manera distinta de com s'ha creat la llengua? 
+
+Al contrari de les enciclopèdies tradicionals que es fan en un ambient elitista vedat a la majoria dels mortals la Viquipèdia es fa a la vista de tothom, amb una transparència total, on tothom pot esmenar a tothom. Sols hi ha veritats en la mida en que ningú pot presentar un exemple en el sentit contrari, i a la Viquipèdia qualsevol ho pot fer. Malauradament cal fer encara un camí molt llarg, la Viquipèdia nomes té, a hores d'ara, uns 20.000 articles, molts es poden millorar. Qui consulta la Viquipèdia ha tenir en compte que és això: un wiki. Per el que fa a les altres Wikipedies només hi tenen forta presencia els idiomes europeus, amb l'anglès al cap davant, i el japonès. Podem dir que la Viquipèdia, en Català, es una Wikipedia de segona divisió, la darrera de les grans, i la primera d'aquelles que només hi tenen una presència testimonial. 
+
+La Viquipèdia permet, per exemple, que si un vàndal posa enllaços a planes de sexe a la portada de la Wikipedia en Tibetà, un viquipedista català ho pugui arreglar; o, paradoxalment, que molts de wikis contribueixin a la Viquipèdia en català, a vegades, sense saber-ne ni una paraula; alguns cops amb programes anomenats “bots”, que fan tasques molt senzilles.
+
+La Viquipèdia no és només un diccionari, que també ho és, també és un cercador d'Internet (molts d'articles tenen “enllaços externs” que porten a altres planes de la Web. La Viquipèdia no només és una enciclopèdia, que també ho és; a poc a poc s'ha anat diversificant i també és commons, una col·lecció d'arxius,  són notícies, és viquillibres. Viquipèdia són els projectes germans. Viquipèdia és el coneixement lliure en estat pur.
+
+Es diu a vegades que l'enciclopèdia del Segle de les Llums va preparar el camí a les revolucions del Segle XIX (en tots els sentits del terme), serà la Viquipèdia l'origen d'una nova revolució del segle XXI que culminarà un procés històric de democratització de la societat donant lloc a una societat igualitària i transparent  mai vista en una altra època?
+
+----
+: Bé, millor que pàgines de sexe, jo diria pornogràfiques de forma gratuïta... Toniher 21:51 24 oct, 2005 (UTC)
+: També cal dir que de forma col·laborativa hi ha gent en aquesta mateixa Viquipèdia, molts sens dubte experts, que ajuden a fer que aquesta pugui tenir la millor qualitat possible lingüísticament parlant. Per exemple corregint les faltes... Jo personalment ho agraeixo molt. No sé si ho vols donar a entendre, potser m'equivoco, però no estic d'acord que els articles s'hagin d'escriure amb el mateix registre que per exemple jo utilitzaria quan estic al bar amb els amics, i no crec que la majoria així ho faci... Toniher 21:51 24 oct, 2005 (UTC)
+::Esta molt be, pero no es un pel optimista ? Algu que llegeixi aixo sense haver-se mira't mai la viquipedia podria pensar que es tan bona o mes que p.ex. la Gran Enciclopedia Catalana. La veritat es que nomes tenim 20.000 articles, dels quals una bona part son esborranys minusculs, i molts altres plens d'errors de contingut, estil i llengua. Clar que depen de si parles de la wikipedia en general o de la versio en catala en particular. [[Usuari:Xevi|Xevi]] 22:01 24 oct, 2005 (UTC)
+:::A mí m'agrada dir que la diferència entre un sistema i un altre, és que mentre tots dos poden tenir i tenen moltes errades, a la Viquipèdia són molt més fàcils de corregir.
+:::De fet vaig interessar-me per saber que [[Jordi Pujol]] era el 126è [[President de la Generalitat de Catalunya|President de la Generalitat]], quan vaig llegir al sacrosant i pretigiòs [http://www.chambersharrap.co.uk/ Chambers] que n'era el 3r! D'això fa més de 10 anys. Vaig comunicar-ho de seguida, i fa poc vaig veure que encara deia el mateix! Quina de les dues fonts us sembla més fiable?
+:::Un concepte que em sembla importan és que, al contrari que a la [http://www.enciclopedia-catalana.net/ Gran Enciclopèdia Catalana], tothom pot aportar el seu gra de sorra a un article, opinar i consultar els eborranys.
+:::Per altra banda, per comparar l'estat actual de la Viquipèdia amb el de la GEC, s'hauria de fer amb l'estat en que la GEC estava quan feia 4 anys que s'havia començat a redactar la primera edició.--[[Usuari:Friviere|Paco]] font size=+2[[Usuari_Discussió:Friviere|#9993;]]/font 18:29 25 oct, 2005 (UTC)
+
+Si ningú hi troba res a dir ho enviaré a laMalla.net el dilluns. [[Usuari:Plàcid Pérez Bru|Plàcid Pérez Bru]] 17:29 28 oct, 2005 (UTC)
+
+He incomplit la meva promesa d'enviar la nota a lamalla.net, ho faré ara. [[Usuari:80.58.40.170|80.58.40.170]] 21:47 3 nov, 2005 (UTC)
+
+
+Enviat. Plàcid [[Usuari:Plàcid Pérez Bru|Plàcid Pérez Bru]] 06:36 4 nov, 2005 (UTC)
+
+== AVÍS: Nova metamorfosi de la Taverna. ==
+
+Dins d'una setmana totes les converses que es troben ací es traslladaran a [[Viquipèdia:La taverna/General]]. Això és per una remodelació en profunditat de la Taverna, que passarà a tenir seccions temàtiques amb tal d'organitzar millor les intervencions així com les finalitats. Podeu comprovar '''[[Usuari:Pepetps/Template:Taverna|la proposta de nova Taverna]]''', amb tal de rebre suggerències, opinions, o crítiques.
+
+Per altra banda, també vull proposar que no s'alcen indefinidament els missatges de la Taverna, perquè sinò anirà creixent i creixent, i ocuparà massa espai al servidor. Per tant, el que propose és que les converses alçades a l'arxiu l'última intervenció dels quals siga de fa més de 3 mesos se suprimesquen de la base de dades. Esteu d'acord?. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 10:08 20 oct, 2005 (UTC)
+
+:Desprès de pensar una bona estona què volies dir amb que no s'alcen, ja ho tenc més clar: que no es pugin a l'històric ;-) Jo crec que tres mesos és suficient. Tu mateix.--[[Usuari:Vriullop|VRiullop]] (''[[Usuari_Discussió:Vriullop|parlem-ne]]'') 18:09 21 oct, 2005 (UTC)
+
+Creieu que a la futura nova Taverna caldria una nova secció específica sobre qüestions lingüístiques?. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 10:51 25 oct, 2005 (UTC)
+
+== Nova contribució de la quinzena ==
+
+Com que cada dos diumenges es proclama la contribució de la quinzena actual, la contribució de la quinzena actual (del [[23 d'octubre]] a [[30 d'octubre]]) és [[Primera Guerra Mundial|Primera]] i [[Segona Guerra Mundial]]. --[[Usuari:Pepetps|Pepetps]] ''([[Usuari_Discussió:Pepetps|Podem discutir-ho]])'' 20:38 23 oct, 2005 (UTC)
+
+
+== Categoria:Història de Catalunya ==
+
+Proposo dividir la [http://ca.wikipedia.org/wiki/Categoria:Hist%C3%B2ria_de_Catalunya  Categoria:Història_de_Catalunya (87 articles)] en vàries categories més concretes, com per exemple les 5 de l'article principal:
+# Orígens de Catalunya
+# L'Edat mitjana de Catalunya
+# Edat moderna de Catalunya
+# Història Contemporània de Catalunya
+# Segle XX a Catalunya
+
+O altres que proposeu.--[[Usuari:Friviere|Paco]] font size=+2[[Usuari_Discussió:Friviere|#9993;]]/font 11:17 31 oct, 2005 (UTC)
+
+:Ja està feta aquesta primera classificació. A la [http://ca.wikipedia.org/wiki/Categoria:Hist%C3%B2ria_de_Catalunya Categoria:Història_de_Catalunya] han quedat 13 articles. Endavant si algú la vol millorar (veieu allà la Discussió)--[[Usuari:Friviere|Paco]] font size=+2[[Usuari_Discussió:Friviere|#9993;]]/font  17:50 31 oct, 2005 (UTC)
+
+Primer caldria millorar l'article principal, que va ser col·laboració de la quinzena però encara li falta moooolt--[[Usuari:Barcelona|barcelona]] 15:24 1 nov, 2005 (UTC)
+
+He fet una proposta de categorització a [[Discussió: Història de Catalunya]]. Hi ha molta feina fer i crec que cal fer-la bé. Aquest ha de ser un dels articles dsitintius de la Viquipèdia en català. Ens hauriem de coordinar d'alguna manera tots els interessats a millorar-la.--[[Usuari:Montag73|Montag73]] 14:03, 13 nov 2005 (UTC)
+
+==Contribució de la quinzena no actualitzada==
+
+És doa 6 de novembre, toca actualitzar la contribució de la quinzena. Tenim dues propostes amb el mateix nombre de vots, segons la normativa toca que sigui la d'articles a millorar perquè és la més antiga. Em sembla bé, aíxí donem a conèixer aquesta pàgina tan necessària. Algú pot actualitzar plantilles, planes i altres? Ho faria jo mateixa però després amb els templates em lio . Gràcies--[[Usuari:Barcelona|barcelona]] 21:10 6 nov, 2005 (UTC)
+
+== Vàndal reanomena pàgines d'usuari ==
+
+'''dimarts 8 de novembre'''
+
+Comunique que algú ha canviat el nom de pàgines d'usuaris. Això impossibilita que un usuari s'assabente que té missatges nous.
+
+El subjecte en qüestió s'ha creat en primer lloc una pàgina d'usuari amb el nom de [[Usuari:Catalan en Ruedas!|Catalan en Ruedas!]] i tot seguit ha procedit a migrar tres pàgines de viquipedistes amb les seues pàgines de discussió respectives, els afectats han sigut: Toniher, Alonso, i Ludor (jo)
+
+*'''Creació''' de pàgina d'usuari: '''04:05'''
+*'''Accions vandàliques''' les  '''04:08''' i les '''04:11'''
+*'''Bandejament''' de l'usuari realitzat per Plàcid: '''13:12'''
+
+[[Usuari:Ludor|Ludor]] | [[Usuari_Discussió:Ludor|(''ho discutim?'')]] 12:40, 8 nov 2005 (UTC)
+
+: He donat avís a [[Viquipèdia:Observatori del vandalisme]]. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 12:50, 8 novembre 2005 (UTC)
+
+== Pregunta sobre uns mapes ==
+
+M’he trobat amb que els articles de les comarques catalanes tenen uns mapes que no indiquen ni l’origen ni sota quin tipus de llicència es troben. Els voldria porta a Commons per poder-los fer servir a d’altres wikis però allà em demanen totes aquestes dades. La majoria d’aquest mapes els va pujar en Llull però veig que fa bastant que no es connecta. Sap algú si són fets per ell i, per tant, de llicencia lliure?  Gràcies. [[Usuari:Airunp|Airunp]] 23:22, 9 nov 2005 (UTC)
+:Llull tenia molta cura a l'hora de pujar imatges a la wiki. Segurament es pot possar llicència GFDL o DP sense cap problema, indicant que l'autor n'era ell. En tot cas, tant la NASA com les Nacions Unides deixen publicar les imatges de plànols sota Domini Públic (la ONU diu que has d'indicar la seva qualitat de no-oficialitat).--[[Usuari:Arturo Reina|Arturo Reina]] 15:16, 20 nov 2005 (UTC)
+
+== Categoria:Escriptors catalans ==
+
+Hi han 94 escriptors, algú proposa alguna divisió en categories? (No és la meva especialitat!) No sé, potser 
+* Escriptors catalans per gènere (poetes, novelistes, ficció...)
+* Escriptors catalans per époques (medievals, noucentistes, contemporanis...)
+(aquí hi han 42 possibilitats més! : http://en.wikipedia.org/wiki/Category:American_writers)--[[Usuari:Friviere|Paco]] font size=+2[[Usuari_Discussió:Friviere|#9993;]]/font 11:02, 12 nov 2005 (UTC)
+
+== Els 20.000 articles. ==
+
+Mirau el que han fet els turcs per els 10.000 articles. Algú podria fer el mateix per els 20.000 del català? [http://tr.wikipedia.org/wiki/Ana_Sayfa]
+
+[[Usuari:80.58.40.170|80.58.40.170]] 16:20, 12 nov 2005 (UTC)
+
+== Viquinotícies ==
+
+Algú podria mirar de fer alguna cosa en el viquinoticies, que no arranca perquè no s'ha traduít encara la totalitat de la interfície?
+
+Mirau un projecte de plana principal nova: [http://meta.wikimedia.org/wiki/Ca.wikinews_Plana_principal]
+Plana de traduccions demanades: [http://meta.wikimedia.org/wiki/New_language_pre-launch#Catalan]
+
+Plàcid [[Usuari:80.58.40.170|80.58.40.170]] 08:27, 13 nov 2005 (UTC)
+
+== Gojuon ==
+
+He traduït [[Gojuon]], de l'[[anglés]], però caldria que algú que sabés [[japonés]] o [[kana]] li dongués una ullada. També caldria que algú es mirés la [[taula]] que no m'ha quedat prou bé.--[[Usuari:Friviere|Paco]] font size=+2[[Usuari_Discussió:Friviere|#9993;]]/font 08:35, 13 nov 2005 (UTC)
+:El problema de la taula ja està solucionat.--[[Usuari:Pepetps|Pepetps]] ''([[Usuari_Discussió:Pepetps|Podem discutir-ho]])'' 12:12, 13 nov 2005 (UTC)
+
+==Portal del viquipedista==
+
+Proposo eliminar les seccions truc i notícies del portal del viquipedista ja que recarreguen massa la pàgina (llarga en excés per als nous) i no són necessàries: els trucs es poden posar dins ajuda i per a les notícies és suficient amb l'enllaç a meta, que per a això serveix. Posaria com a primeres seccions la taverna a l'esquerra (on ja està) i la secció sobre què és la viqui etc, perquè sigui més fàcil de trobar per als novells --[[Usuari:62.175.97.161|62.175.97.161]] 21:15, 18 nov 2005 (UTC)
+
+==Tot el dematí em surt el. Missatge: ''teniu missatges nous''==
+
+He mirat la meva discussió i encara surt, algú sap el que passa.
+
+Me surt amb el navegador Internet Explorer 6.0, però no em surt amb el Mozilla.
+
+[[Usuari:Plàcid Pérez Bru|Plàcid Pérez Bru]] 11:49, 18 nov 2005 (UTC)
+
+: Que potser és a causa de la memòria cau del teu navegador?. Prova a vore d'actualitzar la memòria cau, pitjant sobre el botó de Recarregar i polsant alhora la tecla de MAYS. Espere que et servesca d'ajuda. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:25, 18 nov 2005 (UTC)
+
+:Me'n vaig adonar d'una cosa fa poc. Si tens més d'una finestra oberta (com jo que uso les pestanyes) has d'entrar a la discussió a totes i cada una de les pàgines o no desapareixerà. A veure si serà això. [[Usuari:Rata de Biblioteca|Rata de Biblioteca]] 13:31, 18 nov 2005 (UTC)
+
+== Canvi temporal de logotip. ==
+
+Doncs això, a la pàgina de {{vp|Viquiprojecte Fita del vint miler d'articles}} hi he proposat de fer un canvi del logotip de manera temporal, on es ressalta el número 20.000 fins que abastem els 21.000 i aleshores torna el logo normal i comú. Què vos sembla?. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 13:24, 18 nov 2005 (UTC)
+
+:Fantàstic. Queda bé. [[Usuari:Rata de Biblioteca|Rata de Biblioteca]] 13:31, 18 nov 2005 (UTC)
+
+:Jo en el teu cas pujaria el logotip a http://commons.wikimedia.org/wiki/Category:Wikipedia per a què passès a la posteritat. [[Usuari:Rata de Biblioteca|Rata de Biblioteca]] 15:31, 20 nov 2005 (UTC)
+
+== Ja són 20.000 articles! ==
+
+Ja s'han arribat als 20.000 i l'he creat jo ([[diputat]]), elis elis. [[Usuari:Rata de Biblioteca|Rata de Biblioteca]] 22:32, 18 nov 2005 (UTC)
+:Felicitats a tothom per aquestos 20.000 articles i que la Viquipèdia en complisca molts més (te m'has adelantat '''Rata''', hehehe).--[[Usuari:Pepetps|Pepetps]] ''([[Usuari_Discussió:Pepetps|Podem discutir-ho]])'' 22:40, 18 nov 2005 (UTC)
+:En hora bona a tothom [[Usuari:Plàcid Pérez Bru|Plàcid Pérez Bru]] 10:05, 19 nov 2005 (UTC)
+
+FESTAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!!!!! [[Usuari:Gangleri2001|Gangleri2001]]
+
+Quan vaig començar acabaven de celebrar els 10000, i en un any ja hem arribat als 20000! Ara només tenim un altre any per arribar als 30000! :D --[[Usuari:Arturo Reina|Arturo Reina]] 17:16, 19 nov 2005 (UTC)
+
+Hehehe! Enhorabona a tots!!. Crec que la propera fita hauria de ser el doble, els 40.000 articles. Quin penseu que n'hauria de ser la següent?. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 17:37, 19 nov 2005 (UTC)
+
+Per què no està ja l'anunci a meta:news??? proclamem arreu la nostra alegria :) I proposo que la fita sigui als 50000, haha. Felicitats a tots d'una col·laboradora entusiasta --[[Usuari:Barcelona|barcelona]] 21:03, 19 nov 2005 (UTC)
+
+Lamento afegir-me tard a la celebració, però millor tard que mai. Visca els 20.000, i tots els que vindran en endavant. Visca la Viquipèdia (o Wikipèdia, o com se vulga que es dirà) i visca la mare que ens va parir a tots als que cremem horetes de son per fer créixer i dignificar la nostra llengua (català, valencià, o com se vulga que es digui!) Enhorabona a tots i totes!!!!--[[Usuari:Xadaga|Xadaga]] ''([[Usuari Discussió:Xadaga|diga'm]])'' 00:41, 21 nov 2005 (UTC)
+
+==Més canvis a la portada==
+
+Ahir vaig entrar a  http://cryptome.quintessenz.org/mirror/ i vaig trobar un enllaç a una notícia sobre una persona que havia tingut un munt de problemes amb la Wikipedia en anglès perquè s'havien immiscit en la seva vida privada. Pens que a la portada de la Viquipèdia hi hauria d'haver un enllaç que dugues a una plana, amb tota classe d'explicacions, per posar:
+
+*Protestes si la Viquipèdia s'immiscix en la vida privada d'una persona.
+*Protestes per publicar articles que trenquin els drets d'autor d'algú.
+
+Evidentment els articles que s'immisceixen en la vida privada d'una persona, o que violin els drets d'autor d'algú s'han de esborrar, o si un cas ser modificats immediatament.
+
+La Viquipèdia, com un organisme viu té la facultat d'adaptar-se a les circumstàncies canviants, per mor d'això, la plana principal dels 20.000 articles no serà la darrera. Si això passes el projecte estaria mort. [[Usuari:Plàcid Pérez Bru|Plàcid Pérez Bru]] 10:05, 19 nov 2005 (UTC)
+
+==Canvi de portada==
+Què ho fa que encara no s'hagi canviat la portada per celebrar els 20.000 articles? [[Usuari:Rata de Biblioteca|Rata de Biblioteca]] 10:54, 19 nov 2005 (UTC)
+
+== Cal millorar la portada pel que fa l'art ==
+
+Si entrem per belles arts trobem un article. Si fem una cerca art trobem que belles arts encara no s'ha editat. Caldria unificar les dos entrades belles arts.
+Per altre banda, seria bo, que des de la portada tinguessim accès directe a l'entrada art.
+Tasques sezilles que no he sabut realitzar.
+:He posat un enllaç de la categoria Art dins la categoria de Belles arts. Així serà més fàcil per als novells. S'havia de posar una categoria de Belles Arts perquè poguera quadrar la divisó de categories i no es poden posar enllaços en els títols de les divisions (el text en negre) perquè sinó es faran blaus i no haurà homogeneïtat. --[[Usuari:Pepetps|Pepetps]] ''([[Usuari_Discussió:Pepetps|Podem discutir-ho]])'' 15:30, 20 nov 2005 (UTC)
+
+== Sobre l'ús dels noms de la llengua. ==
+
+S'ha iniciat un procés de presa de decissions sobre l'ús de les denominacions de la llengua en textos no enciclopèdics, és a dir, en contextos de presentació (i representació) de la nostra comunitat viquipedista davant del públic general (portades, notes de premsa, benvingudes, etc.), així com en contextos de formalitat de la nostra comunitat. 
+
+Per favor, abans que res, molta calma, perquè no s'està decidint res acadèmicament. I, abans que votar, o emprenyar-se, vos encoratge que pareu molta atenció a la [[Viquipèdia:Presa de decisions/2005/Sobre criteris d'ús dels noms de la llengua|pàgina de la presa de decisió]], en especial, però, les seccions de [[Viquip%C3%A8dia:Presa_de_decisions/2005/Sobre_criteris_d%27%C3%BAs_dels_noms_de_la_llengua#Recapitulaci.C3.B3_del_debat|Recapitulació del debat]], i el [[Viquip%C3%A8dia:Presa_de_decisions/2005/Sobre_criteris_d%27%C3%BAs_dels_noms_de_la_llengua#Sondeig|Procediment]]. També, potser, que no tingueu pressa en votar, i que és recomanable que llegiu el que hi ha a [[Viquipèdia Discussió:Presa de decisions/2005/Sobre criteris d'ús dels noms de la llengua|la seua respectiva pàgina de discussió]]. --[[Usuari:Martorell|Joanot Martorell]] font size=+2[[Usuari_Discussió:Martorell|#9993;]]/font 03:14, 20 nov 2005 (UTC)
+
+== Plantilla per a Papes de Roma ==
+
+Només posar en coneixement dels viquipedistes que des de fa poc tenim a la nostra disposició una plantilla per a papes de Roma. És la que es pot trobar als articles de '''Calixt III''' i '''Alexandre VI''' (els papes Borja). Ha estat traduïda de la versió original anglesa, i permet - tot canviant l'imatge i quatre dades de text-  unificar els continguts per a tots el papes.br
+Bé, això si es considera interessant...br
+Només cal editar un d'aquests dos articles i copiar l'encapçalament:br
+:{ {Caixa Info Papes de Roma|
+:Nom=[[Nom papa]]|
+:imatge=[[Fitxer:Imatge papa.jpg]]|
+:nom_real=[[Nom civil]]|
+:inici_papat=[[8 d'abril]] de [[1455]]|
+:fi_papat=[[6 d'agost]] de [[1458]]|
+:antecessor=[[Papa antecessor]]|
+:successor=[[Papa Sucessor]]|
+:data_naixement=[[31 de desembre]] de [[1378]]|
+:lloc_naixement= Prop de [[Xàtiva]], [[València]] |
+:mort=mort|data_mort=[[6 d'agost]] de [[1458]]|
+:lloc_mort=[[Roma]]|} }
+Llavors només cal acabar de substituir les dades que tenen vincle (en aquest exemple hi ha més vincles que a la plantilla, però ho he fet per ressaltar) per les del papa en qüestió, i tot seguit continuar amb l'article.br
+Espero que ho trobeu d'utilitat.
+ --[[Usuari:Tonipares|Tonipares]] 19:23, 20 nov 2005 (UTC)</text>
+      <sha1>4m1kail8wqvca30jvs9dgl8t6cufz4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

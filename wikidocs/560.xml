@@ -1,0 +1,121 @@
+<page>
+    <title>Coet</title>
+    <ns>0</ns>
+    <id>560</id>
+    <revision>
+      <id>13893858</id>
+      <parentid>13875449</parentid>
+      <timestamp>2014-07-27T08:33:15Z</timestamp>
+      <contributor>
+        <username>EVA2.0 (bot)</username>
+        <id>167473</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text  (- ha sigut + ha estat)</comment>
+      <text>[[Fitxer:Ariane-44lp.gif|thumb|Enlairament d'un coet [[Ariane 4]]]]
+Un '''coet''' és un grup autònom propulsat per la [[força de reacció]] creada mitjançant l'ejecció de [[massa]] en una direcció determinada. Els coets són coneguts principalment per la seva aplicació en el camp de l'[[astronàutica]], ja que constitueixen l'únic mitjà existent per posar objectes en [[òrbita]] fora de l'[[atmosfera terrestre]].
+
+== Principi de funcionament ==
+Un coet adquireix velocitat gràcies al fet que el fet d'expulsar una part de la seva massa genera, d'acord amb la [[Lleis de Newton|tercera llei de Newton]], una [[força]] en direcció contrària a la direcció d'ejecció. Aquesta força és la que efectivament propulsa el coet. El fenomen és equivalent al d'una parella de patinadors que es recolzin l'un sobre l'altre per donar-se un impuls. El resultat serà que els dos partiran en direccions oposades a una certa [[velocitat]].
+
+La força de reacció és més gran com més importants siguin la massa ejectada i la velocitat d'ejecció d'aquesta massa. És per això que el disseny dels coets se centra a aconseguir que aquests dos paràmetres siguin tan grans com sigui possible. En els coets actuals, la massa ejectada pren la forma de [[gas]]os a alta [[pressió]] i [[temperatura]] que són canalitzats perquè siguin expulsats en la bona direcció. L'obtenció dels gasos i la seva canalització és la funció de la unitat propulsora (també anomenada [[motor]]) del coet. Els coets de gran mida en poden arribar a expulsar diverses tones de gas per segon a [[Velocitat supersònica|velocitats supersòniques]].
+
+L'[[energia]] necessària per mantenir aquest flux de gasos que propulsa el coet prové d'una [[reacció química]] exotèrmica que sol ser la [[combustió]]. L'energia alliberada calenta fortament els productes de la reacció, cosa que provoca un augment important la pressió a l'interior de la unitat propulsora i els permet de ser ejectats a gran velocitat. D'aquesta manera, el coet obté l'energia directament de la massa a ejectar i no li cal cap dispositiu especial per [[acceleració|accelerar-la]].
+
+Els combustibles utilitzats en els coets són de naturalesa diversa, anant des de derivats del [[petroli]] com el [[querosè]] fins a productes exòtics i difícils de manejar com l'[[hidrogen]] líquid (LHsub2/sub). Com que normalment els coets han de poder funcionar en el [[buit]] de l'espai no poden comptar amb la disponibilitat de l'oxigen atmosfèric per dur a terme la combustió. Així, també s'han d'emportar un producte oxidant en quantitat necessària per poder cremar el combustible. Al conjunt de combustible i oxidant d'un coet s'anomena '''propergol'''. La massa del propergol acostuma a representar més del 90% de la massa total del coet.
+
+== Tipus ==
+El disseny d'un coet és significativament diferent segons la natura del combustible que utilitza. Els coets es poden classificar en:
+* '''[[Coet de combustible sòlid|Coets de combustible sòlid]]''': Són els de disseny més senzill. El propergol és una barreja sòlida de combustible i oxidant, de tipus plàstic o mineral (com per exemple la [[pólvora]]), que manté la seva combustió espontàniament una vegada iniciada aquesta. Tenen la característica de proporcionar una acceleració elevada, però són més ineficaços en termes de combustible necessari que els altres tipus de coet. Exemples: Coets pirotècnics, míssils balístics, coets militars.
+* '''Coets de combustible líquid''': El combustible i l'oxidant són dos líquids emmagatzemats en dipòsits separats que només es barregen en la unitat propulsora. Per mantenir la reacció cal que la combustió sigui alimentada amb un flux fort i continu dels dos propergols, cosa que complexifica enormement el disseny del motor. Proporcionen acceleracions més febles que els seus homòlegs de combustible sòlid, però la seva eficiència és significativament superior. Exemples: Coets llançadors de [[satèl·lit artificial|satèl·lits]], [[llançadora espacial]], avions-coet.
+* '''Coets híbrids''': En aquests tipus de coets el combustible i l'oxidant són de naturalesa diferent, l'un és sòlid, l'altre líquid. Constitueixen un punt mitjà entre les dues categories anteriors. Són coets mitjanament senzills, en els quals la combustió és fàcil de mantenir i regular controlant el moviment del component líquid. La seva eficiència i la seva acceleració també són intermediàries. Exemple: SpaceShipOne.
+
+Hi ha altres categories de coets amb dissenys innovadors que no s'han pogut posar en pràctica per problemes tècnics i/o econòmics. Entre els quals el més destacat:
+* '''Coets nuclears''': En aquest disseny, l'energia s'obté d'una [[reacció nuclear]] de fissió. El propergol líquid es fa passar per l'interior d'un reactor nuclear de manera a escalfar-lo i permetre la seva ejecció a gran velocitat. La reacció nuclear permet una eficiència en propergol molt superior a la dels coets basats en la combustió, però els problemes no resolts de seguretat de funcionament impedeixen pel moment de construir-los. Tanmateix, l'exèrcit nord-americà va construir i assajar amb èxit motors-coet basats en aquest principi durant la dècada de 1960-70 (projecte NERVA).
+
+== Aplicacions ==
+La importància dels coets com a vehicles rau en dues característiques:
+# La seva capacitat d'assolir grans velocitats i acceleracions.
+# La seva capacitat de funcionar en el buit.
+
+La primera d'aquestes característiques és la que ha promogut el seu ús històric en el camp militar i en els espectacles pirotècnics, la segona no ha estat significativa fins a l'adveniment de l'[[astronàutica]] en la dècada de 1950.
+
+=== Ús militar ===
+[[Fitxer:Osa-AKM 9M33M3.jpg|thumb|míssil antiaeri de fabricació russa]]
+
+El coet constitueix un mitjà capaç de transportar una [[càrrega útil]] a grans velocitats d'un punt a un altre. Com a arma, un coet pot transportar un [[explosiu]] (convencional o nuclear) a grans distàncies en un temps prou curt per a agafar l'enemic per sorpresa. El coet presenta altres avantatges respecte als projectils: té un radi d'acció més important i la seva [[trajectòria]] pot ser controlada. 
+
+Existeixen coets militars (també anomenats [[míssil]]s) de molt variada mida, potència i radi d'acció. Els petits poden ser llançats directament pels soldats o des de vehicles en moviment, i solen ser utilitzats per atacar les [[aeronau]]s de l'enemic. La capacitat de controlar el seu vol també els permet ser usats per atacar objectius fixos amb força precisió.
+
+Els [[míssil]]s de gran mida poden arribar a tenir un radi d'acció de milers de kilòmetres i s'utilitzen per bombardejar les instal·lacions endinsades en territori enemic sense necessitat d'enviar-hi tropes o avions. La seva gran velocitat també en dificulta la intercepció. D'especial atenció són els míssils balístics intercontinentals (ICBM en terminologia anglesa). Aquests coets tenen un radi d'acció de desenes de milers de kilòmetres i segueixen una [[trajectòria]] balística que els porta efectivament fora de l'[[Atmosfera terrestre|atmosfera]] terrestre. Armats amb explosius nuclears constitueixen un mitjà de dissuasió important, ja que permeten atacar el cor de la nació enemiga per lluny que estigui, sense que aquesta disposi de cap mitjà per impedir la seva arribada.
+
+=== Ús civil ===
+Fora del camp militar, l'ús més important dels coets és el de llançar objectes a l'espai exterior, normalment posant-los en [[òrbita]] al voltant de la terra. Per aquest objectiu, el coet és l'únic mitjà disponible. D'una banda, són els únics vehicles capaços d'assolir la velocitat necessària per a aquesta aplicació, i de l'altra només el coet és capaç de propulsar-se en el buit de l'espai. Els altres vehicles necessiten un medi material sobre el qual desplaçar-se, o bé obtenen algun element essencial per al seu funcionament del medi.
+
+Emperò, el coet no deixa de ser un mitjà ineficaç de llançar objectes a l'espai. A causa de la seva pròpia naturalesa el coet haurà sempre de ser molt més gran que l'objecte que ha de transportar, i això vol dir que en un llançament la major part de l'energia serà utilitzada per accelerar el mateix coet i no la seva [[càrrega útil]]. Per exemple, un coet [[Ariane 5]] carregat de combustible pesa al voltant de 750 tones, de les quals només 20 poden ser efectivament posades en òrbita. Amb tot, no existeixen alternatives al coet ni a curt ni a llarg termini per a aquesta aplicació.
+
+Un altre ús lleugerament diferent dels coets es troba en els estudis de [[microgravetat]]. Un coet pot posar un objecte en una [[trajectòria]] balística fora de l'[[Atmosfera terrestre|atmosfera]], on no serà sotmès a la [[força de fregament]] de l'aire i estarà, doncs, en una situació de [[caiguda lliure]], equivalent a l'absència de [[gravetat]] per a molts fenòmens físics.
+
+== Història ==
+La invenció del coet és a la [[Xina]] cap al [[1150]]ref{{Ref-llibre |cognom=Rezende |nom=Lisa |títol=Chronology of Science |url=http://books.google.es/books?id=079t8r9RIcICpg=PA70lpg=PA70dq=rocket+1150+chinasource=blots=bAyHnUwcPXsig=nyYZYRyPYK5CX7X-OZZAvKoaTYYhl=casa=Xei=r3oVUPykO8bRhAfz1YCYBgved=0CDMQ6AEwAA#v=onepageq=rocket%201150%20chinaf=false |llengua=anglès |editorial=Infobase Publishing |data=2006 |pàgines=p.70 |isbn=1438129807 }}/ref i la primera notícia que es té del seu ús en combat és durant la [[Batalla de Kai-Feng]] l'any [[1232]],ref{{Ref-llibre |cognom=Hallion |nom=Richard |títol=Taking Flight: Inventing the Aerial Age from Antiquity Through the First World War |url=http://books.google.es/books?id=YRqV_PayIKICpg=PA20dq=1232+rocket+chinahl=casa=Xei=9hcFUK3lHKi_0QWA38S1Bwved=0CGgQ6AEwCA#v=onepageq=1232%20rocket%20chinaf=false |llengua=anglès |editorial=Oxford University Press |data=2003 |pàgines=p.20 |isbn=0195160355 }}/ref i el seu ús militar convencional data del [[1280]], coneguts a [[Síria]] com a ''sahm al-kitai'' (fletxes de la Xina).ref{{ref-llibre |cognom=Needham |nom=Joseph |cognom2=Kuhn |nom2=Dieter |cognom3=Gwei-Djen |nom3=Lu |coautors=et al|títol=Science and Civilization in China: Mechanical engineering |url=http://books.google.es/books?id=hNcZJ35dIyUCpg=PA509lpg=PA509dq=sahm+al-khitaisource=blots=sVuWeJWSZWsig=ou-20EzsxtE9CPQJcvk5uvJAwv8hl=casa=Xei=IhcFUODDJcmm0QX3j_CzBwved=0CEoQ6AEwAA#v=onepageq=sahm%20al-khitaif=false |llengua=anglès |editorial=Cambridge University Press |data=1954 |pàgines=vol.5, p.509 |isbn= }}/ref Malgrat això, va ser introduït a [[Europa]] pels [[àrabs]], que durant els segles [[segle XV|XV]] i [[segle XVI|XVI]] el van emprar com a [[arma]] incendiària. Posteriorment, amb l'extensió de l'[[artilleria]], el coet bèl·lic va desaparèixer fins al [[segle XIX]], i va ser emprat novament durant les [[guerres napoleòniques]].
+
+Els coets del coronel anglès William Congreve van ser també usats a [[Espanya]] en el setge de [[Cadis]] (1810), en la [[primera guerra Carlina]] (1833-40) i durant la [[guerra del Marroc]] (1860).
+
+[[Fitxer:Goddard and Rocket.jpg|thumb|R. Goddard amb el primer coet de combustible líquid el 1926]]
+
+A la fi del segle XIX i el començament del [[segle XX]], van aparèixer els primers científics que van veure el coet com a sistema per a propulsar vehicles aeris espacials tripulats, entre els quals cal destacar el rus Konstantin Ciolkovskij, l'alemany Hermann Julius Oberth i el nord-americà Robert Hutchings Goddard, i, més tard, els russos [[Sergei Paulovich Korolev|Sergej Korolev]] i Valentin Gruchensko i l'alemany [[Wernher von Braun]].
+
+Aquest darrer va desenvolupar durant la [[Segona Guerra Mundial]] els coets ''V-1'' i ''[[V-2]]'' (''A-4'' en la terminologia alemanya), que varen constituir el nucli de les investigacions nord-americanes i soviètiques de la postguerra.
+
+Si bé es varen desenvolupar inicialment coets destinats específicament a usos militars, els programes espacials que endegaren soviètics i nord-americans es varen basar en coets dissenyats amb finalitats pròpies de l'[[astronàutica]], entre els quals cal destacar, per part nord-americana, l'''Atlas'', l'''Agena'', el ''Thor 2'', l'''Atlas-Centaur'', la sèrie ''Delta'', els ''Titan'' i ''Saturn'' (entre els quals el ''[[Saturn V|Saturn-V]]'', que va fer possible el programa ''Apollo''), i, per part soviètica, els coets designats, segons la terminologia occidental, per les lletres ''A'', ''B'', ''C'', ''D'' i ''G'' (aquests dos darrers van tenir un paper equivalent als ''Saturn'' nord-americans).
+
+D'altres països que han construït coets, en el marc d'un programa espacial propi, són [[França]], la [[Regne Unit|Gran Bretanya]] (que el va abandonar), el [[Japó]], la [[República Popular de la Xina|Xina]], i l'[[Índia]], així com el consorci europeu que va constituir l'[[Agència Espacial Europea]] (ESA), que ha bastit i explotat diferents sèries de coets llançadors dins del programa [[Ariane]].
+
+=== Cronologia de la tècnica de coets i míssils ===
+* [[1895]] - El científic peruà [[Pere Paulet]] (1874-1945) Dissenya el primer motor a propulsió amb combustible líquid, aconseguint un centenar de quilograms força.
+* [[1903]] - El científic rus [[Konstantin Tsiolkovski|Konstantin E. Tsiolkovski]] (1857-1935) redacta una sèrie d'articles en els quals proposa l'ús de [[coet]] s per assolir l'espai exterior i la colonització de [[Sistema Solar]]. Els dos punts centrals de la seva proposta són el [[combustible]] líquid i la propulsió per etapes.
+* [[1926]] - L'enginyer nord-americà [[Robert Hutchings Goddard]] (1882-1945) llança el primer coet de combustible líquid.
+* [[1942]] - Els enginyers alemanys [[Wernher von Braun]] i [[Walter Dornberger]] disparen el primer [[V2]] a [[Peenemünde]] (al nord d'Alemanya). Està considerat el primer [[míssil]] i es va utilitzar en [[setembre]] de [[1944]] per bombardejar Londres des d'Alemanya.
+* [[1949]] - [[Willy Llei]] publica '' La conquesta de l'espai ''.
+* [[1952]] - Wernher von Braun estudia els detalls tècnics per a l'exploració de [[Mart (planeta)|Mart]] En '' El projecte Mart ''.
+* [[1953]] - Colliers Magazine publica una sèrie d'articles sobre el futur de l'home en l'espai, amb gran ressò popular a tot el món. Inclouen nombrosos articles de Von Braun i de llei, il·lustrats per Chesley Bonestell.
+* [[1957]] - Llançament del primer [[ICBM]], el soviètic [[R-7]], conegut a l'[[OTAN]] com el SS-6 Albura.
+* 1957 - La [[Unió Soviètica]] llança el [[Spútnik]] I, el primer [[satèl·lit artificial]].
+* [[1958]] - Els [[Estats Units]] llancen el [[Explorer 1]], en un coet Jupiter-C.
+* 1958 - Estats Units llança el seu primer ICBM, l'[[Atlas (míssil)|Atlas]]-B (l'Atles-A no va arribar a construir).
+* [[1961]] - L'URSS llancen el [[Vostok 1]], [[Iuri Gagarin]] arriba als 327 km d'altitud, sent el primer humà a orbitar la Terra.
+** Estats Units utilitza una càpsula Mercury amb [[Alan Shepard]], en un vol suborbital.
+* [[1962]] - Estats Units llança el MA-6 (Friendship 7) en un Atles D, [[John Glenn]] és posat en òrbita.
+* [[1963]] - L'URSS llança el [[Vostok 6]], i '''[[Valentina Tereixkova]]''' la primera dona (i el primer civil) a orbitar la Terra. Va estar gairebé tres dies i va donar 48 voltes al planeta.
+* [[1966]] - La nau soviètica no tripulada [[Lluna 9]] realitza el primer allunatge suau.
+* [[1969]] - La nau nord-americana [[Apollo 11]], posa el primer home a la [[Lluna]], en el marc del [[programa Apollo]].
+* [[1981]] - La [[llançadora espacial]] nord-americana [[Columbia]] és el primer vehicle espacial reutilitzable, en aterrar com un avió.
+* [[1998]] - El nord-americà [[Deep Space 1]] realitza la primera missió espacial utilitzant per a la seva propulsió per [[reacció d'ions]].ref{{Ref-llibre |cognom=van Riper |nom=A. Bowdoin |títol=Rockets and missiles: the life story of a technology |url=http://books.google.cat/books?id=NmPcWqPJySgCpg=PA158dq=deep+space+1+ion+enginehl=caei=QFb0TayrD5O18QO50O2-Bwsa=Xoi=book_resultct=resultresnum=3ved=0CDMQ6AEwAg#v=onepageq=deep%20space%201%20ion%20enginef=false |llengua=anglès |editorial=Greenwood Publishing Group |data=2004 |pàgines=p.158 |isbn=0313327955 }}/ref
+
+== Vegeu també ==
+* [[Vehicle de llançament]]
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs ==
+{{millorar referències|data=desembre de 2012}}
+* http://history.msfc.nasa.gov/rocketry/tl1.html
+* http://history.msfc.nasa.gov/rocketry/tl2.html
+* http://history.msfc.nasa.gov/rocketry/tl3.html
+* http://history.msfc.nasa.gov/rocketry/tl4.html
+* http://history.msfc.nasa.gov/rocketry/tl5.html
+* http://history.msfc.nasa.gov/rocketry/tl6.html
+* http://history.msfc.nasa.gov/rocketry/tl7.html
+* http://history.msfc.nasa.gov/rocketry/tl8.html
+
+{{Projectes germans|commons=rocket}}
+{{Vol espacial}}
+
+{{Autoritat}}
+[[Categoria:Coets| ]]</text>
+      <sha1>1gmpxxs104f34012ctzdcgiyxo9u5cw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

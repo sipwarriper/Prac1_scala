@@ -1,0 +1,54 @@
+<page>
+    <title>Espectroscòpia infraroja</title>
+    <ns>0</ns>
+    <id>61059</id>
+    <revision>
+      <id>13015713</id>
+      <parentid>12642711</parentid>
+      <timestamp>2014-03-08T11:27:24Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: el espectres infrarojos - l'espectre d'infrarojos de</comment>
+      <text>[[Fitxer:Dichloromethane near IR spectrum.png|thumb|Espectre IR del diclorometà.]]
+L’'''espectroscòpia infraroja''', o '''espectroscòpia IR''', és la branca de l'[[espectroscòpia]] que treballa en les longituds d'ona de la zona corresponent al [[infraroig]] de l'[[espectre electromagnètic]]. S'utilitza, sola o en combinació amb altres tècniques, per a identificar un compost o investigar la composició d'una mostra, ja que dóna informació dels tipus d'enllaç presents en aquesta. Els [[fotons]] de la radiació infraroja no tenen energia suficient per a provocar transicions electròniques en els àtoms, però si poden aconseguir vibracions dels enllaços covalents de les molècules orgàniques.
+
+La regió de l'infraroig de l'espectre correspon a longituds d'ona que van des de 8 x 10sup-5/sup cm a 8 x 10sup-2/sup cm, o el que és el mateix de 14 000 a 10 cmsup-1/sup, si s'expressa en números d'ona. La porció infraroja de l'espectre electromagnètic es divideix en tres regions, el infraroig proper, el mitjà i el llunyà, així nomenats per la seva relació amb l'espectre visible. D'aquest tres, l'infraroig mitjà (aproximadament 4000-400 cmsup-1/sup) és el que s'usa per estudiar les vibracions fonamentals i l'estructura rotacional/vibracional en l'espectroscòpia IR.
+
+==Història==
+El físic anglès [[William Herschel]] fou el primer per reconèixer l'existència de la [[radiació infraroja]] el 1800. Tanmateix l'interès per aquest tipus de [[radiació electromagnètica]] no fou explorat fins al període 1882-1900. El 1882ref{{ref-publicació |cognom=Abney |nom=W |cognom2=Festing |nom2=E.R |enllaçautor=William de Wiveleslie Abney |enllaçautor2=Edward Robert Festing |url= |títol= |publicació=Phil. Trans. |volum=172 |pàgines=887 |data=1882}}/ref els anglesos [[William de Wiveleslie Abney]] i [[Edward Robert Festing]] fotografiaren l'espectre infraroig d'absorció de 52 compostos i correlacionaren bandes d'absorció amb la presència de determinats [[grups funcionals]] en les molècules, treball que ampliaren en posteriors articles.ref{{ref-publicació |cognom=Abney |nom=W |cognom2=Festing |nom2=E.R |enllaçautor=William de Wiveleslie Abney |enllaçautor2=Edward Robert Festing |url=http://www.jstor.org/stable/114812 |títol=Intensity of Radiation through Turbid Media |publicació=Proceedings of the Royal Society of London |volum=40 |pàgines=378–380 |data=1886}}/refref{{ref-publicació |cognom=Abney |nom=W |cognom2=Festing |nom2=E.R |enllaçautor=William de Wiveleslie Abney |enllaçautor2=Edward Robert Festing |url=http://www.jstor.org/stable/115174 |títol=Colour Photometry. Part III |publicació=Proceedings of the Royal Society of London |volum=50 |pàgines=369–372 |data=1892 |doi=10.1098/rsta.1892.0014}}/ref El 1892ref{{ref-publicació |cognom=Julius |nom=W.H |enllaçautor=Willem Henri Julius |url= |títol= |publicació=Verhandl. Konikl. Acad. Wetenschappen Amsterdam |volum=1 |pàgines=1 |data=1892}}/ref [[Willem Henri Julius]] obtingué l'espectre de 20 compostos orgànics observant que els grups metil absorbien en una longitud d'ona característica.ref name=Mirabella{{Ref-llibre |cognom=Duerst |nom=R.W |cognom2=Duerst |nom2=M.D |cognom3=Stebbings |nom3=W |capítol=Transmission Infrared Spectroscopy |títol=Modern techniques in applied molecular spectroscopy |editor=Mirabella, F.M. (ed) |urlcapítol=http://books.google.es/books?id=6q3PAowDMfoCdq=infrared+spectroscopy+historyhl=essource=gbs_navlinks_s |col·lecció=Techniques in analytical chemistry series, vol. 14 |editorial=Wiley-IEEE |data=1998 |isbn=9780471123590}}/ref
+
+El 1903 el físic nord-americà [[William Weber Coblentz]], de la [[Universitat de Cornell]], començà a investigar l'espectre d'infrarojos de centenars de substàncies, tant orgàniques com inorgàniques, estenent la zona de l'infraroig emprada fins aquells moments.ref{{Ref-llibre |títol=Investigations of Infra-Red Spectra |cognom=Coblentz |nom=W.W |enllaçautor=William Weber Coblentz |data = 1905 |editorial=Carnegie Institution of Washington | lloc=Washington, DC |url=http://books.google.com/?id=qVUoHbyKbDsCpg=PP7dq=coblentz,+william+weber#PPR1,M1 }}/ref Hagué de dissenyar i construir els seus instruments i obtenir els espectre de forma tediosa requerint 3-4 hores o més per a cada espectre. Després dels avenços assolits durant Segona Guerra Mundial en electrònica es fe possibles obtenir un espectre en només 1-2 hores. El resultat final d'aquesta feina primerenca era el reconeixement que cada compost tenia un únic espectre d'infraroig, una marca d'identitat, i que grups funcionals, fins i tot quan eren en molècules diferents, donaven bandes d'absorció a la mateixa longitud d'ona.ref name=Mirabella /
+
+==Vibracions dels enllaços==
+Els àtoms no es troben estàtics dins d'una [[molècula]] sinó que estan en moviment constant uns respecte als altres, vibrant a [[Freqüència|freqüències]] constants entorn dels enllaços covalents que els uneixen. L'espectroscòpia infraroja es basa en el fet que les molècules tenen freqüències concretes a les quals roten i vibren, és a dir, els moviments de rotació i vibració moleculars tenen nivells d'energia discrets (modes normals vibracionals). Les freqüències ressonants o freqüències vibracionals són determinats bàsicament per la forma de les molècules, la força dels enllaços i les masses dels àtoms. Així, la freqüència de les vibracions pot ser associada amb un tipus particular d'enllaç. En tot cas, perquè una forma vibracional en una molècula sigui activa a l'IR, ha d'estar associada amb canvis en el [[dipol]] permanent, de manera que molècules simètriques difícilment absorbiran radiació IR.
+
+Les molècules diatòmiques simples tenen només un enllaç, que només es pot estirar i encongir. Les molècules més complexes poden tenir molts enllaços, i les diferents formes en les que vibren es poden combinar, portant a absorcions en l'infraroig a freqüències característiques que poden relacionar-se amb grups químics. Per exemple, els àtoms en un grup CHsub2/sub, que es troba en molts compostos orgànics poden vibrar de sis formes diferents, com són estiraments simètrics i asimètrics, flexions simètriques i asimètriques en el pla (tisores i balanceig, respectivament), i flexions simètriques i asimètriques fora del pla (bellugament i torsió, respectivament), com es mostra en els dibuixos a continuació:
+
+center
+{|
+|[[Fitxer:Symmetrical stretching.gif|frame|Estirament simètric (νsubs/sub)]]
+|[[Fitxer:Scissoring.gif|frame|Tisores (δ)]]
+|[[Fitxer:Wagging.gif|frame|Bellugament (ω)]]
+|-
+|[[Fitxer:Asymmetrical stretching.gif|frame|Estirament asimètric (νsubas/sub)]]
+|[[Fitxer:Modo rotacao.gif|frame|Balanceig (ρ)]]
+|[[Fitxer:Twisting.gif|frame|Torsió (τ)]]
+|}
+/center
+
+== Referències ==
+{{Commonscat}}
+
+{{Referències}}
+
+
+{{ORDENA:Espectroscopia Infraroja}}	!--ORDENA generat per bot--
+[[Categoria:Espectroscòpia]]</text>
+      <sha1>se2aggguf5j3h9m05fu3lfy4y23vgo3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

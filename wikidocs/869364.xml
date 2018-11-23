@@ -1,0 +1,410 @@
+<page>
+    <title>Ortografia del bretó</title>
+    <ns>0</ns>
+    <id>869364</id>
+    <revision>
+      <id>13748339</id>
+      <parentid>13620271</parentid>
+      <timestamp>2014-07-05T10:07:53Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: etc.</comment>
+      <text>L''''ortografia del bretó''' (en bretó ''doareoù-skrivañ ar brezhoneg'') és la transcripció del [[bretó]], [[llengües celtes|llengua cèltica]] de la [[família indoeuropea]] parlada a la Baixa [[Bretanya]], en [[alfabet llatí]]. Ha estat objecte de diverses reformes i d'intents de [[normalització lingüística|normalització]] successius i a vegades concurrents: per part dels [[jesuïta|jesuïtes]] en el segle XVIII, pels autors del [[literatura bretona|renaixement bretó]] del [[segle XIX]] i els intents durant el segle XIX d'assolir una ortografia unificada a vegades contradictòria en el respecte a les varietats dialectals de la llengua.
+
+== Antecedents ==
+=== Primeres transcripcions ===
+La transcripció més antiga en [[bretó]] es va trobar dins d'un sarcòfag en una capella prop del poble de Lomarec al municipi de [[Crac'h|Krac'h]], prop d'[[Auray|An Alre]]: ''irha ima in ri'' (en bretó modern: ''amañ emañ ar roue''refHom pot notar la substitució del mot cèltic ''ri'' (cf el [[gaèlic]] ''rí'' i el [[Gal (llengua)|gal]] ''rix'') per l'empremta al [[francès]] del mot ''roue''./ref), que vol dir « ''aquí reposa el rei'' ». La inscripció està datada en el regnat de [[Waroc'h I]], i hom pensa que hi podria estar enterrat. Les evidències que recolzen aquesta tesi són: 
+* l'etimologia d'Auray (del [[llatí]] ''Aula regia''), que fa pensar en una cort reial 
+* La data de fundació d'Auray, un [[castell de mota i pati]] datat del [[segle V]].
+
+Les traces han estat trobades de dues formes diferents: 
+
+* les [[glossa|glosses]] als manuscrits llatins: es tracta d'una breu explicació en bretó termes llatins per a l'ús d'escribes i copistes,
+* Noms de llocs i persones, especialment als [[cartulari]]s de les abadies que compilaven les actes dels sobirans, les acte de donació ... 
+
+Les glosses foren estudiades particularment per [[Léon Fleuriot]].
+
+Del mateix període data el [[manuscrit de Leiden]], de fet, un fragment de tractat sobre medicina i botànica escrits en bretó i llatí que es va trobar a la [[Universitat de Leiden]]. Data del 590 (segle VI), dos segles i mig abans del [[Jurament d'Estrasburg]] ([[842]]), considerat el primer text en [[francès antic]].
+
+Com la majoria de llengües europees occidentals, el bretó es transcriu en alfabet llatí. Però l'alfabet llatí no té transcripció per a alguns [[fonema|fonemes]] particulars del bretó. Els autors de l'Edat Mitjana havien d'usar [[dígraf]]s o [[trígraf]]s per tal de representar certs sons bretons. Així, per exemple, es va introduir la grafia ''-ff'' per assenyalar una vocal [[nasalització|nasal]]. Per exemple, el nom ''Henaff'' (ortografia moderna ''Henañ'') es pronuncia {{IPA|/(h)enã/}}. Originàriament, en [[bretó antic]] i [[bretó mitjà]] les mutacions no foren escrites.
+
+=== La reforma dels Jesuïtes ===
+A partir del segle XVIII els [[Jesuïta|jesuïtes]] posaren en marxa campanyes d'evangelització. A la [[Baixa Bretanya]] la gran majoria de la població no parla francès, excepte als ports de [[Brest]] i [[Lorient]]. Això va forçar als jesuïtes a aprendre bretó. Per tal de facilitar-ne l'ensenyament, van escriure gramàtiques, mètodes, etc. Aleshores es van introduir noves característiques, atribuïdes a [[Julien Maunoir]], però que l'ús de les quals era anterior:
+* l'abandonament de les formes reflectides en desús (''me em'', ''ez em'', ''en em'', ''on em'', ''hoz em'', ''ho em''), substituïdes uniformement substituïdes per ''en em'',
+* l'abandonament de la rima interna i la versificació ,
+* la grafia ''-ff'' que indica la nasalització de la vocal precedent se substitueix per ''-n'',
+* abandonament de les lletres mudes en diferents paraules, en particular una sèrie de ''z'' intervocàliques (''hezre'' esdevé ''here'', ''cazr'' esdevé ''caer'', ...),
+* escritura de les [[mutacions consonàntiques]]. 
+
+Així, encara que fins aleshores sempre s'escrivia ''tat'' (pare), tot i que la pronunciació d'aquesta paraula canviava depenent del context, ara amb la forma [[mutació consonàntica|mutada]] s'escrivia:
+
+* ''ma tat'' « el meu pare », pronunciat /{{IPA|ma'sa:t}}/ després /{{IPA|ma'za:t}}/, i escrit ara ''ma '''z'''ad'',
+* ''da tat'' « el ten pare », pronunciat /{{IPA|da'da:t}}/, ara s'escriu ''da '''d'''ad''.
+
+De vegades (en general els noms propis), s'escriu la lletra mutada abans de la lletra sense mutar per tal de facilitar el reconeixement de paraules. Per exemple, ''Itron '''v'''Maria'' « la verge Maria », ''emaon o vont da '''g'''Kemper'' « jo vaig a Kemper ».
+
+Va ser en aquesta època quan va començar el període del bretó modern, i on es veu que les ortografies difereixen: mentre que la grafia antiga (reformada pels jesuïtes) es converteix en l'estàndard de facto per als tres bisbats de [[Bro Kernev|Cornualla]], [[Bro Dreger|Tregor]] i [[Bro Leon|Leon]], una altra grafia apareix a finals del segle XVIII per a transcriure el dialecte [[vannetès]] (que té una gramàtica i sobretot una pronunciació relativament distants dels altres). D'aquesta manera hi haurà dues tradicions literàries, en [[leonès]] i en [[vannetès]].
+
+El [[1716]] el monjo Dom [[Loeiz Le Pelletier]] va compondre un ''Dictionnaire de la langue bretonne'' (publicat el 1752) on hi proposa estandarditzar ''w'' en ''gw'' i ''k'' davant les vocals ''e'' i ''i''.
+
+=== La reforma de Le Gonidec ===
+Quan [[Jean-François-Marie Le Gonidec]] elaborà entre el 1800 i el 1840 la ''Grammaire celto-bretonne'' i el ''Dictionnaire français-breton'', va renovar també l'ortografia. El seu objectiu era [[transcripció fonètica|transcriure fonèticament]] la llengua (per a ser més exactes, el dialecte [[leonès]]), per tal de superar la possible influència del francès, i ser més simple i coherent. Així, va generalitzar l'ús de la lletra ''k'' per al so /{{IPA|k}}/ fins aleshores escrit ''c'' o ''qu'', la lletra ''g'' per al so /{{IPA|g}}/ davant ''i'' i ''e''...
+
+Aquest enfocament se centra exclusivament en la fonètica [[leonès|leonesa]] en el sentit de treure a l'ortografia certes marques etimològiques: per tant, la ''z'' s'utilitza per registrar tots els sons /z/, encara que no notava que algunes /z/ provenien d'antigues /θ/ o /ð/ (sons que corresponen a ''th'' en anglès de ''thin'' i ''this'' respectivament, conservades en el gal, on estan escrits ''th'' i ''dd''), la lletra ''s'' representen els altres sons /z/ procedents de les antigues /s/ intervocàliques, i les grafies ''ss'' o ''c'' o ''ç'' representant els sons /s/ de la llengua moderna, com en francès.
+
+Durant el segle XIX, l'ortografia de Le Gonidec i la seva versió revisada del diccionari de [[Amable-Emmanuel Troude|Troude]] fou usada paral·lelament amb l'ortografia clàssica: primer amb timidesa, deseprés majoritàriament, un cop fou acceptada per l'església. també en foren usades barreges anàrquiques.
+
+=== La primera grafia unificada ===
+Durant el segle XIX, però, les ortografies utilitzades eren força divergents segons el lloc d'origen de l'escriptor, i per tant, del seu dialecte, segons si havia estat escolaritzat o no ... D'altra banda, alguns texts foren escrits de manera fonètica, de manera que la transcripció variava d'un autor a un altre, segons si sabia francès o no. L'absència d'una autoritat central que arbitrés les diferents opcions ortogràfiques va facilitar la multiplicitat d'ortografies. 
+
+Els escritors, per la seva banda, van tractar de posar remei a aquesta situació refinant la grafia per tal d'admetre totes les varietats dialectals en la mateixa norma escrita. L'objectiu era aconseguir que el màxim de dialectes acceptessin la mateixa ortografia. Aquests esforços assolirien èxit a començaments del segle XX afegint termes de la pronunciació dialectal.
+
+El [[1908]] el gramàtic [[Frañsez Vallee]] i el lingüista [[Émile Ernault|Emil Ernod]] crearen una entesa d'escriptors bretons que proposava una ortografia comuna a partir del dialecte [[leonès]] millorada per Le Gonidec. La majoria d'autors arribaren a un acord sobre la norma (que més tard va rebre el nom de [[KLT]] en referència a les inicials dels tres bisbats bretons, [[Bro Kernev|Kernev]], [[Bro Leon|Leon]] i [[Bro Dreger|Treger]]). No arribaren a un acord, però, amb els escriptors de [[Bro Gwened]], que continuaren escrivint amb l'antiga ortografia. Les innovacions introduïdes el 1908 consistien en:
+* generalització de l'ús d'''y'' per la [[semiconsonant]] /{{IPA|j}}/ : ara s'escriu ''Yann'' en comptes de ''iann'' (cf ''Emgann Kergidu''), ''ya'' en lloc de ''ia'' (alguns han volgut estendre aquesta pràctica als plurals en ''-ien'', ''iou'', el que hauria estat coherent)
+* ús de ''gw'' en lloc de ''gu'' per escriure la combinació /{{IPA|g|w}}/, permetent així diferenciar de /{{IPA|g|u}}/ (comparar per exemple ''gouel'' « festa » i ''gwell'' « millor »)
+* ús de ''ilh'' pel so /{{IPA|ʎ}}/ (« mullat »)
+* la transcripció de les consonants finals és un problema particular en el bretó, que varien segons el [[Context|context fonètic]]: són [[ensordiment final|ensordides a final de paraula]] (acabament o interrupció de la frase) i [[lenició|suavitzada]] en [[sandhi|associació]] (ex. : ''Mad eo'' (« està bé ») es pronuncia /{{IPA|ma:'''d'''e}}/ mentre que ''Se zo mad'' (« això està bé ») es pronuncia /{{IPA|sezoma:'''t'''}}/ ou /{{IPA|zezoma:'''t'''}}/). Es va decidir de transcriure els [[substantiu]]s amb una finale suau i els [[adjectiu]]s amb una final forta (ex. ''mad'' : el « bé » (contra el mal) ~ ''mat'' : l'adjectiu « bo », però ambdós es pronuncien de la mateixa manera).ref
+La raó és que el plural del nom és  madoú  (els béns), mentre que l'adjectiu acaba en  -t  per ser consistent amb el comparatiu  -toc'h  ( més ... que ) i el superlatiu  -tañ  ( el més ... ). També s'aplica el mateix en  -g (nom) que esdevé -k  (adj.)  -koc'h  i  -kañ , i -b  esdevé -p  -poc'h  i -pañ ./ref
+
+Entre els anys 1910 a 1930 es van fer noves propostes per tal d'aproximar l'ortografia KLT i la vanetesa. En particular, el [[1911]] el canonge i gramàtic [[vannetès]] [[Pierre Le Goff]] va proposar una síntesi de l'ortografia a Frañsez Vallée i Emil Ernod a [[Saint-Brieuc]]. La principal innovació va ser el dígraf ''zh'' emprat als dialectes KLT on es pronuncia /z/ (o no es pronuncia) i en [[vannetès]] és pronunciat /h/, de manera que Breizh Bretanya es pronuncia Breih a [[Vannes]] i Breiz a la resta del país. (El zh normalment correspon a un antic /{{IPA|θ}}/)) Aquesta proposta no prosperà pas a causa de les diferències sobre la transcripció ''c'h'' del fonema /{{IPA|x}}/. 
+
+La ''Bodadeg veur Emglew ar Brezhonegerien'' (Gran Assemblea de L'Entesa dels Bretonòfons) va tenir lloc el [[28 de desembre]] de 1936 a l'Hotel Terminus de [[Lorient]], per iniciativa de [[Xavier de Langlais]], secretari d'[[Emglew ar Brezhonegerien KLTG]] (Entensa dels Bretonòfons KLTG) i sota el patrocini d'[[Ar Brezhoneg er Skol]]. Aquests principis foren resumits en una proposició de [[Xavier de Langlais]] el [[1936]]. Consistien en l'ús de les grafies següents: 
+* ''-v'' pel so /{{IPA|w}}/ que en [[Comtat de Goëlo|Goëlo]] es pronuncia /{{IPA|v}}/ o /{{IPA|f}}/ quan els altres dialectes pronuncien generalment /{{IPA|w}}/ o un so aproximat (ex. : ''piou'' sovint és escrit ''piv'', ''brao'' esdevé ''brav'', etc.). Aquesta notació té l'avantatge de posar de manifest que el [[radical (lingüistica)|radical]] es deriva d'un mot (ex. : ''brav'' → ''bravañ'' mentre que abans ''brava'' derivava de ''brao''). Finalment, es marca indicant una pronunciació vannetesa diferent. (La proposició initial suggereix usar la grafia ''w'' en la que ara s'utilitza ''-v''.)
+* el dígraf ''zh'' proposat el 1911.
+
+Aquestes proposicions foren rebutjades inicialment per la majoria d'escriptors, principalment [[Roparz Hemon]]. El [[1938]] es va intentar una nova reunió a Lorient que acabà sense acord, aquest cop amb innocacions proposades pels escriptors vannetesos [[Auguste Guillevic]], [[Loeiz Herrieu]] i [[Xavier de Langlais]].
+
+== Creació del ''peurunvan'' (ortografia unificada) ==
+En 1941 el [[França de Vichy|règim de Vichy]] es va declarar disposat a tolerar l'ensenyament del bretó (tot i que la llengua bretona havia estat severament reprimida a les escoles), però lamenta que no és possible a causa de l'existència de diverses varietats ortogràfiques. 
+
+El [[8 de juliol]] de [[1941]] un comitè d'escriptors ([[Roparz Hemon]], [[Loeiz Herrieu]], [[Frañsez Kervella]], l'[[Yann-Vari Perrot|abat Perrot]], Bourdelles, Uguen, [[Abeozen]], el pare Le Goff, [[Gwilherm Berthou]], [[Loeiz Ar Floc'h]], ...) és es va reunir i va aprovar una ortografia unificada davant la necessitat de permetre l'ensenyament del bretó. Com a resultat d'això, al final de l'any es va permetre l'ensenyament facultatiu del bretó fins a una hora per setmana fora de l'horari escolar normal. Aquesta ortografia es va adoptar gradualment de 1941 a 1942.
+
+Aquesta ortografia és anomenada sovint KLTG (amb referència a la unificació entre l'ortografia [[KLT]] i Vannes/Gwenedeg en bretó). També és conegut com a ''peurunvan'' totalment unificatref Alguns com [[Françoise Morvan]] traduïren erròniament com ''surunifié'', la insistència en aquest error potser és intencionada./ref o escrptura zh, el dígraf ''zh'' fou pres com un símbol de la unificació de l'ortografia del [[vannetès]] i dels altres dialectes.
+
+Després de l'[[Alliberament de França|alliberament]], el degà de la Facultat d'Arts de Rennes va fer pública la seva negativa a admetre els exàmens que controlava la universitat d'aquesta ortografia que va anomenar científicament reprovable i improvisada el 8 de juliol de 1941 a instàncies de l'ocupant.ref[[Hervé Le Boterf]], ''La Bretagne dans la Guerre''/ref Malgrat això, aquesta ortografia ha estat usada per més de la meitat d'autors en bretó, ja sigui antics com 
+
+Aquesta ortografia ha estat seguit per encara més de la meitat dels autors de la llengua bretona, ja siguin vells com [[Loeiz Ar Floc'h]], [[Youen Olier]], [[Marsel Klerg]], [[Per Denez]], [[Abanna]] i [[Goulven Pennaod]], o els més joves de la generació [[Unió Democràtica de Bretanya|UDB]], com [[Erwan Evenou]] o [[Yann-Ber Piriou]], i després per [[Kergoat]] i [[Alan Botrel]]. El [[1958]] fou creada [[Kuzul ar Brezhoneg]], federació que agrupa les associacions bretones militants per l'ortografia unificada del bretó.
+
+== L'ortografia universitària (''ar skolveurieg'')==
+Després de la guerra, alguns autors es van negar a utilitzar l'escriptura peurunvan a causa del compromís amb la [[Col·laboració a França|Col·laboració]] d'alguns dels seus promotors. D'altra banda, durant els anys 1950 es va produir el miracle bretó, el pas d'una agricultura basada en l'explotació de petites parcel·les a una agricultura quasi-industrial (mecanització, fusió de petites explotacions en grans, consolidació i desenvolupament de cooperatives, etc.). Al mateix temps es va produir un basculament lingüístic: els ancians parlaven bretó entre ells però parlaven en francès als seus fills, pertal d'evitar-los la humiliació que ells mateixos havien patit en la seva joventut (com el [[simbol]]) i facilitar-los l'accés a la cultura francesa, considerada més atractiva per l'adopció d'un llenguatge percebut com a modern (idioma de la ciutat i dels burgesos) en lloc d'un llenguatge devaluat (el bretó, llengua desprestigiada després d'un segle d'educació, llengua de pagesos, pobres, etc.). Així que no és estrany veure en els districtes centrals de Bretanya gent nascuda abans de 1950 per parlar bretó entre ells i francès als infants i als estrangers.
+ 
+El movimen associatiu [[Emgleo Breiz]] de promoció de la llengua bretona propoà el [[1953]] una nova ortografia, que havia d'ajudar als que volien aprendre bretó a dominar-ne la pronunciació, utilitzant una grafia més properes a les convencions franceses. La ruptura amb l'ortografia antiga ha estat minimitzada pel fet que l'església pràcticament ha abandonat l'ensenyament del bretó en les últimes dècades, el bretó no s'ensenya en absolut, sinó que es transmet per via oral.
+
+Aquesta ortografia creada pel canonge [[François Falc'hun]] fou anomenada escriptura universitària (''skolveurieg''), ja que va ser adoptada per l'administració en les universitats. També fou anomenada escriptura de Brest ja que molts escriptors que l'adoptaren parlaven [[leonès]], que havia estat durant molt de temps estandart vehicular del [[KLT]]. Alhora, es va idear una escriptura universitària pel [[vannetès]], amb la que comparteix trets comuns. Les seves característiques, comparades amb el perunvan, són:
+* substitució de la grafia ''c'h'' per ''h'' en tots els casos en què la pronunciació majoritària és /{{IPA|h}}/;
+* generalització de la forma lleu de les consonants finals dels adjectius, preposicions i formes verbals (per exemple,. ''Mad eo'' i ''N'eo ket mat'') ;
+* la restitució de l'ortografia tradicional en lloc de ''v'' del peurunvan en la pronunciació /w/, per exemple ''brao'' i ''liou'' en lloc de ''brav'' i ''liv'' ;
+* simplificació en ''-m'' de les ''-mp'' de primera persona del plural;
+* marcatge facultatiu de la nasalització dels infinitius (pronunciació de [[Bro Dreger]]) i superlatius (Tregor i [[Bro Kernev]]);
+* escritura dels antics diftongs ''ao'' i ''ae'' en ''ô'' i ''ê'' ;
+* Notació de les mutacions /{{IPA|s}}/ en /{{IPA|z}}/, com abans del peurunvan;
+* Notació possible de les mutacions /{{IPA|ʃ}}/ escrit ''ch'' en /{{IPA|ʒ}}/ escrit ''j'', i de /{{IPA|f}}/ escrit ''f'' en /{{IPA|v}}/ escrit ''’f''
+* uns retocs a l'ortografia de paraules concretes: ''ema'' en lloc de ''emañ'', ''oll'' en lloc de ''holl''...
+
+Aquesta ortografia s'ha vist molt criticada per certs inconvenients:
+* sobre el paper no té pas la pretensió de ser l'única al territori bretonòfon, ni tan sols per la KLT; però els seus usuaris sovint s'alinearen en la versió [[leonès|leonesa]]: restitució de la ''z'' leonesa en la reedició de les obres en tregorrès (''Bilzig'')... 
+* No fa pas distinció entre « h » [[enmudiment|muda]] i « h » sonora (escrit ''c'h'' en peurunvan : ex. ''bihan'' (h muda) ~ ''nehi'' (h pronunciada), ''morhed'' (h pronunciada) ~ ''morhoh'' (h muda) ;
+* Confon la grafia ''ill'' la /{{IPA|ʎ}}/ humida i la /{{IPA|l}}/ després {{IPA|i}} breu : ex. ''pillig'' (i breu + l) ~ ''pillou'' (l humida) ;
+* Escriu un final sonor pels adjectius i no pas la notació del « zh ».
+* No escriu la nasalització dels infinius, cosa que no permet pas distingir les dues classes de verbs del bretó. 
+* l'escriptura dels ''-mp'' de la primera persona del plural en ''-m'', et dels ''c'h'' en ''h'' no és més apropiat fonèticament quan s'allunya del [[leonès]].
+
+L'ortografia universitària només utilitzada per la tendència regionalista del [[nacionalisme bretó|moviment bretó]], qui agrupa des de personalitats proximes al [[Moviment Republicà Popular|MRP]] o del [[gaullisme]], laics cristians i catòlics practicants, eclesiàstics i religioses de les diòcesis de [[Quimper]] i [[Bro Leon]], així com simpatitzants del [[Partit Comunista Francès]] o d'organitzacions afins, Alguns nomenenen aquesta ortografia ''ar falc'huneg'', en honor al seu creador.
+
+== L'escriptura interdialectal (''etrerannyezhel'')== 
+A finals dels anys 1960, per tal de reduir la bretxa entre l'escriptura unificada i l'escriptura acadèmica, els defensors dels dos sistemes (i els insatisfets amb un i altre, com [[Léon Fleuriot]]) es van reunir diverses vegades per tractar de trobar una solució de compromís. En aquestes reunions es van establir els fonaments de l'ortografia etimològica o interdialectal. El projecte no va prosperar. Alguns rebutjaven la ''zh'' a causa del seu símbol nacionalista (o nazi). [[Per Denez]], en canvi, no volia canviar el peurunvan.
+
+En 1975, però, a petició de la [[Unió Democràtica Bretona]] i per tal de publicar el seu mètode [[assimil]] en bretó, [[Fañch Morvannou]] va proposar una nova ortografia basant-se en les conclusions de les reunions esmenades. Aquesta ortografia, anomenada interdialectal (''etrerannyezhel''), segons els seus defensors, ofereix els avantatges:
+* Reflecteix millor l'etimologia de les paraules, ja sigui d'origen cèltic o llatí: es tracta de ser científic;
+* Aproxima ortogràficament el bretó a les llengües germanes ([[gal (llengua)|gal]] i [[còrnic]])
+que porta el bretó ortogràficament les seves llengües germanes ( Gal i Cornualla );
+* També és proper a l'ortografia anterior a [[Jean-François-Marie Le Gonidec|Le Gonidec]]
+* Evita alguns errors en la pronunciació;
+* s'esforça per satisfer millor les diferències dialectals: pretén ser igualitari.
+
+Aquesta ortografia repren alguns dels principis de la peurunvan aportant algunes modificacions:
+ 
+* les consonants a final de paraula són notats per consonant feble coma la universitària. 
+* la ''zh'' és utilitzada per a notar la /{{IPA|θ}}/ etimològica, corresponent a una ''th'' del gal (que havia estat la idea original) llevat quan és inicial o en paraules compostes: una dotzena de mots peurunvan en ''zh'' (''diwezhat, ezhomm, kouezhañ, lazhañ, Roazhon...'') s'écriviran amb una ''z'' simple en interdialectal (''diwezad, ezomm, kouezañ, lazañ, Roazon...'') quan s'escrivien amb una ''h'' en [[vannetès]] : aquestes ''z'' no provenen pas d'un /{{IPA|θ}}/ sinó d'un /{{IPA|ð}}/ (''dd'' gal) i ne es pronuncien pas en [[Bro Kernev]] ni en [[Bro Dreger]], però la ''zh'' no sempre es muda a kernev (ex. ''c'hoazh, brizhili''...) ;
+* la /{{IPA|z}}/ resta escrita ''z'' quan prové d'un antic /{{IPA|ð}}/ : ''ruz, druz, goz, newez, dimeziñ'', etc., però s'escriu''s'' quan prové d'un antic /{{IPA|s}}/ : ''izel'' « baix » esdevé ''isel'' co men gal ''isel'' i l'irlandès ''iseal'', ''azen'' « âse » esdevé ''asenn'' com el llatí ''asinus'', ''noz'' « nit » esdevé ''nos'' com en gal·lès, bretó mitjà i còrnic; es pronuncia sempre i a tot arreu /{{IPA|s}}/) però s'escriu ''ss'' : ''paseal'' « passar » esdevé ''passeal'', ''dous'' « suau » esdevé ''douss''. Exemple global : el peurunvan ''azezet on war ar plouz dous'' esdevé en interdialectal : ''asezet on war ar plous douss'', la ''z'' d'''asezet'' esdevé generalment muda fora de Bro Leon, diferència invisible de l'ortografia peurunvan ''azezet'' ;
+* algunes ''v'' del peurunvan s'escriuen ''w'' : ''liv'' (''liou'' o ''liù'' en universitari « color » esdevé ''liw'' semblant al gal·lès ''lliw'', ''glav'' (''glao'' o ''glaù'' en universitari) « pluja » esdevé ''glaw'' com en gal·lès ;
+* algunes paraules aïllades són modificades.
+
+Aquesta ortografia només ha estat emprada per l'editorial [[Skol Vreizh]], pel gramàtic [[Fañch Morvannou]] (mètode [[Assimil]]), pel diccionari de [[Francis Favereau]] (tot i que els contes els ha publicat en ortografia unificada), en el conte ''Donaw'' d'[[Iwan Tangi]], el diccionari de matemàtiques de [[Jean Marot]], a les poesies de [[Jean-Claude Le Ruyet]] i als llibres de [[Jean-Yves Plourin]].
+
+=== Nova versió (2003) ===
+Una versió que es considera més científica d'aquesta ortografia fou proposada el 2003 per [[Albert Deshayes]] al ''Dictionnaire étymologique du breton'', ja que cercava tenir una base més etimològica. Hi corregeix alguns punts :
+* la /{{IPA|z}}/ provinent de l'antiga /{{IPA|s}}/ és escrita sistemàticament ''s'' (en algunes paraules, Fañch Morvannou havia conservat ''z'') : ''amzer'' « temps » esdevé ''amser'' com en gal·lès. Això provoca noves confusions, com ''harsañ'' amb /z/ i ''farsal'' amb /s/, ''falzer'' amb /z/ i ''falser'' amb /s/ de Morvannou confosos en ''falser'' ;
+* supressió de les ''zh'' no etimològiques, encara que es pronunciïn /{{IPA|h}}/ en vannetès, així ''kerhet'' vannetès és transcrit ''kerzed'' (el grup ''-rz-'' indicant la variació). Les altres ''rz'' resten ''rz'' (com ''peurzorn''), i han de ser pronunciades /{{IPA|r|z}}/ en bretó vannetès.
+* l'ús de consonants finals febles o fortes està sistematitzat segons l'etimologia, reflextica en la vocal precent (llarga o curta; l'ús de les febles s'estén al participi passat i al mot ''ked'' (que Falc'hun avait proposat de deixar com a fortes).
+* l'ortografia de molts mots és modificada en un sentit més etimològic : ''ovn'' en lloc d{{'}}''aon'' (« por »), ''ew'' en lloc d{{'}}''eo'' (forma del verb « ser ») — generalment amb una conseqüència positiva sobre la qualitat interdialctal de l'ortografia, ''yein'' en lloc de ''yen'' (fred), ''laesenn'', del francès antic ''lei'' (« llei »), en lloc de ''lezenn'' ;
+* El diftong ''aou'' i la seva versió no accentuada ''où'' són escrites ''ow'' (con en còrnic) : ''low'' en lloc de ''laou'' « polls », ''pilhow'' en lloc de ''pilhoù'' « draps » i ''pilhowaer'' en lloc de ''pilhaouaer'' « calaixera ». En aquests casos, la relació entre els mots derivats es veu més clara : ''park  parkow  parkowier'' en lloc de ''park  parkoù  parkaouier/parkeier''. Hom podria objectar aque aquesta anotació amaga el fet que el fonema es pronuncia /u/ en posició àtona. Endemés, aquesta notació soscava la integritat del sistema, puix que la « w » s'utilitza, en ''etrerannyezhel'', però que es pronuncia tant /w/ com /v/, com a ''gwenn'', qui mutà i es pronuncia generalment /vɛn/ com a ''un nor wenn'' (/œ̃n nɔ:ʁ vɛn/). O, per exemple, ningú no pronuncia ''laou'' */lov/.
+
+== Comparació de les tres ortografies ==
+
+{| class=wikitable
+|+ Comparació
+|-
+! Etrerannyezhel (1975)
+! Peurunvan (1941)
+! Skolveurieg (1956)
+! Traducció 
+|-
+| ''gla'''w'''''|| ''gla'''v''''' || ''gla'''o''''' || pluja
+|-
+| ''pi'''w'''''|| ''pi'''v''''' || ''pi'''ou''''' || qui
+|-
+| ''le'''v'''r''|| ''le'''v'''r'' || ''le'''o'''r'' || lliure
+|-
+| ''e'''w'''id''|| ''e'''v'''it'' || ''e'''v'''id'' || per
+|-
+| ''gan'''t'''''|| ''gan'''t''''' || ''gan'''d''''' || amb
+|-
+| ''ane'''zh'''i''|| ''ane'''zh'''i'' || ''ane'''z'''i'' || ella
+|-
+| ''ou'''zh'''penn''|| ''ou'''zh'''penn'' || ''ou'''s'''penn'' || més
+|-
+| ''bra'''w'''añ''|| ''bra'''v'''añ'' || ''bra'''v'''a'' || Superlatiu de ''brav'', agradable
+|-
+| ''pele'''c’h'''''|| ''pele'''c’h''''' || ''pele'''h''''' || on
+|}
+
+== Polèmica sobre l'ortografia del bretó ==
+Periòdicament esclaten polèmiques sobre l'elecció de l'ortografia, barrejant ortografia, llenguatge i política. Hi ha dos tipus de controvèrsia, la que divideixen els bretonòfons a causa de la seva opció lingüística i la que és causada pels oposats al bretó.
+=== Una llengua, dos bàndols, tres ortografies ===
+Després de la [[Segona Guerra Mundial]] s'ha produït una divisió en l'elecció de l'ortografia:
+* Una franja (anomenada ''nacionalista'' pels seus opositors) partidària de mantenir l'ortografia peurunvan en la línia marcada per [[Gwalarn]]. Inclou la revista [[Al Liamm]] i els cursos per correspondència [[Skol Ober]], amb l'objectiu de desenvolupar un bretó unificat, una llengua de creació per a la literatura i l'educació;
+* Una altra granja (anomenada ''regionalista'' pels seus opositors), que inclou tant comunistes com confessionals, utilitza l'ortografia universitària, amb l'objectiu de preservar el bretó tradicional, en una societat on no hi havia perspectives d'obertura a l'ensenyament del bretó, encara que molts creien, erròniament, que la [[llei Deixonne]] de 1951 en permetria el desenvolupament. Ha estat usada en algunes emissions de ràdio i de televisió en bretó (primer amb [[Charlez ar Gall]] i després [[Fañch Broudig]]) i ha tingut algun ressò gràcies a les edicions d'[[Emgleo Breiz]] i a la revista [[Brud Nevez]].
+* El 1975, per tal de superar aquesta divisió es va crear l'ortografia interdialectal (''etrerannyezhzel''). Però cadascú ha restat fidel a la seva posició (ortografia unificada contra ortografia universitària) i l'intent d'unificació va ser un fracàs. La revista [[Planedenn]], publicada en aquesta ortografia, va tenir una vida molt efímera, i les edicions [[Skol Vreizh]] que li donaven suport a poc a poc s'obriren a l'ortografia ''peurunvan''.refEncara que l'edició de 1993 del ''geriadur ar brezhoneg a-vremañ'' de [[Francis Favereau]] privilegiava la grafia interdialectal, la versió resumida, editada posteriorment (Geriadur krenn ar brezhoneg a-vremañ, 1999 éd. Skol-Vreizh), es va fer amb ''peurunvan''/ref
+
+El canvi polític de 1981 que permet la creació de la llicenciatura en bretó, després del CAPES i del DEUG, va promoure l'ensenyament del bretó i la formació donada a la [[Universitat de l'Alta Bretanya]] a [[Rennes]], on la ''peurunvan'' és l'única ortografia ''universitària''. Els canvis sociològics han debilitat l'altra tendència, i la [[Universitat de Bretanya Occidental]] a [[Brest]] també està oberta a les diferències.
+
+=== Situació actual ===
+Durant la dècada del 1980 la situació s'ha anat clarificant:
+* L'aparició des del [[1976]] de les escoles [[Diwan]] ha contribuït en gran mesura a l'expansió de l'ortografia ''peurunvan'', que es va generalitzar el seu ús en l'educació, la vida pública i les publicacions. Totes les noves associacons o revistes noves creades després, com [[Bremañ]] (1980) o [[Ya!]] (2005) han seguit el seu exemple, incloent per suposat les edicions per a la joventut, els llibres o revistes per a nens publicat per [[An Here]] o [[Keit Vimp Bev]]. També és utilitzada per gairebé tots els mestres de classes bilingües, i pels docents catòlics de la [[Universitat d'Alta Bretanya]] (Rennes II) i per alguns professors de la [[Universitat de Bretanya Occidental]] (UBO) de Brest.
+* La [[viquipèdia en bretó]] utilitza majoritàriament aquesta ortografia.
+* D'altra banda, l'ortografia universitària (''skolveurieg'') encara és utilitzada per [[Emgleo Breiz]] i les seves publicacions, dirigides per [[Fañch Broudig]].
+* L'escriptura interdialectal (''etrerannyezhel'') només s'utilitza en l'educació anecdòticament. També s'utilitza en la [[Universitat de Bretanya Occidental]] (UBO) de Brest i és reconeguda per l'Escola de Graduats de la [[Universitat de l'Alta Bretanya]] (Rennes II) com a escriptura estandarditzada i codificada per a l'obtenció de diplomes. L'editorial [[Skol Vreiz]] treu llibres en aquesta ortografia, i cada any l'associació bretona [[Ar Falz]] organitza un curs de bretó on aquesta escriptura hi és representada. L'associació de [[Vannes]] [[Tremenvoe]] i els treballs de [[Skolius]] fan servir la interdialectal com a ortografia de referència.
+
+La situació no és exactament la de 1975, i les rivalitats s'han alleujat molt. Els vells arguments ja no estan limitats als sobiranistes que s'oposen al bretó en general. Hi ha fins i tot alguns escriptors, com [[Goulc'han Kervella]] o el prolífic [[Mikael Madeg]] que publiquen els seus textos en les dues ortografies principals.
+
+La ''Skrivadenn'' o dictat en llengua bretona, concurs anual de dictat de 4 a 84 anys i al qual van assistir 400 participants el març de 2006, utilitza l'ortografia ''peurunvan''.
+
+== Ordre alfabètic ==
+
+div style=margin:0.5em;margin-left:2em
+{| class=wikitable gauche style=margin:0;text-align:center;line-height:1.2
+|-valign=top bgcolor=#CCFFCC
+!style=text-align:left valign=middle| Tri primari
+|rowspan=2 colspan=7 bgcolor=#FFFF99| nbsp;
+|rowspan=3 bgcolor=#FFFF99| nowiki-/nowiki
+|rowspan=3 bgcolor=#FFFF99| –
+|rowspan=3 bgcolor=#FFFF99| —
+|rowspan=3 bgcolor=#FFFF99| ,
+|rowspan=3 bgcolor=#FFFF99| nowiki;/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki:/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki!/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki?/nowiki
+|rowspan=3 bgcolor=#FFFF99| .
+|rowspan=2 colspan=2 bgcolor=#FFFF99| …
+|rowspan=2 colspan=3 bgcolor=#FFFF99| ’
+|rowspan=2 colspan=3 bgcolor=#FFFF99| 
+|rowspan=3 bgcolor=#FFFF99| (
+|rowspan=3 bgcolor=#FFFF99| )
+|rowspan=3 bgcolor=#FFFF99| nowiki[/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki]/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki{/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki}/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki§/nowiki
+|rowspan=3 bgcolor=#FFFF99| nowiki¶/nowiki
+|-valign=top
+!style=text-align:left valign=middle| Tri secundari
+|-valign=top
+!style=text-align:left valign=middle| Tri terciari
+|bgcolor=#FFFF99| nbsp;
+|bgcolor=#FFFF99| _
+|bgcolor=#FFFF99| ´
+|bgcolor=#FFFF99| `
+|bgcolor=#FFFF99| ˆ
+|bgcolor=#FFFF99| ˜
+|bgcolor=#FFFF99| ¨
+|bgcolor=#FFFF99| . nowiki / .nowiki / .
+|bgcolor=#FFFF99| …
+|bgcolor=#FFFF99| nowiki'/nowiki
+|bgcolor=#FFFF99| ‘
+|bgcolor=#FFFF99| ’
+|bgcolor=#FFFF99| 
+|bgcolor=#FFFF99| «
+|bgcolor=#FFFF99| »
+|}{{Clr}}
+p style=margin:0;font-size:87%;line-height:1''Següent tabla :''
+
+{| class=wikitable gauche style=margin:0;text-align:center;line-height:1.2
+|-valign=top bgcolor=#CCFFCC
+!style=text-align:left valign=middle| Tri primari
+|rowspan=3 bgcolor=#FFDD66| @
+|rowspan=3 bgcolor=#FFDD66| nowiki*/nowiki
+|rowspan=3 bgcolor=#FFDD66| nowiki//nowiki
+|rowspan=3 bgcolor=#FFDD66| nowiki\/nowiki
+|rowspan=3 bgcolor=#FFDD66| amp;
+|rowspan=3 bgcolor=#FFDD66| #
+|rowspan=3 bgcolor=#FFDD66| nowiki%/nowiki
+|rowspan=3 bgcolor=#FFDD66| °
+|rowspan=3 bgcolor=#FFDD66| nowiki+/nowiki
+|rowspan=3 bgcolor=#FFDD66| nowiki±/nowiki
+|rowspan=3 bgcolor=#FFDD66| nowiki÷/nowiki
+|rowspan=3 bgcolor=#FFDD66| nowiki×/nowiki
+|rowspan=3 bgcolor=#FFDD66| lt;
+|rowspan=3 bgcolor=#FFDD66| nowiki=/nowiki
+|rowspan=3 bgcolor=#FFDD66| gt;
+|rowspan=3 bgcolor=#FFDD66| nowiki|/nowiki
+!--
+|rowspan=3 bgcolor=#FFFF99| ^
+|rowspan=3 bgcolor=#FFFF99| ~
+--
+|rowspan=3 bgcolor=#FFDD66| $
+|rowspan=3 bgcolor=#FFDD66| £
+|rowspan=3 bgcolor=#FFDD66| €
+|rowspan=3 bgcolor=#DDDDFF| '''0''' ||rowspan=3 bgcolor=#DDDDFF| '''1'''
+|rowspan=3 bgcolor=#DDDDFF| '''2''' ||rowspan=3 bgcolor=#DDDDFF| '''3'''
+|rowspan=3 bgcolor=#DDDDFF| '''4''' ||rowspan=3 bgcolor=#DDDDFF| '''5'''
+|rowspan=3 bgcolor=#DDDDFF| '''6''' ||rowspan=3 bgcolor=#DDDDFF| '''7'''
+|rowspan=3 bgcolor=#DDDDFF| '''8''' ||rowspan=3 bgcolor=#DDDDFF| '''9'''
+|-valign=top
+!style=text-align:left valign=middle| Tri secundari
+|-valign=top
+!style=text-align:left valign=middle| Tri terciari
+|}{{Clr}}
+p style=margin:0;font-size:87%;line-height:1''Següent taula :''
+
+{| class=wikitable gauche style=margin:0;text-align:center;line-height:1.2
+|-valign=top bgcolor=#CCFFCC
+!style=text-align:left valign=middle| Tri primari
+|colspan=6| '''a'''
+|colspan=2 bgcolor=#CCCCCC| ''a e''
+|rowspan=2 colspan=2| '''b'''
+|rowspan=2 colspan=3| '''ch''' ||rowspan=2 colspan=3| '''c’h'''
+|colspan=4 bgcolor=#FFCCCC| c
+|rowspan=2 colspan=2| '''d'''
+|colspan=10| '''e'''
+|-valign=top
+!style=text-align:left valign=middle| Tri secundari
+|colspan=2| a ||colspan=2| à ||colspan=2| â
+|colspan=2 bgcolor=#FFCCCC| æ
+|colspan=2 bgcolor=#FFCCCC| c
+|colspan=2 bgcolor=#FFCCCC| ç
+|colspan=2| e
+|colspan=2 bgcolor=#FFCCCC| é ||colspan=2 bgcolor=#FFCCCC| è
+|colspan=2| ê
+|colspan=2 bgcolor=#FFCCCC| ë
+|-valign=top
+!style=text-align:left valign=middle| Tri terciari
+| a || A || à || À || â || Â
+|bgcolor=#FFCCCC| æ ||bgcolor=#FFCCCC| Æ
+| b || B
+| ch || Ch || CH || c’h || C’h || C’H
+|bgcolor=#FFCCCC| c ||bgcolor=#FFCCCC| C
+|bgcolor=#FFCCCC| ç ||bgcolor=#FFCCCC| Ç
+| d || D
+| e || E
+|bgcolor=#FFCCCC| é ||bgcolor=#FFCCCC| É ||bgcolor=#FFCCCC| è ||bgcolor=#FFCCCC| È
+| ê || Ê
+|bgcolor=#FFCCCC| ë ||bgcolor=#FFCCCC| Ë
+|}{{Clr}}
+p style=margin:0;font-size:87%;line-height:1''Següent taula :''
+
+{| class=wikitable gauche style=margin:0;text-align:center;line-height:1.2
+|-valign=top bgcolor=#CCFFCC
+!style=text-align:left valign=middle| Tri primari
+|rowspan=2 colspan=2| '''f'''
+|rowspan=2 colspan=2| '''g''' ||rowspan=2 colspan=2| '''h'''
+|colspan=6| '''i'''
+|rowspan=2 colspan=2| '''j''' ||rowspan=2 colspan=2| '''k''' ||rowspan=2 colspan=2| '''l''' ||rowspan=2 colspan=2| '''m'''
+|colspan=4| '''n'''
+|colspan=4| '''o'''
+|colspan=2 bgcolor=#CCCCCC| ''o e''
+|rowspan=2 colspan=2| '''p''' ||rowspan=2 colspan=2| '''r''' ||rowspan=2 colspan=2| '''s''' ||rowspan=2 colspan=2| '''t'''
+|-valign=top 
+!style=text-align:left valign=middle| Tri secundari
+|colspan=2| i
+|colspan=2 bgcolor=#FFCCCC| î
+|colspan=2| ï
+|colspan=2| n ||colspan=2| ñ
+|colspan=2| o
+|colspan=2 bgcolor=#FFCCCC| ô
+|colspan=2 bgcolor=#FFCCCC| œ
+|-valign=top
+!style=text-align:left valign=middle| Tri terciari
+| f || F || g || G || h || H
+| i || I
+|bgcolor=#FFCCCC| î ||bgcolor=#FFCCCC| Î
+| ï || Ï
+| j || J || k || K || l || L || m || M
+| n || N || ñ || Ñ
+| o || O
+|bgcolor=#FFCCCC| ô ||bgcolor=#FFCCCC| Ô
+|bgcolor=#FFCCCC| œ ||bgcolor=#FFCCCC| Œ
+| p || P || r || R || s || S || t || T
+|}{{Clr}}
+p style=margin:0;font-size:87%;line-height:1''Suite de la table :''
+
+{| class=wikitable gauche style=margin:0;text-align:center;line-height:1.2
+|-valign=top bgcolor=#CCFFCC
+!style=text-align:left valign=middle| Tri primari
+|colspan=8| '''u'''
+|rowspan=2 colspan=2| '''v''' ||rowspan=2 colspan=2| '''w'''
+|colspan=4| '''y'''
+|rowspan=2 colspan=2| '''z'''
+|rowspan=2 colspan=2 bgcolor=#FFCCCC| q
+|rowspan=2 colspan=2 bgcolor=#FFCCCC| x
+|-valign=top 
+!style=text-align:left valign=middle| Tri secundari
+|colspan=2| u ||colspan=2| ù
+|colspan=2 bgcolor=#FFCCCC| û
+|colspan=2 bgcolor=#FFCCCC| ü
+|colspan=2| '''y'''
+|colspan=2 bgcolor=#FFCCCC| ÿ
+|-valign=top
+!style=text-align:left valign=middle| Tri terciari
+| u || U || ù || Ù
+|bgcolor=#FFCCCC| û ||bgcolor=#FFCCCC| Û
+|bgcolor=#FFCCCC| ü ||bgcolor=#FFCCCC| Ü
+| v || V || v || W
+| y || Y
+|bgcolor=#FFCCCC| ÿ ||bgcolor=#FFCCCC| Ÿ
+| z || Z
+|bgcolor=#FFCCCC| q ||bgcolor=#FFCCCC| Q
+|bgcolor=#FFCCCC| x ||bgcolor=#FFCCCC| X
+|}{{Clr}}
+/div
+
+== Referències ==
+{{referències}}
+== Bibliografia ==
+* [[Kenneth Hurlstone Jackson]], ''A Historical Phonology of Breton'', [[Dublin Institute for Advanced Studies]], [[Dublín]], desembre 1967, ISBN 978-0901282538 
+
+== Vegeu també ==
+* [[Mutacions del bretó]]
+* [[Senyalització_bilingüe#Bretanya|Senyalització bilingüe en bretó]]
+
+== Enllaços externs ==
+* {{fr}} [http://klaskato.free.fr/awb/diellou/brezhoneg_1.php Les orthographes du breton], per [[Francis Favereau]]
+* {{fr}} [http://web.archive.org/20090219221534/www.geocities.com/ar_falz/Raude1.htm En parlant d'orthographe], per [[Alan-Joseph Raude]]
+
+== Programaris de correcció ortogràfica ==
+* [http://www.arbedkeltiek.com/brezhoneg/levriou/difazi99_bzhg.htm Difazi 99], per Stur (programari comercial. Bretó unificat)
+* [http://www.drouizig.org An Drouizig Difazier 2007], per An Drouizig (programari gratuït, per a [[Microsoft Office]]. Bretó unificat)
+* [http://bre.openoffice.org OpenOffice.org], per An Drouizig. El pack lingüístic bretó d'[[OpenOffice.org]] inclou també un corrector (Bretó unificat).
+
+{{bretó}}
+ 
+{{ORDENA:Ortografia Del Breto}}	!--ORDENA generat per bot--
+[[Categoria:Bretó]]</text>
+      <sha1>ipt6ed7yeflctteojtqbc76gykzux0d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

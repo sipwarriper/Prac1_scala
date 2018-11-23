@@ -1,0 +1,312 @@
+<page>
+    <title>Codi d'aeroports OACI</title>
+    <ns>0</ns>
+    <id>595405</id>
+    <revision>
+      <id>13519483</id>
+      <parentid>13186459</parentid>
+      <timestamp>2014-06-03T21:21:22Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: de cares al  de cara al</comment>
+      <text>El '''codi d'aeroports OACI''' o '''indicatiu de localització''' és un [[codi]] [[alfanumèric]] de quatre caràcters el qual designa cada [[aeroport]] en el món. Aquests codis són decidits per l'[[Organització d'Aviació Civil Internacional]] o també anomenada OACI (en [[anglès]]: ''International Civil Aviation Organization'') la qual en va fer pública la seva aparició en el Document 7910 anomenat ''Location Indicators''.
+
+Aquests codis són utilitzats principalment per al [[control del trànsit aeri]] i les operacions de les [[aerolínia|aerolínies]], com ara per a la planificació del vol. No són el mateix que els [[codi d'aeroports IATA|codis d'aeroports IATA]], més emprats de cara al públic en general com per exemple en els horaris dels vols, reserves i per identificar els equipatges. Els codis IATA normalment deriven del nom de l'aeroport o si més no de la ciutat a la qual serveix; els codis OACI, en canvi, estan distribuïts segons la regió i el país on es trobi l'aeroport.
+
+==Història==
+La [[Segona Guerra Mundial]] va provocar un gran augment en els vols internacionals la qual cosa va provocar preocupacions referents a la seguretat i la comunicació pel que fa al transport aeri. Després de la guerra, i sota els auspicis de les [[Nacions Unides]], es van definir unes regions a causa de la millora del control del tràfic aeri i la identificació dels aeroports fent-la més senzilla i clara. Aquestes regions van rebre el nom de ''Flight Information Region''. Actualment aquestes regions i les de OACI no sempre utilitzen els mateixos límits, però solen ser molt semblants.
+
+Des que els militars militars havien fet tants vols de llarg radi, l'[[anglès]] es va convertir en el principal idioma per al control del tràfic aeri internacional. La influència dels aliats també havia tingut ressò a l'hora de realitzar algunes seleccions de codis. També hi havia la influència dels codis de l'estació nacional de ràdio existent: per exemple les estacions del [[Canadà]] ja començaven per C de manera que semblava lògic començar els identificadors d'aeroports al Canadà d'aquesta manera. La majoria dels altres identificadors tenen una relació fonètica menys recognoscible.
+
+El [[Europa|continent europeu]] havia de tenir els identificadors d'aeroports començant per la lletra E, però era un espai massa gran per a una sola lletra. Per tant la E es va convertir en la primera lletra majoritària del identificadors del [[nord d'Europa]] amb una segona lletra addicional per tal de definir-ne més la localització (per exemple: EGxx per [[Gran Bretanya]] ''Great Britain'', EDxx per [[Alemanya]] ''Deutschland'',...). La lletra L va esdevenir l'identificador pels aeroports del [[sud d'Europa]] (per exemple: LExx per [[Espanya]] ''España'', LIxx per [[Itàlia]] ''Italia'',...).
+
+Els [[Estats Units]] tenien una peculiar situació en la qual hi havien dues lletres que eren utilitzades al principi dels indentificadors de les estacions de ràdio. La lletra W (provinent del mot ''Westinghouse'') era utilitzada en les estacions de l'est del [[Mississippi]] i la K per aquelles estacions de l'oest. Finalment la K va ser seleccionada per els codis d'aeroports OACI.
+
+==Prefixos==
+[[Fitxer:ICAO-FirstLetter.png|1000px|Prefixos]]
+
+{{columnes}}
+* '''A=Pacífic Sud Occidental'''
+** AG - [[Salomó (estat)|Salomó]]
+** AN - [[Nauru]]
+** AY - [[Papua Nova Guinea]]
+* '''B=Islàndia / Grenlàndia i Kosovo'''
+** BG - [[Grenlàndia]]
+** BI - [[Islàndia]]
+** BK - [[Kosovo]]
+* '''C=Canadà'''
+** C - [[Canadà]]
+* '''D=Oest d'Àfrica'''
+** DA - [[Algèria]]
+** DF - [[Burkina Faso]]
+** DG - [[Ghana]]
+** DI - [[Costa d'Ivori]]
+** DN - [[Nigèria]]
+** DR - [[Níger]]
+** DT - [[Tunísia]]
+** DX - [[Togo]]
+* '''E=Nord d'Europa'''
+** EB - [[Bèlgica]]
+** ED - [[Alemanya]]
+** EE - [[Estònia]]
+** EF - [[Finlàndia]]
+** EG - [[Regne Unit]]
+** EH - [[Països Baixos]]
+** EI - [[República d'Irlanda|Irlanda]]
+** EK - [[Dinamarca]]
+** EL - [[Luxemburg]]
+** EN - [[Noruega]]
+** EP - [[Polònia]]
+** ET - [[Alemanya]] (militar)
+** EV - [[Letònia]]
+** EY - [[Lituània]]
+* '''F=Àfrica Austral'''
+** FA - [[Sud-àfrica]]
+** FB - [[Botswana]]
+** FC - [[República del Congo]]
+** FD - [[Swazilàndia]]
+** FE - [[República Centreafricana]]
+** FG - [[Guinea Equatorial]]
+** FH - [[Illa de l'Ascensió]]
+** FI - [[Maurici]]
+** FJ - [[Territori Britànic de l'Oceà Índic]]
+** FK - [[Camerun]]
+** FL - [[Zàmbia]]
+** FM - [[Comores]], [[Madagascar]], br[[Mayotte]], [[Illa de la Reunió]]
+** FN - [[Angola]]
+** FO - [[Gabon]]
+** FP - [[São Tomé i Príncipe]]
+** FQ - [[Moçambic]]
+** FS - [[Seychelles]]
+** FT - [[Txad]]
+** FV - [[Zimbabwe]]
+** FW - [[Malawi]]
+** FX - [[Lesotho]]
+** FY - [[Namíbia]]
+** FZ - [[República Democràtica del Congo]]
+* '''G=Àfrica del Nord Occidental'''
+** GA - [[Mali]]
+** GB - [[Gàmbia]]
+** GC - [[Illes Canàries]] ([[Espanya]])
+** GE - [[Ceuta]] i [[Melilla]] ([[Espanya]])
+** GF - [[Sierra Leone]]
+** GG - [[Guinea-Bissau]]
+** GL - [[Libèria]]
+** GM - [[Marroc]]
+** GO - [[Senegal]]
+** GQ - [[Mauritània]]
+** GS - [[Sàhara Occidental]]
+** GU - [[Guinea]]
+** GV - [[Cap Verd]]
+* '''H=Àfrica del Nord Oriental'''
+** HA - [[Etiòpia]]
+** HB - [[Burundi]]
+** HC - [[Somàlia]]
+** HD - [[Djibouti]] (també HF)
+** HE - [[Egipte]]
+** HF - [[Djibouti]] (també HD)
+** HH - [[Eritrea]]
+** HK - [[Kenya]]
+** HL - [[Líbia]]
+** HR - [[Rwanda]]
+** HS - [[Sudan]] i [[Sudan del Sud]]
+** HT - [[Tanzània]]
+** HU - [[Uganda]]
+* '''K=Estats Units'''
+** K - [[Estats Units]]
+{{columna nova}}
+* '''L=Sud d'Europa, Israel i Turquia'''
+** LA - [[Albània]]
+** LB - [[Bulgària]]
+** LC - [[Xipre]]
+** LD - [[Croàcia]]
+** LE - [[Espanya]]
+** LF - [[França]] br(inclòs [[Saint-Pierre i Miquelon]])
+** LG - [[Grècia]]
+** LH - [[Hongria]]
+** LI - [[Itàlia]]
+** LJ - [[Eslovènia]]
+** LK - [[República Txeca]]
+** LL - [[Israel]]
+** LM - [[República de Malta|Malta]]
+** LN - [[Mònaco]]
+** LO - [[Àustria]]
+** LP - [[Portugal]] br(incloses les illes [[Açores]])
+** LQ - [[Bòsnia i Herzegovina]]
+** LR - [[Romania]]
+** LS - [[Suïssa]]
+** LT - [[Turquia]]
+** LU - [[República de Moldàvia|Moldàvia]]
+** LV - [[Territoris Palestins]]
+** LW - [[República de Macedònia]]
+** LX - [[Gibraltar]]
+** LY - [[Sèrbia]] i [[Montenegro]]
+** LZ - [[Eslovàquia]]
+* '''M=Amèrica Central i Mèxic'''
+** MB - [[Illes Turks i Caicos]]
+** MD - [[República Dominicana]]
+** MG - [[Guatemala]]
+** MH - [[Hondures]]
+** MK - [[Jamaica]]
+** MM - [[Mèxic]]
+** MN - [[Nicaragua]]
+** MP - [[Panamà]]
+** MR - [[Costa Rica]]
+** MS - [[El Salvador]]
+** MT - [[Haití]]
+** MU - [[Cuba]]
+** MW - [[Illes Cayman]]
+** MY - [[Bahames]]
+** MZ - [[Belize]]
+* '''N=Pacífic Sud'''
+** NC - [[Illes Cook]]
+** NF - [[Fiji]], [[Tonga]]
+** NG - [[Kiribati]], [[Tuvalu]]
+** NI - [[Niue]]
+** NL - [[Wallis i Futuna]] ([[França]])
+** NS - [[Samoa]] i [[Samoa Nord-americana]]
+** NT - [[Polinèsia Francesa]] ([[França]])
+** NV - [[Vanuatu]]
+** NW - [[Nova Caledònia]] ([[França]])
+** NZ - [[Nova Zelanda]], [[Antàrtida]]
+* '''O=Àsia Occidental'''
+** OA - [[Afganistan]]
+** OB - [[Bahrain]]
+** OE - [[Aràbia Saudita]]
+** OI - [[Iran]]
+** OJ - [[Jordània]] i [[Cisjordània]]
+** OK - [[Kuwait]]
+** OL - [[Líban]]
+** OM - [[Emirats Àrabs Units]]
+** OO - [[Oman]]
+** OP - [[Pakistan]]
+** OR - [[Iraq]]
+** OS - [[Síria]]
+** OT - [[Qatar]]
+** OY - [[Iemen]]
+* '''P=Pacífic Nord Oriental'''
+** PA - [[Alaska]] ([[Estats Units]])
+** PB - [[Illa Baker]] ([[Estats Units]])
+** PC - [[Kiribati]] ([[Illes Fènix]])
+** PF - [[Fort Yukon]] ([[Alaska]], [[Estats Units]])
+** PG - [[Guam]], [[Illes Marianes Septentrionals]]br([[Estats Units]])
+** PH - [[Hawaii]] ([[Estats Units]])
+** PJ - [[Atol Johnston]] ([[Estats Units]])
+** PK - [[Illes Marshall]] ([[Estats Units]])
+** PL - [[Kiribati]] ([[Illes de la Línia]])
+** PM - [[Atol Midway]] ([[Estats Units]])
+** PO - ''Oliktok'' ([[Alaska]], [[Estats Units]])
+** PP - [[Point Lay]] ([[Alaska]], [[Estats Units]])
+** PT - [[Estats Federats de Micronèsia]], br[[República de Palau]]
+** PW - [[Illes Wake]] ([[Estats Units]])
+* '''R=Pacífic Nord Occidental'''
+** RC - [[República de la Xina]]
+** RJ - [[Japó]]
+** RK - [[Corea del Sud]]
+** RO - [[Prefectura d'Okinawa]] i br[[Yoron]] ([[Japó]])
+** RP - [[Filipines]]
+{{columna nova}}
+* '''S=Amèrica del Sud'''
+** SA - [[Argentina]]
+** SB - [[Brasil]] br(també SD, SI, SJ, SN, SS i SW)
+** SC - [[Xile]]
+** SD - [[Brasil]] br(també SB, SI, SJ, SN, SS i SW)
+** SE - [[Equador]]
+** SF - [[Illes Falkland]] ([[Regne Unit]])
+** SG - [[Paraguay]]
+** SI - [[Brasil]] br(també SB, SD, SJ, SN, SS i SW)
+** SJ - [[Brasil]] br(també SB, SD, SI, SN, SS i SW)
+** SK - [[Colòmbia]]
+** SL - [[Bolívia]]
+** SM - [[Suriname]]
+** SN - [[Brasil]]br (també SB, SD, SI, SJ, SS i SW)
+** SO - [[Guaiana Francesa]] ([[França]])
+** SP - [[Perú]]
+** SS - [[Brasil]] br(també SB, SD, SI, SJ, SN i SW)
+** SS - [[Brasil]]
+** SU - [[Uruguay]]
+** SV - [[Veneçuela]]
+** SW - [[Brasil]] br(també SB, SD, SI, SJ, SN i SS)
+** SY - [[Guyana]]
+* '''T=Carib'''
+** TA - [[Antigua i Barbuda]]
+** TB - [[Barbados]]
+** TD - [[Dominica]]
+** TF - [[Guadalupe (França)|Guadalupe]], [[Martinica]], [[Saint Barthélemy]]br i [[Illa de Sant Martí]] ([[França]])
+** TG - [[Grenada]]
+** TI - [[Illes Verges Nord-americanes]] br([[Estats Units]])
+** TJ - [[Puerto Rico]] ([[Estats Units]])
+** TK - [[Saint Kitts i Nevis]]
+** TL - [[Saint Lucia]]
+** TN - [[Illes BES]], [[Aruba]], [[Bonaire]], br[[Curaçao]], [[Sint Maarten]] ([[Països Baixos]])
+** TQ - [[Anguilla]] ([[Regne Unit]])
+** TR - [[Illa de Montserrat]] ([[Regne Unit]])
+** TT - [[Trinitat i Tobago]]
+** TU - [[Illes Verges Britàniques]] ([[Regne Unit]])
+** TV - [[Saint Vincent i les Grenadines]]
+** TX - [[Bermuda]] ([[Regne Unit]])
+* '''U=Rússia i antics estats soviètics'''
+** U - [[Rússia]] (excepte UA, UB, UD, UG, UK i UT)
+** UA - [[Kazakhstan]], [[Kirguizistan]]
+** UB - [[Azerbaidjan]]
+** UD - [[Armènia]]
+** UG - [[Geòrgia]]
+** UK - [[Ucraïna]]
+** UM - [[Bielorússia]]
+** UT - [[Tadjikistan]], [[Turkmenistan]], br[[Uzbekistan]]
+* '''V=Àsia Meridional, Àsia Sud-oriental, brHong Kong i Macau'''
+** VA - [[Índia]] (zona oest)
+** VC - [[Sri Lanka]]
+** VD - [[Cambodja]]
+** VE - [[Índia]] (zona est)
+** VG - [[Bangladesh]]
+** VH - [[Hong Kong]]
+** VI - [[Índia]] (zona nord)
+** VL - [[Laos]]
+** VM - [[Macau]]
+** VN - [[Nepal]]
+** VO - [[Índia]] (zona sud)
+** VQ - [[Bhutan]]
+** VR - [[Maldives]]
+** VT - [[Tailàndia]]
+** VV - [[Vietnam]]
+** VY - [[Myanmar]]
+* '''W=Àsia sud-oriental insular'''
+** WA - [[Indonèsia]] (també WI, WQ i WR)
+** WB - [[Malàisia]] (zona oriental), [[Brunei]]
+** WI - [[Indonèsia]] (també WA, WQ i WR)
+** WM - [[Malàisia]]
+** WP - [[Timor-Leste]]
+** WQ - [[Indonèsia]] (també WA, WI i WR)
+** WR - [[Indonèsia]] (també WA, WI i WQ)
+** WS - [[Singapur]]
+* '''Y=Austràlia'''
+** Y - [[Austràlia]]
+* '''Z=Àsia Oriental br(excepte alguns territoris)'''
+** Z - [[República Popular de la Xina]]
+** ZK - [[Corea del Nord]]
+** ZM - [[Mongòlia]]
+{{final columnes}}
+
+==Vegeu també==
+{{portal de l'aviació}}
+* [[Codi d'aeroports IATA]]
+* [[Designador d'aerolínies OACI]]
+* [[Organització d'Aviació Civil Internacional]]
+* [[Llista d'aeroports segons el codi OACI]]
+
+==Enllaços externs==
+* [http://www.icao.int/ Organització d'Aviació Civil Internacional]
+* [http://www.icao.int/anb/aig/taxonomy/r4cdlocationindicatorsbystate.pdf Codis d'aeroports OACI per país]
+* [http://www.avcodes.co.uk/aptcodesearch.asp Cercador d'aeroports segons el codi IATA/OACI]
+
+{{ORDENA:Codi D'Aeroports OACI}}	!--ORDENA generat per bot--
+[[Categoria:Aviació]]</text>
+      <sha1>rlkmzxru7397b2og6bptyenhb78zocf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

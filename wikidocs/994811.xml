@@ -1,0 +1,50 @@
+<page>
+    <title>Gyrobus</title>
+    <ns>0</ns>
+    <id>994811</id>
+    <revision>
+      <id>13594528</id>
+      <parentid>12691010</parentid>
+      <timestamp>2014-06-14T16:02:40Z</timestamp>
+      <contributor>
+        <username>EmausBot</username>
+        <id>54036</id>
+      </contributor>
+      <minor></minor>
+      <comment>Bot: Traient 1 enllaços interwiki, ara proporcionats per [[d:|Wikidata]] a [[d:Q1458136]]</comment>
+      <text>{{MT|data=febrer de 2013}}
+[[Fitxer: Gyrobus G3-1.jpg|thumb|300px|gyrobus G3, l'únic conservat al món (construït el 1955 a [[Anvers]]).]]
+Un  gyrobus (del [[grec]]: γύρος = gir, volant, més [[autobús|bus]]) Transport de passatgers que utilitza com a font d'energia la que s'acumula en un [[volant d'inèrcia]]. El gyrobus utilitza com a principal recurs l'[[energia cinètica]] acumulada en un volant d'inèrcia, aquesta energia és convertida mitjançant un generador en [[energia elèctrica]] que és la que utilitza el motor del gyrobus per moure'l.
+
+== Història ==
+El [[1944]] davant la carestia de [[hidrocarbur]]s causada per la [[Segona Guerra Mundial]] l'empresa [[Oerlikon]] de [[Suïssa]] fabricar una [[locomotora]] d'impulsió dual: un [[motor dièsel]] iniciava la marxa al mateix temps que transmetia energia al volant inercial, després el motor dièsel (segons convingués) s'aturava i el tren era mogut per l'energia alliberada pel volant. L'experiment de la locomotora amb impulsió dual resultar positiu i d'aquesta manera es va posar en servei un gyrobus a la localitat de [[Altdorf]] el [[1950]].ref name=travys{{citar web |url=http://www.travys.ch/index.php?id=200Itemid=77option=com_contentlang=FR |títol=Gyrobus |consulta=3/11/2012 |obra= |editor=Travys |data= |llengua=francès }}/ref
+
+L'octubre de [[1953]] altres poblacions suïsses, [[Yverdon-les-Bains]] i [[Grandson]], van instal·lar les primeres línies regulars amb girobusos de 70 places (35 passatgers asseguts i 35 de peu), la velocitat màxima d'aquests primers girobusos arribava als 44 km/h amb una càrrega de 14 tones,ref name=travys/ potser vehicle rebia l'energia inicial a partir de preses elèctriques ubicades en pals cada 5 quilòmetres, l'electricitat passava a un alternador dins el gyrobus i era transferida mitjançant embragatges com energia mecànica al motor amb gran volant inercial de 3 t que així rotava a una velocitat de 3000 rpm (revolucions per minut).
+
+Poc temps després es va instal·lar una altra línia de girobuses a Leopoldville (actual [[Kinshasa]]) quan existia encara l'anomenat [[Congo Belga]], usant girobuses de 10,4 metres de longitud, amb 90 places de capacitat i 10,9 tones de pes total.ref{{ref-llibre |cognom= |nom= |títol=Frontiers of Technology Study: Implementation requirements studies |url=http://books.google.es/books?id=PyESAQAAMAAJq=Leopoldville+gyrobusdq=Leopoldville+gyrobushl=casa=Xei=rNCaULXBNJCShgeQtYC4Dgved=0CEEQ6AEwBw |editorial=Los Angeles Division of North American Rockwell Corp |data=1968 |pàgines=p.215 |isbn=}}/ref
+
+El [[1956]] la important ciutat [[Bèlgica|belga]] de [[Gant]] va establir una perllongada línia de girobusos que comunica el sud de la ciutat (Zuid Gent) amb [[Merelbeke]], en servei fins al 1959.ref{{Ref-llibre |cognom= |nom= |títol=Handelingen der Maatschappij voor Geschiedenis en Oudheidkunde te Gent |url=http://books.google.es/books?id=1HHtAAAAMAAJq=gent+gyrobus+1956dq=gent+gyrobus+1956hl=casa=Xei=BSqcULi7IoO6hAfA0oCoCwved=0CDwQ6AEwBg |llengua=flamenc |editorial=Société d'histoire et d'archéologie de Gand |data=1988 |pàgines=p.258 |isbn=}}/ref
+
+El [[1981]] la [[cooperativa]] [[Suècia|sueca]] [[AB Volvo]] va dissenyar i va començar la fabricació de girobuses duals, l'impuls inicial és atorgat per un motor dièsel (eventualment [[biodièsel]]).ref{{Ref-llibre |autor=American Society of Mechanical Engineers |títol=Papers |url=http://books.google.es/books?id=x9dSAAAAMAAJq=Volvo+1980+Gyrobusdq=Volvo+1980+Gyrobushl=casa=Xei=UsOeUOCRG42LhQfGxYDgCgved=0CDUQ6AEwAA |llengua=anglès |editorial=The Society |data=1991 |pàgines=p.14 |isbn=}}/ref
+
+== Prestacions==
+Com els [[troleibús|troleibusos]] i [[tramvia|tramvies]], els girobuses no emeten gasos contaminants (els motors dièsel que aporten l'energia cinètica inicial poden ser fàcilment substituïts per motors elèctrics), tot i que a diferència de troleibusos i tramvies els girobuses no requereixen del onerós i fins perillós cablejat o estesa de carrils i pot operar amb una flexibilitat de la que els altres vehicles indicats no tenen (llevat que es tracti d'un híbrid possible: trolegyrobus). Els girobuses es caracteritzen per ser transports silenciosos. Un gyrobus en no emetre gasos evita l'[[escalfament global]]. Un gyrobus amb tracció inicial elèctrica evita el consum de [[hidrocarbur]]s. Quant als desavantatges són les següents: en els primers girobuses, per transportar a 20 persones per un trajecte de 20 quilòmetres es requerien volants inercials de 3 tones, i la gran velocitat que adquireixen els volants inercials requeria d'especials mesures de seguretat, d'altra part com volants inercials posseeixen característiques [[giroscopi|giroscòpiques]] que plantegen compensar la [[inèrcia]] en trams de corbes i cantonades. No obstant això mai han existit accidents amb els girobuses i és evident que les suposades desavantatges són en gran mesura esmenables i estan superades àmpliament pels avantatges d'aquest mitjà de transport.
+
+== Vegeu també ==
+* [[Bateria inercial]]
+
+== Referències ==
+{{Commonscat|Gyroscope-powered buses}}
+
+{{Referències}}
+
+[[Categoria:Automoció]]
+[[Categoria:Vehicles]]
+
+
+[[ja:フライホイール・バッテリー#自動車]]</text>
+      <sha1>io13hf8jjrpvpdp40xk2crzwhsjosbz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

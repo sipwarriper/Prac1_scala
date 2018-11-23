@@ -1,0 +1,86 @@
+<page>
+    <title>Dopatge (semiconductors)</title>
+    <ns>0</ns>
+    <id>974808</id>
+    <revision>
+      <id>13646528</id>
+      <parentid>11073684</parentid>
+      <timestamp>2014-06-23T08:04:06Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>En la producció de [[semiconductor]]s, s'anomena '''dopatge''' al procés intencional d'agregar impureses en un semiconductor extremadament pur (també referit com intrínsec) per tal de canviar les seves propietats elèctriques. Les impureses utilitzades depenen del tipus de semiconductors a dopar. Als semiconductors amb dopatges lleugers i moderats se'ls anomena extrínsecs. Un semiconductor altament dopat, que actua més com un [[Conductor elèctric|conductor]] que com un semiconductor, és anomenat degenerat.
+
+El nombre d'àtoms dopants necessaris per a crear una diferència en les capacitats conductores d'un semiconductor és molt petita. Quan s'agreguen un petit nombre d'àtoms dopants (de l'ordre d'1 cada 100.000.000 d'àtoms) llavors es diu que el dopatge és baix o lleuger. Quan s'agreguen molts més àtoms (de l'ordre d'1 cada 10.000 àtoms) llavors es diu que el dopatge és alt o pesat. Aquest dopatge pesat es representa amb la nomenclatura N+ per a material de tipus N, o P+ per a material de tipus P.
+
+== Elements dopants ==
+=== Semiconductors de [[Taula periòdica dels elements #Grups|Grup IV]] ===
+Per als semiconductors del [[Taula periòdica dels elements|Grup IV]] com [[silici]], [[germani]] i [[carbur de silici]], els dopants més comuns són elements del [[Taula periòdica|Grup III]] o del [[Taula periòdica|Grup V]]. [[Bor]], [[arsènic]], [[fòsfor]], i ocasionalment [[gal·li]], són utilitzats per dopar al [[silici]].
+
+== Tipus de materials dopants ==
+=== Tipus N ===
+Es diu material tipus N al que posseeix àtoms d'impureses que permeten l'aparició d'[[electró|electrons]] sense buits associats als mateixos.
+Els àtoms d'aquest tipus s'anomenen donants perquè donen o lliuren electrons. Solen ser de [[valència atòmica|valència]] cinc, com l'[[arsènic]] i el [[fòsfor]].
+D'aquesta manera, no s'hi ha desbalancejat la neutralitat elèctrica, ja que l'àtom introduït al semiconductor és neutre, però posseeix un electró no lligat, a diferència dels àtoms que conformen l'estructura original, de manera que l'energia necessària per separar l'àtom serà menor que la requerida per trencar una lligadura en el cristall de [[silici]] (o del semiconductor original).
+Finalment, existiran més electrons que buits, de manera que els primers seran els portadors majoritaris i els últims els minoritaris. La quantitat de portadors majoritaris serà funció directa de la quantitat d'àtoms d'impureses introduïts.
+
+El següent és un exemple de dopatge de silici pel fòsfor (dopatge N). En el cas del fòsfor, es dóna un electró.
+
+[[Fitxer:N-doped Si.svg|300px|thumb|Dopatge de tipus N]]
+
+
+=== Tipus P ===
+[[Fitxer:P-doped Si.svg|300px|esquerra|thumb|Dopatge de tipus P]]
+Es diu així al material que té àtoms d'impureses que permeten la formació de buits sense que apareguin electrons associats als mateixos, com passa en trencar un lligam.
+Els àtoms d'aquest tipus s'anomenen acceptors, ja que accepten o prenen un electró. Solen ser de [[València atòmica|valència]] 03:00, com l'[[alumini]], l'[[indi (element)|indi]] o el [[gal·li]].
+Novament, l'àtom introduït és neutre, pel que no modificarà la neutralitat elèctrica del cristall, però com que només té tres electrons a la seva última capa de [[València atòmica|valència]], apareixerà una lligadura trencada, que tendirà a prendre electrons dels àtoms propers, generant finalment més buits que electrons, de manera que els primers seran els portadors majoritaris i els segons els minoritaris. Igual que al material tipus N, la quantitat de portadors majoritaris serà funció directa de la quantitat d'àtoms d'impureses introduïts.
+
+El següent és un exemple de dopatge de silici pel [[bor]] (P dopatge). En el cas del bor li falta un electró i, per tant, és donat un [[buit d'electró]].
+
+== Dopatge en conductors orgànics ==
+{{AP|Polímer conductor}}
+Els polímers conductors poden ser dopats en agregar reactius químics que s'oxidin (o algunes vegades redueixin) el sistema, per cedir electrons a les òrbites conductores dins d'un sistema potencialment conductor.
+
+Hi ha dues formes principals de dopar un polímer conductor, ambdues mitjançant un procés de [[reducció-oxidació]]. Al primer mètode conegut com dopat químic s'exposa un polímer, com la [[melanina]] (típicament una pel·lícula prima), a un oxidant (típicament [[iode]] o [[brom]]) o a un agent reductor (típicament s'utilitzen [[metall alcalí|metalls alcalins]], encara que aquesta exposició és bastant menys comú). El segon mètode és el dopatge electroquímic, en el qual un elèctrode de treball, revestit amb un polímer, és suspès en una solució electrolítica, en la qual el polímer és [[solubilitat|insoluble]], al costat de l'elèctrode oposat, separats tots dos. Es crea una diferència de potencial elèctric entre els elèctrodes, la qual fa que una càrrega (i el seu corresponent [[ió (àtom)|ió]] de l'electròlit) entrin en el polímer en la forma d'electrons agregats (dopatge tipus N) o surtin del polímer (dopatge tipus P), segons la polarització utilitzada.
+
+La raó per la qual el dopatge tipus N és molt menys comú és que l'atmosfera de la terra, la qual és rica en [[oxigen]], crea un ambient oxidant. Un polímer tipus N ric en electrons reaccionaria immediatament amb l'oxigen ambiental i es desdoparia (o reoxidaria) novament el polímer, tornant al seu estat natural.
+
+== Història ==
+El dopatge va ser desenvolupat originalment per [[John Robert Woodyard]] mentre treballava per a la [[Sperry Gyroscope Company]] durant la [[Segona Guerra Mundial]].ref Patent US No.2, 530.110, emplenada, 1944, atorgada el 1950 /ref La demanda del seu treball sobre el [[radar]] durant la guerra no li va permetre desenvolupar més profundament la investigació sobre el dopatge, però durant la postguerra es va generar una gran demanda iniciada per la companyia [[Sperry Rand]], en conèixer la seva important aplicació a la fabricació de [[transistor]]s.ref{{citar ref|autor = Morton, P. L. et al. |any = 1985|obra = Universitat de Califòrnia: En memòria|títol = John Robert Woodyard, Enginyer elèctric: Berkeley}}/ref
+
+== Referències==
+references /
+
+== Vegeu també ==
+* [[Transistor d'unió bipolar]]
+* [[Junció PN]]
+* [[Díode]]
+
+[[Categoria:Semiconductors]]
+
+[[af:Dotering]]
+[[ar:تشويب]]
+[[de:Dotierung]]
+[[en:Doping (semiconductor)]]
+[[fa:آلایش (نیمه‌رسانا)]]
+[[fi:Doping (puolijohde)]]
+[[fr:Dopage (semi-conducteur)]]
+[[he:אילוח (מוליכים למחצה)]]
+[[id:Doping (semikonduktor)]]
+[[it:Drogaggio]]
+[[ja:ドーパント]]
+[[nl:Doteren]]
+[[no:Doping (halvledere)]]
+[[pl:Domieszkowanie]]
+[[pt:Dopante (química)]]
+[[ru:Легирование]]
+[[sv:Dopning (fysik)]]
+[[uk:Легування (напівпровідники)]]</text>
+      <sha1>dlzesqqwv5s9s7bpqav9p551o0s2n9b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

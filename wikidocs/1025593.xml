@@ -1,0 +1,80 @@
+<page>
+    <title>Observatori de Roma</title>
+    <ns>0</ns>
+    <id>1025593</id>
+    <revision>
+      <id>12836691</id>
+      <parentid>12420663</parentid>
+      <timestamp>2014-01-20T12:25:21Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: de 1 - d'1,1</comment>
+      <text>{{Infotaula telescopi
+|nom          = Osservatorio Astronomico di Roma
+|background   = (color de fons pel nom)
+|imatge       = [[Fitxer:MonteMarioAstrophysica.jpg|250px|Observatori de Roma. Seu central situada a [[Monte Mario]], [[Roma]].]]
+|peu          = Observatori de Roma. Seu central situada a [[Monte Mario]], [[Roma]].
+|organització = [[Institut Nacional d'Astrofísica]]
+|localització = Seu de Monte Mario: ciutat de [[Roma]]br/Seu de Monte Porzio Catone: [[Monte Porzio Catone]], a la [[Província de Roma]]br/Seu de Campo Imperatore: [[Campo Imperatore]] a la [[Província de L'Aquila]]
+|coordenades  = Seu de Monte Mario: {{coord|41|55|21|N|12|27|9|E|type:landmark_region:IT|display=inline}}br/Seu de Monte Porzio Catone: {{coord|41.811869|N|12.705334|E|format=dms|type:landmark_region:IT|display=inline}}br/Seu de Campo Imperatore:{{coord|42.4442|N|13.5581|E|format=dms|type:landmark_region:IT|display=inline}}
+|altitud      = Seu de Monte Mario: ?br/Seu de Monte Porzio Catone: ?br/Seu de Campo Imperatore: 2150 m
+|clima        = 
+|longitud_ona = Òptic
+|construcció  = Seu de Monte Mario: [[1938]]br/Seu de Monte Porzio Catone: [[1939]]br/Seu de Campo Imperatore: [[1948]]
+|primera_llum =
+|pàgina_web   = [http://www.oa-roma.inaf.it/welcome/index.php?lang=it Observatori de Roma]
+|tipus        = Refracció
+|diàmetre     = 
+|resolució_angular = 
+|àrea         = 
+|distància_focal = 
+|muntura      = 
+|cúpula       = Esfèrica
+}}
+{| class=wikitable collapsible align=right style=margin: 1em; margin-top: 0;
+! colspan=2 style=white-space: nowrap; | [[Asteroide]]s descoberts: 2
+|-
+| {{mpl|(120097) 2003 EG|50}} || 10 de març de 2003
+|-
+| {{mpl|(120098) 2003 EJ|50}} || 10 de març de 2003
+|}
+'''L'Observatori de Roma''', (en [[llengua italiana|italià]]: ''Osservatorio Astronomico di Roma'') és un [[observatori astronòmic]] d'[[Itàlia]] que compta amb tres seus: [[Monte Mario]] a la ciutat de [[Roma]], en la localitat de [[Monte Porzio Catone]] de la [[Província de Roma]] i a [[Campo Imperatore]] a la [[Província de L'Aquila]].
+
+== Seu de Monte Mario ==
+{{coord|41|55|21|N|12|27|9|E|type:landmark_region:IT|display=inline}}
+
+L'Observatori astronòmic de Roma va ser fundat en aquesta localització el [[1938]]. Actualment és la seu central de l'observatori i l'ocupa també la Presidència i l'Administració de l'[[Institut Nacional d'Astrofísica]] [[Itàlia|italià]], '''INAF'''.
+
+A les instal·lacions es troba el [[Museu Copernicà]], que conté una important col·lecció d'instruments astronòmics, [[Esfera armil·lar|esfers armil·lars]] i globus celestes i terrestres. També s'inclou entre les instal·lacions una Torre Solar, recentment restaurada, també dedicada a tasques formatives i divulgatives.ref{{citar web |títol= Osservatorio Astronomico di Roma. Sede Amministrativa di Monte Mario |url=http://www.oa-roma.inaf.it/welcome/infomm.php?lang=it |consulta=21 de novembre de 2010 |llengua= italià}}/ref
+
+Figura en la [[Llista de codis d'observatoris astronòmics|Llista de Codis d'Observatoris]] del [[Minor Planet Center]] amb el codi '''034'''.ref name=LOC{{citar web |títol= List Of Observatory Codes |url= http://www.minorplanetcenter.org/iau/lists/ObsCodesF.html |consulta=20 de novembre de 2010 |editorial= [[Minor Planet Center]] |llengua=anglès }}/ref
+
+== Seu de Campo Imperatore ==
+{{coord|42.4442|N|13.5581|E|format=dms|type:landmark_region:IT|display=inline}}
+[[Fitxer:Campo Imperatore 02(RaBoe).jpg|thumb|right|200px|Observatori de Campo Imperatore, Gran Sasso]]
+L'observatori d'aquesta seu està situat a l'[[altiplà]] de [[Campo Imperatore]], en els [[Apenins|Mons Apenins]] a 2.150 metres sobre el nivell del mar, als peus del [[Gran Sasso|Gran Sasso d'Itàlia]] i a 100 [[km]] de Roma. Va ser construït entre [[1948]] i [[1955]], començant a funcionar el [[1958]]. Des d'aquest any ha estat equipat amb un [[telescopi Schmidt]] de 60/90 cm de [[distància focal]] f/3. El [[1997]] va ser ampliat amb una segona cúpula que alberga un telescopi per a observacions en l'[[infraroig]] d'1,1 [[metre]]s de diàmetre. Aquesta ampliació es va deure a un conveni de col·laboració amb els observatoris de [[Observatori de Collurania-Teramo|Teramo]] i [[Observatori Central de Púlkovo|Pulkovo]].ref{{citar web |títol= Osservatorio Astronomico di Roma. Sito Osservativo di Campo Imperatore |url=http://www.oa-roma.inaf.it/welcome/campoimperatore.php?lang=it |consulta=21 de novembre de 2010 |llengua= italià}}/ref
+
+Des del [[2001]] al [[2005]] es va dur a terme en aquest observatori el projecte de cerca sistemàtica d'[[asteroide]]s, '''[[Campo Imperatore Near Earth Object Survey|Campo Imperatore Near-Earth Object Survey]]''', més ben conegut pel seu acrònim '''CINEOS'''.ref{{Citar publicació |autor=Boattini, Andrea, et al. |títol= The Campo Imperatore Near Earth Object Survey (CINEOS) |publicació= Earth, Moon, and Planets |url=http://esoads.eso.org/abs/2007EM%26P..100..259B |data= juny de 2007 |consulta= 21 de novembre de 2010 |llengua= anglès |volum= 100 |exemplar= 3-4 |pàgines= 259-271 |doi= 
+ 10.1007/s11038-007-9144-8  |bibcode= 2007EMP..100..259B }}/ref  L'Observatori de Campo Imperatore-CINEOS figura en la [[Codis d'observatoris astronòmics|Llista de Codis de Observatoris]] del [[Minor Planet Center]] amb el codi '''599'''.ref name=LOC / i és responsable del descobriment de més de 700 [[asteroide]]s.ref{{citar web |títol= Minor Planet Discoverers |url=http://www.minorplanetcenter.org/iau/lists/MPDiscsNum.html |llengua= anglès |consulta= 10 de novembre de 2010}}/ref
+
+== Seu de Monte Porzio Catone ==
+{{coord|41.811869|N|12.705334|E|format=dms|type:landmark_region:IT|display=inline}}
+[[Fitxer:Rome Astronomical Observatory.jpg|thumb|right|200px|Observatori de Roma. Seu de Monte Porzio Catone.]]
+L'observatori està situat en la localitat de [[Monte Porzio Catone]], a una distància de 20 [[km]] de [[Roma]]. Es va començar a construir el [[1939]] amb l'objectiu d'albergar un gran [[telescopi refractor]] que complementés a l'existent a la seu de [[Monte Mario]]. L'esclat de la [[Segona Guerra Mundial]] va retrassar el projecte però l'edifici va ser finalment acabat el [[1965]]. D'[[Racionalisme arquitectònic|estil racionalista]] està construït sobre una vila [[Antiga Roma|romana]] del [[segle I]]. Actualment proporciona programes, exposicions i un telescopi amb finalitats educatives i divulgatives destinades a universitats, escoles i associacions.ref{{citar web |títol= Osservatorio Astronomico di Roma. Sede Centrale di Monteporzio Catone |url=http://www.oa-roma.inaf.it/welcome/infomp.php?lang=it |consulta=20 de novembre de 2010 |llengua= italià}}/ref
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+*{{it}}  [http://www.oa-roma.inaf.it/welcome/index.php?lang=it Observatori de Roma]. Lloc web oficial.
+
+[[Categoria:Observatoris astronòmics d'Europa|Roma]]
+[[Categoria:Itàlia]]</text>
+      <sha1>2sbf3axqr3lmfwax30jx8r0xcd3cacv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

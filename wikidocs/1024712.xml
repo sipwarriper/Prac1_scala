@@ -1,0 +1,343 @@
+<page>
+    <title>Plantilla:Segona Guerra Mundial</title>
+    <ns>10</ns>
+    <id>1024712</id>
+    <revision>
+      <id>13244015</id>
+      <parentid>12887196</parentid>
+      <timestamp>2014-04-19T13:13:15Z</timestamp>
+      <contributor>
+        <username>MALLUS</username>
+        <id>64671</id>
+      </contributor>
+      <text>{{Navbox Seccions
+|name = Segona Guerra Mundial
+|title = [[Segona Guerra Mundial]]
+|state = {{{stateincludeonly|collapsed/includeonly}}}
+|style = wide
+|category = Segona Guerra Mundial
+|bodyclass = hlist
+|above =
+* [[Front Occidental (Segona Guerra Mundial)|Europa Occidental]]
+* [[Front Oriental (Segona Guerra Mundial)|Europa Oriental]]
+* [[Escenaris de la Mediterrània, l'Orient Mitjà i l'Àfrica de la Segona Guerra Mundial|Àfrica]]
+* [[Escenaris de la Mediterrània, l'Orient Mitjà i l'Àfrica de la Segona Guerra Mundial|Mediterrània]]
+* [[Guerra del Pacífic|Àsia i el Pacífic]]
+* [[Batalla de l'Atlàntic|Atlàntic]]
+
+* [[Ferits de la Segona Guerra Mundial|Baixes]]
+* [[Llista dels enfrontaments militars de la Segona Guerra Mundial|enfrontaments militars]]
+* [[Llista de les Conferències de la Segona Guerra Mundial|Conferències]]
+* [[Comandants de la Segona Guerra Mundial|Comandants]]
+
+|group1   = [[Participants en la Segona Guerra Mundial|Participants]]
+|list1    = {{Navbox subgroup
+|groupstyle = width:9em; {{Estil infotaula militar|nav_box_label}}
+  | liststyle  = width:auto;
+|evenodd = swap
+| group1 = [[Aliats de la Segona Guerra Mundial|Aliats]] [[Líders aliats de la Segona Guerra Mundial|small(Líders)/small]]
+| list1 =
+* [[Història militar d'Austràlia durant la Segona Guerra Mundial|Austràlia]]
+* [[Història de Bèlgica#Segona Guerra Mundial|Bèlgica]]
+* [[Història militar de Brasil#Segona Guerra Mundial|Brasil]]
+* [[Història militar de Canadà durant la Segona Guerra Mundial|Canadà]]
+* [[Segona guerra sinojaponesa|Xina]]
+* [[Ocupació alemanya de Txecoslovàquia|Txecoslovàquia]]
+* [[Segona guerra italoabissínia|Etiòpia]]
+* [[Guerra de Lapònia|Finlàndia (1944-1945)]]
+* [[Història militar de França durant la Segona Guerra Mundial|França]]
+* [[Història militar de Grècia durant la Segona Guerra Mundial|Grècia]]
+* [[Segona Guerra Mundial en l'Índia|Índia]]
+* [[Ocupació alemanya de Luxemburg en la Segona Guerra Mundial|Luxemburg]]
+* [[Escenari americà (1939–1945)|Mèxic]]
+* [[Història militar dels Països Baixos durant la Segona Guerra Mundial|Països Baixos]]
+* [[Història militar de Nova Zelanda durant la Segona Guerra Mundial|Nova Zelanda]]
+* [[Història de Noruega#Noruega en la Segona Guerra Mundial | Noruega]]
+* [[Història militar de les Filipines durant la Segona Guerra Mundial|Filipines (Commonwealth)]]
+* [[Història de Polònia (1939–1945)|Polònia]]
+* [[Història militar de Sud-àfrica durant la Segona Guerra Mundial|Sud-àfrica]]
+* [[Història militar de la Unió Soviètica#Segona Guerra Mundial|Unió Soviètica]]
+* [[Història militar del Regne Unit durant la Segona Guerra Mundial|Regne Unit]]
+* [[La història militar dels Estats Units durant la Segona Guerra Mundial|Estats Units]]
+* [[República Federal Socialista de Iugoslàvia|Iugoslàvia]]
+
+ | group2 =  [[Potències de l'Eix|Eix ibralineats amb l'Eix]]br[[Líders de l'Eix de la Segona Guerra Mundial|small(Líders)/small]]
+ | list2 =
+* [[Història militar de Bulgària durant la Segona Guerra Mundial|Bulgària]]
+* [[Govern Nacional Reorganitzat de la Xina]]
+* [[Història de Croàcia#Segona Guerra Mundial (1941-1945)|Estat Independent de Croàcia]]
+* [[Història militar de Finlàndia durant la Segona Guerra Mundial|Finlàndia]]
+* [[Història d'Alemanya durant la Segona Guerra Mundial|Alemanya]]
+* [[Hongria durant la Segona Guerra Mundial|Hongria]]
+* [[Exèrcit Nacional Indi|Índia lliure]]
+* [[Guerra angloiraquiana |Iraq]]
+* [[Història militar d'Itàlia durant la Segona Guerra Mundial|Itàlia]]
+* [[República Social Italiana]]
+* [[Història militar del Japó#Període Showa - Segona Guerra Mundial|Japó]]
+* [[Mengkukuo]]
+* [[Segona República de Filipines|Filipines (2a República)]]
+* [[Romania en la Segona Guerra Mundial|Romania]]
+* [[Història d'Eslovàquia#Segona Guerra Mundial|Eslovàquia]]
+* [[Història de Tailàndia (1932-1973)#Segona Guerra Mundial|Tailàndia]]
+* [[França de Vichy]]
+* [[Regne dels Serbis, Croats i Eslovens|Sèrbia]]
+* [[Història_de_Montenegro#Segle_XX|Montenegro]]
+* [[Història_d'Albània#Segona_Guerra_Mundial|Albània]]
+
+ | group3 = [[Resistència durant la Segona Guerra Mundial|Resistència]]
+ | list3 =
+* [[Resistència albanesa de la Segona Guerra Mundial|Albània]]
+* [[Resistència austríaca|Àustria]]
+* [[Germans del Bosc|Estats Bàltics]]
+* [[Resistència belga|Bèlgica]]
+* [[Resistència txeca a l'ocupació nazi|Terres txeques]]
+* [[Moviment de resistència danès|Dinamarca]]
+* [[Germans del Bosc|Estònia]]
+* [[Campanya de l'Àfrica Oriental (Segona Guerra Mundial)#Forces irregulars etíops|Etiòpia]]
+* [[Resistència francesa|França]]
+* [[Resistència alemanya|Alemanya]]
+* [[Resistència grega|Grècia]]
+* [[Ocupació japonesa de Hong Kong#Resistència contra l'Agressió Japonesa|Hong Kong]]
+* [[Moviment Quit de l'Índia|Índia]]
+* [[Moviment de resistència italià|Itàlia]]
+* [[Resistència jueva sota el domini nazi|jueva]]
+* [[Exèrcit d'Alliberament Coreà|Corea]]
+* [[Moviment de Resistència Anti-nazi Letó 1941–1945|Letònia]]
+* [[Ocupació alemanya de Luxemburg en la Segona Guerra Mundial|Luxemburg]]
+* [[Resistència neerlandesa|Països Baixos]]
+* [[Moviment de resistència noruec|Noruega]]
+* [[Hukbalahap|Filipines]]
+* [[Moviment de resistència polonès en la Segona Guerra Mundial|Polònia]] {{small|([[Soldats Maleïts|Anti-comunista]])}}
+* [[Moviment de resistència anticomunista romanès|Romania]]
+* [[Moviment Thai Lliure|Tailàndia]]
+* [[Partisans soviètics|Unió Soviètica]]
+* [[Aixecament Nacional Eslovac|Eslovàquia]]
+* [[Exèrcit Insurgent Ucraïnès| Ucraïna occidental]]
+* [[Viet Minh|Vietnam]]
+* [[Partisans iugoslaus|Iugoslàvia]]
+}}
+
+| group2  = [[Cronologia de la Segona Guerra Mundial|Cronologia]]
+| list2  = {{Navbox subgroup
+| groupstyle = width:9em; {{WPMILHIST Infobox style|nav_box_label}}
+| liststyle  = width:auto;
+| group1 = [[Causes de la Segona Guerra Mundial|Preludi]]
+| list1 =
+* [[Crisi Abissínia|Àfrica]]
+* [[Esdeveniments anteriors a la Segona Guerra Mundial a Àsia|Àsia]]
+* [[Esdeveniments anteriors a la Segona Guerra Mundial a Europa|Europa]]
+
+| group2 = [[Cronologia de la Segona Guerra Mundial (1939)|1939]]
+| list2 =
+* [[Invasió de Polònia]]
+* [[Guerra de Broma]]
+* [[Guerra d'Hivern]]
+* [[Batalla de l'Atlàntic|Atlàntic]]
+* [[Batalla de Changsha (1939)|Changsha (1939)]]
+* [[Ofensiva d'Hivern 1939–1940|Xina]]
+
+| group3 = [[Cronologia de la Segona Guerra Mundial (1940)|1940]]
+| list3 =
+* [[Operació Weserübung|''Weserübung'']]
+* [[Batalla dels Països Baixos|Països Baixos]]
+* [[Batalla de Bèlgica|Bèlgica]]
+* [[Batalla de França|França]]
+* [[Batalla d'Anglaterra|Regne Unit]]
+* [[Campanya del Desert Occidental|Àfrica del Nord]]
+* [[Campanya de l'Àfrica Occidental|Àfrica Occidental]]
+* [[Conquesta italiana de la Somalilàndia Britànica|Somalilàndia Britànica]]
+* [[Ocupació dels Estats Bàltics|Països bàltics]]
+* [[Ocupació soviètica de Bessaràbia i Bucovina del Nord|Moldàvia]]
+* [[Ocupació japonesa d'Indoxina|Indoxina]]
+* [[Guerra italo-grega|Grècia]]
+* [[Operació Compass|''Compass'']]
+
+| group4 = [[Cronologia de la Segona Guerra Mundial (1941)|1941]]
+| list4 =
+* [[Campanya d'Àfrica Oriental|Àfrica Oriental]]
+* [[Invasió de Iugoslàvia]]
+* [[Front Iugoslau]]
+* [[Batalla de Grècia|Grècia]]
+* [[Batalla de Creta|Creta]]
+* [[Operació Barbarossa|Unió Soviètica (''Barbarossa'')]]
+* [[Guerra de Continuació|Finlàndia]]
+* [[Aixecament de juny a Lituània|Lituània]]
+* [[Escenari de l'Orient Mitjà de la Segona Guerra Mundial# campanyes de l'Orient Mitjà|Orient Mitjà]]
+* [[Batalla de Kíev (1941)|Kiev]]
+* [[Invasió d'Iran (1941)|Invasió anglosoviètica d'Iran]]
+* [[Setge de Leningrad|Leningrad]]
+* [[Batalla de Moscou|Moscou]]
+* [[Setge de Sebastòpol (1941-1942)|Sevastopol]]
+* [[Atac a Pearl Harbor|Pearl Harbor]]
+* [[Batalla de Hong Kong|Hong Kong]]
+* [[Campanya de Filipines (1941–1942)|Filipines]]
+* [[Batalla de Changsha (1941)|Changsha (1941)]]
+* [[Campanya malaia|Malàisia/Malaia]]
+* [[Batalla de Borneo (1941–42)|Borneo]]
+
+| group5 = [[Cronologia de la Segona Guerra Mundial (1942)|1942]]
+| list5 =
+* [[Conquesta japonesa de Birmània|Birmània]]
+* [[Batalla de Changsha (1942)|Changsha (1942)]]
+* [[Batalla del Mar del Corall|Mar de Corall]]
+* [[Batalla de Gazala|Gazala]]
+* [[Batalla de Midway|Midway]]
+* ''[[Fall Blau|Blau]]''
+* [[Batalla de Stalingrad|Stalingrad]]
+* [[Dieppe Raid|Dieppe]]
+* [[Segona Batalla d'El Alamein|El Alamein]]
+* [[Campanya de Guadalcanal|Guadalcanal]]
+* [[Operació Torxa|''Torch'']]
+
+| group6 = [[Cronologia de la Segona Guerra Mundial (1943)|1943]]
+| list6 =
+* [[Campanya de Tunísia|Tunísia]]
+* [[Batalla de Kursk|Kursk]]
+* [[Batalla de Smolensk (1943)|Smolensk]]
+* [[Campanya de les Illes Salomó|Salomó]]
+* [[Invasió aliada de Sicília|Sicília]]
+* [[Batalla de Dnièper|Dnièper]]
+* [[Invasió aliada d'Itàlia|Itàlia]]
+* [[Campanya de les Illes Gilbert i Marshall|Gilbert i Marshall]]
+* [[Batalla de Changde|Changde]]
+
+| group7 = [[Cronologia de la Segona Guerra Mundial (1944)|1944]]
+| list7 =
+* [[Batalla de Montecassino|Batalla de Montecassino]] i [[Operació Shingle|''Shingle'']]
+* [[Batalla de Narva (1944)|Narva]]
+* [[Batalla de Korsun-Txerkassi|Korsun-Txerkassi]]
+* [[Operació Tempesta|''Tempest'']]
+* [[Operació Ichi-Go|''Ichi-Go'']]
+* [[Operació Overlord|''Overlord'']]
+* [[Desembarcament de Normandia|''Neptú'']]
+* [[Invasió de Normandia|Normandia]]
+* [[Operació Forager|Mariannes i Palau]]
+* [[Operació Bagration|''Bagration'']]
+* [[Ofensiva Lvov–Sandomierz|Uccraïna Occidental]]
+* [[Batalla de la Línia Tannenberg|Línia Tannenberg]]
+* [[Sublevació de Varsòvia|Varsòvia]]
+* [[Ofensiva de Iaşi–Chişinău (agost de 1944)|Romania Oriental]]
+* [[Ofensiva de Belgrad|Belgrad]]
+* [[Alliberament de París|Paris]]
+* [[Línia Gótica]]
+* [[Operació Horta|Horta]]
+* [[Ofensiva Tallinn|Estònia]]
+* [[Operació Crossbow|''Crossbow'']]
+* [[Operation Pointblank|''Pointblank'']]
+* [[Guerra de Lapònia|Lapònia]]
+* [[Ofensiva Budapest|Hongria]]
+* [[Batalla del Golf de Leyte|Leyte]]
+* [[Batalla de les Ardenes|Ardenes]]
+* [[Campanya de Burma (1944–1945)|Burma]]
+
+| group8 = [[Cronologia de la Segona Guerra Mundial (1945)|1945]]
+| list8 =
+* [[Operació Bodenplatte|''Bodenplatte'']]
+* [[Ofensiva del Vístula-Oder|Vístula-Oder]]
+* [[Batalla d'Iwo Jima|Iwo Jima]]
+* [[Batalla d'Okinawa|Okinawa]]
+* [[Operation Grapeshot|Itàlia (primavera 1945)]]
+* [[Front de Sírmia|Sírmia]]
+* [[Batalla de Berlín|Berlín]]
+* [[Ofensiva de Praga|Txecoslovàquia]]
+* [[Setge de Budapest|Budapest]]
+* [[Batalla d'Hunan Occidental|Hunan Occidental]]
+* [[Final de la Segona Guerra Mundial a Europa|Rendició d'Alemanya]]
+* [[Projecte Hula]]
+* [[Invasió Soviètica de Manxúria|Manxúria]]
+* [[Batalla de Manila (1945)|Filipines]]
+* [[Campanya de Borneo (1945)|Borneo]]
+* [[Bombardejos atòmics de Hiroshima i Nagasaki|Bombardejos atòmics]]
+* [[Rendició del Japó]]
+}}
+
+| group5   = Aspectes
+| list5    = {{Navbox subgroup
+| groupstyle =width:9em; {{WPMILHIST Infobox style|nav_box_label}}
+| liststyle  = width:auto;
+| group1 = General
+| list1 =
+* [[Air warfare of World War II]]
+* [[American Theater (1939–1945)|Attacks on North America]]
+* [[Blitzkrieg]]
+* [[Comparative officer ranks of World War II|Comparative military ranks]]
+* [[World War II cryptography|Cryptography]]
+* [[Home front during World War II|Home front]]
+* [[Projecte Manhattan]]
+* [[Military awards of World War II|Military awards]]
+* [[List of World War II military equipment|Military equipment]]
+* [[Military production during World War II|Military production]]
+* [[Saqueig nazi]]
+* [[Technology during World War II|Technology]]
+* [[Total war#World War II|Total war]]
+* [[Bombardeig estratègic durant la Segona Guerra Mundial|Bombardeig estratègic]]
+* [[Bengal famine of 1943]]
+
+| group2 = [[Postguerra de la Segona Guerra Mundial|Postguerra]]
+| list2 =
+* [[Aftermath of World War II|Efectes]]
+* [[Flight and expulsion of Germans (1944–1950)|Expulsion of Germans]]
+* [[Operació Paperclip|''Paperclip'']]
+* [[Operació Keelhaul|''Keelhaul'']]
+* [[Zones d'ocupació aliada a Alemanya|Ocupació d'Alemanya]]
+* [[Pla Morgenthau]]
+* [[Línia Oder-Neisse|Canvis territorials a Alemanya]]
+* [[Ocupacions soviètiques]] {{small|([[Ocupació soviètica de Romania|Romania]], [[Història de Polònia (1945–1989)|Polònia]], [[Ocupació soviètica d'Hongria|Hongria]], [[Ocupació soviètica dels Estats Bàltics|Estats Bàltics]])}}
+* [[Ocupació del Japó]]
+* [[Guerra d'Indoxina]]
+* [[Revolució Nacional Indonèsia]]
+* [[Guerra Freda]]
+* [[Descolonització]]
+* [[Cultura popular de la Segona Guerra Mundial|Cultura popular]]
+
+ | group3 = [[Crim de guerra|Crims de guerra]]
+ | list3 =
+* [[Crims de guerra aliats durant la Segona Guerra Mundial|Crims de guerra aliats]]
+* [[German war crimes#World War II|German]] and [[War crimes of the Wehrmacht|''Wehrmacht'' war crimes]]
+* [[Holocaust]]
+* [[Crims de guerra italians]]
+* [[World War II persecution of Serbs|Croatian war crimes]]
+* [[Japanese war crimes]]
+* [[Soviet war crimes#World War II|Soviet war crimes]]
+* [[Unit 731]]
+* [[United States war crimes#World War II|United States war crimes]]
+
+| group4 = [[Violació de guerra]]
+| list4 =
+* [[Bordells militars alemanys en la Segona Guerra Mundial|bordells militars alemanys]]
+* [[Bordells de campament alemanys en la Segona Guerra Mundial|bordells de campament]]
+* [[Rape during the occupation of Japan]]
+* [[Comfort women]]
+* [[Massacre de Nanquín]]
+* [[Violacions durant l'ocupació d'Alemanya]]
+
+ | group5 = [[Presoners de guerra|Presoners]]
+ | list5 =
+* [[Presoners de guerra finlandesos a la Unió Soviètica]]
+* [[Presoners de guerra alemanys a la Unió Soviètica]]
+* [[Presoners de guerra alemanys als Estats Units]]
+* [[Presoners de guerra italians a la Unió Soviètica]]
+* [[Presoners de guerra japonesos a la Unió Soviètica]]
+* [[Presoners de guerra japonesos a la Segona Guerra Mundial]]
+* [[Nazi crimes against Soviet POWs]]
+* [[Presoners de guerra polonesos a la Unió Soviètica]]
+* [[Presoners de guerra romanesos a la Unió Soviètica]]
+}}
+
+| below =
+* [[:Categoria:Segona Guerra Mundial|Categoria]]
+
+* [[File:Wikibooks-logo.svg|18x18px]]nbsp;[[:b:Special:Search/segona guerra mundial|llibres de text]]
+* [[File:Wikiquote-logo.svg|18x18px]]nbsp;[[:q:Special:Search/segona guerra mundial|dites]]
+* [[File:Wikisource-logo.svg|18x18px]]nbsp;[[:s:Special:Search/segona guerra mundial|texts]]
+* [[File:Commons-logo.svg|18x18px]]nbsp;[[:commons:Special:Search/World War II|arxius]]
+* [[File:Wikinews-logo.svg|18x18px]]nbsp;[[:n:Special:Search/segona guerra mundial|notícies]]
+}}noinclude
+[[Categoria:Plantilles de navegació de la Segona Guerra Mundial|{{PAGENAME}}]]
+
+/noinclude</text>
+      <sha1>ce7pela7429p5f9f57d3ihu84jinzhu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

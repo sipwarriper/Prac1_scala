@@ -1,0 +1,68 @@
+<page>
+    <title>Pulsoreactor</title>
+    <ns>0</ns>
+    <id>780284</id>
+    <revision>
+      <id>13606640</id>
+      <parentid>13604461</parentid>
+      <timestamp>2014-06-17T16:03:23Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot estandarditza i catalanitza referències, catalanitza dates i fa altres canvis menors</comment>
+      <text>{{2L|data=febrer de 2013}}
+[[Fitxer: North American P-51D with pulsejets 061023-F-1234P-025.jpg|right|300px|thumb|[[P-51 Mustang|Mustang P-51D]] equipat amb pulsoreactores Argus construïts per la [[NACA]] ( predecessora de la NASA).]]
+
+Un ''' pulsoreactor ''' és un tipus de [[Reactor (motor)|reactor]] nascut a [[Alemanya]] creat per '' [[Paul Schmidt]] '' als voltants del [[1920]]. Va ser el primer reactor fabricat en sèrie per a fins bèlics de la història. Concretament el model '' [[Argus I]] '' dissenyat per propulsar la bomba voladora [[V1]], el motor '' Argus I '' tenia una embranzida màxima d'uns 400 [[kg]] i la seva autonomia era d'uns 35 minuts de funcionament, equivalent a la vida útil del sistema de [[vàlvula]]s emprades en l'admissió. Després, a causa del desgast per les tremendes pressions que manejaven, les làmines d'admissió de les vàlvules acabaven per destruir-se causant la paralització del reactor.
+
+Prèviament, el 1917 l'enginyer ripollès Ramon Casanova i Danés va presentar i patentar un pulsoreactor, que va denominar ''Motor de explosión para toda clase de vehículos''. Una reproducció d'aquest pulsoreactor s'exhibeix al Museu de la Ciència i la Tècnica de Catalunya a Terrassa.
+
+Hi ha dues classes de pulsoreactors: el pulsoreactor de vàlvules i el pulsoreactor sense vàlvula. L'Argus I és un exemple clar de pulsoreactor del primer tipus.
+
+
+== Reactors de vàlvules ==
+La seva estructura consta de tres parts fonamentals:
+# Sistema de vàlvules
+# Càmera de [[combustió]]
+# Tub de sortida de gasos,
+[[Fitxer: Pulse jet.png|right|framed|Esquema de funcionament d'un pulsoreactor.]]
+El seu funcionament depèn d'un flux d'aire (1) que entra a través de les vàlvules situades a la part frontal del reactor on es barreja amb el combustible (2) que surt d'un conjunt d'[[injector]] és situats en el sistema de vàlvules. Una [[bugia d'encesa|bugia]] fa explotar la barreja (3), fent que la força de l'explosió acceleri els gasos en ambdues direccions qual cosa provoca que les vàlvules d'admissió d'aire es tanquin fent que el gas es vegi forçosament obligat a sortir pel tub de sortida de gasos (4), produint el [[empenta]], i després crea un buit fent que les vàlvules d'admissió tornin a obrir-se per posteriorment repetir l'operació.
+
+Un cop iniciada la ignició part de l'energia de l'explosió es transforma en calor que escalfa el cos del reactor, la qual cosa facilita després la tasca de la ignició pulsàtil fent innecessari després haver d'utilitzar la bugia com a font d'ignició, la qual cosa fa que el reactor tingui un funcionament autosostingut sense la intervenció de cap mecanisme d'ignició externa després del encès. El major inconvenient d'aquest sistema és principalment la vida útil de les vàlvules d'admissió, ja que en ser simples tires d'[[acer]] flexible aguanten durant poc temps les tensions i les temperatures a les quals el reactor les sotmet, fent que en molt pocs minuts comencin a patir [[Fatiga de materials|fatiga estructural]], i comencin a desintegrar-o fondre's, fent d'aquest sistema força molt delicat i de vida efímera, encara que molt barat de construir en comparació a altres tipus de reactor.
+
+== Reactors sense vàlvules ==
+Aquests pulsoreactor són el màxim exponent de l'evolució del pulsoreactor. Els primers models van començar a aparèixer passada la [[Segona Guerra Mundial]]. Les nacions aliades van començar a investigar el potencial d'aquests reactors per a diversos fins, i van començar a desenvolupar pulsoreactores sense vàlvules per poder allargar la seva vida útil i així poder aprofitar les possibilitats que podien oferir-los, encara que l'arribada de l'[[turborreactor]] va ofegar a aquesta tecnologia del tot
+Hi ha multitud de models, però el més eficient i el més conegut és el denominat '' Lockwood Hiller '' que unia en el seu disseny la senzillesa i una magnífica relació pes/[[empenta]], també sent aquests reactors de gran fiabilitat en no tenir cap peça mòbil. A més són reactors comparativament parlant més segurs que els seus predecessors amb vàlvules. És poc probable que pateixin danys per ingestió de partícules sòlides o fluids.
+
+El funcionament d'aquests reactors a grans trets és similar, només que en no tenir sensibles jocs de vàlvules, aquestes han estat substituïdes per un mètode de retorn de gasos calents. L'explicació és la següent:
+* El pulsoreactor Lockwood Hiller és en realitat una canonada doblegada amb forma de '' U '' en la part central d'un dels dos costats hi ha una inflor visible que és on es troba la cambra de combustió, on s'allotgen l'injector de combustible i la bugia d'encesa.
+* El procés d'encesa comença quan des de la tovera del costat de la U on està situada la càmera de combustió s'injecta un corrent d'aire que ha d'iniciar el correcte cicle de combustió.
+* Tot seguit s'inicia la injecció del combustible i es procedeix a cremar mitjançant la bugia d'encesa. En aquest moment es produeix una explosió que fa que l'aire dins del reactor comenci a expandir-se ràpidament per tota la U produint així l'empenta del reactor, però el recorregut de l'aire en les dues direccions és desigual en distàncies el que provoca que en el moment en el qual l'explosió dóna lloc al buit part dels gasos calents que han hagut de travessar el camí més llarg per l'arc de la U retornin a la cambra de combustió mentre el costat de la càmera de combustió absorbeix aire fresc de l'exterior, obtenint així el retorn d'una part del gas calent de l'explosió inicial, la qual cosa provoca la següent explosió a la cambra de combustió, i finalment d'aquesta manera la combustió es converteix en autosostinguda sense falta alguna de vàlvules, ni de continus guspires de la bugia .ref[http://www.youtube.com/watch?v=EEHw9lInIfg Vídeo d'un pulsoreactor sense vàlvules.]{{en}}/refref[http://lithumbattery.com/videos-micro-mini-pulse-jet-%5Bzn4YVYdp8lE%5D.cfm Mini pulsoreactor. Vídeo.]{{en}}/ref
+
+== Avantatges i desavantatges ==
+Els pulsoreactores d'avui no tenen gairebé cap funció destacable en el món aeronàutic i han quedat relegats al lloc de hobby domèstic, en produir manualment per a aplicacions d'aeromodelisme o com a curiositat científica.
+
+Els pulsoreactores posseeixen característiques que els fan mereixedors de cert respecte davant d'altres tipus de reactor: la seva construcció és molt senzilla, no requereixen de grans equips ni tampoc de materials inusuals per a la seva construcció, molts models valveless poden desenvolupar grans potències sense ser excessivament cars de realitzar, a més que un pulsoreactor pot cremar gairebé qualsevol tipus de combustible (petroderivados, gasos, alcohols etc etc ..). També són reactors de gran senzillesa de reparació i es poden produir en temps molt petits.
+
+No obstant això també presenten greus inconvenients:
+* Elevats consums - incapacitat per assolir cotes supersòniques.
+* Gran mida - impossibilitat d'implementar postquemadores.
+* Escàs marge d'acceleració a causa del seu funcionament per [[ressonància]], ja que si s'intenta variar el seu funcionament entre l'escàs marge de freqüències d'explosió que el reactor té, pot ser que aquest es pari sobtadament o que es torni més ineficient i deixi de donar impuls correctament.
+
+==Vegeu també==
+*[[Turboreactor]]
+
+== Referències ==
+{{Commonscat|Jet engines}}
+
+references/
+
+
+[[Categoria:Motors de reacció]]
+[[Categoria:Components d'aeronau]]</text>
+      <sha1>mtskyop4cxbq58cwqcszb8i36efsn9r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

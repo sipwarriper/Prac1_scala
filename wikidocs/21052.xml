@@ -1,0 +1,131 @@
+<page>
+    <title>Criptografia</title>
+    <ns>0</ns>
+    <id>21052</id>
+    <revision>
+      <id>14014716</id>
+      <parentid>13368280</parentid>
+      <timestamp>2014-09-06T12:32:54Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció: VeureVegeu</comment>
+      <text>[[Fitxer:Enigma.jpg|thumb|La màquina criptogràfica [[Màquina Enigma|Enigma]].]]
+La '''criptografia''' (o '''criptologia''', del [[grec antic|grec]] {{lang|grc|κρυπτός}}, ''kryptos'', amagat, secret; i {{lang|grc|[[wikt:en:γράφω#Greeγ|γράφειν]]}}, ''gráphin'', escriptura, o {{lang|grc|[[wikt:en:-λογία#Greek|-λογία]]}}, ''-logia'', estudi, respectivament)refLiddell and Scott's Greek-English Lexicon. Oxford University Press. (1984)/ref és, tradicionalment, l'estudi de formes de convertir [[informació]] des de la seva forma original cap a un [[codi]] incomprensible, de forma que sigui incomprensible pels que no coneguin aquesta tècnica. La criptografia moderna utilitza les disciplines de les [[matemàtiques]], la [[informàtica]] i l'[[electrotècnia]]. Algunes aplicacions de la criptografia inclouen [[caixer automàtic|caixers automàtics]], [[contrasenya|contrasenyes]] i comerç electrònic.
+
+La criptologia és l'estudi dels criptosistemes: sistemes que ofereixen mitjans segurs de comunicació amb els que l'[[emissor]] oculta o xifra el [[missatge]] abans de transmetre-ho perquè només un [[receptor (comunicació)|receptor]] autoritzat (o ningú) pugui desxifrar-ho. Les seves àrees principals d'interès són la [[criptografia]] i la [[criptoanàlisi]], però també inclou l'esteganografia com a part d'aquesta ciència aplicada. En temps recents, l'interès per la criptologia s'ha estès també a altres aplicacions, per part de la comunicació segura d'informació i, actualment, una de les aplicacions més esteses de les [[tècnica|tècniques]] i mètodes estudiats per la [[criptologia]] és l'[[autenticitat]] de la informació digital (també anomenada [[signatura digital]]).
+
+== Terminologia ==
+De la informació original en diem el [[text pla]] (encara que no necessàriament treballem amb [[text]]os). Llavors passa per un procés de [[xifrat]] que fent servir [[algorisme]]s converteix la informació original en un codi il·legible per tothom que no tingui els mitjans per desxifrar (un altre algorisme), i la [[clau (criptografia)|clau]].
+
+Actualment els [[algorisme]]s, o tècniques criptogràfiques, consisteixen en programes d'[[ordinador]] que aprofiten propietats numèriques que fan que sense la clau sigui molt difícil d'obtenir la informació.
+
+Per exemple estem fent servir la criptografia quan ens connectem al nostre banc a través d'[[Internet]], de manera que encara que algú intercepti la informació que intercanviem amb aquest, no podrà descodificar la informació interceptada.
+
+Col·loquialment, es considera els termes encriptar i xifrar com sinònims, igual que les seves contràries, desencriptar i desxifrar, però no passa el mateix amb el terme codificar. Aprovat per l'[[Institut d'Estudis Catalans]], es pot utilitzar el terme encriptar que s'entendrà universalment per l'[[anglicisme]] dels termes anglesos ''encrypt'' i ''decrypt''. Per definició, codificar significa expressar un missatge utilitzant algun codi, però no és necessàriament de forma oculta, secreta o inintel·ligible; escriure en l'idioma [[català]] implica l'ús d'un codi que serà comprensible per als catalanoparlants però no tant per aquí no domini l'idioma; la matemàtica i la [[lògica]] tenen els seus propis codis, i en general existeixen tants codis com idees. Tanmateix s'entendrà per [[xifrar]] 'escriure (un missatge) emprant un codi secret o xifra', però no necessàriament 'basant-se en algorismes matemàtics' com si seria [[encriptar]].
+
+Anomenem criptografia la tècnica de xifrar dades per tal d'evitar que siguin conegudes per gent no autoritzada. Contràriament, la criptoanàlisi s'encarrega de desxifrar aquestes dades. L'Institut d'Estudis Catalans no admet el terme criptologia perquè és una traducció directa de la paraula anglesa ''cryptology'' que no té una tradició d'ús en la llengua catalana, per això no està recollit al Diccionari de la Llengua Catalana de l'Institut d'Estudis Catalans.
+
+== Història ==
+{{AP|Història de la criptografia}}
+Abans de l'època moderna, la criptografia només es preocupava de la confidencialitat del missatge (per exemple, l'encriptació) —conversió de [[informació|missatges]] d'una forma comprensible a una incomprensible i de nou a una forma intel·ligible, de manera que els interceptors no puguin entendre'l sense un coneixement secret anomenat clau. L'encriptació es va utilitzar per (intentar) assegurar la [[seguretat]] a les [[comunicacions]], com per exemple la d'[[espia|espies]], líders militars, i [[diplomàtic]]s. A les últimes dècades, el camp s'ha expandit més enllà de dubtes sobre la confidencialitat per incloure tècniques per comprovar la integritat del missatge, l'autenticitat del receptor i de l'emissor, i [[signatura digital|signatures digitals]], entre altres.
+
+=== Criptografia clàssica ===
+[[Fitxer:SkytalaEmptyStrip-Shaded.png|thumb|150px|left|Una escítala de l'[[Antiga Grècia]] reconstruïda, un dispositiu de xifratge antic.]]
+Els tipus principals de criptografia clàssica eren el [[xifratge per transposició]], que reordenava l'ordre de les lletres del missatge (per exemple, 'hola món' esdevé 'aolh ónm') i [[xifratge per substitució]], que substitueix sistemàticament lletres o grups de lletres amb altres lletres o grups de lletres (per exemple, 'hola, què tal?' esdevé 'ipmb, rvf ubm?', substituint una [[lletra]] per la següent a l'[[alfabet llatí]]). Les versions simples mai poden oferir un cert nivell de confidencialitat. Un antic mètode de xifratge per substitució va ser el [[xifratge de Cèsar]], en què cada lletra del text pla es reemplaçava per una lletra que es trobava a un cert nombre de posicions respecte a la primera. S'anomena en honor a [[Juli Cèsar]], del qual es diu que l'emprava amb una variació de 3 per comunicar-se amb els seus generals durant les campanyes militars. També es té constància de diversos mètodes de xifratge hebreus. L'ús més antic de criptografia és una pedra egípcia amb text xifrat (del voltant del 1900 AC). També se n'ha trobat a Mesopotàmia. Es recomana la criptografia al [[Kama Sutra]] com a manera de comunicació entre enamorats sense perill de descobriment.ref name=kama''Kama Sutra'', Sir Richard F. Burton, traductor, Part I, Capítol III, art. 44è i 45è./ref
+
+Es diu que a l'[[Antiga Grècia|època greca i clàssica]] es coneixien xifratges (per exemple, el xifratge mitjançant l'[[escítala]]).refV. V. I︠A︡shchenko (2002). ''[http://books.google.cat/books?id=cH-NGrpcIMcCpg=PA6dqhl=en#v=onepageq=f=false Cryptography: an introduction]''. AMS Bookstore. p.6. ISBN 0-8218-2986-6/ref L'[[estenografia]] (amagar l'existència del missatge per mantenir-lo confidencial) també es va desenvolupar als temps antics. Un exemple inicial d'Heròdot consistia a rapar els cabells d'un esclau, escriure-li un missatge al cap i esperar que li tornessin a créixer els cabells.ref name=kahnbookDavid Kahn, ''The Codebreakers'', 1967, ISBN 0-684-83130-9./ref Un altre mètode grec va ser desenvolupat per [[Polibi]] (actualment anomenat Quadrat de Polibili).ref[http://all.net/books/ip/Chap2-1.html A Short History of Cryptography, Fred Cohen 1995, accedit el 8 de juny de 2010]/ref Altres exemples més moderns d'estenografia inclouen l'ús de tinta invisible, micropunts o taques d'aigua digitals per amagar informació.
+
+[[Fitxer:16th century French cypher machine in the shape of a book with arms of Henri II.jpg|thumb|150px|Màquina de xifratge [[França|francesa]] en forma de llibre del [[segle XVI]], amb l'escut d'armes d'[[Enric II de França]].]]
+[[Fitxer:Encoded letter of Gabriel Luetz d Aramon after 1546 with partial deciphering.jpg|thumb|150px|Lletra xifrada de Gabriel de Luetz, ambaixador francès a l'imperi otomà, amb desxiframent parcial.]]
+Els texts xifrats creats mitjançant un [[xifratge clàssic]] (i alguns xifratges moderns) sempre revelen informació estadística sobre el text pla, que sovint es pot utilitzar per trencar-los. Després del descobriment de l'[[anàlisi de freqüències]], potser pel matemàtic àrab [[Al-Kindí]] al [[segle IX]], gairebé tots aquests xifratges van esdevenir més o menys vulnerables pels atacants informats. Aquests xifratges clàssics encara són populars actualment, principalment com a [[trencaclosques]]. Al-Kindí va escriure un llibre sobre criptografia anomenat ''Risalah fi Istikhraj al-Mu'amma'' (''Manuscrit per desxifrar missatges criptogràfics''), en què va descriure tècniques de [[criptoanàlisi]], incloent-ne algunes per a [[xifratge polialfabètic|xifratges polialfabètics]].refSimon Singh, ''The Code Book'', pp. 14-20/refref name=KadiIbrahim A. Al-Kadi (abril de 1992), The origins of cryptology: The Arab contributions”, ''Cryptologia'' '''16''' (2): 97–126/ref
+
+Essencialment tots els xifratges van romandre vulnerables a la [[criptoanàlisi]] utilitzant l'anàlisi de freqüències fins al desenvolupament del xifratge polialfabètic, principalment per [[Leon Battista Alberti]] al voltant de l'any [[1467]], tot i que sembla que Al-Kindí ja ho coneixia.ref name=Kadi/ La innovació d'Alberti va ser utilitzar diferents xifratges (per exemple, alfabets de substitució) per a diverses parts d'un missatge. També va inventar el que probablement va ser el primer [[Xifratge de Vigenère|mètode automàtic de xifratge]], una roda que implementava una realització parcial del seu invent. Al [[xifratge de Vigenère]] polialfabètic utilitza una ''paraula clau'', que controla la substitució de lletres d'acord amb la lletra que s'utilitzi. A mitjan segle XIX [[Charles Babbage]] va mostrar que els xifratges d'aquest tipus romanien parcialment vulnerables amb anàlisis de freqüències esteses.ref name=kahnbook /
+
+S'han utilitzat diversos dispositius físics i ajudes per als xifratges. Un dels més antics podria ser l'escítala de l'[[Antiga Grècia]], una vara utilitzada suposadament pels espartans com a ajuda per un [[xifratge per transposició]] (vegeu imatge més amunt). Amb la invenció de xifratges polialfabètics van aparèixer ajudes més sofisticades com el mateix disc de xifratge d'Alberti, la ''[[Xifratge de Trithemius|tabula recta]]'' de [[Johannes Trithemius]], i el multi-cilindre de [[Thomas Jefferson]] (no conegut públicament, i reinventat independentment per Bazeries al voltant del 1900). Es van inventar molts dispositius mecànics d'encriptació/desxifratge a principis del [[segle XX]], i se'n van patentar diversos, entre ells màquines rotor —inclosa la coneguda [[màquina Enigma]] utilitzada pel govern alemany des de finals de la [[dècada del 1920]] i durant la [[Segona Guerra Mundial]].ref{{ref-llibre | cognom = Hakim
+ | nom = Joy
+ | títol = A History of Us: War, Peace and all that Jazz
+ | editorial = Oxford University Press
+ | any = 1995
+ | lloc = New York
+ | isbn = 0-19-509514-6 }}/ref
+
+=== Era dels ordinadors ===
+El desenvolupament d'ordinadors digitals i [[electrònica]] després de la [[Segona Guerra Mundial]] va fer possible xifratges molt més complexos. A més, els ordinadors van permetre l'encriptació de qualsevol tipus de dades representables en format binari, contràriament als xifratges clàssics que només encriptaven textos escrits. Els ordinadors acostumen a tractar les operacions en seqüències de [[bit]]s en [[codi binari|format binari]] (de vegades en grups o blocs), a diferència dels mètodes mecànics i clàssics, que generalment manipulen els caràcters tradicionals (per exemple, lletres i dígits) directament. Tanmateix, els ordinadors també han assistit la criptoanàlisi, havent compensat l'augment en la complexitat dels xifratges. Nogensmenys, els bons mètodes moderns s'han anticipat a la criptoanàlisi; acostuma a ocórrer el cas en què el xifratge és molt eficient (i per tant requereix pocs recursos de [[CPU]]), mentre que trencar-lo requereix un esforç molts ordres de magnitud superior, molt més gran que en qualsevol xifratge clàssic. Això fa la criptoanàlisi poc eficient i poc pràctica. Altres mètodes d'atac han esdevingut més atractius conseqüentment.
+
+== Xifratge ==
+El procediment utilitzat per xifrar dades es realitza mitjançant un algorisme el qual se li pot considerar com una [[funció matemàtica]]. Per tant, un algorisme de xifratge és una fórmula per desordenar una informació de manera que aquesta es transformi en incomprensible, utilitzant un codi o una clau (a vegades, més d'una). Els missatges que s'han de protegir, denominats textos en clar, es transformen mitjançant aquesta funció i, a la sortida del procés de posada en clau s'obté el text xifrat, o [[xifrograma]]. En molts casos existeix un algorisme de desxifratge encarregat de reordenar la informació i tornar-la intel·ligible, però no sempre és així. Quan existeixen les dues funcions, una per xifrar i l'altre per desxifrar, es diu que el sistema criptogràfic és de dues vies o reversible (a partir d'un missatge en clar es pot obtenir un xifratge i a partir d'aquest es pot obtenir el missatge original), mentre que quan no existeix una funció per desxifrar es diu que el sistema és d'una sola via (a partir d'un missatge xifrat no és possible obtenir el missatge en clar que el va generar, l'aplicació d'aquest és, per exemple, per l'emmagatzemament de les contrasenyes).
+
+La transformació de dades preveu una possible [[solució]] a dos dels problemes de seguretat en el maneig de dades: la [[privadesa]] i autenticitat. D'aquesta manera s'intenta evitar que les persones no autoritzades puguin extreure informació del canal de [[comunicació]] o modificar aquests missatges.
+
+Des del punt de vista [[història|històric]] els mètodes de xifratge s'han dividit en dues categories: xifradors de substitució i xifradors de transposició. En un xifrador de substitució, cada lletra o grup de lletres se substitueixen per una altra lletra o un grup de lletres per desxifrar-les. Els xifradors de substitució preserven l'ordre dels símbols del text en clar, però els disfressen. El xifrador de substitució més antic que es coneix és el [[Xifratge de Cèsar]], atribuït a [[Juli Cèsar]]. En aquest mètode, A és representat per D, B per E, C per F, i així cada lletra se substitueix per la que es trobi tres llocs davant d'aquesta, considerant que després de la Z torni a començar per la A. Una variant del xifrador del Cèsar és permetre que l'[[alfabet]] xifrat es pugui desplaçar k lletres (no només 3), convertint-se k en la clau.
+
+En l'actualitat, l'ús de la criptografia s'ha estès tant en els sectors empresarials i polítics, per exemple els bancs en el [[comerç electrònic]], com per als usuaris particulars que gràcies a iniciatives com el [[PGP]] poden disposar de nivells de seguretat usats pels serveis secrets per enviar els seus [[correu electrònic|correus electrònics]].
+
+== Criptografia moderna ==
+El camp modern de la criptologia es pot dividir en diverses àrees d'estudi.
+
+=== Criptografia de clau simètrica ===
+{{AP|Criptografia simètrica}}
+La criptografia de clau simètrica es refereix a aquells mètodes de xifratge en què l'emissor i receptor comparteixen la mateixa clau (o, rarament, unes claus diferents però relacionades entre elles d'una forma calculable). Va ser l'únic mètode de xifratge conegut públicament fins al juny del [[1976]].ref[[Whitfield Diffie]] and [[Martin Hellman]], [[New Directions in Cryptography]], IEEE Transactions on Information Theory, vol. IT-22, Nov. 1976, pp: 644–654. ([http://citeseer.ist.psu.edu/rd/86197922%2C340126%2C1%2C0.25%2CDownload/http://citeseer.ist.psu.edu/cache/papers/cs/16749/http:zSzzSzwww.cs.rutgers.eduzSz%7EtdnguyenzSzclasseszSzcs671zSzpresentationszSzArvind-NEWDIRS.pdf/diffie76new.pdf pdf])/ref L'estudi modern de xifratges de clau simètrica està relacionat principalment amb l'estudi de [[xifratge per blocs]] i xifratge per flux i amb les seves aplicacions. Un xifratge per blocs és una forma moderna del xifratge polialfabètic d'Alberti: els blocs de xifratge tenen com a entrada un bloc de text pla i una clau, i produeixen un bloc de text xifrat amb la mateixa mida. Com que els missatges són gairebé sempre més llargs que un únic bloc, es requereix un mètode d'unió dels blocs successius. Se n'han desenvolupat diversos, alguns amb més o menys seguretat en diferents aspectes.
+
+El [[Data Encryption Standard]] (DES) i l'[[Advanced Encryption Standard]] (AES) són dissenys de xifratge per blocs que el govern dels Estats Units ha designat estàndards criptogràfics (tot i que la designació del DES es va retirar un cop es va acceptar l'AES).ref name=aes[http://www.csrc.nist.gov/publications/fips/fips197/fips-197.pdf FIPS PUB 197: The official Advanced Encryption Standard]./ref Tot i que el DES ja no es considera estàndard oficial, el DES (especialment la variant encara aprovada i molt més segura [[triple DES]]) encara és molt popular; s'utilitza en un gran ventall d'aplicacions, des d'encriptació ATMref name=atm[http://www.ncua.gov/letters/2004/04-CU-09.pdf NCUA letter to credit unions], juliol de 2004/ref passant per la privadesa dels correus electrònicsref name=opgpRFC 2440 - Open PGP Message Format/ref i [[Secure Shell|accés remot segur]].ref name=ssh[http://www.windowsecurity.com/articles/SSH.html SSH at windowsecurity.com] by Pawel Golen, July 2004/ref S'han designat i llançat molts altres xifratges per blocs, amb una variació considerable en la qualitat.
+
+=== Criptografia de clau pública ===
+{{AP|Criptografia de clau pública}}
+En els algorismes de clau pública es generen un parell de claus, una de privada i una de pública. Aquestes claus són [[nombres primers]] de '''molt alta magnitud''', de forma que és computacionalment ''impossible'' de trobar mitjançant la força bruta. Hi ha diversos escenaris i casos dintre dels quals podem treballar amb aquest sistema. 
+
+Suposem dos interlocutors, A i B, amb les seves respectives claus públiques i privades.
+
+==== Comunicació segura ====
+El procés seguit, esquemàticament, és el següent:
+
+[[Fitxer:Asymmetric cryptography - step 1.svg|thumb|400px|center|1a etapa: L'Alice genera dues claus. La clau pública (verda), és la que envia a en Bob. La clau privada (taronja) és la que ella conserva sense donar-la a ningú.]]
+
+[[Fitxer:Asymmetric cryptography - step 2.svg|thumb|400px|center|2a i 3a etapes: En Bob xifra el missatge amb la clau pública de l'Alice, i li envia el text encriptat. L'Alice desxifra el missatge gràcies a la seva clau privada.]]
+
+Si en un determinat moment, B decideix contestar de forma segura:
+* Ara, B utilitzarà la clau pública d'A (receptor en aquest cas), per xifrar-li el missatge. 
+* Quan A el rebi, utilitzarà la seva clau privada (A), coneguda només per ell, per tal de desxifrar-lo. 
+
+Amb aquest esquema, per cada missatge xifrat, només pot haver-hi un sol receptor.
+
+==== Verificació d'autenticitat, no modificació i no repudi ====
+Si el que volem és demostrar que un cert missatge ha estat escrit per nosaltres, el que farem és adjuntar al document un resum del mateix ([[Checksum]]), amb la [[data]] i d'altres camps addicionals, i el xifrarem amb la nostra clau privada. D'aquesta manera, serem els únics en poder firmar el missatge, tal que quan els altres utilitzin la nostra clau pública per desxifrar la firma, el resultat que els donarà serà correcte i coherent amb el document. 
+
+'''Conseqüències''':
+* Demostra que només nosaltres podem haver escrit un cert document.
+** Podem demostrar que és nostre
+** No podem afirmar que ningú s'ha fet passar per nosaltres
+* S'hi reflecteix la data i l'[[hora]], de forma que si es modifiqués, el resum del missatge no quadraria (ja que és un xifrat d'un sol sentit, i no es pot fer més que verificar si és vàlid o no)
+** Es pot demostrar que un cert document s'ha finalitzat o xifrat '''no després''' d'una certa data i hora.
+* Si en comptes de canviar la data es canvia el contingut, el resultat és el mateix. És a dir, la comprovació de consistència del missatge amb el reu resum xifrat no coincidiria.
+
+Aquests principis són els que es fan servir per a construir la [[signatura digital]].
+
+== Referències ==
+{{referències|2}}
+
+== Vegeu també ==
+* [[Clau (criptografia)|Clau]]
+* [[Criptografia de corba el·líptica]]
+* [[Criptografia financera]]
+* [[Criptografia híbrida]]
+* [[Xifratge de Cèsar]]
+* [[RSA]]
+* [[Signatura digital]]
+* [[Màquina Enigma]]
+* [[Criptograma musical]]
+
+{{commonscat|Cryptography}}
+
+{{Enllaç AD|he}}
+
+[[Categoria:Criptografia| ]]</text>
+      <sha1>1vnbdwc7lipk56nt4drpgpy01xma9fy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

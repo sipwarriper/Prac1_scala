@@ -1,0 +1,191 @@
+<page>
+    <title>Programació lineal</title>
+    <ns>0</ns>
+    <id>147588</id>
+    <revision>
+      <id>13822049</id>
+      <parentid>13565757</parentid>
+      <timestamp>2014-07-14T11:46:49Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:Linear optimization in a 2-dimensional polytope.svg|thumb|Representació pictòrica d'un programa lineal simple de dues variables i sis desigualtats. El conjunt de solucions factibles es mostra en vermell clar i conforma un [[polítop]] bidimensional. La funció lineal de cost està representada per una línia vermella i una fletxa: la línia vermella és el [[conjunt de nivell]] de la funció de cost, i la fletxa indica la direcció en la qual s'està optimitzant.]]
+La '''programació lineal''' ('''PL''') és un mètode matemàtic per determinar una manera d'aconseguir el millor resultat (com, per exemple, el benefici màxim o el cost mínim) d'un cert [[model matemàtic]] donats una sèrie de requisits (restriccions) representats com relacions lineals. La programació lineal és un cas específic de la programació matemàtica ([[optimització matemàtica]]).
+
+Més formalment, la programació lineal és una tècnica per l'[[optimització matemàtica|optimització]] d'una [[funció objectiu]] [[lineal]], subjecta a una [[igualtat lineal]] i [[restricció (matemàtiques)|restriccions]] en forma de [[desigualtat lineal|desigualtats lineals]]. La seva [[regió factible]] és un [[políedre convex]], que és un conjunt definit com la intersecció de molts (finits) [[semiespai]]s, cadascun dels quals és definit per una desigualtat lineal. La seva funció objectiu és una [[funció afí]] de valors [[nombre real|reals]] definida en aquest políedre. Un [[algorisme]] de programació lineal troba un punt del políedre en el qual aquesta funció té el menor (o major) valor, si existeix tal punt.
+
+Els programes lineals són problemes que es poden expressar en la següent [[forma canònica]]:
+
+:math \begin{align}
+ \text{maximitzar}    \mathbf{c}^\mathbf{T} \mathbf{x}\\
+ \text{amb la restricció}  A \mathbf{x} \leq \mathbf{b} \\
+ \text{i}  \mathbf{x} \ge \mathbf{0}
+\end{align} /math
+
+'''x''' representa el vector de variables que es volen determinar; '''c''' i '''b''' són [[espai vectorial|vectors]] de coeficients coneguts; '''a''' és una [[matriu (matemàtiques)|matriu]] de coeficients coneguts; i math(\cdot)^\mathrm{T}/math és la [[matriu transposada]]. L'expressió que es vol maximitzar o minimitzar s'anomena ''funció objectiu'', en aquest cas '''c'''supT/sup'''x'''. Les desigualtats ''A'''''x'''nbsp;≤nbsp;'''b''' són les restriccions que configuren un [[polítop convex]] sobre el qual s'optimitza la funció objectiu. En aquest context, dos vectors són [[comparabilitat|comparables]] quan tenen les mateixes dimensions. Si cada component del primer és menor o igual a la component corresponent del segon, llavors es pot dir que el primer vector és menor o igual al segon vector.
+
+La programació lineal es pot aplicar a diversos camps d'estudi. Es fa servir en [[negoci]]s i [[economia]], però també es pot fer servir per resoldre alguns problemes de l'[[enginyeria]]. Algunes indústries que utilitzen models de programació lineal són, per exemple, la del transport, energia, telecomunicacions i fabricació. La programació lineal s'ha demostrat útil per modelar diversos tipus de problemes que tracten la planificació, el disseny de rutes, la programació d'horaris, l'[[problema de l'assignació|assignació]] i el disseny.
+
+==Història==
+[[File:Leonid Kantorovich 1975.jpg|thumb|[[Leonid Kantoròvitx]]]]
+El problema consistent en resoldre un sistema de [[inequació|desigualtat]]s lineals data, com a mínim, de l'època de [[Joseph Fourier|Fourier]], en honor al qual s'anomena el mètode de l'[[eliminació de Fourier-Motzkin]]. La primera programació lineal fou desenvolupada per [[Leonid Kantoròvitx]] el 1939refVegeu el seu treball de 1940 llistat més avall./ref per planejar les despeses i ingressos durant la [[Segona Guerra Mundial]], per així reduir els costos de l'exèrcit i incrementar les pèrdues de l'enemic. El mètode fou mantingut en secret fins al 1947, quan [[George Dantzig]] va publicar el [[algorisme símplex|mètode símplex]] i [[John von Neumann]] va desenvolupar la teoria de la [[#Dualitat|dualitat]] com una solució de l'optimització lineal, i l'aplicà en el camp de la [[teoria de jocs]]. Durant la postguerra, moltes indústries li van trobar utilitat per planejar el seu treball diari.
+
+El problema de la programació lineal es provà que era resoluble en un temps polinòmic per primer cop el 1979 gràcies a [[Leonid Khachiyan]], però l'assoliment teòric i pràctic més gran en aquest camp va arribar el 1984, quan [[Narendra Karmarkar]] va introduir el [[mètode de punts interiors]] per resoldre problemes de programació lineal.
+
+L'exemple original de Dantzig consistia en trobar la millor assignació per 70 persones en 70 treballs (oficis). La potència de computació necessària per provar totes les permutacions i poder escollir la millor assignació és gegant; el nombre de configuracions possibles excedeix el nombre de partícules de l'Univers observable. Tanmateix, només cal un moment per trobar la solució òptima si es planteja el problema com un problema de programació lineal i s'aplica l'[[algorisme símplex]]. La teoria darrere la programació lineal redueix dràsticament el nombre de possibles solucions òptimes que cal comprovar.
+
+== Ús ==
+La programació lineal es considera del camp de l'optimització per diverses raons. Molts problemes pràctics en [[investigació operativa]] es poden expressar en forma de problemes de programació lineal. Certs casos especials de programació lineal, tals com els problemes de ''flux de xarxes'', són considerats importants ja que han generat molta recerca en algorismes especialitzar en la seva resolució. Alguns algorismes per altres tipus de problemes d'optimització fan servir problemes de PL per la seva resolució. Històricament, les idees al voltant de la programació lineal han inspirat molts dels conceptes centrals de la teoria d'optimització, tals com la ''dualitat'', la ''descomposició'' i la importància de la ''convexitat''. De la mateixa manera, la programació lineal es fa servir a bastament en [[microeconomia]] i organització d'empresa en temes com la planificació, producció, transport, tecnologia, etc.
+
+== Forma estàndard ==
+La «forma estàndard» és la manera més intuïtiva i usual de descriure un problema de programació lineal. Consisteix en les següents tres parts:
+
+# '''Funció lineal que es vol maximitzar'''
+#: per exemple, math f(x_{1},x_{2}) = c_1 x_1 + c_2 x_2/math
+# Un cert nombre de '''restriccions'''
+#: per exemple,
+#:: math\begin{matrix}
+  a_{11} x_1 + a_{12} x_2 \leq b_1 \\ 
+  a_{21} x_1 + a_{22} x_2 \leq b_2 \\
+  a_{31} x_1 + a_{32} x_2 \leq b_3 \\
+\end{matrix}/math
+# '''Variables no negatives'''
+#: per exemple,
+#:: math\begin{matrix}
+ x_1 \geq 0 \\
+ x_2 \geq 0
+\end{matrix}/math
+
+El problema se sol expressar en forma [[matriu (matemàtiques)|matricial]], i llavors esdevé:
+
+: math\max \{ c^\mathrm{T} x \;|\; A x \leq b \and x \geq 0 \}/math
+
+Altres formes tals com problemes de minimització, problemes amb restriccions de formes alternatives o problemes que comprenen variables negatives sempre es poden reescriure en una forma estàndard equivalent.
+
+===Exemple===
+Un agricultor té una extensió de terra d'una superfície de ''L'' kmsup2/sup, i hi vol plantar blat, ordi o una combinació dels dos. L'agricultor té una quantitat limitada de fertilitzant, ''F'' quilograms, i també d'insecticida, ''P'' quilograms. Cada quilòmetre quadrat de blat requereix ''F''sub1/sub quilograms de fertilitzant, i ''P''sub1/sub quilograms d'insecticida; d'altra banda, cada quilòmetre quadrat d'ordi requereix ''F''sub2/sub quilograms de fertilitzant, i ''P''sub2/sub quilograms d'insecticida. Sigui Ssub1/sub el preu de venda del blat per quilòmetre quadrat, i Ssub2/sub el preu de venda de l'ordi per quilòmetre quadrat. Si es denota la superfície de terra plantada amb blat i ordi com ''x''sub1/sub i ''x''sub2/sub respectivament, llavors es pot maximitzar el benefici si s'escullen els valors òptims per ''x''sub1/sub i ''x''sub2/sub. Aquest problema es pot expressar mitjançant el següent problema de programació lineal, en forma estàndard:
+
+{|
+|-
+| Maximitzar:
+| big''S''sub1/sub''x''sub1/sub + ''S''sub2/sub''x''sub2/sub/big
+| (maximitzar els ingressos; els ingressos són la funció objectiu)
+|-
+| Restriccions:
+| big0 ≤ ''x''sub1/sub + ''x''sub2/sub ≤ ''L''/big
+| (limitació de l'àrea total)
+|-
+|
+| big0 ≤ ''F''sub1/sub''x''sub1/sub + ''F''sub2/sub''x''sub2/sub ≤ ''F''/big
+| (limitació de fertilitzant)
+|-
+|
+| big0 ≤ ''P''sub1/sub''x''sub1/sub + ''P''sub2/sub''x''sub2/sub ≤ ''P''/big
+| (limitació d'insecticida)
+|-
+| Variables no negatives:
+| big''x''sub1/sub ≥ 0, ''x''sub2/sub ≥ 0
+| (no es pot plantar una àrea negativa)
+|}
+
+En forma matricial, això esdevé:
+
+: Maximitzar math\begin{bmatrix} S_1  S_2 \end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} /math
+: Amb les restriccions math\begin{bmatrix} 0 \\ 0 \\ 0 \end{bmatrix} \le \begin{bmatrix} 1  1 \\ F_1  F_2 \\ P_1  P_2 \end{bmatrix} \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \le \begin{bmatrix} L \\ F \\ P \end{bmatrix}, \, \begin{bmatrix} x_1 \\ x_2 \end{bmatrix} \ge \begin{bmatrix} 0 \\ 0 \end{bmatrix}. /math
+
+== Mètode gràfic ==
+Per iniciar la resolució del problema s’han de dibuixar les restriccions al pla i determinar la regió factible, on hi trobarem el punt solució. El punt solució sempre estarà dins la regió factible.
+
+'''
+Existeixen 3 mètodes de resolució gràfica:'''
+
+'''1. Anàlisi dels vèrtexs i les fronteres de la regió factible'''
+
+Una vegada s’ha dibuixat la regió factible, amb aquest procediment cal analitzar els vèrtexs i les fronteres. Seleccionem els diversos punts i substituïm els valors (x,y) a la funció objectiu. Si volem minimitzar la funció agafem el punt amb el valor menor, i si volem maximitzar la funció agafem aquell amb el major valor. 
+
+'''2. Corbes de nivell'''
+
+En aquest procediment es tracen diverses corbes de nivell per analitzar quines toquen els vèrtexs. Una vegada estan dibuixades, s’analitza quina és la més alta o la més baixa, depenent de si la funció objectiu ha ser un màxim o un mínim. 
+
+'''3. Gradient'''
+
+En aquest mètode s’ha de traçar la corba de nivell 0, que passa pel punt (0,0), per tal de traçar-hi el gradient. El gradient indica la direcció de màxim creixement. Si optimitzem amb un màxim buscarem el vèrtex en la direcció del gradient i si optimitzem amb un mínim agafarem el vèrtex en la direcció contrària al gradient [-(f'subx/sub(xsub0/sub,ysub0/sub), f’suby/sub(xsub0/sub,ysub0/sub)].
+
+== Exemple d'un problema de programació lineal ==
+
+'''Enunciat'''
+
+Es demana maximitzar el benefici de la següent funció (funció objectiu):
+
+'''F(x,y)= 8x + 9y'''
+
+Subjecte a les següents restriccions:
+
+'''x + 2y ≤ 8'''
+
+'''2x + 3y ≤ 13'''
+
+'''x + y ≤ 6'''
+
+'''x, y ≥ 0'''
+
+Per resoldre aquest problema utilitzarem la programació lineal, de manera que resoldrem l'exercici mitjançant els 3 mètodes explicats anteriorment.
+
+
+'''Mètode 1:'''
+
+[[File:Metode1.png|thumb|Metode1]]
+
+Un cop dibuixada la regió factible en el gràfic x, y, busquem els punts on s'interseccionen les restriccions, és a dir, els vèrtexs d’aquesta regió factible.
+*Sabem, observant el gràfic, que dos d’ells són (0,4) i (6,0) que es corresponen amb la intersecció de dues de les restriccions amb els eixos de coordenades.
+Els altres dos punts els trobem resolent el sistema resultant de la intersecció de les dues rectes corresponents.
+*En el cas del punt (2,3) es correspondria amb la intersecció de les rectes '''2x + 3y = 13''' i '''x + 2y = 8'''.
+*En quant del punt (5,1), aquest es correspon amb la intersecció de les rectes '''2x + 3y = 13''' i '''x + y = 6'''.
+
+Seguidament estudiarem el valor de la funció objectiu que pretenem maximitzar en els punts candidats:
+
+'''F(0,4) = 8•0 + 9•4 = 36'''
+
+'''F(2,3) = 8•2 + 9•3 = 43'''
+
+'''F(5,1) = 8•5 + 9•1 = 49'''
+
+'''F(6,0) = 8•6 + 9•0 = 48'''
+
+Podem observar que mitjançant el procediment d’anàlisi dels vèrtexs candidats, la funció objectiu assoleix el seu màxim (en la regió factible) en el punt (5,1), amb un valor de '''49'''.
+
+'''Mètode 2'''
+
+[[File:Metode2.png|thumb|Metode2]]
+
+Un cop dibuixada la regió factible i trobats els vèrtexs d’aquesta, un altre mètode consisteix en dibuixar les corbes de nivell (f(x,y)=k) corresponents a la funció objectiu. Com podem comprovar en el gràfic, el punt (5,1) és el punt de la regió factible intersecat per la corba de nivell més alta (línia groga ), per tant, podem afirmar que la funció assoleix el seu valor màxim en el punt (5,1). Per trobar aquest valor substituirem les coordenades del punt a la funció objectiu, tal com hem fet en el mètode 1:
+
+'''F(5,1) = 8•5 + 9•1 = 49'''
+
+
+'''Mètode 3'''
+
+[[File:Metode3.png|thumb|Metode3]]
+
+El mètode 3 és molt similar al mètode 2, però més senzill i pràctic. Consisteix en representar en el gràfic una de les corbes de nivell (generalment la corba de nivell F(x,y)=k=0) i mitjançant les derivades parcials, representar també el gradient de F(x,y). El gradient indica la direcció de màxim creixement de la funció, per tant, no caldrà representar totes les corbes de nivell. Com podem observar en el gràfic, la corba de nivell més alta que talla la regió factible es troba en el punt (5,1).
+
+== Referències ==
+{{Commonscat}}
+
+{{referències}}
+
+==Vegeu també==
+* [[Història de la programació lineal]]
+* [[Programació lineal entera]]
+* [[Problema del recobriment]]
+{{Autoritat}}
+{{ORDENA:Programacio Lineal}}
+[[Categoria:Investigació operativa]]</text>
+      <sha1>8xaeu3rm9jr4gzjanjsvqv4hdq4rxiy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

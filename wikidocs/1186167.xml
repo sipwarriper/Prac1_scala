@@ -1,0 +1,110 @@
+<page>
+    <title>Economia</title>
+    <ns>0</ns>
+    <id>1186167</id>
+    <revision>
+      <id>14052950</id>
+      <parentid>14046686</parentid>
+      <timestamp>2014-09-18T12:28:17Z</timestamp>
+      <contributor>
+        <username>Sajolida</username>
+        <id>164781</id>
+      </contributor>
+      <comment>/* Sector financer */</comment>
+      <text>{{vegeu lliure|Aquest article fa referència a l'economia com a activitat econòmica. Per a la disciplina de les ciències socials vegeu '''[[ciències econòmiques]]'''.}}
+L''''economia''' és l'activitat humana que consisteix en la producció, distribució, intercanvi i consum de béns i serveis. Habitualment fa referència a l'activitat econòmica d'un [[estat]] però també s'utilitza per a altres àmbits, per exemple l'''[[economia internacional]]'' fa referència a les relacions econòmiques entre els diferents països.
+
+== Sistema econòmic ==
+El [[sistema econòmic]] és la manera en que s’organitza l'economia d'un país determinat, és a dir, és el mecanisme que determina què es produeix, com es produeix i com es distribueix la producció entre la població. Històricament només hi ha hagut tres tipus de sistemes econòmics: els que es basen en la tradició, el sistema d'economia autoritària o [[economia planificada|planificada]] i el sistema d'[[economia de mercat]]. En l'economia de mercat, els individus i les empreses prenen les decisions sobre producció i consum a través de la seva interacció en els [[mercats]]. En canvi, en l’economia planificada aquestes decisions les pren una autoritat central.ref name=EN{{ref-web |url=http://www.britannica.com/EBchecked/topic/178493/economic-system|títol=economic systems|consulta=12 de juny de 2014 |obra=Encyclopaedia Britannica |editor=Encyclopaedia Britannica Online Academic Edition| any =2014 |llengua=anglès}}/ref 
+
+Els sistemes econòmics de les societats actuals tenen elements tan de l’economia de mercat com de l’economia planificada, per aquest motiu s’anomenen [[Economia mixta|economies mixtes]].{{sfn|Samuelson|Nordhaus|2006|p=6-7}} En les economies actuals, els individus s'[[divisió del treball|especialitzen]] en determinades tasques del procès productiu que després comercien en els mercats per a obtenir els béns que necessiten. Per al [[comerç]] dels diferents béns i serveis s'utilitza el [[diner]] com a mitjà de pagament. Les entitats econòmiques es poden agrupar en: les llars, les societats no financeres, les societats financeres, el govern i les entitats sense ànim de lucre. Els governs intervenen en l'economia mitjançant la regulació dels mercats, la provisió de béns públics, la recaptació d'impostos i pagament de subvencions i transferències, controlant l'oferta monetaria, etc.{{sfn|Samuelson|Nordhaus|2006|p=26-39}}
+
+==Producció==
+La producció és una activitat realitzada per una entitat econòmica en la que s'utilitza mà d'obra, capital i béns i serveis per obtenir altres béns i serveis.{{sfn|Nacions Unides|2009|p=109}}
+
+El [[Producte Interior Brut]] (PIB) es defineix com el valor dels béns i serveis produïts en un país durant un any un cop deduïda la part consumida en la producció.{{sfn|IDESCAT|2010|p=20}} És la mesura més utilitzada del tamany d'una economia.ref{{ref-web |url=http://epp.eurostat.ec.europa.eu/statistics_explained/index.php/National_accounts_and_GDP |títol=National accounts and GDP |consulta=26 juny 2014 |obra= |editor=EUROSTAT |data=2014 |llengua=anglès}}/ref  L'economia més gran del món és la dels [[Estats Units]] amb un PIB el 2011 de 15.534 mil·lers de milions de dòlars. El segueix la [[Xina]], amb un PIB de 7.322 mil·lers de milions de dòlars. Tanmateix, diferències en el PIB es poden deure tan a diferències en el nivell de producció com a diferències en els preus. Per aquest motiu s'utilitza la paritat del poder adquisitiu a l'hora de comparar el PIB de diferents països. Si es calcula el PIB de la Xina utilitzant aquest mètode, valorant la seva producció amb els preus dels Estats Units, el seu PIB esdevé 13.496 mil·lers de milions de dòlars.ref name=BMD{{ref-web |url=https://siteresources.worldbank.org/ICPINT/Resources/270056-1183395201801/2011-International-Comparison-Program-results.xlsx |títol=ICP 2011 data (Table R1) |consulta=30 juny 2014 |obra= |editor=Banc Mundial |data=2014 |llengua=anglès}}/ref
+
+La quantitat de béns i serveis que es produeixen en una economia depèn de la quantitat de treball, capital humà, [[capital (economia)|capital físic]] i de la [[tecnologia]]. Aquests recursos s'anomenen [[factors de producció]] i el creixement de les economies depèn de l'evolució d'aquests factorrs. El capital són béns durables produïts que s'utilitzen en la producció d'altres béns. Disposar de capital permet poder produir més béns per al consum però per tal d'obtenir capital s'ha de renunciar al consum d'una part de la producció. En les economies de mercat, el capital és de propietat privada i es pot comerciar. En canvi, els treballadors no es poden vendre o comprar, només es pot comerciar la [[força de treball]].{{sfn|Baumol|Blinder|2010|p=492 i 520}}{{sfn|Samuelson|Nordhaus|2006|p=26-39}}
+
+Actualment, el principal component de la producció mundial són els [[sector terciari|serveis]], i representen el 70% del PIB. El [[sector secundari]] representa el 30% mentre que el [[sector primari]] només arriba al 3% del total. El pes del sector serveis és del 49% en els països amb nivell d'ingrès baix, 54% en els de nivell mitjà i 74% en els d'ingrès alt. En els tres casos és el principal component del PIB.ref{{ref-web |url=http://wdi.worldbank.org/table/4.2|títol=World Development Indicators|consulta=10 de juliol de 2014 |obra= |editor=Banc Mundial| any =2014 |llengua=anglès}}/ref
+
+{| class=wikitable align=center
+|+ Distribució del PIB de la Unió Europea (2013)ref{{ref-web |url=http://epp.eurostat.ec.europa.eu/portal/page/portal/national_accounts/data/database|títol=National Accounts by 10 branches - aggregates at current prices (nama_nace10_c) |consulta=10 de juliol de 2014 |obra= |editor=EUROSTAT| any =2014 |llengua=anglès}}/ref
+! Branca d'activitat !! % del PIB
+|-
+| Agricultura, silvicultura i pesca || 1,7
+|-
+| Indústria || 19,1
+|-
+| Construcció || 5,7
+|-
+| Comerç, transport i allotjament || 19,0
+|-
+| Informació i comunicació || 4,5
+|-
+| Activitats financeres|| 5,4
+|-
+| Activitats inmobiliàries|| 11,2
+|-
+| Activitats professionals i científiques|| 10,4
+|-
+| Adm. pública, defensa, educació, sanitat|| 19,4
+|-
+| Art i entreteniment|| 3,6
+|-
+|}
+
+==Distribució==
+La distribució de la producció es realitza o bé venent-la a través del mercat o bé sumministrant-la gratuïtament o a preus no de mercat. Aquest segon canal de distribució el realitza el govern i les entitats sense ànim de lucre, sobretot per a productes com l'administració pública, la defensa, l'educació i la salut. Una part de la producció no es distribueix sinó que és usada pels propis productors.{{sfn|Nacions Unides|2009|p=122-128}}
+
+Com que una part de la producció s'obté adquirint-la a través del mercat, la seva distribució entre la població depén de la distribució de la renda. La distribució de la renda es pot desagregar en dues etapes: distribució primària i secundària. La distribució primària de la renda fa referència a com la renda generada en el procés productiu es distribueix entre els factors de producció (treball i capital) i el govern. La renda del treball s'anomena remuneració dels assalariats, la del capital és l'excedent brut d'explotació i la renda del govern són els impostos nets a la producció i importacions. A més, també s'obté/es paga renda per la possessió d'actius financers o de recursos naturals.{{sfn|Nacions Unides|2009|p=28-29}} La distribució secundària de la renda consisteix en el cobrament i pagament de transferències corrents, com per exemple impostos sobre la renda i la riquesa, cotribucions a la seguretat social, subsidis d'atur i pensions. La renda que tenen els sectors després de la distribució primària i secundària és la renda de la que disposen per a consumir o estalviar, s'anomena renda disponible.{{sfn|Nacions Unides|2009|p=181}} Les llars, el govern i les institucions sense ànim de lucre reparteixen la renda disponible entre consum final i estalvi.{{sfn|Nacions Unides|2009|p=30}}
+
+==Acumulació de capital==
+L'acumulació de capital per part d'una economia es finança mitjançant l'estalvi nacional, les transferències de capital de la resta del món i l'endeutament amb la resta del món. El capital inclou edificis, carrers, carreteres, pous, túnels, vies fèrrees, obres hidràuliques, maquinària, equips de transport i equips per a les TIC entre d'altres. Com que és un factor de producció, la seva acumulació permet majors nivells de producció.{{sfn|Nacions Unides|2009|p=45, 234-236}}
+
+==Sector financer==
+El sistema financer realitza diverses funcions en una economia: executa pagaments d'una entitat a una altra, reuneix recursos, transfereix recursos de les entitats amb capacitat de finançament a les entitats amb necessitat de finançament, gestiona riscos. Aquestes funcions es realitzen mitjançant operacions amb instruments financers. Un instrument financer és el reconeixement per una entitat a realitzar en el futur una sèrie de pagaments a una altra. Per l'entitat que ha de realitzar els pagaments, l'instrument és un passiu, mentre que per l'altra, és un actiu. La major part d'operacions amb instruments financers es realitza a través d'intermediaris financersrefUn intermediari financer és un tipus de societat financera. Les societats financeres es poden classificar en tres tipus: els intermediaris financers, els auxiliars financers i els prestamistes de diner. Els intermediaris financers poden contraure passius per compte propi per tal d'adquirir actius, per exemple incrementen els seus passius quan tenen nous dipòsits i utilitzen els fons provinents dels dipósits per a proporcionar préstecs. Els auxiliars financers estan dedicats al servei dels mercats financers però no poden assumir la propietat dels actius. Finalment, els prestamistes de diner estan relacionats amb actius i passius que no estan disponibles en els mercats financers oberts./ref (finançament indirecte) però alguns prestataris poden obtindre finançament de prestamistes no financers a través dels mercats (finançament directe).{{sfn|Nacions Unides|2009|p=255-275}}
+
+Si la renda disponible d'una entitat és superior a la suma del seu consum i formació bruta de capital es diu que té capacitat de finançament. En aquest cas els seus actius financers augmenten (o els passius disminueixen). En cas contrari, l'entitat té necessitat de finançament i per tant els seus actius financers disminueixen (o els passius augmenten), és a dir, s'endeuta. La situació de capacitat de finançament del govern es coneix com a superàvit mentre que a la necessitat de finançament es coneix com a dèficit.ref{{ref-web |url=http://epp.eurostat.ec.europa.eu/cache/ITY_SDDS/en/gov_dd_esms.htm#stat_pres1400061712219 |títol=Dèficit |consulta=13 setembre 2014 |obra= |editor=Eurostat |data= |llengua=anglès }}/ref
+
+Un instrument financer a destacar és el diner. El diner és un bé que s'accepta com a mitjà de pagament. En les economies actuals es consideren diners els bitllets, les monedes i els dipòsits a la vista.ref{{ref-web |url=http://www.expansion.com/diccionario-economico/masa-monetaria.html |títol=Diner |consulta=12 setembre 2014 |obra= |editor=Expansión |data= |llengua=castellà }}/ref Daltra banda, la moneda és la unitat monetària d'una economia.ref{{ref-web |url=http://www.enciclopedia.cat/enciclop%C3%A8dies/gran-enciclop%C3%A8dia-catalana/EC-GEC-0195082.xml?s.q=moneda#.VBN5FGPei8D |títol=Moneda |consulta=12 setembre 2014 |obra= |editor=GEC |data= |llengua= }}/ref
+
+L'intermediari financer que controla els aspectes claus del sistema financer és el banc central. En el cas del Banc Central Europeu les seves tasques consisteixen en executar la política monetària (té el control de l'emissió de bitllets), realitzar operacions de divises, gestionar les reserves de divises i promoure el bon funcionament dels sistemes de pagament.ref{{ref-web|url=http://www.ecb.europa.eu/ecb/tasks/html/index.en.html |títol=ECB: Tasks |consulta= 12 de setembre de 2014 |editor=Banc Central Europeu|llengua=anglès}}/ref
+
+== Nivell de vida ==
+Els economistes utilitzen el [[renda per capita|PIB per capita]] com a indicador del nivell de vida.{{sfn|Nacions Unides|2009|p=475}} El PIB per capita és el PIB dividit entre la població del país. Per tant, indica la quantitat de producció que rebria cada persona si es repartís equitativament. El 2011, el país amb el major PIB per capita fou [[Luxemburg]], amb 111.689 dòlars, seguit de [[Noruega]], amb 99.035 dòlars, i [[Qatar]], amb 97.091 dòlars. Utilitzant la paritat del poder adquisitiu, els països amb major PIB per capita foren Qatar, amb 146.521 dòlars, [[Macau]], amb 115.441 dòlars, i Luxemburg, amb 88.670 dòlars. Utilitzant aquest últim mètode, els països amb menor PIB per capita foren [[Libèria]], amb 537 dòlars, [[Comores]], amb 610 dòlars i la [[República Democràtica del Congo]], amb 655 dòlars.ref name=BMD /  
+
+== Història ==
+Els sistemes econòmics de les societats primitives es basaven en la tradició. Tanmateix, ja en el tercer mil·lenni aC emergiren civilitzacions a Egipte, Xina i Índia basades en el sistema d'economia autoritària. En aquestes economies l'autoritat central podia decidir l'ocupació de part de la població, de manera que es podien generar excedents de riquesa importants. Tot i que aquestes societats no es regien per un sistema de mercat, hi havia mercats per alguns productes. Amb el col·lapse de l’Imperi Romà, el creixement del feudalisme i la formació dels estats nacionals, les societats a Europa passaren de la tradició i l'autoritat al sistema de mercat. Primerament, amb el [[mercantilisme]] dels segles XVII i XVIII, encara que en aquest període els preus i els salaris estaven regulats. Després seguí el capitalisme comercial, on la producció i distribució de béns i serveis ja quedava determinada pel mercat. A partir d'aquesta etapa, la societat es pot dividir clarament en una vessant econòmica i una política, donat que, a diferència dels sistemes tradicionals i autoritaris, en aquest sistema la manera de coordinar-se per a la producció i distribució de béns difereix del sistema d'organització de la resta d'activitats. Aquesta nova esfera econòmica limità el poder politic, impulsant així formes democràtiques de govern.ref name=EN /
+
+En el segle XIX, la taxa de creixement de la producció incrementà enormement en aquells països on arribà la [[Revolució Industrial]]. Això generà diferències entre el nivell de vida d'aquests països i la resta del món. Donada la importància d'aquesta transformació aquesta etapa es coneix amb el nom de [[Capitalisme#Etapes del capitalisme|capitalisme industrial]]. Tanmateix, el creixement econòmic no era constant, sinó que es caracteritzava per les seves fluctuacions. En aquest sentit, l'episodi més important fou la [[Gran Depressió]], que tingué lloc en la dècada de 1930. Per tal de fer front als problemes de la depressió i per avançar la recuperació els governs incrementaren i ampliaren el seu paper en el funcionament de l'economia. És a partir d'aquesta etapa que els governs es fan responsables del nivell de producció de l'economia i del benestar de la societat. Aquesta etapa es coneix com a [[capitalisme d'estat]].
+
+No tots els països seguiren aquestes etapes. A partir de 1917, es desenvolupà a Rússia una versió moderna del sistema autoritari anomenat sistema de planificació central. Es col·lectivitzà l'economia i s'eliminaren les empreses privades i els mercats capitalistes. El Comité Central del Partit Comunista era qui establia els objectius econòmics que els diferents ministeris havien d'implementar. Aquest sistema permeté una ràpida industrialització del país i, després de la Segona Guerra Mundial, una ràpida recuperació de la guerra però fracassà quan vingueren temps de pau. El 1985 hi hagué una reorganització del sistema, la perestroika, però també fracassà i la crisi econòmica que patiren a finals dels 80 conduí al trencament de la Unió Soviètica. A principis dels 90, els països de l'Europa Oriental i Central i Rússia, iniciaren la transformació de les seves economies cap a un sistema de mercat.ref name=EN /
+
+== Disciplines que estudien l'economia ==
+* Les [[ciències econòmiques]] s’ocupen de l’estudi científic de l’economia.
+* La [[història econòmica]] és una disciplina entre les ciències econòmiques i la [[història]]. Estudia el desenvolupament econòmic històric en relació amb altres transformacions culturals.
+* El [[dret econòmic]] es el conjunt de normes jurídiques de [[dret privat]], [[Dret públic|públic]] i [[Dret penal|penal]], amb les quals l’estat actua sobre les relacions jurídiques que participen en la vida econòmica. 
+* La [[sociologia econòmica]] tracta de les causes i dels efectes socials dels fenòmens econòmics. Alguns temes són la racionalització, la urbanització i l’estratificació social.
+* L'[[antropologia econòmica]] pretén explicar el comportament econòmic humà des del punt de vista històric, geogràfic i cultural.
+
+== Notes ==
+
+{{Referències|2}}
+
+== Bibliografia ==
+* {{Ref-llibre |cognom=Banc Mundial |nom= | enllaçautor =  |títol=Purchasing Power Parities and Real Expenditures of World Economies  |url=http://siteresources.worldbank.org/ICPINT/Resources/270056-1183395201801/Summary-of-Results-and-Findings-of-the-2011-International-Comparison-Program.pdf |llengua=anglès |editorial= |any=2014 | isbn =}}
+* {{Ref-llibre |cognom=Baumol |nom=W. | enllaçautor =  |cognom2=Blinder |nom2=A. | enllaçautor2 = |títol=Economía |url= |llengua=anglès |editorial= |any=2010 | isbn =}}
+* {{Ref-llibre |cognom=IDESCAT |nom= | enllaçautor =  |títol=Glossari Estadístic i Temàtic  |url=http://www.idescat.cat/cat/idescat/publicacions/cataleg/pdfdocs/glossariae.pdf |llengua= |editorial= |any=2010 | isbn =}} 
+*{{Ref-llibre |autor=Nacions Unides |autor2=Comissió Europea | autor3=OCDE  | autor4=Banc Mundial  | autor5=FMI |títol=Sistema de Cuentas Nacionales 2008  |url=http://unstats.un.org/unsd/nationalaccount/docs/SNA2008Spanish.pdf |llengua=castellà |editorial= |any=2009 | isbn =}}
+* {{Ref-llibre |autor=Nacions Unides |títol=Cuentas nacionales: introducción práctica |url=http://unstats.un.org/unsd/publication/seriesf/Seriesf_85S.pdf |llengua=castellà |editorial= |any=2006 | isbn =92-1-361221-4}}
+* {{Ref-llibre |cognom=Samuelson |nom=Paul A. | enllaçautor =  |cognom2=Nordhaus |nom2=William D. | enllaçautor2 = |títol=Economía |url= |llengua=castellà |editorial=McGraw-Hill |any=2006 | isbn =9788448151546}}
+{{Autoritat}}
+
+[[Categoria:Economia| ]]
+{{Enllaç AD|fr}}</text>
+      <sha1>6s6f3ziw90h9w6vdo7dk39afw8qv78d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

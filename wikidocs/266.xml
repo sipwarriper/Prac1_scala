@@ -1,0 +1,439 @@
+<page>
+    <title>Antibiòtic</title>
+    <ns>0</ns>
+    <id>266</id>
+    <revision>
+      <id>13910176</id>
+      <parentid>13809474</parentid>
+      <timestamp>2014-08-02T19:32:38Z</timestamp>
+      <contributor>
+        <username>SergiC</username>
+        <id>105560</id>
+      </contributor>
+      <minor></minor>
+      <comment>/* Classes */  (Afegeixo daptomicina)</comment>
+      <text>Un '''antibiòtic''' és una substància química capaç, a baixes concentracions, d'inhibir el creixement d'altres microorganismes o d'eliminar-los. Generalment, els antibiòtics actuen sobre [[eubacteris]], o fins i tot sobre cèl·lules d'individus [[pluricel·lular]]s, animals o vegetals, provocant alteracions o de la paret cel·lular, o de la membrana protoplasmàtica, o de la síntesi proteica, o del metabolisme dels àcids nucleics, etc. 
+
+Els antibiòtics resulten més o menys [[tòxic]]s per a les cèl·lules humanes o d'organismes superiors. Aquesta toxicitat oscil·la entre valors elevadíssims (actinomicina) i valors ínfims ([[penicil·lina]]). Els antibiòtics de toxicitat baixa, i fins als de toxicitat mitjana, poden ser emprats en la terapèutica de moltes [[malalties]] causades per microorganismes (eubacteris especialment). En cada cas, però, cal tenir present el marge de toxicitat, i veure fins a quin punt els avantatges aconseguits amb el tractament a base d'antibiòtics compensen o superen les alteracions produïdes per aquests. 
+
+Normalment, i dins uns límits raonables, el balanç és positiu a favor dels antibiòtics. Es parla d'antibiòtics amb acció ''[[bacteriostàtic]]a'' si es limiten a inhibir el creixement dels [[eubacteris]], o ''[[bactericida]]'', si arriben a destruir-los. En realitat, però, que l'acció sigui eubacteriostàtica o eubactericida depèn sovint més de la [[dosi]] que no pas de l'antibiòtic emprat. Segons l'eficàcia d'un antibiòtic enfront de diversos microorganismes, se li pot atribuir un espectre d'acció més o menys ampli.
+ 
+Els antibiòtics, evidentment, han revolucionat la terapèutica d'un gran nombre de malalties. Es pot dir que totes les malalties d'etiologia eubacteriana resten incloses dins les possibilitats terapèutiques d'un antibiòtic o altre, i només algunes d'origen víric o fúngic en són del tot indiferents. 
+
+La [[medicina]] i la [[veterinària]] consumeixen la major part dels antibiòtics que actualment són produïts. Els primers antibiòtics utilitzats eren produïts per [[microorganisme]]s com a resultant d'una biosíntesi específica. A hores d'ara la majoria dels antibiòtics són producte de síntesi i, constantment, se n'obtenen de nous amb la finalitat d'assolir un efecte antiinfecciós més eficaç i per tal d'eliminar al màxim els efectes secundaris i tòxics. Actualment és habitual la síntesi d'anàlegs de productes bioquímics com els [[aminoàcid]]s que els microorganismes confonguin a l'hora de sintetitzar de manera que només generin [[proteïnes]] inviables que els porti cap a la mort. La importància creixent de la lluita contra la infecció fa que actualment s'agrupin sota el nom d'agents antiinfecciosos els antibiòtics, naturals o de síntesi, i els quimioteràpics o altres substàncies d'utilitat contra qualsevol germen infecciós ([[eubacteri]], [[virus]], [[fong]] o [[paràsit]]). Amb això, ha sorgit el concepte d'''[[antibioteràpia]]'' o, més pròpiament, ''terapèutica antiinfecciosa'', que aplega les característiques i els problemes que comporta el tractament dels estats infecciosos.
+
+== Història ==
+El primer antibiòtic descobert va ser la [[penicil·lina]]. [[Alexander Fleming]] estava cultivant un eubacteri (''[[Staphylococcus aureus]]'') en un plat d'Agar, el qual va ser contaminat accidentalment per [[fongs]]. Després ell va advertir que el medi de cultiu al voltant de la floridura estava lliure de eubacteris. Ell havia treballat prèviament en les propietats antieubacterianes del [[lisozim]], i per això va poder fer una interpretació correcta del que va veure: que el fong estava segregant alguna cosa que inhibia el creixement del eubacteri. Encara que no va poder purificar el material obtingut (l'anell principal de la molècula no era estable enfront dels mètodes de purificació que va utilitzar), va informar del descobriment en la literatura científica. Pel fet que el fong era del gènere ''Penicillium'', va denominar al producte [[penicil·lina]].
+
+A causa de la necessitat imperiosa de tractar les infeccions provocades per ferides durant la [[II Guerra Mundial]], es van invertir molts recursos a investigar i purificar la penicil·lina, i un equip liderat per [[Howard Florey]] va tenir èxit a produir grans quantitats del principi actiu pur. Els antibiòtics prompte es van fer d'ús generalitzat.
+
+El descobriment dels antibiòtics, així com de l'[[anestèsia]] i l'adopció de [[pràctica higiènica|pràctiques higièniques]] pel personal sanitari (per exemple, el rentat de mans i utilització d'instruments estèrils) va revolucionar la [[sanitat]] i s'ha arribat a dir que és el gran avanç en matèria de salut des de l'adopció de la [[desinfecció]]. Se'ls denomina sovint als antibiòtics, bales màgiques, per fer blanc en els [[microorganismes]] sense perjudicar l'hoste.
+
+Paral·lelament al descobriment de nous antibiòtics, han anat apareixent [[resistència microbiana|resistències]] per part dels microbis patògens, com per exemple les [[beta-lactamases]], fet que obliga a la recerca constant de noves formes antibiòtiques. Aviat es va començar a fer síntesi química d'antibiòtics, fent modificacions a les estructures naturals conegudes. Actualment, davant la gran quantitat de resistències, es tendeix a buscar noves espècies eubacterianes que tinguin noves formes d'antibiòtics no coneguts.
+
+== Mecanisme d'acció ==
+[[Fitxer:Vancomysin AntimicrobAgentsChemother 1990 1342 commons.jpg|thumb|Representació d'un pèptid curt (verd) precursor de la paret cel·lular d'un eubacteri unit a l'antibiòtic vancomicina (blau). El pèptid en qüestió s'uneix a la vancomicina per cinc enllaços d'hidrogen (línies de punts).]]
+Com que els antibiòtics tenen efectes sobre una diversitat de eubacteris, els seus mecanismes d'acció difereixen basat en les característiques vitals de cada organisme diana i que, generalment, són objectius que no existeixen en les cèl·lules de mamífers.
+
+=== Paret cel·lular ===
+
+Alguns antibiòtics exerceixen la seva funció en regions i organelos intracel·lulars, per la qual cosa són ineficaços en eubacteris que continguin una paret cel·lular, a menys que s'aconsegueixi inhibir la síntesi d'aquesta estructura exterior, present en moltes eubacteris, però no en animals. Molts antibiòtics van dirigits a bloquejar la síntesi, exportació, organització o formació de la paret cel·lular, específicament els enllaços creuats del peptidoglicà, el principal component de la paret cel·lular, sense interferir amb els components intracel·lulars.ref name=harrison{{ref-web|url= http://www.harrisonmedicina.com/content.aspx?aID=68942searchStr=sulfonamida+(clase+de+antibiótico)#68942|títol= Sección 4. Fundamentos de la terapéutica de las enfermedades eubacterianas|consulta= 9 de setembre de 2008|autor= Harrison Principios de Medicina Interna 16a edició|data= 2006|obra = Harrison online en español|editor= [[McGraw-Hill]]|llengua= español|citació= }}/ref Això permet modificar la composició intracel·lular del microorganisme per mitjà de la pressió osmòtica. Com la maquinària intracel·lular roman intacta, això augmenta la pressió interna sobre la membrana fins al punt en què aquesta cedeix, el contingut cel·lular s'allibera a l'exterior, i l'eubacteri mor. També permeten l'entrada d'altres agents antimicrobians que no poden travessar la paret cel·lular.ref name=encarta''[http://es.encarta.msn.com/encyclopedia_761577894/antibiótico.html Antibiótico]'' (article complet). Enciclopedia [[Microsoft]]® [[Encarta]]® Online 2008. Consultat el 2 de setembre de 2008. (en castellà)/ref Alguns exemples clàssics són:
+
+* La bacitracina: inhibeix al transportador lipídic del peptidoglucà cap a l'exterior de la cèl·lula.
+* La penicil·lina: inhibeix la transpeptidació, una reacció en la qual es produeixen els enllaços creuats de la paret cel·lular.
+* Les cefalosporines: molècules que inhibeixen les proteïnes que sintetitzen la paret cel·lular.
+
+=== Membrana cel·lular ===
+
+Certs antibiòtics poden lesionar directament o indirecta-al inhibir la síntesi dels constituents-la integritat de la membrana cel·lular dels eubacteris i de certs fongs. Les polimixines, per exemple, són antibiòtics que actuen com a surfactant o detergent que reacciona amb els lípids de la membrana cel·lular dels eubacteris. Això destrueix la integritat de la permeabilitat de la membrana, els elements hidrosolubles i alguns que són tòxics pel germen, poden així entrar sense restricció a l'interior cel·lular.ref name=harrison / La gramicidina a manera porus o canals en les bicapes lipídiques.
+
+=== Acció sobre l'ADN ===
+
+Alguns antibiòtics actuen bloquejant la síntesi de l'ADN, ARN, ribosomes, àcids nucleics o els enzims que participen en la síntesi de les proteïnes, resultant en proteïnes defectuoses.ref name=encarta / La mitomicina és un compost amb estructura asimètrica i que es fixa a les hèlixs l'ADN i inhibeix o bloqueja l'expressió de l'enzim ADN polimerasa i, per tant, la replicació de l'ADN i l'acoblament de les proteïnes. L'actinomicina, per la seva banda, exerceix el seu mecanisme en la mateixa manera que la mitomicina, només que és una molècula simètrica.
+
+Les sulfamides són anàlegs estructurals de molècules biològiques i tenen semblant a les molècules normalment utilitzades per la cèl·lula diana. En fer ús d'aquestes molècules farmacològiques, les vies metabòliques del microorganisme són bloquejades, provocant una inhibició en la producció de bases nitrogenades i, eventualment, la mort cel·lular.
+
+Les quinolones i fluoroquinolones actuen sobre enzims eubacterianes gires i topoisomerasa d'ADN, responsables de la topologia dels cromosomes, alterant el control cel·lular sobre la replicació eubacteriana i produint com alteració en la lectura del missatge genètic.ref name=harrison /
+
+=== Acció sobre els ribosomes ===
+
+Aproximadament la meitat dels antibiòtics actuen per inhibició dels ribosomes eubacterians, els orgànuls responsables de la síntesi de proteïnes i que són diferents en composició dels ribosomes en mamífers. Alguns exemples inclouen els aminoglucòsids (s'uneixen de manera irreversible a la subunitat 30S del ribosoma), les tetraciclines (bloquegen la unió del Arnt aminoacil al complex ARNm-ribosoma), eritromicina (es fixen de manera específica a la porció 50S dels ribosomes eubacterians ) i la doxiciclina.ref name=harrison /
+
+== Classes ==
+Existeixen diverses classes d'antibiòtics i antieubacterians sintètics d'ús comú avui dia. ''Grosso modo'', els antibiòtics poden ser classificats en eubactericides o eubacteriostàtics, depenent si el fàrmac directament causa la mort del eubacteri o si només inhibeix la seva replicació, respectivament. A la pràctica, aquesta classificació es basa en el comportament de l'antibiòtic en el laboratori i en ambdós casos es pot posar fi a una infecció.refPelczar, M.J., Chan, E.C.S.; Krieg, N.R. (1999). Host-Parasite Interaction; Nonspecific Host Resistance. A: ''Microbiology Conceptsand Applications'', Nova York (EUA): McGraw-Hill Inc., 6a ed., pp. 478-479./ref Vegeu la següent taula orientativa:
+
+{| class=wikitable
+|+ bigClasses d'antibiòtics /big
+|-
+! Nom genèric !! Nom comercial !! Usos freqüents!!ref name=merck	
+Per al seu ús i els possibles efectes secundaris de referència vegeu: Robert Berkow (ed.). ''The Merck Manual of Medical Information - Home Edition''. Pocket (Setembre de 1999), ISBN 0-671-02727-1./ref Possibles efectes adversos!!ref name=merck / Mecanisme d'acció
+|-
+! colspan=5|[[Aminoglucòsid]]s
+|-
+| [[Amikacina]]ref{{ref-web|url= http://www.nlm.nih.gov/medlineplus/spanish/druginfo/medmaster/a682661-es.html|títol= Inyección de Sulfato de amikacina|consulta= 2 de setembre|autor= por MedlinePlus|enllaçautor= http://medlineplus.gov/spanish/|any= 2003|mes= enero|obra = Enciclopedia médica en español|llengua= español}}/ref || [[Amikin]] || rowspan=8|Infeccions severes causades per [[Gramnegatiu|eubacteris Gram negatius]], com són ''[[Escherichia coli]]'' i ''[[Klebsiella]]'' especialment ''[[Pseudomonas aeruginosa]]''. Efectiu contra eubacteris anaeròbics (però no els facultatius). La nemoicina s'indica per a profilaxi de [[cirurgia]] abdominal.
+| rowspan=8 |
+* [[Ototoxicitat]] (Sordesa) (especialment en combinació amb [[Diürètic de nansa|diürètics de nansa]])
+* [[Vertigen]]
+* [[Nefrotoxicitat]] (Mal renal) (especialment en combinació amb [[cefalosporine]]s)
+| rowspan=8|S'uneix al [[ribosoma]], unitat [[30S]], i inhibeix la [[síntesi de proteïnes]].
+|-
+|[[Gentamicina]] || [[Garamicina]]
+|-
+|[[Kanamicina]] || [[Kantrex]]
+|-
+|[[Neomicina]] ||
+|-
+|[[Netilmicina]] || [[Netromicina]]
+|-
+|[[Estreptomicina]] ||
+|-
+|[[Tobramicina]] || [[Nebcin]]
+|-
+|[[Paromomicina]] || [[Humatin]]
+|-
+! colspan=5|[[Ansamicines]]
+|-
+|[[Geldanamicina]] || || rowspan=2|Experimental: [[antineoplàstic]] (antibiòtic antitumoral) 
+| rowspan=2|
+| rowspan=2|
+|-
+|[[Herbimicina]] || 
+|-
+!colspan=5|[[Carbacefem]]
+|-
+|[[Loracarbef]] || [[Lorabid]] || Infeccions respiratòries altes i infeccions urinàries || Ocasionalment [[trombocitopenia]].refAljitawi, O.S.; Krishnan K.; Curtis, B.R.; Bougie, D.W.; Aster, R.H. [http://www3.interscience.wiley.com/cgi-bin/fulltext/104524899/PDFSTART Serologically documented loracarbef (Lorabid)-induced immune thrombocytopenia]. ''Am J Hematol'', maig de 2003;73 (1): 41-3. Consultat el 2 de setembre de 2008. (en anglès)/ref || Inhibició de la [[paret cel·lular]] eubacteriana.
+|-
+!colspan=5|[[Carbapenem]]
+|-
+|[[Ertapenem]] || [[Invanz]] || rowspan=4|Bactericida per als eubacteris gram positius i gram negatius; s'usa per a una cobertura d'ampli espectre de manera empírica. (Nota: Existeixen [[MRSA]] resistent a aquesta classe d'antibiòtics.) Es combina amb la cilastatina per a reduir la inactivació a nivell dels túbuls renals.
+| rowspan=4|
+* Malestar estomacal i [[diarrea]]
+* Nàusea
+* Convulsions
+* [[Cefalea]] (Mal de cap)
+* [[Rash (dermatologia)|Rash]] i [[al·lèrgies]]
+| rowspan=4|Preveu la divisió cel·lular eubacteriana inhibint la síntesi de la paret cel·lular.
+|-
+|[[Doripenem]] || [[Finibax]]
+|-
+|[[Imipenem]]/[[Cilastatina]] || [[Primaxina]]
+|-
+|[[Meropenem]] || [[Merrem]]
+|-
+!colspan=5|[[Cefalosporines]] (de primera generació)
+|-
+|[[Cefadroxilo]] || [[Duricef]] || rowspan=5|Com les penicil·lines, totes les cefalosporines tenen un anell betalactàmic, per la qual cosa són també antibiòtics eubactericides. [[Coco (eubacteri)|Cocos]] Gram positius, ''[[Proteus]]'', ''[[Escherichia coli]]'' i ''[[Klebsiella]]''.
+| rowspan=5 |
+* Malestar estomacal i [[diarrea]]
+* Nàusea (amb la ingesta de begudes alcohòliques)
+* Reaccions [[al·lèrgia|al·lèrgiques]]
+| rowspan=5|Com altres beta lactamàtics: interrompen la síntesi de [[peptidoglicà]], una capa de la pared cel·lular, tot i que son menys sensibles a les [[betalactamases]].
+|-
+|[[Cefazolina]] || [[Ancef]]
+|-
+|[[Cefalotina]] || [[Keflin]]
+|-
+|[[Cefalexina]] || [[Keflex]]
+|-
+|[[Cefradina]] || [[Veracef]]
+|-
+!colspan=5|Cefalosporines (de segona generació)
+|-
+|[[Cefaclor]] || [[Ceclor]] || rowspan=5|Son més eficaços que la penicil·lina davant els [[bacil]]s Gram negatius, i igual d'eficaços davant els [[Coco (eubacteri)|cocos]] Gram positius.ref name=encarta / [[Coco (eubacteria)|Cocos]] Gram positius, ''[[Haemophilus influenzae]]'', ''[[Enterobacter]]'', ''[[Neisseria]]'', ''[[Proteus]]'', ''[[Escherichia coli]]'' i ''[[Klebsiella]]''.|| rowspan=5 |
+* Malestar estomacal i [[diarrea]]
+* Nàusea (amb la ingesta de begudes alcohòliques)
+* Reaccions [[al·lèrgia|al·lèrgiques]]
+| rowspan=5|Igual que los otros beta lactamáticos: disrompen la síntesis de [[peptidoglicano]], una capa de la pared celular.
+|-
+|[[Cefamandol]] || [[Mandol]]
+|-
+|[[Cefoxitina]] || [[Mefoxitin]]
+|-
+|[[Cefprozil]] || [[Cefzil]]
+|-
+|[[Cefuroxima]] || [[Ceftina, Zinnat]]
+|-
+!colspan=5|[[Cefalosporina|Cefalosporines]] (de tercera generació)
+|-
+|[[Cefixime]] || [[Suprax]] || rowspan=10|Las cefalosporines s'empren en el tractament d'infeccions greus amb organismes resistents a d'altres [[beta lactàmic]]s, com certes aparicions de [[meningitis]], i en la [[profilaxi]] prèvia a [[cirurgia]] [[Traumatologia i ortopèdia|ortopèdica]], de l'[[abdomen]] i la [[pelvis]]. || rowspan=10 |
+* Malestar estomacal i [[diarrea]]
+* Nàusea (amb la ingesta de begudes alcohòliques)
+* Reacciones [[al·lèrgia|al·lèrgiques]]
+| rowspan=10|Com altres beta lactamàtics: interrompen la síntesi de [[peptidoglicà]], una capa de la pared cel·lular, tot i que son menys sensibles a les [[betalactamase]]s.
+|-
+|[[Cefdinir]] || [[Omnicef]]
+|-
+|[[Cefditoren]] || [[Spectracef]]
+|-
+|[[Cefoperazona]] || [[Cefobid]]
+|-
+|[[Cefotaxima]] || [[Claforan]]
+|-
+|[[Cefpodoxima]] || [[Vantin]]
+|-
+|[[Ceftazidima]] || [[Fortaz]]
+|-
+|[[Ceftibuten]] || [[Cedax]]
+|-
+|[[Ceftizoxima]] || [[Cefizox]]
+|-
+|[[Ceftriaxona]] || [[Rocephin]]
+|-
+!colspan=5|[[Cefalosporina|Cefalosporines]] (de quarta generació)
+|-
+|[[Cefepime]] || [[Maxipime]] || rowspan=2 |Una major cobertura en contra de ''[[Pseudomonas]]'' i organismes gram positius. || rowspan=2|
+* Com altres cefalosporines
+| rowspan=2|Interrompen la síntesis de peptidoglicà.
+|-
+|[[Cefaclidina]] ||
+|-
+!colspan=5|[[Cefalosporina|Cefalosporines]] (de cinquena generació)
+|-
+|[[Ceftobiprol]] || || ||
+* Com altres cefalosporines
+| Interrompen la síntesi de peptidoglicà.
+|-
+!colspan=5|[[Antibiòtic glicopèptid|Glicopèptids]]
+|-
+|[[Teicoplanina]] || [[Targocid]] || rowspan=2||| rowspan=2||| rowspan=2|Inhibeix la síntesis de peptidoglicà.
+|-
+|[[Vancomicina]] || [[Vancocina]]
+|-
+!colspan=5|[[Macròlid]]s
+|-
+|[[Azitromicina]] || [[Zitromax]], [[Sumamed]], Zitrocin || rowspan=6|Infeccions per [[estreptococ]], [[sífilis]], [[infecció respiratòria]], infecció per ''[[Mycoplasma]]'', [[malaltia de Lyme]] || rowspan=6 |
+* Nàusees, vòmit, i diarrea (especialment en altes dosis)
+* [[Icterícia]]
+| rowspan=8|S'uneix al [[ribosoma]], unitat [[50S]] i inhibeix la síntesis de proteïnes.
+|-
+|[[Claritromicina]] || [[Klaricid]]
+|-
+|[[Diritromicina]] || [[Dynabac]]
+|-
+|[[Eritromicina]] || [[Eritocina]], [[Eritroped]]
+|-
+|[[Roxitromicina]] || [[Roxitrol]]
+|-
+|[[Troleandomicina]] || (TAO)
+|-
+|[[Telitromicina]] || [[Ketek]] || [[Pneumònia]] || Trastorns visuals, toxicitat hepàtica.ref
+{{cita publicació
+|cognom= Splete
+|nom= Heidi
+|coautors= Kerri Wachter
+|data= març de 2006
+|títol= Liver toxicity reported with Ketek
+|publicació= Internal Medicine News}}
+/ref
+|-
+|[[Espectinomicina]] || [[Trobicin]] || [[Antimetabòlit]], [[anticancerigen]] i [[gonococ]]srefE. Navas Elorza (2002). Tetraciclinas, fenicoles, lincosamidas, polimixinas, espectinomicina, fosfomicina. ''Medicine''. Volum 08, núm 70, pp. 3.763-3.770. Consultat el 3 de setembre de 2008./ref ||
+|-
+!colspan=5|[[Monobactàmic]]s
+|-
+|[[Aztreonam]] || [[Azactam]] || || || Com altres beta lactamàtics: interrompen la síntesis del peptidoglicà, una capa de la [[pared cel·lular]].
+|-
+!colspan=5|[[Penicil·lines]]
+|-
+|[[Amoxicil·lina]] || [[Novamox]], [[Amoxil]] || rowspan=14 |Una àmplia gamma d'infeccions. La penicil·lina encara s'indica en infeccions [[estreptococ|estreptocòquiques]], [[sífilis]] i la [[malatia de Lyme]] || rowspan=14 |
+* Malestar gastrointestinal i diarrea
+* Al·lèrgies amb reaccions anafilàctiques greus
+* Rarament dany renal o cerebral
+| rowspan=14 |Com amb altres beta lactamàtics: interrompen la síntesi de peptidoglicà.
+|-
+|[[Ampicil·lina]] ||
+|-
+|[[Azlocil·lina]] ||
+|-
+|[[Carbenicil·lina]] ||
+|-
+|[[Cloxacil·lina]] ||
+|-
+|[[Dicloxacil·lina]] ||
+|-
+|[[Flucloxacil·lina]] || [[Floxapen]]
+|-
+|[[Mezlocil·lina]] ||
+|-
+|[[Meticil·lina]] ||
+|-
+|[[Nafcil·lina]] ||
+|-
+|[[Oxacil·lina]] ||
+|-
+|[[Penicil·lina]] ||
+|-
+|[[Piperacil·lina]] ||
+|-
+|[[Ticarcil·lina]] ||
+|-
+!colspan=5|[[Antibiòtic polipeptídic|Polipèptids]]
+|-
+|[[Bacitracina]] || || rowspan=3|Infeccions de l'[[ull]], [[oïda]] i [[bufeta]], normalment s'aplica directament a l'ull o bé inhalat als [[pulmons]]; rarament injectat. || rowspan=3|Dany renal i de certs [[nervi]]s (quan és injectat)
+| Inhibeix la síntesis de components del peptidoglicà a la pared cel·lular eubacterianaref[http://www.pnas.org/cgi/content/abstract/68/12/3223 K. John Stone; Jack L. Strominger. ''Mechanism of Action of Bacitracin: Complexation with Metal Ion and C55-Isoprenyl Pyrophosphate'']/ref
+|-
+|[[Colistin]] || ||rowspan=2| Interacciona amb la [[membrana plasmàtica]] eubacteriana, alterant la seva permeabilitat.
+|-
+|[[Polimixina B]] ||
+|-
+!colspan=5|[[Quinolona|Quinolones]]
+|-
+|[[Ciprofloxacina]] || [[Cipro]], [[Ciproxin]], Ciprobay || rowspan=9|Infeccions del tracte urinari, [[prostatitis]] eubacterianes, [[pneumònia]] adquirida en la comunitat, [[diarrea]] eubacteriana, infeccions per [[micoplasma]], [[gonorrea]] || rowspan=9|Nàusea (rarament), [[tendinosis]] (rarament)
+| rowspan=9|Inhibeix la topoisomerasa i altres enzims eubacterianes, inhibint la replicació i transcripció d'ADN.
+|-
+|[[Enoxacina]] ||
+|-LEVOFLOXACIN (TAVANIC)
+|[[Gatifloxacina]] || [[Tequin]]
+|-
+|[[Levofloxacina]] || [[Tavanic]]
+|-
+|[[Lomefloxacina]] ||
+|-
+|[[Moxifloxacina]] || [[Avelox]]
+|-
+|[[Norfloxacina]] || Noroxin
+|-
+|[[Ofloxacina]] || [[Ocuflox]]
+|-
+|[[Trovafloxacina]] || [[Trovan]]
+|-
+!colspan=5|[[Sulfonamides]]
+|-
+|[[Mafenide]] || || rowspan=9|Infeccions urinàries (amb l'excepció de la sulfacetamida i la mafenida); la mafenida s'usa com tòpic per cremades || rowspan=9 |
+* Nàusea, vòmits, i diarrea
+* Al·lèrgies
+* Cristalls a l'orina
+* [[Insuficiència renal]]
+* Disminució del recompte de [[glòbul blanc|glòbuls blancs]]
+* Sensibilitat a la llum solar
+| rowspan=9|Inhibició de la síntesis de l'[[àcid fòlic]], entre d'altres funcions inhibitòries de la síntesi de l'[[ADN]] i l'[[ARN]].
+|-
+|[[Prontosil]] (arcaic) ||
+|-
+|[[Sulfacetamida]] ||
+|-
+|[[Sulfametizol]] ||
+|-
+|[[Sulfanilimida]] (arcaic) ||
+|-
+|[[Sulfasalazina]] ||
+|-
+|[[Sulfisoxazol]] ||
+|-
+|[[Trimetoprim]] ||
+|-
+|[[Trimetoprim]]-[[Sulfametoxazol]] ([[Co-trimoxazole]]) ([[TMP-SMX]]) || [[Bactrim]]
+|-
+!colspan=5|[[Tetraciclina|Tetraciclines]]
+|-
+|[[Demeclocycline]] || || rowspan=5|[[Sífilis]], infeccions per ''[[Chlamydia]], [[Mycoplasma]] i [[Rickettsia]]'', així com en [[acné]] || rowspan=5 |
+* Malestar gastrointestinal
+* Sensibilitat a la llum solar
+* Taques a les [[dent]]s (especialment en nens)
+* Potencialment tòxic per a la mare i el [[fetus]] durant l'[[l'embaràs]].
+| rowspan=5 |S'uneix al [[ribosoma]], unitat [[30S]]i inhibeix la síntesi de proteïnes.ref[http://www.life-extension-drugs.com/doxycycline.html Life-Extension-Drugs.com - Doxycycline]/ref
+|-
+|[[Doxiciclina]] || [[Vibramicina]]
+|-
+|[[Minociclina]] || [[Minocin]]
+|-
+|[[Oxitetraciclina]] || [[Terramicina]]
+|-
+|[[Tetraciclina]] || [[Sumycin]]
+|-
+!colspan=5|Altres
+|-
+|[[Arsfenamina]] || [[Salvarsan]] || Infeccions per [[espiroqueta|espiroquetes]] (obsolet) || || 
+|-
+|[[Cloramfenicol]] || [[Chloromycetin]] || || ||S'uneix al [[ribosoma]], unitat [[50S]]i inhibeix la síntesi de proteïnes.
+|-
+|[[Clindamicina]] || [[Cleocin]] || Infeccions per [[acné]], profilaxis prèvia a cirurgia. || || 
+|-
+|[[Lincomicina]] || || Infeccions per [[acné]], profilaxi prèvia a cirurgia. || || 
+|-
+|[[Daptomicina]] || || || ||
+|-
+|[[Etambutol]] || || [[Antituberculosis]] || || 
+|-
+|[[Fosfomycin]] || || || || 
+|-
+|[[Àcid fusídic]] || [[Fucidin]] || || || 
+|-
+|[[Furazolidona]] || || || || 
+|-
+|[[Isoniazida]] || || Antituberculós || ||
+|-
+|[[Linezolid]] || [[Zyvoxid]] || || ||
+|-
+|[[Metronidazol]] || [[Flagyl]] o [[Flegyl]] || [[Giardia]] || Orina vermellosa, malestar bucal. ||
+|-
+|[[Mupirocina]] || [[Bactroban]] || || ||
+|-
+|[[Nitrofurantoïna]] || [[Macrodantina]], [[Macròbid]] || || ||
+|-
+|[[Platensimicina]] || || || ||
+|-
+|[[Pirazinamida]] || || Antituberculós || ||
+|-
+|[[Quinupristin/Dalfopristin]] || [[Syncercid]] || || ||
+|-
+|[[Rifampina]] o [[Rifampicina]] || [[Rifaldin]] || Principalment gram positives i [[micoeubacteri]]s || Sudoració, llàgrimes i orina vermellosa. || S'uneix a la subunitat β de l'[[ARN polimerasa]] inhibint la transcripció.
+|-
+|[[Tinidazol]] || || [[Uretritis]] i [[vaginitis]], [[amebiasi]] i [[giardiasi]] || [[Mareig]], [[cefalea]], [[somnolència]]. ||
+|-
+! Nom genèric !! Nom comercial !! Usos freqüents!!ref name=merck / Possibles efectes adversos!!ref name=merck / Mecanisme d'acció
+|}
+
+== Associació d'antibiòtics ==
+Normalment és preferible la monoteràpia, és a dir l'ús d'un únic antibiòtic, ja que així s'evita la toxicitat i disminueix el risc d'aparició de resistències, malgrat tot hi ha casos en què aquests poden aparèixer ràpidament ([[tuberculosi]], [[lepra]])
+* Sinergia o potenciació. L'acció combinada és major que per separat. Ex: eubacterida + eubactericida (beta-lactàmic + AMG)
+* Addició. És l'acció combinada és igual que per separat. Ex: eubacteriostàtic + eubacteriostàtic (Cotrimoxazol)
+* Antagonisme. L'acció combinada és inferior. Ex:eubactericida + eubacteriostàtic (beta-lactàmic + tetraciclines)
+* Indiferència.L'acció combinada no és ni més ni menys potent.
+
+== Abús dels antibiòtics ==
+
+Les formes usuals d'abús dels antibiòtics inclouen la presa d'antibiòtics per a una malaltia no infecciosa o infecció no eubacteriana amb febre, en particular l'ús d'antibiòtics durant una infecció víriques, com un refredat o una grip;ref name=cdc Campanya per promoure l'ús correcte dels antibiòtics. [http://www.cdc.gov/drugresistance/community/antibioticos.htm ''Lo que necesita saber de los antibióticos''] (en castellà). Centres per al Control i la Prevenció de Malalties (setembre de 2006). Consultat el 8 de setembre de 2008./ref així com l'administració incompleta de l'antibiòtic, generalment a causa del fet que el pacient se sent millor una vegada que la infecció comença a cedir.ref name=NIAIDNational Institute of Allergy and Infectious Diseases (NIAID). [http://www3.niaid.nih.gov/topics/antimicrobialResistance/Understanding/causes.htm Antimicrobial (Drug) Resistance] (en anglès). Consultat el 8 de setembre de 2008./ref Aquestes situacions poden facilitar l'aparició de poblacions eubacterianes que desenvolupin resistència antibiòtica.
+
+Existeix un debat sobre la conveniència d'incloure els antibiòtics en la dieta dels animals de granja sans.ref name=NIAID / Els opositors d'aquesta pràctica indiquen que condueix a la resistència als antibiòtics, incloent en eubacteris que infecten els humans, com els gèneres ''[[Salmonella]]'', ''[[Campylobacter]]'', ''[[Escherichia coli]]'', i ''[[Enterococcus]]''. La pràctica continua en molts llocs, però, a causa del fet que els antibiòtics en l'alimentació del bestiar proporcionen un augment de pes i perquè té sentit econòmic per a les granges o ranxos individuals. Als Estats Units s'estima que més d'un 70% dels antibiòtics utilitzats en els EUA es donen amb els aliments animals, com en el cas de Gallinera, porcs i bestiar.refMellon, M. ''et al'' (2001). ''Hogging It!: Estimates of Antimicrobial Abuse in Livestock'', 1a ed., Cambridge, MA: Union of Concerned Scientists./ref
+
+Un estudi d'infeccions del tracte respiratori va trobar que els metges tendeixen a prescriure antibiòtics a pacient que es pensava que requerien del medicament, però, només 1 de cada 4 d'aquests pacients efectivament els ameritaba. [31] Hi ha diferents formes d'intervenir, tant a pacients com als seus metges, amb la finalitat de reduir la prescripció inadequada d'antibiòtics.ref name=pmid17467120{{cita publicació|autor=Ong. S.; Nakase, J.; Moran, G.J.; Karras, D.J.; Kuehnert, M.J.; Talan, D.A. |títol=Antibiotic use for emergency department patients with upper respiratory infections: prescribing practices, patient expectations, and patient satisfaction |publicació=Annals of emergency medicine |volum=50 |número=3 |pàgines=213–20 |data=2007!-- |pmid=17467120-- |doi=10.1016/j.annemergmed.2007.03.026}}/ref L'ús excessiu d'antibiòtics de manera profilàctica entre viatgers també pot ser classificat com un ús inadequat d'aquests medicaments. Constitueix un error comú la utilització de la profilaxi per evitar la colonització per qualsevol microorganisme, o tots ells.refReina Gómez, Goliat; Barban Lores, Digmara. Política de antibióticos en Ortopedia. ''Rev Cubana Ortop Traumatol''. 2001, vol. 15, núm. 1-2 [citat el 08-09- 2008], pp. 61-64. Disponible online a: {{ref-web|url=http://scielo.sld.cu/scielo.php?script=sci_arttextpid=S0864-215X2001000100012lng=esnrm=iso|títol=Enllaç!--Títol generat per bot--}}. ISSN 0864-215X./ref
+
+== Producció comercial ==
+
+No va ser fins al 1941 que Florey i Chain van desenvolupar mètodes per a produir penicil·lina comercialment per a ús humà. Ja que la Segona Guerra Mundial estava en ple apogeu, els esforços de producció de penicil·lina s'enfocaven en la distribució entre els soldats aliats. Per raó de què Anglaterra, on treballaven Florey i Chain, havia perdut la capacitat industrial per produir els requeriments de l'antibiòtic, el procés es va traslladar als Estats Units, potser per aquesta raó la indústria farmacèutica va quedar tan radicada a aquest país. Poc abans de la conclusió de la [[Segona Guerra Mundial]], la penicil·lina ja s'havia posat a l'abast comercial del públic en general.
+
+Cap a finals de la [[dècada del 1960]], els investigadors van descobrir que els eubacteris creixien millor a l'espai exterior. En les condicions de l'espai, els microorganismes fins ara avaluats, són capaços de produir més antibiòtics, fins a un 200% més, que les mateixes espècies ho fan en les condicions de la Terra.ref name=nasaKaren Miller, Dr. Tony Phillips (març de 2002). [http://ciencia.nasa.gov/headlines/y2002/29mar_antibiotics.htm Antibiòtics de l'Espai] (en anglès). NASA. consultat el 4 de setembre de 2008./ref
+
+El nombre d'antibiòtics coneguts ha augmentat des de prop de 500 el 1960 fins a més d'onze mil el 1994, més de la meitat produïdes a partir d'espècies de ''Streptomyces''.ref name=defW. R. Strohl. [http://books.google.cat/books?id=rDFIGohu4doCpg=PA1dq=antibiotichl=essig=ACfU3U2fnFfLI7ZHHpCfVcDJw6YoGPeb6g#PPA1,M1 Biotechnology of Antibiotics] (en anglès). Publicat per Informa Health Care, 1997. ISBN 0-8247-9867-8./ref Altres microorganismes productors de massives quantitats d'antibiòtics inclouen fongs filamentosos i eubacteris ''Actinomyces'' diferents del ''Streptomyces'' i altres que no són ''Actinomyces''.
+
+El 1980, l'antibiòtic més produït era la cefalosporines, seguida de l'ampicil·lina i la tetraciclina, en total s'estimava que la producció mundial d'antibiòtics aquest any superava les 100.000 tones, amb vendes als Estats Units de prop d'1 bilió de dòlars. En el present, el mercat anual mundial està valorat en més de 20.000 milions de dòlars.ref name=nasa / El cost d'introduir un nou antibiòtic al mercat, des de la seva recerca i desenvolupament, és d'aproximadament 1,2 bilions de dòlars.ref name=scielocubaFresno Chavez, Caridad. El diseño de nuevos antibióticos. ''Rev Cubana Med Gen Integr'' [online]. 2001, vol. 17, núm. 2 [citado 2008-09-04], pp. 196-199. Disponible en: {{ref-web|url=http://scielo.sld.cu/scielo.php?script=sci_arttextpid=S0864-21252001000200015lng=esnrm=iso|títol=Enllaç!--Títol generat per bot--}}. ISSN 0864-2125./ref
+
+La producció industrial d'antibiòtics passa per un procés de fermentació, en la qual el microorganisme creix en grans calders (de 100.000-150.000 litres cadascun) que contenen medi de cultiu líquid. La concentració d'oxigen, la temperatura, el pH i els nivells de nutrients són controlats a un nivell òptim per a cada microorganisme. L'antibiòtic, que és un metabòlit del germen, és extret i purificat fins a obtenir un producte cristal·litzat. En alguns casos, es necessiten altres reaccions, com un intercanvi iònic, precipitació, etc.
+
+El gènere ''Streptomyces'' és un dels organismes més investigats per la recerca de nous antibiòtics,refBHATTACHARYYA, Barun K., PAL, Sushil C. and SEN, Sukanta K. ANTIBIOTIC PRODUCTION BY STREPTOMYCES HYGROSCOPICUS D1.5: CULTURAL EFFECT. Rev. Microbiol. [online]. 1998, vol. 29, no. 3 [cited 2008-09-04]. Available from: {{ref-web|url=http://www.scielo.br/scielo.php?script=sci_arttextpid=S0001-37141998000300003lng=ennrm=iso|títol=Enllaç!--Títol generat per bot--}}. ISSN 0001-3714. doi: 10.1590/S0001-37141998000300003/ref en la qual s'ha manipulat genèticament la maquinària de producció dels ribosomes per produir nous i millors antibiòtics.refGuojun Wang, Takeshi Hosaka, and Kozo Ochi. [http://aem.asm.org/cgi/content/abstract/AEM.02800-07v1 ''Dramatic Activation of Antibiotic Production in Streptomyces coelicolor by Cumulative Drug-Resistance Mutations''] (article complet disponible en anglès). Appl. Environ. Microbiol. doi:10.1128/AEM.02800-07. Último acceso 4 de septiembre de 2008./ref
+
+== Vegeu també ==
+* [[Bacteriostàtic]].
+* [[Bactericida]].
+* [[Antibiograma]].
+* [[Bacteriocina]].
+
+== Referències ==
+{{Referències|2}}
+
+{{commonscat|Antibiotics}}
+
+{{1000 Ciència}}
+
+{{Enllaç AB|cs}}
+{{Enllaç AB|es}}
+{{Autoritat}}
+{{Enllaç AD|es}}
+
+{{ORDENA:Antibiotics}}
+[[Categoria:Antibiòtics| ]]</text>
+      <sha1>9gtr6hwqke9yhdvbqjhq8ji4dgtu0p1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

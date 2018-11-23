@@ -1,0 +1,230 @@
+<page>
+    <title>Plasma (estat de la matèria)</title>
+    <ns>0</ns>
+    <id>2421</id>
+    <revision>
+      <id>13812626</id>
+      <parentid>13807814</parentid>
+      <timestamp>2014-07-13T15:14:34Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Mecànica dels medis continus|secció=Mecànica dels fluids}}
+En [[física]] i [[química]], el '''plasma''' és un [[estat de la matèria]] en el qual pràcticament tots els [[àtoms]] estan [[Ió (àtom)|ionitzats]] i amb la presència d'una certa quantitat d'[[electró|electrons]] lliures, no lligats a cap àtom o [[molècula]]. És un fluid, format per electrons, i ions positius. Això fa que el plasma sigui conductor [[electricitat|elèctric]] i que respongui fortament als [[Camp electromagnètic|camps electromagnètics]]. El plasma presenta unes propietats diferents de les dels [[sòlid]]s, [[líquid]]s, i [[gas]]os, de manera que és considerat com un altre estat de la matèria. Pot presentar-se de diferents maneres: com a núvols gasosos neutres, com s'observa en cas de les [[Estrella|estrelles]]; en forma de gas, el plasma no té una forma o un volum definits però sota la influència d'un [[camp magnètic]] pot formar estructures com raigs d'ions o bé com a suspensions de partícules de l'ordre del nanòmetre o el micròmetre. 
+
+Una flama pot ser considerada com una forma de plasma parcial de baixa temperatura.
+
+== Història == 
+La disciplina avui denominada [[física del plasma]] va néixer de la convergència entre dues línies d'investigació originades al [[segle XIX]]. D'una banda, l'estudi rigorós de les descàrregues elèctriques va ser iniciat a [[Anglaterra]] per [[Michael Faraday]] i va ser continuat després per [[Joseph John Thomson]], [[William Crookes]] i [[Sealy Edward Townsend]]. El [[1923]] [[Irving Langmuir]] va observar que els gasos ionitzats presents en una descàrrega responien col·lectivament a les pertorbacions externes. Aquesta qualitat, anàloga a la dels [[Plasma sanguini|plasmes sanguinis]], li va portar a adoptar el terme plasma per referir-se a aquests sistemes.
+
+L'altra columna sobre la qual descansa la física del plasma prové dels estudis sobre el comportament de fluids conductors sota la influència de [[Camp electromagnètic|camps electromagnètics]]. Aquesta disciplina, dita [[magnetohidrodinàmica]], va ser desenvolupada inicialment per Faraday i [[André-Marie Ampère]]. Al [[segle XX]] la magnetohidrodinàmica va permetre estudiar fenòmens observats al [[Sol]] i a la [[ionosfera]] terrestre. Per exemple, les ones magnetohidrodinàmiques, avui anomenades [[Ona d'Alfvén|ones d'Alfvén]] en honor al físic suec [[Hannes Alfvén]], van ser introduïdes per ell mateix el [[1942]]. Aquesta aportació va ser premiada amb el [[Premi Nobel de Física]] del [[1970]], únic premi Nobel concedit fins avui per treballs en la física del plasma.
+
+Després de la [[Segona Guerra Mundial]] el creixent interès a desenvolupar reactors de fusió que proporcionessin una energia neta, segura i barata va alimentar un ràpid avenç de la física del plasma, essencial per entendre el comportament d'un gas a les altes temperatures necessàries en l'interior de tals dispositius. Malgrat l'optimisme inicial, la [[fusió nuclear]] encara no ha aconseguit complir les seves promeses, principalment a causa de l'existència d'inestabilitats abans desconegudes en el plasma. Tanmateix, la comunitat científica espera que el Reactor Termonuclear Experimental Internacional ([[ITER]]) aconsegueixi eliminar tals inestabilitats i operi en condicions energèticament rendibles de fusió.
+
+Actualment la física del plasma és una disciplina madura i extensa. Les seves eines són imprescindibles en la investigació [[astrofísica]] i [[geofísica]]; les seves aplicacions tenen una gran importància econòmica i van des de la fusió nuclear esmentada fins al tractament de materials mitjançant descàrregues elèctriques. Altres usos industrials són el gravat de circuits electrònics i la purificació d'emissions contaminants.
+
+== Exemples de plasma ==
+[[Fitxer:Plasma.jpg|thumb|Un llum de plasma.]]
+[[Fitxer:Plasma-lamp 2.jpg|thumb|Una altra vista del llum de plasma]]
+Els plasmes formen l'estat d'agregació més abundant de la naturalesa. De fet, la major part de la matèria en l'Univers visible es troba en estat de plasma.refS'ha manifestat sovint que més d'un 99% de l'univers és plasma. Vegeu, per exemple, D. A. Gurnett, A. Bhattacharjee, Introduction to Plasma Physics: With Space and Laboratory Applications (2005) ([http://books.google.cat/books?vid=ISBN0521364833id=VcueZlunrbcCpg=PA2lpg=PA2dq=%22visible+universe%22+plasmasig=lYOjlHeChWHPVrPr2ALsv_OcSSQ Pàgina 2]) i també K Scherer, H Fichtner, B Heber, Space Weather: The Physics Behind a Slogan (2005) ([http://books.google.cat/books?vid=ISBN3540229078id=irHgIUtLi0gCpg=PA138lpg=PA138dq=%22visible+universe%22+plasma+99%25sig=tOUJpk03O8oaJZPB-WN2YuqxiLo Pàgina 138]). Essencialment tota la llum visible de l'espai ve d'estrelles, que són plasmes a una temperatura tal que emeten intensament a longituds d'ona visibles. La majoria de la matèria corrent (o [[barió|bariònica]]) de l'univers, tanmateix, es troba al [[medi intergalàctic]], que és també un plasma, però molt més calent, de manera que emet principalment raigs X. El consens científic actual és que aproximadament un 96% de la densitat d'energia total en l'univers no és ni plasma ni altra forma de matèria corrent, sinó una combinació de [[matèria fosca freda]] i [[energia fosca]]./ref Alguns exemples de plasmes són:
+
+* Produïts artificialment:
+** En l'interior d'un [[tub fluorescent]] (il·luminació de baix consum).
+** Matèria expulsada per la propulsió de [[coet]]s.
+** La regió que envolta l'[[escut tèrmic]] d'una nau espacial durant la seva entrada en l'[[Atmosfera terrestre|atmosfera]].
+** L'interior d'un [[reactor de fusió]].
+** Les descàrregues elèctriques d'ús industrial.
+** Les boles de plasma.
+
+* Plasmes terrestres:
+** El foc.
+** Els [[llamp]]s durant una tempesta.
+** La [[ionosfera]].
+** L'[[aurora boreal]].
+
+* Plasmes espacials i astrofísics:
+** Les estrelles (per exemple, el [[Sol]]).
+** El [[vent solar]].
+** El medi interplanetari (la matèria existent entre els planetes del Sistema Solar), el medi interestel·lar (la matèria entre les estrelles) i el medi intergalàctic (la matèria entre les galàxies).
+** Els discs d'[[acreció]].
+** Les [[nebuloses]] intergalàctiques.
+** [[Ambiplasma]]
+
+== Propietats i paràmetres del plasma ==
+[[Fitxer:plasma fountain.gif|thumb|200px|right|La [[font de plasma]] de La Terra, mostrant l'emissió de ions d'oxigen, heli, i hidrogen que surten a raig cap a l'espai des de regions properes als pols de la Terra. L'àrea groga feble mostrada damunt del pol nord representa gas perdut de la Terra a espai; l'àrea verda és l'energia de l'[[aurora boreal]] que s'aboca altra vegada a l'atmosfera.refFont de plasma [http://pwg.gsfc.nasa.gov/istp/news/9812/solar1.html Source], nota de premsa: [http://pwg.gsfc.nasa.gov/istp/news/9812/solarwind.html EL vent Solar aboca part de l'atmosfera terrestre a l'espai]/ref]]
+=== Definició de plasma ===
+Encara que un plasma es descriu com un medi elèctricament neutre de partícules positives i negatives, una definició més rigorosa pot tenir tres criteris:refR. O. Dendy, Plasma Dynamics./refrefHillary Walter, Michelle Cooper, Illustrated Dictionary of Physics/refrefDaniel Hastings, Henry Garrett, Spacecraft-Environment Interactions/ref
+
+# '''La proximitat del plasma''': Les partícules carregades han de ser prou properes de forma que cada partícula influeixi en moltes partícules carregades properes, més que no pas només interaccionant amb la partícula més propera (aquests efectes col·lectius són un tret que distingeix un plasma). La proximitat del plasma és vàlida quan el nombre de portadors de càrrega dins de l'esfera d'influència (anomenada l'[[esfera Debye]] el radi del qual és la [[longitud de Debye]]) d'una partícula particular és més alt que la unitat per proporcionar comportament col·lectiu de les partícules carregades. El nombre mitjà de partícules en l'esfera Debye ve donat pel [[paràmetre del plasma]], Λ (la [[alfabet grec|lletra grega]] [[Lambda]]).
+# '''Interaccions de volum''': La longitud de Debye (definida a dalt) es compara de manera resumida amb la mida física del plasma. Aquest criteri significa que les interaccions el volum del plasma siguin més importants que a les seves vores, on poden tenir lloc els efectes de frontera. Quan aquest criteri se satisfà, el plasma és quasineutre.
+# '''Freqüència del plasma''': La freqüència dels electrons del plasma (mesurant les [[oscil·lacions del plasma]] dels electrons) es compara amb la freqüència de col·lisió d'electró-neutre (mesurant la freqüència de col·lisions entre electrons i partícules neutres). Quan aquesta condició és vàlida, les interaccions electrostàtiques dominen sobre els processos corrents de cinètica de gasos.
+
+=== Variabilitat dels paràmetres del plasma ===
+Els paràmetres dels plasmes poden prendre valors que varien en molts [[ordres de magnitud]], però les propietats de plasmes amb paràmetres aparentment dispars poden ser molt similars. La següent taula considera només plasmes atòmics convencionals i no fenòmens exòtics com el [[plasma de quark-gluó]]:
+
+[[Fitxer:Plasma scaling.svg|thumb|250px|'''Gamma de plasmes'''. La densitat augmenta cap amunt, la temperatura augmenta cap a la dreta. Els electrons lliures en un metall es poden considerar un plasma d'electrons .refAfter Peratt, A. L., [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?1996ApSS.242...93P Advances in Numerical Modeling of Astrophysical and Space Plasmas] (1966) ''Astrophysics and Space Science'', v. 242, Issue 1/2, p. 93-163./ref]]
+
+table class=wikitable
+tr bgcolor=#eeeeee align=centertd/tdtd colspan=2'''Gammes típiques de paràmetres de plasma''': ordres de magnitud (ODM)/td/tr
+tr bgcolor=#eeeeee align=centertd'''Característica'''/tdtd'''Plasmes terrestres'''/tdtd'''Plasmes còsmics'''/td/tr
+trtd'''Mida'''br /en metres/tdtd10sup−6/sup m (plasmes de laboratori) abr /10sup2/sup m (llampec) (~8 ODM)/tdtd10sup−6/sup m (embolcall de vehicles espacials) abr /10sup25/sup m (nebulosa intergalàctica) (~31 ODM)br //td/tr
+trtd'''Vida'''br /en segons/tdtd10sup−12/sup s (plasma produït per làsers) abr /10sup7/sup s (llums fluorescents) (~19 ODM)/tdtd10sup1/sup s (erupcions solars) abr /10sup17/sup s (plasma intergalactic) (~16 ODM)/td/tr
+trtd'''Densitat'''br / en partícules perbr /metre cúbic/tdtd10sup7/sup msup-3/sup abr /10sup32/sup msup-3/sup (plasma de confinament d'inercial)/tdtd10sup0/sup (i.e., 1) msup-3/sup (medi intergalàctic) abr /10sup30/sup msup-3/sup (nucli estel·lar)/td/tr
+trtd'''Temperatura'''br /en kèlvins/tdtd~0 K (plasma cristal·li no neutral)refVegeu [http://sdphca.ucsd.edu/ The Nonneutral Plasma Group] a la Universitat de California, San Diego/ref abr /10sup8/sup K (plasma de fusió magnètic)/tdtd10sup2/sup K (aurora) abr /10sup7/sup K (nucli solar)/td/tr
+trtd'''Camps magnetics'''br /en tesles/tdtd10sup−4/sup T (plasma de laboratori) abr /10sup3/sup T (plasma polsant de potència)/tdtd10sup−12/sup T (medi intergalàctic) abr /10sup11/sup T (gairebé estrelles de neutrons)/td/tr
+/table
+
+=== Grau de ionització ===
+Perquè el plasma existeixi, cal que hi hagi [[ionització]]. El terme densitat de plasma per si mateix normalment es refereix a la densitat d'electrons, és a dir, el nombre d'electrons lliures per unitat de volum. El [[grau de ionització]] d'un plasma és la proporció d'àtoms que han perdut (o guanyat) electrons, i és controlat principalment per la temperatura. Fins i tot un gas parcialment ionitzat en què només s'ionitzi un 1% de les partícules pot tenir les característiques d'un plasma (és a dir respongui a camps magnètics i sigui altament conductor del corrent). El grau de ionització, ''α'' es defineix com = ''α'' = ''n''subi/sub/(''n''subi/sub + ''n''suba/sub) on ''n''subi/sub és la densitat del nombre de ions i ''n''suba/sub és la densitat de nombre d'àtoms neutres. La ''densitat d'electrons'' està relacionada amb això per l'estat de càrrega mitjà math\left \langle Z \right \rangle/math dels ions a través de mathn_e=\left \langle Z \right \rangle n_i/math on ''n''sube/sub és la densitat del nombre d'electrons.
+
+=== Temperatures ===
+La temperatura del plasma es mesura comunament en [[kelvin|kèlvins]] o [[electronvolt]]s, i és una mesura informal de l'energia cinètica tèrmica per partícula. En la majoria dels casos els electrons són prou a prop de l'[[equilibri tèrmic]] que la seva temperatura està relativament ben definida, fins i tot quan hi ha una desviació significativa d'una funció de distribució d'energia de [[distribució de Maxwell–Boltzmann|Maxwell–Boltzmann]], per exemple a causa de la [[radiació ultraviolada]], de partícules energètiques, o de forts [[camp elèctric|camps elèctrics]]. A causa de la gran diferència en massa, els electrons arriben a l'equilibri termodinàmic entre ells mateixos molt més ràpid que amb els ions o amb àtoms neutres. Per aquesta raó d'aquella la temperatura dels ions pot ser molt diferent (normalment més baixa) que la temperatura dels electrons. Això és especialment comú en plasmes tecnològics feblement ionitzats, on els ions són sovint prop de la temperatura ambient.
+
+Basant-se en les temperatures relatives dels electrons, els ions i els àtoms neutres, els plasmes es classifiquen en tèrmics o no-tèrmics. Els plasmes tèrmics tenen els electrons i les partícules pesants a la mateixa temperatura és a dir estan en l'equilibri tèrmic els uns amb els altres. Els plasmes no tèrmics d'altra banda tenen els ions i els àtoms neutres a una temperatura molt més baixa (normalment a temperatura ambient) mentre que els electrons estan molt més calents.
+
+La temperatura controla el grau de ionització del plasma. En particular, la ionització del plasma està determinada per la temperatura dels electrons relativa a l'[[energia de ionització]] (i més feblement per la densitat) en una relació anomenada l'[[equació Saha]]. A vegades es diu que un plasma com està calent si és gairebé completament ionitzat, o fred si només una fracció petita (per exemple un 1%) de les molècules de gas estan ionitzades (però hi ha altres definicions comuns dels termes plasma calent i plasma fred). Fins i tot en un plasma fred la temperatura dels electrons encara és típicament d'uns quants milers de graus Celsius. Els plasmes que es fan servir en la tecnologia de plasma (plasmes tecnològics) són normalment freds en aquest sentit.
+
+=== Potencials ===
+[[Fitxer:Lightning over Oradea Romania 3.jpg|thumb|300px|right|El [[llampec]] és un exemple de plasma present a la superfície de la Terra. Típicament, el llampec descarrega 30 000 [[ampere]]s, a fins a 100 milions de [[volt]]s, i emet llum, [[ones radioelèctriques]], [[raigs X]] i fins i tot [[raigs gamma]].refSee [http://www.nasa.gov/vision/universe/solarsystem/rhessi_tgf.html Flashes in the Sky: Earth's Gamma-Ray Bursts Triggered by Lightning]/ref les temperatures del Plasma al llampec es poden apropar als ~28 000 [[kelvin|kèlvins]] i les densitats d'electrons poden excedir els 10sup24/sup/m³.]]
+
+Ja que els plasmes són molt bons conductors, els potencials elèctrics tenen un paper important. El potencial com a tal existeix de mitjana en l'espai entre partícules carregades, independentment de la qüestió de com es pot mesurar, s'anomena el potencial de plasma o el potencial espacial. Si s'introdueix un elèctrode en un plasma, el seu potencial generalment serà considerablement inferior al potencial del plasma a causa del que s'anomena un [[embolcall de Debye]]. La bona conductivitat elèctrica dels plasmes provoca que els seus camps elèctrics siguin molt petits. Això ocasiona el concepte important de quasineutralitat, que diu que la densitat de càrregues negatives és aproximadament igual a la densitat de càrregues positives si es consideren volums grans del plasma (mathn_e=\langle Z\rangle n_i/math), però en l'escala de la longitud de Debye hi pot haver desequilibri de càrrega. En el cas especial que es formin [[Doble capa (plasma)|dobles capes]], la separació de càrrega es pot estendre algunes desenes de longituds de Debye.
+
+La magnitud dels potencials i camps elèctrics s'ha de determinar per altres mitjà i no simplement trobant la densitat neta de càrrega. Un exemple comú és suposar que els electrons satisfan la [[Relació de Boltzmann]]:
+:mathn_e \propto e^{e\Phi/k_BT_e}/math. 
+
+Derivant aquesta relació s'obté un mitjà per calcular el camp elèctric a partir de la densitat:
+:math\vec{E} = (k_BT_e/e)(\nabla n_e/n_e)/math.
+
+És possible produir un plasma que no sigui quasineutral. Un raig d'electrons, per exemple, té només càrregues negatives. La densitat d'un plasma no neutre ha de ser generalment molt baixa, o ha de ser molt petit, altrament seria dissipat per la [[força electrostàtica]] repulsiva.
+
+En plasmes [[astrofísica|astrofísics]], l'[[apantallament elèctric de Debye]] impedeix que els [[camp elèctric|camps elèctrics]] afectin directament a distàncies grans (és a dir més gran que la longitud de Debye). Però l'existència de partícules carregades provoca que el plasma generi i sigui afectat per [[camp magnètic|camps magnètics]]. Això pot i provoca comportaments extremadament complexos, com la generació de dobles capes de plasma, un objecte que separa càrrega unes quantes desenes de longituds de Debye. La dinàmica dels plasmes que interaccionen amb camps magnètics externs i autogenerats s'estudien en la disciplina acadèmica de [[magnetohidrodinàmica]].
+
+=== Magnetització ===
+Es diu que s'imanta un plasma quan el camp magnètic és prou fort per influir en el moviment de les partícules carregades. Un criteri quantitatiu comú és que una partícula de mitjana completa com a mínim una revolució al voltant del camp magnètic abans de fer una col·lisió (és a dir span style=font-size:125%math\omega_{ce}/\nu_{coll}  1/math/span on span style=font-size:125%math\omega_{ce}/math/span és la freqüència de rotació de l'electró i span style=font-size:125%math\nu_{coll}/math/span és l'índex de col·lisió de l'electró). Sovint es dóna el cas que els electrons s'imantin mentre que els ions no. Els plasmes imantats són [[anisòtrop]]s, el que vol dir que les seves propietats en la paral·lel a direcció al camp magnètic són diferents de les perpendiculars. Mentre que els camps elèctrics en plasmes són normalment petits a causa de l'alta conductivitat, el camp elèctric associat a un plasma que es mou en un camp magnètic ve donat per '''E''' = -'''v''' x '''B''' (on ''E'' és el camp elèctric, ''v'' és la velocitat, i ''B'' és el camp magnètic), i no és afectat per l'embolcall de Debye.refRichard Fitzpatrick, ''Introduction to Plasma Physics'', [http://farside.ph.utexas.edu/teaching/plasma/lectures/node10.html Magnetized plasmas]/ref
+
+=== Comparació de les fases plasma i gas ===
+El plasma s'anomena sovint el quart estat de matèria. És diferent d'altres [[estat de la matèria|estats de la matèria]] d'energia més baixa; més comunament [[sòlid]], [[líquid]], i [[gas]]. Encara que està relacionat de prop amb la fase de gas, ja que tampoc no té cap forma definida o volum, es diferencia en un cert nombre de maneres, incloent-hi les següents:
+
+{|class=wikitable
+
+tr valign=top bgcolor=#eeeeee align=center
+td'''Propietat'''/td
+td'''Gas'''/td
+td'''Plasma'''/td/tr
+|bgcolor=#eeeeee|[[Conductivitat elèctrica]]
+|'''Molt baixa'''br /
+:L'aire és un aïllant excel·lent fins que es descompon en plasma a intensitats de camp elèctric per damunt de 30 kilovolts per centimetreref{{ref-web|url=http://hypertextbook.com/facts/2000/AliceHong.shtml|títol=Dielectric Strength of Air|any=2000|nom=Alice|cognom=Hong|obra=The Physics Factbook}}/ref
+|'''Normalement molt alta'''br /
+:Per a molts propòsits la [[conductivitat elèctrica]] d'un plasma es pot tractar com infinita.
+|-valign=top
+|bgcolor=#eeeeee|'''Components que actuen independentment'''
+|'''Un'''
+:Totes les partícules de gas es comporten d'una manera similar, influïdes per la [[gravetat]], i les [[col·lisió|col·lisions]] de l'una amb l'altra
+|'''dos o tres'''br /
+:Els [[electró|electrons]], els [[Ió (àtom)|ions]], i els àtoms neutres es poden distingir pel signe de la seva [[càrrega elèctrica]] de manera que es comporten independentment en moltes circumstàncies, amb diferents velocitats globals i temperatures, que permeten fenòmens com tipus nous d'[[ona|ones]] i [[inestabilitat]]s
+|-valign=top
+|bgcolor=#eeeeee|'''Distribució de velociats'''
+|[[Distribució de Maxwell|'''Maxweliana''']]br /
+:Les col·lisions normalment condueixen a una distribució de velocitat Maxwelliana de totes les partícules del gas, amb molt poques partícules relativament ràpides.
+|'''Covint no-Maxwelliana'''br /
+:Les interaccions degudes a les col·lisions són sovint febles en plasmes calents, i les forces externes sovint poden fer-lo allunyar de l'equilibri local, i conduir a una població significativa de partícules particularment ràpides.
+|-valign=top
+|bgcolor=#eeeeee|'''Interaccions'''
+|'''Binaries'''br /
+:Les col·lisions de dues partícula són la regla, col·lisions de tres cossos són extremadament rares.
+|'''Col·lectiu'''br / Ones, o moviment organitzat del plasma, són molt importants perquè les partícules poden interaccionar a llargues distàncies a través de les forces elèctriques magnètiques
+:.
+|}
+
+== Descripcions matemàtiques ==
+[[Fitxer:Magnetic_rope.svg|thumb|256px|Línies de camp magnètic i camins de corrent complexes autoconstrenyides en un [[corrent de Birkeland]] alineat amb el camp que es poden desenvolupar en un plasma.refSee [http://history.nasa.gov/SP-345/ch15.htm#250 Evolution of the Solar System]'', 1976)''/ref]]
+Per Descriure completament l'estat d'un plasma, s'haurien d'escriure totes les posicions i velocitats de les partícules, i descriure el camp electromagnètic a la regió del plasma. Tanmateix, generalment no és pràctic o no és necessari enregistrar totes les partícules d'un plasma. Per això, els físics que estudien els plasmes habitualment fan servir descripcions menys detallades anomenades models, dels quals n'hi ha dos tipus principals:
+
+=== Model fluid ===
+Els models fluids descriuen els plasmes en termes de quantitats contínues com la densitat i la velocitat mitjana al voltant de cada posició de l'espai (vegeu [[paràmetres dels plasmes]]). Un model fluid simple, la [[magnetohidrodinàmica]], tracta el plasma com un fluid únic governat per una combinació de les [[equacions de Maxwell]] i les [[equacions de Navier-Stokes]]. Una descripció més general és una model de [[plasma de dos fluids]], on els ions i els electrons es descriuen separadament. Els models fluids són sovint acurats quan la freqüència de col·lisions és prou alta per mantenir la distribució de velocitats del plasma propera a una [[distribució de Maxwell-Boltzmann]]. Com que els models fluids normalment descriuen el plasma en termes d'un flux únic a una certa temperatura en cada localització de l'espai, no poden ni captar estructures espacials de velocitat com bigues o [[doble capa|dobles capes]] ni resoldre efectes d'ona-partícula.
+
+=== Model cinètic ===
+Els models cinètics descriuen la funció de distribució de la velocitat de les partícules en cada punt del plasma, i per això no necessiten suposar una [[distribució de Boltzmann-Maxwell]]. Una descripció cinètica sovint és necessària per a plasmes sense col·lisions. Hi ha dues aproximacions comunes per la descripció cinètica d'un plasma. Un es basa a representar la funció de distribució contínua en un reixat en velocitat i posició. L'altre, conegut com la tècnica [[partícula-dins-cèl·la]] (PIC), inclou informació cinètica seguint les trajectòries d'un gran nombre de partícules individuals. Els models cinètics generalment requereixen més intensitat de càlcul que els models de fluids. L'[[equació de Vlasov]] es pot fer servir per descriure la dinàmica d'un sistema de partícules carregades que interaccionen amb un camp electromagnètic. En plasmes magnetitzats, un enfocament [[girocinètica|girocinètic]] pot reduir substancialment el cost computacional d'una simulació purament cinètica.
+
+== Fenòmens de plasma complexos ==
+[[Fitxer:Main tycho remnant full.jpg|right|right|thumb|300px|El [[Romanent de supernova|romanent]] de la [[SN 1572|Supernova de Tycho]], una bola enorme de plasma en expansió. La closca exterior blava sorgeix de l'emissió de raig X per electrons d'alta velocitat.]]
+
+Encara que les equacions subjacents que governen els plasmes són relativament simples, el comportament del plasma és extraordinàriament variat i subtil: l'emergència de comportament inesperat a partir d'un model simple és un tret típic dels [[sistema complex|sistemes complexos]]. Tals sistemes són en cert sentit en el límit entre el comportament ordenat i el desordenat, i normalment no es poden descriure per funcions simples, funcions matemàtiques contínuament derivables, o per l'aleatorietat pura. La formació espontània de trets espacials interessants en una gamma àmplia d'escales de llargada és una manifestació de la complexitat del plasma. Les característiques són interessants, per exemple, perquè són molt sobtades, espacialment intermitents (la distància entre característiques és molt més gran que les mateixes característiques), o tenen una forma de [[fractal]]. Moltes d'aquestes característiques es van estudiar primer al laboratori, i s'han reconegut posteriorment per tot l'univers. Exemples de complexitat i estructures complexes en plasmes inclouen:
+
+=== Filamentació ===
+En molts plasmes s'observen estructures estirades o de tipus corda,refDickel, J. R., [http://adsabs.harvard.edu/cgi-bin/nph-data_query?bibcode=1990BAAS...22..832Dlink_type=ARTICLEdb_key=AST The Filaments in Supernova Remnants: Sheets, Strings, Ribbons, or?] (1990) Bulletin of the American Astronomical Society, Vol. 22, p.832/ref com la bola de plasma (imatge de damunt), l'[[Aurora polar|aurora]],refGrydeland, T., ''et al''., [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2003GeoRL..30f..71Gamp;db_key=ASTamp;data_type=HTMLamp;format=amp;high=42ca922c9c14082 Interferometric observations of filamentary structures associated with plasma instability in the auroral ionosphere] (2003) ''Geophysical Research Letters'', Volume 30, Issue 6, pp. 71-1/ref els llampecs,refMoss, Gregory D., ''et al''., [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006JGRA..11102307Mamp;db_key=ASTamp;data_type=HTMLamp;format=amp;high=42ca922c9c18237 Monte Carlo model for analysis of thermal runaway electrons in streamer tips in transient luminous events and streamer zones of lightning leaders] (2006) ''Journal of Geophysical Research'', Volume 111, Issue A2, CiteID A02307/ref els arcs elèctrics, les [[Erupció solar|erupcions solars]],refDoherty, Lowell R., [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1965ApJ...141..251Damp;db_key=ASTamp;data_type=HTMLamp;format=amp;high=42ca922c9c21466 Filamentary Structure in Solar Prominences.] (1965) ''Astrophysical Journal'', vol. 141, p.251/ref i els [[romanent de supernova|romanents de supernova]].ref[http://web.archive.org/web/20091005084515/http://seds.lpl.arizona.edu/messier/more/m001_hst.html Hubble views the Crab Nebula M1: The Crab Nebula Filaments]/ref S'associen de vegades amb grans densitats de coorent, i la interacció amb el camp magnètic poden formar una estructura de ''corda magnètica''.refZhang, Yan-An, ''et al''., [http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2002ChA%26A..26..442Zamp;db_key=ASTamp;data_type=HTMLamp;format=amp;high=42ca922c9c27030 A rope-shaped solar filament and a IIIb flare] (2002) ''Chinese Astronomy and Astrophysics'', Volume 26, Issue 4, p. 442-450/ref (Vegeu també [[esclafament magnètic]])
+
+La Filamentació també es refereix a l'autoenfocament d'un pols làser d'alta potència. A altes potències, la part no lineal de l'índex de refracció esdevé important i provoca un índex més alt de refracció en el centre del raig làser, on el làser és més brillant que a les vores, que provoca una resposta que fins i tot centra més el làser. El làser centrat més estret té una brillantor de pic més alta (irradiància) que forma un plasma. El plasma té un índex de refracció més baix que u, i provoca un desenfocament del raig làser. La interacció de l'índex de refracció d'enfocament, i el plasma que desenfoca provoca la formació d'un filament llarg de plasma que potn ser de micres a quilòmetres en llarg.refS. L. Chin, [http://icpr.snu.ac.kr/resource/wop.pdf/J01/2006/049/S01/J012006049S010281.pdf] Journal of the Korean Physical Society, Vol. 49, No. 1, July 2006, pp. 281 ∼285/ref
+
+=== Xocs o dobles capes ===
+Les propietats del plasma canvien ràpidament (dins d'unes quantes longituds de Debye) al llarg d'una superfície bidimensional en presència d'un xoc (en moviment) o d'una doble capa (estacionaria). Les dobles capes impliquen una separació de càrrega localitzada, que provoca una diferència de potencial gran a través de la capa, però no genera un camp elèctric a l'exterior de la capa. Les dobles capes separen regions de plasma adjacents amb característiques físiques diferents, i es troben sovint en plasmes que transporten corrent elèctric. Acceleren tant ions com electrons.
+
+=== Camps elèctrics i circuits ===
+La Quasineutralitat d'un plasma exigeix que els corrents elèctriques del plasma es tanquin sobre si mateixes en circuits elèctrics. Aquests circuits segueixen les [[lleis de Kirchhoff]], i posseeixen una [[Resistència elèctrica (propietat)|resistència elèctrica]] i una [[inductància]]. Aquests circuits s'han de tractar generalment com un sistema fortament acoblat, amb el comportament a cada regió de plasma dependent del circuit sencer. És aquest acoblament fort entre elements del sistema, juntament amb la no linealitat, el que pot conduir a comportament complex. Els circuits elèctrics en els plasmes emmagatzemen energia inductiva (magnètica), i el circuit s'interromp, per exemple, per una inestabilitat del plasma, l'energia inductiva s'alliberara en fora d'escalfament del plasma i d'acceleració. Aquesta és una explicació comuna per l'escalfament que té lloc a la [[corona solar]]. Els corrents elèctrics, i en particular els corrents elèctrics aliniats per camps magnètics (que de vegades s'anomenen de forma genèrica [[Corrent de Birkeland|Corrents de Birkeland]]) també s'observen en l'aurora de la Terra, i en filaments de plasma.
+
+=== Estructura cel·lular ===
+Làmines primes amb canvis sobtats de les propietats del plasma al travessar la làmina poden separar regions del plasma amb propietats diferents com magnetització, densitat, i temperatura, donant lloc a un conjunt de regions en forma de cèl·lules. Els exemples inclouen la [[magnetosfera]], l'[[heliosfera]], i [[làmina de corrent heliosfèrica]]. Hannes Alfvén va escriure: Des del punt de vista cosmològic, la nova descoberta més important en recerca espacial probablement és l'estructura cel·lular de l'espai. Com s'ha vist a totes les regions de l'espai que són accessibles a mesures in situ, hi ha un cert nombre de 'parets cel·lulars', làmines de corrents elèctrics, que divideixen l'espai en compartiments amb diferent magnetització, temperatura, densitat, etc. .refHannes Alfvén, ''Cosmic Plasma'' (1981) See section VI.13.1. Cellular Structure of Space./ref
+
+=== Velocitat de ionització crítica ===
+La [[velocitat de ionització crítica]] és la velocitat relativa entre un plasma ionitzat (magnetitzat) i un gas neutre sobre els quals té lloc un procés de ionització sobtat. El procés de ionització crític és un mecanisme bastant general per la conversió de l'energia cinètica d'un gas que flueix a ràpidament en energia de ionització i energia tèrmica del plasma. Els fenòmens crítics en general són típics de sistemes complexos, i poden conduir a característiques espacials o temporals amb sobtades.
+
+=== Plasma ultrafred ===
+És possible crear plasmes ultrafreds, fent servir làsers per atrapar i refredar àtoms neutres a temperatures d'1 mK o inferiors. Llavors un altre làser ionitza els àtoms donant prou energia només a cada un dels electrons més externs per que eviti l'atracció elèctrica del seu ió de pare.
+
+El punt clau sobre plasmes ultrafreds és que manipulant els àtoms amb làsers, l'energia cinètica dels electrons alliberats es pot controlar. Fent servir làsers polsants estàndards, l'energia dels electrons es pot fer correspondre a una temperatura de tan baixa com 0.1 K,­ un conjunt límit per l'amplada de banda de freqüència dels làsers polsants. Els ions, tanmateix, retenen les temperatures mil·likelvin dels àtoms neutres. Aquest tipus de plasma ultrafred no en equilibri evoluciona ràpidament, i moltes qüestions fonamentals sobre el seu comportament romanen sense resposta. Els experiments duts a terme fins ara han mostrat dinàmiques sorprenents i comportament de recombinació que estan prement els límits del coneixement de la física de plasmes. Un dels estats metastables de plasma fortament no ideal és la [[matèria de Rydberg]] que es forma amb la condensació d'àtoms excitats.
+
+=== Plasma no neutre ===
+La intensitat i l'abast de la força elèctrica i la bona conductivitat dels plasmes normalment asseguren que la densitat de càrregues positives i negatives a qualsevol regió gran sigui igual (quasineutralitat). Un plasma que té un excés significatiu de densitat de càrrega o que està, en el cas extrem, compost només d'una espècie, s'anomena un plasma no neutre. En tal plasma, els camps elèctrics juguen un paper dominant. Exemples són [[doll de partícules|dolls de partícules]] carregades, núvols d'electrons tancats en una [[trampa de Penning]], i plasmes de positrons.refR. G. Greaves, M. D. Tinkle, and C. M. Surko, [http://scitation.aip.org/getabs/servlet/GetabsServlet?prog=normalid=PHPAEN000001000005001439000001idtype=cvipsgifs=yes Creation and uses of positron plasmas], Physics of Plasmas -- May 1994 -- Volume 1, Issue 5, pp. 1439-1446/ref
+
+=== Plasma polsegós i plasma granular ===
+Un [[plasma polsegós]] és el que conté partícules de pols minúscules carregades (normalment es troba a lespai) que també es comporten com un plasma. Un plasma que conté partícules més grans s'anomena un plasma granular.
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* {{ref-web|url = http://www.geocities.com/delacroix101/
+|títol = Com construir el teu llum de plasma
+|llengua = anglès
+|arxiuurl=http://web.archive.org/20070523000001/www.geocities.com/delacroix101/|arxiudata=2007-05-23}}
+* {{ref-web|url = http://www.esnips.com/web/Plasma-Art
+|títol = Art amb plasma
+|llengua = anglès
+}}
+* [http://www.freebookcentre.net/Physics/Plasma-Physics-Books.html Free plasma physics books and notes]
+* [http://fusedweb.pppl.gov/CPEP/Chart_Pages/5.Plasma4StateMatter.html Plasmas: the Fourth State of Matter]
+* [http://www.plasmas.org/ Plasma Science and Technology]
+* [http://plasma-gate.weizmann.ac.il/PlasmaI.html Plasma on the Internet] comprehensive list of plasma related links.
+* Introduction to Plasma Physics: [http://farside.ph.utexas.edu/teaching/plasma/lectures/lectures.html Graduate course given by Richard Fitzpatrick]|[http://silas.psfc.mit.edu/introplasma/index.html M.I.T. Introduction by I.H.Hutchinson]
+* [http://wwwppd.nrl.navy.mil/nrlformulary/index.html NRL Plasma Formulary online] (or an [http://w3.pppl.gov/~dcoster/nrl/ html version])
+* [http://www.plasmacoalition.org/ Plasma Coalition page]
+* [http://starfire.ne.uiuc.edu/ Plasma Material Interaction]
+* [http://c3po.barnesos.net/homepage/lpl/grapeplasma/ How to make a glowing ball of plasma in your microwave with a grape]|[http://stewdio.org/plasma/ More (Video)]
+* [http://video.google.com/videoplay?docid=6732382807079775486hl=en How to make plasma in your microwave with only one match (video)]
+
+* U.S. Dept of Agriculture research project [http://www.ars.usda.gov/research/projects/projects.htm?ACCN_NO=409114/ Decontamination of Fresh Produce with Cold Plasma]
+* CNRS LAEPT [http://www.univ-bpclermont.fr/LABOS/laept/fr/accueil.php Electric Arc Thermal Plasmas ] (en francès)
+
+
+
+{{Estats de la matèria}}
+
+{{1000 Ciència}}
+
+{{Enllaç AB|en}}
+
+[[Categoria:Estats de la matèria]]
+[[Categoria:Física del plasma| ]]
+{{Autoritat}}
+{{Enllaç AD|ar}}
+{{Link GA|ar}}</text>
+      <sha1>h4vlb1odzqpzcscxlsoiwjs789essx3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

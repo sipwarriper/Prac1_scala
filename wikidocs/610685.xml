@@ -1,0 +1,331 @@
+<page>
+    <title>Calendari japonès</title>
+    <ns>0</ns>
+    <id>610685</id>
+    <revision>
+      <id>13641144</id>
+      <parentid>13568011</parentid>
+      <timestamp>2014-06-23T02:22:20Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>Des de l'[[1 de gener]] de [[1873]], [[Japó]] utilitza el [[calendari gregorià]]. Abans, es feia servir un [[calendari lunisolar]] adaptat del [[calendari xinès]].ref{{Citar web
+ |url = http://www.ndl.go.jp/koyomi/e/history/02_index2.html
+ |títol = The Japanese Calendar-Calendar History 2
+ |editorial = National Diet Library, Japan 
+ | any = 2002
+ | consulta = }}/ref 
+De tota manera, continuen vigents les [[era japonesa|eres japoneses]] per indicar els [[any]]s.
+
+== Anys ==
+Des de la instauració del calendari gregorià, es feien servir tres sistemes diferents per comptar els anys:
+* L'[[Era Comú]] (西 暦, ''seireki'') d'origen occidental;
+* L'[[era japonesa]] (年号, ''Neng''), en la qual l'any es compta a partir del primer any de regnat de l'[[Emperador del Japó|emperador]] (per exemple, l'any 2009 és l'any Heisei 21);
+* L'[[any imperial]] (皇 纪, ''koki''), comptat a partir de l'any en què, segons la mitologia, Japó va ser fundat pel [[Jinmu]] En 660 aC
+
+Dels tres sistemes, els dos primers segueixen vigents. El calendari imperial es va utilitzar entre 1873 i el final de la [[Guerra del Pacífic|Segona Guerra Mundial]].
+
+== Format de data ==
+El [[format de data]] utilitzat al Japó és molt sistemàtic, sobretot en l'escriptura. Per exemple, el dia d'avui es representa per:
+:{{CURRENTYEAR}}[[wikt: 年|年]]{{CURRENTMONTH1}}[[wikt: 月|月]]{{CURRENTDAY}}[[wikt: 日|日]]
+on el [[kanji]] 年 (''nen'') significa any, 月 (''gatsu'') significa mes i 日 (''nichi'') significa dia. Els nombres també es poden representar amb [[kanji]], però és molt comú la [[numeració aràbiga]]. Si cal especificar un determinat calendari, 西 暦 (''seireki'', calendari occidental) denota el calendari gregorià, i per indicar l'era japonesa (''neng'') es fa servir el nom d'aquesta era. Per exemple, 平 成 (''Heisei'') per a l'[[era Heisei]] corresponent al regnat de l'emperador [[Akihito]]. Com l'any 1 de l'era Heisei correspon a 1989, l'any actual es pot expressar com:
+: 平 成{{#expr:{{CURRENTYEAR}}-1.988}}年
+
+Des del punt de vista del llenguatge oral, la lectura dels anys i mesos és bastant regular.
+
+=== Numeració japonesa ===
+{{AP|Numeració japonesa}}
+Aquesta taula indica els noms dels nombres de l'1 al 9, 10, 100 i 1000 en japonès:
+{|Cellspacing = 4 style = border: 1px solid #999;
+|---
+|'''Nombre'''| | 1 
+ | 2 || 3 
+ | 4 || 5 || 6 
+ | 7 
+ | 8 || 9 || 10 
+ | 100 || 1000 
+|---
+|''' [[Kanji]] '''||一||二||三||四||五||六||七||八||九||十||百||千
+|---
+|'''Lectura''''||ichi||ni||sant||yon br/ (s'hi)||go||roku||nana br/ (Shichi)||hachi||kyuu (ku)||jyuu||Hyaku||sin
+|}
+(Les lectures indicades entre parèntesis no són tan freqüents, però tenen ús igualment).
+
+=== Anys ===
+El nom de l'any ve donat pel nom habitual del nombre seguit de ''nen'', per exemple, l'any 2009 es llegeix ''ni sin kyu nen'', o ''Heisei ni dj ichi nen'' si s'usa el calendari donat per l'era japonesa.
+
+=== Mesos ===
+Per als mesos, s'utilitza el nom del nombre seguit de ''gatsu'', encara que amb les següents indicacions:
+* Abril (四月) és ''shigatsu'' i no * ''yongatsu'';
+* Juliol (七月) és ''shichigatsu'' i no * ''nanagatsu'';
+* Setembre (九月) és ''kugatsu'' i no * ''kyūgatsu''.
+
+Aquesta és la llista completa dels mesos en japonès:
+
+{|Cellspacing = 4 style = border: 1px solid #999;
+|-
+! Mes
+! Lectura
+! [[Kanji]]
+|-
+ | [[Gener]]
+|ichigatsu
+|一月, 1 月
+|-
+ | [[Febrer]]
+|nigatsu
+|二月, 2 月
+|-
+ | [[Març]]
+|sangatsu
+|三月, 3 月
+|-
+ | [[Abril]]
+|shigatsu
+|四月, 4 月
+|-
+ | [[Maig]]
+|gogatsu
+|五月, 5 月
+|-
+ | [[Juny]]
+|rokugatsu
+|六月, 6 月
+|-
+ | [[Juliol]]
+|shichigatsu
+|七月, 7 月
+|-
+ | [[Agost]]
+|hachigatsu
+|八月, 8 月
+|-
+ | [[Setembre]]
+|kugatsu
+|九月, 9 月
+|-
+ | [[Octubre]]
+|jūgatsu
+|十月, 10 月
+|-
+ | [[Novembre]]
+|jūichigatsu
+|十一月, 11 月
+|-
+ | [[Desembre]]
+|jūnigatsu
+|十二月, 12 月
+|}
+
+=== Dies ===
+Els noms dels dies de més presenten més irregularitats, sobretot per als deu primers dies de mes:
+{|Cellspacing = 4 style = border: 1px solid #999;
+|-
+|1||一日||tsuitachi (en ocasions ''ichijitsu'')
+|17||十七日||jūshichinichi
+|-
+|2||二日||futsuka
+|18||十八日||jūhachinichi
+|-
+|3||三日||mikko
+|19||十九日||jūkunichi
+|-
+|4||四日||yokka
+|20||二十日||hatsuka
+|-
+|5||五日||itsuka
+|21||二十一日||nijūichinichi
+|-
+|6||六日||muika
+|22||二十二日||nijūninichi
+|-
+|7||七日||nanoka
+|23||二十三日||nijūsannichi
+|-
+|8||八日||Yoka
+|24||二十四日||nijūyokka
+|-
+|9||九日||kokonoka
+|25||二十五日||nijūgonichi
+|-
+|10||十日||Toka
+|26||二十六日||nijūrokunichi
+|-
+|11||十一日||jūichinichi
+|27||二十七日||nijūshichinichi
+|-
+|12||十二日||jūninichi
+|28||二十八日||nijūhachinichi
+|-
+|13||十三日||jūsannichi
+|29||二十九日||nijūkunichi
+|-
+|14||十四日||jūyokka
+|30||三十日||sanjūnichi
+|-
+|15||十五日||jūgonichi
+|31||三十一日||sanjūichinichi
+|-
+|16||十六日||jūrokunichi
+|colspan = 3|
+|}
+
+''Tsuitachi'' és una relaxació de ''tsukitachi'', que significa el primer del mes. En el calendari tradicional, l'últim dia del mes rep el nom de 晦 日 ''misoka''. Actualment, són molt més comuns els noms dels nombres del 28 al 31 seguits de ''Nichi''. De tota manera, ''misoka'' se segueix emprant en contractes i altres documents per especificar que fa a l'últim dia del mes, independent del nombre al que correspongui. L'últim dia de l'any rep el nom de 大 晦 日 ''[[ōmisoka]]'' (l{{'}}''gran últim dia''), terme que continua usant-se.
+
+== Noms tradicionals dels mesos ==
+Juntament amb la nomenclatura sistemàtica dels mesos al Japó, hi ha una altra nomenclatura tradicional que se segueix fent servir per exemple en la [[poesia]], especialment ''shiwasu''. És comú prendre un d'aquests noms per indicar el mes en el paràgraf inicial d'una carta o l'agraïment en un discurs. Alguns, com ''[[Yayoi]]'' o ''[[Satsuki]]'', es fan servir també com a [[nom de pila|noms de pila]] (femenins). Aquests noms també apareixen de tant en tant en el [[jidaigeki]] i en sèries de televisió o pel·lícules ambientades a l'[[era Edo]] o una era anterior.
+
+{|Cellspacing = 4 style = border: 1px solid #999;
+|-
+! Mes
+! Nom tradicional
+! Lectura
+! Significat
+|-
+ | [[Gener]]
+|睦 月
+ | [[mutsuki]]
+|mes de l'amistat
+|-
+ | [[Febrer]]
+|如月 o 衣 更 着
+ | [[Kisaragi]] o kinusaragi
+|canviar de roba
+|-
+ | [[Març]]
+|弥 生
+ | [[Yayoi]]
+|primera vida, primavera
+|-
+ | [[Abril]]
+|卯 月
+ | [[Uzuki]]
+|mes del conill, mes de la '' [[Deutzia crenata]] '' (una planta amb flors)
+|-
+ | [[Maig]]
+|皋 月 o 早 月 o 五月
+ | [[Satsuki]]
+|mes ràpid, cinquè mes
+|-
+ | [[Juny]]
+|水 无 月
+ | [[minazuki]] o minatsuki
+|mes de l'aiguaref El caràcter [[wikt: 无|无]], que normalment vol dir [[mu (zen)|no]], s'empra aquí com ''[[ateji]]'', és a dir, es prescindeix del significat del kanji i s'empra únicament per representar el so na. En aquest nom, na actua a manera de partícula possessiva, de manera que Minazuki significa mes de l'aigua i no mes sense aigua, i [http://ext.dictionary.goo.ne.jp/leaf/jn/186726/m0u/水 无 月/es diu] que és així en referència a la inundació dels [[arrossar]] és. /ref
+|-
+ | [[Juliol]]
+|文 月
+ | [[fumizuki]]
+|mes de les lletres
+|-
+ | [[Agost]]
+|叶 月
+ | [[HAZUKI]]
+|mes de les fulles
+|-
+ | [[Setembre]]
+|长 月
+ | [[nagatsuki]]
+|mes llarg
+|-
+ | [[Octubre]]
+|神 无 月
+ | [[kannazuki]] o kaminashizuki
+|mes dels déusref Literalment, significa mes sense déus, però, anàlogament al mes de Minazuki, el caràcter 无 pot estar representant una partícula possessiva na, amb el que Kannazuki passaria a significar mes dels déus. A la [[província de Izumo]], actual [[prefectura de Shimane]], s'ha canviat l'escriptura per 神 有 月 o 神 在 月 (''kamiarizuki'', mes en què hi ha déus), ja que es creu que tots els déus es reuneixen cada any per aquestes dates en el [[Santuari de Izumo]]./ref
+|-
+ | [[Novembre]]
+|霜 月
+ | [[shimotsuki]]
+|mes de la gebre
+|-
+ | [[Desembre]]
+|师 走
+ | [[shiwasu]]
+|els sacerdots correnref Fa referència al fet que els sacerdots tenen molta feina per aquestes dates, ja que han de preparar les pregàries i benediccions de cap d'any. /ref
+|}
+
+== Agrupacions de dies ==
+=== Setmana ===
+Al Japó es fa servir una [[setmana]] de set dies, perfectament equiparable al calendari occidental. Va ser importada al Japó al voltant de l'any 800 de l'Era Comú, i cada dia té un nom que correspon directament al que es fa servir a Europa. El sistema es va emprar poc més que per a propòsits astrològics fins a 1876, poc després que Japó adoptés oficialment el calendari gregorià. [[Fukuzawa Yukichi]] va ser una figura clau en la decisió d'adoptar aquest sistema com a font oficial dels noms dels [[dies de la setmana]]. Els noms provenen dels cinc planetes visibles, que al seu torn deuen el seu nom als [[cinc elements xinesos]] (foc, aigua, fusta, metall i terra), i de la Lluna i el Sol ([[yin i yang]]).
+
+{|Cellspacing = 4 style = border: 1px solid #999;
+! Kanji !! Lectura !! Element !! Català
+|-
+|日 曜 日||nichiyōbi||Sol||diumengeref name=semana Dissabte i diumenge, a altres idiomes europeus, es relacionen amb dia de Saturn i dia del Sol. /ref
+|-
+|月曜日||getsuyōbi||Lluna||dilluns
+|-
+|火曜日||kayōbi||Foc ([[Mart (planeta)|Mart]])||dimarts
+|-
+|水 曜 日||suiyōbi||Aigua ([[Mercuri (planeta)|Mercuri]])||dimecres
+|-
+|木 曜 日||mokuyōbi||Fusta ([[Júpiter (planeta)|Júpiter]])||dijous
+|-
+|金曜日||kin'yōbi||Metall ([[Venus (planeta)|Venus]])||divendres
+|-
+|土 曜 日||doyōbi||Terra ([[saturn (planeta)|Saturn]])||dissabteref name=semana/
+|}
+
+=== ''juny''' ===
+Al Japó, el mes també es divideix de forma regular a tres períodes de 10 dies anomenats ''juny'' (旬). El primer és el ''jōjun'' (上旬), el segon, ''chūjun'' (中旬), i l'últim, ''gejun'' (下旬). Sovint es fan servir per indicar dates aproximades, per exemple, la temperatura és típica de l{{'}}''jōjun'' d'abril, s'espera la votació del projecte de llei al ''gejun'' d'aquest mes, de manera que s'equiparen les expressions començament, mitjans i finals de mes.
+
+=== ''Roku''' ===
+Els ''roku''' (六 曜, sis dies) o ''rokki''' (六 辉) són una successió de sis dies basada en l'antic calendari lunisolar japonès. Se segueixen trobant en els calendaris japonesos, i en la cultura japonesa s'associen amb [[superstició|la bona o la mala sort]], pel que es fan servir per planificar cerimònies com matrimonis i funerals, encara que molts els ignoren en la vida quotidiana. Aquests són els ''roku''', per ordre:
+
+{|Cellspacing = 4 style = border: 1px solid #999;
+! Kanji
+! Lectura
+! Significat
+! Nombre
+|-
+|先 胜
+|Sakigachi o senshō
+|Bona sort abans del migdia, mala sort després del migdia. Bon dia per començar un projecte (al matí).
+|2
+|-
+|友 引
+|Tomobiki
+|Les passaran coses dolentes als amics. S'evita fer funerals aquell dia, ja que el significat literal d'aquest dia és tirar dels amics i s'entén que el mort podria portar a la mort a algun dels presents al funeral. Els crematoris solen tancar aquest dia.
+|3
+|-
+|先 负
+|Sakimake o senbu
+|Mala sort abans del migdia, bona sort després del migdia.
+|4
+|-
+|仏 灭
+|Butsumetsu
+|Simbolitza el dia que va morir [[Gautama Buda|Buda]], i es considera el dia menys afortunat. Se solen evitar casaments i llançaments de nous productes. Alguns santuaris sintoistes tanquen aquest dia.
+|5
+|-
+|大安
+|Taian
+|El dia més afortunat.
+|0
+|-
+|赤 口
+|Shakkō o shakku
+|Bona sort a l'hora del cavall (de les 11 del matí a la 1 de la tarda), mala sort la resta del dia.
+|1
+|-
+|}
+
+El càlcul del roku consisteix a sumar el dia i el mes del calendari lunisolar, dividir aquesta suma entre 6 i quedar-se amb la resta, de manera que el dia 1 del primer mes sempre és senshō (resta 2), i a partir d'aquí els dies segueixen l'ordre indicat.
+
+Aquest sistema no es va tornar popular al Japó fins al final d'era Edo.
+
+== Referències ==
+{{Referències|2}}
+
+{{ORDENA:Calendari Japones}}	!--ORDENA generat per bot--
+{{Enllaç AB|id}}
+
+[[Categoria:Calendari|japones]]
+[[Categoria:Cultura del Japó]]</text>
+      <sha1>0glr85fnwiei2x2ouxzyzxg0fzsqsjy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

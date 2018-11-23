@@ -1,0 +1,179 @@
+<page>
+    <title>Plutoni</title>
+    <ns>0</ns>
+    <id>21818</id>
+    <revision>
+      <id>13765962</id>
+      <parentid>13624975</parentid>
+      <timestamp>2014-07-08T22:04:17Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}} i {{Projectes germans}} que enllaça amb [[commons:category:Plutonium]]</comment>
+      <text>{{fusió des de|Hesperi (element)|data=maig de 2014}}
+{{Infotaula d'element químic
+| nom anglès = Plutonium
+|name        = Plutoni
+|pronounce ={{IPAc-en|p|l|uː|ˈ|t|oʊ|n|i|ə|m}}br /{{Respell|ploo|TOH|nee-əm}}
+|number=94
+|symbol=Pu
+|left = [[Neptuni]]
+|right = [[Americi]]
+|above = [[Samari|Sm]]
+|below=(Uqh)
+|series=Actínids
+|series comment=
+|group=
+|period=7
+|block=f
+|series color=
+|phase color=
+|appearance=Blanc platejat, agafa un to gris fosc en contacte amb l'aire
+|image name=Plutonium3.jpg
+|image alt=
+|image size=
+|image name comment=
+|image name 2=
+|image size 2=
+|image name 2 comment=
+|atomic mass=(244)
+|atomic mass 2=
+|atomic mass comment=
+|electron configuration=#91;[[radó|Rn]]#93; 5fsup6/sup 7ssup2/sup
+|electrons per shell=2, 8, 18, 32, 24, 8, 2
+|color=
+|phase=Sòlid
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=19.816
+|density gpcm3nrt 2=
+|density gpcm3nrt 3=
+|density gpcm3mp=16.63
+|melting point K=912.5
+|melting point C=639.4
+|melting point F=1182.9
+|melting point pressure=
+|sublimation point K=
+|sublimation point C=
+|sublimation point F=
+|sublimation point pressure=
+|boiling point K=3505
+|boiling point C=3228
+|boiling point F=5842
+|boiling point pressure=
+|triple point K=
+|triple point kPa=
+|triple point K 2=
+|triple point kPa 2=
+|critical point K=
+|critical point MPa=
+|heat fusion=2.82
+|heat fusion 2=
+|heat fusion pressure=
+|heat vaporization=333.5
+|heat vaporization pressure=
+|heat capacity=35.5
+|heat capacity pressure=
+|vapor pressure 1=1756
+|vapor pressure 10=1953
+|vapor pressure 100=2198
+|vapor pressure 1 k=2511
+|vapor pressure 10 k=2926
+|vapor pressure 100 k=3499
+|vapor pressure comment=
+|crystal structure=Monoclínic
+| oxidation states = 8, 7, 6, 5, '''4''', 3, 2, 1br /(òxid [[amfòter]])
+|oxidation states comment=
+|electronegativity=1.28
+|number of ionization energies=1
+|1st ionization energy=584.7
+|2nd ionization energy=	
+|3rd ionization energy=
+|atomic radius=159
+|atomic radius calculated=
+|covalent radius=187±1
+|Van der Waals radius=
+|magnetic ordering = [[Paramagnètic]]ref name=magnet[http://www-d0.fnal.gov/hardware/cal/lvps_info/engineering/elementmagn.pdf Magnetic susceptibility of the elements and inorganic compounds], a {{RubberBible86th}}/ref
+|electrical resistivity=
+|electrical resistivity at 0=1.460 µ
+|electrical resistivity at 20=
+|thermal conductivity=6.74
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=46.7
+|speed of sound=2260
+|speed of sound rod at 20=
+|speed of sound rod at r.t.=
+|Tensile strength=
+|Young's modulus=96 
+|Shear modulus=43
+|Bulk modulus=
+|Poisson ratio=0.21
+|Mohs hardness=
+|Vickers hardness=
+|Brinell hardness=
+|CAS number=7440-07-5
+|isotopes={{Elementbox_isotopes_decay2 | mn=238 | sym = [[plutoni|Pu]]
+ | na = [[radioisòtop traça|traça]] | hl= 87.74 a
+ | dm1 = [[Fissió espontània|FE]] | de1=204.66refMagurno, B.A.; Pearlstein, S. (eds.) [http://www.osti.gov/bridge//product.biblio.jsp?query_id=0page=0osti_id=5972980 Workshop on nuclear data evaluation methods and procedures], Upton, Nova York, EUA, 22 setembre 1980, vol. II (1981), pp. 835 ff (en anglès)/ref | pn1= | ps1= —
+ | dm2 = [[emissió alfa|α]] | de2=5.5 | pn2=234 | ps2 = [[urani|U]] }}
+{{Elementbox_isotopes_decay2 | mn=239 | sym=Pu
+ | na=100% | hl = 2,41 × 10sup4/sup a
+ | dm1 = [[Fissió espontània|FE]] | de1= 207.06 | pn1= | ps1= —
+ | dm2 = [[emissió alfa|α]] | de2=5.157 | pn2=235 | ps2 = [[urani|U]] }}
+{{Elementbox_isotopes_decay2 | mn=240 | sym=Pu
+ | na=traça | hl = 6,5 × 10sup3/sup a
+ | dm1 = [[Fissió espontània|FE]] | de1=205.66 | pn1= | ps1= —
+ | dm2 = [[emissió alfa|α]] | de2=5.256 | pn2=236 | ps2 = [[urani|U]] }}
+{{Elementbox_isotopes_decay2 | mn=241 | sym=Pu
+ | na = [[radioisòtop sintètic|sin]] | hl = 14 a
+ | dm1 = [[emissió beta|βsup−/sup]] | de1=0.02078 | pn1 = [[Americi-241|241]] | ps1 = [[americi|Am]]
+ | dm2 = [[Fissió espontània|FE]] | de2=210.83 | pn2= | ps2= —
+ | dm3 = [[emissió beta|β]] | de3= — | pn3=241 | ps3 = [[americi|Am]] }}
+{{Elementbox_isotopes_decay2 | mn=242 | sym=Pu
+ | na=traça | hl = 3,73 × 10sup5/sup a
+ | dm1=SF | de1=209.47 | pn1= | ps1= —
+ | dm2=α | de2=4.984 | pn2=238 | ps2 = [[urani|U]] }}
+{{Elementbox_isotopes_decay2 | mn=244 | sym=Pu
+ | na=traça | hl = 8,08 × 10sup7/sup a
+ | dm1 = [[emissió alfa|α]] | de1=4.666 | pn1=240 | ps1 = [[urani|U]]
+ | dm2 = [[Fissió espontània|FE]] | de2= | pn2= | ps2= — }}
+|isotopes comment=
+|discovered by = [[Glenn T. Seaborg]], [[Arthur Wahl]], [[Joseph W. Kennedy]], [[Edwin McMillan]]
+|discovery date=1940–1
+}}
+El '''plutoni''' és un [[element químic]], que en la [[taula periòdica]] té el símbol '''Pu''' i el [[nombre atòmic]] 94. És un [[metall]] de color blanc platejat, [[tòxic]] i [[radioactivitat|radioactiu]]. En manipular-lo sense la protecció adequada pot produir [[mutacions]] cel·lulars que poden desembocar en [[càncer]] o altres malalties. Rep el seu nom del planeta [[Plutó (planeta)|Plutó]], car en la [[taula periòdica]] està classificat just després de l'[[urani]] (que rep el nom d'[[Urà (planeta)|Urà]]) i del [[neptuni]] (de [[Neptú (planeta)|Neptú]]). El plutoni existeix de forma [[natura]]l però només en petítissimes quantitats. Gairebé sempre és creat de forma artificial mitjançant el bombardeig de sup238/supU amb [[neutrons]].
+
+== Història ==
+La seva existència va ser predita el [[1940]] i va ser produït per primera vegada el [[1941]] per [[Glenn T. Seaborg]], [[Edwin McMillan]], J.W. Kennedy i A.C. Wahl utilitzant el [[ciclotró]] de [[Laboratori de Berkeley|Berkeley]] ([[EUA]]), però el descobriment va ser mantingut en secret fins al final de la [[Segona Guerra Mundial]], el [[1945]]. Va ser l'element utilitzat en la primera explosió nuclear de la història (la prova [[Trinity (assaig nuclear)|Trinity]]) i també el de [[Fat Man]], la bomba atòmica que es va llançar sobre la ciutat japonesa de [[Nagasaki]], el [[9 d'agost]] de 1945.
+
+== Propietats físiques i químiques ==
+A temperatura ambient és [[sòlid]]. El seu punt de fusió és 640nbsp;°C. El seu [[pes atòmic]] és 244,06 [[Unitat de massa atòmica|uma]] i la seva [[densitat]] 19.816 kg/m³. Té vint-i-un [[radioisòtop]]s coneguts dels quals el més important, que no el més estable, és el sup239/supPu, amb una [[semivida]] de 24.110 anys. 
+
+== Toxicologia ==
+És [[químicament]] [[tòxic]] i també és [[contaminació radioactiva|radiotòxic]], especialment per inhalació.ref[http://www.atsdr.cdc.gov/toxprofiles/tp143.pdf Perfil toxicològic del plutoni] Departament de Salut dels Estats Units, novembre de 2010 {{en}}/ref
+
+== Aplicacions ==
+El plutoni s'utilitza per a fabricar [[armes nuclears]] i, en forma de [[diòxid de plutoni]], per a fer [[combustible nuclear]] [[MOX]], per a algunes [[centrals nuclears]] de producció d'[[energia elèctrica]].
+
+== Referències ==
+{{amaga}}
+
+{{Projectes germans|commons=Plutonium}}
+{{taula periòdica compacta}}
+
+{{Enllaç AB|de}}
+{{Enllaç AB|fi}}
+{{Enllaç AB|th}}
+{{Autoritat}}
+{{Enllaç AD|en}}
+
+[[Categoria:Plutoni| ]]</text>
+      <sha1>25fv51l4du32nfkn16d6u7ukq1g59g2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

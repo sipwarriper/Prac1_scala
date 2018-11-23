@@ -1,0 +1,118 @@
+<page>
+    <title>Plantilla:Infotaula biografia militar/ús</title>
+    <ns>10</ns>
+    <id>430326</id>
+    <revision>
+      <id>13006681</id>
+      <parentid>12755991</parentid>
+      <timestamp>2014-03-05T15:43:44Z</timestamp>
+      <contributor>
+        <username>Bestiasonica</username>
+        <id>3164</id>
+      </contributor>
+      <text>{{Subpàgina de plantilla}}
+==Ús==
+Aquesta plantilla serveix per resumir la informació d'un militar. La infotaula s'hauria d'afegir usant la plantilla nowiki{{Infotaula biografia militar}}/nowiki, tal com es mostra a continuació:
+
+pre{{Infotaula biografia militar 
+| name                 = {{subst:PAGENAME}}
+| image                = !-- [[Fitxer:exemple.jpg]] --
+| caption              = 
+| born                 = !-- {{Data naixement|YYYY|MM|DD}} o {{Data naixement i edat|YYYY|MM|DD}} --
+| died                 = !-- {{Data defunció i edat|YYYY|MM|DD|YYYY|MM|DD}} --
+| placeofbirth         = 
+| placeofdeath         = 
+| placeofburial        = 
+| placeofburial_label  = 
+| nickname             = 
+| allegiance           = 
+| branch               = 
+| serviceyears         = 
+| rank                 = 
+| unit                 = 
+| commands             = 
+| battles              = 
+| awards               = 
+| relations            = 
+| laterwork            = 
+}}/pre
+
+== Exemple ==
+{{Infotaula biografia militar 
+| name=Alexander Alexandròvitx Novikov 
+| born         = {{Data naixement|1902|11|19}} 
+| died         = {{Data defunció i edat|1976|12|3|1902|11|19}} 
+| placeofbirth = [[Sant Pol de Mar]], [[província de Kostromà ]] 
+| placeofdeath = [[Moscou]]
+| image        = [[File:Francesco Baracca ászpilóta.jpg|200px]]
+| caption      = El Mariscal de l'Aire Novikov fotografiat abans del final de la [[Segona Guerra Púnica]]
+| nickname     = Aleix el carnisser
+| allegiance   ={{bandera|URSS}} [[Exèrcit Roig]] (1919-1933)br/{{bandera|URSS}} [[Força Aèria Soviètica]] (1933-1956)
+| serviceyears =1919-1946, 1953-1956
+| rank         = [[Fitxer:Army-GBR-OR-08b.svg|25px|Sergent major de companyia]] [[Sergent]] - 1939br /
+[[Fitxer:UK Army OF1b.png|25px|Tinent]] [[Tinent]]– 9 de novembre de 1940 –br /
+[[Fitxer:UK Army OF2.png|25px|Capità]] [[Capità]] (13 d'agost de 1942)br /
+[[Fitxer:UK Army OF3.png|25px|Major]] [[Major (Regne Unit)|Major]] (13 d'agost de 1940)
+| commands      =[[Força Aèria Soviètica]]
+| battles    =[[Segona Guerra Mundial]]
+| awards     =[[Heroi de la Unió Soviètica]] (2)br /[[Ordre de Lenin]]br /[[Orde de Suvorov]] br /[[Orde de la Bandera Roja]]
+| laterwork  = Sabater
+| portrayedby =
+}}
+
+pre{{Infotaula biografia militar 
+| name=Alexander Alexandròvitx Novikov 
+| born        = {{Data naixement|1902|11|19}} 
+| died         = {{Data defunció i edat|1976|12|3|1902|11|19}} 
+| placeofbirth = [[Sant Pol de Mar]], [[província de Kostromà ]] 
+| placeofdeath = [[Moscou]]
+| image        = [[File:Francesco Baracca ászpilóta.jpg|200px]]
+| caption      = El Mariscal de l'Aire Novikov fotografiat abans del final de la [[Segona Guerra Púnica]]
+| nickname     = Aleix el carnisser
+| allegiance ={{bandera|URSS}} [[Exèrcit Roig]] (1919-1933)br/{{bandera|URSS}} [[Força Aèria Soviètica]] (1933-1956)
+| serviceyears =1919-1946, 1953-1956
+| rank         = [[Fitxer:Army-GBR-OR-08b.svg|25px|Sergent major de companyia]] [[Sergent]] - 1939br /
+[[Fitxer:UK Army OF1b.png|25px|Tinent]] [[Tinent]]– 9 de novembre de 1940 –br /
+[[Fitxer:UK Army OF2.png|25px|Capità]] [[Capità]] (13 d'agost de 1942)br /
+[[Fitxer:UK Army OF3.png|25px|Major]] [[Major (Regne Unit)|Major]] (13 d'agost de 1940) 
+| commands      =[[Força Aèria Soviètica]]
+| battles    =[[Segona Guerra Mundial]]
+| awards     =[[Heroi de la Unió Soviètica]] (2)br /[[Ordre de Lenin]]br /[[Orde de Suvorov]] br /[[Orde de la Bandera Roja]]
+| laterwork  = Sabater
+| portrayedby =
+}}/pre
+
+== Descripció dels paràmetres ==
+* '''name''' ndash; el nom complet de la persona.
+* '''image''' ndash; ''opcional'' ndash; una imatge de la persona. La imatge ha de tenir el format nowiki[[Image:Example.jpg|300px]]/nowiki; in particular, the ''thumb'' attribute must '''not''' be selected.
+* '''caption''' ndash; ''opcional'' ndash; the text to be placed below the image.
+* '''born''' ndash; ''opcional'' ndash; the date of birth, if known. For unusual cases, such as where only dates of activities are known, the '''lived''' parameter may be used instead.
+* '''died''' ndash; ''opcional'' ndash; the date of death, if applicable and known.
+* '''placeofbirth''' ndash; ''opcional'' ndash; the person's birthplace.
+* '''placeofdeath''' ndash; ''opcional'' ndash; the place where the person died.
+* '''placeofburial''' ndash; ''opcional'' ndash; the place where the person's remains are buried or otherwise interred.
+* '''placeofburial_label''' ndash; ''opcional'' ndash; the label to use for the placeofburial field (above); this is intended to be used in cases where the remains were disposed of in a manner other than burial.
+* '''nickname''' ndash; ''opcional'' ndash; nickname(s) by which the person was known.
+* '''allegiance''' ndash; ''opcional'' ndash; the country or other power the person served. Multiple countries may be indicated together with the corresponding dates. This field should not be used to indicate a particular service branch, which is better indicated by the codebranch/code field (below).
+* '''branch''' ndash; ''opcional'' ndash; the service branch (Army, Navy, etc.) the person was a part of; this should be left blank for people who were not part of a formal armed service, or who predate the establishment of formal service branches.
+* '''serviceyears''' ndash; ''opcional'' ndash; the years during which the person served.
+* '''rank''' ndash; ''opcional'' ndash; the highest rank achieved by the person. Unusual cases, such as this rank not being the last achieved, or the rank being awarded posthumously, may be noted. In cases where the person held different ranks in different armies, multiple ranks should be specified with a date and country note for each.
+* '''unit''' ndash; ''opcional'' ndash; for persons who are not notable as commanding officers, the unit (company, battalion, regiment, etc.) in which they served. This should be omitted if the commands are specified (as above).
+* '''commands''' ndash; ''opcional'' ndash; for persons who are notable as commanding officers, the units they commanded. Dates should be given if multiple notable commands were held.
+* '''battles''' ndash; ''opcional'' ndash; any notable battles or wars in which the person participated. This should be omitted if a campaignbox is used in conjunction with this template.
+* '''awards''' ndash; ''opcional'' ndash; any notable awards or decorations the person received.
+* '''relations''' ndash; ''opcional'' ndash; any notable relations. Only reasonably close ones should be indicated; an exhaustive listing of an extensive family tree should be avoided here.
+* '''laterwork''' ndash; ''opcional'' ndash; profession or positions held by the person other than military service (displays with the label Other work).
+includeonly
+{{ORDENA:Biografia militar}}
+[[Categoria:Infotaules militars]]
+[[Categoria:Infotaules de biografies]]
+
+
+[[Categoria:Plantilles sense TemplateData]]
+/includeonly</text>
+      <sha1>50tq5wrxe6etg6m1nxiv6nmsqbgweql</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

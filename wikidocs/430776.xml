@@ -1,0 +1,270 @@
+<page>
+    <title>Plantilla:Infotaula unitat militar/ús</title>
+    <ns>10</ns>
+    <id>430776</id>
+    <revision>
+      <id>13027543</id>
+      <parentid>12610756</parentid>
+      <timestamp>2014-03-10T05:09:39Z</timestamp>
+      <contributor>
+        <username>QuimGil</username>
+        <id>132002</id>
+      </contributor>
+      <comment>Aplicant [[Viquipèdia:Llibre_d'estil#Icones_de_banderes]]</comment>
+      <text>{{Subpàgina de plantilla}}
+
+== Ús ==
+La '''plantilla Infotaula unitat militar''' pot ser emprada per resumir de manera estandarditzada la informació de qualsevol tipus d'unitat militar: un exercit, un cos d'exèrcit, una divisió, un escamot, o una tipologia d'unitat militar. Per cobrir tot aquest espectre s'han definit tots els paràmetres possibles; això vol dir però, que no tots són necessaris en cada cas específic. A continuació la llista de paràmetres disponibles:
+
+==Sintaxi== 
+Tots els paràmetres de la plantilla. Copieu i enganxeu la següent sintaxi. Esborreu aquells que no es puguin aplicar. 
+pre
+{{Infotaula unitat militar 
+| nom_de_la_unitat_militar = {{subst:PAGENAME}}
+| imatge                   = 
+| peu_de_foto              = 
+| data de Lleva            = 
+| dissolució               = 
+| pais                     = 
+| branca                   =
+| arma                     = 
+| tipus                    = 
+| estructura               = 
+| mapa                     = 
+| mida                     = 
+| comandant_actual         = 
+| comandant                = 
+| coronel                  = 
+| oficials_destacats       = 
+| cavallers                = 
+| almogàvers_destacats     = 
+| batalles                 = 
+| patró                    = 
+| divisa                   = 
+| lema                     = 
+| condecoracions           = 
+}}
+/pre
+
+== Exemples ==
+== Exemple 1: Grup d'Exèrcits contemporani ==
+{{Infotaula unitat militar
+|nom_de_la_unitat_militar=[[1r Front d'Ucraïna]] br1-й Украинский фронт
+|imatge=[[Fitxer:1szy ukraiński.jpg|300px]]
+|peu_de_foto= Estendart del del 1r Front Ucraïnès
+|periode = 
+|data de Lleva= [[1943]] 
+|dissolució= [[1945]]
+|pais= [[Unió Soviètica]]
+|branca=
+|arma= 
+|tipus= 
+|mida=[[Grup d'Exèrcits]]  
+|estructura=
+|coronel=  
+|oficials_destacats= [[Nikolai Vatutin]] br [[Gueorgui Júkov]] br [[Ivan Koniev]]
+|batalles=   [[Bossa de Korsun]] br [[Bossa d'Hube]] br[[Operació Lvov-Sandomierz]] br [[Operació del Vístula-Oder]] br [[Ofensives de Silèsia]] br [[Batalla de Breslau (1945)|Batalla de Breslau]] br [[Batalla de Berlín]]br [[Batalla de Halbe]] br [[Ofensiva de Praga]]
+|lema=
+|divisa=
+|condecoracions= 
+|}}
+
+==== Explicació dels paràmetres ==== 
+* '''nom_de_la_unitat_militar''' – nom del grup d'exèrcits
+* '''imatge''' – imatge del símbol de la unitat
+* '''peu_de_foto''' – explicació de la imatge
+* '''data de Lleva''' – any en què fou creada
+* '''dissolució''' – any en què fou dissolta, si pertoca
+* '''pais''' – estat en quèfou creada. S'hi potafegir una icona de bandera
+* '''mida''' – (grup d'exèrcits)
+* '''batalles''' – guerres i batalles en les que va lluitar
+
+==== Detall dels paràmetres per crear aquesta plantilla ==== 
+div style=width:600px;background:#dddddd;border: 1px solid black;padding:0.5em  1em 0.5em 1empre
+{{Infotaula unitat militar
+|nom_de_la_unitat_militar=[[1r Front d'Ucraïna]] br1-й Украинский фронт
+|imatge=[[Fitxer:1szy ukraiński.jpg|300px]]
+|peu_de_foto= Estendart del del 1r Front Ucraïnès
+|periode = 
+|data de Lleva= [[1943]] 
+|dissolució= [[1945]]
+|pais= [[Unió Soviètica]]
+|branca=
+|arma= 
+|tipus= 
+|mida=[[Grup d'Exèrcits]]  
+|estructura=
+|coronel=  
+|oficials_destacats= [[Nikolai Vatutin]] br [[Gueorgui Júkov]] 
+|batalles=   [[Bossa de Korsun]] br [[Bossa d'Hube]] br
+[[Operació Lvov-Sandomierz]] br [[Operació del Vístula-Oder]] 
+br [[Ofensives de Silèsia]] br 
+[[Batalla de Breslau (1945)|Batalla de Breslau]]
+ br [[Batalla de Berlín]]br [[Batalla de Halbe]] 
+br [[Ofensiva de Praga]]
+|lema=
+|divisa=
+|condecoracions= 
+|}}
+/pre/div
+
+== Exemple 2: Unitat militar concreta contemporànea ==
+{{Infotaula unitat militar
+|nom_de_la_unitat_militar=[[3a Divisió SS Totenkopf]]
+|imatge=[[Fitxer:3divss.gif|120px|]]
+|peu_de_foto=insígnia de la 3a Divisió SS Totemkopf
+|periode = Segona Guerra Mundial
+|data de Lleva=   [[1939]]
+|dissolució=  maig [[1945]]
+|pais= [[Tercer Reich]]
+|branca= [[Waffen-SS]]   
+|arma=[[Panzergranadier]]
+|tipus= Blindada
+|mida=[[divisió militar|Divisió]]  
+|estructura=
+|coronel=[[Theodor Eicke]]
+|oficials_destacats=
+|batalles= [[Batalla de França]]br /[[Operació Dinamo]]br /[[Operació Barbarossa]]br /[[Setge de Leningrad]]br /[[Batalla de Kursk]]br /[[Bossa de Demjansk]]br /[[Ofensiva del Llac Balatón]]br /[[Batalla de Viena]]
+|lema=
+|divisa=
+|condecoracions=  
+|}}
+
+==== Explicació dels paràmetres ==== 
+* '''nom_de_la_unitat_militar''' – és el nom de la unitat
+* '''imatge''' – imatge del símbol de la unitat
+* '''peu_de_foto''' – explicació de la imatge
+* '''data de Lleva''' – any en què fou creada
+* '''dissolució''' – any en què fou dissolta, si pertoca
+* '''pais''' – estat en quèfou creada. S'hi potafegir una icona de bandera
+* '''branca''' – branca de l'exèrcit al qual pertany
+* '''arma''' – (infanteria/panzer/armada/etc)
+* '''tipus''' – (blindada/mecanitzada/aerotransportada/etc)
+* '''mida''' – (divisió/regiment/escamot/etc)
+* '''coronel''' – nom del coronel
+* '''batalles''' – guerres i batalles en les que va lluitar
+
+==== Detall dels paràmetres per crear aquesta plantilla ==== 
+div style=width:600px;background:#dddddd;border: 1px solid black;padding:0.5em  1em 0.5em 1empre
+{{Infotaula unitat militar
+|nom_de_la_unitat_militar=[[3a Divisió SS Totenkopf]]
+|imatge=[[Fitxer:3divss.gif|120px|]]
+|peu_de_foto=insígnia de la 3a Divisió SS Totemkopf
+|periode = Segona Guerra Mundial
+|data de Lleva=   [[1939]]
+|dissolució=  maig [[1945]]
+|pais= [[Tercer Reich]]
+|branca= [[Waffen-SS]]   
+|arma=[[Panzergranadier]]
+|tipus= Blindada
+|mida=[[divisió militar|Divisió]]  
+|estructura=
+|coronel=[[Theodor Eicke]]
+|oficials_destacats=
+|batalles= [[Batalla de França]]br /[[Operació Dinamo]]br /
+[[Operació Barbarossa]]br /[[Setge de Leningrad]]br /
+[[Batalla de Kursk]]br /[[Bossa de Demjansk]]br /
+[[Ofensiva del Llac Balatón]]br /[[Batalla de Viena]]
+|lema=
+|divisa=
+|condecoracions=  
+|}}
+/pre/div
+
+== Exemple 3: Unitat militar concreta moderna ==
+{{Infotaula unitat militar
+|nom_de_la_unitat_militar= [[Regiment de la Generalitat de Catalunya]]
+|imatge= [[Fitxer:Flag of England.svg|200px]]
+|peu_de_foto= 
+|periode =
+|data de Lleva= desembre de [[1705]]
+|dissolució= [[13 de setembre]] de [[1714]]
+|pais= [[Catalunya]]br/([[Monarquia Hispànica]]) 
+|branca= 1705-1713 Exèrcit Regular Austriacista br/ [[Exèrcit de Catalunya 1713-1714]]
+|arma= [[Infanteria]]
+|tipus= 
+|mida= [[Regiment]]br/1 [[batalló]] 
+|estructura=
+|coronel= 1705-1707 [[Manuel de Pinós i de Rocabertí|Manuel de Pinós]] br/ 1707-1710 [[Climent de Solanell]]br/ 1710-1711 [[Pere Muntaner i Ramón ]]†br/ 1711-1714 [[Francesc Sans Miquel i de Montrodon|Francesc Sans Miquel]]
+|oficials_destacats= Tinent Coronel [[Nicolau Aixandri]] br/ Sergent Major [[Joan Jansà]]
+|batalles= [[Guerra de Successió Espanyola]]br/ * [[Setge de Cardona (1711)]] br/ * [[Setge de Castellciutat]] br/ * [[Atac a la primera paral·lela]] br/ * [[Batalla del Baluard de Santa Clara]] br/* [[Batalla de l'11 de Setembre]]
+|patró= [[Sant Jordi]]
+|lema= 
+|divisa= vermell
+|}}
+
+==== Explicació dels paràmetres ==== 
+* '''nom_de_la_unitat_militar''' – és el nom de la unitat
+* '''imatge''' – imatge del símbol de la unitat
+* '''peu_de_foto''' – explicació de la imatge
+* '''data de Lleva''' – any en què fou creada
+* '''dissolució''' – any en què fou dissolta, si pertoca
+* '''pais''' – estat en quèfou creada. S'hi potafegir una icona de bandera
+* '''branca''' – branca de l'exèrcit al qual pertany
+* '''arma''' – (infanteria/cavalleria/etc)
+* '''tipus''' – (regular/irregular/almogàver)
+* '''mida''' – (divisió/regiment/escamot/etc)
+* '''coronel''' – nom del coronel
+* '''batalles''' – guerres i batalles en les que va lluitar
+* '''patró''' – Sant sota l'advocació del qual està la unitat
+* '''divisa''' – color distintiu de la unitat
+
+==== Detall dels paràmetres per crear aquesta plantilla ==== 
+div style=width:600px;background:#dddddd;border: 1px solid black;padding:0.5em  1em 0.5em 1empre
+{{Infotaula unitat militar
+|nom_de_la_unitat_militar= Regiment de la Generalitat de Catalunya
+|imatge= [[Fitxer:Flag of England.svg|200px]]
+|peu_de_foto= 
+|periode =
+|data de Lleva= desembre de [[1705]]
+|dissolució= [[13 de setembre]] de [[1714]]
+|pais= [[Catalunya]]
+br/([[Monarquia Hispànica]]) 
+|branca= 1705-1713 Exèrcit Regular Austriacista br/
+ [[Exèrcit de Catalunya 1713-1714]]
+|arma= [[Infanteria]]
+|tipus= 
+|mida= [[Regiment]]br/1 [[batalló]] 
+|estructura=
+|coronel= 1705-1707 [[Manuel de Pinós i de Rocabertí|Manuel de Pinós]]
+ br/ 1707-1710 [[Climent de Solanell]]br/
+ 1710-1711 [[Pere Muntaner i Ramón ]]†
+br/ 1711-1714 [[Francesc Sans Miquel i de Montrodon|Francesc Sans Miquel]]
+|oficials_destacats= Tinent Coronel [[Nicolau Aixandri]] 
+br/ Sergent Major [[Joan Jansà]]
+|batalles= [[Guerra de Successió Espanyola]]br/
+ * [[Setge de Cardona (1711)]]
+ br/ * [[Setge de Castellciutat (1713)]] br/ 
+* [[Atac a la primera paral·lela]]
+ br/ * [[Batalla del Baluard de Santa Clara]] 
+br/* [[Batalla de l'11 de Setembre]]
+|patró= [[Sant Jordi]]
+|lema= 
+|divisa= vermell
+|}}
+/pre/div
+
+== Vegeu també ==
+
+includeonly 
+
+{{ORDENA:{{PAGENAME}}}}
+[[Categoria:Infotaules militars|Unitat]]
+
+[[ar:قالب:وحدة عسكرية جوية]]
+[[cs:Šablona:Infobox vojenská jednotka]]
+[[de:Vorlage:Infobox Militärische Einheit]]
+[[en:Template:Infobox military unit]]
+[[ja:Template:軍隊資料]]
+[[ka:თარგი:ინფოდაფა სამხედრო ნაწილი]]
+[[pl:Szablon:Jednostka_wojskowa_infobox]]
+[[pt:Predefinição:Unidades Militares]]
+[[ro:Format:Casetă Unitate militară]]
+[[fi:Malline:Sotilasyksikkö]]
+[[zh:template:軍隊資料表]]
+[[Categoria:Plantilles sense TemplateData]]/includeonly</text>
+      <sha1>h44s7ql1tdttad5j51poejqaaionuur</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

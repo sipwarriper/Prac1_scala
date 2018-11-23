@@ -1,0 +1,783 @@
+<page>
+    <title>Viquipèdia:La taverna/Novetats/Arxius/2008/01</title>
+    <ns>4</ns>
+    <id>275466</id>
+    <revision>
+      <id>7513125</id>
+      <parentid>6384770</parentid>
+      <timestamp>2011-05-04T10:38:01Z</timestamp>
+      <contributor>
+        <username>Vriullop</username>
+        <id>1063</id>
+      </contributor>
+      <minor></minor>
+      <comment>Viquipèdia:La taverna/Arxius/Novetats/2008/01 mogut a Viquipèdia:La taverna/Novetats/Arxius/2008/01: reestructuració dels arxius de la taverna en subpàgines</comment>
+      <text>= '''''Tauler de gener''''' =
+
+{{Viquipèdia:La taverna/Novetats/Encapçalat}}noincludebr /{{Tauleta taverna}}/noinclude
+
+noinclude__TOC__/noinclude
+
+==Només manquen 5.000 articles per arribar als 100.000==
+
+Segurament s'arribarà als 100.000 articles abans d'acabar el mes de gener. Aquest és un dels objectius de Viquipèdia. Hauríem de preparar una nota de premsa. Ara el que passa és que a la Wanglesa posen el llistó per entrar a la primera divisió en els 250.000, un objectiu que sense cap dubte no trigarem en assolir. [[User:Plàcid Pérez Bru|Plàcid Pérez Bru]] ([[User Talk:Plàcid Pérez Bru|discussió]]) 13:48, 1 gen 2008 (CET)
+:I tant! Hauríem de prendre seriosament [[VP:100k]], començar a preparar una nota de premsa i pensar a qui l'enviarem. --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 11:27, 2 gen 2008 (CET)
+
+Ja només en falten uns 3.000 [[User:Plàcid Pérez Bru|Plàcid Pérez Bru]] ([[User Talk:Plàcid Pérez Bru|discussió]]) 01:27, 9 gen 2008 (CET)
+::Falten menys de 900 articles!! --[[User:Fotobcn|Fotobcn]] ([[User Talk:Fotobcn|discussió]]) 13:16, 17 gen 2008 (CET)
+
+==Traducció d'una plana a Meta==
+
+He fet la traducció de la plana de Meta:
+'''Donate-options/lang-code'''. És possible que contingui forts trets dialectals mallorquins, si qualcú ho vol mirar.
+----
+Donate
+|structure_template=Donate-options !-- don't translate this line --
+|return_url=wikimediafoundation.org/wiki/Donate-thanks/lang-code
+
+|click_instructions=Clicau qualsevol de les pestanyes a sota per triar un dels mètodes de pagament
+|cc_title=Targeta de crèdit
+|paypal_title=PayPal
+|moneybookers_title=Moneybookers
+|direct_deposit_title=Dipòsit directe
+|check_title=Xec (per correu)
+
+|cc_action=Donau usant les vosta targeta de crèdit
+|cc_instructions=Seleccionau una divisa a continuació
+|one_time_gift_header=One-time gift of...
+|default_amount=50
+|selected_currency=USD
+|public_comment_header=Comentari públic small(fins a 200 caràcters)/small
+|anonymity_question_url=http://donate.wikimedia.org/en/fundcore_browse
+|anonymity_question=Llista pública de donants
+|identify_me_option=Inclou el meu nom
+|anonymize_me_option=Inclou-me com a anònim
+|button_title=Donar!
+
+|paypal_action=Donau de forma segura en línia amb PayPal.
+|paypal_instructions=Seleccionau una divisa a sota
+
+|moneybookers_action=Donau de forma segura en línia amb Moneybookers.
+|moneybookers_instructions=MoneyBookers és una alternativa a PayPal.
+
+|direct_deposit_action=Dipositau diners directament en el nostre compte bancari.
+|direct_deposit_instructions=La Fundació Wikimedia té un compte que accepta transferències bancaries.
+|account_holder_header=Titular del Compte:
+|bank_header=Banc Internacional:
+|us_bank_header=Banc en els Estats Units:
+|account_name_header=El nom del compte és:
+|account_number_header=El nombre de Compte:
+|account_number_others=Nombre de compte al Banc Nacional Belga:
+|account_number_others_info=Per transferències des de Bèlgica o des de països que no usen el sistema IBAN
+|us_account_number_header=Nombres de compte:
+|domestic_wires_text=En els Estats Units
+|international_text=Internacional
+|swift_code_text=Xifra SWIFT
+
+|check_action=Donau per correu regular.
+|check_instructions=Si us palu feu un xec a favor de 'Wikimedia Foundation, Inc.' Per prevenir furts, si us plau no envieu diners en efectiu per correu.
+|mailing_address_header=La nostra adreça postal (per xecs)
+
+|language_code=ca
+|language_name=Català
+|title=Podeu ajudar Wikimediabra canviar el món
+
+skinschulenburg/skin
+==Traducció de la plana d'agraïments de Meta==
+
+He traduït al català la plana següent de Meta:
+
+
+
+Donate-thanks2
+|gift_intro=Enviau al vostres amics i a la vostra família un poc de Wikimedia per les festes! Descarregau i imprimiu un certificat amb les vostres donacions en nom de qualcú especial.
+|gift_donor=Donant:
+|gift_recipient=Receptor:
+|gift_submit=Descarregau el  PDF
+|thank-you='''''Gràcies'' per la vostra donació!'''
+|main-text='''Sense el suport de la gent com vos, Viquipèdia i els altres [[Our projects|projectes de Wikimedia]] no existirien. Gràcies pel vostre suport!'''
+
+Prest us serà enviat un rebut per correu electrònic. Si us plau imprimiu-lo per els vostres arxius.  Podeu fer una deducció d'aquesta donació  dels vostres impostos en els Estats Units. Vegeu [[deductibility of donations|deducció de les donacions]] per més detalls. !-- server down
+[http://fundraising.wikimedia.org/ongoing/index.php/{{CURRENTYEAR}}-{{CURRENTMONTH}}/ PayPal donations in {{CURRENTMONTHNAME}} {{CURRENTYEAR}} with links to daily public donor lists.] Prest es mostrarà un registre de la vostra donació a la pàgina d'avui. Les donacions també es poden veure a IRC a #wikimedia-donations on irc.freenode.net --
+
+Podeu saber més a [[Current events|fets actuals]]. El nostre projecte de coordinació, [[m:Main Page|Meta-Wiki]], també porta noves sobre els nostres projectes a [[m:Wikimedia News|notícies de Wikimedia]] i [[m:Goings-on|com avança]]. Si us plau [[contactau amb nosaltres]] si teniu alguna pregunta.
+
+Si us plau feu les preguntes relacionades amb les donacions directes a '''donate (at) wikimedia (dot) org''' 
+|other-ways-header=Altres fórmules en que podeu ajudar
+|other-ways-options=
+===Comprau gènere Viquipèdia/Wikimedia===
+Podeu ajudar a popularitzar Viquipèdia i Wikimedia comprant gènere per medi de la nostra botiga de Cafe Press. Un percentatge de cada compra va a la fundació Wikimedia. Visitau http://www.cafepress.com/Wikipedia per més detalls. 
+
+===Donau suport al freenode===
+Les persones que fan anar la Fundació Wikimedia i aquells que mantenen els nostres servidors i el Software MediaWiki usen sovint el [[w:en:Internet Relay Chat|Xat]] (IRC) per comunicar-se. El nostre servei s'anomena freenode. Vegeu http://freenode.net/pdpc_onetime.shtml per veure com podeu ajudar. 
+
+===Ajudau PlanetMath===
+Molts d'articles de matemàtiques de Viquipèdia han començat a partir de material de [[w:PlanetMath|PlanetMath]] (ambdós projectes comparteixen la mateixa llicència de contingut lliure). Aquest projecte, sigui com sigui, necessita fons addicionals per poder seguir. Les donacions que es fan a PlanetMath.org, Ltd. són deduïbles en els Estats Units. Vegeu http://aux.planetmath.org/doc/donate.html per més informació i per veure els enllaços per fer donacions. 
+|sig=-- The Wikimedia Team
+|OurProjects-template={{OurProjects-en}}
+|title=You can help Wikimediabrchange the world
+
+skinschulenburg/skin{{sense signar|Plàcid Pérez Bru|00:35, 2 gen 2008 (CET)}}
+
+== Donacions ==
+
+A la propaganda de les donacions, a part del botó Donar ara!, que ja fa molt que es va dir que hauria de ser Dóna ara!, m'he trobat avui amb aquesta frase:
+{{cita|Dona a Wikimedia per cap d'any! Avui un donant anònim va duplicar els donatius de fins a US$50,000.}}
+Algú sap son es pot arreglar? Caldria arreglar-ne les faltes ortogràfiques i sintàctiques, que quedi alguna cosa com: Dóna a Wikimedia per cap d'any! Avui un donant anònim ha duplicat els donatius fins a 50.000$.}}. Os sigui: Dona - Dóna ; va duplicar - ha duplicat ; de fins a - fins a ; US$50,000 - 50.000$.
+--[[Special:Contributions/83.36.162.127|83.36.162.127]] ([[User talk:83.36.162.127|discussió]]) 16:23, 1 gen 2008 (CET)
+:És a [[:m:MediaWiki:Centralnotice-subheading/ca]]. Ho he demanat a l'admin de meta que l'ha creat. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 20:07, 1 gen 2008 (CET)
+
+== Els bons articles de la viquipèdia ==
+
+Existeix alguna proposta per seleccionar i destacar bons articles de la viquipèdia, com ho tenen altres wiquipèdies (per ex., [[:en:Wikipedia:Good articles|l'anglesa]], [[:es:Wikipedia:Artículos buenos|l'espanyola]], i 22 wiquipèdies més)?--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 21:38, 1 gen 2008 (CET)
+:[[Viquipèdia:Articles de qualitat]]. [[User:Plàcid Pérez Bru|Plàcid Pérez Bru]] ([[User Talk:Plàcid Pérez Bru|discussió]]) 00:44, 2 gen 2008 (CET)
+::En refereixo a bons articles però que no són de qualitat. Els posen el segell [[Fitxer:Artículo bueno.svg|15px]]. --[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 00:48, 2 gen 2008 (CET)
+:::També hi ha viquipèdies que no tenen ni tan sols articles de qualitat. En un principi m'hi oposo perquè és tornar a liar-ho més. --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 11:23, 2 gen 2008 (CET)
+::::D'acord amb en SMP. Quan les qualificacions d'article de qualitat funcionin bé i hi sobrin participants, que no és ni de lluny el cas, serà un bon moment per posar-nos a qualificar els articles bons (a menys que algú proposi un sistema molt bo i molt àgil, que no sé veure com podria ser, i que no ho emboliqui més ni distregui dels articles de qualitat).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 11:36, 2 gen 2008 (CET)
+::::Lamento que penseu que haver de decidir si un article és molt bo o no tan bo sigui liar les coses. Crec que reflexionar sobre la qualitat dels articles és el camí cap a la qualitat de la viquipèdia. I ho hem de fer amb un mecanisme eficient que permeti que el procés es realitzi de la millor manera possible (i sense liar les coses). De la proposta d'AdQ en pot sortir una AdQ o un bon article, perquè es considera que no té el nivell suficient de qualitat. Una altra qüestió, com deixa entreveure en Pere, és que no tinguem capacitat per fer-ho per manca d'efectius.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 11:48, 2 gen 2008 (CET)
+:::::Precisament, liar les coses és per això: tenir els articles valorats no seria liar-ho; liar-ho seria començar a valorar els articles bons, quan amb els de qualitat, que són molt menys, encara ho tenim a mitges.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 12:44, 2 gen 2008 (CET)
+:No t'he entès massa bé... El que sé és que cal anar valorant tots els articles, com ja s'està fent amb els AdQ, tenint cura dels més importants (els 1000, els 100 fonamentals), i tenir una escala de valoració, com tenim uns paràmetres de valoració. Destacar els molt bons (AdQ); però destacar també els bons, que es podria fer si tinguéssim la categoria ([[Fitxer:Artículo bueno.svg|15px]]). I, progressivament, tindríem una llista de bons articles que haurien de ser la columna vertebral d'una viquipèdia de qualitat. Els bons articles són els que donaran el segell de qualitat.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 16:21, 2 gen 2008 (CET)
+Jo fins ara no havia dit res perquè tampoc tinc gaire clar el tema. La distinció de ''article bo'' crec que l'acabarem adoptant (comptem-hi per anar-hi pensant), perquè és útil i perquè s'està implantant a totes les viquipèdies, però de moment potser és precipitat plantejar-ho aquí, com diuen en Pere i en SMP: ja prou feina i poc seguiment tenen les votacions d'articles de qualitat. El que sí que podríem fer és aprofitar l'empenta que està tenint la Viquipèdia cap a la qualitat, que és el que en Peer proposava al principi. Segurament el prioritari és centrar-se en el projecte dels [[Viquipèdia:Els 100 articles fonamentals|100 articles fonamentals]], i anar fent una ullada a la [[Viquipèdia:Llista d'articles que totes les llengües haurien de tenir|llista dels 1000]], que n'hi ha molts que tenen dues ratlles (i alguns que encara ni tan sols tenim!). Un cop tots aquests siguin bons articles, ens podem proposar nous objectius. --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 18:41, 2 gen 2008 (CET)
+:Per cert, potser seria bona idea posar una icona per indicar l'estat a la llista dels 1000, però no tan complicat com en els articles fonamentals, perquè és molt més llarg, sinó una sola icona ({{objecció}}, {{nsnc}}, {{aprovació}} per exemple), simplement com a indicador per a la gent, per saber què cal ampliar. --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 18:45, 2 gen 2008 (CET)
+::D'acord amb indicar de manera orientativa l'estat de l'article, i desenvolupar els 100 i els 1000.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 20:07, 2 gen 2008 (CET)
+::Hola. Qui s'encarrega d'organitzar l'edició d'aquests articles. Jo vull col·laborar amb '''Energia''', '''Nombre'''.--[[User:Mitus|Mitus]] 1:00, 8 gen 2008
+::: Simplement Mitus, has de posar-te mans a la obra i a treballar en ells, i el Peer o fins i tot jo, ja actualitzarem afegint que estàs treballant-hi. Si tens algun dubte ja saps pregunta. Sobre la qüestió de dalt. Crec que el tall orientatiu estarà bé! Això ho pot fer qualsevol persona, que no es facil, jo si voleu en faig uns quants, però s'ha de valorar l'expansió de l'article segons la possibilitat d'expansió del mateix.--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 09:59, 8 gen 2008 (CET)
+::::Jo estic d’acord en que es creï aquesta qualificació de ‘’Bons articles’, ja que hi han articles que són molt bons però que no arriben a ser articles de qualitat. Les meves raons les dono a la [[Discussió: Zant]]. --[[User:Zant|Zant]] ([[User Talk:Zant|discussió]]) 15:59, 9 gen 2008 (CET)
+Em sembla que seria factible afegir a cada article quelcom similar a una nota, o potser una qualificació (de manera que per a pertànyer a una certa categoria s'hagin de complir uns requisits mínims). Així podríem classificar ''tots'' els articles. No estic parlant d'una cosa tan gran com els articles de qualitat, amb tot un grup de persones al darrere: tan sols crear categories, i puntuar els articles: que vaig a tal article i veig com és, li poso tal puntuació editant (que sigui alguna cosa ràpida) i el faig anar a tal categoria. Personalment penso que ens donaria una idea molt i molt valuosa de la qualitat general dels articles de la viquipèdia, i resultaria molt pràctic després per a propostes d'ampliació i millora d'articles -o d'esborrament. Bàsicament es tindria una sèrie de llistes, i podríem veure què són articles i què no realment.--[[User:Gerardpc|Gerard]] ([[User Talk:Gerardpc|discussió]]) 23:30, 9 gen 2008 (CET)
+
+== La qualitat en els articles ==
+
+Està finalitzant un procés de presa de decisions sobre els articles de qualitat de la viquipèdia; felicit a Meldor per com ha portat el procès i a tots els que han col·laborat. Ha ajudat a reflexionar i a aclarir alguns aspectes sobre els articles de qualitat de la viquipèdia i, anant més enllà, crec que caldria donar continuïtat a la iniciativa reconstruint el sistema que configura la qualitat de la viquipèdia. Caldria revisar les fases d'elaboració d'un article:
+# S'elaboren articles amb uns mínims de qualitat. Què és un esborrany? Quins són els mínims per considerar un article com a prou digne, que compleix amb uns mínims de qualitat (vegeu el debat a la taverna [[:Viquipèdia:La taverna#Esborranys Jolle|Esborranys Jolle]]?
+# Un cop assolit un bon nivell, se'n proposa la seva [[:Viquipèdia:Avaluació d'articles|avaluació]]
+# De l'avaluació n'ha de sortir algun tipus de valoració. Caldria determinar el seu nivell de qualitat (proposar-lo a [[:Viquipèdia:Proposta de distinció d'alta qualitat d'un article|AdQ]], a [[Fitxer:Artículo bueno.svg|15px]] –caldria desenvolupar la iniciativa?–, etc.) i que quedin clares les manques que presenta l'article. En aquest sentit els 5 paràmetres que s'han aprovat per determinar la qualitat d'un article són un pas endavant.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 09:53, 2 gen 2008 (CET)
+:Gràcies ^^ Jo crec que un cop feta la reforma dels articles de qualitat, ara toca ficar-se seriosament amb l'avaluació. A l'anglesa tenen iniciatives interessants, del tipus [[:en:Wikipedia:Academic peer review|Academic peer review]], que implicarien el ''món exterior'' amb la Viquipèdia, però com sempre el problema és el nombre d'usuaris actius que tenim. Potser no cal reformar el procés d'avaluació, sinó que n'hi ha prou amb que ens el prenguem més seriosament, no ho sé; pel que fa als articles bons, he donat la meva opinió a dalt. De totes maneres, insisteixo en un punt: per a mi (i suposo que per a d'altres usuaris), el camí que hem de seguir és cap a la qualitat, més que cap al nombre d'articles, i per a aconseguir-ho de moment tenim projectes en marxa que estaria bé que tinguessin més implicació per part de tots -molta gent que arriba no els deu conèixer, perquè tampoc se'n fa gaire publicitat-. --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 18:57, 2 gen 2008 (CET)
+: Ara que penso. No es podria intentar aconseguir e-mail d'alguns catedràtics o especialistes en algun tema, i seguin el procés que van fer servir els de la revista nature en el seu estudi sobre la qualitat de la viquipèdia anglesa, nosaltres els podriem enviar els nostres millors articles. I que els revisessin aquells experts, així els podriem donar un grau superior de qualitat a l'article. Que us sembla? Es difícil però es pot intentar.--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 18:46, 7 gen 2008 (CET)
+::Perquè això tingui algun valor els ho hauria d'enviar algú independent (idealment un periodista o un investigador solvent). No ho podem fer nosaltres; en tot cas, potser algú de nosaltres ho podria fer i publicar a títol individual en un altre lloc.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 20:23, 7 gen 2008 (CET)
+::: però llavors acabríem en un procés similar al Citizndium, on uns experts validen els articles. Crec que aquí la inèrcia és una altra ben diferent --[[User:Barcelona|barcelona]] ([[User Talk:Barcelona|discussió]]) 20:26, 7 gen 2008 (CET)
+:::: La idea d'en [[Usuari:KRLS|KRLS]] és lloable, però estic amb na [[User:Barcelona|barcelona]] que això desvirtuaria l'esperit en que es sustenta la Viquipedia i les altres Wikipedies. Crec que l'estratègia passa per ser pacients i anar introduint mica en mica la Viqui dins les aules en les nostres universitats amb projectes semblants a [[Viquiprojecte:Col·laboració amb el Departament d'Educació de la Generalitat de Catalunya]]. Aquest darrer semestre he tingut l'oportunitat de fer cursos de formació a professors d'universitat, i la immensa majoria desconeixien que és un wiki. Per contra, gairebé tothom coneixia la wikipedia, però... com quelcom a rebutjar!. Estic totalment convençut que la situació es revertirà i que mica en mica es coneixerà que és i que representa la Viquipèdia i fins a quin punt poden ser de qualitat els articles que incorpora. Alguna idea per a encetar un Viquiprojecte amb el DEGC a nivell universitari??? --[[User:Simonjoan|pastilletes]] ([[User Talk:Simonjoan|discussió]]) 21:45, 7 gen 2008 (CET)
+
+Alguns articles tenen la identificació d'esborrany, però si són sobre temes molt tècnics, s'hauria de llevar el cartellet, doncs els articles molt tècnics sovint no poden tenir molta extensió. [[User:Plàcid Pérez Bru|Plàcid Pérez Bru]] ([[User Talk:Plàcid Pérez Bru|discussió]]) 01:25, 9 gen 2008 (CET)
+
+== Donacions a la Fundació Wikimedia ==
+
+Us ho dic per si heu amagat el missatge de les donacions que apareix a dalt de tot de la pantalla. Al contrari del que pugui dir la versió en català (que està en passat), totes les donacions que feu avui seran duplicades per un donant anònim. Per tant, si pensàveu posar el vostre gra de sorra i tornar una part de tot el que la Wikipedia us ha donat, ara és el millor moment per fer-ho, ja que les donacions tindran el doble de valor.
+
+Us ho deia només per si de cas heu amagat el missatge i no ho podeu veure.
+
+PS: Que algú canviï la versió en català del missatge, que està malament. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 22:46, 3 gen 2008 (CET)
+:Jo ja fa dos dies que a la discussió vaig donar-los una traducció millor, però han passat de mi completament: [[:m:MediaWiki talk:Centralnotice-subheading/ca]] --[[Special:Contributions/83.36.162.127|83.36.162.127]] ([[User talk:83.36.162.127|discussió]]) 01:11, 4 gen 2008 (CET)
+::Acabe de fer-ho jo també, a veure si tenim sort... span style=color:#002BB8; font-weight:bold;–Pasqual/span · [[Usuari Discussió:Pasqual|smalldiscussió/small]] 01:31, 4 gen 2008 (CET)
+:::{{fet}} potser no es refien dels anònims... span style=color:#002BB8; font-weight:bold;–Pasqual/span · [[Usuari Discussió:Pasqual|smalldiscussió/small]] 19:40, 4 gen 2008 (CET)
+
+== Proposta de fusionar [[xarxa de carreteres europees]] i [[rutes europees]] ==
+
+Benvolguts col·legues,
+
+Em sembla que aquests dos articles ([[xarxa de carreteres europees]] i [[rutes europees]]) tracten la mateixa cosa. Hi ha també una confusió de terminologia: s'hauria de triar entre ruta i carretera i fer redirreccions. En llegir el diccionari GREC [http://ec.grec.net/lexicx.jsp?GECART=0027110 carretera] penso que el mot ''carretera'' és preferible (als autopistes catalanes es veu la indicació «xarxa de bcarreteres/b de l'estat»).
+
+Altra confusió, u utilitza [[E15]] en la nomenclatura, altre [[E-15]] amb guionet: penso preferible que triem una versió estàndard. Caldria també trobar una solució que evita la confusió amb els números ''E'' dels aditius alimentaris.
+
+Finalment, la plantilla que s'utilitza al víqui [[rutes europees]] és incompleta, n'hi ha molt més de carreteres.
+Vetaquí les meves qüestions:
+#fusionar?
+#a quina pàgina he d'anar per a proposar una fusió?
+#E-5 o E5? La majoria dels viquis en altres llengües no utilitzen pas el guionet.
+#com puc completar la plantilla (o transferir una plantilla d'una altra viquipèdia més completa)?  Abans de fer-ho, s'ha de decidir guionet o no (punt precedent).
+#carretera o ruta?
+
+
+Vulc fer el treball de la fusió, però com es tracta d'una matèria que no conec gaire, podria ser que els autors dels dos articles preferissin fer lo els/elles mateixos/mateixes.--[[User:Flamenc|Flamenc]] ([[User Talk:Flamenc|discussió]]) 15:40, 5 gen 2008 (CET)
+: no sóc autora de cap d'aquests articles però tens raó, s'haurien de fusionar i decidir els detalls qye comentes a la discussió corresponent (les E-9 etc sempre les he vist amb guionet, s'hauria de buscar el nom oficial) --[[User:Barcelona|barcelona]] ([[User Talk:Barcelona|discussió]]) 16:43, 7 gen 2008 (CET)
+
+== Checkusers ==
+
+S'ha obert el termini per la presentació de candidatures a [[Viquipèdia:Presa de decisions/2008/Checkusers inicials]]. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 18:23, 7 gen 2008 (CET)
+:Queda obert el termini de votacions per aprovar i escollir dos usuaris entre el candidats: {{u|Pasqual}}, {{u|SMP}}, {{u|Kippelboy}} i {{u|Góngora}}.--[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 09:19, 18 gen 2008 (CET)
+
+== Presa de decisions ==
+
+La comunitat del Viccionari em cregut convenient avisar a tots els membres de la comunitat viquipedista que s'ha obert l'apartat [[wikt:Viccionari:Presa de decisions|Viccionari:Presa de decisions]], on es decidiran les polítiques del Viccionari. Com encara som una comunitat petita s'estan decidint diverses questions per poder resoldre problemes que ens hem trobat a mesura que ha crescut aquest projecte, per això creiem que si us animeu podrieu ajudar a decidir a aquestes polítiques de forma constructiva. A més serà permés el dret a vot a membres més experimentats de la Viquipèdia per a fer una votacions el més objectives possibles. Així que si us animeu a participar en la primera votació que s'obrira el dia 8 d'aquest mes : [[wikt:Viccionari:Presa de decisions/2008/Importar|Viccionari:Presa de decisions/2008/Importar]]. Aquí serà una votació per a veure si Bugzilla ens activa el botó importar, per a facilitar el procés de transport d'articles de la Viquipèdia ([[Plantilla:Moure al Viccionari]]) al Viccionari.--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 20:04, 7 gen 2008 (CET)
+
+== Consens sobre els noms de persones ==
+
+Salut! No se si aquest tema ha d'anar aquí o al de presa de decissions. Però hi ha una contradicció en la nostra enciclopèdia, i crec que hauriem d'arribar a un concens perquè no queda del tot clar com s'han d'anomenar les persones no angleses en el seu article prnicipal.
+
+Segons el llibre d'estil, es proposa usar el seu nom complet
+
+http://ca.wikipedia.org/wiki/Viquip%C3%A8dia:Anomenar_p%C3%A0gines
+
+Tanmateix no acaba de quedar clar en els noms no catalans, en teniu un exemple en l'article:
+
+On el seu nom complet és Richard Matthew Stallman l'article principal és el seu nom complet Richard Matthew Stallman
+http://ca.wikipedia.org/wiki/Richard_Matthew_Stallman
+
+Tanmateix en el cas de Neil Alden Armstrong, l'article principal és Neil Armstrong
+http://ca.wikipedia.org/wiki/Neil_Armstrong
+
+Tambè hi ha el cas de Paul Percy Harris, l'article principal és  Paul P. Harris
+http://ca.wikipedia.org/wiki/Paul_P._Harris
+
+Què en penseu? Què hauriem de decidir? Personalment m'inclino a escriure sempre el nom complet, ja que és el nom que realment tenen i és com hauria sortit al seu passaport.--[[User:Borgg|Borgg]] ([[User Talk:Borgg|discussió]]) 21:11, 11 gen 2008 (CET)
+:La norma és escriure el nom complet. Els articles que no estan així, i que són moltíssims, s'haurien d'arreglar. No cal una presa de decisió per aplicar la norma; en tot cas, caldria si es pretengués canviar-la per abreviar els noms.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 22:10, 11 gen 2008 (CET)
+:Complementàriament a la resposta del Pere, recordar la utilitat de crear redireccions amb el nom curt, que sovint és el més conegut o freqüent, per a que les futures cerques siguin més exitoses.--[[User:Amadalvarez|amador]] ([[User Talk:Amadalvarez|discussió]]) 08:19, 12 gen 2008 (CET)
+:Moltes gràcies. Sempre que vegi una pàgina d'aquestes característiques procediré a escriure'n el nom complert i a fer les redireccions pertinents amb el nom curt. Fins aviat!--[[User:Borgg|Borgg]] ([[User Talk:Borgg|discussió]]) 16:03, 18 gen 2008 (CET)
+
+== Revisió del que enllaça a {{tl|Proposta AdQ}} ==
+
+Si us hi fixeu i mireu el que enllaça a proposta AdQ veureu que hi ha un munt d'article amb aquella plantilla que no l'haurien de porta o com a mínim enllaçar-ho a la pàgina on es voten els articles de qualitat. Jo aquest problema ja me l'he trobat a [[Nebulosa de cranc]] que enlloc de porta la plantilla com s'ha de posar, han copiat tot la plantilla afegint el que t'apareix quan apretes edita. I això feia ja 3 mesos que s'havia estat posat, i simplement l'he enllaçat. I apartir d'aquí he mirat el que enllaçavaa aquella plantilla, i he vist un munt d'aritcles amb la palntilla i després miro el propostas i n'he vist un munt menys. Hauriem de començar a enllaçar els articles i votar, ja sigui a faovr o entcotnra de la seva distinció. A més aprofito a demanar que es começi a aplicar la nova política dels articles de qualitat. --[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 23:50, 12 gen 2008 (CET)
+:Ja he creat les plantilles, ja es pot votar amb el nou sistema. Quan pugui miraré de crear la pàgina per escollir el manteniment d'AdQ, que és l'única cosa que falta (crec). --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 01:51, 13 gen 2008 (CET)
+::Per cert, si duien malament la plantilla i no es van votar, és probable que no es presentessin a avaluació. El procediment habitual (com ha recordat un anònim a la votació de la [[Nebulosa del Cranc]]), és que aquests articles passin primer per avaluació. --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 01:53, 13 gen 2008 (CET)
+:Si vas a la pàgina de discussió dels AdQ (per ex., [[Viquipèdia Discussió:Proposta de distinció d'alta qualitat d'un article/Natura]]) l'enllaç de la part superior et redirigeix cap a [[Viquipèdia Discussió:Proposta de distinció d'alta qualitat d'un article]] i no cap la pàgina de votació de l'article. No sé on es canvia.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 09:46, 13 gen 2008 (CET)
+::Mmm. No sé si acaba de ser el que vols, però si vas a la [[Viquipèdia Discussió:Proposta de distinció d'alta qualitat d'un article/Natura|pàgina de discussió]] que has dit, pots apretar més amunt, on posa ''pàgina de projecte'', i aquesta sí que et redirigeix a [[Viquipèdia:Proposta de distinció d'alta qualitat d'un article/Natura|la pàgina de votacions]]. Suposo que és una mica embolicat pel fet de voler tenir les votacions en una pàgina a part, i mantenir-les al seu torn totes sota ''Proposta de distinció d'alta qualitat d'un article''. --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 09:56, 13 gen 2008 (CET)
+
+== Infotaules comarques Catalunya del Nord ==
+
+Igual que s'ha fet amb les comarques catalanes i valencianes, trobo que s'hauria de fer una plantilla (o utilitzar-hi la sudcatalana) per a cadascuna de les comarques de la Catalunya del Nord. Un exemple seria [http://ca.wikipedia.org/wiki/Plantilla:Taula:Alt_Empord%C3%A0 aquest]. 
+Copiaria aquest model de no ser perquè a la visualització apareix com a font Municat, enlloc de l'INSEE. Si algú sap com fer plantilles podria canviar açò i jo mateix m'encarregaria d'afegir les plantilles a cada comarca.--[[User:Geògraf català|Geògraf català]] ([[User Talk:Geògraf català|discussió]]) 15:30, 13 gen 2008 (CET)
+:Font Municat surt a la plantilla {{tl|fientcat}}. S'hauria de substituir per una altra o directament code|}/code si no s'hi vol posar res. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 16:54, 13 gen 2008 (CET)
+
+=== Plantilles comarcals i municipals unitàries ===
+
+Quin sentit té fer plantilles diferents per a cadascun dels territoris dels Països Catalans? Per quins set sous no fem plantilles unitàries? És que a l'hora d'aprofitar les plantilles de la CAC per la Catalunya Nord, em trobo amb incompatibilitats com la inclusió de la font a la plantilla. --[[User:Geògraf català|Geògraf català]] ([[User Talk:Geògraf català|discussió]]) 15:41, 13 gen 2008 (CET)
+:Pots veure el [[Viquiprojecte:Unificació de plantilles]]. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 16:56, 13 gen 2008 (CET)
+::Ho he solucionat modificant la plantilla {{tl|fientcat}} per incorporar l'argument de la font, que per defecte serà MuniCat, per evitar transtocar les taules que no el tenen.
+::Sempre es pot fer de manera més genèrica per a qualsevol comarca o entitat de nivell administratiu semblant, afegint més dades, tot depén de les necessitats. span style=color:#002BB8; font-weight:bold;–Pasqual/span · [[Usuari Discussió:Pasqual|smalldiscussió/small]] 17:35, 13 gen 2008 (CET)
+::El problema que tinc és que no sé fer plantilles. On s'explica com s'han de fer?--[[User:Geògraf català|Geògraf català]] ([[User Talk:Geògraf català|discussió]]) 18:18, 19 gen 2008 (CET)
+
+== Qualitat dels articles: evitar els esborranys ==
+
+Un dels grans problemes en la qualitat de la viquipèdia és que la gent crea articles que són esbossos o, de vegades, ni això (crear un esborrany amb dues ratlles i deixar-lo mal acabat). Caldria desenvolupar una política en la que es deixés ben clar que: br1. No es pot iniciar un article si no hi ha el compromís de deixar-lo amb uns mínims exigibles (llargada, categoria, interwiquis (habitualment), referències, enllaços externs, alguna imatge (si és el cas), etc. br2. Abans de fer un article, passar per una etapa en la que cal editar-ne d'altres perquè el nouvingut es familiaritzi amb les característiques bàsiques de la viquipèdia (nom, negreta del nom a l'inici, enllaços, seccions, etc.). br3. Deixar clar que fer un article és un acte públic i per respecte als lectors, i per la qualitat de l'obra, cal deixar-lo presentable. Cal exigir més rigor. --[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 18:18, 13 gen 2008 (CET)
+: crec que no podem obligar a ningú a res, això és un wiki obert i crec que tots hem enganxat des de proves i altres. Jo mateixa faig esborranys, perquè sé que quan veus un article petit a vegades tens ganes d'ampliar-lo. Sí que cal demanar els mínims de format, com enllaços interns, que sigui més que una definició etc però això es posa en els recordatoris als novells i s'esborren els minimini que no segueixen cap patró. Des que sóc per aquí la cosa ha canviat molt i a millor, ja anirem polint. --[[User:Barcelona|barcelona]] ([[User Talk:Barcelona|discussió]]) 21:59, 14 gen 2008 (CET)
+::Com a molt podem recomanar als nous que passin per [[:Categoria:Viquipèdia:Articles a millorar l'ortografia]] o [[:Categoria:Viquipèdia:Articles a millorar la traducció]] i arreglin unes quantes faltes per practicar i veure com va, però no crec que haguem de fer més. De fet, sembla que una tendència força normal de l'evolució dels viquipedistes és començar escrivint articles quan som nous, continuar ampliant els articles dels altres i amb els mesos acabar fent manteniment (hi ha qui el primer que fa com a viquipedista és muntar un viquiprojecte, i de vegades funciona i tot). En tot cas, pots proposar per esborrar els articles que trobis que no es poden quedar, però recordant [[Viquipèdia:no mossegueu els nous]] i mirant primer d'aconsellar-los a la seva pàgina de discussió o a la discussió de l'article.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 00:22, 15 gen 2008 (CET)
+:::De la mateixa manera que posem condicions abans de valorar, votar, etc., es podria pensar en posar unes mínimes condicions (mínimes!) d'haver editat 5 o 10 articles, per a fer pràctiques. No s'ha de pensar en mecanismes negatius (de prohibicions) sinó de mecanismes en que s'orienti als nouvinguts en el complex món de la viquipèdia. Una cosa és guardar un article nou de quatre ratlles i una altra és saber tot el que cal saber, que és una pèl més complex. Crec que una part de l'energia que es dedica al manteniment s'alleugeria (tot i que la feinada seguirà sent molt gran).--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 09:03, 15 gen 2008 (CET)
+::::Fa poc temps que estic a la Viquipèdia, i un dels temes que m'ha preocupat des del principi és la qualitat dels articles que estic escrivint. Degut a la meva inexperiència, he comès errors, alguns dels quals ja he corregit. M'ha estat molt útil l'ajuda que he rebut per part de viquipedistes amb més experiència.brPer millorar la qualitat dels articles penso que es podria treballar en diverses direccions (desconec si ja s'hi treballa i si és possible):
+::::* crear una plantilla, per afegir en els articles que siguin esbossos. Em sembla que en alguns dels meus articles, ja me n'hi he trobat alguna... així que potser ja existeix. No sé si seria possible crear una llista automàtica d'aquests articles.br
+::::* que alguns viquipedistes amb experiència facin de tutors als nous. No crec que es tracti tant de refer els articles amb incorreccions, sinó que la gent nova entengui com cal elaborar els articles. També estaria bé fer alguna mena de curs online
+::::* crear alguna explicació i plantilla simple per a nous usuaris. Penso que hi ha molta informació, però la veritat és que de vegades m'hi he perdut!
+::::Bé, aquesta és la primera vegada que dono la meva opinió a la Taverna... Permeteu-me aquesta confiança i disculpeu si el que he dit ja ho ha dit altra gent, o ja s'està fent. Gràcies a tots, --[[User:Fotobcn|Fotobcn]] ([[User Talk:Fotobcn|discussió]]) 13:15, 17 gen 2008 (CET)
+:Estic d'acord en que hi ha molta informació i jo mateix que porto uns mesos, se m'escapen informacions o no sé on trobar determinats enllaços. En aquest cas pot estar bé una pàgina senzilla, no de normes d'edició, que ja existeix, sinó amb 3 o 4 models d'articles que serveixin de referència, comentant el més destacable (la negreta a l'inici, les categories, els interwiquis, etc). Per exemple, una article sense cap plantilla, un de desambiguació, un amb plantilla a la dreta... Crec que imitant bons models ja es facilitarien les coses. També es podria posar una llista de tutors, com proposes perquè tot i que és veritat que tothom està força disposat a ajudar, el nouvingut no ho sap. Potser amb un apartat de Si tens dubtes, pots fer consultes a.....--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 20:00, 17 gen 2008 (CET)
+
+== Categories catalanoparlants ==
+
+A [[Viquipèdia:Presa de decisions/2007/Categorització de balears, catalans i valencians]] s'estan discutint propostes per la categorització dels personatges dels territoris d'àmbit català. Està obert un segon sondeig per trobar una solució de consens. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 17:57, 14 gen 2008 (CET)
+
+== Viquiconcurs ==
+
+Ja s'han acabat les votacions del [[Viquipèdia:Viquiconcurs/edició 3|tercer viquiconcurs]]! A falta d'un viquipedista que ha abandonat la viquipèdia al setembre, les votacions es donaran per tancades en breu. Si voleu partipar en una nova edició visiteu el [[Viquipèdia:Viquiconcurs/edició 4 (sondeig)|'''sondeig''']] que s'està realitzant per preparar-la. Ara que existeix un cert interès convé donar suport a aquest tipus d'iniciativa que fomenten la participació i la qualitat dels articles. Animeu-vos-hi!!--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 13:51, 15 gen 2008 (CET)
+
+== els 100.000 ==
+
+Estem a punt d'arribar als 100.000 i aquesta és la feina que queda per fer:
+#Redactar una nota de premsa. Si fa falta s'''adapta'' de les anteriors: [[Viquipèdia:Deu mil articles en català|10k]], [[Viquipèdia:Vint mil articles en català|20k]], [[Viquipèdia:Cinquanta mil articles en català|50k]].
+#Fer una llista dels llocs on s'enviarà. La que es va fer servir als [[VP:50k|50.000]] pot ser una guia però caldrà actualitzar moltes coses com el telenoticies.cat, i afegir-hi nous mitjans com els webs a l'estil de [[la Tafanera]]. També cal veure com es comunica la notícia als de la Generalitat de Catalunya, potser se n'ocupa la Barcelona.
+#Quan finalment hi arribem enviar-ho manualment a tot arreu i posar la viquibola que s'esculli.
+
+Ah, i quan hi estiguem a punt d'arribar, si us plau, aquells que feu tants articles intenteu reservar-vos algun d'interessant per al 100.000. Tampoc no fa falta que sigui [[diputat]] com el 20.000 però és millor fer per exemple «Regions de Dinamarca» (o Organització territorial de Dinamarca) que una planta. --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 18:18, 15 gen 2008 (CET)
+::: Ni somhiar-ho. Ja estava vigilant i ara em paro, que no vull sortir de cap manera al diari, ni amb el login. Reprendre la feina quan haguem passat de cent mil, i ara estaré un ratet arranjant categories.--[[User:Jolle|joc]] ([[User Talk:Jolle|discussió]]) 21:15, 18 gen 2008 (CET)
+:Tenim el [[Viquiprojecte:Fita dels cent milers d'articles]] abandonat. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 18:32, 15 gen 2008 (CET)
+::L'article 100.000 serà el que sigui (probablement, el que estigui fent en Jolle en aquell moment, com la majoria de les fites anteriors), però si hagués de triar, prefereixo una planta autòctona i si pot ser comú, que les regions de Dinamarca.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 19:11, 15 gen 2008 (CET)
+:::Ja, però és que últimament els articles biològics que es creen són del tipus [[Pleurodema guayapae]]. Per cert, ningú no s'anima?--[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 13:35, 17 gen 2008 (CET)
+::::D'acord que no és un article 100.000 gaire lluït (com tampoc seria un bon article 99.730 ni 158.347, per exemple). Com a consol ens queda pensar que fa un any els articles de biologia que s'estaven creant eren de l'estil d'[[Ehrharta barbinodis]], que en comptes de tenir poca informació no redundant no en tenien cap (i el mal és que des d'aleshores no han millorat).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 13:41, 17 gen 2008 (CET)
+:::::He fet un esbós de nota de premsa a [[Viquiprojecte:Fita dels cent milers d'articles/Nota de premsa]] que podeu editar amb tota llibertat. Quant a l'article 100.000, reitero el que vaig dir: a partir de 99.900 articles hauríem de fer una treva i abstenir-nos de crear articles com [[Zeuctherium]], [[Filip (cap de la cavalleria)]] o la cèlebre [[Pleurodema guayapae]] fins que haguem sobrepassat la xifra màgica. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 14:14, 17 gen 2008 (CET)
+::::::Jo el trobo molt bé, tot i que les dues primeres frases no m'acaben de fer el pes. Moltes gràcies, Leptictidium. Efectivament jo em referia a alguna espècie de treva i que la gent es reservi els articles més ampliables per aquell moment. Bé, ara caldria pensar qui i a qui s'enviarà la nota. Sabeu si des de la [[Viquipèdia:Llistes de correu|llista de correu]] es pot enviar un missatge així? D'aquesta manera l'adreça es veu més «corporativa». --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 15:03, 17 gen 2008 (CET)
+: Estaría bé posar el gràfic que hi ha a la fotogràfia sobre el nostre creiexmenet. A la nota de premsa haurei mde posar uqe som les 16 + gran y som tant sols la 80 llengua + parlada al món segons no se quins esutdi que sortir fa un temps on en l'article [[català]] el podem trobar. A m'ha encantat l'últim pàrraf. També s'ah de fer referència a la col·laboració de la generalitat en la marató que ja finalitza.
+
+Després perquè ho hauriem d'enviar a mitjans de tot l'àmbit catalanoparlant, perquè grna aprt dels  mitjans on els enviarem la notícia seràn d'àmbit habitualment de catlaunya, però no s'ha d'enviar a canal 9 o canal balear?? canal 9 no crec que en parli però el canal balear potser si. --[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 16:49, 17 gen 2008 (CET)
+:He afegit alguns enllaços i categoritzat la nota. No penseu que caldria rebaixar-ne una mica el to elogiós? És evident que no es pot reprimir una certa satisfacció, però entre poc i massa! És una opinió! Respecte al que diu en KRLS, crec que hauria d'existir una llista de mitjans per enviar notes de premsa, si no la tenim caldria crear-la URGENTMENT!!!!--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 18:26, 17 gen 2008 (CET)
+::Hi he afegit un paràgraf fent referència a les dues coses que has dit. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 17:35, 17 gen 2008 (CET)
+:::He començat [[Viquiprojecte:Fita dels cent milers d'articles/Mitjans|la llista]] que comentava en {{u|Jey}}. Potser s'hauria de passar a format taula. A veure si algú s'hi anima! '''font color=green[[Usuari:Paucabot|Pau Cabot]]/font''' · [[Usuari Discussió:Paucabot|Discussió]] 19:45, 17 gen 2008 (CET)
+:::: El Departament d'Educació està al cas, de totes maneres enviaré un missatge, ells ja sabran si han de parlar amb altres de la Gene --[[User:Barcelona|barcelona]] ([[User Talk:Barcelona|discussió]]) 22:09, 17 gen 2008 (CET)
+
+== Un bot ortogràfic, si us plau ==
+
+Ja ho vaig demanar fa molt de temps i se'm va ignorar, però ara que tenim gairebé el doble d'articles que en el moment de la meva última petició, trobo que és més necessari que mai tenir un '''bot ortogràfic'''.
+
+A mesura que augmenta el nombre de pàgines, esdevé més difícil esmenar a mà incorreccions comunes, i la feina seria més adient per a un bot ortogràfic que podria netejar totes les pàgines en qüestió d'hores. Per això demano que es creï un bot ortogràfic; si pogués fer-ho, ja ho hauria fet jo mateix. Aquí deixo una llista d'exemples d'errors molt comuns que traurien un gran benefici d'un bot com aquest:
+
+*tamany == castellanisme que hauria de ser canviat a '''mida'''
+*romangut == participi incorrecte del verb romandre, hauria de canviar-se per '''romàs'''
+*haber == corrupció (incomprensible!) del verb '''haver'''
+*ningun == castellanisme que hauria de ser canviat a '''cap'''
+*no o == equivocació que hauria de canviar a '''no ho'''
+*verb transitiu + preposició a == castellanisme, en català els CD no porten preposició
+*noticia i altres paraules planes acabades en ia == cal posar-hi accent
+
+I la llista podria continuar... Caldria anar amb compte perquè el bot no esmenés coses que no cal esmenar (frases com ara el Joan va '''veure a la llunyania''' un porc senglar, que són casos especials), però si es va amb compte podria fer-se una bona feina.
+
+Aquest bot també podria servir per corregir errors de mecanografia, com ara:
+
+*que que == repetició de paraules
+*genticili
+*pelq ue / desq ue / jaq ue == fusió de dues paraules
+*siugi == sigui
+*abre == arbre
+*sorbe == sobre
+*desde == des de
+
+Hi ha algú que tingui temps de crear un bot ortogràfic (o de millorar-lo si ja existeix)?
+
+Gràcies. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 13:39, 16 gen 2008 (CET)
+:Si t'hi vols posar, crec que això es pot fer amb [[Viquipèdia:AutoWikiBrowser|AutoWikiBrowser]]. De fet, a [[VP:AWB/T]] tens més correccions d'aquestes per fer (diria que abans algú les feia de tant en tant).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 13:51, 16 gen 2008 (CET)
+::Sí, el problema és que em sembla molt més pràctic que ho faci un bot ràpidament que no pas fer perdre el temps d'un editor que podria fer tasques més interessants. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 15:47, 16 gen 2008 (CET)
+:::L'AWB és una mena de semirobot. Aquesta tasca de correcció no es pot fer de manera totalment automàtica perquè es corre el risc de corregir el que no toca. Per exemple, si li dius a un bot que faci sense vigilància els canvis que has proposat, canviarà abre, sorbe i desde a tot arreu sense adonar-se que pot estar corregint una cita en castellà, corregirà els no o en frases com potser no o potser sí, i no distingirà noticia (notícia mal escrit) de noticia (3a persona del present d'indicatiu del verb noticiar). Per això cal que les correccions es facin automàticament però amb supervisió.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 16:03, 16 gen 2008 (CET)
+::::Jo tinc un bot amb el que he fet canvis automàtics, però només molt pocs i per coses que eren evidentment errors (del tipus l.l-l·l). No m'he atrevit a fer més canvis perquè és una cosa que no es veu gaire clara. Si hi ha algun canvi massiu que es vegi clar que es pot canviar sense risc d'error, jo m'ofereixo a fer els canvis automàtics. --[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 18:58, 17 gen 2008 (CET)
+
+== subratllat als enllaços ==
+
+És la nostra versió de programari wiki diferent de la resta d'enciclopèdies mitjanament grans? O el fet que els enllaços estiguin subratllats és decisió nostra?
+
+Pregunto perquè la veritat, sempre he tingut la sensació que la cawiki era més lletjota, en termes visuals i no sabia exactament per què. Ara m'he adonat que el subratllat li dóna molta pesadesa a les pàgines, sobretot en aquelles paraules que es troben dins de capses, taules, etc...
+
+Podem eliminar el subratllat? I si es pot, ho posem a votació?
+
+Crec que després dels 100.000 articles, li cal una bona restauració estilística, i només amb això la cawiki guanyaria molt.
+--[[User:Hei hei|Hei hei]] ([[User Talk:Hei hei|discussió]]) 18:36, 16 gen 2008 (CET)
+:Ho pots canviar a les teves preferències, a la pestanya altres preferències. Em sembla que per defecte els enllaços no estan subratllats. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 18:41, 16 gen 2008 (CET)
+::Jo tampoc tinc els enllaços subratllats, i no crec que hagi canviat les preferències. Crec que l'única viqui que tenia els enllaços subratllats era la castellana, però ho van canviar fa uns mesos.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 18:51, 16 gen 2008 (CET)
+:::Gràcies, gràcies!!!! Argh, no entenia perquè em sortien totes les viquis sense subratllar excepte la nostra!--[[User:Hei hei|Hei hei]] ([[User Talk:Hei hei|discussió]]) 19:03, 16 gen 2008 (CET)
+
+== uiquipedia.org ==
+
+Vaig trobar-me amb http://uiquipedia.org (la viquipèdia blavera...) que no te cap de relació amb el projècte (tan sol per el petit detall de la descarada suplantació de nom...), i pense que cal informar rapidament a meta sobre esta situació.
+
+Saluts. [[User:Ferbr1|Ferbr1]] ([[User Talk:Ferbr1|discussió]]) 15:53, 18 gen 2008 (CET)
+:Ja se'n va parlar i en Vriullop va enviar un missatge a meta. Pots veure la discussió a la taverna de desembre a [[Viquip%C3%A8dia:La_taverna#Viquipedia_en_valenci.C3.A0-normes_del_puig.21.21.21]]. El nom no l'han canviat, però van arribar a tenir uns centenars d'articles nostres amb la llicència incorrecta (no enllaçava a l'article original) i ho van arreglar, i els que tenien copiats de la viqui en castellà han arreglat també l'enllaç (més o menys).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 15:59, 18 gen 2008 (CET)
+::No vaig escriure a meta sinó a la llista de correu del departament legal de la fundació. Només he rebut una resposta automàtica que diu que la llista és privada i que el missatge queda a l'espera de ser revisat pel moderador. Pel sentit del missatge entenc que deu haver estat publicat, però no en sé res més. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 16:19, 18 gen 2008 (CET)
+
+== 100.000 articles!!!! visca la viquipèdia en català! ==
+
+Enhorabona a totes i tots!!!!--[[User:Socarrat|Socarrat]] ([[User Talk:Socarrat|discussió]]) 21:47, 18 gen 2008 (CET)
+:Em sembla que és [[arrel cúbica]]. Hi ha alguna manera oficial d'esbrinar-ho? -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 21:48, 18 gen 2008 (CET)
+::Ni idea, però té igual! visca la viqui!!!--[[User:Socarrat|Socarrat]] ([[User Talk:Socarrat|discussió]]) 21:53, 18 gen 2008 (CET)
+:::Efectivament, ho hem contat i és arrel cúbica. --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 22:52, 18 gen 2008 (CET)
+
+::::A mi també em surt [[arrel cúbica]] en el recompte. Enhorabona a tots!--[[Usuari:Xtv|Xtv]] ([[Usuari Discussió:Xtv|que dius que què?]]) 22:55, 18 gen 2008 (CET)
+:::::Efectivament, el recompte és correcte.--[[User:Lohen11|Lohen11]] ([[User Talk:Lohen11|discussió]]) 22:58, 18 gen 2008 (CET) 
+
+Quina rapidesa, he marxat uns moments i patapam. Moltes felicitats a tothom!--[[User:Hei hei|Hei hei]] ([[User Talk:Hei hei|discussió]]) 21:58, 18 gen 2008 (CET)
+
+Caldria canviar la bola !!--[[User:Amadalvarez|amador]] ([[User Talk:Amadalvarez|discussió]]) 22:01, 18 gen 2008 (CET)
+:Una veritat com un temple. Felicitats! --[[User:Zant|Zant]] ([[User Talk:Zant|discussió]]) 22:04, 18 gen 2008 (CET)
+
+::Des de les sis de la tarda hem creat més de 500 articles! Moltes felicitats a tots i a totes, ara estaria bé que ens dediquessim durant un temps al manteniment.--[[Usuari:Aljullu|Aljullu]] ([[Usuari Discussió:Aljullu|+]]) 22:25, 18 gen 2008 (CET)
+:::D'aquí unes setmanes podem fer seriosament la quinzena del manteniment.--[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 22:36, 18 gen 2008 (CET)
+:Increíble! Me n'alegro molt!! Felicitats i bona feina a tothom!!--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 22:59, 18 gen 2008 (CET)
+
+::Hehehe, avui estàvem motivats, en Panellet i jo:
+
+'''18 de gener del 2008''':
+
+*'''[[Usuari:Leptictidium]]''': [http://ca.wikipedia.org/w/index.php?title=Especial:P%C3%A0gines_novesusername=Leptictidiumlimit=500offset=0 342 articles]
+*'''[[Usuari:Panellet]]''': [http://ca.wikipedia.org/w/index.php?title=Especial%3AP%C3%A0gines_novesnamespace=0username=Panelletlimit=500 207 articles]
+
+::Devem haver batut algun rècord, no? :p -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 23:11, 18 gen 2008 (CET)
+:::721 articles en un sol dia. Se us ha anat una mica l'olla. Els romanesos es tornaran a cabrejar. [[Special:Contributions/83.45.218.121|83.45.218.121]] ([[User talk:83.45.218.121|discussió]]) 00:10, 19 gen 2008 (CET)
+
+Trobo curiós que la mateix persona que demana l'esborrament d'un article com [[Vegerot]], amb aquest contingut:
+{{cita|En l'univers fictici de Bola de Drac, en Vegerot (de Vegeta i Kakarot, originalment en japonès ベジット, Vegetto) és el resultat de la fusió entre en Goku i en Vegeta mitjançant els Pohtala. Aquesta fusió havia d'haver estat permanent com la d'en Kaioshin i en Kibito però en entrar en en Boo es varen separar màgicament. Aquest tipus de fusió només apareix per lluitar contra en Boo.}}
+es dediqui a crear més de 300 articles amb un contingut tipus:
+{{cita|''XXXX''' és un personatge fictici de Pokémon. És de tipus yyyy i zzzz. Evoluciona de WWWW.}}
+Trobo que ara que ja tenim els 100.000, ens podríem dedicar a esborrar tots aquests articles. Amb una llista tipus la que s'ha fet de [[Llista_de_personatges_de_Bola_de_Drac|personatges de Bola de Drac]] n'hi hauria prou i de sobres. --[[Special:Contributions/83.36.162.127|83.36.162.127]] ([[User talk:83.36.162.127|discussió]]) 22:13, 19 gen 2008 (CET)
+
+L'[[Viquipèdia:Apostes/Article 100.000|aposta dels 100.000 articles]] l'ha guanyada en Capgròs. El perdedor ha estat en {{u|Aidan}}.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 23:25, 18 gen 2008 (CET)
+
+Potser creureu que sóc massa xovinista i grandiloqüent, però em sembla que ara mateix som tot un exemple per donar ànims i esperança a la resta de llengües minoritzades del món. [[User:Ninotaire|Ninotaire]] ([[User Talk:Ninotaire|discussió]]) 23:31, 18 gen 2008 (CET)
+::::Tant bo fora així.--[[User:Socarrat|Socarrat]] ([[User Talk:Socarrat|discussió]]) 12:15, 19 gen 2008 (CET)
+
+::::: Sí! Faig una pausa en la meva inactivitat viquipedista (exàmens i això...) per felicitar-vos (nos)!!! L'enhorabona!!! :D--[[User:Esv|Edustus]] ([[User Talk:Esv|discussió]]) 21:07, 19 gen 2008 (CET)
+::::::Enhorabona a tots! Quina llàstima que no hagi pogut entrar a la viquipèdia tant com he volgut durant tot aquest temps. Felicitats! —[[Usuari:Albertsab|Albertsab]] ([[Usuari_Discussió:Albertsab|Queixes]] - span class=plainlinks[{{fullurl:User talk:Albertsab|action=editsection=new}} Queixa't]/span) 21:35, 19 gen 2008 (CET)
+===Nou objectiu===
+Crec que cal felicitar a Leptictidium i Panellet pel seu esforç, però a partir d'ara s'hauria de tornar a un ritme normal. Aconseguits els 100.000, l'objectiu ara hauria de ser assolir la qualitat. --[[User:Socarrat|Socarrat]] ([[User Talk:Socarrat|discussió]]) 12:15, 19 gen 2008 (CET)
+:Si se seguís al ritme d'ahir, en 138 dies s'arribaria als 200.000 articles. [[Special:Contributions/193.152.141.55|193.152.141.55]] ([[User talk:193.152.141.55|discussió]]) 12:17, 19 gen 2008 (CET)
+::No em temptis... :p És broma, ara mateix no estic ni per escriure un article titulat [[article buit]]. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 12:36, 19 gen 2008 (CET)
+
+
+===Mitjans de comunicació===
+Avui al ''L'informatiu del migdia (cap de setmana)'' de Catalunya Ràdio (de 14.00 a 14.30 hores), parlaran dels 100.000 articles a la viquipèdia. --[[Usuari:Jordicollcosta|Jordicollcosta]]  ([[Usuari Discussió:Jordicollcosta|discussió]]) 12:07, 19 gen 2008 (CET)
+:Com ho saps? [[Fitxer:Emoticon glad.svg|15px|hahaha|enllaç=]] --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 12:12, 19 gen 2008 (CET)
+::Ahir vaig enviar una vintena de notes de premsa, i aquest matí m'han telefonat dels informatius de catràdio per fer-me unes preguntes, i m´han dit que ho passarien al informatiu migdia. --[[Usuari:Jordicollcosta|Jordicollcosta]]  ([[Usuari Discussió:Jordicollcosta|discussió]]) 12:29, 19 gen 2008 (CET)
+:::Podries indicar quins mitjans ja estan avisats a [[Viquiprojecte:Fita dels cent milers d'articles/Mitjans]]? '''font color=green[[Usuari:Paucabot|Pau Cabot]]/font''' · [[Usuari Discussió:Paucabot|Discussió]] 12:42, 19 gen 2008 (CET)
+::::{{fet}} ja ho he indicat, excepte les adreces personals. --[[Usuari:Jordicollcosta|Jordicollcosta]]  ([[Usuari Discussió:Jordicollcosta|discussió]]) 13:36, 19 gen 2008 (CET)
+
+[http://meneame.net/story/viquipedia-catala-arriba-als-100.000 Meneame.net] se n'ha fet ressò, i vaja [http://www.anieto2k.com/itouch/imeneame/?id=290974f=Publicadas discussió] que està generant! --[[Usuari:Jordicollcosta|Jordicollcosta]]  ([[Usuari Discussió:Jordicollcosta|discussió]]) 19:18, 19 gen 2008 (CET)
+
+:Estem a [http://www.vilaweb.cat/ la portada de Vilaweb]. --[[Usuari:Comandant Rampas|Comandant Rampas]] small [[Usuari Discussió:Comandant Rampas|(Comentem-ho)]]/small 22:22, 19 gen 2008 (CET)
+
+Per si a algú li fa gràcia, deixo l'enllaç a uns veïns que ens han canviat de categoria [http://es.wikipedia.org/w/index.php?title=Wikipedia_en_catal%C3%A1ndiff=14457453oldid=14457372].--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 15:49, 21 gen 2008 (CET)
+:En realitat, el veí vaig ser jo, que allà em dic [[:es:Usuario:Cipión|Cipión]] [[Fitxer:Emoticon glad.svg|15px|hahaha|enllaç=]] --[[Usuari:Comandant Rampas|Comandant Rampas]] small [[Usuari Discussió:Comandant Rampas|(Comentem-ho)]]/small 16:06, 21 gen 2008 (CET)
+
+=== Gràcies a tots ===
+721 articles en un sol dia és inhumà. Jo procuro fer-ne un al dia, els caps de setmana dos i algun dia no en puc fer cap. 
+
+Ahir, en gravar l’article meu de cada dia, resulta que va coincidir amb el 100.000.
+
+Vés per on, les coses de l’[[estadística]] i les [[probabilitat]]s, compres 721 números de la rifa i no et toca, en compres només un i patapam. 
+
+Desprès un allau de gent millorant l’article quant encara no l’avia acabat (encara no n’estic del tot satisfet) i unes quantes felicitacions a la meva pàgina. Personalment no ho veig un fet digne de felicitació, és un article més com el 999.999 i el 100.001 passa que comptem en base deu (per cert, en part,  gràcies als catalans [[nombre#Nombres naturals]]).
+
+De totes formes estic molt content, si té algun ressò als mitjans, encara que no estic del tot satisfet amb l’article, em sembla que ara per ara és millor que els de la “competència” i qui ho miri veurà que val la pena de buscar a la viquipèdia en català.
+
+Vull transmetre des d'aquí el meu agraïment a tots els que m’han felicitat. Gracies especialment a Panellet i Leptictidium per haver fet els 721 articles que han ficat aquest en el nombre 100.000.--[[User:Gomà|Gomà]] ([[User Talk:Gomà|discussió]]) 13:09, 19 gen 2008 (CET)
+
+
+=== En un vist i no vist ===
+
+Aquí t'en vas amb un tarda i una nit amb la tranquilitat que no farem 500 aritcles en aquell temps, i vas i ara em trobo això jeje!! Felicitats, sou els millors, però a viquificar, que vec molts pokemons com a esborranys.--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 13:50, 19 gen 2008 (CET)
+{{sense signar|KRLS|13:50, 19 gen 2008 (CET)}}
+
+== Infobox Llibre ==
+
+Bones!
+
+Ja fa un temps, vaig estar buscant una Infobox per llibres a la Viquipèdia, però no en vaig trobar cap. He decidit copiar la Infobox corresponent de la Wikipedia anglesa i copiar-la a [[Plantilla:Infobox_Llibre]]. 
+
+La Infobox té un espai per posar una imatge de la portada del llibre... Si la poséssim (la imatge), estaríem infringint els drets d'autor?
+
+El que em pregunto és si ho puc fer així, ''a saco'', i si us sembla bona idea.
+
+Per cert, felicitats pels 100.000!
+--[[User:Marc Riera|Marc Riera]] ([[User Talk:Marc Riera|discussió]]) 16:16, 19 gen 2008 (CET)
+: lo de les imatges et contestarà un altre, però lo de la plantilal has de traduir-la, no pots copiar-la sense res, perquè sinó sortira els paràmetres en anglès com el que posa [[Publisher]]: jeje--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 16:23, 19 gen 2008 (CET)
+::No havia acabat, home... xD Ara ja està traduït, estic intentant que surti un exemple (no he fet servir gaire el sistema wiki, i em costa entendre'l... Em direu curtet xD)--[[User:Marc Riera|Marc Riera]] ([[User Talk:Marc Riera|discussió]]) 16:39, 19 gen 2008 (CET)
+:::Les portades tenen drets d'autor i fa uns mesos, en una presa de decisió ([[Viquipèdia:Presa de decisions/2007/Imatges de cobertes i portades]]) es va decidir no acceptar-les. Entenc que les excepcions, força rares, podrien ser: que es faci un comentari crític de la portada (no del llibre), que siguin de domini públic per ser antigues (70 anys (a Espanya 80) després de la mort de l'autor de la portada, que deu ser el dissenyador) o que el propietari dels drets t'autoritzi ([[Viquipèdia:Autoritzacions]]).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 17:05, 19 gen 2008 (CET)
+::::I com és que a la Wikipedia anglesa sí que les tenen posades? És per culpa de les diferents lleis dels països? :S--[[User:Marc Riera|Marc Riera]] ([[User Talk:Marc Riera|discussió]]) 17:09, 19 gen 2008 (CET)
+:::::En part sí. La legislació dels Estats Units i d'altres països tenen el [[fair use]] que la legislació espanyola no contempla. A més, dins d'uns límits, cada viquipèdia adopta la política d'imatges que creu més convenient (les raons dels que defensaven la nostra les pots veure a la presa de decisió); per exemple, la viquipèdia en castellà i alguna altra són encara més estrictes que la nostra i no tenen imatges sinó que només fan servir les que són lliures i es poden carregar a commons.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 17:16, 19 gen 2008 (CET)
+::::: El que pasa, és que hi ha diverses concepcions del que és un enciclopèdia lliure. Per a la catalana una enciclopèdia lliure creu que s'han d'acceptar el mínim nombre d'imatges amb copyright sota l'[[ús legítim]], i en conseqüència sol s'accepten sota casos específics, en canvi l'anglesa autoritzen l'ús legítim en casi tot per això tenen tantes imatges en els seus articles però que no t'enganyin ja que no són lliure gran part d'elles. El que t'has de plantejar és: ¿Una enciclopèdia lliure a d'acceptar imatges no lliures? ¿Si les accepta es pot considerar una enciclopèdia lliure?--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 17:19, 19 gen 2008 (CET)
+::::::Les altres qüestions importants a plantejar-se són: Hi ha algú disposat a fer la feinada de comprovar que totes les imatges no lliures que es carreguen estiguin justificades realment? Poden estar justificades d'acord amb la legislació dels estats on es parla la llengua de la nostra viquipèdia a més de la legislació dels Estats Units on és la fundació?--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 17:32, 19 gen 2008 (CET)
+:::No sóc un expert en el tema, però l'ús legítim sí que està contemplat per la legislació espanyola (vaig posar l'enllaç a la presa de decisions). D'altra banda, això no importa, perquè els servidors estan a Estats Units, pel que entenc que les lleis que valen són aquelles. Si no s'accepten aquest tipus d'imatges és perquè es va decidir així a la presa de decisions, no perquè sigui il·legal.--[[User:Meldor|Meldor]] ([[User Talk:Meldor|discussió]]) 18:32, 19 gen 2008 (CET)
+:::::::Doncs és una veritable llàstima, des del meu punt de vista. Però bé, sempre es pot fer la plantilla sense cap imatge, no?
+
+I, parlant de llibres, trobeu bé que faci una Plantilla per comprar o agafar com a préstec llibres mitjançant l'ISBN? Aquí teniu un exemple: [http://www.racocatala.cat/iesmou/wiki/index.php/Plantilla:ISBN Plantilla:ISBN]--[[User:Marc Riera|Marc Riera]] ([[User Talk:Marc Riera|discussió]]) 22:12, 19 gen 2008 (CET)
+:Això que demanes fa molt que existeix. Només cal que escriguis un ISBN. Per exemple,  si escrius nowikiISBN 84-8264-412-2/nowiki, apareixerà  ISBN 84-8264-412-2. --[[Special:Contributions/83.36.162.127|83.36.162.127]] ([[User talk:83.36.162.127|discussió]]) 22:19, 19 gen 2008 (CET)
+
+== Articles de qualitat: nota a qui pugui concernir ==
+
+M'he estat mirant els articles de qualitat i m'ha sorprès veure que bastants d'ells es poden millorar. No m'entengueu malament; '''estan molt bé''', però també és cert que hi ha defectes que haurien d'haver estat detectats durant el procés de votació. Un article 100% perfecte no pot existir, però un article de qualitat no pot tenir defectes que saltin tant a la vista com els que llistaré aquí.
+
+Us deixo aquí la llista d'articles i problemes, per qui vulgui assegurar-se que els articles de qualitat són realment '''de qualitat'''.
+
+*'''[[Rococó]]''': molts enllaços en vermell / no hi ha referències
+*'''[[Castell de Bellver]]''': molts enllaços en vermell / no hi ha referències
+*'''[[Catedral de Palma]]''': molts enllaços en vermell / no hi ha referències / en un mateix text no es combinen el passat simple i el perifràstic
+*'''[[Palau de la Generalitat]]''': no hi ha referències / pocs enllaços externs
+*'''[[Maurice Ravel]]''': errors en el format de la pàgina / ortografia
+*'''[[Friedrich August von Hayek]]''': lleus faltes ortogràfiques / no es combinen el passat simple i el perifràstic
+*'''[[Joana d'Arc]]''': caldria alguna imatge a la primera secció / no hi ha referències
+*'''[[Indústria farmacèutica]]''': falten referències i enllaços 
+*'''[[Càncer de pròstata]]''': falten referències / el text està ple d'enllaços externs (la majoria s'haurien de convertir en referències)
+*'''[[Formiga]]''': ortografia / la taxocaixa té enllaços en vermell
+*s'''[[Nàutil]]''': ortografia/s {{fet}} (tot i que agrairia que algú ho comprovés!)--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 10:10, 21 gen 2008 (CET) / '''Comprovat!''' -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 13:22, 21 gen 2008 (CET)
+*'''[[Trilobit]]''': molts enllaços en vermell (també a la taxocaixa) / gramàtica i ortografia
+*s'''[[Futbol Club Barcelona]]''': s'enllaça a una imatge inexistent/s{{fet}}--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 10:10, 21 gen 2008 (CET)
+*'''[[Reial Club Deportiu Espanyol]]''': (greus) errors sintàctics i gramaticals
+*'''[[Tarradellas Cup 2007 masculina]]''': caldria més text redactat i no només taules i resultats
+*'''[[Làser]]''': manquen referències
+*s'''[[Bucarest]]''': enllaços erronis a articles existents (p.e.: [[paleolítics]] = [[Paleolític]])/s{{fet}}, no he trobat més enllaços erronis dels que esmentes tu!--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 10:10, 21 gen 2008 (CET)
+*'''[[País Valencià]]''': errors de gramàtica i estil / manquen referències
+*'''[[Exàmens imperials xinesos]]''': manquen referències
+*'''[[Núbia]]''': ple de faltes d'ortografia
+*s'''[[Batalla del bosc de Teutoburg]]''': falten referències i enllaços externs/s
+*'''[[Batalla de les Termòpiles]]''': ús de cardinals com si fossin ordinals
+*'''[[Imperi Romà]]''': enllaços vermells que són especialment rellevants per l'article
+*'''[[Imperi Bizantí]]''': ortografia
+*'''[[Civilització asteca]]''': enllaços externs
+*'''[[Tenochtitlan]]''': enllaços externs
+*'''[[Reconquesta]]''': afirmacions controvertides i sense referències
+*'''[[Lluís XIV de França]]''': gramàtica
+*'''[[Setge de Barcelona (1713-1714)]]''': enllaços a suposats articles principals en vermell
+*'''[[Segona Guerra Mundial]]''': manca important de referències
+*'''[[Nòrdic antic]]''': referències
+*'''[[Forma de govern]]''': l'article hauria de ser més una descripció de les formes de govern i menys una llista de quins països tenen quines formes
+*'''[[Església Ortodoxa Romanesa]]''': manquen referències
+*'''[[Metro de Barcelona]]''': s'haurien d'introduir moltes més seccions i crear articles separats per cada línia. [[:fr:Métro de Paris]] pot ser un bon exemple / manquen referències / els plans d'expansió (sense referències) es donen com a actuals quan alguns ja són obsolets (estaria bé conservar la informació com a històrics)
+*'''[[Ball de diables]]''': calen referències{{sense signar|Leptictidium|23:30, 20 gen 2008 (CET)}}
+
+En revisar la resta d'articles de qualitat, no he trobat defectes rellevants. Prego a la gent que estigui interessada en els articles que he mencionat que intenti corregir aquests errors que fan tant de lleig en un article de qualitat. Sobretot imagineu el que pensaríeu si us diguessin aquest és un dels millors articles de l'enciclopèdia i llavors us el trobéssiu ple de faltes d'ortografia. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 22:54, 20 gen 2008 (CET)
+:Sobre els enllaços vermells:
+:*Són un factor que no es considera per escollir articles de qualitat (ni amb les normes d'abans ni les d'ara). Potser caldria tenir-ho en compte per la propera revisió de la política, que no serà aviat.
+:*Completament d'acord en que una cosa que millora molt un article és que tots els temes relacionats estiguin enllaçats en blau. Un parell de bones mostres d'això són [[catedral de Barcelona]] i [[casa de la ciutat (Barcelona)]].
+:*La solució no és en cap cas treure enllaços, sinó fer articles, encara que siguin curtets. Potser el conjunt dels articles enllaçats des d'un article de qualitat concret serien una bona [[Viquipèdia:contribució de la quinzena]].
+:*Tampoc cal anar a l'altre extrem. No és imprescindible per un article de qualitat que tots els enllaços siguin blaus. Els enllaços vermells són el futur de la Viquipèdia (el dia que no tinguem enllaços vermells ni esborranys, ja haurem recollit tot el coneixement humà i ens podrem dedicar a una altra cosa).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 23:21, 20 gen 2008 (CET)
+::Potser no és una norma oficial però en l'avaluació d'articles sí que es té molt en compte que un article no tingu massa enllaços en vermell. Però el que més em preocupa són les faltes d'ortografia, gramàtica i sintaxi, que en algunes ocasions són tan greus i/o freqüents que resulten grolleres i tot. Una falta, unes quantes fins i tot, la pot fer tothom, però si hem de nomenar un article de qualitat, que almenys estigui escrit correctament... -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 23:36, 20 gen 2008 (CET)
+::
+:::Pel que fa als articles en què he participat, [[Làser]] té una secció de referències, amb una selecció de textos divulgatius i especialitzats en català, anglès i castellà. L'Svelto, per exemple, és un llibre clàssic i molt utilitzat com a introducció a la física del làser. No sé perquè dius que manquen referències. D'altra banda a [[Batalla del bosc de Teutoburg]] és cert que manquen enllaços externs, però de referències no només n'hi ha, sinó que són les primàries per a la batalla; qualsevol altra obra moderna d'història militar romana es basa en aquests textos, que són els únics en què s'han conservat relats de la batalla. --[[Usuari:Oersted|font color=BlueOersted/font]] small[[Usuari_Discussió:Oersted|''font color=Blue(parlem-ne)/font'']]/small 23:38, 20 gen 2008 (CET)
+:::
+::::Ja he afegit uns quants enllaços externs a [[Batalla del bosc de Teutoburg]] i, de pas, també he afegit algunes referències bibliogràfiques secundàries :-) --[[Usuari:Oersted|font color=BlueOersted/font]] small[[Usuari_Discussió:Oersted|''font color=Blue(parlem-ne)/font'']]/small 00:22, 21 gen 2008 (CET)
+::::
+::::::La reflexió que ha fet en Leptictidium és molt encertada en el sentit de ser crítics i d'anar elaborant uns referents de qualitat; I els AdQ ho han de ser (i calen millores perquè alguns es mantinguin dins d'aquesta categoria). Tot i que els enllaços vermells no rebaixen la qualitat de l'article (d'acord amb en Pere; cal no barrejar les coses) estaria bé que al voltant d'els bons articles es generés una activitat que ajudés a millorar l'entorn informatiu de l'article.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 23:44, 20 gen 2008 (CET)
+:Molt d'acord! Jo penso que ara que hem arribat als 100.000 cal centrar-se en la qualitat! Trigarem molt temps a tornar a assolir una xifra significativa d'articles per obtenir rellevància i difícilment superarem altres wikis de les que tenim per davant (excepte la Volapuk) per tant ara no ve de 2000 articles si els que fem tenen un mínim de qualitat. A més considero que els AdQ han de ser ''quasi'' perfectes per ser-ho (al marge dels enllaços en vermell).--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 09:26, 21 gen 2008 (CET)
+
+====Reprenc la proposta d'en Peer====
+Potser la millor manera de tenir controlada la qualitat dels AdQ seria implementar la proposta d'en Peer de crear una categoria de '''bons articles de la Viquipèdia'''. Això ens permetria reconvertir articles amb problemes importants com ara [[Núbia]] o [[Muixeranga]], i tenir-los com articles bons. Els articles bons també podrien ser una escola o laboratori d'articles de qualitat: en tenir els articles bons agrupats, sabríem on concentrar els esforços per crear articles de qualitat. Finalment, el fet de tenir una mena de ''segona divisió'' també ens permetria ser més selectius amb els criteris dels AdQ i per tant augmentar-ne la qualitat mitjana. Què us sembla? -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 13:30, 21 gen 2008 (CET)
+:Ho veig com tu.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 13:51, 21 gen 2008 (CET)
+::Sense voler ser aixafaguitarres, com ho faríeu perquè el procés de posar i treure la qualificació d'article bo sigui més àgil que la d'article de qualitat? I si pot ser, per fer-ho sense treure col·laboradors de la qualificació d'article de qualitat i sense que se'ns colin entre els articles bons pífies del tipus que heu trobat als articles de qualitat (o pífies d'un altre tipus però que facin que no puguin ser bons).--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 14:01, 21 gen 2008 (CET)
+:::Em sembla que el que cal és un canvi de mentalitat. Fa l'efecte que alguns dels nomenaments d'article de qualitat es van fer precipitadament, perquè les pífies d'ortografia en alguns casos són tan evidents que no em puc creure que pasessis desaparcebudes. Hauríem d'emfatitzar que el que importa és que els articles de qualitat siguin realment de qualitat, i no el nombre d'AdQ que tinguem. Caldria informar els membres que votin que és essencial que els articles siguin [gairebé] impecables per ser considerats de qualitat. A partir d'ara, cal ser més estrictes. Pel que fa a l'agilitat, no em sembla pas un problema ndash; que tenim pressa per produir AdQ a puntapala? A més, tenir dues ''divisions'' d'articles no implicaria fragmentació d'esforços; les mateixes persones podrien encarregar-se d'ambdues coses, igual que un mateix professor pot donar suspensos, aprovats, notables, excel·lents... -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 14:49, 21 gen 2008 (CET)
+:::: Sento dir-ho però ho dic amb tota sinceritat, el que s'ha fer que sol s'hagi de votar dues opcions {{suport}}{{objecció}}, encara que altres parts esitguin bé, l'important és que s'agilitzi el procés i poguem tenir articles bons ràpidament i puguin ser acabts de perfilar abans de pujar a la priemra divisiÓ!!
+:::::Espero que ''poguem tenir articles bons ràpidament'' es refereixi a tenir articles bons de debó i no pas a inflar artificialment el compte fent la vista grossa. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 16:06, 21 gen 2008 (CET)
+:És evident que no tothom fa una lectura acurada dels articles i sovint s'aprovaven amb alguns vots poc crítics. Però és el que hi ha; calen 10 vots. El que es pretén és anar tenint llistes d'articles en funció de la qualitat; ara només tenim els AdQ i els esborranys. Quan alguns estem fent valoracions ràpides dels 100 o els 1000 articles, ja estem donant unes orientacions del nivell de l'article, tot i que són molt vagues i amb criteris no contrastats. Cal desenvolupar un sistema que sigui eficaç, complet i àgil. Quan es presenta un article a avaluació ja en podria sortir una proposta a AdQ o a AB (Article BO).--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 19:04, 21 gen 2008 (CET)
+
+====Idea====
+Podríem fer una plana de votacions conjunta per ambdós tipus d'articles. En lloc de dir únicament si {{aprovació}} aprovem o {{objecció}} refusem la promoció de l'article a AdQ, podríem afegir diferents nivells: 
+
+'''Exemple''':
+
+{{Inicia taula de valoracions d'article}}
+{{Valoració d'article|Llengua=articledequalitat |Completesa=articlebo |Enteniment=objecció |Concreció=objecció |Neutralitat=objecció |Estabilitat=articlebo |Estil=articlebo |Imatges=articledequalitat |Llargària=articledequalitat |Observador=[[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 19:40, 21 gen 2008 (CET)}}.
+{{Finalitza taula de valoracions d'article}}
+
+He creat dues plantilles més específiques que simplement {{aprovació}}:
+
+*nowiki{{articledequalitat}}/nowiki {{articledequalitat}}
+*nowiki{{articlebo}}/nowiki {{articlebo}}
+
+Això que dic ara podria ser una manera de tenir en compte les votacions. Un cop passat un termini mínim de temps, s'hauria de calcular la puntuació que cada usuari ha donat a l'article amb el següent bàrem:
+
+*{{articledequalitat}} equival a '''2 punts'''
+*{{articlebo}} equival a '''1 punt'''
+*la resta de vots ({{nsnc}}, {{objecció}}) no donen punts.
+
+Una vegada comptada la puntuació que li dóna cada usuari a l'article, es fa una mitjana de la puntuació de cada usuari. Aleshores, es fa servir aquesta mitjana per decidir si l'article és de qualitat, bo, o res.
+
+*Una mitjana igual o superior a 16: '''Article de Qualitat'''
+*Una mitjana d'entre 12 i 15,99: '''Article bo'''
+*Una mitjana inferior a 12: Res
+
+'''Imaginem que un article ha rebut aquests vots:'''
+
+{{Inicia taula de valoracions d'article}}
+{{Valoració d'article|Llengua=articledequalitat |Completesa=articlebo |Enteniment=objecció |Concreció=objecció |Neutralitat=objecció |Estabilitat=articlebo |Estil=articlebo |Imatges=articledequalitat |Llargària=articledequalitat |Observador=[[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 19:40, 21 gen 2008 (CET)}}.
+{{Valoració d'article|Llengua=articlebo |Completesa=objecció |Enteniment=nsnc |Concreció=nsnc |Neutralitat=objecció |Estabilitat=objecció |Estil=articledequalitat |Imatges=articledequalitat |Llargària=articledequalitat |Observador=[[Usuari:Exemple exemplar|Exemple exemplar]] small(''[[Usuari Discussió:Exemple exemplar|discussió]]!'')/small 19:40, 21 gen 2008 (CET)}}.
+{{Valoració d'article|Llengua=objecció |Completesa=objecció |Enteniment=nsnc |Concreció=articledequalitat |Neutralitat=nsnc |Estabilitat=objecció |Estil=articlebo |Imatges=articledequalitat |Llargària=articledequalitat |Observador=[[Usuari:Alter ego|Alter ego]] small(''[[Usuari Discussió:Alter ego|discussió]]!'')/small 19:40, 21 gen 2008 (CET)}}.
+{{Finalitza taula de valoracions d'article}}
+
+*El {{u|Leptictidium}} li ha otorgat '''9 punts'''.
+*L'{{u|Exemple exemplar}} li ha otorgat '''7 punts'''.
+*L'{{u|Alter ego}} li ha otorgat '''7 punts'''.
+
+La mitjana total és de '''7,67'''. Per tant, l'article no passaria a ser ni un article de qualitat ni un article bo.
+
+----
+
+El que és bo d'aquest sistema és que es podria adaptar si en el futur creéssim noves maneres de classificar els articles segons la qualitat. Així escrit sembla complicat, però en la pràctica seria molt fàcil implementar aquest sistema. Quins defectes li veieu?[[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 19:54, 21 gen 2008 (CET)
+:Leptictidium, una feinada. Crec que ha d'anar per aquí. Els detalls cal acabar-los de discutir. Jo faria una proposta com la que va coordinar Meldor a [[Viquipèdia:Presa de decisions/2007/Articles de qualitat]]. Crec que el que surti serà bo i obra les portes a noves categories de la qualitat dels articles, alhora que s'aniran avaluant els articles amb més marge (ara és AdQ o res). I seran els referents de la qualitat de la viquipèdia.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 08:17, 22 gen 2008 (CET)
+: Crec que es una bona pensada. --[[User:Beusson|Beusson]] ([[User Talk:Beusson|discussió]]) 08:11, 26 gen 2008 (CET)
+::Pot ser útil per als articles bons, però per decidir si un article és de qualitat o no, no tocaria el sistema actual, que ha costat molt de consensuar i que té bons motius, i que en comptes només sumar vots té en compte si un article de qualitat no pot ser molt dolent en algunes coses encara que sigui molt bo en d'altres. Sí que em sembla una bona idea per qualificar els articles com a bons mirar que la tria surti com a subproducte de les votacions a article de qualitat. Un sistema alternatiu seria declarar bons tots els articles que compleixin els requisits dels de qualitat excepte la participació (posant un límit més baix, com per exemple 5 o 6 participants) i els articles que hagin arribat als 10 participants amb un 50% de vots favorables en tots els criteris; aquest sistema es podria aplicar retroactivament a tots els articles que s'hagin presentat a article de qualitat l'any passat (o els darrers anys) i pels que ningú presenti una objecció (els que tinguin objeccions, discutir-los o votar-los per algun sistema ràpid). Tampoc veuria malament que hi hagués més d'un sistema per arribar a article bo.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 13:24, 26 gen 2008 (CET)
+:: Ha avera si pensem! Si hem simplificat la distinció d'un article de qualitat per a ser més àgil, perquè volem complicar-ho amb aquest sistema! Després, felicitats pels canvis, ja que hem agilitzat el procés un munt!--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 15:13, 26 gen 2008 (CET)
+:::Sense modificar el que s'acaba d'aprovar ([[Viquipèdia:Presa de decisions/2007/Articles de qualitat]]) perquè acabar de concretar una proposta consensuada que plantegi la incorporació de la denominació '''article bo''' al costat d'AdQ, de la manera més eficaç i rigorosa. Caldria simplificar la proposta de Leptictidium, però és un punt de partida. Si aconseguim que funcioni de manera normalitzada el protocol: '''article ben acabat == avaluació == AdQ o AB''' hauríem fet un bon pas endavant per consolidar un bloc de qualitat a la viquipèdia. Estaria bé proposar una ([[Viquipèdia:Presa de decisions/2007/Articles bons]])--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 16:22, 26 gen 2008 (CET)
+
+La denominació article bo em sona un pèl artificiosa. Bon article em sona més natural. [[Special:Contributions/80.31.232.242|80.31.232.242]] ([[User talk:80.31.232.242|discussió]]) 16:32, 26 gen 2008 (CET)
+:També m'agrada més bon article (BO) però per influència d'article de qualitat he posat article bo. Pot ser una de les qüestions que cal acordar.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 16:41, 26 gen 2008 (CET)
+::A mi em dóna igual, no em sembla que sigui una qüestió vital. Una cosa; si algun dels actuals articles de qualitat no resol els problemes que he indicat en una altra secció, se'l rebaixarà a bon article? -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 17:12, 26 gen 2008 (CET)
+:::Automàticament, no, però crec que es va aprovar un procés per treure la qualificació de qualitat amb una votació, i, sense haver-me mirat els articles i guiant-me només pel que dius que hi has trobat, algunes d'aquestes mancances em semblen motiu suficient per votar a favor de rebaixar-los.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 02:29, 27 gen 2008 (CET)
+
+:Un sistema senzill, que s'adapta al que ja existeix actualment amb els AdQ, i al que podem incorporar les plantilles que ha fet en Pau Cabot, podria ser: 
+*{{Qualitat}} és el vot positiu o afirmatiu pels AdQ
+*{{Moltbo}} és el vot positiu o afirmatiu pels bons articles, però com a AdQ, val com una abstenció. 
+* Mantenir el vot nsnc per abstenir-se , i el negatiu, per rebutjar-lo, en ambdós casos (AdQ i bon article) 
+* Es mantenen les ràtios aprovades per als AdQ, amb l'afegit que votar un AdQ amb un vot de bon article és igual a abstenir-se. Per aprovar-lo com article bo s'equipara la valoració d'AdQ i de bon article, com a valoracions positives.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 18:14, 27 gen 2008 (CET)
+
+== Plantilla edifici ==
+
+A la [[Plantilla:edifici]] m'agradaria afegir-hi el paràmetre '''Coordenades''' entre '''Localització''' i '''Estil'''. Però no me'n surto. Algú em pot ajudar? Algú creu que hi falta algun paràmetre important?--[[User:Allman|Allman]] ([[User Talk:Allman|discussió]]) 15:22, 21 gen 2008 (CET)
+:Crec que les coordenades estan millor fora de la taula, a dalt a la dreta com a la resta d'articles, i més tenint en compte que normalment la taula d'edificis serà petita.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 15:51, 21 gen 2008 (CET)
+::El que volia era seguir el mateix criteri de la [[Plantilla:Infotaula de municipi]]. He mirat de posar la [[Plantilla:edifici]] en edificis molt singulars que disposen de molta informació.--[[User:Allman|Allman]] ([[User Talk:Allman|discussió]]) 16:08, 21 gen 2008 (CET)
+Ampliant la discussió. Què cal fer amb edificis com [[Palau de Versalles]]? Si es segueix el criteri de les altres wikis no s'empra una plantilla per l'edifici sinó una plantilla especifica de '''Patrimoni de la Humanitat''' la qual cosa va en detriment del coneixement ràpid de l'edifici. Ha de passar per endavant quin any es va donar el guardó en detriment de l'any de construcció? entre d'altres contrasentits--[[User:Allman|Allman]] ([[User Talk:Allman|discussió]]) 17:56, 21 gen 2008 (CET)
+:Si calen aquestes taules (que no ho tinc massa clar i crec que a la viquipèdia en castellà, que en fan servir moltes, més aviat fan nosa), la solució és senzilla: fer una plantilla d'edifici patrimoni de la humanitat, que estaria bé que estés més o menys unificada amb les altres dues, com ho estan les diferents plantilles de municipis.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 19:51, 21 gen 2008 (CET)
+Estic treballant-hi. Podeu donar un cop d'ull i doanar la vostra opinió. 
+*[[Palau de Versalles]] 
+*[[plantilla:edifici PH]]
+--[[User:Allman|Allman]] ([[User Talk:Allman|discussió]]) 12:19, 24 gen 2008 (CET)
+::Em sembla molt bé, molt ben ordenat i clar.--[[User:Lohen11|Lohen11]] ([[User Talk:Lohen11|discussió]]) 21:45, 24 gen 2008 (CET)
+Estic refinant alguns aspectes. Ara caldria afegir un paràmetre per a edificis que disposen d'un guardó compartit o potser no cal. En el cas de [[Palau de la Música Catalana]] remetria a [[Hospital de Sant Pau]]. Però per [[Palau Güell]] la llista hauria de ser molt llarga. És possible un sistema, similar a l'utilitzat a les referències, per el qual des de la [[plantilla:edifici PH]] quedés marcat en blau la secció corresponent de la [[plantilla:Patrimoni de la Humanitat a Catalunya]]? Suposo que no. En tot cas seria enredar massa la troca. Què suggeriu?--[[User:Allman|Allman]] ([[User Talk:Allman|discussió]]) 15:33, 25 gen 2008 (CET)
+
+== Vandalisme==
+Hola! Fa dies que segueixo la pàgina de contribucions d'un vàndal que no té usuari, però que es conecta amb la IP [[Usuari:213.176.161.204|213.176.161.204]]. Vaig dir-li a en [[Usuari:Lohen11|Lohen11]], que el va bloquejar uns dies, però ha tornat. El problema és que diria que és una IP que comparteixen dues persones, ja que per una banda crea articles nous correctes, i per l'altra es dedica a posar bajanades a d'altres articles. He llegit [[Viquipèdia:Vandalisme|aquí]] que amb els vàndals reincidents fóra bo avisar a la taverna per tenir-lo controlat, però no sé si toca, perquè és el primer vàndal amb el que topo tan de cara, i no se si es mereix tanta importància. Per ara diria que cap vandalisme seu ha quedat sense corretgir. I res més. Espero haver fet bé en avisar.
+Salut!
+--[[User:Juseph|Juseph]] ([[User Talk:Juseph|discussió]]) 18:02, 21 gen 2008 (CET)
+:Està clar que és nu mateix ordinador compartit per diferents usuaris a l'institut IES Santa Eulàlia. El problema és, com dius, que un usuari és un vàndal i l'altre contribueix. No crec que hi hagi més solució que vigilar-lo...{{sense signar|Marc Riera|18:06, 21 gen 2008 (CET)}}
+::Hi afegeixo que, pels articles que fan semblen venir de més d'un institut. Hi poso l'etiqueta d'usuari escolar.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 18:08, 21 gen 2008 (CET)
+:::Dons el seguiré de ben a prop com fins ara, quin remei. Gràcies!{{sense signar|Juseph|19:49, 21 gen 2008 (CET)}}
+::::Efectivament, és una de les Ip's de la conselleria d'Educació. Ens hem queixat del tema però no hi posen solució. De moment l'opció que hem adoptat és bloquejar-la per un espai de temps curt si el vandalisme és continuat.--[[User:Lohen11|Lohen11]] ([[User Talk:Lohen11|discussió]]) 21:41, 24 gen 2008 (CET)
+
+Tot té un límit, he blocat per infinit aquesta IP, la pròxima IES que demani el desbloqueig que hi posi mesures.--[[User:Lohen11|Lohen11]] ([[User Talk:Lohen11|discussió]]) 16:17, 25 gen 2008 (CET)
+:Problema: és una IP que comparteixen totes les escoles, fins a on jo sé. Aquest dijous, com cada dijous, volia editar uns articles, però em vaig trobar que no puc perquè la IP està bloquejada, així que només ho puc fer des de casa. Hi ha d'haver una altra solució. --[[User:Wamba|Wamba]] ([[User Talk:Wamba|discussió]]) 10:54, 26 gen 2008 (CET)
+::Em sap greu però jo estic d'acord amb el Lohen que s'ha de blocar la IP fins que no es garanteixi que no es farà més vandalisme perquè es tracta d'un cas especialment greu. De totes maneres no entenc perquè no podies editar si havies entrat amb el teu nom d'usuari...--[[User:Jey|Jey]] ([[User Talk:Jey|discussió]]) 13:06, 26 gen 2008 (CET)
+:::Home, si la IP està bloquejada, no podrà entrar, no? El que no entenc és perquè tots els IES fan servir la mateixa IP... Voleu dir que és així?--[[Usuari:Marc Riera|Marc Riera]] ([[Usuari Discussió:Marc Riera|''parlem-ne'']]) 13:25, 26 gen 2008 (CET)
+::::Quan es bloca una IP per defecte no es bloquen els usuaris registrats que comparteixen la mateixa IP, encara que és opcional. En canvi, quan es bloca un usuari registrat, per defecte es bloca també la IP. En aquest cas segurament s'ha blocat algun usuari escolar registrat, però aquests casos solen ser de curta durada. La Xarxa Telemàtica Educativa de Catalunya XTEC té el rang d'IP 213.176.160.0 a 213.176.191.255. Revisades les edicions anònimes dels últims dies, només han fet servir 213.176.161.204, 213.176.161.200, 213.176.174.46 i 213.176.187.157. Això és un tema que hauria de resoldre la Xtec o el Departament d'Ensenyament, a més de fer pedagogia sobre el vandalisme. En els casos de vandalisme reincident no hi ha més remei que fer un bloqueig llarg. --[[Usuari:Vriullop|V.Riullop]] ([[Usuari_Discussió:Vriullop|parlem-ne]]) 14:01, 26 gen 2008 (CET)
+
+== Redireccions ==
+
+Hola, proposo que un bot crei totes les redireccions dels espais de Viquipèdia a VP i WP. És a dir, que [[Viquipèdia:Presa de decisions]] estigui enllaçat des de [[VP:Presa de decisions]] i [[WP:Presa de decisions]] (aquests dos enllaços els acabo de crear ara, però n'hi ha molts que no estan fets). Així com també que totes les dreceres [[VP:PD]] estiguin enllaçades des de [[WP:PD]]. De vegades quan hom no recorda quina és la drecera, com a mínim s'estalvia temps escrivint VP enlloc de Viquipèdia. I crec que també és molt probable que algú ho busqui WP pel tal com està d'estès el nom original en anglès. (De retruc, pujarem el depth).--[[Usuari:Xtv|Xtv]] ([[Usuari Discussió:Xtv|que dius que què?]]) 17:26, 24 gen 2008 (CET)
+:A la enwiki han creat el namespace WP: que automàticament redirigeix cap a Wikipedia:, no sé si ho estendran a altres wikis. --[[User:SMP|SMP]]​·[[User talk:SMP|d]]​·span class=plainlinks[{{fullurl:User talk:SMP|action=editsection=new}} +]/span 18:05, 24 gen 2008 (CET)
+::Si ho fessin, aquí hauria de ser VP: o tots dos.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 18:07, 24 gen 2008 (CET)
+
+== Busco col·laboració ==
+
+És molt trist que els articles sobre les parts del cos siguin en gran part tan lamentables. Si hi col·laborem uns quants, aviat haurem pal·liat aquest problema que és la pobra qualitat d'articles tan bàsics com els d'anatomia.
+
+Si us plau, agafeu un article de la llista i feu-ne un article decent. Un cop acabat, ratlleu-lo de la llista.
+{| 
+| valign=top|
+*[[Cap (anatomia)|Cap]]
+**[[Crani]]
+**[[Front (anatomia)|Front]]
+**[[Cabell]]
+**[[Ull]]
+***[[Iris (anatomia)|Iris]]
+***[[Cristal·lí]]
+***[[Nervi òptic]]
+***[[Pupil·la]]
+***[[Còrnia]]
+***[[Retina]]
+**[[Orella]]
+***s[[Oïda interna]]/s [[Orella interna]]
+***s[[Oïda mitjana]]/s [[Orella mitjana]]
+***s[[Oïda externa]]/s [[Orella externa]]
+***[[Timpà]]
+**[[Nas]]
+**[[Galta]]
+**[[Boca]]
+***[[Llavi]]
+***[[Dent]]
+***[[Paladar]]
+**[[Mentó]] br(==[[Gai Juli Mentó]])
+| valign=top|
+*[[Coll (anatomia)|Coll]]
+**[[Clatell]]
+**[[Tràquea]]
+**[[Esòfag]]
+**[[Laringe]]
+*[[Tronc (anatomia)|Tronc]]
+**[[Espatlla]]
+**[[Esquena]]
+***[[Columna vertebral]]
+| valign=top|
+*[[Múscul]]
+*[[Òrgan]]
+**[[Cervell]]
+**[[Llengua (òrgan)|Llengua]]
+**[[Pell]]
+**[[Pulmó]]
+**[[Pàncrees]]
+**[[Fetge]]
+**[[Ronyó]]
+**[[Cor]]
+**[[Bufeta urinària]]
+**[[Intestí gros]]
+**[[Intestí prim]]
+**[[Còlon]]
+**[[Duodè]]
+**[[Anus]]
+**[[Cul]]
+**[[Estómac]]
+| valign=top|
+*[[Membre (anatomia)|Membre]]
+**[[Braç]]
+**[[Cama]]
+**[[Peu]]
+**[[Mà]]
+**[[Dit]]
+**[[Canell]]
+**[[Articulació (anatomia)|Articulació]]
+***[[Genoll]]
+***[[Colze]]
+**[[Cuixa]]
+**[[Taló]]
+**[[Falange (anatomia)|Falange]]
+**[[Polze]]
+*[[Sistema reproductor]]
+**[[Penis]]
+**[[Testicles]]
+**[[Clítoris]]
+**[[Vulva]]
+**[[Vagina]]
+**[[Úter]]
+| valign=top|
+*[[Os]]
+**[[Carpians]]
+**[[Clavícula]]
+**[[Costella]]
+**[[Cúbit (os)|Cúbit]]
+**[[Estèrnum]]
+**[[Estrep]]
+**[[Fèmur]]
+**[[Húmer]]
+**[[Mandíbula]]
+**[[Metacarpians]]
+**[[Omòplat]]
+**[[Peroné]]
+**[[Radi (anatomia)|Radi]]
+**[[Ròtula]]
+**[[Sacre]]
+**[[Tíbia]]
+**[[Vèrtebra]]
+ |}
+*Tota la [[:Categoria:Viquipèdia:Esborranys d'anatomia|categoria d'esborranys d'anatomia]]
+
+:M'ofereixo a col·laborar. Estaria ve tenir una pàgina de referència (tipus viquiprojecte i, sent més ambiciosos, subportal d'Anatomia) i allà coordinar les feines.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 08:26, 25 gen 2008 (CET)
+::Es podria afegir al [[Viquiprojecte:Anatomia]].--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 08:58, 25 gen 2008 (CET)
+:::He obert una pàgina relacionada ([[Viquiprojecte:Anatomia/Articles sobre les parts del cos]])per poder-ho gestionar millor.--[[User:Peer|Peer]] ([[User Talk:Peer|discussió]]) 09:44, 25 gen 2008 (CET)
+:::: bona idea, continuo afegint simbolsimes i altres --[[User:Barcelona|barcelona]] ([[User Talk:Barcelona|discussió]]) 20:54, 25 gen 2008 (CET)
+
+== Plantilla:Esportistes ==
+
+Amb el tema dels jugadors de rugbi he vist que s'havia fet servir la nowiki{{Plantilla:Esportistes}}/nowiki i l'he anat afegint a d'altres jugadors. 
+
+Però hi ha una cosa que no acaba de funcionar d'aquesta plantilla '''genèrica d'esportistes'''. Concretament l'apartat de les estadístiques, ja que l'encapçalament diu PJ (gols) en referència als partits jugats i als gols marcats. Això serveix per als esportistes que fan gols, com per exemple els jugadors de futbol, hoquei o handbol. Però en el cas del rugbi o el basquetbol, el que hauria de posar és Partits jugats i Punts.
+No sé si el millor seria afegir a aquesta plantilla alguns condicionals per a que posi gols o punts segons convingui. O trobar una altra solució alternativa.
+
+Què en penseu ? [[User:Puigalder|Puigalder]] ([[User Talk:Puigalder|discussió]]) 18:01, 27 gen 2008 (CET)
+:Si ja està posada a uns quants esportistes que fan gols, el més curt seria posar-hi un paràmetre per dir què fan, però deixar per defecte que si no es diu res posi que fan gols. Així ens estalviarem de corregir-la als articles que ja la tenen.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 19:45, 27 gen 2008 (CET)
+::D'acord. He retocat la plantilla de manera que si en comptes de fer servir la variable partits(gols) s'omple la nova de partits(punts) o si en comptes de partitsnacional(gols) s'omple partitsnacional(punts) (per a les seleccions), l'encapçalament de l'apartat de la plantilla serà PJ(pts) en comptes de PJ(gols). 
+::D'aquesta manera els articles existents amb la plantilla no es veuran afectats i si algú vol que aparegui en el format de punts només cal omplir la variable dels punts. 
+::Una altra estona potser es podria fer algun tipus d'explicació a la pàgina de la plantilla. --[[User:Puigalder|Puigalder]] ([[User Talk:Puigalder|discussió]]) 22:52, 27 gen 2008 (CET)
+
+== Votacions d'articles de qualitat que caduquen aquesta setmana ==
+
+Els següents articles ja porten gairebé un mes en procés de votació per esdevenir (o no) articles de qualitat:
+*[[Viquipèdia:Proposta de distinció d'alta qualitat d'un article/Natura|Natura]]
+*[[Viquipèdia:Proposta de distinció d'alta qualitat d'un article/Història de la Terra|Història de la Terra]]
+
+Us animo a valorar i votar aquests articles perquè no s'hagi d'arxivar la votació. Sempre és millor que, sigui quin sigui el resultat, hi hagi vots que no pas que el procés es bloquegi per falta de participació. Gràcies. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 17:17, 30 gen 2008 (CET)
+
+== Taulell de consultes ==
+
+Ja he engegat el projecte [[Viquipèdia:Taulell de consultes]] que vaig proposar fa un temps. Els que us dediqueu a vigilar [[Viquipèdia:Plantejament de preguntes]] ja podeu enviar les preguntes no relacionades amb el funcionament de la Viquipèdia al taulell. S'agraeix la col·laboració dels que vulguin respondre preguntes.
+
+Seria gentil que algun administrador pogués posar un enllaç al taulell de consultes des del portal viquipedista, perquè la gent hi pugui arribar més fàcilment. Gràcies. -- [[Usuari:Leptictidium|Leptictidium]] small(''[[Usuari Discussió:Leptictidium|parla mamífera]]!'')/small 17:37, 30 gen 2008 (CET)
+:Per editar el portal viquipedista no cal ser administrador. Això sí, cal entendre'n la sintaxi, que no sé si és més difícil que arribar a administrador. Potser un lloc millor per posar l'enllaç sigui [[Viquipèdia:Ajuda]] i potser [[Ajuda:Com explorar la Viquipèdia]].--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 20:16, 30 gen 2008 (CET)
+
+== Plantilla:Zeldaproj ==
+
+Crec que ja es va parlar i es va acordar que les plantilles de l'estil (''Aquest article pertany al viquiprojecte Bàsquet o Zant'') de la viquipèdia anglesa i que tant sols serveixen per augmentar el depth, i despistar a les persones que llegeixen l'article i veuen que algú ha discutit l'article.
+
+Per això considero que [[Plantilla:Zeldaproj]], hauria de desapareixer. Que penseu, em de tornar com va passar amb el projecte bàsquet?--[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 19:42, 30 gen 2008 (CET)
+:D'acord amb en KRLS. Com a molt es podria posar alguna cosa així amb enllaç al projecte a les discussions de l'article principal i la categoria principal.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 20:10, 30 gen 2008 (CET)
+::D'acord.--[[Usuari:Xtv|Xtv]] ([[Usuari Discussió:Xtv|que dius que què?]]) 20:42, 30 gen 2008 (CET)
+::: Com a creador del projecte i de plantilla, i com a intenció d’ajudar (i de no confondre als Viquipèdistes d’aquí) m’oposo. No cal afegir res més per part meva.{{sense signar|Zant|15:06, 6 feb 2008 (CET)}}
+::::Podries afegir-hi perquè creus que aquesta plantilla és diferent i més necessària que la de tots els altres viquiprojectes, que no posem.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 16:24, 6 feb 2008 (CET)
+:::::Aquesta plantilla serveix per varies coses si pots observar, i segons el meu criteri es bastant necessaria. Serveix per categorizar i dir a la discussió del article que aquest pertany a la saga Zelda i per tant del seu Viquiprojecte. Després recodar que encara que estigui que tractar de l’argument bde la saga Zelda que no s’opini i es parli directament d’aquest (simplement argumentarlo en el article, no discutir-lo, ja que la Viquipèdia no es un fòrum). --[[User:Zant|Zant]] ([[User Talk:Zant|discussió]]) 19:29, 6 feb 2008 (CET)
+Amb la del bàsquet ja es va decidir que a la Viquipèdia no es volien aquest tipus de plantilles de projecte. La utilitat que tenen segons la majoria d'usuari és inferior als inconvenients que comporta marcar de color blau els enllaços de les discussions quan després no t'hi trobes cap discussió.--[[Usuari:Xtv|Xtv]] ([[Usuari Discussió:Xtv|que dius que què?]]) 00:17, 7 feb 2008 (CET)
+:Per categoritzar a la saga Zelda ja hi ha la [[:Categoria:The Legend of Zelda]] i les seves subcategories, que inclouen la paraula Zelda al nom, per no confondre's. El que les pàgines de discussió no són un fòrum no cal dir-ho a tots els articles. Si en algun dels de Zelda apareixen opinions fora de lloc a la discussió, n'hi ha prou amb plantar-hi la plantilla {{tl|no forum}} (o una d'equivalent del viquiprojecte), però no veig necessari posar-la preventivament a totes les discussions.--[[User:Pere prlpz|Pere prlpz]] ([[User Talk:Pere prlpz|discussió]]) 00:47, 7 feb 2008 (CET)
+: Doncs fem una proposta per ser esborrada?? Ja? --[[Usuari:KRLS|KRLS]] , font size=+2[[Usuari Discussió:KRLS|#9993;]]/font 10:21, 7 feb 2008 (CET)
+
+== Live-dvd amb la Viquipèdia ==
+
+Tinc fet un DVD amd la Viquipèdia en català i en els 4 idiomes més que es parlen a qualcuna assignatura del meu institut a on soc professor de tecnologia. Ho he penjat a bulma.net a on soc un habitual escriptor.  Encara no ho he dit publicament.  Lo que proposo aquí és que un parell de persones ho tinguin , facin proves i finalment ho publicaré a la wikipedia i a la web de Bulma si estau d'acord. 
+
+El fitxer és de 4 Gb. Trigareu una estona amb una bona connexió.  La meva idea es deixar-ho penjat a Bulma per no necessitar que estigui als servidors de la wikipedia, crec que m'han dit que no és fàcil fer-li lloc.
+
+Qualcú mel pot revisar? [http://bulma.net/~rene/wikipedia-ca-es-fr-en-de.iso http://bulma.net/~rene/wikipedia-ca-es-fr-en-de.iso]{{sense signar|Trebol6|23:39, 30 gen 2008 (CET)}}
+
+Això me donarà també seguretat per donar copies a L'institut d'una versió un poc més adaptada. Amb exercicis i material lliures i amb una imatge de fons de l'escriptori d'una foto del institut.{{sense signar|Trebol6|23:22, 30 gen 2008 (CET)}}
+:Jo malauradament no ho puc provar ara. Però per curiositat (4GB trobo que és un munt), inclou fotos? Merci!--[[Usuari:Xtv|Xtv]] ([[Usuari Discussió:Xtv|que dius que què?]]) 00:25, 31 gen 2008 (CET)
+
+Sí que és un munt.  3.6GB per ser exactes. Té continguts de 5 idiomes.
+
+Ja la he posat a la Viquipèdia al terme: [[Viquipèdia:Live-dvd]]. No estic massa segur del nombre de l'article, pot ser teniu un suggeriment millor.</text>
+      <sha1>j1f82qgrz3tz7xuydqozy2dcwp9toyo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,246 @@
+<page>
+    <title>Electrònica</title>
+    <ns>0</ns>
+    <id>8702</id>
+    <revision>
+      <id>13935262</id>
+      <parentid>13809322</parentid>
+      <timestamp>2014-08-12T11:17:56Z</timestamp>
+      <contributor>
+        <username>Flamenc</username>
+        <id>7573</id>
+      </contributor>
+      <minor></minor>
+      <text>[[Fitxer:Two-stage amplifier with opamp.svg|thumb|Esquema d'un circuit amplificador de dues etapes]]
+[[Fitxer:Arduino ftdi chip-2.jpg|thumb|Un exemple de muntatge superficial (SMD) d'un circuit electrònics.]]
+L{{'}}'''electrònica''' és la branca de la física i especialització de l'enginyeria, que estudia i empra els dispositius [[electricitat|electrònics]] que funcionen controlant el flux d'[[electrons]] i altres [[Partícula elemental|partícules]] carregades elèctricament en dispositius com per exemple [[semiconductor]]s o altres. L'estudi pur d'aquests dispositius es considera una branca de la [[física]], mentre que el disseny i la implementació de circuits electrònics per solucionar problemes pràctics s'anomena [[enginyeria electrònica]]. Segons els [[components]] electrònics emprats, 
+es parla d'electrònica [[circuit analògic|analògica]] o [[circuit digital|digital]]. La diferència entre ambdós rau en el mode de tractar els senyals, si de forma contínua (analògica) o discreta (digital).
+
+Les principals utilitzacions dels circuits electrònics són, per una banda, el control, procés i distribució de la informació i, per altra banda, la distribució i conversió d'una força [[electromagnetisme|electromagnètica]]. Aquestes dues utilitzacions impliquen la creació o detecció de [[Camp electromagnètic|camps electromagnètics]] i [[Corrent elèctric|corrents elèctrics]].
+
+== Història ==
+[[Fitxer:6N23P.JPG|thumb|Una vàlvula doble-tríode de fabricació russa]]
+[[Fitxer:Electronic component transistors.jpg|thumb|Alguns transistors bipolars.]]
+[[Fitxer:SMD Transistor.jpg|thumb|Un transistor SMD]]
+[[Fitxer:555-type_Oscilator_Integrated_Circuit.jpg|thumb|Un circuit integrat oscil·lador del 1978.]]
+[[Fitxer:Op-amps.jpg|thumb|[[Amplificador operacional|Amplificadors operacionals]].]]
+Les primeres realitzacions de l'electrònica foren els circuits receptors i emissors de [[ràdio]], [[Guglielmo Marconi]] fou sens dubte un pioner, però les seves primeres ràdios no es poden considerar més que una aplicació de l'[[electrotècnia]] a un problema nou. El veritable salt qualitatiu va arribar de la mà de l'enginyer britànic [[John Ambrose Flemming]] del [[University College de Londres]] que el [[1904]] va inventar el primer dispositiu electrònic, el díode de buit, la [[vàlvula de buit]] o vàlvula termoiònica. Poc després, el [[1906]], va aparèixer el primer [[component electrònic]] de tres elèctrodes, el [[tríode]] de buit inventat per [[Lee De Forest]], que permetia amplificar un senyal. La seva aparició va fer possible un gran nombre d'aplicacions, entre d'altres la [[Telèfon|telefonia]] o els aparells de control i mesura, més tard, a la [[dècada del 1920]], va possibilitar l'emissió de la veu per ràdio i els inicis de la [[televisió]] a la del [[Dècada del 1930|1930]].
+
+Durant els [[Dècada del 1930|anys 1930]] diversos investigadors es van fixar a la commutació ràpida com a mètode per a fer càlculs complexos utilitzant un [[sistema de numeració]] [[Codi binari|binari]]. Les dues possible posicions dels commutadors expressarien les dues úniques [[Xifra (Matemàtiques)|xifres]] possibles: el zero i l'ú (0 i 1). Els tubs de buit eren més ràpids que qualsevol interruptor mecànic i aviat van ser utilitzats per a les noves màquines de calcular. La primera computadora electrònica, coneguda amb bel nom d'[[ENIAC]], va ser construïda per la [[Universitat de Pennsilvània]] per a l'[[Exèrcit dels Estats Units d'Amèrica]] i presentada el [[14 de febrer]] del [[1946]], constava de 17.468 vàlvules de buit, ocupava 167m², pesava 27 [[Tona (unitat)|tones]] i consumia la mateixa electricitat que 10 llars.
+
+Després de la [[Primera Guerra Mundial]] l'electrònica es va desenvolupar amb rapidesa, especialment en camp de la ràdio, que aquell període va arribar al punt àlgid de la seva aplicació; en la teoria de circuits es va assolir una fita fonamental amb la invenció del primer circuit de reacció el [[1927]], que es va utilitzar per aconseguir resultats significativament superiors amb pocs components, mentre que els aparells de ràdio es feien cada vegada més sofisticats passant dels senzill circuits [[Homodí|homodins]] del principi, a patrons més complexos [[Heterodí|heterodins]] i [[Superheterodí|superheterodins]], que garantien una més gran separació entre les estacions de ràdio i menys soroll.
+
+Un nou punt d'inflexió es va produir després de la [[Segona Guerra Mundial]] amb la invenció del [[transistor]], descobert el 23 de desembre del [[1947]] pels estatunidencs [[John Bardeen]], [[William Shockley]] i [[Walter Houser Brattain]], investigadors de la companyia telefònica [[American Telephone  Telegraph]] (ATT), que van observar que quan els contactes elèctrics s'apliquen a un cristall de germani, la potència de sortida és més gran que la d'entrada. El transistor era un component actiu que podia tenir les mateixes funcions de les vàlvules termoiòniques a una fracció del seu cost, de l'espai ocupat i del comsum d'energia: a més, els transistors podien ser integrats en dispositius complexos, els [[Circuit integrat|circuits integrats]], que avui dia poden contenir molts milions de transistors (i altres components com [[Resistència elèctrica (component)|resistències]], [[condensador]]s, [[díode]]s, etc.) i, per tant, poden exercir funcions molt complexes amb un cost i en un espai reduïts. El transistor va aplanant el camí per a l'aparició de la microelectrònica i els components electrònics miniaturitzats.
+
+El [[1955]], J. H. Felker va ser crear el primer computador totalment transistoritzat als [[Laboratoris Bell]] per a la [[Força Aèria dels Estats Units d'Amèrica]], el TRADIC ''('''TRA'''nsistor '''DI'''gital '''C'''omputer o '''TR'''ansistorized '''A'''irborne '''DI'''gital '''C'''omputer)'', amb uns 800 transistors de material [[semiconductor]].
+
+La integració a gran escala es va iniciar entre el [[1958]] i el [[1959]] amb la invenció dels primers circuits integrats, creats de manera independent per [[Jack Kilby]] a [[Texas Instruments]]ref name=TIJackBuilt[http://www.ti.com/corp/docs/kilbyctr/jackbuilt.shtml ''The Chip that Jack Built''], (c. 2008), (HTML), Texas Instruments./ref utilitzant [[silici]] i per [[Robert Noyce]] a [[Fairchild Semiconductor]]ref{{format ref}} http://www.ieeeghn.org/wiki/index.php/Robert_Noyce ''Robert Noyce'', (n.d.), (online), IEEE Global History Network./ref utilitzant [[germani]]. L'any [[2000]] Kilby rebria el [[Premi Nobel de Física]] per la seva contribució a la invenció del circuit integrat.
+
+El [[1971]] fou un altre any clau a la història de l'electrònica perquè es va definir i realitzar el primer [[microprocessador]], l'[[Intel 4004]], la primera [[CPU]] completa en un únic xip. Creat a [[Intel]] per un equip liderat per [[Federico Faggin]] a partir d'una arquitectura dissenyada per [[Marcian Hoff]]. El 4004 contenia 2.300 transistors i podia processar unes 92.000 instruccions per segon. A partir d'aquella data l'evolució dels microprocessadors ha estat extremadament ràpida seguint la [[Llei de Moore]], que indicava que la capacitat d'integració dels microprocessadors, el nombre equivalent de transistors, es duplicaria cada 18 mesos. A finals de la [[dècada del 1990]] van començar a aparèixer factors limitadors com la capacitat de dissipació de la calor produïda o el trencament del paral·lelisme entre la capacitat d'integració i la capacitat de procés. Alguns dels dissenys més notables han estat: el [[Intel 8008|8008]] d'Intel, el [[Zilog|Z80]] de [[Zilog]], el [[Motorola 68000|68000]] de [[Motorola]], o el [[Intel 8086|8086]] d'Intel que va donar origen a l'[[x86|arquitectura x86]].
+
+== Branques de l'electrònica ==
+
+L'electrònica es pot subdividir en un conjunt de branques en funció del tipus de [[Senyal elèctric|senyal]] que estudia, el tipus d'aplicació o fins i tot en funció de la posició jeràrquica de l'objecte d'estudi dins el sistema global.
+
+=== Segons el tipus de senyals que tracta ===
+L'electrònica té per objecte el tractament dels ''senyals electrics'' a través dels components adequats, de vegades amb la participació d'algun tipus de [[Programari|programa informàtic]]. Un senyal és una manifestació d'una magnitud física que porta informació que pot ser tractada. Habitualment es tracta d'un [[voltatge]] o d'un [[corrent elèctric]] però també pot ser un [[camp elèctric]] o [[Camp magnètic|magnètic]].
+
+Tradicionalment els senyals s'acostumen a classificar en tres grups:
+
+* [[senyal analògic]]
+* [[senyal digital]]
+* senyal de potència
+
+També és habitual considerar que els senyals tenen dos components
+
+:senyal = senyal útil + soroll
+
+el ''senyal útil'' és la part del senyal que conté la informació que s'utilitza, el ''[[Soroll (comunicació)|soroll]]'' és qualsevol pertorbació que modifica la part útil. Aquesta separació és arbitrària en tant que depèn de la utilització que se'n vol fer del senyal.
+
+==== Senyal analògic. Electrònica analògica ====
+L'[[electrònica analògica]] s'ocupa del tractament ''continu'' dels senyals ''analògics'', aquells que presenten una variació contínua al llarg del temps, en contraposició als senyals digitals que només presenten una sèrie finita d'estats discrets. Els senyals analògics poden prendre qualsevol valor dins d'un espai continu (o continu per intervals). La majoria dels sistemes físics són analògics, les [[Magnitud física|magnituds físiques]] varien de manera contínua, la [[temperatura]] en seria un exemple.
+
+El camp de l'electrònica analògica es divideix tradicionalment en diverses sub-branques, entre d'altres, les que s'ocupen de:
+
+* La instrumentació
+* Les freqüències d'àudio (lligat amb l'electroacústica)
+* Les freqüències de ràdio
+* Les hiperfreqüències (també anomenades '' freqüències de radar'' o ''altes freqüències'')
+* La producció i la propagació d'[[Ona electromagnètica|ones electromagnètiques]]
+* Els senyals de vídeo
+* Els tractament dels senyals analògics
+* La codificació dels senyals
+
+==== Senyal digital. Electrònica digital ====
+[[Fitxer:Intel 4004.jpg|thumb|Imatge d'una versió moderna del microprocessador Intel 4004.]]
+[[Fitxer:W65C134S8plg-8 lg.jpg|thumb|Un microcontrolador]]
+Per oposició a l'electrònica analògica, l'[[electrònica digital]] s'ocupa dels senyals que presenten un espai de valors discrets i en nombre finit. En el cas més simple un senyal digital només pot prendre dos valors possibles, 1 i 0.
+
+L'electrònica digital s'utilitza especialment en sistemes que contenen [[microprocessador]]s o [[microcontrolador]]s. Un exemple seria un [[ordinador]], un aparell compost en gran part per circuits d'electrònica digital.
+
+Avui dia hi ha una tendència a que el tractament dels senyals digitals reemplaci el tractament analògic. En el camp de les aplicacions domèstiques hi ha exemples notables, és el cas de l'àudio i el vídeo (reproductor [[MP3]], [[videocàmera]], [[Televisió digital terrestre]]) on l'electrònica analògica ha estat substituïda (el cas de la fotografia digital és diferent perquè ha substituït un procediment químic d'adquisició de la imatge). Tanmateix cal no oblidar que els valors discrets no existeixen al món físic real, els fenòmens analògics es poden presentar als circuits analògics, especialment en el cas de les altes freqüències. A més algunes funcions com la mesura o l'amplificació són intrínsecament analògiques i mai podran esdevenir discretes. Els sensors són majoritàriament analògics.
+
+Atès que els senyals digitals són també discrets en el temps es pot utilitzar un oscil·lador de quars (un rellotge) per tal de sincronitzar les diferents parts d'un circuit. La [[freqüència de rellotge]], expressada en [[hertz]] (Hz), d'un circuit és una expressió del nombre de canvis d'estat que són possible en cada segon. Parlarien d'electrònica síncrona. Però també és possible treballar de manera asíncrona (de manera independent a un rellotge) si s'organitza el funcionament de les diferents parts del circuit de manera que se sincronitzin per mitjà de l'intercanvi de senyals de control. En aquest cas parlarien d'electrònica asíncrona.
+
+==== Electrònica mixta ====
+També es pot parlar d'electrònica mixta quan es tracta de sistemes als que coexisteixen senyals analògics i digitals. Els mòduls específics d'aquesta branca de l'electrònica són els convertidors: el [[convertidor analògic-digital]] (CAD) i el [[convertidor digital-analògic]] (CDA). Aquests dos circuits permeten la transformació d'un senyal analògic en un senyal digital i a la inversa, això permet, per exemple, que es puguin utilitzar mòduls totalment analògics com el [[sensor]]s amb circuits digitals.
+
+Per exemple, un termòmetre amb un indicador digital pren la temperatura (que és una magnitud analògica), mesura el seu valor, la codifica en una seqüència digital i després la mostra en pantalla. Les dues primeres operacions (captura i mesura) són realitzades pels mòduls d'electrònica analògica, la tercera (codificació digital) requereix una conversió analògic-digital i l'última (presentació en pantalla) és un procés totalment digital.
+
+==== Senyals de potència. Electrònica de potència ====
+L'[[electrònica de potència]] és el conjunt de tècniques que s'interessen en [[energia]] continguda als senyals elèctrics, a diferència d'altres disciplines de l'electrònica que s'interessen sobretot en la informació continguda en els senyals. L'objectiu és el control o la transformació de l'energia elèctrica. La gamma de potència abastada varia des d'alguns [[watt|microwatts]] fins a molts megawatts.
+
+L'electrònica de potència es basa en dispositius que permeten canviar la forma de l'energia elèctrica (els convertidors, com per exemple els rectificadors) i en dispositius [[transductor]]s com la [[turbina]] o els [[Motor elèctric|motors elèctrics]]. L'electrònica de potència té com a camps d'aplicació l'[[electrotècnia]] domèstica i industrial, on reemplaça antigues solucions [[electromecànica|electromecàniques]]
+
+=== Segons la posició jeràrquica de l'objecte d'estudi ===
+Algunes branques de l'electrònica es defineixen, de manera independent de l'aplicació, en funció de la posició que ocupa l'objecte d'estudi dins la jerarquia d'un sistema electrònic.
+
+==== Física dels components ====
+En el nivell inferior se situen els [[Component electrònic|components]] electrònics. La branca que s'interessa per l'estudi i la concepció dels components electrònics elementals es denomina '''física dels components''' o '''tecnologia dels components''' i té un component de ciència bàsica i un altre de tecnològic, d'aquí les dues possibles denominacions. S'utilitzen coneixements de les ciències fonamentals com la [[física de l'estat sòlid]] o la [[química]], que tenen poc a veure amb l'electrònica en tant que l'enginy del [[Processament de senyals|tractament dels senyals]]. És un camp que fa de pont entre la física fonamental i una [[ciència aplicada]] com és l'electrònica. Els components bàsics de l'electrònica són, avui dia, els [[transistor]], la [[Resistència elèctrica (component)|resistència]], el [[condensador]], el [[díode]], etc.
+
+==== Enginyeria electrònica ====
+El camp principal d'estudi de la ciència electrònica són els circuits electrònics. Un circuit electrònic és un sistema format per un conjunt de components electrònics associats per interconnexions. El mot ''circuit'' és a causa del fet que el tractament es fa gràcies al corrent elèctric que circula entre els components interconnectats. La branca que estudia les propietats dels circuits electrònics rep el nom de [[teoria de circuits]], la que es dedica a l'estudi de la metodologia per tal de fer un tractament específic basant-se en un circuit es denomina [[disseny de circuits]]. Els sistemes electrònics moderns comporten la utilització de centenars de milions de components elementals. Per aquesta raó l'enginyeria de circuits només s'ocupa de la realització d'aplicacions o mòduls relativament simples, amb unes poques desenes de components.
+
+=== Segons la mida dels circuits utilitzats ===
+[[Fitxer:RX_1914_tranchée.JPG|thumb|Soldat a una trinxera durant la [[Primera Guerra Mundial]] utilitzant una ràdio de [[galena]].]]
+També es pot fer una classificació en funció de la mida dels circuits produïts.
+
+==== Electrònica de vàlvules ====
+[[Fitxer:Philco radio model PT44 chassis back.jpg|thumb|Una ràdio a vàlvules del 1941.]]
+Es tracta de l'electrònica que utilitza vàlvules com a components actius elementals (díodes, tríodes, tètrodes, pèntodes, ...). Avui dia pràcticament ja no existeix, es tracta d'un tipus d'electrònica en vias de desaparició, només subsisteix en forma de [[Tub de raigs catòdics|tubs catòdics]] per a receptors de televisió (en clar retrocés) i d'alguns components de les emissores de ràdio de gran potència. L'única que encara té una certa activitat és la tecnologia de vàlvules termoiòniques utilitzada en àudio en els amplificadors de guitarra elèctrica.
+
+El disseny de les vàlvules les fa molt tolerants a les sobrecàrregues i és aquesta particularitat la que fa que encara avui dia pugui tenir un cert paper en aplicacions extremes com les emissores de ràdio de potència i els tubs d'emissió de [[raigs X]]. Una altra aplicació vigent és la dels [[dinode]]s que s'utilitzen per a la detecció de fotons en alguns aparells mèdics.
+
+==== Electrònica discreta ====
+Fa referència als components elementals individuals o discrets assemblats habitualment sobre plaques electròniques o [[Circuit imprès|circuits impresos]]. Avui dia aquest tipus de concepció electrònica només s'acostuma a utilitzar en muntatges experimentals o en el marc de l'electrònica d'aficionat, la resta ha estat substituïda per la microelectrònica. Tot i que sobre els circuits impresos actuals les principals funcions són realitzades pels circuits integrats es continuen utilitzant components discrets, essencialment resistències i condensadors.
+
+==== Microelectrònica ====
+[[Fitxer:Miniature FM radio module.jpg|thumb|Un receptor de ràdio FM miniaturitzat d'un reproductor MP3 amb ràdio incorporada.]]
+La [[microelectrònica]] va néixer com a resultat del procés de miniaturització dels components electrònics elementals. Aquest procés de reducció de la mida va començar als [[Dècada del 1950|anys cinquanta]] amb l'aparició dels [[semiconductor]]s i ha arribat a una fase extrema als nostres dies. La mida dels components no para de minvar, arribant a mides de l'ordre d'algunes desenes de [[nanòmetre]]s. Aquest progrés ha estat possible gràcies als avenços assolits en el tractament dels materials semiconductors, especialment el [[silici]], que han permès de crear diversos milions de components elementals en una superfície de pocs mil·límetres quadrats.
+
+La microelectrònica s'ocupa dels sistemes electrònics que utilitzen components de mides micromètriques i nanomètriques. L'expressió ''electrònica integrada'' en seria un sinònim i es refereix a un conjunt de components ''integrats'' a un sol [[circuit integrat]] o chip de semiconductor.
+
+==== Nanoelectrònica i electrònica molecular ====
+Quan es parla de l'electrònica moderna el prefix micro comença a ser obsolet, en tant que han començat a aparèixer components amb unes mides que s'han de mesurar en nanòmetres, comparables a les de les [[Molècula|molècules]]. Per tant es parla de nanoelectrònica, de la [[nanotecnologia]] i de l'electrònica molecular. Encara més, els darrers avenços tècnics permeten albirar la concepció de components basats a les propietats dels electrons i el seu [[espín]]: l'[[espintrònica]].
+
+==== Microsistemes ====
+Amb el progrés de les micro i nanotecnologies s'observa una fusió de sistemes pertanyents a diferents dominis de la tècnica (mecànics, tèrmics, òptics, etc.) al voltant dels circuits i sistemes electrònics. Aquestes fusions són anomenades de vegades ''sistemes de tractament de senyals multidomini'' o ''sistemes multidomini''. Darrere d'aquest progrés dels [[Microsistema|microsistemes]] hi ha els procediments de mecanitzat del silici que han evolucionat fins a tal punt que és possible de realitzar estructures tridimensionals sobre cristalls de silici amb els circuits electrònics. Aquesta proximitat ofereix una interpenetració dels tractaments tradicionals que es desenvolupaven en dominis diferents i una coexistència dels senyals de diferent natura física (tèrmica, mecànica, òptica) al mateix sistema. Des de la [[dècada del 1990]] els microsistemes electromecànics o [[Microsistema electromecànic|microsistemes electromecànics]] (MEMS en les seves sigles angleses, per ''Microelectromechanical systems'') van començar a ser produïts i utilitzats en grans quantitats
+
+== Base teòrica ==
+=== Mètodes matemàtics ===
+Hi ha un cert nombre d'eines per a la modelització de les propietats electròniques dels circuits. Es poden citar els principis fonamentals de l'[[electricitat]] i de l'[[electromagnetisme]] (com per exemple la [[llei d'Ohm]], la [[llei de Gauss]], la [[llei de Faraday]]), els models de funcionament dels materials semiconductors ([[junció PN]], [[Transistor d'efecte camp|efecte de camp]], [[efecte allau]]) o eines [[Matemàtica|matemàtiques]] i [[Estadística|estadístiques]] ([[nombre complex]], [[transformada de Fourier]], [[Compressió per Wavelets|transformada de wavelets]]).
+
+Els estudis dels senyals d'alta freqüència tenen la seva base teòrica en els mètodes associats a l'anàlisi de la propagació de les ones ([[equacions de Maxwell]]). La utilització de senyals ràpids dins d'un circuit electrònic requereix una anàlisi prèvia i la utilització de [[programari]] de simulació específic. L'estudi dels components electrònics a nivell atòmic necessita dels resultats i el mètodes de la [[mecànica quàntica]].
+
+La simulació dels circuits electrònics, de vegades d'alta complexitat i cost, està molt estesa i a un nivell molt avançat. Alguns programaris poden integrar un gran nombre de paràmetres, com la temperatura o els [[Camp electromagnètic|camps electromagnètics]].
+
+=== Soroll ===
+[[Fitxer:Transistor y disipador.jpg|thumb|Un transistor amb el seu dissipador]]
+Com qualsevol altre sistema, un circuit electrònic és en contacte amb el seu entorn immediat i tant pot generar alteracions sobre aquest entorn com ser afectat per les pertorbacions presents al seu entorn. Aquestes pertorbacions reben el nom de [[Soroll (comunicació)|soroll]] i són associades a qualsevol circuit electrònic. El soroll es defineixrefIEEE Dictionary of Electrical and Electronics Terms ISBN 978-0-471-42806-0/ref com les pertorbacions no desitjades que se superposen sobre el senyal útil i que tendeixen a enfosquir la informació continguda al senyal. Per tant, en tant que afecten negativament a la funció dels circuits, és necessari minimitzar aquestes pertorbacions. El soroll no és el mateix que la distorsió dels senyals que pot causar un circuit, el soroll pot ser generat electromagnètica o tèrmicament, i, en aquest cas, pot ser disminuït baixant la temperatura de funcionament del circuit. En canvi hi ha casos com el [[soroll de granalla]] (''Shot noise'') que no pot ser eliminat de cap manera atès que és degut a les limitacions de les propietats físiques.
+
+Tanmateix la mateixa evolució de l'electrònica genera elements que afecten negativament a la lluita contra el soroll, la miniaturització i la integració dels components i dels sistemes comporten un augment de la sensibilitat davant les pertorbacions, de la mateixa manera que l'augment de les freqüències de funcionament. D'altra banda la generalització dels sistemes radioelèctrics també ha fet augmentar globalment la presència del camps de pertorbacions.
+
+=== Dissipació tèrmica ===
+[[Fitxer:AMD heatsink and fan.jpg|thumb|Un ventilador per una [[CPU]] muntat sobre un dissipador.]]
+[[Fitxer:GEDA screenshot2007.png|thumb|Disseny d'un circuit imprès.]]
+La necessitat de mantenir la temperatura dels components dins dels valors compatibles amb el seu funcionament fa necessari tractar el problema de la [[calor]] generada pels circuits electrònics, perquè si no es fa s'afectaria el rendiment i la fiabilitat a llarg termini o en alguns casos més extrems s'arribaria a una avaria immediata. Les tècniques de dissipació de la calor inclouen tant elements passius com els dissipadors o actius com els [[ventilador]]s, tot i que hi ha altres tècniques que també s'utilitzen com el refredament per [[aigua]] o per [[oli]] que s'utilitza en alguns ordinadors. Totes aquestes tècniques es basen en formes de transferència de la calor com la [[convecció]], la [[Conducció tèrmica|conducció]] o la [[radiació]] tèrmica.
+
+=== Influència dels raigs còsmics ===
+La mida dels actuals components elementals utilitzats per l'electrònica fa que també siguin sensibles a les [[Partícula subatòmica|partícules]] de la [[Raigs còsmics|radiació còsmica]]. Això fa necessari l'estudi d'aquesta sensibilitat per trobar els mètodes a aplicar per tal de garantir el funcionament correcte dels sistemes, especialment en els casos de les funcions crítiques.
+
+=== Mètodes de disseny ===
+L'electrònica moderna es basa exclusivament en unes poques eines i programaris de disseny assistit per ordinador. Aquestes eines permeten tots els processos del [[disseny de circuits]], des de la realització dels esquemes, o el dissenya dels [[Circuit imprès|circuits impresos]] fins a la modelització. El [[disseny de circuits integrats]] complexos inclou etapes intermèdies com la síntesi lògica o l'anàlisi dels retards. Alguns sistemes de disseny són NI Multisim, ORCAD o Eagle PCB entre d'altres. Els components electrònics programables com els [[microprocessador]]s, [[FPGA]]s o els [[Processador digital del senyal|processadors digitals del senyal]] competeixen amb avantatge el disseny amb eines informàtiques en aportar flexibilitat i un cost molt baix.
+
+=== Mètodes de fabricació ===
+[[Fitxer:Altera_Flex_EPF10K20_20000_cell_FPGA.jpg|thumb|Una FPGA d'Altera.]]
+La fabricació dels circuits electrònics es va diversificar molt a partir dels [[Dècada del 1980|anys vuitanta]]. Tot i que la fabricació de prototips encara es pot fer de manera artesanal, la producció en sèrie es fa en fàbriques cada cop més complexes i costoses però que permeten l'obtenció d'una tecnologia que cada cop ofereix millor rendiment i a una preus raonables. Mentre la [[indústria]] de la microelectrònica requereix d'inversions cada cop més importants per tal de seguir l'evolució de la tecnologia, les indústries de tecnologia estàndard sobre [[Circuit imprès|circuits impresos]] cerquen de millorar el seu rendiment i abaratir el cost per mitjà de la utilització de [[robot]]s per la fabricació, assemblat o test, la gestió de la producció assistida per ordinador o la [[deslocalització]] de la producció.
+
+Al llarg dels anys s'han utilitzats diferents mètodes per connectar els components al circuits electrònics. Des de les primeres construccions basades en connexions punt a punt amb els components emplaçats sobre plaques de fusta, ''cordwood'' o ''wire wrap'' fins als moderns circuits impresos (també coneguts com a PCB, de l'anglès ''Printed circuit board'') fets de materials com l'FR4 o el SRBP (''Synthetic Resin Bonded Paper'') encara més barat, també conegut com a ''Paxoline'' o ''Paxolin'' i caracteritzat pel seu color groc-marronós.
+
+Als darrers anys també han començat a ser tinguts en consideració els aspectes relacionats amb la salut i el medi ambient derivats de la fabricació d'equips electrònics. En especial per als productes destinats a la [[Unió Europea]] a causa le l'aplicació de les directives sobre restricció a la utilització de substàncies perillosesref[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0095:EN:NOT Directiva Europea sobre la restricció a la utilització de substàncies perilloses]/refref[http://www.rohs.eu/english/index.html Working with EEE producers to ensure RoHS compliance through the European Union/ref (que per exemple va comportar la prohibició de la utilització de [[plom]] a les soldadures) i sobre residus d'aparells elèctric i electrònics.ref[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0096:EN:NOT Directiva Europea sobreels residus d'aparells elèctric i electrònics]/ref
+
+[[Fitxer:MSO6014A.JPG|thumb|Un oscil·loscopi]]
+
+=== Mètodes de test ===
+El test d'un circuit electrònic és una etapa important atès que sovint es tracta de garantir la fiabilitat i el bon funcionament de sistemes de gran complexitat, pel que pot ser necessari de portar a terme un gran nombre de simulacions. Es poden diferenciar les proves unitàries per posar a punt els prototips i les proves en sèrie, més o menys automatitzades, destinades a identificar els defectes de fabricació i/o assemblat. Hi ha un gran nombre d'eines destinades a facilitar aquesta etapa: aparells de mesura ([[polímetre]], [[oscil·loscopi]], [[Mesurador de camp|analitzador de freqüències]]), estàndards per a la mesura automatitzada (''Joint Test Action Group'', ''General Purpose Interface Bus'' o [[IEEE-488]]) o sistemes automatitzats (llits de punxes, analitzadors amb sondes mòbils).
+
+== Equipament de mesura electrònica ==
+* [[Amperímetre]], mesura la intensitat elèctrica.
+* [[Òhmmetre]], mesura la resistència al pas del [[corrent elèctric]].
+* [[Voltímetre]], mesura el voltatge.
+* [[Polímetre]], combina distints equips de mesura en un sol aparell. També conegut com a Multímetre o tester.
+* [[Oscil·loscopi]], permet veure l'evolució de les magnituds en el temps.
+* [[Analitzador lògic]], prova circuits digitals.
+* [[Electròmetre]], mesura la carga elèctrica.
+
+== Components passius ==
+* [[Resistència elèctrica (component)|Resistència]]
+* [[Bobina]]
+* [[Condensador]]
+
+== Components actius ==
+* [[Díode]]
+** [[Díode LED|Díode emissor de llum]] (LED)
+** [[Fotodíode]]
+** [[Díode làser]]
+** [[Díode Zener]]
+** [[Díode d'allau]]
+** [[Díode Schottky]]
+** [[Díode supresor de voltage transitori]]
+** [[Varactor]] o Díode varicap
+* [[Transistor]]
+** [[Transistor d'efecte camp]] (FET)
+** [[Transistor bipolar]] (BJT)
+** [[Transistor bipolar de porta aïllada|Transistor IGBT]]
+** [[Transistor Darlington]]
+** [[Fototransistor]]
+* Altres components actius
+** [[Triac]]
+** [[Tiristor]]
+** [[Transistor d'una sola unió]]
+** [[Varistor]]
+** [[Rectificador controlat de silici]] (SCR)
+
+* Vàlvules termoiòniques 
+** [[Díode de buit]]
+** [[Tríode]]
+** [[Tètrode]]
+** [[Tètrode de feixos dirigits]]
+** [[Pèntode]]
+** [[Tub de raigs catòdics]] (TRC)
+** [[Dinode]]
+
+== Sensors i actuadors electromecànics ==
+* [[Micròfon]]
+* [[Altaveu]]
+* [[Galga extensiomètrica]]
+
+== Referències ==
+{{referències}}
+
+== Vegeu també ==
+{{Portal|Tecnologia}}
+{{Portal|Enginyeria}}
+{{Portal|Electrònica}}
+* [[Comandament universal]].
+
+== Enllaços externs ==
+{{Commonscat|Electronics}}
+* [http://ist-socrates.berkeley.edu/~phylabs/ Universitat de Califòrnia - Física 111] (en anglès) Lliçons d'electrònica aplicada i temes d'electrònica avançada
+* [http://www.extremetemperatureelectronics.com/index.html Electrònica de Temperatures Extremes] (en anglès)
+* [http://voltio.ujaen.es/jaguilar/download/mate_docen/mdep.htm Univ. de Jaén - Electrónica de potència] (en castellà)
+* [http://www.electronicafacil.net/tutoriales/ ElectrónicaFácil.net ] (en castellà) Guia d'electrònica des de Badalona.
+* [http://www.unicrom.com/tutoriales.asp Unicrom.com - Tutoriales de Electrónica PIC, PLC, osciladores, filtros, máquinas eléctricas, fibra óptica] (en castellà)
+* [http://eureka.ya.com/elektron/electronica.htm Eureka.ya.com - Tutoriales de electronica] (en castellà)
+* [http://www.forosdeelectronica.com/tutoriales/ ForosDeElectronica.com] (en castellà) Guies d'electrònica
+
+{{física}}
+
+{{1000 Tecnologia}}
+{{Autoritat}}
+[[Categoria:Electrònica| ]]</text>
+      <sha1>ekk1jxsk1sf8rhiu1ldy4ea4up2szps</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

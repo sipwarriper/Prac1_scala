@@ -1,0 +1,310 @@
+<page>
+    <title>StG 44</title>
+    <ns>0</ns>
+    <id>1057347</id>
+    <revision>
+      <id>13838727</id>
+      <parentid>13675893</parentid>
+      <timestamp>2014-07-16T00:14:27Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>
+{{Plantilla:VPHISMILCAT Infotaula arma
+|nom= {{PAGENAME}}
+|imatge= [[Fitxer:Sturmgewehr_44.jpg|300px|AK-47]]
+|peu= StG44
+|nació= {{Bandera|Tercer Reich}} [[Tercer Reich]]
+|spec_tipus= [[Fusell d'assalt]]
+!-- Història de servei --
+|serv_data= [[Tercer  Reich]]  {{Bandera|Tercer Reich}} Setembre 1943 - maig 1945.
+
+|Operadors=
+|operadors= [[Tercer  Reich]]  {{Bandera|Tercer Reich}}.
+[[Regne d'Hongria (1920–1946)|Regne d'Hongria]]  {{Bandera|Hongria}}.
+
+[[Iugoslàvia]]  {{Bandera|Iugoslàvia}}  (fins al 1983).
+
+[[República Democràtica Alemanya|R.D.A]]  {{Bandera|RDA}} (fins a la dècada del 1960).
+
+[[Txecoslovàquia]] {{Bandera|Txecoslovàquia}}.
+
+|guerra= [[Segona Guerra Mundial]].
+Altres conflictes locals a Àfrica, Àsia i Orient Mitjà.
+
+!-- Història de producció --
+|disseny= 1942.
+|data= 1942.
+|marca= Mauser-Werke, Walther, Steyr-Werke, Erma, Sauer-Gruppe, Haenel.
+!-- Dades tècniques --
+|pes= 5,22 kg. (sense cartutxos 4,57).
+|longitud= 94 nbsp;cm.
+|canó= 41,25nbsp;cm.
+!-- Arma de foc comuna -- 
+|munició= 7,92 x 33. Kurzpatrone (Cartutx curt).
+|calibre= 7,92 mm.
+|sistema= Gasos, foc selectiu.
+|cadència= 500 trets/minut.
+|velocitat= 650 m/s.
+|abast efectiu= 300 m en mode automàtic, 400 m en mode semiautomàtic.
+|carregador= Carregador corb de caixa separable amb 30 cartutxos en doble filera.
+|mires= Davantera: ranura amb caputxa.
+Posterior: tangent amb forma d’U.
+
+}}
+L{{'}}'''Sturmgewehr 44''' ('fusell d’assalt' en [[alemany]]) ('''StG 44'''), també conegut com a '''Maschinenpistole 43''' (''Mp 43''), fou un fusell d’assalt desenvolupat durant la [[Segona Guerra Mundial]] pel [[Tercer Reich]]. És considerat el primer fusell d’assalt del món, i fou l'arma que donà nom a la tipologia. 
+
+
+
+
+
+== Antecedents ==
+ 
+Les primeres fases de la guerra van demostrar a la [[Wehrmacht]] que no disposava d'una arma útil per a tots els camps de combat, ja que en aquella època bona part de l'exèrcit alemany estava armat amb fusells de forrellat [[Mauser Kar 98k|Kar98]], que eren aptes per al combat a camp obert i a llarga distància però inefectius a curta distància i en combats urbans. A part d'aquesta arma, també es disposava, en menor quantitat, de l'[[MP40]], un subfusell que disparava munició de pistola i que era efectiu en combat urbà però inútil en camp obert. Amb la introducció a petita escala del fusell semiautomàtic [[Gewehr 41]] i, posteriorment, del [[Gewehr 43]], es va intentar fer una arma versàtil per a totes les situacions, tot i que a causa dels problemes mecànics i les reduïdes entregues, aquests fusells no van suplir la necessitat. Per contra, l'exèrcit roig sí que disposava d'una arma més o menys versàtil, els fusells semiautomàtics [[SVT 38]] i [[SVT 40]].
+
+gallery
+Fitxer:SVT_1858.jpg|SVT 40
+Fitxer:Gewehr41w.jpg|Gewehr 41
+/gallery
+
+
+
+
+Així doncs, atès el fracàs dels fusells semiautòmatics i la inferioritat germànica en armament d'infanteria, el 1941 es va decidir reimpulsar un projecte de recerca, ja iniciat el 1938, denominat ''Mkb'', que dirigia Hugo Schmeisser i desenvolupaven les empreses Walter i Haenel. L'arma que es desenvolupava en aquest projecte havia de tenir la potència i l’abast dels fusells Mauser K98 utilitzats fins llavors i la [[cadència de tir]] d’armes automàtiques com l’MP 40. Tot i la necessitat evident d’aconseguir-la, hi va haver molt poc interès per part de l'[[OKW]] (alt comandament de la Wehrmatch) i el projecte va disposar de pocs fons, ja que en aquells moments la guerra anava bé per a Alemanya i els alts comandaments no van veure la necessitat d'innovar en armes millors.
+
+== Desenvolupament: el projecte Mkb ==
+
+
+[[File:German 7.92x33mm Kurz.jpg|esquerra|German 7.92x33mm Kurz|thumb|80px|Cartutx 7.92x33mm Kurz.]]El desenvolupament de la nova arma es va produir en un temps rècord, amb la dificultat afegida que al mateix temps que es dissenyava el fusell, també se'n dissenyava la munició, i els canvis es van anar aplicant sobre la marxa. La munició que es va decidir utilitzar va ser el cartutx 7,92 x 33 mm Kurz, desenvolupat per l’empresa Polte, de Magdaburg. Aquest cartutx era de longitud més reduïda que la munició de fusell, però d’igual calibre, així doncs, no va fer falta fabricar de nou totes les plantilles de fàbrica.ref[http://www.municion.org/7_9x33/7_92x33.htm 7,92 x 33 Kurz] /ref
+El 1942 el projecte va ser mostrat a Hitler. Se li van ensenyar els dos prototips de la nova arma, el desenvolupat per l’empresa Walter (Mkb W), que tenia una cadència de tret de 600 trets per minut, pesava 4,50 Kg i la presa de gasos era de pistó sobre el canó, i el prototip desenvolupat per Haenel (Mkb H), que tenia una cadència de 500 trets per minut, pesava  5 Kg i la presa de gasos era de pistó anular al canó. Els dos prototips utilitzaven el mateix carregador de caixa separable corba amb capacitat de 30 cartutxos. Després de l’exposició el Führer es va mostrar clar: Alemanya no podia permetre’s fabricar en aquell moment un nou tipus d’arma i de munició, i va ordenar la cancel·lació del projecte. 
+
+Això no obstant, els dirigents del projecte i els membres de l’OKW van considerar que el nou fusell era de vital importància, ja que durant l'hivern l'armament d'infanteria alemany estava encara en més desavantatge —les armes alemanyes es congelaven amb les baixes temperatures de l’hivern rus i la intensa temporada de fang de la tardor les tornaven inservibles, això va fer que molt soldats preferissin combatre amb armes capturades—; per això es va decidir seguir-la desenvolupant a l'esquena de Hitler. Per fer veure que el projecte no era cap arma nova i seguir comptant amb el finançament del Ministeri de Guerra, es va canviar el nom a projecte MP 43, com si es tractés d'una millora de l'MP 40.
+
+L’OKW va considerar que el prototip de Mkb de Haenel era el més viable tècnicament i va ordenar fabricar-ne unes desenes d’unitats. L’ocasió per posar a prova la seva efectivitat en combat va arribar l’hivern del 1941 a 1942, quan un contingent de tropes alemanyes sota el comandament de Theodor Scherer va quedar aïllada a la ciutat soviètica de Jolm. Els defensors van ser subministrats per aire i se’ls va fer arribar diverses unitats de Mkb 42, unes 35. Els resultats van ser excel·lents. L’arma va dotar la infanteria d’una sorprenent potència de foc i es va guanyar la fama i la bona consideració entre les tropes. 
+En una reunió amb alts oficials del front oriental, Hitler va preguntar què necessitaven i un general va dir: Més d'aquestes noves armes. Això va crear certa confusió en el Fhürer, que va preguntar: Quines armes noves? 
+Tot i adonar-se que s'havia desobeït la seva ordre de cancel·lació del projecte, es va veure impressionat amb els resultats de l'arma i va canviar d'opinió, en va permetre la fabricació per propòsits avaluatius al març del 1943. Les proves van durar fins al setembre d'aquell any i a partir de llavors es va ordenar la producció en massa.
+
+gallery
+Fitxer:Haenel Mkb 42(H).jpg|Mkb 42 (H).
+Fitxer:Maschinenkarabiner 42W.JPG|Mkb 42(W) amb un dispositiu llançagranades.
+/gallery
+
+== StG 44 ==
+
+=== Denominacions ===
+L'StG 44 abans de ser conegut així globalment es va anomenar de diverses formes. A l'inici, quan es va començar a produir, el 1943, era anomenat MP 43 (Maschinenpistole 43), ja que se suposava que era una modificació de l'MP 40. Les armes produïdes a començaments del 1944 ja eren fetes amb les modificacions al rail i al canó i, per tant, va ser anomenada MP 44. El nom StG 44, sigles de Sturmgewehr 44 (literalment rifle d’assalt model 1944 en alemany), van ser introduïdes en un decret de Hitler el 6 d'abril de 1944 per destacar la nova classe d'arma que era i fer creure així que era una de les armes meravelloses en què tant confiava el poble alemany.
+
+=== Modificacionsref[http://www.taringa.net/posts/info/8893158/STG-44-el-arma-por-excelencia-de-la-Segunda-Guerra-Mundial.html Modificacions en l'Stg 44] /ref ===
+[[File:Bundesarchiv_Bild_146-1979-118-55%2C_Infanterist_mit_Sturmgewehr_44.jpg|dereta|thumb|Soldat usant l'Stg 44 amb la mira ZF 4.]]
+
+
+Al model inicial de l'StG 44 se li van fer moltes variacions a partir de les experiències en el combat:
+
+
+
+*Ja des del començament de la producció de l’arma es va eliminar la possibilitat d’afegir-hi una baioneta com en l’Mkb (H) ja que desestabilitzava l’arma a l’hora d’apuntar.[[File:G3_and_StG44.jpg|right|thumb|Krummlauf I, la versió per infanteria.]]
+
+*L’anomenada MP 44/1 permetia, gràcies a unes modificacions de la punta del canó, acoblar diversos dispositius llançagranades. En les produccions posteriors l’arma sortia de fàbrica amb el canó preparat per acoblar-hi llançagranades.
+
+*L’MP 44/1  també permetia l’acoblament de silenciador.
+
+*Un rail a la part superior permetia afegir-hi una mira telescòpica ZF 4.  En les produccions posteriors l’arma sortia de fàbrica amb el rail incorporat.
+
+*A partir del febrer del 1945, alguns StG 44 van ser utilitzats amb el visor d’[[infraroig]] Zielgerät 1229 anomenat [[Vampyr]] (que també va ser utilitzat en tancs [[Panzer V Panther|Panther]]). El Vampyr és el primer visor d’infrarojos utilitzat en armes, pesava més de 13 kg i se'n van fabricar tan sols 310 unitats abans d’acabar la guerra.
+
+*La modificació més coneguda i curiosa que es va aplicar a l’arma va ser el ''krummlauf'' (trompa en alemany), un allargament corb del canó que permetia disparar des de l’interior dels vehicles i des de les cantonades sense posar-se a tret. Hi havia la versió I utilitzada per a combats urbans i amb canons de  30°, 45°, 60° i 90°. També hi havia la versió P,  de 30° i utilitzat per a les tripulacions dels vehicles per cobrir angles morts utilitzats pels caçadors de tancs. Per ser utilitzat, es requeria un [[periscopi]], que s’afegia al mig del canó.
+
+=== Producció ===
+====  ====
+
+
+{| border=0 cellspacing=0 cellpadding=3 style=border-top:3px double #999; border-collapse:collapse; text-align:center; font-size:smaller; 
+|+ style=font-size:larger; text-align:center;  | Producció de l'StG 44 durant la Segona Guerra Mundial.ref[http://www.lasegundaguerra.com/viewtopic.php?f=202t=8437 producció de l'StG 44] /ref
+|- style=vertical-align:bottom; border-bottom:1px solid #999; 
+!
+!
+|- bgcolor=#CCDDEE
+!
+!
+! style=text-align:center;  | 1943 br /nbsp;
+!
+!
+! style=text-align:center;  | 1944 br /nbsp;
+!
+!
+! style=text-align:center;  | 1945 br /nbsp;
+!
+!
+!
+|- 
+! style=text-align:right;  | Gener
+|
+| 500
+|
+|
+| 3.400
+|
+|
+| 41.683
+
+|- 
+! style=text-align:right;  | Febrer
+|
+| 1.217
+|
+|
+| 4.050
+|
+|
+| 34.300
+
+|- 
+! style=text-align:right;  | Març
+|
+| 900
+|
+|
+| 7.000
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Abril
+|
+| 2.179
+|
+|
+| 9.000
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Maig
+|
+| 3.044
+|
+|
+| 9.500
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Juny
+|
+| 1.898
+|
+|
+| 13.000
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Juliol
+|
+| 1.520
+|
+|
+| 20.510
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Agost
+|
+| 1.631
+|
+|
+| 29.300
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Setembre
+|
+| 1.636
+|
+|
+| 35.000
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Octubre
+|
+| 4.000
+|
+|
+| 46.000
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Novembre
+|
+| 6.200
+|
+|
+| 55.100
+|
+|
+| −
+
+|- 
+! style=text-align:right;  | Desembre
+|
+| 6.493
+|
+|
+| 49.800
+|
+|
+| −
+|
+|}
+
+== Galeria ==
+gallery perrow=7 
+File:Bundesarchiv_Bild_101I-692-0262-32A%2C_Russland%2C_Gebirgsjäger_mit_MP_43.jpg|Gebirgjäger (caçador de muntanya) armat amb un StG 44, gener-febrer 1944.
+File:Bundesarchiv_Bild_101I-691-0244-11%2C_Russland%2C_Winter%2C_MG_42_in_Stellung.jpg|Observador amb l'StG 44, gener-febrer 1944.
+File:Bundesarchiv_Bild_101I-090-3912-20A%2C_Russland%2C_Soldaten_in_Winterausrüstung_bei_Rast.jpg|Gebirgjäger amb StG 44, primavera 1944.
+File:Bundesarchiv_Bild_101I-676-7996-13%2C_Infanterist_mit_Sturmgewehr_44.jpg|Soldat d'infanteria amb l'StG 44, i vestit amb una gorra M 43 i [[Patró geomètric|camuflatge geomètric]]. 
+File:Bundesarchiv_Bild_183-J28344%2C_Westfront%2C_Grenadiere_gehen_bei_Aachen_vor.jpg|Granaders panzer en maniobres a [[Aachen]], desembre 1944.
+File:Bundesarchiv_Bild_183-1985-0104-501%2C_Ardennenoffensive%2C_Grenadiere_in_Luxemburg.jpg|Volksgrenadiers a Luxemburg durant la [[Batalla de les Ardenes]], desembre 1944.
+File:Bundesarchiv_Bild_183-33349-0002%2C_Neustrelitz%2C_Jahrestag_der_DDR%2C_Volkspolizei.jpg|Oficials de la Volkspilizei (policia de la [[República Democràtica Alemanya|R.D.A.]]) armats amb l'StG 44 desfilen a Neustrelitz el 1955.
+/gallery
+
+== Referències ==
+{{referències}}
+== Enllaços externs ==
+
+{{commonscat|StG 44}}
+
+=== En castellà ===
+* [http://www.panzertruppen.org/heer/infanteria/armas/stg44.html Història de l'StG44, Panzertruppen.org]
+
+=== En anglès ===
+* [http://ww2db.com/weapon.php?q=5 Fusell d'assalt StG 44, WW2 Date Base]
+
+== Bibliografia ==
+* John Weeks, ''Armas de infantería''. Madrid: Editorial San Martín, 1974. ISBN 84-7140-096-0
+{{Commonscat|StG 44}}
+{{Autoritat}}
+{{Enllaç AB|uk}}
+
+[[Categoria:Armes de foc]]</text>
+      <sha1>60vdxukyo7h0w78t7h43nzizcm71pzr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

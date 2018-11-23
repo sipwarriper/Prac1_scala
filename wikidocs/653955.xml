@@ -1,0 +1,776 @@
+<page>
+    <title>Plantilla:Infotaula vaixell/ús</title>
+    <ns>10</ns>
+    <id>653955</id>
+    <revision>
+      <id>12610757</id>
+      <parentid>7920026</parentid>
+      <timestamp>2013-12-28T00:16:00Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot afegint [[Categoria:Plantilles sense TemplateData]] a la documentació</comment>
+      <text>{{Subpàgina de plantilla}}
+== Ús ==
+
+{{Fitxa de vaixell
+|nom = USS Gunston Hall (LSD-5) br/ ARA Cándido de Lasala (Q-43)
+|imatge = ARACandidodeLasalaQ43.jpg
+|títol = Vaixell de desembarcament dic ARA Cándido de Lasala (Q-43), a la Base Naval de [[Port Belgrano]]
+|mida = 300px
+|banderes = [[fitxer: US Naval Jack.svg|48px|EUA]] [[fitxer: Naval-Jack-of-Argentina.svg|35px|Argentina]]
+|drassana = Moore Dry Dock Co de Okland, [[Califòrnia]], [[Estats Units]]
+|classe = Classe Ashland
+|tipus = LSD
+|autoritzat =
+|iniciat =
+|avarament = [[1 de maig]] de [[1943]]
+|assignat ={{bandera|Estats Units}}1943 br/{{bandera|Argentina}}[[25 de maig]] de [[1970]]
+|baixa ={{bandera|Estats Units}}maig de 1970 br/{{bandera|Argentina}}[[6 de març]] de [[1981]]
+|destí = Adquirit el [[22 de març]] de [[1982]] per Elio i Arsenio Llop i desballestat
+|desplaçament = 4.032 t standard br/ 7.930 t APC
+|propulsió = Dues màquines alternatives de vapor de flux directe Skinner, acoblades directament a dos eixos portahélices. De cinc cilindres de 23 de diàmetre i 24 de carrera, dues br/ Dos [[calderes]] Tipus D Babcock  Wilcox.
+|potència = 7.400 CV
+|velocitat = 15,1 [[Nus (unitat)|nusos]]
+|capacitat = 3 LCT (Mk V o VI) per a 5 tancs mitjans cadascun br/ o 2 LCT (Mk III o IV) cada un per a 12 tancs mitjans br/ o 14 LCM (Mk III) per a un tanc mitjà br/ o 1.500 tones de càrrega br/ o 47 vehicles amfibis br/ o41 vehicle de desembarcament amb cadenes br/ combinacions dels anteriors
+|eslora = 138,64 metres
+|mànega = 22,35 metres
+|puntal =
+|calat = 5,39 metres
+|calat-aeri =
+|cobertes =
+|aparell =
+|sensors = Adreces de tir MK 51 per als canons de 40 mm
+|blindatge =
+|armament = Original: 16 canons de 40 mm (16x1) br/ A la [[Armada Argentina]]: 12 canons de 40/60 (2x4+2x2) br/ 10 [[metralladora]] s de 12 , 7 mm
+|guerra-electrònica =
+|tropes = 240 homes
+|tripulació = 250 homes
+|aeronaus =
+|equipament-aeronaus = Modificat per acomodar helicòpters i addicció de coberta portàtil
+|autonomia = 8.000 milles a 8 [[Nus (unitat)|nusos]]
+|notes =
+}}
+
+Aquesta fitxa es pot utilitzar per a articles sobre qualsevol tipus de vaixells ,naus ,navilis o submarins, tant civils com de guerra.
+pre style=overflow:auto
+{{Fitxa de vaixell
+| nom                   = {{subst:PAGENAME}}
+| imatge                = 
+| títol                 = 
+| mida                  = 
+| banderes              = 
+| drassana              = 
+| classe                = 
+| tipus                 = 
+| operador              = 
+| port-de-registre      =
+| autoritzat            = 
+| iniciat               = 
+| avarament             = 
+| assignat              = 
+| viatge-inaugural      =
+| baixa                 = 
+| destí                 =
+!-- FINS AQUÍ ELS PARÀMETRES BÀSICS A PARTIR D'AQUÍ ELS PARÀMETRES ESPECÍFICS-- 
+| desplaçament          = 
+| desplaçament-immersió =
+| eslora                =
+| mànega                = 
+| puntal                = 
+| calat                 = 
+| calat-aeri            =
+| cobertes              = 
+| aparell               = 
+| blindatge             = 
+| armament              = 
+| guerra-electrònica    = 
+| propulsió             = 
+| potència              = 
+| potència-immersió     = 
+| velocitat             = 
+| velocitat-immersió    = 
+| profunditat           = 
+| sensors               = 
+| autonomia             = 
+| tripulació            =
+| tropes                = 
+| capacitat             =
+| aeronaus              = 
+| equipament-aeronaus   =
+| notes                 = 
+}}
+/Pre
+
+== Paràmetres bàsics ==
+aquests paràmetres bàsics tenen a veure amb la vida de servei del vaixell:
+
+* '''Nom ''' - el nom del vaixell, incloent-hi el numeral (si existeix). Si heu tingut diversos, s'indiquen un darrere l'altre separats mitjançant nowiki br/ /nowiki.
+* '''Imatge ''' - una imatge del vaixell. Cal indicar només el nom del fitxer d'imatge, ja que la plantilla generarà el wikienlace corresponent cap [http://commons.wikipedia.org Commons].
+* '''Títol ''' - el text a posar sota la imatge. Pot incloure wikienlaces.
+* '''Mida ''' - la mida en píxels amb el de mostrar la imatge. Si no s'especifica, s'assignarà automàticament 300px. No s'aconsella utilizar mides grans de 300 píxels.
+* '''Banderes ''' - S'inclouran les banderes navals de les armades a les quals el vaixell ha prestat servei per ordre cronològic, en cas que hgués servit a la mateixa armada en dos períodes diferents, no es repetirà la bandera. Per veure una llista de les disponibles, pot busca el terme [http://commons.wikimedia.org/wiki/Special:Search?search=naval+jackgo=Ir «Naval jack en Commons]. El format de cada bandea serà sempre nowiki{{Bandera|País|naval|mida = 48px}}/nowiki; cas de no ser-hi com a plantilla de geodades la bandera necesària, s'utilitzarà nowiki [[fitxer: nom d'archivo.png|48px]] /nowiki, si hi ha més d'una, es separarà mitjançant un espai.
+* '''Drassana ''' - El astillero en què es va construir el vaixell. Pot anar en format de wikienlace.
+* '''Classe ''' - La classe a la qual pertany el vaixell. Pot anar en format de wikienlace.
+* '''Tipus ''' - destructor, cuirassat, portaavions, etc.
+* '''Operador ''' - En vaixells civils, propietari o propietaris del vaixell.
+* '''Port de registre ''' - Lloc on està matriculat el vaixell.
+* '''Autoritzat ''' - La data en què va ser autoritzat o ordenada la construcció del vaixell. Pot anar en format de wikienlace.
+* '''Iniciat ''' - La data en què es va iniciar la construcció del casc del vaixell. Pot anar en format de wikienlace.
+* '''avarament ''' - La data en què es botó el vaixell. Pot anar en format de wikienlace.
+* '''Assignat ''' - La data d'entrada en servei del vaixell. Pot anar en format de wikienlace. Si hi ha més d'una, es diferenciaran amb la plantlla nowiki{{bandera|país}}/nowiki i se separen mitjançant nowiki br/ /nowiki.
+* '''Viatge-inaugural ''' - En vaixells civils, trajecte i dates de la seva primera ruta comercial
+* '''Baixa ''' - Data en què el vaixell causa baixa en la seva respectiva armada, si hi ha més d'una, es discriminar igualment al cas anteror.
+* '''Destinació ''' - La fi del vaixell, si ja no està en servei (enfonsat, encallat, conservat com a vaixell museu, desmantellat ...). Pot cntenir wikienlaces.
+
+== Paràmetres específics==
+pre style=overflow:auto
+!-- característiques generals --
+|desplaçament =
+|desplaçament-immersió =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|cobertes =
+|aparell =
+|blindatge =
+|armament =
+|guerra-electrònica =
+|propulsió =
+|potència =
+|potència-immersió =
+|velocitat =
+|velocitat-immersió =
+|profunditat =
+|sensors =
+|autonomia =
+|tripulació =
+|tropes =
+|capacitat =
+|aeronaus =
+|equipament-aeronaus =
+|notes =
+}}
+/Pre
+
+Aquests paràmetres descriuen les característiques tècniques i capacitats generals del vaixell:
+
+* '''Desplaçament ''' - Pes brut de desplaçament del vaixell, en tones.
+* '''Desplaçament-immersió ''' - Pes brut de desplaçament del submarí en la immersió, en tones.
+* '''Eslora ''' - Longitud del vaixell de proa a popa, en metres.
+* '''Mànega ''' - Ample del vaixell d'estribord a babord, en metres.
+* '''Puntal''' - Mida del [[puntal]].
+* '''Calat ''' - Espai de quilla per sota de la línia de flotació. Si es coneix, especificar calat en buit ia plena càrrega.
+* '''Cobertes ''' - per als vaixells de vela de fins a mitjans del S XVIII, és una de les dades que definia costat del número de canons seu ptencial.
+* '''Aparell ''' - Tipus de velam, fonamental per per vaixells de propulsió a vela (aparell llatí, bric-barca, veles quadrades ...)
+* '''Blindatge ''' - Espessors i localització dels diferents tipus de blindatge del vaixell.
+* '''Armament ''' - Llista de l'armament del vaixell. No cal que sigui exhaustiva.
+* '''Guerra electrònica ''' - Totes les mesures i contramesures de guerra electrònica.
+* '''Propulsió ''' - Sistema de propulsió empleat (calderes, turbines, nombre d'hèlixs, veles (m²), etc ...).
+* '''Potència ''' - Potència dels motors del vaixell.
+* '''Potència-immersió ''' - Potència dels motors que utilitza el submarí en immersió.
+* '''Velocitat ''' - Velocitat màxima del vaixell expressada en [[nus (unitat)|nusos]] (en superfície, quan es tracti d'un submarí).
+* '''Velocitat-immersió ''' - expressada en nusos, Per als submarins (varia sensiblement respecte a la que són capaços de desenvolupar en superície)
+* '''Profunditat ''' - profunditat màxima a la que pot submergir un submarí.
+* '''Sensors ''' - models de radar, sonar, radiotelémetros i directors de tir
+* '''Autonomia ''' - Autonomia del vaixell, especificant que velocitat s'assoleix.
+* '''Tripulació ''' - Quantitat d'homes que formen la tripulació de la nau.
+* '''Tropes ''' - Tropes capaç de transportar el vaixell més de la seva tripulació.
+* '''Capacitat ''' - per vaixells de càrrega, passatgers, transports militars, vaixells de desembarcament i vaixells mixtos, en ell es definixen tant la capacitat de passatgers (vaixells civils), com la cabuda del seu/s garatge/s si els hagués .
+* '''Aeronaus ''' - Aeronaus assignades al vaixell, si n'hi ha
+* '''Equipament aeronaus ''' - Tot l'equipament destinat a operar aeronaus, com ara hangars, catapultes plataformes de apontaje ...
+* '''Notes ''' - Dades addicionals.
+
+== Ús de la plantilla segons el tipus de vaixell ==
+Aquesta plantilla té la capacitat d'adaptar a cada tipus de vaixell només amb usar els paràmetres adequats a cadascú, per això, les dades que no siguin necessaris s'eliminaran en l'article, usant de la següent manera:
+
+=== Vaixells de guerra de superfície sense veles ===
+{{Fitxa de vaixell
+|nom = USS Philadelphia (CL-41) br/ Barroso (CL-11)
+|imatge = CRUZADOR_LIGERO_CLASSE_BROOKLYN_BARROSO.jpg
+|títol = USS Philadelphia (CL-41) a la costa enfront de [[Nova York]] a [[1943]]
+|mida = 300px
+|banderes = [[fitxer: US Naval Jack 48 stars.svg|48px|USN Jack]] [[fitxer: Naval Jack of Brazil.svg|48px|Brazil Jack]]
+|drassana = [[Astillero Naval de Filadèlfia]]
+|classe = [[classe Brooklyn]]
+|tipus = [[Creuer lleuger]]
+|autoritzat =
+|iniciat = [[28 de maig]] de [[1935]]
+|avarament = [[17 de novembre]] de [[1936]]
+|assignat ={{bandera|Estats Units}}[[23 de setembre]] de [[1937]] br/{{Bandera|Brasil}}[[agost 21]] de [[1951]]
+|baixa ={{Bandera|EUA}}3 febrer 1947 br/{{Bandera|Brasil}}15 maig 1973
+|destí = desballestat a [[1973]]
+|desplaçament = 9.700 tones
+|propulsió = 8 calderes Babcock  Wilcox Exp br/ 4 turbines Parson de 2000 Kwts
+|potència = 100.000 cv
+|velocitat = 32,5 nusos
+|eslora = 185,42 metres
+|mànega = 18,82 metres
+|calat = 5,92 metres
+|calat-aeri =
+|sensors =
+|blindatge =
+|armament = 15 canons de 152 mm (6 ) br/ 8 canons de 127 mm (5) br/ 20 canons de 40 mm br/ 10 canons de 20 mm
+|guerra-electrònica =
+|tripulació = 868 entre oficials i marineria
+|aeronaus = 4 hidroavions (fins 1947) br/ 1 helicòpter (des 1951)
+|equipament-aeronaus = 2 catapultes (desmuntades el 1947) br/ hangar lleuger
+|autonomia = 10.000 minuts a 15 nusos
+|notes = 5 estrelles de batalla en la SGM
+}}
+S'eliminaran els paràmetres referits a càrrega, capacitats submarines i velam; a més , si el vaixell és anterior a la introducció del radar (Segona Guerra Mundial), s'eliminarà l'apartat sensors.
+pre style=overflow:auto
+{{Fitxa de vaixell
+|nom =
+|imatge =
+|títol =
+|mida =
+|banderes =
+|drassana =
+|classe =
+|tipus =
+|autoritzat =
+|iniciat =
+|avarament =
+|assignat =
+|baixa =
+|destí =
+|desplaçament =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|propulsió =
+|potència =
+|velocitat =
+|sensors =
+|blindatge =
+|armament =
+|guerra-electrònica =
+|tripulació =
+|aeronaus =
+|equipament-aeronaus =
+|autonomia =
+|notes =
+}}/Pre
+
+Exemple
+pre{{Fitxa de vaixell
+|nom = USS Philadelphia (CL-41) br/ Barroso (CL-11)
+|imatge = CRUZADOR_LIGERO_CLASSE_BROOKLYN_BARROSO.jpg
+|títol = USS Philadelphia (CL-41) a la costa enfront de [[Nova York]] a [[1943]]
+|mida = 300px
+|banderes = [[fitxer: US Naval Jack 48 stars.svg|48px|USN Jack]] [[fitxer: Naval Jack of Brazil.svg|48px|Brazil Jack]]
+|drassana = [[Astillero Naval de Filadèlfia]]
+|classe = [[classe Brooklyn]]
+|tipus = [[Creuer lleuger]]
+|autoritzat =
+|iniciat = [[28 de maig]] de [[1935]]
+|avarament = [[17 de novembre]] de [[1936]]
+|assignat ={{bandera|Estats Units}}[[23 de setembre]] de [[1937]] br/{{Bandera|Brasil}}[[agost 21]] de [[1951]]
+|baixa ={{Bandera|EUA}}3 febrer 1947 br/{{Bandera|Brasil}}15 maig 1973
+|destí = desballestat a [[1973]]
+|desplaçament = 9.700 tones
+|propulsió = 8 calderes Babcock  Wilcox Exp br/ 4 turbines Parson de 2000 Kwts
+|potència = 100.000 cv
+|velocitat = 32,5 nusos
+|eslora = 185,42 metres
+|mànega = 18,82 metres
+|calat = 5,92 metres
+|calat-aeri =
+|sensors =
+|blindatge =
+|armament = 15 canons de 152 mm (6 ) br/ 8 canons de 127 mm (5) br/ 20 canons de 40 mm br/ 10 canons de 20 mm
+|guerra-electrònica =
+|tripulació = 868 entre oficials i marineria
+|aeronaus = 4 hidroavions (fins 1947) br/ 1 helicòpter (des 1951)
+|equipament-aeronaus = 2 catapultes (desmuntades el 1947) br/ hangar lleuger
+|autonomia = 10.000 minuts a 15 nusos
+|notes = 5 estrelles de batalla en la SGM
+}}/pre
+
+=== Vaixells de guerra amfibis ===
+igual que l'anterior, però s'hi afegeixen els apartats referents a tropa i capacitat de transport.
+
+pre style=overflow:auto
+{{Fitxa de vaixell
+|nom =
+|imatge =
+|títol =
+|mida =
+|banderes =
+|drassana =
+|classe =
+|tipus =
+|autoritzat =
+|iniciat =
+|avarament =
+|assignat =
+|baixa =
+|destí =
+|desplaçament =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|propulsió =
+|potència =
+|velocitat =
+|sensors =
+|blindatge =
+|armament =
+|guerra-electrònica =
+|tropes =
+|tripulació =
+|capacitat =
+|aeronaus =
+|equipament-aeronaus =
+|autonomia =
+|notes =
+}}/Pre
+
+=== Vaixells de propulsió mixta ===
+{{Fitxa de vaixell
+|nom = Juan Sebastián de Elcano
+|imatge = Juan Sebastián Elcano DN-SC-92-00851.jpg
+|títol = Navío Juan Sebastián Elcano a port
+|mida = 300px
+|banderes ={{Bandera|Espanya|mida = 40px}}{{Bandera|Espanya|mida = 40px}}{{Bandera|Espanya|mida = 40px}}{{Bandera|Espanya|mida = 40px}}
+|drassana = Echavarrieta i Larrinaga - [[Cadis]]
+|classe = Classe Juan Sebastián Elcano (2 vaixells)
+|tipus = Bergantín-goleta
+|autoritzat = 6 abril 1923
+|iniciat =
+|avarament = 5 març 1927
+|assignat = 29 febrer 1928
+|baixa =
+|destí = Actiu
+|desplaçament = 3.700 t APC br/ 2.900 t a rosca
+|propulsió = Vela/motor Dièsel
+|potència =
+|velocitat = 16,5 [[Nus (unitat)|nusos]]
+|capacitat =
+|eslora = 113,1 m br/ 94,13 m sense el bauprès.
+|mànega = 13,1 m
+|puntal = 8,68 m
+|calat = 7 m
+|calat-aeri = 48,7 m
+|aparell = bric-barca
+|blindatge =
+|armament = 2 canons de 47
+|tripulació = 257 persones
+|autonomia = 1200-17 [[Nus (unitat)|nusos]]
+|notes =
+}}
+Durant els inicis de la propulsió a vapor, i en determinats vaixells d'avui dia, és normal trobar vaixells amb propulsió mixta (veles i vapor/dièsel), en aquests casos, mantindrem els paràmetres referits a ambdós tipus de vaixells.
+
+pre style=overflow:auto
+{{Fitxa de vaixell
+|nom =
+|imatge =
+|títol =
+|mida =
+|banderes =
+|drassana =
+|classe =
+|tipus =
+|autoritzat =
+|iniciat =
+|avarament =
+|assignat =
+|baixa =
+|destí =
+|desplaçament =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|cobertes =
+|aparell =
+|armament =
+|propulsió =
+|potència =
+|velocitat =
+|sensors =
+|blindatge =
+|armament =
+|tripulació =
+|autonomia =
+|notes =
+}}/Pre
+Exemple:
+pre{{Fitxa de vaixell
+|nom = Juan Sebastián de Elcano
+|imatge = Juan Sebastián Elcano DN-SC-92-00851.jpg
+|títol = Navío Juan Sebastián Elcano a port
+|mida = 300px
+|banderes ={{Bandera|Espanya|mida = 40px}}{{Bandera|Espanya|mida = 40px}}{{Bandera|Espanya|mida = 40px}}{{Bandera|Espanya|mida = 40px}}
+|drassana = Echavarrieta i Larrinaga - [[Cadis]]
+|classe = Classe Juan Sebastián Elcano (2 vaixells)
+|tipus = Bergantín-goleta
+|autoritzat = 6 abril 1923
+|iniciat =
+|avarament = 5 març 1927
+|assignat = 29 febrer 1928
+|baixa =
+|destí = Actiu
+|desplaçament = 3.700 t APC br/ 2.900 t a rosca
+|propulsió = Vela/motor Dièsel
+|potència =
+|velocitat = 16,5 [[Nus (unitat)|nusos]]
+|capacitat =
+|eslora = 113,1 m br/ 94,13 m sense el bauprès.
+|mànega = 13,1 m
+|puntal = 8,68 m
+|calat = 7 m
+|calat-aeri = 48,7 m
+|aparell = bric-barca
+|blindatge =
+|armament = 2 canons de 47
+|tripulació = 257 persones
+|autonomia = 1200-17 [[Nus (unitat)|nusos]]
+|notes =
+}}/pre
+
+=== Vaixells de vela ===
+{{Fitxa de vaixell
+|nom = Santa Anna
+|imatge = Navío_santa_ana_de_112_cañones.jpg
+|títol = [[Navío]] '' Santa Anna '' de 112 canons. Gravat del segle XIX.
+|mida = 300px
+|banderes = [[fitxer: Bandera_de_España_1760-1785.svg|50px|Bandera d'Espanya 1748-1785]]{{Bandera|Espanya|mida = 50px}}
+|drassana = [[Reials Drassanes de Esteiro]], [[Ferrol]]
+|classe = Classe Santa Anna
+|tipus = Navío de línia
+|autoritzat =
+|iniciat =
+|avarament = [[28 de setembre]] de [[1784]]
+|assignat = [[28 de febrer]] de [[1785]]
+|baixa = 1816
+|destí = Enfonsat el 1816 a l'Havana
+|desplaçament = 2.308 [[tona (unitat)|t]]
+|propulsió = vela
+|velocitat = nusos
+|eslora = 59,46 metres
+|mànega = 16,56 metres
+|puntal =
+|calat = 7,36 metres
+|calat-aeri =
+|cobertes = 3
+|aparell =
+|armament = 112 canons:
+* Al seu lliurament: br/
+30 [[Canó (artilleria)|canons]] de 36 [[Lliura (unitat de massa)|lliures]] (16,3 [[quilogram|kg]]) br/ 32 canons de 24 lliures (11 kg) br/ 32 canons de 12 lliures (5,4 kg) br/ 18 canons de 8 lliures (3,6 kg)
+* A la batalla de Trafalgar: br/
+30 canons de 36 lliures (16,3 kg) br/ 32 canons de 24 lliures (11 kg) br/ 32 canons de 12 lliures (5,4 kg) br/ 10 canons de 8 lliures (3 , 6 kg) br/ 10 [[obús|obusos]] de 48 lliures (31,7 kg) br/ 2 obusos de 32 lliures (14,5 kg) br/ 6 obusos de 24 lliures ( 11 kg) br/ 4 pedreres de 4 lliures (2 kg)
+|tripulació = A la batalla de Trafalgar: 1.102 homes
+|notes =
+}}
+en aquests vaixells, eliminarem tot el referent a submarins i propulsió mecànica, aeronaus i quan no sigui un vaixell de vela actual (de competició fonamentalment), retirarem tot el referent a electrònica.
+
+pre style=overflow:auto
+{{Fitxa de vaixell
+|nom =
+|imatge =
+|títol =
+|mida =
+|banderes =
+|drassana =
+|classe =
+|tipus =
+|autoritzat =
+|iniciat =
+|avarament =
+|assignat =
+|baixa =
+|destí =
+|desplaçament =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|cobertes =
+|aparell =
+|armament =
+|propulsió =
+|potència =
+|velocitat =
+|armament =
+|tripulació =
+|capacitat =
+|autonomia =
+|notes =
+}}/Pre
+
+Exemple
+pre{{Fitxa de vaixell
+|nom = Santa Anna
+|imatge = Navío_santa_ana_de_112_cañones.jpg
+|títol = [[Navío]] '' Santa Anna '' de 112 canons. Gravat del segle XIX.
+|mida = 300px
+|banderes = [[fitxer: Bandera_de_España_1760-1785.svg|50px|Bandera d'Espanya 1748-1785]]{{Bandera|Espanya|mida = 50px}}
+|drassana = [[Reials Drassanes de Esteiro]], [[Ferrol]]
+|classe = Classe Santa Anna
+|tipus = Navío de línia
+|autoritzat =
+|iniciat =
+|avarament = [[28 de setembre]] de [[1784]]
+|assignat = [[28 de febrer]] de [[1785]]
+|baixa = 1816
+|destí = Enfonsat el 1816 a l'Havana
+|desplaçament = 2.308 [[tona (unitat)|t]]
+|propulsió = vela
+|velocitat = nusos
+|eslora = 59,46 metres
+|mànega = 16,56 metres
+|puntal =
+|calat = 7,36 metres
+|calat-aeri =
+|cobertes = 3
+|aparell =
+|armament = 112 canons:
+* Al seu lliurament: br/
+30 [[Canó (artilleria)|canons]] de 36 [[Lliura (unitat de massa)|lliures]] (16,3 [[quilogram|kg]]) br/ 32 canons de 24 lliures (11 kg) br/ 32 canons de 12 lliures (5,4 kg) br/ 18 canons de 8 lliures (3,6 kg)
+* A la batalla de Trafalgar: br/
+30 canons de 36 lliures (16,3 kg) br/ 32 canons de 24 lliures (11 kg) br/ 32 canons de 12 lliures (5,4 kg) br/ 10 canons de 8 lliures (3 , 6 kg) br/ 10 [[obús|obusos]] de 48 lliures (31,7 kg) br/ 2 obusos de 32 lliures (14,5 kg) br/ 6 obusos de 24 lliures ( 11 kg) br/ 4 pedreres de 4 lliures (2 kg)
+|tripulació = A la batalla de Trafalgar: 1.102 homes
+|notes =
+}}/pre
+
+=== Submarins ===
+{{Fitxa de vaixell
+|nom = General O'Higgins (SS-23)
+|imatge = BASENAVAL 005.jpg
+|títol = General O'Higgins
+|mida = 300px
+|banderes ={{Bandera|Xile|mida = 40px}}
+|drassana = DCNS (Bordeus) i Navantia (Cartagena)
+|classe = [[Classe Scorpene]]
+|tipus = Submarí SSK
+|autoritzat = 1997
+|iniciat =
+|avarament = 1 novembre 2003
+|assignat = 9 setembre 2005
+|baixa =
+|destí = Actiu
+|desplaçament = 1525 t
+|desplaçament-immersió = 1668 t
+|velocitat-immersió = 21,5 nusos
+|profunditat =
+|propulsió = Mecànica: 4 motors dièsel de br/ Elèctrica: 1 motor elèctric principal br/ 1 hèlix
+|potència = Dièsel 3005 kW
+|potència-immersió = Elèctrica 3.810 kW
+|velocitat = 12 nusos
+|capacitat =
+|eslora = 66,4 m
+|mànega = 6,2 m
+|puntal =
+|calat = 5,8 m
+|calat-aeri =
+|sensors = Sónar passiu de llarg abast br/ sonar d'intercepció br/ sonar actiu
+|armament = 6 tubs llançatorpedes br/ 18 torpedes br/ 4 míssils Tomahawk o Exocet br/ o 30 mines en lloc de tot l'anterior.
+|guerra-electrònica =
+|tripulació = 31 persones
+|autonomia = 12.000 km de 8 nusos
+|notes =
+}}
+s'eliminaran els paràmetres referents a càrregues (excepte en els submarins destinats a aquesta finalitat), a vaixells de vela i aeronaus (excepte en els pocs submarins construïts amb aquest propòsit).
+
+pre style=overflow:auto
+{{Fitxa de vaixell
+|nom =
+|imatge =
+|títol =
+|mida =
+|banderes =
+|drassana =
+|classe =
+|tipus =
+|autoritzat =
+|iniciat =
+|avarament =
+|assignat =
+|baixa =
+|destí =
+|desplaçament =
+|desplaçament-immersió =
+|profunditat =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|armament =
+|propulsió =
+|potència =
+|potència-immersió =
+|velocitat =
+|velocitat-immersió =
+|sensors =
+|armament =
+|guerra-electrònica =
+|tripulació =
+|autonomia =
+|notes =
+}}/Pre
+
+Exemple
+pre{{Fitxa de vaixell
+|nom = General O'Higgins (SS-23)
+|imatge = BASENAVAL 005.jpg
+|títol = General O'Higgins
+|mida = 300px
+|banderes ={{Bandera|Xile|mida = 40px}}
+|drassana = DCNS (Bordeus) i Navantia (Cartagena)
+|classe = [[Classe Scorpene]]
+|tipus = Submarí SSK
+|autoritzat = 1997
+|iniciat =
+|avarament = 1 novembre 2003
+|assignat = 9 setembre 2005
+|baixa =
+|destí = Actiu
+|desplaçament = 1525 t
+|desplaçament-immersió = 1668 t
+|velocitat-immersió = 21,5 nusos
+|profunditat =
+|propulsió = Mecànica: 4 motors dièsel de br/ Elèctrica: 1 motor elèctric principal br/ 1 hèlix
+|potència = Dièsel 3005 kW
+|potència-immersió = Elèctrica 3.810 kW
+|velocitat = 12 nusos
+|capacitat =
+|eslora = 66,4 m
+|mànega = 6,2 m
+|puntal =
+|calat = 5,8 m
+|calat-aeri =
+|sensors = Sónar passiu de llarg abast br/ sonar d'intercepció br/ sonar actiu
+|armament = 6 tubs llançatorpedes br/ 18 torpedes br/ 4 míssils Tomahawk o Exocet br/ o 30 mines en lloc de tot l'anterior.
+|guerra-electrònica =
+|tripulació = 31 persones
+|autonomia = 12.000 km de 8 nusos
+|notes =
+}}/pre
+
+=== Vaixells de càrrega i de passatgers ===
+{{Fitxa de vaixell
+|nom = RMS Olympic
+|imatge = Olympic ggbain 09366.jpg
+|títol = '' Olympic '', de la mateixa classe que el RMS '' Titanic '' i el RMS '' Britannic ''
+|mida = 300px
+|banderes =
+|drassana = Harland and Wolff Yards (Belfast, Irlanda del nord)
+|classe = Classe Olimpic
+|tipus = Transatlàntic
+|operador = White Star
+|port-de-registre = Liverpool
+|autoritzat =
+|iniciat = 16 desembre 1908
+|avarament = 20 octubre 1910
+|assignat = 1911
+|viatge-inaugural =
+|baixa = 1935
+|destí = desballestat
+|desplaçament = 52.067
+|propulsió = 24 calderes dobles i 5 calderes normals. br/ 3 motors triples de 4 cilindres
+|potència = 50.000 cv
+|velocitat = 23,5 nusos
+|capacitat = 2435 passatgers
+|eslora = 269 m
+|mànega = 28,2 m
+|puntal = 18,0 m
+|calat = 10,5 m
+|calat-aeri =
+|cobertes = 6 cobertes
+|tripulació = 1112 tripulants
+|autonomia =
+|notes =
+}}
+en aquest cas, s'eliminaran totes les dades de caràcter militar, els submarins civils i batiscafs portaran les dades d'immersió, igual que els submarins, si el vaixell va ser de propulsió mixta, s'afegiran les dades corresponents a vaixells de propulsió a vela.
+
+pre style=overflow:auto
+{{Fitxa de vaixell
+|nom =
+|imatge =
+|títol =
+|mida =
+|banderes =
+|drassana =
+|classe =
+|tipus =
+|operador =
+|port-de-registre =
+|autoritzat =
+|iniciat =
+|avarament =
+|assignat =
+|viatge-inaugural =
+|baixa =
+|destí =
+|desplaçament =
+|eslora =
+|mànega =
+|puntal =
+|calat =
+|calat-aeri =
+|propulsió =
+|potència =
+|velocitat =
+|tripulació =
+|capacitat =
+|autonomia =
+|notes =
+}}/Pre
+
+Exemple
+pre{{Fitxa de vaixell
+|nom = RMS Olympic
+|imatge = Olympic ggbain 09366.jpg
+|títol = '' Olympic '', de la mateixa classe que el RMS '' Titanic '' i el RMS '' Britannic ''
+|mida = 300px
+|banderes =
+|drassana = Harland and Wolff Yards (Belfast, Irlanda del nord)
+|classe = Classe Olimpic
+|tipus = Transatlàntic
+|operador = White Star
+|port-de-registre = Liverpool
+|autoritzat =
+|iniciat = 16 desembre 1908
+|avarament = 20 octubre 1910
+|assignat = 1911
+|viatge-inaugural =
+|baixa = 1935
+|destí = desballestat
+|desplaçament = 52.067
+|propulsió = 24 calderes dobles i 5 calderes normals. br/ 3 motors triples de 4 cilindres
+|potència = 50.000 cv
+|velocitat = 23,5 nusos
+|capacitat = 2435 passatgers
+|eslora = 269 m
+|mànega = 28,2 m
+|puntal = 18,0 m
+|calat = 10,5 m
+|calat-aeri =
+|cobertes = 6 cobertes
+|tripulació = 1112 tripulants
+|autonomia =
+|notes =
+}}/pre
+
+includeonly
+{{ORDENA:{{PAGENAME}}}}!-- CATEGORIES I INTERWIKIS AQUÍ, GRÀCIES --
+[[Categoria:Infotaules de mitjans de transport|Vaixell]]
+[[Categoria:Plantilles sense TemplateData]]/includeonly</text>
+      <sha1>ju37mr680guogp4tdbc3aeg4pe9ejnb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

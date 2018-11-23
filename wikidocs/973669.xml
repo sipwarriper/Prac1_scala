@@ -1,0 +1,100 @@
+<page>
+    <title>Condensador electrolític</title>
+    <ns>0</ns>
+    <id>973669</id>
+    <revision>
+      <id>13686807</id>
+      <parentid>13394580</parentid>
+      <timestamp>2014-06-25T08:18:07Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: a par de  a part de</comment>
+      <text>[[Fitxer:Electrolytic_capacitor_model.svg|thumb|Condensador electrolític Axial (a dalt) i radial (a sota).]]
+Un '''condensador electrolític''' és un tipus de [[condensador]] elèctric que fa servir un líquid [[Ió (àtom)|iònic]] conductor com a una de les seves plaques. Típicament amb més capacitat per unitat de volum que altres tipus de condensadors, són molt adequats en circuits elèctrics amb relativament alt corrent elèctric i baixa freqüència. Aquests és especialment el cas en els filtres d'alimentadors de corrent, on es fan servir per emmagatzemar la càrrega, i moderar el voltatge de sortida i les fluctuacions de corrent en la sortida rectificada. També es fan servir molt en els circuits que han de conduir [[corrent altern]] però no [[corrent continu]].
+
+Els condensadors electrolítics poden tenir molta [[capacitància]], permitent la construcció de filtres de molt baixa freqüència
+
+El principi del condensador electrolític va ser descobert l'any 1886 per [[Charles Pollak]], com a part de la seva recerca de l[['anodització]] de l'[[alumini]] i altres metalls. Pollack descobrí que degut al fet que la capa d'òxid d'alumini produïda era molt prima, hi havia molta capacitància entre l'alumini i la solució de l'[[electròlit]]. Va trobar que el [[perborat de sodi]] (borax) permetia la creació de la capa d'òxid d'alumini sense atacar-la després quan la tensió s'eliminava. Va obtenir una patent per al condensador electrolític d'alumini l'any 1897
+==Aplicacions==
+La primera aplicació pràctica d'aquesta tecnologia va ser en els condensadors d'arrancada dels motors de corrent alterns, ja que la majoria dels condensadors elèctrics són polaritzats, és a dir que només poden funcionar amb corrent continu, però fent servir diverses plaques d'alumini anoditzat, i intercalant-hi l'electròlit de borax, és possible fer un condensador que pugui ser usat en sistemes de corrent altern. 
+
+La primera aplicació massiva de les versions de corrent continu d'aquest tipus de condensadors va ser en les centraletes telefòniques.
+
+El desenvolupament dels receptors de ràdio domèstics de corrent alterns, a partir de 1920, requeriren la producció de condensadors d'alta capacitat relativa i alt voltatge, com a mínim de 4 microfaradis i fins a 500 volts. El primer prototipus d'un condensador electrolític modern va ser patentat per [[Julius Lilienfield]] el 1926. 
+
+No va ser fins a la Segona Guerra Mundial quan se solucionaren els problemes que presentaven els primers condensadors electrolítics. 
+
+== Construcció ==
+Els condensadors electrolítics d'alumini es fan a partir de dues bandes d'alumini, una de las quals està coberta per una capa aïllant d'òxid i un paper xop en electròlit entre elles. La banda aïllada és l'[[ànode]], mentre que el líquid electròlit i la segona banda actuen com a [[càtode]]. Aquesta pila s'enrotlla sobre ella mateixa, ajustada amb dos connectors pin i s'encaixa en un cilindre d'alumini. Les dues geometries més usades són les axials i radials.
+
+Símbols esquemàtics per a condensadors electrolítics. Alguns esquemes no inclouen el signe + al costat del símbol. Els condensadors electrolítics es marquen per indicar la polaritat dels terminals. El positiu és l'[[ànode]], i el negatiu el [[càtode]].
+{| cellpadding=10 cellspacing=0 style=font-size: 85%; border: 1px solid #000000;
+|- align = center
+| 
+|width = 25| 
+| [[Fitxer:Polarized capacitor symbol.svg|Condensador polaritzat]] 
+|width = 25| 
+|
+|- align = center
+| 
+|
+| [[Fitxer:Polarized capacitor symbol 2.svg|Condensador polaritzat]] 
+|
+|
+|- align = center
+| 
+|
+| [[Fitxer:Polarized capacitor symbol 3.svg|Condensador polaritzat]] 
+| 
+|
+|- align = center
+| [[Fitxer:Capacitor symbol.png|Condensador]] 
+| 
+| [[Fitxer:Polarized capacitor symbol 4.svg|Condensador polaritzat]] 
+| 
+| [[Fitxer:Variable capacitor symbol.svg|Condensador variable]] 
+|- align = center
+| Condensador
+| 
+| Condensadorbr /Polaritzat
+|
+| Condensadorbr /Variablebr /
+|}
+
+
+
+[[Fitxer:cap-elko-smd-polarity.jpg|thumb|Nota: La marca en l'embolcall de metall indica el terminal negatiu.]]
+
+== Comportament elèctric dels electrolítics ==
+Un model de circuit comú per a un condensador electrolític és el següent esquema:
+
+[[Fitxer:Electrolytic capacitor model.svg|Model de circuit]]
+
+On Rsubleakage/sub éss la resistència interna, RsubESR/sub és la resistència sèrie equivalent, LsubESL/sub és la inductància sèrie equivalent (sent L el símbol convencional per la inductància).
+
+== Capacitat ==
+El valor de la capacitat elèctrica de qualsevol condensador (també coneguda com a ''[[capacitancia]]'') és una mesura de la quantitat de càrrega emmagatzemada per unitat de diferència de potencial entre les seves plaques. La unitat bàsica en el [[Sistema Internacional d'Unitats|SI]] d'unitats és el [[faradi]] que és un [[coulomb]] per [[volt]]. Però en els condensadors es fa servir més les seves derivades que són microfaradi (10sup-6/sup), nanofaradi (10sup-9/sup) i picofaradi (10sup-12/sup), abreujades com μF o uF, nF i pF. Els rangs des de 0,1 fins a 4700 µF són comuns en la majoria de les aplicacions. 
+
+===Condensadors electrolítics de tàntal===
+ Els condensadors de [[tàntal]] tenen una capacitat més estable i precisa que els d'alumini, també presenten menor corrent de fuita i una baixa [[impedància]] a baixes freqüències. Però no toleren els pics de sobretensió com els d'alumini i es poden malmetre, de vegades amb una violenta explosió, cosa que també succeeix quan els alimentem amb la polaritat invertida o per sobre del límit establert. La capacitat arriba a prop dels 100 μF en base a la tensió de treball. Les armadures del condensador de tàntal són diferents, el càtode és format per grans de tàntal sinteritzat i el dielèctric està compost per [[òxid de titani]]. L'ànode es fa de vegades amb una capa de semiconductor, de [[diòxid de manganès]] dipositat químicament. En una versió millorada l'òxid de manganès va ser substituït per una capa de polímer conductor, [[polipirrol]], que elimina la tendència de la combustió en cas de fallida.
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.powerdesigners.com/InfoWeb/design_center/Design_Tips/Electrolytics/Caps.shtm Electrolytic capacitors]
+* [http://www.elna-america.com/tech_al_principles.php How Electrolytic capacitors Work]
+* [http://www.hardwaresecrets.com/article/595 How to Identify Japanese Electrolytic capacitors]
+* [http://www.comunidadelectronicos.com/articulos/electroliticos.htm Conozca los condensadores electrolíticos]
+* {{cita publicación| autor=Glenn Zorpette | título=Super Charged: A Tiny South Korean Company is Out to Make capacitors Powerful enough to Propel the Next Generation of Hybrid-Electric Cars | revista= IEEE Spectrum | mes=January | año=2005 | volumen=42 No. 1 | url=http://spectrum.ieee.org/jan05/inthisissue }}
+* [http://electrochem.cwru.edu/ed/encycl/art-c04-electr-cap.htm Electrochemistry Encyclopedia: Electrochemical capacitors; Their Nature, Function, and Applications]
+
+{{ORDENA:Condensador Electrolitic}}
+[[Categoria:Components passius]]</text>
+      <sha1>1oxmeauireggerxdzjl6p19k2k2w6xu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

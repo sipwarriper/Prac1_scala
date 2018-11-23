@@ -1,0 +1,159 @@
+<page>
+    <title>Plantilla:Cronologia dels guanyadors del Tour de França</title>
+    <ns>10</ns>
+    <id>669964</id>
+    <revision>
+      <id>9881003</id>
+      <parentid>9881001</parentid>
+      <timestamp>2012-07-28T13:06:52Z</timestamp>
+      <contributor>
+        <username>Pcm</username>
+        <id>6538</id>
+      </contributor>
+      <minor></minor>
+      <text>timeline
+Preset     = TimeVertical_OneBar_UnitYear
+ImageSize  = width:220 height:1600
+PlotArea   = bottom:220 left:40
+Period     = from:1903 till:2013
+ScaleMajor = start:1905 increment:5
+ScaleMinor = start:1903 increment:1
+TimeAxis   = order:reverse
+
+Colors =
+  id:canvas       value:gray(0.9)
+  id:France                            value:rgb(0.19,0.5,0.9)                  legend:França_(36)
+  id:Belgium                          value:rgb(0.7,0.11,0.11)                 legend:Bèlgica_(18)
+  id:Spain                               value:rgb(0.93,0.74,0.21)                  legend:Espanya_(12)
+  id:US                                    value:rgb(0.95,0.95,1)                   legend:Estats_Units_(10)
+  id:Italy                                value:rgb(0.34,0.51,0)               legend:Itàlia_(9)
+  id:Luxembourg                  value:rgb(0,0.8,0.8)           legend:Luxemburg_(5)
+  id:Netherlands                  value:rgb(1,0.5,0)               legend:Països_Baixos_(2)
+  id:Switzerland                   value:rgb(1,0,0)                legend:Suïssa_(2)
+  id:Australia                        value:rgb(0.6,0.8,0.2)            legend:Austràlia_(1)
+  id:Denmark                        value:rgb(0.9,0.7,0.7)            legend:Dinamarca_(1)
+  id:Germany                       value:rgb(0,0,0)                legend:Alemanya_(1)
+  id:Ireland                           value:rgb(0,0.5,0)                    legend:Irlanda_(1)
+  id:UK                           value:rgb(0.2,0.2,1)                    legend:Regne_Unit_(1)
+  id:War                            value:rgb(0.25,0.25,0.25)
+
+  id:linemark    value:gray(0.8)
+  id:linemark2   value:gray(0.9)
+
+BackgroundColors = canvas:canvas
+
+Legend = orientation:vertical columns:1 top:220 left: 45
+
+PlotData =
+  shift:(20,0)
+  mark:(line,linemark)
+  anchor:till
+  from:1903 till:1904 text:[[Maurice Garin]] color:France
+  from:1904 till:1905 text:[[Henri Cornet]] color:France
+  from:1905 till:1906 text:[[Louis Trousselier]] color:France
+  from:1906 till:1907 text:[[René Pottier]] color:France
+  from:1907 till:1908 text:[[Lucien Petit-Breton]] color:France
+  from:1908 till:1909 text:Lucien Petit-Breton 2 color:France
+  from:1909 till:1910 text:[[François Faber]] color:Luxembourg
+  from:1910 till:1911 text:[[Octave Lapize]] color:France
+  from:1911 till:1912 text:[[Gustave Garrigou]] color:France
+  from:1912 till:1913 text:[[Odile Defraye]] color:Belgium
+  from:1913 till:1914 text:[[Philippe Thys]] color:Belgium
+  from:1914 till:1915 text:Philippe Thys 2 color:Belgium
+  from:1915 till:1919 text:[[Primera Guerra Mundial]] color:War shift:(30,17)
+  from:1919 till:1920 text:[[Firmin Lambot]] color:Belgium
+  from:1920 till:1921 text:Philippe Thys 3 color:Belgium
+  from:1921 till:1922 text:[[Léon Scieur]] color:Belgium
+  from:1922 till:1923 text:Firmin Lambot 2 color:Belgium
+  from:1923 till:1924 text:[[Henri Pélissier]] color:France
+  from:1924 till:1925 text:[[Ottavio Bottecchia]] color:Italy
+  from:1925 till:1926 text:Ottavio Bottecchia 2 color:Italy 
+  from:1926 till:1927 text:[[Lucien Buysse]] color:Belgium
+  from:1927 till:1928 text:[[Nicolas Frantz]] color:Luxembourg
+  from:1928 till:1929 text:Nicolas Frantz 2 color:Luxembourg
+  from:1929 till:1930 text:[[Maurice de Waele]] color:Belgium
+  from:1930 till:1931 text:[[André Leducq]] color:France
+  from:1931 till:1932 text:[[Antonin Magne]] color:France
+  from:1932 till:1933 text:André Leducq 2 color:France
+  from:1933 till:1934 text:[[Georges Speicher]] color:France
+  from:1934 till:1935 text:Antonin Magne 2 color:France
+  from:1935 till:1936 text:[[Romain Maes]] color:Belgium
+  from:1936 till:1937 text:[[Sylvère Maes]] color:Belgium
+  from:1937 till:1938 text:[[Roger Lapébie]] color:France
+  from:1938 till:1939 text:[[Gino Bartali]] color:Italy
+  from:1939 till:1940 text:Sylvère Maes 2 color:Belgium
+  from:1940 till:1947 text:[[Segona Guerra Mundial]] color:War shift:(30, 35)
+  from:1947 till:1948 text:[[Jean Robic]] color:France
+  from:1948 till:1949 text:Gino Bartali 2 color:Italy
+  from:1949 till:1950 text:[[Fausto Coppi]] color:Italy mark:(line,linemark2)
+  from:1950 till:1951 text:[[Ferdinand Kubler]] color:Switzerland
+  from:1951 till:1952 text:[[Hugo Koblet]] color:Switzerland
+  from:1952 till:1953 text:Fausto Coppi 2 color:Italy
+  from:1953 till:1954 text:[[Louison Bobet]] color:France
+  from:1954 till:1955 text:Louison Bobet 2 color:France
+  from:1955 till:1956 text:Louison Bobet 3 color:France
+  from:1956 till:1957 text:[[Roger Walkowiak]] color:France
+  from:1957 till:1958 text:[[Jacques Anquetil]] color:France
+  from:1958 till:1959 text:[[Charly Gaul]] color:Luxembourg
+  from:1959 till:1960 text:[[Federico Bahamontes]] color:Spain
+  from:1960 till:1961 text:[[Gastone Nencini]] color:Italy
+  from:1961 till:1962 text:Jacques Anquetil 2 color:France
+  from:1962 till:1963 text:Jacques Anquetil 3 color:France
+  from:1963 till:1964 text:Jacques Anquetil 4 color:France
+  from:1964 till:1965 text:Jacques Anquetil 5 color:France
+  from:1965 till:1966 text:[[Felice Gimondi]] color:Italy
+  from:1966 till:1967 text:[[Lucien Aimar]] color:France
+  from:1967 till:1968 text:[[Roger Pingeon]] color:France
+  from:1968 till:1969 text:[[Jan Janssen]] color:Netherlands
+  from:1969 till:1970 text:[[Eddy Merckx]] color:Belgium
+  from:1970 till:1971 text:Eddy Merckx 2 color:Belgium
+  from:1971 till:1972 text:Eddy Merckx 3 color:Belgium
+  from:1972 till:1973 text:Eddy Merckx 4 color:Belgium
+  from:1973 till:1974 text:[[Luis Ocaña]] color:Spain
+  from:1974 till:1975 text:Eddy Merckx 5 color:Belgium
+  from:1975 till:1976 text:[[Bernard Thévenet]] color:France
+  from:1976 till:1977 text:[[Lucien van Impe]] color:Belgium
+  from:1977 till:1978 text:Bernard Thévenet 2 color:France
+  from:1978 till:1979 text:[[Bernard Hinault]] color:France
+  from:1979 till:1980 text:Bernard Hinault 2 color:France
+  from:1980 till:1981 text:[[Joop Zoetemelk]] color:Netherlands
+  from:1981 till:1982 text:Bernard Hinault 3 color:France
+  from:1982 till:1983 text:Bernard Hinault 4 color:France
+  from:1983 till:1984 text:[[Laurent Fignon]] color:France
+  from:1984 till:1985 text:Laurent Fignon 2 color:France
+  from:1985 till:1986 text:Bernard Hinault 5 color:France
+  from:1986 till:1987 text:[[Greg LeMond]] color:US
+  from:1987 till:1988 text:[[Stephen Roche]] color:Ireland
+  from:1988 till:1989 text:[[Pedro Delgado]] color:Spain
+  from:1989 till:1990 text:Greg LeMond 2 color:US
+  from:1990 till:1991 text:Greg LeMond 3 color:US
+  from:1991 till:1992 text:[[Miguel Induráin]] color:Spain
+  from:1992 till:1993 text:Miguel Induráin 2 color:Spain
+  from:1993 till:1994 text:Miguel Induráin 3 color:Spain
+  from:1994 till:1995 text:Miguel Induráin 4 color:Spain
+  from:1995 till:1996 text:Miguel Induráin 5 color:Spain
+  from:1996 till:1997 text:[[Bjarne Riis]] color:Denmark
+  from:1997 till:1998 text:[[Jan Ullrich]] color:Germany
+  from:1998 till:1999 text:[[Marco Pantani]] color:Italy
+  from:1999 till:2000 text:[[Lance Armstrong]] color:US
+  from:2000 till:2001 text:Lance Armstrong 2 color:US
+  from:2001 till:2002 text:Lance Armstrong 3 color:US
+  from:2002 till:2003 text:Lance Armstrong 4 color:US
+  from:2003 till:2004 text:Lance Armstrong 5 color:US
+  from:2004 till:2005 text:Lance Armstrong 6 color:US
+  from:2005 till:2006 text:Lance Armstrong 7 color:US
+  from:2006 till:2007 text:[[Óscar Pereiro]] color:Spain
+  from:2007 till:2008 text:[[Alberto Contador]] color:Spain
+  from:2008 till:2009 text:[[Carlos Sastre]] color:Spain
+  from:2009 till:2010 text:Alberto Contador 2 color:Spain
+  from:2010 till:2011 text:[[Andy Schleck]] color:Luxembourg
+  from:2011 till:2012 text:[[Cadel Evans]] color:Australia
+  from:2012 till:2013 text:[[Bradley Wiggins]] color:UK
+
+/timeline
+noinclude{{ús de la plantilla}}/noinclude</text>
+      <sha1>mghi4dhzae8flulxq5hi5geycii6t3c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

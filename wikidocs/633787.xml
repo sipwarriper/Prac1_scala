@@ -1,0 +1,124 @@
+<page>
+    <title>Amplificador de llum</title>
+    <ns>0</ns>
+    <id>633787</id>
+    <revision>
+      <id>12964994</id>
+      <parentid>12781278</parentid>
+      <timestamp>2014-02-19T17:09:23Z</timestamp>
+      <contributor>
+        <username>Yuanga</username>
+        <id>2756</id>
+      </contributor>
+      <minor></minor>
+      <comment>/* Generació 3 */</comment>
+      <text>Un '''amplificador de llum''' és un dispositiu que amplifica la [[llum visible]] i la llum propera a l'[[infraroig]] d'una imatge de manera que s'il·lumina un escenari feble i es pot veure per una [[càmera fotogràfica]] o per l'[[ull]] humà.
+
+Els amplificadors de llum no són visibles a ull nu, sinó que es troben a l'interior de les [[visió nocturna # equips portàtils de visió nocturna|càmeres amplificadores de llum]], de les quals són el component principal.
+
+Les càmeres amplificadores de llum mostren una imatge més realista de l'entorn percebut comparades amb les càmeres infraroges, perquè les intensitats lluminoses dels cossos mostrats en pantalla són corresponents a la intensitat [[òptica]] veritable i no a la [[temperatura]], com en el cas de la [[càmera infraroja]].
+
+Aquest realisme d'imatges les fa més convenients per a la majoria dels seus usuaris que generalment no necessiten rastrejar un cos per la seva temperatura, sinó per la seva molt baixa [[il·luminació]].
+
+== Funcionament dels amplificadors de llum ==
+* Una porció de la [[llum]], emesa o [[reflexió|reflectida]] pels cossos de l'entorn percebut, travessa uns lents, davant de l'amplificador, per enfocar.
+* La porció de llum enfocada és absorbida per un [[fotocàtode]] que converteix els [[fotó|fotons]] a [[electró|electrons]].
+* Els electrons travessen un ''disc de microcanals'' (MCP) que prolifera el nombre d'electrons.
+* Aquest major nombre d'electrons viatja fins a una pantalla de [[fòsfor]] verd, a l'extrem posterior de l'amplificador on impacten produint imatges lluminoses com a resultat.
+
+== Deficiències de funcionament de les [[# generació zero|generacions zero]] i [[# generació 1|1]] ==
+
+El seu funcionament és semblant al de les generacions 2 i 3, però amb les següents mancances en els seus mecanismes:
+
+* No tenen [[# MCP]], i com a conseqüència, la pantalla mostra imatges amb una distorsió geomètrica notable i, les bateries tenen curta durada.
+
+* Els [[material]]s dels seus fotocàtodes proporcionen menys fotosensibilitat nivells molt baixos d'il·luminació en comparació amb els de les generacions 2 i 3; per això les imatges de l'entorn apareixen enfosquides i necessiten obligatòriament '''reflectors amb filtre de brillantor'''.
+
+== Fotosensibilitat ==
+
+També l'anomenen '' sensibilitat del [[fotocàtode]] ''. És l'habilitat del fotocàtode de produir corrents elèctriques en absorbir llum, es mesura amb la unitat: [[microampers]] per [[volum]] (''' μA/lm ''').
+
+Mentre més gran és la fotosensibilitat, es mostra a l'entorn amb més claredat a la pantalla.
+
+== MCP ==
+
+La seva funció bàsica és la de reduir notablement la '' distorsió geomètrica '', com a conseqüència augmenta la durada de la bateria.
+
+La ''' distorsió geomètrica ''' és la borrositat amb hi ha les imatges a la pantalla de fòsfor.
+
+L'''' MCP ''' és un disc de [[vidre]] cobert de [[metall]] que prolifera els [[electró|electrons]] produïts pel fotocàtode. Té de 2 a 6 milions de forats de diàmetre micromètric, anomenats canals, distribuïts aleatòriament al disc.
+
+'' MCP '' és l'abreviatura de les paraules angleses '' Micro Channel Plate ''.
+
+=== Mecanisme de proliferació d'electrons ===
+
+Quan un dels electrons provinents del fotocàtode entra a un dels canals, colpeja les parets i allibera molts electrons. Aquests electrons alliberats també colpegen les parets i n'alliberen més, tot provocant una [[reacció en cadena]] que allibera una enorme quantitat d'electrons. Finalment, tots aquests electrons alliberats viatgen cap a la pantalla de fòsfor per formar les imatges amb més nitidesa.
+
+== Etapes evolutives dels amplificadors de llum ==
+
+=== Generació zero ===
+
+Creada durant la [[Segona Guerra Mundial]] per a proveir als [[franctirador]]s de [[visió nocturna]].
+
+* La pitjor fotosensibilitat (60 [[amper|μA]]/[[lumen|lm]]), a causa del material del fotocàtode, l''' S-1 ''.
+* La pèssima fotosensibilitat feia que el reflector fora indispensable en tot moment.
+* Molta distorsió geomètrica en imatges.
+* Alt consum d'[[electricitat]].
+* Ús de [[bateria elèctrica|bateries]] grans i pesades.
+* La menor durada de bateries.
+* El menor període de [[vida útil]] del dispositiu.
+
+Com les dues hosts en la Segona Guerra utilitzaven aquests dispositius, el reflector revelava la posició d'un franctirador a un enemic que usés equip semblant, i es era blanc fàcil dels enemics.
+
+=== Generació 1 ===
+
+Es va començar a utilitzar durant la [[Guerra del Vietnam]]. És el primer amplificador de llum '' passiu '', perquè en certes circumstàncies no necessita el reflector per crear imatges.
+
+* Fotosensibilitat dolenta, però millor que la generació zero (180-200 [[amper|μA]]/[[lumen|lm]]), a causa del material del fotocàtode, l''' S-20 ''.
+* El '' reflector '' és indispensable, excepte durant nits de lluna plena.
+* Les imatges encara mostren molta distorsió geomètrica.
+* Consumeix menys electricitat que la generació zero.
+* Major durada de les bateries que la generació zero, al voltant
+* Període de vida útil del dispositiu de 1500 [[hora|hores]].
+
+=== Generació 2 ===
+
+Aquesta generació i la 3 són les més preferides en ús.
+
+* Fotosensibilitat adequada, i millor que la generació 1; (240 [[amper|μA]]/[[lumen|lm]] o major). El material del fotocàtode és el '' S-25 ''.
+* Necessita '' reflector '' sota certes circumstàncies, però no és tan indispensable per veure.
+* Primera generació en posseir MCP, produeix imatges de nitidesa adequada.
+* Millor rendiment de l'electricitat que les generacions zero i 1.
+* Porta bateries de menor mida, alguns dispositius poden utilitzar només una de mida AA de 1.5 [[volt]]s.
+* Les bateries duren més temps, amb alguns dispositius fins a 40 hores.
+* Període de vida útil del dispositiu de 2500 hores.
+
+=== Generació 3 ===
+
+Aquesta generació és utilitzada pels [[exèrcit]]s actuals, però també està a l'abast dels [[civil]]s. Té la mateixa tecnologia de la generació 2, però amb un MCP millorat i, un nou material per al [[fotocàtode]], el [[arsenur de gali]], que el fa molt més sensible als nivells d'il·luminació molt baixos, al grau de ser la primera generació en percebre la il·luminació que proporcionen les [[estrella|estrelles]] a l'entorn.
+
+* Les seves prestacions són excel·lents.
+* La millor fotosensibilitat; (per sobre de 800 [[amper|μA]]/[[lumen|lm]]), només si la radiació percebuda es troba en un rang de [[longitud d'ona]] de 450-950 [[nanòmetre|nm]].
+* Generalment no necessita '' reflector '', perquè pot percebre entorns il·luminats per la [[llum]] de les estrelles, fins i tot en una [[nit]] ennuvolada. Però sí caldria únicament en [[tenebres]].
+* Les imatges són molt nítides, perquè la distorsió geomètrica és gairebé imperceptible per al [[ull]] humà.
+* El mateix rendiment de l'energia elèctrica que la generació 2 o millor.
+* La mateixa durada de bateries que la generació 2.
+* També hi ha alguns dispositius que utilitzen una sola bateria de mida AA de 1,5 volts.
+* És menys sorollós.
+* Enlluerna menys en ambients urbans.
+* Període de [[vida útil]] del dispositiu de 10 000 hores.
+* És més costós que les anteriors generacions.
+
+== Vegeu també ==
+* [[Efecte fotoelèctric]]
+* [[Tub de buit]]
+
+== Enllaços externs ==
+* [http://www.physorg.com/news71425655.html ''A Broadband Light Amplifier on a Photonic Chip'']
+
+[[Categoria:Instruments òptics]]</text>
+      <sha1>t24oyu3fyuup4ahor83rpn5gl5d1lia</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

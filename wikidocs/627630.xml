@@ -1,0 +1,126 @@
+<page>
+    <title>Colossus</title>
+    <ns>0</ns>
+    <id>627630</id>
+    <revision>
+      <id>13644016</id>
+      <parentid>12860719</parentid>
+      <timestamp>2014-06-23T05:29:57Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>{{MT|data=març de 2013}}
+!-- {{Fitxa d'ordinador
+|Nom = Colossus
+|Ubicació = [[Gran Bretanya]]
+|Instal lació = [[1944]]
+|Foto = Colossus.jpg
+|Foto_tamaño = 300px
+|Peu = Un ordinador Colossus Mark II. El panell inclinat de l'esquerra es feia servir per establir el nombre de patrons de pins de Lorenz. La cinta transportadora de paper està a la dreta.
+}} --
+Les màquines '''Colossus''' van ser els primers dispositius calculadors electrònics usats pels [[Gran Bretanya|britànics]] per llegir les comunicacions [[xifrat|xifrades]] [[Alemanya Nazi|alemanyes]] durant la [[Segona Guerra Mundial]]. Colossus fou un dels primers computadors digitals.
+
+La màquina Colossus va ser dissenyada originalment per [[Tommy Flowers]] a la ''Post Office Research Station'' (Estació de Recerca de l'Oficina Postal), [[Dollis Hill]]. El prototip, '''Colossus Mark I''', va entrar en funcionament a [[Bletchley Park]] des de febrer de [[1944]]. Una versió millorada, el ''Colossus Mark II'' es va instal·lar el juny de 1944, i es van arribar a construir uns deu Colossus fins al final de la guerra.
+
+Les màquines Colossus es van usar per desxifrar els missatges xifrats, que es van interceptar de les comunicacions de l'Alemanya nazi, utilitzant la màquina [[Lorenz SZ40/42]]. Colossus comparava dos fluxos de dades, comptant cada coincidència basada en una funció programable [[tipus de dada lògic|booleana]]. El missatge xifrat es llegia a gran velocitat a través d'una cinta de paper. L'altre flux de dades era generat internament, i era una simulació electrònica de la màquina de Lorenz en diverses combinacions. Si el nombre de coincidències per una combinació era superior a una certa quantitat, la sortida era escrita en una màquina d'escriure elèctrica.
+
+== Propòsit i orígens ==
+[[Fitxer: SZ42-6-wheels-lightened.jpg|right|280px|thumbnail|La màquina de Lorenz va ser usada pels alemanys per xifrar teletips de les comunicacions d'alt nivell. Contenia 12 rodes amb un total de 501 dents.]]
+
+Els ordinadors Colossus es van usar en el [[criptoanàlisi]] per a les comunicacions d'alt nivell alemanyes, missatges que havien estat xifrats usant la màquina [[Lorenz SZ 40/42]]. Part de l'operació Colossus era emular electrònicament la màquina mecànica de Lorenz. Per xifrar un missatge amb la màquina de Lorenz, el text pla es combinava amb un flux de [[BIT]] és clau, en grups de cinc. El flux clau es generava usant doce rodes: cinc van ser classificades (pels britànics) com rodes math \chi /math ([[Χ]]»), altres cinc com math \psi /math («[[Ψ]]»), i les dues restants com«rodes motores». Les rodes math \chi /math rotaven regularment amb cada lletra que es xifrava, mentre que les rodes math \psi /math rotaven irregularment, controlades per les rodes motores.
+
+[[Bill Tutte]], un criptoanalistes de [[Bletchley Park]], va descobrir que els fluxos de claus produïts per la màquina mostraven una predisposició a una desviació estadística del aleatori, i que aquestes predisposicions podien ser usades per trencar el xifrat i llegir els missatges. Per poder llegir els missatges, hi havia dos tasques que s'havien de realitzar. La primera de les tasques era '' trencar amb les rodes '' ('' wheel breaking ''), que consistia a descobrir els patrons de les dents per a totes les rodes. Aquests patrons s'establien un cop a la màquina de Lorenz i després es feien servir durant un període de temps establert i per un nombre de missatges diferents. La segona tasca consistia a '' establir les rodes '' ('' wheel setting ''), que podia fer una vegada que es coneixia els patrons de les dents. Cada missatge xifrat fent servir la màquina de Lorenz, es codificava amb posició inicial de les rodes diferent. El procés d'establir les rodes trobava la posició inicial de les rodes per a un missatge donat. Inicialment Colossus es va usar per ajudar a esbrinar la posició inicial de les rodes, després es va demostrar que la màquina podia ser adaptada també per al procés de trencar les rodes.
+
+Colossus era operat a la '' Newmanry '', la secció de Bletchley Park responsable dels mètodes mecànics contra la màquina de Lorenz, liderada pel matemàtic [[Max Newman]].
+
+Colossus es va desenvolupar a causa d'un projecte anterior que va produir una màquina comparador opto-mecànica anomenada '' «[[Heath Robinson]]» ''. El problema de la màquina Robinson era la sincronització de dos [[cinta perforada|cintes perforades]], una perforada amb el missatge xifrat i l'altra representant dels patrons produïts per les rodes de la màquina de Lorenz, però quan s'havia de llegir a una velocitat de més de 1.000 caràcters per segon, resultava en una infinitat de càlculs. Colossus solucionar el problema reproduint electrònicament una de les cintes. L'altra cinta es podia introduir en Colossus a major velocitat i podia ser explicada amb molta més fiabilitat.
+
+== La construcció de Colossus ==
+Un equip liderat per Tommy Flowers va dedicar deu mesos (des de principis de febrer fins a principis de desembre de [[1943]]) dissenyant i construint l'ordinador Colossus a la '' Post Office Research Station '', Dollis Hill, al nord-oest de [[Londres]]. Després d'una prova funcional el [[8 de desembre]] de 1943, la màquina va ser desmuntada i enviat al nord de Bletchley Park, després va ser muntada en el bloc F en el Nadal de 1943. La Mark 1 va tenir èxit en la seva primera prova amb un missatge real xifrat
+el gener de 1944.ref{{ref-web |url=http://www.codesandciphers.org.uk/lorenz/colossus.htm|títol=The Colossus - Tony Sale}}/ref Va ser seguit de nou màquines Colossus Mark 2, la primera d'elles es va instal·lar el juny de 1944 mentre que la Mark I original va ser convertida a Mark 2. La màquina Colossus número onze es va acabar just al final de la guerra.
+
+La màquina Colossus Mark I tenia 1.500 vàlvules electròniques. La Colossus Mark 2, amb 2.400 vàlvules, era 5 vegades més ràpida i més fàcil d'operar que la Mark I: les dues característiques van augmentar considerablement el procés de descodificació. La Mark 2 es dissenyava mentre la Mark I era construïda. En comparació, altres ordinadors com la [[ENIAC]] de [[1946]] usava 17.468 vàlvules i la [[Manchester Mark I]] de [[1949]] va fer servir al voltant de 4.200.
+
+Colossus comptava amb la segona cinta dissenyada per a la màquina Robinson que generava els patrons electrònicament i processament de 5.000 caràcters per segon amb la cinta de paper circulant a 12 metres per segon. Els circuits eren sincronitzats per un senyal de rellotge, generada per les perforacions de la cinta. La velocitat de càlcul estava limitada pels mecanismes del lector de la cinta. El dissenyador [[Tommy Flowers]] testejar el lector de cinta fins als 9.700 caràcters per segon abans que la cinta es desintegra. Ell va configurar 5.000 caràcters per segon com la velocitat més desitjable per a un funcionament òptim. De vegades, dues o més Colossus van provar diferents combinacions de treball simultani, el que ara s'anomena [[computació paral·lela]], augmentant notablement el procés de descodificació.
+
+Colossus incorporava per primera vegada l'ús de registres lineals i [[Array|arrays]] sistòlics, permet cinc tests simultanis, implicant més de 100 [[Àlgebra Booleana|càlculs booleans]], en cada un dels cinc canals de la cinta perforada (però, en funcionament normal, només un o dos canals eren examinats en cada execució).
+
+Inicialment Colossus es feia servir només per determinar les posicions inicials de les rodes per a un missatge concret (denominat '' posició de roda ''). El Mark 2 inclosa mecanismes per ajudar a determinar els patrons de les dents de les rodes ('' trencament de roda ''). Ambdós models eren programables usant interruptors i panells acoblats que la màquina Robinsons no tenia.
+
+== Disseny i operat ==
+Colossus feia servir uns tubs de buit ([[Vàlvula termoiònica|vàlvules termoiòniques]]), '' thyratrones '' i [[fotomultiplicador]] és per a llegir de forma òptica una cinta de paper i després aplicar una funció lògica programable a cada caràcter, comptant quantes vegades la funció tornava veritable. Encara que se sabia que les màquines amb moltes vàlvules eren propenses a altes taxes d'avaries, també es reconeixia que les avaries de les vàlvules solien ocórrer en encendre la màquina, de manera que les màquines Colossus, un cop enceses, mai s'apagaven llevat que comencessin a funcionar de forma incorrecta.
+
+Colossus va ser la primera de les màquines digitals en incorporar una limitada programades. No obstant això no era un ordinador de propòsit general, i no és [[Turing complet|Turing completa]], encara que les Colossus es basaven en la definició de [[Alan Turing]] i aquest va treballar en [[Bletchley Park]], on les Colossus van ser operades. En aquella època no era tan important que les màquines fossin Turing-completes, la majoria de la resta de les primeres màquines computacionals tampoc ho eren, com ara la [[Atanasoff Berry Computer|PC de Atanasoff-Berry]], [[Harvard Mark I]] la primera màquina electromecànica, les màquines de relés dels [[Laboratoris Bell]] (de George Stibitz et al), els primers dissenys de [[Konrad Zuse]] i altres. La noció d'un ordinador com una màquina de propòsit general, i no com una gran [[calculadora]] dedicada a resoldre problemes difícils però singulars, no es va destacar fins uns anys després.
+
+Colossus va ser precedit per una sèrie d'ordinadors, la major part d'elles les primeres de la seva categoria. [[Konrad Zuse|Zuse's]] [[Z3]] va ser la primera [[ordinador]] completament programable funcional, i estava basada en relés electromecànics, igual que (les menys avançades) màquines de [[Bell Labs]] a finals de la dècada de 1930 ([[George Stibitz]], et al). El [[ordinador ABC|ABC Computer]] era electrònic i binari (digital), però no programable. Els ordinadors indicades eren semiprogramables; algunes van ser construïdes molt abans de la dècada dels anys 30 del segle XX (per exemple, [[Vannevar Bush]]). Anterior a aquestes, hi ha la màquina analítica de Babbage (a la meitat del segle XIX), que era digital i programable, però mai va ser construïda totalment i mai va funcionar realment (una rèplica d'aquesta màquina diferencial va ser construïda el 1991, i funciona). Colossus va ser la primera màquina que combinava el seu funcionament '' digital '', parcialment '' programable '' i '' electrònica ''.
+
+== Influència i destinació ==
+L'ús al qual Colossus va ser destinat i la seva pròpia construcció va ser un dels grans secrets, i va seguir així per molts anys després de la Segona Guerra Mundial. Així, Colossus no va ser inclòs en la [[història dels ordinadors]] durant molts anys, i Flowers i els seus associats van ser privats del reconeixement degut.
+
+Poc conegut és que va tenir alguna influència directa en el desenvolupament de posteriors ordinadors; [[EDVAC]] va ser el primer disseny que va tenir més influència en subseqüents arquitectures de futures ordinadors.
+
+However, the technology of Colossus, and the knowledge that reliable high-speed electronic digital computing devices were feasible, had a significant influence on the development of early computers in Britain. A number of people who were associated with the project and knew all about Colossus played significant roles in early computer work in Britain. In [[1972]], [[Herman Goldstine]] wrote that:
+
+:''Britain had such vitality that it could immediately after the war embark on so many well-conceived and well-executed projects in the computer field''.ref''The Computer from Pascal to von Neuman'' (pp. 321)/ref
+ 
+In writing that, Goldstine was unaware of Colossus, and its legacy to those projects of people such as [[Alan Turing]] (with the [[Pilot ACE]] and [[ACE (computer)|ACE]]), and Max Newman and [[I. J. Good]] (with the [[Manchester Mark I]] and other early Manchester computers). [[Brian Randell]] later wrote that:
+
+:''the COLOSSUS project was an important source of this vitality, one that has been largely unappreciated, as has the significance of its places in the chronology of the invention of the digital computer''.ref''The COLOSSUS'', pp. 87/ref
+
+Colossus documentation and hardware were [[classified information|classified]] from the moment of their creation and remained so after the War, when [[Winston Churchill]] specifically ordered the destruction of most of the Colossus machines into 'pieces no bigger than a man's hand'; Tommy Flowers personally burned blueprints in a furnace at Dollis Hill. Some parts, sanitised as to their original use, were taken to Newman's [[Computing Machine Laboratory]] at [[Manchester University]]. The Colossus Mark I was dismantled and parts returned to the Post Office. Two Colossus computers, along with two replica Tunny machines, were retained, moving to [[GCHQ]]'s new headquarters at [[Eastcote]] in April 1946, and moving again with GCHQ to [[Cheltenham]] between 1952 and 1954.ref name=copeland173-175Copeland, 2006, p. 173-175/ref One of the Colossi, known as ''Colossus Blue'', was dismantled in 1959; the other in 1960.ref name=copeland173-175 / In their later years, the Colossi were used for training, but before that, there had been attempts to adapt them, with varying success, to other purposes.refHorwood, 1973/ref [[Jack Good]] relates how he was the first to use it after the war, persuading the [[NSA]] that Colossus could be used to perform a function for which they were planning to build a special purpose machine.ref name=copeland173-175 / Colossus was also used to perform character counts on one-time pad tape to ensure their randomness.ref name=copeland173-175 /
+
+Information about Colossus began to emerge publicly in the late [[1970s]], after the secrecy imposed by the [[Official Secrets Act]] ended in [[1976]]. More recently, a 500-page technical report on the Tunny cipher and its cryptanalysis – entitled ''General Report on Tunny'' – was released by [[GCHQ]] to the national [[Public Record Office]] in October [[2000]]; the complete report is available online,ref{{ref-web |url=http://www.alanturing.net/turing_archive/archive/index/tunnyreportindex.html|títol=AlanTuring.net Catalogue:The general report on Tunny}}/ref and it contains a fascinating paean to Colossus by the cryptographers who worked with it:
+
+: ''It is regretted that it is not possible to give an adequate idea of the fascination of a Colossus at work; its sheer bulk and apparent complexity; the fantastic speed of thin paper tape round the glittering pulleys; the childish pleasure of not-not, span, print main header and other gadgets; the wizardry of purely mechanical decoding letter by letter (one novice thought she was being hoaxed); the uncanny action of the typewriter in printing the correct scores without and beyond human aid; the stepping of the display; periods of eager expectation culminating in the sudden appearance of the longed-for score; and the strange rhythms characterizing every type of run: the stately break-in, the erratic short run, the regularity of wheel-breaking, the stolid rectangle interrupted by the wild leaps of the carriage-return, the frantic chatter of a motor run, even the ludicrous frenzy of hosts of bogus scores.''ref{{ref-web |url=http://www.alanturing.net/turing_archive/archive/t/t17/TR17-003.html|títol=TR17-003}}/ref
+
+== Reconstrucció ==
+Una [[rèplica]] del Colossus Mark II es va començar a construir per un equip liderat per [[Tony Surt]]. La reconstrucció es pot veure al museu de [[Bletchley Park]] a [[Milton Keynes]], [[Buckinghamshire]].
+
+== Vegeu també ==
+* [[Z3]]
+* [[Bombe]]
+* [[Superordinador]]
+
+== Notes al peu de pàgina ==
+{{Referències}}
+
+== Referències ==
+* [[William Chandler|W. W. Chandler]], '' The Installation and Maintenance of Colossus '' ('' [[IEEE Annals of the History of Computing]] '', Vol 5 (No 3), 1983, pp. 260-262)
+* [[Allen Coombs|Allen W. M. Coombs]], '' [http://www.ivorcatt.com/47d.htm The Making of Colossus] '' ('' Annals of the History of Computing '', Vol 5 (No 3), 1983, pp.253- 259)
+* Jack Copeland, '' [http://www.ccse.kfupm.edu.sa/# mfk/Assets/589-assets/colossus.pdf Colossus: Its Origins and Originators] '' ('' [[IEEE Annals of the History of Computing]] '', 26 (4), October-December 2004, pp. 38-45).
+* Jack Copeland, '' Colossus and the Dawning of the Computer Age '', in '' Action This Day '', 2001, ISBN 0-593-04982-9.
+* B. Jack Copeland (editor), '' Colossus: The Secrets of Bletchley Park's Codebreaking Computers '', 2006, [[Oxford University Press]], ISBN 0-19-284055-X.
+* [[I. J. Good]], '' Early Work on Computers at Bletchley '' ('' [[IEEE Annals of the History of Computing]] '', Vol 1 (No 1), 1979, pp. 38-48)
+* [[I. J. Good]], '' Pioneering Work on Computers at Bletchley '' (in Nicholas Metropolis, J. Howlett, Gian-Carlo Rota, (editors), '' A History of Computing in the Twentieth Century '', Academic Press, New York, 1980)
+* [[Tommy Flowers|T. H. Flowers]], '' [http://www.ivorcatt.com/47c.htm The Design of Colossus] '' ('' Annals of the History of Computing '', Vol 5 (No 3), 1983, pp. 239 - 252)
+* DC Horwood, A technical description of Colossus I, August 1973, PRO HW 25/24.
+* [[Brian Randell]], '' Colossus: Godfather of the Computer '', 1977 (reprinted in '' The Origins of Digital Computers: Selected Papers '', [[Springer Science+Business Media|Springer-Verlag]], New York, 1982)
+* [[Brian Randell]], '' [http://www.cs.ncl.ac.uk/research/pubs/books/papers/133.pdf The Colossus] '' (in '' A History of Computing in the Twentieth Century '')
+* Albert W. Small, [http://www.codesandciphers.org.uk/documents/small/smallix.htm '' The Special Fish Report ''] (December, 1944) descriu the operation of Colossus to break Tunny messages
+
+== Més lectures ==
+* Harvey G. Cragon, '' From Fish to Colossus: How the German Lorenz CIPHA was Broken at Bletchley Park '' (Cragon Books, Dallas, 2003; ISBN 0-9743045-0-6) - A detailed description of the cryptanalysis of Tunny, and some details of Colossus (contains some minor errors)
+* Ted Enever, '' Britain's Best Kept Secret: Ultra's Base at Bletchley Park '' (Sutton Publishing, Gloucestershire, 1999; ISBN 0-7509-2355-5) - A guided tour of the history and geography of the Park, written by one of the FOUNDER members of the Bletchley Park Trust
+* Tony Surt, '' The Colossus Computer 1943-1996: How It Helper to Break the German Lorenz CIPHA in WWII '' (M.  M. Baldwin, Kidderminster, 2004; ISBN 0-947712-36-4) - A slender (20 page) booklet, containing the same material es Tony Surt's website (see below)
+* Michael Smith, '' Station X '', 1998. ISBN 0-330-41929-3.
+* Paul Gannon, Colossus Bletchley Park's Greatest Secret 2006 Atlantic Books; ISBN 1-84354-330-3.
+* Jack Copeland: Colossus. The Secrets of Bletchley Park's Codebreaking Computers. Oxford University Press 2006. ISBN 0-19-284055-X
+
+== Enllaços externs ==
+{{Commonscat|Colossus computer}}
+* [http://www.codesandciphers.org.uk/index.htm Codis i xifres de Tony Surt]
+* [http://news.bbc.co.uk/1/hi/technology/3754887.stm Article a la BBC informant sobre la [[rèplica]] de Colossus]
+
+[[Categoria:Atacs criptogràfics]]
+[[Categoria:Bletchley Park]]
+[[Categoria:Criptografia]]
+[[Categoria:Primers ordinadors]]
+[[Categoria:Segona Guerra Mundial]]</text>
+      <sha1>9bx5t1uutmstlb2irw34ugg7hru1jgb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

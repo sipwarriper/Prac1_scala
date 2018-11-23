@@ -1,0 +1,65 @@
+<page>
+    <title>Anàlisi de freqüències</title>
+    <ns>0</ns>
+    <id>617705</id>
+    <revision>
+      <id>13329793</id>
+      <parentid>13167691</parentid>
+      <timestamp>2014-05-06T10:02:11Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>[[Fitxer: English-slf.png|thumb|250px|Freqüència de les lletres en un text anglès.]]
+[[Fitxer: Frecuencia de uso de letras en español.PNG|thumb|250px|Freqüència de les lletres en un text espanyol.]]
+
+Dins la [[criptoanàlisi]], l'''' anàlisi de freqüències ''' és l'estudi de la [[freqüència de les lletres]] o grups de lletres en un text xifrat. És un mètode de suport per a la ruptura d'un [[xifrat clàssic]].
+
+L'anàlisi de freqüències està basat en el fet que, donat un text, certes lletres o combinacions de lletres apareixen més sovint que altres, existint diferents freqüències per a elles. És més, hi ha una distribució característica de les lletres que és pràcticament la mateixa per a la majoria d'exemples d'aquest llenguatge. Per exemple, en [[anglès]] la lletra E és molt comú, mentre que la X és molt rara. Igualment, les combinacions ST, NG, TH i QU són parells de lletres comuns, mentre que NZ i QJ són rars. La frase mnemotècnica Etaoin Shrdlu agrupa les dotze lletres més freqüents en els textos anglesos. A [[idioma espanyol|espanyol]], les vocals són molt freqüents, ocupant al voltant del 45% del text, sent la E i l'A les que apareixen en més ocasions, mentre que la freqüència sumada de F, Z, J, X, W i K no arriba al 2%.
+
+En alguns cifradores, les propietats naturals del [[text pla]] es preserven al [[text xifrat]]. Aquests esquemes poden ser potencialment objecte d'atacs de només text xifrat.
+
+== Anàlisi de freqüència per algorismes de substitució simple ==
+
+En un [[algorisme]] de [[Xifrat per substitució|substitució simple]], cada lletra del text pla es reemplaça per una altra i una lletra donada del text pla sempre serà transformada a la mateixa lletra en el missatge xifrat. Per exemple, totes les '' i '' es convertiran en '' X ''. Un text xifrat amb una alta freqüència de lletres '' X '' podria suggerir al criptoanalistes que l''' X '' representa la lletra '' i ''.
+
+L'ús bàsic de l'anàlisi de freqüències consisteix en primer calcular la freqüència de les lletres que apareixen en el text xifrat i després associar lletres de text pla a elles. Una gran freqüència de '' X '' podria suggerir que les '' X '' són '' i '', però això no és sempre cert, ja que les lletres '' a '' i '' o '' tenen una freqüència molt alta també en espanyol. No obstant això, si serà difícil que les '' X '' representin, en aquest cas a la '' k '' o l''' w ''. Per això, el criptoanalistes podria tenir d'intentar diverses combinacions fins a desxifrar el text.
+
+[[Estadística]] s més complexes podrien ser usades, com considerar els parells de lletres o fins i tot trios. Això es fa per proporcionar més informació al criptoanalistes. Per exemple, les lletres '' q '' i '' o '' van gairebé sempre juntes en espanyol, mentre que la '' q '' sola és molt rara.
+
+== Ús en la Història ==
+[[Fitxer:Al-kindi-cryptanalysis.png|thumb|Primera pàgina d''' Un manuscrit per al desxifratge de missatges criptogràfics '', de [[Al-Kindi]].]]
+
+La primera explicació ben documentada de l'anàlisi de freqüències (de fet de qualsevol tipus de criptoanàlisi) va ser donada al [[segle IX]] pel [[filòsof]] àrab [[Al-Kindi]] En '' Un manuscrit per al desxifratge de missatges criptogràfics '' (Ibraham, 1992). S'ha suggerit que l'estudi intens de l'[[Alcorà]] va revelar que l'[[llengua àrab|àrab]] tenia una característica freqüència de lletres. El seu ús es va estendre i va ser tan usat a [[Europa]] durant el [[Renaixement]] que es van inventar pautes per intentar burlar l'estudi de les freqüències. Aquestes incloïen:
+
+* L'ús d'alternatives per a les lletres més comunes. Així, per exemple, les lletres X i Y trobades en el text xifrat podrien significar E en el text.
+* [[Xifratge de Trithemius|Xifratge polialfabètic]], és a dir, l'ús de diversos alfabets per al xifratge. [[Leone Alberti]] sembla ser el primer a haber-ho suggerit.
+* '' Substitució poligràfica '', esquemes on parells o tríades de lletres eren xifrades com una sola unitat. Per exemple, el [[Xifratge Playfair]], inventat per [[Charles Wheatstone]] a mitjans del [[segle XIX]].
+
+Una desavantatge de tots aquests intents de derrotar l'anàlisi de freqüències és que complicaven tant el xifratge com el desxifratge de les dades, provocant errors.
+
+Les màquines de rotors de la primera meitat del segle XX (per exemple, [[màquina Enigma]]) eren essencialment immunes a l'anàlisi de freqüències directe, encara que altres tipus d'anàlisi van aconseguir decodificar els missatges d'aquests aparells.
+
+L'anàlisi de freqüències només requereix un coneixement bàsic de les estadístiques del text pla i certa perícia resolent problemes. Durant la [[Segona Guerra Mundial]], tant els [[britànics]] com els [[Estats Units|nord-americans]] van reclutar ''trenca-codis '' posant [[puzzle]]s i [[mots encreuats]]s en els diaris i realitzant concursos per veure qui els resolia més ràpidament. Molts dels xifrats usats per [[Eix Roma-Berlín-Tokio|l'Eix]] eren vulnerables a l'anàlisi de freqüències (per exemple, alguns dels missatges xifrats usats pels consolats [[Japó|japonesos]]). Els mètodes mecànics del recompte de lletres i l'anàlisi de les estadístiques (generalment màquines de [[targetes perforades]] d'[[IBM]]) van ser usades durant la II Guerra Mundial, sent els pioners probablement els membres del [[Signals Intelligence Service|SIS]] nord-americà. Avui en dia, el treball de comptar lletres i analitzar freqüències ha estat deixat a [[programes informàtics]], que poden realitzar aquests comptes en segons. Amb la potència computacional actual, els mètodes de xifrat clàssic donen poca protecció real per a la privadesa dels missatges.
+
+
+== Vegeu també ==
+* [[Xifratge de flux]]
+
+
+
+== Referències ==
+* Helen Fouché Gaines, cryptanalysis, 1939, Dover. ISBN 0-486-20097-3
+* Ibraham A. Al-Kindi: The origins of Cryptology: The Arab contributions, '' [[Cryptologia]] '', 16 (2) (April 1992) pp. 97-126.
+* [[Abraham Sinkov]], Elementary cryptanalysis: A Mathematical Approach, The Mathematical Association of America, 1966. ISBN 0-88385-622-0.
+
+{{ORDENA:Analisi De Frequencies}}
+
+[[Categoria:Criptografia]]</text>
+      <sha1>mkgrmymd37d1de9ipzdauxzxpgcp20x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

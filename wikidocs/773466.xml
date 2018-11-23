@@ -1,0 +1,77 @@
+<page>
+    <title>Reacció de Diels-Alder</title>
+    <ns>0</ns>
+    <id>773466</id>
+    <revision>
+      <id>13827752</id>
+      <parentid>13568856</parentid>
+      <timestamp>2014-07-15T00:27:38Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:Diels Alder Mechanismus.svg|right|thumb|Reacció de Diels-Alder entre el [[1,3-butadiè]] (diè) i l'[[etilè]] (dienòfil), per formar el [[ciclohexè]]]]
+
+La '''reacció de Diels-Alder''' és una de les reaccions més importants en la química orgànica que té lloc entre un [[diè]] conjugat i un [[alquè]] substituït, normalment anomenat dienòfil, per formar un sistema [[ciclohexè]] substituït. La característica principal del diè és la possessió de substituents cessors d'electrons, mentre que en el dienòfil ha de tenir substituents acceptors. Algunes reaccions Diels-Alder són reversibles i la reacció de descomposició de l’anell s’anomena [[Retro Diels-Alder]].
+
+És una reacció molt útil en síntesi orgànica, ja que permet l'obtenció d'un anell de [[ciclohexè]], les reaccions de d'obtenció del qual (així com les reaccions de ciclació en general) són escasses i generalment dificultoses. En la majoria de casos és una reacció cinèticament i termodinàmicament favorable. És una reacció útil per obtenir anells de sis àtoms amb [[heteroàtom|heteroàtoms]] ([[nitrogen]], [[oxigen]]...).
+
+El descobriment i desenvolupament d'aquesta reacció per part dels químics alemanys [[Otto Diels]] i [[Kurt Alder]] a partir de 1928 fou la causa per la qual se'ls va concedir el [[Premi Nobel de Química]] l'any [[1950]], només 5 anys després del final de la [[Segona Guerra Mundial]].
+
+== Mecanisme de reacció ==
+[[Fitxer:Diels Alder Orbitale.svg|thumb|right|Solapament d'orbitals en una reacció de Diels-Alder]]
+
+La reacció de Diels-Alder és una [[reacció pericíclica]], és a dir que té lloc a través d'un estat de transició de geometria cíclica, que té un volum inferior que els reactius i els productes i en el qual es formen els dos enllaços C-C al mateix temps. Com a tal, no existeix un mecanisme de reacció, sinó que és, senzillament, una redistribució cíclica dels [[enllaç pi|electrons π]]. L’estat de transició no es polar ni s’hi generen càrregues i presenta un lleuger caràcter de radical lliure. En l'estat de transició els carbonis 1 i 4 del diè modifiquen la seva [[hibridació d'orbitals|hibridació]] de spsup2/sup a spsup3/sup per poder formar dos enllaços senzills addicionals, mentre que els carbonis 2 i 3 mantenen la hibridació spsup2/sup per formar el nou doble enllaç al ciclohexè resultant. Així s'aconsegueix reduir el nombre d'enllaços π de 3 a 1 i la formació de 2 enllaços σ, els quals són més forts i més estables que els π. Aquest fet afavoreix energèticament la formació de l'adducte de Diels Alder.
+
+El producte inicialment format té una [[conformació del ciclohexà|conformació de vaixell]].
+
+En alguns casos s'ha observat reaccions de Diels-Alder sense radicals.
+
+==Cinètica de la reacció==
+És una reacció d'ordre global cinètic 2: ordre 1 en el diè i ordre 1 en el diènofil. L'equació cinètica és, doncs:
+
+:mathv=k \cdot A \cdot B/math
+
+On ''A'' i ''B'' són les concentracions de diè i dienòfil, respectivament i ''k'' és la [[constant de velocitat]] de la reacció.
+
+La reactivitat i la velocitat en la reacció de Diels-Alder augmenten amb la pressió.
+
+== Característiques del diè ==
+Un diè consta de dos dobles enllaços [[sistema conjugat|conjugats]], que funcionen com una unitat i, per tant, la seva reactivitat és diferent a la dels [[alquè|sistemes etilènics]] aïllats. La seqüència més senzilla de les configuracions electròniques dels àtoms consecutius és spsup2/sup-spsup2/sup-spsup2/sup-spsup2/sup.
+
+[[File:S-cis s-trans butadiene.gif|thumb|right|Conformacions s-cis (esquerra) i s-trans (dreta) del [[butadiè]].]]
+El diè ha d’adoptar el que s’anomena la conformació s-cis, és a dir una conformació ''cis'' al voltant de l'enllaç senzill. Únicament en la conformació s-cis els carbonis 1,4 del diè es troben suficientment a prop i orientats de manera que la molècula reaccioni. En l’altra conformació, s-trans, els carbonis 1,4 estan massa allunyats per tal que s'encavalquin amb l’orbital p del dienòfil. La majoria de diens poden adoptar la conformació s-cis, ja que, malgrat es tracta de dobles enllaços conjugats, l’enllaç senzill pot rotar. Tanmateix hi ha casos, com el d'un diè bicíclic, que adopta un configuració s-trans rígida. Un altre exemple és el del (2Z,4Z)-2,4-hexadiè, en el qual es produeix un [[efecte estèric|impediment estèric]] (solapament) entre els dos grups metil i dificulta que el diè adopti la configuració s-cis, ja que la forma s-trans és més estable.
+
+Un altre requisit fonamental del diè és que ha de ser pla, per la qual cosa els únics diens cíclics en els quals la reacció de Diels-Alder funciona són els de 5 i 6 àtoms. 
+
+En cas de tenir substituents, aquests han de ser cessors de càrrega electrònica, com ara [[hidrocarbur alifàtic|cadenes alifàtiques]], [[grup aril|grups aril]] o [[èter|grups èter]]. Si el diè té substituents acceptors la reacció de Diels-Alder no funciona. Si el diè és un [[compost cíclic]] llavors es formarà un bicicle.
+
+== Característiques del dienòfil ==
+El dienòfil ha de tenir un substituent acceptor d'electrons, amb això s’aconsegueix una separació de càrregues en el doble enllaç, polaritzant negativament la regió aceptora i polaritzant positivament el doble enllaç.
+
+El dienòfil també pot ser un triple enllaç, en aquest cas el resultat de la reacció de Diels-Alder seria un doble enllaç addicional a les posicions del dienòfil. El dienòfil també pot contenir heteroàtoms. Els mètodes d'obtenció d’aquests dienòfils poden ser molt variats però és extraordinàriament útil la carbonatació de l'[[acetilè]] en particular o tota la química de l'acetilè desenvolupada per [[Walter Reppe]].
+
+Una altra característica del dienòfil i conseqüentment de la corresponent reacció de Diels-Alder és l'estèreo-especificitat. L'estereoquímica del dienòfil inicial es manté durant la reacció i solament s’obté un únic estereoisòmer. En concret, es pot resumir que si el dienòfil és ''cis'' el ciclohexè resultant serà substituït en ''cis''. Si, en canvi, és ''trans'' s’obtindrà el ciclohexè substituït en ''trans''.
+
+Alguns exemples de dienòfils són el [[propenal]], [[propeonat d’etil]], [[anhídrid maleic]], [[1,4-benzoquinona|p-benzoquinona]] o [[acrilonitril]].
+
+==Estereoselectivitat==
+Les reaccions de Diels-Alder poden conduir a una gran varietat d'[[isòmers estructurals]] i d'[[Isòmer#Estereoisomeria|estereoisòmers]] ([[enantiòmer|enantiòmers]] i [[diastereòmer|diastereòmers]]). Tanmateix en la major part dels casos se'n pot predir la identitat.
+
+===Isomeria ''endo'' i ''exo''===
+[[Fitxer:Diels-Alder endo exo.svg|thumb|right|Isomeria ''endo'' i ''exo'' de la reacció de Diels-Alder]]
+Quan el dienòfil incorpora un grup activant que conté enllaços múltiples, el [[principi de major recobriment d'enllaços múltiples]] en el complex activat té una importància extraordinària per predir l'estereoquímica. D'acord amb aquest principi, el diè i el dienòfil s'associen en plans paral·lels, de manera que es permeti la màxima interacció entre els [[enllaç pi|enllaços π]] de les substàncies reaccionants. Hi ha dues posibles orientacions que compleixen aquesta condició, l'orientació ''endo'' i l'orientació ''exo''. Aquesta cerca del màxim recobriment dels enllaços múltiples en el complex activat condueix a la formació preferent del producte ''endo'' quan s'utilitzen diens cíclics o amb enllaços múltiples. Si el dienòfil no porta un grup amb enllaç múltiple capaç d'interaccionar amb l’enllaç π, desapareix la preferència de l'isòmer endo.
+
+L'isòmer ''exo'' és més estable que l'isòmer ''endo''. Aquí s’observa el fenomen de [[control cinètic]] enfront de [[control termodinàmic]]. L'explicació més usual per a la formació més ràpida del compost ''endo'' és que aquesta forma és el resultat d'una orientació del diè i del dienòfil tal que es produeix un solapament orbital més extens que en l'isòmer ''exo''. Aquest solapament tendeix a estabilitzar l'estat de transició de l'isòmer ''endo'', reduint la seva energia d'activació i conseqüentment augmentant-ne la velocitat de reacció.
+
+==Enllaços externs==
+{{commonscat|Diels-Alder reaction|reacció de Diels-Alder}}
+{{Autoritat}}
+[[Categoria:Reaccions orgàniques|Diels-Alder]]</text>
+      <sha1>ec95vehtei80cykm005cyegj5vh33y5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,219 @@
+<page>
+    <title>Bismut</title>
+    <ns>0</ns>
+    <id>20706</id>
+    <revision>
+      <id>13765924</id>
+      <parentid>13628065</parentid>
+      <timestamp>2014-07-08T21:59:45Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}} i {{Projectes germans}} que enllaça amb [[commons:category:Bismuth]]</comment>
+      <text>{{Infotaula d'element químic
+| nom anglès = Bismuth
+|name=Bismut
+|number=83
+|symbol=Bi
+|pronounce={{IPAc-en|ˈ|b|ɪ|z|m|ə|θ}} {{respell|BIZ|məth}}
+|left=[[Plom]]
+|right=[[Poloni]]
+|above=[[Antimoni|Sb]]
+|below=[[Ununpenti|Uup]]
+|series=Metalls del bloc p
+|series comment=
+|group=15
+|period=6
+|block=p
+|series color=
+|phase color=
+|appearance=Platejat brillant
+|image name=Bismuth crystals and 1cm3 cube.jpg
+|image name comment=
+|image name 2=
+|image name 2 comment=
+|atomic mass=208.98040
+|atomic mass 2=1
+|atomic mass comment=
+|electron configuration=#91;[[xenó|Xe]]#93; 4fsup14/sup 5dsup10/sup 6ssup2/sup 6psup3/sup
+|electrons per shell=2, 8, 18, 32, 18, 5
+|color=
+|phase=Sòlid
+|phase comment=
+|density gplstp=
+|density gpcm3nrt=9.78
+|density gpcm3mp=10.05
+|melting point K=544.7
+|melting point C=271.5
+|melting point F=520.7
+|boiling point K=1837
+|boiling point C=1564
+|boiling point F=2847
+|triple point K=
+|triple point kPa=
+|critical point K=
+|critical point MPa=
+|heat fusion=11.30
+|heat vaporization=151
+|heat capacity=25.52
+|vapor pressure 1=941
+|vapor pressure 10=1041
+|vapor pressure 100=1165
+|vapor pressure 1 k=1325
+|vapor pressure 10 k=1538
+|vapor pressure 100 k=1835
+|vapor pressure comment=
+|crystal structure=Romboèdrica
+|crystal structure ref=ref name=str{{ref-publicació|doi=10.1107/S0365110X62002297|títol=The crystal structure of Bi and of solid solutions of Pb, Sn, Sb and Te in Bi|any=1962|cognom1=Cucka|nom1=P.|cognom2=Barrett|nom2=C. S.|publicació=Acta Crystallographica|volum=15|exemplar=9|pàgines=865|llengua=anglès}}/ref
+| oxidation states = 5, 4, '''3''', 2, 1
+|oxidation states comment=òxid àcid feble
+|electronegativity=2.02
+|number of ionization energies=4
+|1st ionization energy=703
+|2nd ionization energy=1610
+|3rd ionization energy=2466
+|atomic radius=156
+|covalent radius=148±4
+|Van der Waals radius=[[1 E-10 m|207]]
+|magnetic ordering=[[Diamagnètic]]
+|electrical resistivity=
+|electrical resistivity at 0=
+|electrical resistivity at 20=1.29 µ
+|thermal conductivity=7.97
+|thermal conductivity 2=
+|thermal diffusivity=
+|thermal expansion=
+|thermal expansion at 25=13.4
+|speed of sound=
+|speed of sound rod at 20=1790
+|speed of sound rod at r.t.=
+|Young's modulus=32
+|Shear modulus=12
+|Bulk modulus=31
+|Poisson ratio=0.33
+|Mohs hardness=2.25
+|Vickers hardness=
+|Brinell hardness=94.2
+|CAS number=7440-69-9
+|isotopes=
+{{Elementbox_isotopes_decay | mn=207 | sym=Bi
+ | na=[[radioisòtop sintètic|sin]] | hl=31.55 [[any|a]]
+ | dm=[[emissió de positró|βsup+/sup]] | de=2.399 | pn=207 | ps=[[plom|Pb]] }}
+{{Elementbox_isotopes_decay | mn=208 | sym=Bi
+ | na=[[radioisòtop sintètic|sin]] | hl=3.68×10sup5/sup a
+ | dm=[[emissió de positró|βsup+/sup]] | de=2.880 | pn=208 | ps=[[plom|Pb]] }}
+{{Elementbox_isotopes_decay | mn=209 | sym=Bi
+ | na=100% | hl=1.9×10sup19/sup a
+ | dm=[[desintegració alfa|α]] | de=3.137 | pn=205 | ps=[[tal·li|Tl]] }}
+{{Elementbox_isotopes_decay2 | mn=210 | sym=Bi
+ | na=[[radioisòtop traça|traça]] | hl=5.012 [[dia|d]]
+ | dm1=[[desintegració beta|βsup−/sup]] | de1=1.426 | pn1=210 | ps1=[[poloni|Po]]
+ | dm2=[[desintegració alfa|α]] | de2=5.982 | pn2=206 | ps2=[[tal·li|Tl]] }}
+{{Elementbox_isotopes_decay2 | mn=210m | sym=Bi
+ | na=[[radioisòtop sintètic|sin]] | hl=3.04×10sup6/sup a
+ | dm1=[[transició isòmera|TI]] | de1=0.271 | pn1=210 | ps1=Bi
+ | dm2=[[desintegració alfa|α]] | de2=6.253 | pn2=206 | ps2=[[tal·li|Tl]] }}
+|isotopes comment=
+|discovered by=[[Claude François Geoffroy]]
+|discovery date=1753
+}}
+El '''bismut''' és un [[element químic]] de la [[taula periòdica]] el símbol del qual és '''Bi''' i el seu [[nombre atòmic]] és 83. Aquest [[metall]] del [[bloc p]], pesat, fàcil de trencar i blanc cristal·lí, s'assembla químicament als elements que el precedeixen al grup, [[antimoni]] i [[arsènic]] (encara que aquests se solen considerar com semimetalls): S'obté com un  subproducte [[refinat]] del [[coure]] (Cu), [[plom]] (Pb) i [[Estany (element)|estany]] (Sn). És el metall amb el major [[diamagnetisme]] i, després del [[mercuri (element)|mercuri]], és el metall amb menys [[conductivitat tèrmica]].
+
+El Bismut elemental '''pot aparèixer de forma natural''', encara que la seva sulfur i òxid formen minerals comercials importants. Existeix en la natura com a metall lliure i en minerals. Els principals dipòsits estan a Sud-amèrica, però als Estats Units s'obté principalment com a subproducte del refinat dels minerals de coure i plom. Va ser un dels 10 primers materials en descobrir-se,  l'any 1660. Va tenir un paper molt destacat durant els anys de la Segona Guerra Mundial. Va ser un material clau per les investigacions de la bomba atòmica, i utilitzat per a soldadures, aliatges fusibles i va servir també com a remei de certes malalties sexuals i digestives com també per a curar cremades ocasionades per les bombes. 
+[[Fitxer:Wismut Kristall und 1cm3 Wuerfel.jpg|thumb|221x221px|A l'esquerra, cristall sintètic de bismut. La superfície iridiscent és una capa molt fina d'òxid. Al costat hi ha un cub d'1 cmsup3/sup d'alta puresa]]
+L'element lliure és 86% més dens que el plom. És un metall trencadís amb un color blanc platejat quan està acabat de produir, però sovint es veu en l'aire amb un tint de color rosa a causa de l'oxidació de la superfície. L’òxid que aquest element té a la superfície creix de manera desproporcionada, i hi ha més gruix a les vores que a l'interior, i per aquest motiu presenta una varietat de colors tan diferents que va des del blau fins al groc. El bismut és l'element més natural diamagnètic i té un dels '''valors més baixos de conductivitat tèrmica entre els metalls''', en excepció del mercuri.
+
+S'utilitza en alguns aliatges i alguns dels seus compostos s'utilitzen com cosmètics i en aplicacions farmacèutiques. Degut a l'alta toxicitat del plom, l'ús d'aliatges amb bismut com substitut del plom ha fet que aquest element tingui una creixent importància comercial.
+
+Quan és sòlid flota sobre el seu estat líquid per tenir una menor densitat en l'estat sòlid. Aquesta característica és compartida amb l'[[aigua]], el [[gal·li]], l'[[àcid acètic]], l'[[antimoni]] i el [[silici]]
+
+Alguns minerals que contenen bismut són la [[galenobismutita]]: PbBisub2/subSsub4/sub o la [[bismutinita]].
+
+[[Fitxer:Bismuth_symbol.png|thumb|left|Símbol [[Alquímia|alquímic]] pel Bismut|51x51px]]
+
+== Característiques principals ==
+-   El bismut és un metall cristal·lí, blanc grisenc, llustrós, dur i trencadís. És un dels pocs metalls que s'expandeixen en solidificar.
+
+-    En gairebé tots els compostos de bismut està en forma trivalent. No obstant això, de vegades pot ser pentavalent o monovalent. El '''bismutat de sodi''' i el '''pentafluoruro de bismut''' són potser els COMPOSTOS més importants de Bi ( V ). El primer és un agent oxidant poderós i l'últim un agent fluorant útil per a compostos orgànics.
+
+-    Durant el seu procés de refredament, el bismut forma cristalls grossos amb solcs en forma de V. Quan es refreda molt lentament bismut de puresa molt elevada, aquests cristalls poden créixer fins a dimensions extraordinàries.
+
+-    Es troba entre el Plom (82), i el Poloni (84), dos elements altament tòxics o radioactius. Per tant, és curiós que s’utilitzi per la creació de fàrmacs estomacals com el Pepto-Bismol.
+
+-  Es troba '''al mig dels metalls pesants tòxics''', i fins ara es coneix que en la seva forma metàl·lica no ho és, de tòxic.
+
+-    És el '''darrer element estable''': cap element de nombre atòmic superior a 83 no té isòtops estables. El bismut tècnicament parlant tampoc té cap isòtop estable, encara que a la pràctica es comporti com a tal. '''L'únic isòtop estable és el de massa 209.'''
+
+-    '''Origen del nom: '''strong'' ''de la paraula alemanya /strong''wissmuth'' (massa blanca).
+
+-    Un fet que comparteix amb uns altres pocs elements de la taula periòdica (antimoni, germani, silici i gal·li) és la seva densitat més elevada en estat líquid que en estat sòlid. (densitat en líquid: 10,05 g/cmsup3 /sup  densitat en sòlid: 9,78 g/cmsup3/sup )
+
+== Aplicacions ==
+-   S’utilitza per els detectors d’escintil·lació. Germanat de bismut (Bi4 Ge3 O12) 
+
+-   Farmacèutics. Exemple: ''Pepto-Bismol''. El principi actiu d’aquest fàrmac és el salicilat de bismut. 
+
+-   El bismut es ven en forma de lingots de 30 lliures (13’61Kg). 
+
+-   Joieria
+
+-   Cosmètica
+
+-   Manuf
+
+actura d'aliatges de baix punt de fusió, que s'empren en parts que es poden fondre de ruixadors automàtics, soldadures especials, segells de seguretat per cilindres de gas comprimit i en apagadors automàtics d'escalfadors d'aigua elèctrics i de gas.
+
+-   A la dècada del 1990 es va començar a investigar la possibilitat de substituir el plom pel bismut, amb l'avantatge que aquest no és tòxic. Es va investigar en certs àmbits com en els esmalts, en la pesca, greixos lubricants, processament d'aliments i la caça.
+
+== Efectes del bismut sobre la salut ==
+-   El bismut i les seves sals poden causar '''danys en el fetge''', encara que el grau d'aquest dany és normalment moderat. Grans dosis poden ser mortals. Industrialment és considerat com un dels metalls pesats menys tòxics.
+
+-   Enverinament greu i de vegades mortal pot ocórrer per la injecció de grans dosis en cavitats tancades i d'aplicació extensiva a cremades (en forma de compostos solubles del bismut). S'ha declarat que l'administració de bismut ha de ser detinguda quan aparegui gingivitis, ja que de no fer-ho és probable que resulti en estomatitis ulcerosa. 
+
+-   Es poden desenvolupar altres resultats tòxics, com ara sensació indefinida de malestar corporal, presència d'albúmina o una altra substància proteica en l'orina, diarrea ,reaccions cutànies i de vegades exodermatitis greu.
+
+Vies d'entrada : Inhalació, pell i ingestió. 
+
+-    El bismut no es considera un carcinogen per als humans.
+
+=== Efectes aguts ===
+Inhalació : ENVERINAMENT . 
+Pot ser un gas desagradable provocant irritació respiratòria. Pot causar mal alè, sabor metàl·lic i gingivitis. 
+
+Ingestió: ENVERINAMENT. 
+Pot causar nàusees, pèrdua de gana i de pes, malestar, albuminúria, diarrea, reaccions cutànies, estomatitis, mal de cap, febre, falta de son, depressió, dolors reumàtics i una línia negra es pot formar en les genives causa del dipòsit de sulfur de bismut. 
+
+Pell: Pot provocar irritació. 
+Ulls : Pot provocar irritació.
+
+== Efectes ambientals del bismut ==
+El '''bismut metàl·lic no es considera tòxic '''i presenta una amenaça mínima per al medi ambient. Els compostos del bismut són generalment molt poc solubles però han de ser manejats amb cura, ja que només es disposa d'informació limitada dels seus efectes i destinació en el medi ambient. 
+
+== Disponibilitat, producció i preu ==
+Aquest material és dos cops més abundants que l'or en la escorça terrestre. Cada any es produeixen aproximadament 8900 tones de Bismut. Els països més productors de bismut són Xina (6500 tones) Perú (1100 tones) i Mèxic (850 tones) (dades del 2010).
+
+Durant la segona guerra mundial, aquest material tenia un preu de 2,75 $/kg. Durant els anys del 1950-1964, per tal d'estabilitzar el mercat, el preu va augmentar fins a 4,96 $/kg. A partir d'aquest punt el preu ha anat augmentant a mesura que es van descobrint noves utilitats fins a arribar al preu actual d'aproximadament 20$/kg .
+
+== Bibliografia ==
+Mahan, Bruce M., Meyers, Rollie J.  ''Química: curso universitario. ''4ta Edición. México: Addison Wesley Longman, 1998.
+
+Davis, J.R. ''Metals Handboook. ''Second Edition. United States of America: ASM International, 1998.
+
+Gray, Theodore. ''Els elements: Una exploració visual de tots els àtoms coneguts de l'Univers. ''Barcelona: Institvt d'Estvdis Catalans, Vniversitat de València, Univercitat Autònoma de Barcelona, 2011.
+==Referències==
+references /
+
+{{Autoritat}}
+{{Enllaç AB|en}}
+== Enllaços externs ==
+{{Projectes germans|commons=Bismuth}}
+* [http://periodic.lanl.gov/elements/83.html Los Alamos National Laboratory - Bismut] {{en}}
+* [http://www.webelements.com/webelements/elements/text/Bi/index.html webelements.com - Bismut] {{en}}
+* [http://environmentalchemistry.com/yogi/periodic/Bi.html environmentalchemistry.com - Bismut] {{en}}[[Categoria:Bismut| ]]</text>
+      <sha1>knfnxttf9moenzkuadpf2q3k7gh4ty7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,183 @@
+<page>
+    <title>SSEM</title>
+    <ns>0</ns>
+    <id>1012005</id>
+    <revision>
+      <id>14022448</id>
+      <parentid>13771819</parentid>
+      <timestamp>2014-09-07T23:03:51Z</timestamp>
+      <contributor>
+        <username>JoRobot</username>
+        <id>24498</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot canvia small per {{mida}} o {{referències|1}} i treu smalls que sobraven</comment>
+      <text>[[Fitxer: SSEM Replica.jpg|thumb|350px|Rèplica del SSEM al Museu de Ciència i Indústria a Manchester.]]
+La '''Màquina Experimental de Petita Escala de Manchester ''' (en anglès Manchester Small-Scale Experimental Machine, '''SSEM'''), anomenada ''' Baby''', va ser el primer [[ordinador]] del món amb un [[programa emmagatzemat]]. Va ser desenvolupat a la [[Universitat de Manchester]] per [[Frederic Calland Williams|Frederic C. Williams]], [[Tom Kilburn]] i Geoff Tootill, i va executar el seu primer programa el 21 de juny de [[1948]].ref{{Obra citada|last = Enticknap|first = Nicholas|title = Computing s Golden Jubilee|journal = Resurrection|issue = 20|publisher = The Computer Conservation Society|date = Summer 1998|url = http://www.cs.man.ac.uk/CCS/res/res20.htm#d|issn = 0958-7403|accessdate = 19 April 2008}}/ref
+
+La màquina va ser dissenyada i construïda com a banc de prova del [[tub Williams]], un dels primers tipus de memòries d'ordinador, no com un ordinador pràctic. No obstant això, el seu exitós resultat va motivar el desenvolupament de l'ordinador [[Manchester Mark I]], el qual va permetre el desenvolupament del [[Ferranti Mark I]], el primer ordinador disponible comercialment i de propòsit general.ref name = NapperMK1{{Obra citada|last = Napper|first = R. B. E.|Title = Introduction to the Mark 1|url = http://www.computer50.org/mark1/mark1intro.html|publisher = The University of Manchester|accessdate = 4 November 2008}}/ref
+
+El SSEM tenia [[Paraula (informàtica)|paraules]] de 32 [[bit]]s de llarg i emmagatzemava fins a 32 paraules. Tres bits eren usats pel codi d'instrucció, donant un màxim de vuit instruccions, de les quals només set estaven definides. Tres programes van ser escrits per al SSEM: el primer calculava el factor més alt de 2sup18/sup, consistia en 17 instruccions i va trigar 52 minuts per arribar a la resposta després de realitzar 3,5 milions d'operacions.
+
+== Antecedents ==
+[[Fitxer: von Neumann architecture.svg|dreta|thumb|Disseny de l'[[arquitectura de von Neumann]] (1947).]]
+El 1936, el matemàtic [[Alan Turing]] va crear la teoria d'una màquina de calcular universal (coneguda avui dia com la màquina de Turing), un ordinador que emmagatzemava en una cinta el programa i les dades amb què treballava. Turing va demostrar que la màquina era capaç de resoldre qualsevol problema matemàtic que es pogués escriure en un [[algorisme]].ref{{Harvnb|Turing|1936}}/ref Durant els anys 40, Turing i altres com [[Konrad Zuse]], van desenvolupar la idea d'usar la pròpia memòria de l'ordinador per emmagatzemar el programa i les dades,ref{{Obra citada|last = Zuse|first = Horst|title = The Life and Work of Konrad Zuse|url = http://www.epemag.com/zuse/default.htm#index|publisher = Wimborne Publishing|Periodical = EPE Online|chapter = Part 10: Konrad Zuse and the stored Program Computer|accessdate = 16 November 2008}}/ref però es considera al matemàtic [[John von Neumann]] qui va definir l'arquitecura dels ordinadors, la qual es manté en ús en la majoria d'ordinadors actuals. Els primers ordiandors eren generalment programats modificant els seus circuits, dessoldant i soldant les connexions o mitjançant [[plugboard]]s. No tenien el programa emmagatzemat en memòria de forma separada, igual que en els ordiandors moderns; reprogramar l'[[ENIAC]] era una tasca feixuga que costava alguns dies.ref{{Obra citada|url = http://www.computer50.org/mark1/contemporary.html|title = Early Electronic Computers (1946-1951)|publisher = Universitat de Manchester|accessdate = 16 November 2008}}/ref
+
+La construcció d'un computador von Neumann pràctic depenia de la disponibilitat de dispositius de memòria. Durant la [[Segona Guerra Mundial]], investigadors que treballaven en el problema d'eliminar les interferències dels senyals de [[radar]] van desenvolupar la [[memòria de línia de retard]], la primera memòria d'ús pràctic, una de les quals va ser la memòria de línia de retard de mercuri,ref{{Harvnb|Lavington|1998|p = 1}}/ref desenvolupada per [[J. Presper Eckert]]. La idea era eliminar els ecos de radar dels objectes estàtics retardant cada pols de retorn entre polsos transmesos i comparar-lo amb cada pols emmagatzemat, deixant en el senyal resultant només les imatges dels objectes que es mouen.ref{{Harvnb|Brown|1999|p = 429}}/ref
+
+El 1945, continuant amb els treballs iniciats en [[Colossus|Projecte Colossus]], científics del ''Ministeri de Subministraments'' van considerar que la Gran Bretanya necessitava un Laboratori Nacional de Matemàtica per coordinar els càlculs assistits per màquines que es realitzaven.ref name=lavington-80-v Lavington (1980), Chapter 5: ACE, the 'British National Computer'./ref Això va conduir a la creació de la ''Divisió de Matemàtiques'' al [[Laboratori Nacional de Física (Regne Unit)|Laboratori Nacional de Física]] (National Physical Laboratory, NPL), i, el 19 de febrer de 1946, Alan Turing va presentar un disseny per a un ordinador electrònic de programa emmagatzemat, que seria conegut com l'ACE-[[Automatic Computing Engine]].ref name=lavington-80-v/ Donat que el NPL no tenia la capacitat per construir aquest ordinador, van intentar obtenir d'una altra banda l'experiència necessària. [[Tommy Flowers]] i el seu equip del ''Laboratori d'Investigació Dollis Hill'' pertanyent al ''General Post Office''(GPO) es van unir, però no van poder dedicar-s'hi a temps complet a causa d'altres compromisos en computació i telefonia, tot i que van construir diverses memòries de línia de retard de mercuri per l'ACE.ref name=lavington-80-v/ [[Maurice Wilkes]], del Laboratori de Matemàtiques de la [[Universitat de Cambridge]], i el [[Telecommunications Research Establishment]] (TRE) també van ser contactats.ref name=lavington-80-v/
+
+''El Departament d'Investigació Científica i Industrial'' (DSIR), que dirigia el NPL, pressionar el TRE per donar-li al ACE la màxima prioritat sobre tots els treballs que feia el TPE per al DSIR.ref Name=lavington-80-v/ Això va portar al Dr Smith, Superintendent de la Divisió de Física de l'TRE, [[Frederic Calland Williams|Frederic C. Williams]] i a A. M. Uttley a visitar el NPL el 22 de novembre de 1946.ref Name=lavington-80-v/ Molts dels tècnics en circuits de Williams van ser transferits al ''Departament d'Energia Atòmica'' i Williams ocuparia sis setmanes després una càtedra a la [[Universitat de Manchester]].ref name=lavington-80-v/ El TRE va acordar formar un segon equip (amb pocs integrants) a la Universitat de Manchester per treballar sota les ordres del professor Williams, i altres van treballar per al Dr A. M. Uttley al TRE.ref Name=lavington-80-v/ El NPL també va enviar una proposta i un projecte de contracte a Williams ja Wilkes per treballar a l'ACE.ref Name=lavington-80-v/
+
+L{{'}}'''ACE''' va ser un de diversos projectes creats durant els anys següents a la [[Segona Guerra Mundial]] que apuntaven a construir un ordinador amb programa emmagatzemat. L'[[EDVAC]] va ser desenvolupat a l{{'}}''Escola d'Enginyeria Elèctrica Moore'' de la [[Universitat de Pennsilvània]], Flowers i Wilkes van visitar l'escola tot presenciant la presentació de l'EDVAC, l'[[EDSAC]] estava sent desenvolupat al Laboratori de Matemàtiques de la [[Universitat de Cambridge]], el Professor [[Max Newman]] es va anar a la Universitat de Manchester on esperava poder crear un laboratori de màquines de calcular basades en la memòria de [[Selectron|tubs Selectron]] que estava sent desenvolupades per la [[RCA]].ref{{Harvnb|Lavington|1998|pp = 8-9}}/refref name=lavington-80-v/ Malgrat que els primers computadors, com el [[CSIRAC]], van usar amb èxit la memòria memòria de línia de retard de mercuri,ref{{Obra citada|url = http://www.csse.unimelb.edu.au/dept/about/csirac/store.html|title = CSIRAC|Contribution = How did CSIRAC work?|Publisher = Universitat de Melbourne|date = 4 April 2006|accessdate = 16 novembre 2008}}/ref aquesta tecnologia tenia diversos inconvenients: la quantitat de dades que podien emmagatzemar eren limitades, era pesat, i era car. A més, perquè les dades s'emmagatzemaven com una seqüència d'ones acústiques, i perquè la velocitat del so a través d'un mitjà varia amb la temperatura, el mercuri havia de ser mantingut a una temperatura constant.
+
+== El tub Williams ==
+[[Fitxer: SSEM Manchester museum.jpg|thumb|300px|alt = Una sèrie de set contenidors metàl·lics de grans dimensions plens de dispositius electrònics devant d'una paret de maons. Un rètol sobre cada dipòsit descriu la funció dels components que conté. A l'esquerra de la imatge, tres visitants llegint la informació.|Rèplica del SSEM al Museu de la Ciència i de la Indústria de Manchester.]]
+{{AP|Tub Williams}}
+[[Frederic Calland Williams|Frederic C. Williams]] havia presenciat un experiment en els [[Laboratoris Bell]] que va demostrar l'efectivitat dels [[Tub de raigs catòdics|tubs de raigs catòdics]] (CRT) com una alternativa al retard de temps per eliminar els ecos del terreny en els senyals de radar. Mentre treballava en l{{'}}''Establiment d'Investigació de Telecomunicacions'' (Telecommunications Research Establishment, TRE), poc abans d'incorporar a la Universitat de Manchester al desembre de 1946, va desenvolupar una forma de memòria electrònica usant un CRT que es va conèixer com el [[Tub Williams|Tub Williams]].ref{{citar ref|títol = Early computers at Manchester University|revista = Resurrection|volum = 1|nombre = 4|editorial = The Computer Conservation Society|data = Summer 1992|url = http://www.cs.man.ac.uk/CCS/res/res04.htm#g|issn = 0958-7403|data= 19 abril 2008}}/ref La Màquina Experimental de Petita Escala de Manchester (Manchester Small-Scale Experimental Machine, SSEM) va ser dissenyada per provar els tubs Williams, el primer dispositiu d'emmagatzematge digital d'accés aleatori, que podia treballar a la velocitat de l'ordinador.ref{{Harvnb|Lavington|1998|p = 13, 24}}/ref
+
+Per usar-se en un computador digital [[binari]], el dispositiu podia emmagatzemar un de dos valors possibles en cada posició de memòria, corresponents als [[Bit|dígits binaris]] (bits) 0 i 1. Aquest aprofitava la [[càrrega electrostàtica]] positiva i negativa generada per un CRT, ja sigui un guió o un punt en qualsevol posició de la pantalla. Un guió generava una càrrega positiva, i un punt una càrrega negativa, qualsevol dels quals podia ser captat per un detector proper a la pantalla, la càrrega negativa representava un 0, i la positiva un 1. La càrrega podia dissipar-se en 0,2 segons, però podia refrescar automàticament llegint les dades amb la placa col·locada al front de la pantalla.ref{{Harvnb|Lavington|1998|p = 12}}/ref
+
+Inicialment els tubs Williams es van desenvolupar sobre el CV1131, un CRT disponible comercialment de 300 mm de diàmetre, però un tub més petit de 150 mm, el CV1097, va ser usat en el SSEM.ref{{Harvnb|Lavington|1998|pp = 12-13}}/ref
+
+== Disseny i Desenvolupament ==
+[[Fitxer:BabyArchitecture.png|thumb|Esquema de l'arquitectura mostrant com es col·locaven els quatre tubs de raigs catòdics (en verd).]]
+Després del seu nomenament a la ''Presidència d'Enginyeria Elèctrica'' a la Universitat de Manchester, al desembre de 1946, Williams va contractar al seu col·lega del TRE [[Tom Kilburn]]. Per la tardor (en l'hemisferi boreal) de 1947 havien incrementat la capacitat dels tubs Williams d'un bit a 2.048, en una matriu de 64 per 32,ref name=first computers{{Harvnb|Napper|2000|p = 366}}/ref i van demostrar que podien emmagatzemar les dades durant quatre hores.ref name=Lavington 1998 p=13{{Harvnb|Lavington|1998|p = 13}}/ref L'enginyer Geoff Tootill es va unir a l'equip a préstec del TRE el setembre de 1947, i va romandre en comissió fins a l'abril de 1949.ref name=LavingtonP16{{Harvnb|Lavington|1998|p = 16}}/ref
+
+[[Max Newman]] va ser nomenat director del departgament de ''Matemàtica Pura de la Universitat de Manchester'' el 1945. Durant la Segona Guerra Mundial va treballar com a criptògraf a [[Bletchley Park]], i va abandonar l'equip que havia produït els primers ordiandors desxifradors de codi Colossus el 1943. Encara que Newman no tenir un paper molt actiu en el desenvolupament del SSEM, o dels altres computadors de Manchester, va ser un entusiasta del projecte i el va recolzar activament, i va acordar les compres dels excedents de guerra, incloent els racks de metall del servei postal General (''General Post Office'', GPO) de Bletchley.ref name=LavingtonPP67{{Harvnb|Lavington|1998|pp = 6-7}}/ref
+
+Al juny de 1948 el SSEM havia estat construït i estava en funcionamdent.ref name=first computers/ Tenia 5,16 m de llarg, 2,33 m d'alt, i pesava al voltant d'1 [[Tona mètrica|t]]. Cada paraula de 32 bits de la memòria principal podia contenir tant instruccions com dades. En una instrucció del programa, els bits 0-12 representaven l'adreça de memòria de l'[[operant]] a usar, i els bits 13-15 especificaven que operació havia de executar, els 24 bits restants no s'utilitzaven.ref name =  first computersP367 {{Harvnb|Napper|2000|p = 367}}/ref El SSEM tenia, per tant, una arquitectura amb [[conjunt d'instruccions]] simples. El segon operant implícit de qualsevol operació és l'acumulador, i dels comandaments del programa especificaven només l'adreça de les dades en la memòria principal.
+
+Una paraula de la memòria principal podia ser llegida, emmagatzemada o refrescada en 360 microsegons. Una instrucció requeria quatre accessos a la paraula per a ser executada, donant-li una mitjana d'execució de 700 instruccions per segon. La memòria principal es refrescava contínuament, i el procés prenia 20 milisegons per completar, i cada paraula de 32 bits del SSEM era llegida i refrescada en forma seqüencial.ref name=first computers/
+
+El SSEM representava els nombres negatius amb [[complement a dos]],ref name=LavingtonP14{{Harvnb|Lavington|1998|p = 14}}/ref com molts ordinadors actuals. En aquesta representació, el valor del bit més significatiu representa el signe; nombre positius tenen un zero en aquesta posició, i els negatius tenen un 1. Per tant, el rang de nombres que podia emmagatzemar-se en cada paraula de 32 bits era de -2 sup31/sup a +2sup31/sup-1 (en decimal: de -2147483648 fins a +2147483647).
+
+== Programació ==
+
+El joc d'instruccions de tres bits del SSEM permetia un màxim de 8 instruccions diferents (2sup3/sup). En contrast amb la convenció moderna, la màquina emmagatzemava el dígit menys significatiu a l'esquerra, de manera que un era representat en tres bits com 100, en lloc de la forma convencional 001.ref Name=LavingtonP14/
+
+br style=clear:both/ div align=center
+{|Class = wikitable border = 0 style = font-size: 95%; width: 90%; border: 1px solid #999; background-color: #FFFFFF;
+! colspan = 3 style = background-color: #D3D3A4; color: #000000; text-align: center;|Joc d'instruccions del SSEMref name=LavingtonP15{{Harvnb|Lavington|1998|p = 15}}/ref
+|- Bgcolor = #BDBBD7
+! style = background: #D3D3A4; color: #000000 height = 17 width = 10%|''' Codi Binari '''
+! style = background: #D3D3A4; color: #000000 height = 17 width = 12%|''' mnemònica Moderna '''
+! style = background: #D3D3A4; color: #000000 height = 17 width = 88%|''' Operació '''
+|- Align = center
+|000
+|JMP S
+|Align = left|Salta a la instrucció en l'adreça de memòria especificada (salt incondicional absolut)
+|- Bgcolor = #EFEFEF align = center
+|100
+|JRP S
+|Align = left|Salta a la instrucció en l'adreça de memòria especificada més el nombre indicat (salt incondicional relatiu)
+|- Align = center
+|010
+|LDN S
+|Align = left|Llegeix el número en l'adreça de memòria especificada, ho nega, i el carrega en l'acumualdor
+|- Bgcolor = #EFEFEF align = center
+|110
+|STO S
+|Align = left|Emmagatzema el número de l'acumulador a l'adreça de memòria especificada
+|- Align = center
+|001 o 101 sup * /sup
+|SUB S
+|Align = left|Resta el nombre de l'adreça de memòria especificada del valor de l'acumulador, i l'emmagatzema a l'acumulador
+|- Bgcolor = #EFEFEF align = center
+|011
+|CMP
+|Align = left|Salta la instrucció següent si l'acumulador conté un valor negatiu
+|- Align = center
+|111
+|STP
+|Align = left|Aturar
+|-
+|Colspan = 3 style = color: #000000; text-align: left;|{{mida|85%| sup * /sup Els bits de funció eren parcialment decodificats, per estalviar elements lògics. }}ref name=LavingtonP15/
+|}
+/div
+
+Les operacions amb negatius eren incòmodes com a resultat de la manca d'un sumador de 32 bits en el SSEM. No es va considerar necessari abans de les proves construir un sumador pel fet que la suma pot implementar fàcilment mitjançant restes,ref name=first computersP367/ és a dir, mathX+Y\,/math pot ser calculat com math-(-X - Y)/math. Per tant, sumar dos nombres, X i Y, requeria quatre instruccions:ref name=LavingtonP15/
+
+pre
+LDN X//càrrega X com negatiu a l'acumulador
+SUB I//resta I al valor de l'acumulador
+STO S//emmagatzema el resultat en S
+LDN S//carrega el valor en S com negatiu a l'acumulador
+/pre
+Els programes eren carregats en forma binària utilitzant el dispositiu d'entrada per establir el valor de cada bit de cada paraula del programa un per un.ref name=first computers/
+
+== Primers programes ==
+[[Fitxer:CRT memory.jpg|thumb|left|El CRT de sortida.]]
+
+Es van escriure tres programes per a l'ordinador. El primer, que consistia de 17 instruccions, va ser escrit per Kilburn, i hauria corregut per primera vegada el 21 de juny de 1948.ref Name=LavingtonPP16-17{{Harvnb|Lavington|1998|pp = 16-17}}/ref va ser dissenyat per trobar el divisor més alt de 2sup18/sup (262.144) calculant cada sencer des de 2sup18/sup-1 cap avall. Les divisions es van implementar fent restes successives del divisor. El SSEM va necessitar 3,5 milions d'operacions i 52 minuts per donar la resposta (131.072). El programa va usar vuit paraules de la memòria de treball més les 17 paraules de les instruccions, donant-li al programa una mida de 25 paraules.ref{{citar ref
+|cognom = Tootill
+|nom = Geoff
+|títol = The Original Original Program
+|revista = Resurrection
+|volum =
+|nombre = 20
+|editorial = The Computer Conservation Society
+|data = Summer 1998
+|url = http://www.cs.man.ac.uk/CCS/res/res20.htm#i
+|issn = 0958-7403
+|fechaaceso = 19 April 2008}}/ref
+
+Geoff Tootill va escriure una versió corregida del programa el mes següent, i a mitjans de juliol Alan Turing -qui havia estat nomenat com professor Lector (rang acadèmic) en el departament de matemàtiques a la Universitat de Manchester el setembre de 1948- va enviar el tercer programa, per calcular divisions llargues. Turing havia estat nomenat per al càrrec de Director Adjunt del ''Laboratori de Màquina Computacional de la Universitat'',ref name=LavingtonPP16-17/ encara que aquest laboratori no es va fer realitat fins al 1951.ref Name=LavingtonP17{{Harvnb|Lavington|1998|p = 17}}/ref br style=clear:both/
+
+== Últims desenvolupaments ==
+Williams i Kilburn van donar a conèixer el desenvolupament del SSEM en una publicació a la revista ''Nature'', publicada al setembre de 1948.ref{{Obra citada|title = Elctronic Digital Computers|journal = Nature|date = 25 September 1948|volume = 162|page = 487|url = http://www.computer50.org/kgill/mark1/natletter.html|consulta= 22 January 2009}}/ref El seu èxit va portar ràpidament a la creació d'un equip més pràctic, el [[Manchester Mark I]]. Els treballs es van iniciar l'agost de 1948, i la primera versió va entrar en operacions a l'abril de 1949.ref Name=LavingtonP17/ El Manchester Mark 1 al seu torn va conduir al desenvolupament del [[Ferranti Mark I]], el primer computador comercialment disponible de propòsit general del món.ref name=NapperMK1/
+
+El 1998 es va construir una rèplica funcional del SSEM per celebrar el 50 aniversari de l'execució del seu primer programa. La màquina està en exhibició en el Museu de Ciència i Indústria a Manchester, on es realitzen demostracions de funcionament en forma regular.ref{{Obra citada|url = http://www.msim.org.uk/whats-on/meet-baby|title = Meet Baby|publisher = Manchester Museum of Science  Industry|accessdate = 17 November 2008}}/ref El 2008 es va descobrir una fotografia panoràmica de la màquina completa a la Universitat de Manchester. La fotografia va ser presa el 15 de desembre de 1948 per un estudiant investigador, Alec Robinson, i va ser reproduïda en el ''[[Illustrated London News]]'' al juny de 1949.ref{{Obra citada|Title = Photo of great Grandfather of modern computers found|first = Roger|last = Highfield|newspaper = Daily Telegraph|date = 17 June 2008|accessdate = 20 June 2008}}/refref [http://www.digital60.org/media/Panoramic image of SSEM and other audiovisual records] (Digital 60, Universitat de Manchester) /ref
+
+== Vegeu també ==
+*[[Colossus]]
+*[[EDSAC]]
+*[[BINAC]]
+*[[EDVAC]]
+*[[ENIAC]]
+*[[Ordinador de programa emmagatzemat]]
+*[[Memòria de tambor]]
+*[[Tub Williams]]
+
+== Referències ==
+{{Referències |2}}
+
+; Bibliografia
+*{{Obra citada|last = Brown|first = Louis|title = A Radar History of World War II: Technical and Military Imperatives|year = 1999|publisher = CRC Press|isbn = 9780750306591}}
+*{{Obra citada|last = Lavington|first = Simon|title = Early British Computers: The Story of Vintage Computers and the People who built them|year = 1980|edition = 1st|publisher = Manchester University Press Society|location = Manchester|isbn = 0-7190-0803-4}}
+*{{Obra citada|last = Lavington|first = Simon|title = A History of Manchester Computers|year = 1998|edition = 2|publisher = The British Computer Society|location = Swindon|isbn = 0902505018}}
+*{{Obra citada|last = Napper|first = R. B. E.|Contribution = The Manchester Mark 1 Computers|editor1-last = Rojas|editor1-first = Raúl|editor2-last = Hashagen|editor2-first = Ulf|title = The First Computers: History and Architectures|publisher = MIT Press|year = 2000|pages = 356-377|url = http://books.google.co.uk/books?id=nDWPW9uwZPAC|isbn = 0262681374}}
+*{{Obra citada|last = Turing|first = A. M.|Publication-date = 1937|year = 1936|title = On computable Numbers, with an Application to the Entscheidungsproblem|Periodical = Proceedings of the Societat Matemàtica de Londres|sèries = 2|volume = 42|pages = 230-265}}. Widely reprinted and available on the web in many places, ig [http://www.scribd.com/doc/2937039/Alan-M-Turing-On-Computable-Numbers at Scribd].
+
+== Lectura addicional ==
+*{{citar llibre
+|nom = David
+|cognom = Anderson
+|capítol= Was the Manchester Baby conceived at Bletchley Park?
+|títol = Alan Mathison Turing 2004: A celebration of his life and achievements
+|editorial = [[British Computer Society]]
+|data = 4 June 2004
+|url = http://www.bcs.org/upload/pdf/ewic_tur04_paper3.pdf
+|format = PDF|consulta = 16 novembre 2008
+}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.computer50.org/Computer 50] - A website Celebrating the 50th anniversary of the SSEM in 1998.
+* [http://www.cs.manchester.ac.uk/Digital60/Digital60] - A website Celebrating the 60th anniversary of the SSEM in 2008.
+* [http://www.computer50.org/mark1/new.baby.html A brief history of the Small-Scale Experimental Machine]
+* [http://www.davidsharp.com/baby Manchester Baby Simulator programari]
+* [http://www.cs.manchester.ac.uk/Digital60/Baby/ssem/index.htm Updated, Photo Realistic Manchester Baby Simulator programari]
+* [http://news.bbc.co.uk/1/hi/technology/7465115.stm BBC article on Baby]
+
+[[Categoria:Primers ordinadors]]
+
+{{Destacat|de}}
+{{Enllaç AB|ro}}
+{{Enllaç AD|en}}</text>
+      <sha1>796jzmlbsegfprdr34pkq7vam1j1oo5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,69 @@
+<page>
+    <title>Periscopi</title>
+    <ns>0</ns>
+    <id>729196</id>
+    <revision>
+      <id>13770658</id>
+      <parentid>13196045</parentid>
+      <timestamp>2014-07-09T09:14:35Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Periscopes]]</comment>
+      <text>[[Image:Simpleperiscopes.png|thumb|200px|right|'''Esquema d'un periscopi.'''br
+ '''A''' - Periscopi utilitzant 2 miralls plans.br 
+''' B''' - Periscopi utilitzant 2 prismes (amb angle a la dreta).br
+'''1 - 2''' - Miralls plans.br
+'''3 - 4''' - Prismes d'angle a la dreta.br
+'''5 - 6''' - Ull de l'observador.br
+'''7 - 8''' - Tub del periscopi.br
+'''H''' - Altura del periscopi òptic.]]
+[[Image:Periscope 1.png|thumb|200px|right|'''Esquema de les lents dels periscopis.'''{{-}}
+ '''A''' - Periscopi utilitzant una sola lent ('''L2''') per corregir la imatge.{{-}}'''B''' - Periscopi que utilitza dues lents ('''L2-L3''') per corregir la imatge.{{-}}'''1-3''' - Finestra del periscopi.{{-}}'''2-4''' - Reticle del periscopi.{{-}}'''P''' - Prismes (or miralls).{{-}}'''L1''' - Lents de l'objectiu.{{-}}'''L2''' - per a '''A''' - '''L2 - L3''' - per a '''B''' - Lents d'imatge.{{-}}'''L3''' - '''L4''' - per a '''A''' - '''L4-L5'''- per a '''B''' - Ocular.{{-}}'''L0''' - Lent de camp.{{-}}'''y''' - Objecte llunyà.{{-}}'''H''' - Altura del periscopi òptic.]]
+
+Un '''periscopi''' és un instrument òptic que permet observar des d'una posició camuflada (sense exposar-se) al contrari que un [[binocular]] o una [[mira telescòpica]]. En la seva configuració més simple consta d'un tub amb dos [[mirall]]s a cada extrem situats en paral·lel en un angle de 45 graus. Aquest disseny (sovint afegint-hi lents òptiques) s'utilitzà durant la [[Primera Guerra Mundial]] per a observar el camp de combat de les [[trinxera|trinxeres]] sense exposar-se al foc enemic. Aquest tipus de periscopis també s'utilitzen en les torretes d'alguns [[vehicle blindat|vehicles blindats]]. Periscopis més complexos, basats en [[prisma (òptica)|prismes]] en comptes de miralls, i amb lents d'amplificació (amb zoom) s'utilitzen en submarins, permetent observar l'exterior i disparar els [[torpede]]s mentre es mantenen en immersió.
+
+==Orígens i primers usos ==
+
+
+Ja a la dècada del 1430 [[Johannes Gutenberg]], més conegut per la seva contribució en la tecnologia de la [[impremta]], va construir i comercialitzar un telescopi senzill per permetre als pelegrins veure per sobre la multitud durant els festival religiós d'[[Aachen]]. [[Johannes Hevelius]] descrivia, l'any 1647, periscopis amb lents en la seva obra ''Selenographia, sive Lunae descriptio'', veient aplicacions militars per aquest invent. L'inventor Simon Lake va ser el primer a utilitzar periscopis en els seus submarins l'any 1902, mentre que el britànic Howard Grubb en perfeccionà el disseny durant la Primera Guerra Mundial.ref[http://inventors.about.com/library/inventors/blperiscope.htm]/ref
+
+Els periscopis, en alguns casos fixats a un [[fusell (arma)|fusell]], van ser utilitzats durant la [[Primera Guerra Mundial]] permetent als soldats observar sense exposar-se fora de les trinxeres evitant el perill de ser disparats (especialment per [[franctirador]]s).ref name=FIRST ''First World War'' - Willmott, H.P.; [[Dorling Kindersley]], 2003, Pàgina 111/ref
+
+==Ús naval==
+[[Fitxer:Submarine periscope.jpg|thumb|left|Oficial al periscopi des d'un submarí americà durant la Segona Guerra Mundial.]]
+[[Fitxer:Torpedoed Japanese destroyer HD-SN-99-02974.JPEG|thumb|Un destructor japonès torpedinat enfonsant-se, fotografiat des del periscopi del submarí USS Wahoo o l'USS Nautilus, el juny de 1942.]]
+Els periscopis permeten a un [[submarí]], mentre es manté submergit a poca profunditat, visualitzar objectius i perills tant en superfície com aeris. L'ús del periscopi en situacions de combat ha de ser discret, ja que pot revelar la pròpia posició (eliminant l'avantatge principal dels atacs submarins).
+
+El francès Marie Davey construí l'any 1854 el primer periscopi naval amb un disseny senzill amb miralls. Fou l'americà Thomas H. Doughty que va desenvolupar el persicopi de prismes que fou utilitzat en la [[Guerra Civil Americana]] (1861-1865). El primer exemples d'ús d'un periscopi en un submarí es deu a [[Isaac Peral]] que el va utilitzar en el seu submarí (1888). Es tractava d'un periscopi fix que utilitzava un conjunt de prismes. Aquest periscopi va permetre que, per primer cop, es disparessin [[torpede]]s mentre el submarí es trobava en immersió.ref{{format ref}} http://pedrocurto.com/1.html /ref La inveció del periscopi retràctil, utilitzat habitualment en els submarins, s'atribueix a [[Simon Lake]], que l'any 1902 l'anomenà omniscopi'' or skalomniscopi'', tot i això l'italià Triulzi sembla que ja havia inventat un periscopi equivalent l'any 1901 amb el nom de ''cleptoscopi''.
+Els submarins dels [[segle XXI]] no sempre disposen de periscopis per exemple els submarins d'atac de la classe Virginia (els més moderns de la [[Marina dels Estats Units]]) compten amb aparells electrònics que recullen les imatges de la superfície. Aquesta nova tecnologia permet simplificar el buc de pressió (ja que no cal que hi encaixi el tub del telescopi) i per altra banda flexibilitza la disposició i equipament de la sala de control, ja que aquesta no ha d'estar situada forçosament sota la torreta.{{-}}
+==Galeria==
+gallery
+File:Periscope rifle Gallipoli 1915.jpg|Periscopi en ús per tropes australianes durant la [[Batalla de Gal·lípoli (1915)]]  
+File:Attack periscope.png | Submarine monocular attack periscope.
+File:Zeiss U Boath Periscope 1943.png | Zeiss submarine periscope optical design.
+File:Handheld periscope.png | Military handheld periscope optical design.
+/gallery
+
+== Vegeu també ==
+* [[Mira telescòpica]]
+* [[Binocular]]
+* [[Submarí]]
+
+== Referències ==
+references/
+
+==Enllaços externs==
+{{Projectes germans|commons=Periscopi}}
+* [http://www.maritime.org/fleetsub/pscope/index.htm ''The Fleet Type Submarine Online: Submarine Periscope Manual''] United States Navy '''Navpers 16165''', June 1946
+* [http://www.phy.ntnu.edu.tw/ntnujava/index.php?topic=1348.0 ''Simulation of a Periscope''] at [http://www.phy.ntnu.edu.tw/ntnujava/index.php NTNUJAVA Virtual Physics Laboratory]
+
+[[Categoria:Instruments òptics]]
+[[Categoria:Submarins]]</text>
+      <sha1>8hrimuezklh5nmcse255o0c4reyahsr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

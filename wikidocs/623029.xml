@@ -1,0 +1,128 @@
+<page>
+    <title>Konrad Zuse</title>
+    <ns>0</ns>
+    <id>623029</id>
+    <revision>
+      <id>13816232</id>
+      <parentid>13629742</parentid>
+      <timestamp>2014-07-13T22:56:42Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Infotaula Cientific
+|nom = Konrad Zuse
+|taula_amplada = 
+|imatge = Konrad_Zuse_(1992).jpg|200px
+|imatge_amplada = 200px
+|llegenda = Konrad Zuse (1992)
+|data_naixement = [[22 de juny]] de [[1910]]
+|lloc_naixement = [[Berlín]] ([[Imperi Alemany]])
+|data_mort = [[18 de desembre]] de [[1995]]
+|lloc_mort = [[Hünfeld]], [[Alemanya]]
+|residencia = [[Imperi Alemany]]
+|ciutadania = 
+|nacionalitat = [[alemanya|alemany]]
+|etnicitat = 
+|camp = 
+|institucions_treb = 
+|alma_mater = 
+|assessor_doctor = 
+|estudiants_doctor = 
+|conegut_per = 
+|autor_abrev_bot = 
+|autor_abrev_zoo = 
+|influencia = 
+|influenciat_per = 
+|premis = 
+|religió = 
+|signatura = 
+|notes_peu = 
+}}
+'''Konrad Zuse''', va néixer el 22 de juny de [[1910]] a [[Berlín]]-Wilmersdorf, [[Alemanya]]. El seu pare, Emil, era un administrador de l'oficina de correus. La seva mare, Maria Crohn, era neboda del seu pare. Va créixer a [[Braunsberg]], [[Prússia Oriental]], on va estudiar [[humanitats]]. Després d'acabar els seus estudis bàsics, al [[1927]] va ingressar a l'Escola Tècnica (Technisches Hochschule) de Berlín-[[Charlottenburg]] on va estudiar enginyeria civil. Van ser aquests estudis d'enginyeria que van dur a Zuse a desenvolupar dispositius mecànics per al càlcul el [[1934]]. Zuse va notar que els treballs de càlcul estadístic en la seva professió consumien innombrables hores, que bé podrien emprar-se en el desenvolupament de noves idees o en l'aplicació de nous conceptes.
+
+== Computadora Z1 ==
+[[Fitxer:Zuse Z1-2.jpg|thumb|245px|Z1.]]
+Entre [[1936]] i [[1939]], després de graduar-se, Zuse va ingressar a la ja famosa Companyia d'Avions [[Henschel]] on va treballar fent anàlisis de fatiga en els fuselatges i ales d'avions Henschel. Es va dedicar molt especialment a l'anàlisi de fatiga de materials causada per la vibració en els avions. Aquest treball li exigia una enorme quantitat de càlculs matemàtics i per a això Zuse va decidir fabricar la seva primera computadora que va anomenar [[Z1]]. Tot el projecte el va fer sol i sense cap experiència prèviament documentada.
+
+Zuse va construir la primera computadora electromecànica binària programable, la qual feia ús de relés elèctrics per a automatitzar els processos. No obstant això, tan sols va fabricar un prototip per a proves, el qual mai va arribar a funcionar a causa de la falta de perfeccionament en els seus elements mecànics. El que si que funcionava perfectament era la memòria de què estava dotada.
+
+La Z1 va estar acabada el 1938. Es tractava d'un dispositiu totalment electromecànic, amb una unitat aritmètica composta d'interruptors mecànics i una memòria que consistia en capes de barres de metall, disposades entre làmines de vidre. Una de les característiques més rellevants era que podia ser programada per mitjà de targetes perforades. L'invent de Zuse era una màquina binaria amb interruptors de dos posicions que representaven zeros i uns.
+
+La Z1 va quedar totalment destruïda durant els bombardejos de Berlin de desembre de 1943, juntament amb tots els seus plànols. El mateix Zuse va tornar-la a construir entre 1986 i 1999. La Z1 reconstruïda està exposada al Museu Alemany de Tecnologia de Berlin.
+
+== Segona Guerra Mundial ==
+
+=== Computadora Z2 ===
+
+Una vegada que Zuse va poder analitzar els avantatges i defectes de la Z1, va decidir embarcar-se en un segon projecte que va anomenar Z2, el qual donaria com a resultat una màquina més potent, amb una calculadora que empraria la mateixa memòria, però amb una unitat aritmètica utilitzant relés electromecànics. El projecte es va veure interromput per l'esclat de la [[Segona Guerra Mundial]]. Zuse va ser cridat al servei militar i hagué d'incorporar-se a la infanteria. No obstant això va presentar una sol·licitud de descàrrec per a poder seguir construint la Z2. La [[Wehrmacht]] va acceptar la sol·licitud i Zuse va ser donat de baixa. L'Institut d'Investigació d'Aerodinàmica del Reich, va finançar el seu treball a pesar de ser totalment experimental, i finalment, el 1940, la Z2 va ser acabada amb uns resultats tan prometedors que li van permetre continuar la seva investigació.
+
+=== Computadora Z3 ===
+
+Gràcies als resultats obtinguts per la Z2, Zuse es va poder dedicar a la construcció d'una tercera màquina, que no podia ser altra que la Z3 i que va tenir acabada el 1941. Aquesta tercera computadora ja podia ser comprovada mitjançant el treball de càlcul. Aquesta vegada, la Z3 comptava amb una memòria i unitat aritmètica totalment electromecàniques. La Z3 comptava amb 2600 relés electromecànics i va resultar ser la primera màquina calculadora que funcionava mitjançant un programa de control. Va ser utilitzada per la indústria aeronàutica alemanya per a resoldre sistemes d'equacions simultànies i altres sistemes matemàtics que tenien a veure amb la fatiga del material de les cèl·lules dels avions causades per la vibració sota condicions de tensió. 	
+
+=== Computadora Z4 ===
+
+Davant l'èxit de la seva computadora, Zuse va sol·licitar autorització per a fabricar una màquina electrònica mitjançant l'ús de vàlvules de ràdio. Lamentablement, la sol·licitud va ser denegada perquè la Wehrmacht considerava que la guerra estava per guanyar-se i que aquest esforç en la investigació resultava innecessari. Els mesos van anar passant i quan la situació bèl·lica va empitjorar, Zuse va poder començar a construir la Z4. Els treballs es van iniciar el 1942, però a causa dels continus bombardejos, el projecte va haver de moure's de Berlín a Göttingen. Poques setmanes després Göttingen estava en perill de caure en mans dels soviètics i la Z4 va ser novament traslladada, aquesta vegada a la petita vila de Hinterstein a Bavaria. Ja en aquells dies, la computadora de Zuse era un projecte militar secret i va rebre el codi Versuchsmodell 4 o V-4 i es va ocultar en els soterranis d'una casa.
+
+Anys després, el 1950, la Z4 va ser duta a Suïssa i instal·lada en el Eidgenössische Technische Hochschule de Zürich (ETH) o Institut Federal de Tecnologia de Suïssa de Zürich. En el ETH la Z4 es va mantenir operant fins al 1955, quan va ser enviada A l'Institut d'Investigació d'Aerodinàmica prop de Basel on va seguir funcionat fins al 1960. Encara que algunes de les computadores de Zuse van ser destruïdes durant els bombardejos ocorreguts cap al final de la guerra, després dels amargs primers anys de la postguerra, aquest mateix any de 1960, la Z3 va ser reconstruïda i exposada en el Museu de Munich. La Z4 també està en exposició en el Deutsches Museum.
+
+Acabada el 1944, la Z4 va ser el primer ordinador operatiu a Europa. Admetia un gran conjunt d'instruccions i era capaç de resoldre complicats càlculs científics, gràcies a les 1000 instruccions per hora que podia executar. Estava composta aproximadament de 2200 relés. Realitzava unes 11 multiplicacions per segon i tenia una memòria de 500 paraules de 32 bit. Pesava uns 1000 quilograms. L'entrada de dades era o a través d'un teclat decimal o a través de targetes perforades, i la sortida era per una màquina d'escriure.
+
+=== Plankalkül ===
+
+El 1945 Zuse va desenvolupar un llenguatge de computació anomenat Plankalkül per la programació de les seves computadores. El Plankalkül va ser la base del llenguatge ALGOL i és considerat el primer llenguatge algorítmic de la història.
+
+Mai va passar de ser un llenguatge teòric, mai es va implantar. En ell es mostren clarament els recursos dels llenguatges per a l'organització de dades. Els seus únics valors atòmics eren bits, els altres tipus de valors es construïen a partir de bits individuals.
+
+== Zuse KG ==
+
+El 1947, mentre Alemanya es recuperava de la guerra, Zuse va fundar la companyia Zuse-Ingenieurbüro. El 1949 la fundació es va passar a anomenar ZUSE KG, la qual es dedicava al desenvolupament de programes de control per a computadores electromecàniques. IBM va intentar temptar a Zuse però no ho va aconseguir. En canvi si que va arribar a un acord amb la Remington Rand per desenvolupar noves computadores com la Z4. La ZUSE KG va créixer fins a arribar a tenir prop de 1000 empleats, encara que gairebé es va fer fallida el 1957 quan la seva relació amb la Remington Rand va concloure abruptament, pel que sembla a instàncies de la seva casa matriu als Estats Units. No obstant això, Zuse se les va arreglar per a salvar la seva empresa i aviat va estar recollint nous èxits financers. El 1964 la ZUSE KG va ser venuda a la Brown, Boveri and Company. I finalment el 1967 va ser absorbida per l'empresa Siemens, treballant Zuse durant diversos anys com consultor per a aquesta. Això li va permetre a Zuse dedicar més temps a la solució de problemes netament científics. Fins aquells moments l'empresa de Zuse havia estat capaç de construir un total de 251 computadors.
+
+=== Computadora Z5 ===
+
+El 1950 es va desenvolupar la Z5, l'última de les grans màquines de còmput basada en relès. La Z5 va ser encarregada per Leitz AG Wetzlar. Zuse va posar aquesta màquina en execució amb els relés, ja que els tubs de buit encara no eren fiables en aquells temps, causant temps morts de més del 50 per cent. La construcció va seguir els mateixos principis que ho va fer amb la Z4, no obstant això doblava en sis l'augment en velocitat. També tenia múltiples lectors de cintes foradades per a l'execució condicional de subprogrames. Implementada amb aproximadament 3500 relés, pesava uns 2000 kg i consumia 6000 Watts.
+
+=== Computadora Z11 ===
+
+Composta per 1665 relés. Podia realitzar aproximadament 2 multiplicacions per segon. Les dades eren entrades mitjançant les targetes perforades o un teclat decimal. La sortida es produïa amb targetes perforades. Consumia aproximadament 2000 Watts i pesava uns 800 kg sense el tauler de control ni la font d'alimentació. Es van vendre un total de 43 computadores Z11.
+
+=== Computadora Z22 ===
+
+La Z22 funcionava amb tubs de buit, en total estava composta de 500 tubs i 2400 díodes. El seu pes aproximat era d'uns 1000 kg. Algunes de les possibles àrees d'ús de la Z22 eren: economia, enginyeria de la construcció, construcció de maquinària, electrònica, balística, mesures, aerodinàmica, òptica, minaria, etc.
+
+=== Computadora Z23 ===
+
+Una de les primeres computadores implementades amb transistors. Estava implementada amb 2700 transistors i 6800 díodes. Podia realitzar 20 operacions en coma flotant per segon. L'entrada de dades es produïa a través d'un teclat o bé a partir de targetes perforades de les quals llegia 1000 caràcters per segon. La sortida es produïa mitjançant targetes perforades a 300 caràcters per segon o sinó utilitzant un teletip a 7.5-10 caràcters pes segon. Es fabricaren 98 computadores Z23, de les quals 80 es van vendre a Alemanya.
+
+=== Finalment la fama ===
+
+El 1958, Zuse va publicar una descripció de la computadora de camp, un processador en paral·lel destinat a resoldre equacions diferencials. En aquest mateix any va desenvolupar i va construir un graficador (o traçador) controlat per computadora, el Z64 o Graphomat. Novament, el fet d'avançar-se massa al seu temps va fer que els intents de Zuse per comercialitzar aquest dispositiu fracassessin, i els problemes financers van començar de nou. El 1966 Zuse va ser nomenat professor honorari de la Universitat de Göttingen. Durant els seus últims anys de vida es va interessar en gran manera en el processament en paral·lel, i pel que sembla va dissenyar una computadora cel·lular per a l'oficina meteorològica alemanya, encara que l'innovador del seu disseny la va fer fracassar comercialment. En els anys 70s es va dedicar a promocionar (sense molt èxit) el seu vell Plankalkül, publicant un llibre en alemany sobre ell que més tard seria traduït a l'anglès. Posteriorment, va tornar a la seva vella afició: la pintura, i encara es recorda que se li va encarregar la realització de retrats dels pioners alemanys de la computació per al Congrés Mundial de Computació que es va efectuar a Hamburg el 1994. Per a aquest llavors, Zuse havia rebut 9 doctorats Honoris causa d'Alemanya, Suïssa i Itàlia, a més d'un sens fi d'altres honors de diferents parts del món i fins i tot es va instituir una medalla amb el seu nom en la seva pàtria.
+
+Konrad Zuse va morir el 18 de desembre de 1995 a Hünfeld, Alemanya, als 85 anys d'edat. Li sobreviuen la seva esposa i quatre dels seus fills (un d'ells va morir el 1979). Amb la seva mort, el món va perdre a un dels seus més grans pioners de la computació que, a causa dels embats de la Segona Guerra Mundial, va romandre gairebé en l'anonimat durant molts anys. Malgrat que els seus brillants dissenys i les seves revolucionàries idees van ser ignorades o minimitzades durant molt temps pels seus contemporanis i la resta del planeta, el seu llegat estarà per sempre entre nosaltres com el testimoni del seu geni. Poques frases resulten més adequades per a recordar-lo que el títol de la seva autobiografia (publicada en anglès el 1993): La Computadora---La meva Vida.
+
+== ZIB (Zuse Institute Berlin) ==
+
+El [[Zuse Institute Berlin]], és un institut d'investigació per a les matemàtiques i la informàtica aplicades. La seva investigació i servei es basa en el principi: algoritmes ràpids - computadores ràpides. Proporciona solucions per a problemes complexos de la ciència, l'enginyeria, el medi ambient i la societat, solucions que requereixen sovint innovacions en el seu camp. En col·laboració estreta amb socis de la ciència, de l'economia, i de la societat desenvolupa models matemàtics i algorismes eficients. Per als usuaris de les seves computadores d'alt rendiment proporcionen serveis especialitzats de consulta.
+
+== Enllaços externs ==
+{{Commonscat|Zuse}}
+
+* [http://zuse.zib.de/ Arxiu d'Internet Konrad Zuse] {{en}}
+* [http://www.dma.eui.upm.es/historia_informatica/Doc/Personajes/KonradZuse.htm Biografia] {{es}}
+* [http://www.exordio.com/1939-1945/civilis/industria/computadora.html Biografia] {{es}}
+* [http://www.infoamerica.org/teoria/zuse1.htm Biografia] {{es}}
+* [http://irb.cs.tu-berlin.de/~zuse/Konrad_Zuse/en/index.html Treballs] {{en}}
+* [http://www.sdtb.de/Computing-and-automation.1256.0.html Pàgina sobre computació del web del Museu Alemany de Tecnologia] {{en}}
+{{Autoritat}}
+{{ORDENA:Zuse, Konrad}}
+[[Categoria:Informàtics alemanys]]
+[[Categoria:Enginyers alemanys]]
+[[Categoria:Berlinesos]]</text>
+      <sha1>nn0150qyxztrwavliszl213xo1icjvc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

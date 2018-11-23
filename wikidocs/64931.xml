@@ -1,0 +1,83 @@
+<page>
+    <title>ENIAC</title>
+    <ns>0</ns>
+    <id>64931</id>
+    <revision>
+      <id>14054460</id>
+      <parentid>13865490</parentid>
+      <timestamp>2014-09-19T07:25:43Z</timestamp>
+      <contributor>
+        <ip>83.40.209.138</ip>
+      </contributor>
+      <text>[[Fitxer:Eniac.jpg|thumb|ENIAC]]
+L''''ENIAC''' (acrònim de '''''Electronic Numerical Integrator And Computer''''', en català: '''Integrador Numèric Electrònic i Computadora, '''era una màquina gegant considerada la primera computadora de propòsit general totalment digital.ref name=gec{{GEC|0517572|Integrador Numèric Electrònic}}/ref  El disseny i construcció de l'ordinador fou finançat per l'Armada dels [[Estats Units]] durant la [[Segona Guerra Mundial]]. Va ser dissenyat pel càlcul de taules de tir de l'artilleria al Laboratori de Recerca Balística de l'Armada dels [[Estats Units]].
+
+El contracte de construcció va ser signat el [[5 de juny]] de [[1943]], amb el nom de ''Project PX'' i va ser executat per la [[Moore School of Electrical Engineering]] (en català: «Facultat Moore d'Enginyeria Elèctrica») de la [[Universitat de Pennsylvania]] a partir del juliol de [[1943]]. Va ser presentat el [[14 de febrer]] de [[1946]] a Pennsylvania, havent costat uns 500.000 dòlars. L'ENIAC es va aturar el [[9 de novembre]] de [[1946]] per actualitzar-lo i ampliar-li la memòria i va ser transportat a l'Aberdeen Proving Ground, a [[Maryland]] el [[1947]], on el [[29 de juliol]] d'aquell mateix any, es va posar en marxa i va estar en operació continuada fins a les 23:45 del [[2 d'octubre]] de [[1955]], quan l'ENIAC va ser desactivada per sempre.
+
+[[Fitxer:Two women operating ENIAC.gif|right|thumbnail|300px|thumb|Les programadores [[Jean Jennings Bartik]] (esquerra) i [[Frances Bilas Spence]] (dreta) operant el panell de control principal de l'ENIAC a la [[Moore School of Electrical Engineering]]. (Fotografia de la U.S. Army, ARL Technical Library)]]
+L'ENIAC va ser concebut i dissenyat per [[John Mauchly]] i [[J. Presper Eckert]] de la Universitat de Pennsylvania.ref name=gec/ Si bé van ser aquests enginyers els que van passar a la història, hi va haver sis dones que es van ocupar de programar l'ENIAC. La història d'aquestes dones ha estat silenciada al llarg dels anys i recuperada en les últimes dècades. Classificades llavors com subprofesionals, possiblement per una qüestió de gènere o per reduir els costos laborals, aquest equip de programadores destacava per ser hàbils matemàtiques i lògiques i van treballar inventant la programació a mesura que la realitzaven. [[Betty Snyder Holberton]], [[Jean Jennings Bartik]], [[Kathleen McNulty Mauchly Antonelli]], [[Marlyn Wescoff Meltzer]], [[Ruth Lichterman Teitelbaum]] i [[Frances Bilas Spence]] pràcticament no apareixen en els llibres d'història de la computació, però van dedicar llargues jornades a treballar amb la màquina utilitzada principalment per a càlculs de [[trajectòria balística]] i equacions diferencials contribuint al desenvolupament de la programació d'ordinadors. Quan l'ENIAC es va convertir després en una màquina llegendària, els seus enginyers es van fer famosos, mentre que mai se li va atorgar cap crèdit a aquestes sis dones que es van ocupar de la programació.
+
+Molts registres de fotos de l'època mostren l'ENIAC amb dones de peu davant. Fins a la dècada del 80, es va dir fins i tot que elles eren només models que posaven al costat de la màquina (Refrigerator ladies). No obstant això, aquestes dones van establir les bases perquè la programació fos senzilla i accessible per a tothom, van crear el primer set de rutines, les primeres aplicacions de programari i les primeres classes en programació. El seu treball va modificar dràsticament l'evolució de la programació entre les dècades del 40 i el 50. L'any [[1997]] van ser incloses al Women in Technology International Hall of Fame.ref{{ref-web|url=http://www.witi.com/center/witimuseum/halloffame/|títol=The WITI Hall of Fame}}/ref
+
+== Característiques ==
+=== Físiques ===
+* Ocupava 167 m²ref name=gec/
+* Tenia una massa de 27 tonesref name=gec/
+* Mesurava 2.4 x 0.9 x 30 metres
+
+=== Electròniques ===
+* 17.468 vàlvules electròniques
+* 7.200 [[díode]]s de cristalls
+* 1.500 [[relé]]s
+* 70.000 [[resistència elèctrica (component)|resistències]]
+* 10.000 [[condensador]]s
+* 5 milions de soldadures
+* Funcionava mitjançant un rellotge intern de 200.000 pulsacions/segon
+* Necessitava l'operació manual de 6.000 interruptors
+* Quan el programari necessitava actualitzacions tardava setmanes a instal·lar-se manualment
+
+Gràcies a l'[[electrònica]], l'ENIAC arribava a ser tres-centes vegades més ràpid fent càlculs que el [[Harvard Mark I|MARK I]].
+
+== Mites ==
+Un dels mites que envolta l'ENIAC és que la ciutat de [[Filadèlfia]], on es trobava, tenia problemes amb el subministrament elèctric quan l'ENIAC s'engegava, ja que el seu consum era de 160Kw. Això no és cert, ja que tenia una xarxa elèctrica separada.
+
+== Vegeu també ==
+*[[Colossus]]
+*[[EDSAC]]
+*[[BINAC]]
+*[[EDVAC]]
+*[[SSEM]]
+*[[Ordinador de programa emmagatzemat]]
+*[[Memòria de tambor]]
+*[[Tub Williams]]
+
+== Bibliografia ==
+* {{Ref-llibre
+ |cognom= Breton
+ |nom= Philippe
+ |enllaçautor= Philippe Breton
+ |títol= Historia y Crítica de la Informática
+ |editorial= [[Ediciones Cátedra]]
+ |lloc= [[Madrid]]
+ |data= [[1989]]
+ |isbn=
+ }}
+
+==Referències==
+{{Referències}}
+
+== Enllaços externs ==
+* [http://www.upenn.edu/almanac/v42/n18/eniac.html A Short History of the Second American Revolution, University of Pennsylvania].
+* [http://www.eniacprogrammers.org/ ENIAC Programmers Project]
+{{Projectes germans|commons=ENIAC}}
+{{Autoritat}}
+{{Enllaç AB|de}}
+
+{{cal coor}}
+[[Categoria:Primers ordinadors]]
+[[Categoria:Electrònica]]</text>
+      <sha1>m2enkfks91sk8m3c4mpg7rjep6vko38</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

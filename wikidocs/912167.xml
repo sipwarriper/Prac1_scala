@@ -1,0 +1,2291 @@
+<page>
+    <title>Interglossa</title>
+    <ns>0</ns>
+    <id>912167</id>
+    <revision>
+      <id>13800227</id>
+      <parentid>13684134</parentid>
+      <timestamp>2014-07-12T16:45:45Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: desaventatge  desavantatge</comment>
+      <text>'''Interglossa''' ([[ISO 639-3]]: ''igs'') és una [[llengua auxiliar]] internacional dissenyada pel científic [[Lancelot Hogben]] durant la [[Segona Guerra Mundial]]. Aquesta llengua utilitzava el lèxic internacional de les ciències i les tecnologies, principalment termes d’origen grec i llatí, amb la gramàtica simple pròpia d’una [[llengua aïllant]]. Interglossa fou publicada l’any 1943 com un esborrany (el títol és: ''a draft of an auxiliary'').ref name=HogbenHogben, Lancelot (1943). ''Interglossa. A draft of an auxiliary for a democratic world order, being an attempt to apply semantic principles to language design''. {{citar web|url=https://sites.google.com/site/interglossa1943/home|títol=Enllaç!--Títol generat per bot--}} Harmondsworth, Middlesex, Eng. / New York: Penguin Books. OCLC 1265553./ref Hogben va aplicar principis semàntics per a seleccionar un vocabulari reduït de 880 paraules que en principi bastarien per a la conversa bàsica entre pobles de diferent nacionalitat. Si bé aquest número era ampliable.
+
+==Història==
+L’any 1943 Hogben va publicar '''''Interglossa''': A draft of an auxiliary for a democratic world order'' (Interglossa: Un esborrany d’una llengua auxiliar per a un ordre mundial democràtic). El professor Hogben havia observat la dificultat dels estudiants per a memoritzar termes biològics degut al desconeixement de l’etimologia, i va acostumar-se a indicar les principals arrels greco-llatines mitjançant exemples de valor mnemotècnic. Així va ser com va començar a recopilar un vocabulari universal format per arrels llatines i gregues. Ja durant la Segona Guerra Mundial a [[Birmingham]], Hogben va desenvolupar unes pautes de sintaxi i va completar l’esborrany d’una nova llengua auxiliar basada especialment en el lèxic de la ciència moderna:
+
+{{cita|Because natural science is the ''only'' existing form of human co-operation on a planetary scale, men of science, who have to turn to journals published in many languages for necessary information, are acutely aware that the babel of tongues is a social problem of the first magnitude. Men of science, more than others, have at their finger-tips an international vocabulary which is already in existence (...)
+
+[''Traducció:'' ] Ja que la ciència natural és l'''única'' forma existent de cooperació humana a escala planetària, els homes de ciència, que han d’acudir a revistes publicades en moltes llengües per a informació necessària, són agudament conscients del fet que la babel de llengües és un problema social de primera magnitud. Els homes de ciència, més que altres, tenen als seus dits un vocabulari internacional que ja existeix (...)|Hogben, Interglossa: a draft of an auxiliary. (1943, p. 7)}}
+
+Finalment Hogben es va convèncer que una nova llengua auxiliar, basada en el llenguatge internacional de la ciència, esdevenia més necessària que mai, i va afanyar-se a publicar la seva proposta, tot insistint que es tractava d’un simple esborrany:
+
+{{cita|A good enough reason for publishing this draft is that the post-war world may be ripe, as never before, for recognition of need for a remedy which so many others have sought. When need becomes articulate, it will be relatively simple for an international committee to draw (...).br(...) the author modestly consigns this first draft in the hope that readers will make suggestions and offer constructive criticisms as a basis for something better. It is not a primer for the beginner. Were it so, the arrangement would be totally different (...) to win the confidence of the beginner.
+
+[''Traducció:'' ] Una bona raó per a publicar aquest esborrany es que el món de postguerra pot estar madur, com mai abans, per a reconèixer la necessitat d’un remei que tants altres han cercat. Quan la necessitat esdevingui articulada, serà relativament simple de realitzar per un comitè internacional (...). (...) l’autor modestament consigna aquest primer esborrany en l’esperança que els lectors faran suggeriments i oferiran crítiques constructives com a base per a quelcom millor. Això no és un manual per al principiant. Si ho fos, l’arranjament seria totalment diferent (...) per a captar la confiança del principiant.|Hogben (1943, p. 7)}}
+
+Interglossa pot considerar-se com l’esborrany de la seva descendent, la llengua auxiliar [[Glosa (llengua auxiliar)|Glosa]],refGlosa Education Organisation (GEO) (2006). History behind Glosa. [http://www.glosa.org/en/history.pdf (pdf) ]/ref que va reformar i expandir el lèxic de Interglossa.
+
+==Alfabet==
+Interglossa bàsicament utilitza l’[[alfabet llatí]] modern de 26 lletres.
+center
+{|class=wikitable style=border-collapse:collapse;
+|- 	 
+|bgcolor=#EFEFEF align=center colspan=26 | '''[[Majúscules]]'''
+|-
+|width=3% align=center|[[A]]||width=3% align=center|[[B]]||width=3% align=center|[[C]]||width=3% align=center|[[D]]||width=3% align=center|[[E]]||width=3% align=center|[[F]]||width=3% align=center|[[G]]||width=3% align=center|[[H]]||width=3% align=center|[[I]]||width=3% align=center|[[J]]||width=3% align=center|[[K]]||width=3% align=center|[[L]]||width=3% align=center|[[M]]||width=3% align=center|[[N]]||width=3% align=center|[[O]]||width=3% align=center|[[P]]||width=3% align=center|[[Q]]||width=3% align=center|[[R]]||width=3% align=center|[[S]]||width=3% align=center|[[T]]||width=3% align=center|[[U]]||width=3% align=center|[[V]]||width=3% align=center|[[W]]||width=3% align=center|[[X]]||width=3% align=center|[[Y]]||width=3% align=center|[[Z]]
+|- 	
+|bgcolor=#EFEFEF align=center colspan=26 | '''[[Minúscules]]'''
+|-
+|align=center|a||align=center|b||align=center|c||align=center|d||align=center|e||align=center|f||align=center|g||align=center|h||align=center|i||align=center|j||align=center|k||align=center|l||align=center|m||align=center|n||align=center|o||align=center|p||align=center|q||align=center|r||align=center|s||align=center|t||align=center|u||align=center|v||align=center|w||align=center|x||align=center|y||align=center|z
+|}
+/center
+
+==Fonètica==
+El valor fonètic de les lletres generalment coincideix amb els valors característics de l’[[alfabet fonètic internacional]], amb les següents excepcions:
+::'''y''' equival a /i/.
+::'''c''' i '''q''' equivalen a /k/.
+::'''ph, th, ch, rh''', equivalen respectivament a /f/, /t/, /k/, /r/.
+::'''x''' en posició inicial equival a /z/; si no, /ks/.
+En les següents combinacions inicials, la primera de les dues consonants és muda: c'''t-''', g'''n-''', m'''n-''', p'''n-''', p'''s-''', p'''t-'''.
+
+{{cita|These rules admit of no inconsistencies. The inconvenience of having a few anomalies which go into a dozen lines of print is far less than the disadvantage which would result from mutilating roots beyond visual recognition.
+
+[''Traducció:'' ] Aquestes regles no admeten inconsistències. L’inconvenient de tenir unes poques anomalies que van en una dotzena de línies, és molt menor que el desavantatge que resultaria de mutilar arrels més enllà del reconeixement visual.|Hogben (1943, p. 30)}}
+
+Generalment l’[[accent prosòdic|accent]] va en la penúltima síl·laba, per exemple '''''billEta''''' (bitllet), '''''nEsia''''' (illa). En paraules acabades amb dos vocals ('''-io, -ia,''' etc.), aquestes formarien [[diftong]]. Si bé Hogben manté l’[[hiat]] en afirmar que '''''nEsia''''' té l’accent en l'antepenúltima síl·laba (''nE-si-a'').
+
+==Parts del discurs==
+Una classificació de ''parts del discurs'' rellevant per a una llengua aïllant, no seguiria les categories pròpies del sistema flexional [[llengües_indoeuropees|indoeuropeu]]. Els vocables d’Interglossa poden ser classificats segons la seva funció en el que Hogben anomena el “''paisatge de frase”'' (“''sentence-landscape”'')ref name=Hogben / (p. 32-3):
+* '''Substantius''' (ítems nº 483 al 860; i nº 874 al 880; addicionalment nº 881 al 954): Noms de coses concretes. Qualsevol d’ells pot actuar com a adjectiu, com ja succeeix en anglès. Exemples (del text de mostra d’abaix): ''crati'' (govern), ''geo'' (terra), ''pani'' (pa), ''parenta'' (progenitor), ''urani'' (cel).
+** Parts del Cos (nº 483 al 550)
+** Zoologia i Botànica (nº 551 al 630)
+** Noms geogràfics (nº 631 al 668)
+** Menjar, Vestit i Mobles (nº 669 al 702)
+** Arquitectura; Formes i Unitats (nº 703 al 732)
+** Instruments (nº 733 al 783)
+** Substàncies i Articles Manufacturats (excepte Menjar i Vestit) (nº 784 al 808)
+** Afers Humans (nº 809 al 860)
+* Hi ha una sèrie de '''substantius genèrics''' (nº 47 al 60) utilitzats en compostos. Exemples: ''-pe'' [de ''persona''], ''dirigo-pe'' (conductor, pilot), ''tene-pe'' (guardià), ''pan-pe'' (tothom).
+* “'''Amplificadors'''” (nº 141 al 462; i nº 862 al 873): Qualitats abstractes, que poden actuar com a adjectius, noms, o adverbis. Exemples: ''accido'' (succés, real, -itat, etc.), ''demo'' (poble), ''dirigo''/''controlo'' (direcció, control, etc.), ''dyno'' (potent, -ència, etc.), ''eu'' (bo, bondat, bé, etc.), ''famo'' (reputació, fama), ''eu-famo'' (bona fama, glòria, etc.), ''libero'' (lliure, llibertat), ''malo'' (dolent, mal, maldat), ''nomino'' (nom), ''offero'' (oferta), ''pardo'' (perdó), ''revero'' (reverent, -ència).
+** Alguns actuen especialment com a partícules d’espai o temps (nº 61 al 101). Exemples: ''a''/''ad'' (a, cap a, etc.), ''apo'' (cap a fora, etc.), ''di'' (dia, a diari, a (dia...), etc.), ''epi'' (a, a sobre de), ''in'' (en, dins de, etc.), ''tem'' (temps, mentre, etc.).
+**Alguns d’aquests ''amplificadors'' actuen també com a partícules associatives (nº 102 al 128), com a preposicions i/o conjuncions. Exemples: ''causo'' (causa, perquè, etc.), ''de'' (de, en relació amb, etc.), ''harmono'' (harmonia, d’acord amb, etc.), ''hetero'' (diferent, a diferència de, etc.), ''homo'' (similar, -ment, com, etc.), ''metro'' (mesura, en la mesura que, etc.), ''plus'' (suma, addicional, a més, i, etc.), ''tendo'' (objectiu, per a, etc.).
+**Alguns actuen com a verbs auxiliars (nº 129 al 140). Exemple: ''volo'' (voluntat, desig, voler, “voldria”).
+* “'''Verboides'''” (nº 463 al 482): Noms de processos i estats essencials. Exemples: ''acte'' (fer, actuar, etc.), ''date'' (donar, etc.), ''dicte'' (dir, expressar, etc.), ''gene'' (esdevenir, començar a ser, etc.), ''habe'' (tenir, etc.), ''tene'' (mantenir, etc.). Aquests ''verboides'' poden no actuar com a verbs, per exemple: ''u malo acte'' (una mala acció, un pecat).
+**Poden formar combinacions típiques amb ''amplificadors''. Exemples: ''acte dirigo'' (dirigir, controlar, etc.), ''acte malo'' (fer el mal, pecar), ''acte pardo'' (perdonar), ''date libero'' (donar llibertat, alliberar), ''dicte petitio'' (dir una petició, demanar), ''dicte volo'' (expressar un desig, voler, etc.), ''habe accido'' (tenir lloc, succeir, etc.). 
+* '''Pronoms''' (nº 1 a l'11, “''Pseudonyms”'' en l’original anglès): Funcionen com a pronoms o equivalents de noms i els seus corresponents adjectius. Exemples: ''na'' (nosaltres, nostre), ''mu'' (ells, llur, etc. (multitud)), ''su'' (que... (pronom relatiu com a subjecte)), ''tu'' (tu, teu).
+* '''Partícules''' interrogatives, imperatives, negatives i comparatives (nº 41 al 46), dues de les quals permeten formular preguntes, peticions o mandats, sense desviar-se del patró verbal invariant. Exemples: ''no''/''non'' (no), ''peti'' (petició). Mentre ''peti'' és una fórmula abreujada per a expressar un imperatiu cortès (''polite imperative'' en paraules de Hogben), ''dicte petitio'' seria l’expressió íntegra.
+**En el text de mostra d’abaix, l’expressió ''dicte volo'' pot denotar el mode subjuntiu: ''Na dicte volo; tu Nomino gene revero,'' significaria: [''volem que''] ''santificat sigui el teu nom''.
+* '''Articles''' (nº 12 al 40): Numerals i altres paraules que tenen la funció d’expressar pluralitat etc. en relació amb noms (les formes singular i plural dels quals no varien). Exemples: ''pan'' (tot, -s, -a, -es), ''plu'' (alguns, -es, uns quants, -es -es, els, les), ''u''/''un'' (un, -a, algun, -a, el, la).
+
+==“Paisatge de frase”==
+Un llenguatge lliure de [[flexió gramatical]] pot facilitar la comprensió mitjançant dos tipus de senyals presents en el “''paisatge de frase”'' (“''sentence-landscape”''): els ''articles'' (tot just citats), i els ''terminals'' (això és, vocals finals):
+*Els ''substantius'' acaben '''-a''' o '''-i'''. (Excepcions: ''geo, cardo, acu, occlu, bureau, computo'').
+*Els “''amplificadors”'' (qualitats abstractes) acaben en '''-o'''. (Excepcions: ''anni, di, hora, post, pre, tem, ad, contra, epi, ex, extra, in, inter, para, littora, peri, tele, trans, anti, de, minus, per, plus, syn, vice'').
+*Els “''verboides”'' acaben en '''-e'''. 
+*Els ''pronoms'', en canvi, no acaben en una vocal particular: ''mi, tu, na, an''[dro], ''fe''[mina], ''re, pe''[rsona], ''mu''[lti], ''auto, recipro, su''[bjectum].
+Hogben prefereix tenir aquest nombre d’excepcions en lloc del ''desavantatge de mutilar una arrel internacional familiar o allargar indegudament una paraula''.ref name=Hogben / (p. 37)
+
+==Sintaxi==
+Interglossa és un idioma purament aïllant com el [[xinès]], independent de sufixes, tant de flexió verbal com de derivació nominal, si bé utilitza una espècie de paraules compostes el segon component de les quals és un monosíl·lab. Com en xinès (i en anglès), els noms compostos són essencials. Segons Hogben, aquest resulten ''auto-explícits'' quan es té en compte el seu context d’ús comú.ref name=Hogben / (p. 21)
+
+Interglossa proveeix una gramàtica mínima amb una sèrie de regles sintàctiques clarament definides, si bé diferents de la gramàtica usual de les llengües [[flexió gramatical|flexionals]]-[[llengües aglutinants|aglutinants]] com les [[llengües_indoeuropees|indoeuropees]]:
+
+{{cita|Inevitably, we find our-selves gravitating away from the grammatical pattern of the Aryan [Indo-European] family to a more universal idiom with features common to Chinese. The result is that learning a language so designed is a lively training in clear thinking of a kind which anyone can usefully undertake. In fact, the grammar of ''Interglossa'', as is largely true of [[Basic English]], is semantics.
+
+[''Traducció:'' ] Inevitablement, ens trobem gravitant a fora del patró gramatical de la família ària [indoeuropea] envers un idioma més universal amb trets comuns al xinès. El resultat és que aprendre un llenguatge així dissenyat és un entrenament vital en pensament clar, d’una classe que qualsevol pot emprendre útilment. De fet, la gramàtica d’Interglossa, com ja ho és principalment la de [[Basic English]], és semàntica.|Hogben (1943, p. 24)}}
+
+==Lèxic==
+A diferència d’altres llengües auxiliars, Hogben tendeix a adoptar les paraules internacionals del grec, en vista de la intensa ''infiltració d’arrels gregues en la vida quotidiana,'' provinents de les ciències i tecnologies modernes (per exemple: microbi, micròfon, telèfon, etc.)ref name=Hogben / (p. 30)
+Tot i així, gran part del lèxic d’Interglossa és d’origen llatí. El propi terme ''Inter-glossa'' es d’origen mixt. A vegades, Hogben dubta entre el grec i el llatí, i proposa parells de sinònims equivalents (per exemple ''hypo'' i ''infra'', ''soma'' i ''corpora''), per tal que una eventual comissió internacional determini quina de les dues opcions seria més apropiada.
+
+{{cita|Mass observation on the basis of questionnaires sent out to different groups of people of different nationalities would settle which words in each pigeon-hole are entitled to ''first-rank''.
+
+[''Traducció:'' ] L'observació massiva sobre la base de qüestionaris enviats a diferents grups de població de diferents nacionalitats, establiria quines paraules adquireixen el rang de variant preferent per a cada concepte.|Hogben, (1943, pp.15-16)}}
+
+L'any 1943 Hogben anunciava la preparació d'un volum addicional, ''A short English-Interglossa Dictionary''. Sembla que aquest volum no va arribar a publicar-se. El manuscrit es conserva entre els papers de Hogben a la Universitat de Birmingham.
+
+==Text de mostra==
+El següent és el [[Parenostre]] en Interglossa, titulat por Hogben ''U Petitio de Christi'' (Petició de Crist)ref name=Hogben / (p.242). Aquí la traducció catalana és més literal:
+
+{|class=wikitable
+|-
+|'''Versió en Interglossa:'''
+|'''Text en grec:'''
+|'''Versió en català''' (amb [[doxologia]] final):
+|-valign=top
+|
+Na Parenta in Urani:br
+Na dicte volo; tu Nomino gene revero;br
+plus tu Crati habe accido;br
+plus u Demo acte harmono tu Tendobr
+epi Geo homo in Urani;br
+Na dicte petitio: Tu date plu di Pani a Na;br
+plus Tu acte pardo plu malo Acte de Na;br
+metro Na acte pardo Mu;br 
+Su acte malo de Na.br
+Peti Tu non acte dirigo Na a plu malo Offero;br
+Hetero, Tu date libero Na apo Malo.br
+Causo Tu tene u Crati plus u Dyno plus un eu Famobr
+pan Tem.br
+Amen.
+|
+Πάτερ ημών ο εν τοις ουρανοίς,br
+αγιασθήτω το όνομά Σου,br
+ελθέτω η Βασιλεία σου,br
+γενηθήτω το θέλημά σουbr
+ως εν ουρανώ και επί της γης.br
+Τον άρτον ημών τον επιούσιον δος ημίν σήμερον,br
+και άφες ημίν τα οφειλήματα ημών,br
+ως και ημείς αφίεμεν τοις οφειλέταις ημών.br
+Και μη εισενέγκης ημάς εις πειρασμόν,br
+αλλά ρύσαι ημάς από του πονηρού.br
+Ότι σου εστί η βασιλεία και η δύναμις και η δόξαbr 
+εις τους αιώνας.br
+Αμήν.
+|
+Pare nostre, en el cel:br
+[Volem que] sigui santificat el vostre nom;br
+I el vostre regne esdevingui.br
+I faci's [el poble actuï segons] la vostra voluntat,br
+a la terra com en el cel.br
+[Demanem que] Doneu-nos el pa de cada dia a nosaltres.br
+I perdoneu les nostres culpes [mals actes],br
+[En la mesura que] com nosaltres perdonembr
+els [que actuen malament amb nosaltres] nostres deutors;br
+[Sisplau] No [ens dirigeixis a] la temptació,br
+ans deslliureu-nos de qualsevol mal.br
+[Car vostre és el regne, el poder i la glòria,br
+per sempre.]br
+Amén.
+|}
+
+==Lèxic complet==
+Hogben presenta una llista numerada de 880 paraules amb pistes etimològiquesref name=Hogben / (pp. 256-82). Alguns dels ítems (100) són parells de sinònims, per exemple ''dirigo'' / ''controlo'' (ítem nº 185).br
+Hogben també presenta una llista addicional de 74 paraules internacionals, així que de fet hi hauria un lèxic de 954.br
+Hogben presenta finalment una llista alfabètica (pp. 249-56), que malauradament té freqüents errades en el número d'ítem (aquí corregides).br
+Les síl·labes en negreta són substantius genèrics utilitzats en compostos.
+ 
+{| class=sortable
+|-
+! Item no. !! Word
+|-
+| 483 || abdomini
+|-
+| 551 || acantha
+|-
+| 141 || accido
+|-
+| 784 || acidi
+|-
+| 463 || acouste
+|-
+| 142 || acro
+|-
+| 464 || acte
+|-
+| 143 || activo
+|-
+| 733 || acu
+|-
+| 144 || acuto
+|-
+| 076 || a(d)
+|-
+| 180 || adapto
+|-
+| 145 || adhesio
+|-
+| 146 || aero
+|-
+| 147 || aetio
+|-
+| 809 || agenda
+|-
+| 455 || aggresso 
+|-
+| 631 || agri 
+|-
+| 148 || algo 
+|-
+| 149 || alieno 
+|-
+| 102 || allo 
+|-
+| 633 || alluvia 
+|-
+| 150 || alto 
+|-
+| 151 || amico 
+|-
+| 703 || amorphi 
+|-
+| 669 || ampulla 
+|-
+| 552 || amygda 
+|-
+| 670 || amyla 
+|-
+| 004 || an 
+|-
+| 553 || ana 
+|-
+| 152 || anemo 
+|-
+| 175 || angio 
+|-
+| 061 || anni 
+|-
+| 554 || anseri 
+|-
+| 077 || antero 
+|-
+| 785 || anthraci 
+|-
+| 103 || anti 
+|-
+| 810 || anthropi 
+|-
+| 556 || api
+|-
+| 078 || apo 
+|-
+| 734 || ara 
+|-
+| 274 || arbitro 
+|-
+| 153 || archo 
+|-
+| 786 || argenta 
+|-
+| 811 || arma 
+|-
+| 329 || aromo 
+|-
+| 154 || arrogo 
+|-
+| 484 || arthri 
+|-
+| 812 || arti 
+|-
+| 735 || artilleri 
+|-
+| 669 || asci 
+|-
+| 556 || asini 
+|-
+| 772 || aspi 
+|-
+| 155 || assuro 
+|-
+| 633 || astra 
+|-
+| 634 || asyla 
+|-
+| 704 || atria 
+|-
+| 156 || attendo 
+|-
+| 334 || attitudo 
+|-
+| 463 || audie 
+|-
+| 787 || aura 
+|-
+| 153 || authorito 
+|-
+| 009 || auto 
+|-
+| 557 || avi 
+|-
+| 736 || axi 
+|-
+| 737 || baci 
+|-
+| 635 || baia 
+|-
+| 705 || balconi 
+|-
+| 465 || balle 
+|-
+| 813 || banca 
+|-
+| 157 || baro 
+|-
+| 158 || baso 
+|-
+| 159 || batho 
+|-
+| 028 || bi 
+|-
+| 814 || bibli 
+|-
+| 160 || bibo 
+|-
+| 815 || billeta 
+|-
+| 161 || bio 
+|-
+| 738 || blada 
+|-
+| 162 || blasto 
+|-
+| 739 || bomba 
+|-
+| 079 || boreo 
+|-
+| 558 || bovi 
+|-
+| 485 || brachi 
+|-
+| 163 || bronto 
+|-
+| 558 || brya 
+|-
+| 486 || bucca 
+|-
+| 560 || bulba 
+|-
+| 816 || bureau 
+|-
+| 671 || bursa 
+|-
+| 672 || butyri 
+|-
+| 673 || caca 
+|-
+| 674 || cafa 
+|-
+| 487 || calca 
+|-
+| 196 || callo 
+|-
+| 675 || calyci 
+|-
+| 861 || cambio 
+|-
+| 561 || cameli 
+|-
+| 047 || '''ca'''meri 
+|-
+| 676 || campani 
+|-
+| 562 || canabi 
+|-
+| 636 || canali 
+|-
+| 563 || canceri 
+|-
+| 564 || cani 
+|-
+| 488 || cantha 
+|-
+| 164 || canto 
+|-
+| 460 || capacito 
+|-
+| 546 || capilla 
+|-
+| 817 || capitali 
+|-
+| 818 || capitula 
+|-
+| 819 || capsa 
+|-
+| 165 || captivo 
+|-
+| 788 || carba 
+|-
+| 489 || cardia 
+|-
+| 740 || cardo
+|-
+| 565 || cari 
+|-
+| 682 || carni 
+|-
+| 566 || carpa 
+|-
+| 490 || carpi 
+|-
+| 637 || carta 
+|-
+| 874 || cartoni 
+|-
+| 617 || casea 
+|-
+| 166 || catalyso 
+|-
+| 741 || catena 
+|-
+| 548 || cauda 
+|-
+| 567 || caula 
+|-
+| 104 || causo 
+|-
+| 167 || cavito 
+|-
+| 168 || celebro 
+|-
+| 169 || celero 
+|-
+| 037 || centi 
+|-
+| 706 || centra 
+|-
+| 491 || cephali 
+|-
+| 707 || cera 
+|-
+| 492 || cerebra 
+|-
+| 168 || ceremonio 
+|-
+| 170 || certifo 
+|-
+| 155 || certo 
+|-
+| 568 || cervi 
+|-
+| 492 || cervica 
+|-
+| 862 || charito 
+|-
+| 494 || chiri 
+|-
+| 171 || chloro 
+|-
+| 678 || choani 
+|-
+| 172 || cholo 
+|-
+| 495 || chondra 
+|-
+| 173 || choro 
+|-
+| 820 || christi 
+|-
+| 174 || chromo 
+|-
+| 062 || chron 
+|-
+| 569 || chyma 
+|-
+| 863 || cido 
+|-
+| 789 || cigara 
+|-
+| 790 || cigaretta 
+|-
+| 570 || citra 
+|-
+| 821 || classi 
+|-
+| 175 || claustro 
+|-
+| 742 || clavi 
+|-
+| 743 || cleidi 
+|-
+| 105 || cleisto 
+|-
+| 176 || clepto 
+|-
+| 638 || clima 
+|-
+| 679 || clinica 
+|-
+| 177 || clino 
+|-
+| 571 || cochlea 
+|-
+| 572 || cocoa 
+|-
+| 167 || coelo
+|-
+| 178 || cogito 
+|-
+| 179 || coito 
+|-
+| 744 || colea 
+|-
+| 791 || colla 
+|-
+| 822 || coloni 
+|-
+| 708 || columni 
+|-
+| 180 || comico 
+|-
+| 823 || commisari 
+|-
+| 824 || commita 
+|-
+| 181 || communo 
+|-
+| 825 || compani 
+|-
+| 106 || comparo 
+|-
+| 182 || competo 
+|-
+| 839 || computo 
+|-
+| 864 || concessio 
+|-
+| 530 || concha 
+|-
+| 107 || conditio 
+|-
+| 680 || confecti 
+|-
+| 183 || confessio 
+|-
+| 871 || confusio
+|-
+| 108 || congruo 
+|-
+| 709 || coni 
+|-
+| 573 || coniferi 
+|-
+| 184 || consolo 
+|-
+| 639 || continenti 
+|-
+| 080 || contra 
+|-
+| 185 || controlo 
+|-
+| 745 || copa 
+|-
+| 505 || copra 
+|-
+| 746 || copula 
+|-
+| 514 || cornua 
+|-
+| 681 || corona 
+|-
+| 541 || corpora 
+|-
+| 875 || corpuscula 
+|-
+| 747 || coryna 
+|-
+| 640 || cosmi 
+|-
+| 496 || costa 
+|-
+| 534 || coxa 
+|-
+| 497 || crania 
+|-
+| 826 || crati 
+|-
+| 682 || crea 
+|-
+| 186 || credito 
+|-
+| 187 || credo 
+|-
+| 792 || creta 
+|-
+| 188 || critico 
+|-
+| 710 || cruci 
+|-
+| 189 || cryo 
+|-
+| 190 || crypto 
+|-
+| 793 || crystali 
+|-
+| 748 || cteni 
+|-
+| 711 || cuba 
+|-
+| 574 || cucurbi
+|-
+| 191 || culino 
+|-
+| 192 || culto 
+|-
+| 794 || cupra 
+|-
+| 193 || curo 
+|-
+| 206 || curso 
+|-
+| 194 || curvo 
+|-
+| 195 || cyano 
+|-
+| 712 || cycli 
+|-
+| 575 || cygni 
+|-
+| 713 || cylindri 
+|-
+| 498 || cysti 
+|-
+| 499 || cyti 
+|-
+| 500 || dactyli 
+|-
+| 827 || data 
+|-
+| 466 || date 
+|-
+| 109 || de 
+|-
+| 129 || debito 
+|-
+| 036 || deca 
+|-
+| 196 || decoro 
+|-
+| 197 || defecto 
+|-
+| 198 || demo 
+|-
+| 199 || demonstro 
+|-
+| 576 || dendra 
+|-
+| 501 || denti 
+|-
+| 749 || dentili 
+|-
+| 501 || dermi 
+|-
+| 641 || deserta 
+|-
+| 200 || desicco 
+|-
+| 467 || detecte 
+|-
+| 642 || detriti 
+|-
+| 081 || dextro 
+|-
+| 063 || di 
+|-
+| 468 || dicte 
+|-
+| 353 || dieto 
+|-
+| 865 || diffusio 
+|-
+| 110 || digito 
+|-
+| 297 || diluto 
+|-
+| 185 || dirigo 
+|-
+| 750 || disca 
+|-
+| 828 || discipuli 
+|-
+| 201 || disputo 
+|-
+| 202 || dissipo 
+|-
+| 203 || divino 
+|-
+| 204 || diviso 
+|-
+| 048 || '''do'''mi 
+|-
+| 097 || dorsi 
+|-
+| 205 || dramo 
+|-
+| 206 || dromo 
+|-
+| 207 || duco
+|-
+| 064 || duro 
+|-
+| 208 || dyno 
+|-
+| 551 || echini 
+|-
+| 209 || eco 
+|-
+| 084 || ecto 
+|-
+| 751 || elasti 
+|-
+| 210 || electio 
+|-
+| 211 || electro 
+|-
+| 212 || elemento 
+|-
+| 577 || elepha 
+|-
+| 503 || entera 
+|-
+| 065 || eo 
+|-
+| 082 || epi 
+|-
+| 213 || equatio 
+|-
+| 469 || eque 
+|-
+| 578 || equi 
+|-
+| 214 || ergo 
+|-
+| 518 || eri 
+|-
+| 215 || erro 
+|-
+| 216 || erythro 
+|-
+| 130 || espero 
+|-
+| 217 || espio 
+|-
+| 470 || esthe 
+|-
+| 158 || evido 
+|-
+| 218 || eu 
+|-
+| 083 || e(x)
+|-
+| 219 || examino 
+|-
+| 220 || excesso 
+|-
+| 221 || expecto 
+|-
+| 219 || experimento 
+|-
+| 222 || experto 
+|-
+| 163 || explosio 
+|-
+| 084 || extra 
+|-
+| 579 || faba 
+|-
+| 223 || fabrico 
+|-
+| 504 || facia 
+|-
+| 224 || facilo 
+|-
+| 471 || facte 
+|-
+| 752 || falci 
+|-
+| 829 || famili 
+|-
+| 225 || famo 
+|-
+| 315 || fantaso 
+|-
+| 643 || farina 
+|-
+| 049 || '''fa'''scio 
+|-
+| 226 || fatigo 
+|-
+| 005 || fe
+|-
+| 505 || feci 
+|-
+| 580 || feli 
+|-
+| 714 || fenestra 
+|-
+| 227 || fero 
+|-
+| 795 || ferra 
+|-
+| 228 || fertilo 
+|-
+| 050 || fi 
+|-
+| 622 || fici 
+|-
+| 830 || fili 
+|-
+| 581 || filici 
+|-
+| 229 || fino 
+|-
+| 230 || fisco 
+|-
+| 231 || fissuro 
+|-
+| 232 || fixo 
+|-
+| 233 || flagello 
+|-
+| 234 || flavoro 
+|-
+| 866 || flexio 
+|-
+| 582 || flora 
+|-
+| 644 || fonta 
+|-
+| 867 || foramino 
+|-
+| 715 || forma 
+|-
+| 583 || formici 
+|-
+| 831 || formula 
+|-
+| 235 || forto 
+|-
+| 236 || fortuno 
+|-
+| 716 || fossa 
+|-
+| 237 || fracto 
+|-
+| 238 || frequo 
+|-
+| 239 || frictio 
+|-
+| 240 || frigo 
+|-
+| 241 || frustro 
+|-
+| 242 || fugo 
+|-
+| 243 || fumo 
+|-
+| 111 || functio 
+|-
+| 753 || furca 
+|-
+| 584 || galli 
+|-
+| 244 || gameo 
+|-
+| 796 || gasi 
+|-
+| 506 || gastri 
+|-
+| 832 || gazeta 
+|-
+| 472 || ge 
+|-
+| 162 || gemmo 
+|-
+| 473 || '''ge'''ne 
+|-
+| 245 || geneto 
+|-
+| 018 || geno 
+|-
+| 683 || geli 
+|-
+| 645 || geo 
+|-
+| 876 || glacia 
+|-
+| 754 || gladi
+|-
+| 507 || glandi 
+|-
+| 246 || glauco 
+|-
+| 508 || glena 
+|-
+| 509 || glossa 
+|-
+| 247 || gluco 
+|-
+| 585 || gluma 
+|-
+| 510 || glutea 
+|-
+| 664 || glypha 
+|-
+| 511 || gnatha 
+|-
+| 248 || gono 
+|-
+| 586 || gossypi 
+|-
+| 249 || grado 
+|-
+| 716 || grami 
+|-
+| 587 || gramini 
+|-
+| 833 || gramma 
+|-
+| 250 || grapho 
+|-
+| 251 || gratio 
+|-
+| 252 || gravito 
+|-
+| 253 || gravo 
+|-
+| 254 || grego 
+|-
+| 834 || gyna 
+|-
+| 255 || gyro 
+|-
+| 474 || habe 
+|-
+| 512 || haema 
+|-
+| 256 || hagio 
+|-
+| 797 || hali 
+|-
+| 212 || haplo 
+|-
+| 588 || harengi 
+|-
+| 112 || harmono 
+|-
+| 131 || hedo 
+|-
+| 207 || hegemo 
+|-
+| 646 || heli 
+|-
+| 755 || helica 
+|-
+| 257 || helico 
+|-
+| 626 || helminthi 
+|-
+| 258 || helo 
+|-
+| 040 || hemi 
+|-
+| 513 || hepa 
+|-
+| 033 || hepta 
+|-
+| 066 || hespero 
+|-
+| 259 || hetero 
+|-
+| 032 || hexa 
+|-
+| 260 || historo 
+|-
+| 021 || holo 
+|-
+| 589 || homari 
+|-
+| 590 || homini 
+|-
+| 113 || homo 
+|-
+| 067 || hora 
+|-
+| 591 || hordea
+|-
+| 261 || horizo 
+|-
+| 647 || horti 
+|-
+| 262 || humano 
+|-
+| 263 || hydro 
+|-
+| 085 || hypo 
+|-
+| 178 || ideo 
+|-
+| 868 || idio 
+|-
+| 264 || immuno 
+|-
+| 265 || impacto 
+|-
+| 836 || imperia 
+|-
+| 266 || impero 
+|-
+| 086 || in 
+|-
+| 756 || inci 
+|-
+| 110 || indico 
+|-
+| 837 || industri 
+|-
+| 835 || infanti 
+|-
+| 267 || inflatio 
+|-
+| 085 || infra 
+|-
+| 268 || inhibito 
+|-
+| 051 || inst'''ru'''menti 
+|-
+| 269 || insuro 
+|-
+| 087 || inter 
+|-
+| 270 || investo 
+|-
+| 271 || iodeo 
+|-
+| 172 || iro 
+|-
+| 044 || iso 
+|-
+| 272 || itero 
+|-
+| 273 || itinero 
+|-
+| 832 || journali 
+|-
+| 274 || judico 
+|-
+| 275 || juro 
+|-
+| 514 || kerati 
+|-
+| 038 || kilo 
+|-
+| 475 || kine 
+|-
+| 515 || labi 
+|-
+| 516 || lacrima 
+|-
+| 517 || lacti 
+|-
+| 088 || laevo 
+|-
+| 757 || lamina 
+|-
+| 717 || lampa 
+|-
+| 518 || lana 
+|-
+| 758 || lancea
+|-
+| 276 || lapso 
+|-
+| 089 || latero 
+|-
+| 592 || latici 
+|-
+| 396 || latrio 
+|-
+| 277 || laudo 
+|-
+| 278 || lavo 
+|-
+| 279 || lecto 
+|-
+| 280 || lego 
+|-
+| 593 || legumi 
+|-
+| 594 || lepi 
+|-
+| 519 || lepidi 
+|-
+| 281 || leuco 
+|-
+| 331 || liabilo 
+|-
+| 282 || liberalo 
+|-
+| 283 || libero 
+|-
+| 284 || libido 
+|-
+| 285 || ligato 
+|-
+| 286 || limito 
+|-
+| 648 || limni 
+|-
+| 595 || lina 
+|-
+| 287 || lineo 
+|-
+| 520 || lipi 
+|-
+| 288 || liquo 
+|-
+| 052 || '''li'''thi 
+|-
+| 718 || litri 
+|-
+| 090 || littora 
+|-
+| 053 || '''lo'''co 
+|-
+| 289 || logo 
+|-
+| 290 || longo 
+|-
+| 521 || lophi 
+|-
+| 166 || lubrico 
+|-
+| 878 || luciferi 
+|-
+| 291 || luco 
+|-
+| 649 || luna 
+|-
+| 596 || lupi 
+|-
+| 292 || luteo 
+|-
+| 759 || lyra 
+|-
+| 293 || lyso 
+|-
+| 760 || machina 
+|-
+| 294 || magico 
+|-
+| 295 || magneto 
+|-
+| 045 || major 
+|-
+| 761 || mallea 
+|-
+| 296 || malo 
+|-
+| 297 || mano 
+|-
+| 798 || margara 
+|-
+| 650 || mari 
+|-
+| 684 || marsupia 
+|-
+| 869 || massago
+|-
+| 298 || masso 
+|-
+| 054 || '''ma'''teria 
+|-
+| 299 || maturo 
+|-
+| 055 || '''me'''chani 
+|-
+| 022 || mega 
+|-
+| 300 || melano 
+|-
+| 308 || memo 
+|-
+| 068 || mensi 
+|-
+| 301 || merco 
+|-
+| 091 || meridio 
+|-
+| 019 || mero 
+|-
+| 092 || meso 
+|-
+| 799 || metali 
+|-
+| 638 || meteori 
+|-
+| 302 || methodo 
+|-
+| 719 || metri 
+|-
+| 114 || metro 
+|-
+| 001 || mi 
+|-
+| 023 || micro 
+|-
+| 303 || milito 
+|-
+| 039 || million 
+|-
+| 762 || mimi 
+|-
+| 651 || mina 
+|-
+| 069 || mini 
+|-
+| 304 || ministro 
+|-
+| 046 || minor 
+|-
+| 115 || minus 
+|-
+| 305 || miro 
+|-
+| 306 || miso 
+|-
+| 763 || missili 
+|-
+| 685 || mitra 
+|-
+| 307 || mixo 
+|-
+| 308 || mnemo 
+|-
+| 056 || '''mo'''bili 
+|-
+| 309 || monito 
+|-
+| 027 || mono 
+|-
+| 652 || monti 
+|-
+| 310 || mordo 
+|-
+| 132 || moro 
+|-
+| 311 || morpho 
+|-
+| 312 || morto 
+|-
+| 476 || mote 
+|-
+| 008 || mu 
+|-
+| 653 || muci 
+|-
+| 720 || mura 
+|-
+| 597 || muri 
+|-
+| 838 || musea 
+|-
+| 313 || musico 
+|-
+| 314 || muto 
+|-
+| 539 || mya 
+|-
+| 039 || myria 
+|-
+| 315 || mytho 
+|-
+| 003 || na 
+|-
+| 316 || narco 
+|-
+| 522 || nari 
+|-
+| 523 || nasa 
+|-
+| 317 || natio 
+|-
+| 318 || nato 
+|-
+| 764 || navi 
+|-
+| 655 || nebuli 
+|-
+| 319 || necro 
+|-
+| 133 || necesso 
+|-
+| 870 || necto 
+|-
+| 320 || negotio 
+|-
+| 321 || neo 
+|-
+| 656 || nepheli 
+|-
+| 524 || nephri 
+|-
+| 655 || nesia 
+|-
+| 525 || neura 
+|-
+| 623 || nicoti 
+|-
+| 070 || nocti 
+|-
+| 322 || nocuo 
+|-
+| 323 || nomino 
+|-
+| 324 || nomo 
+|-
+| 043 || no(n)
+|-
+| 035 || nonnea 
+|-
+| 325 || normo 
+|-
+| 839 || nota 
+|-
+| 326 || nullo 
+|-
+| 327 || numero 
+|-
+| 071 || nu(n)
+|-
+| 328 || occasio 
+|-
+| 093 || occidento 
+|-
+| 765 || occlu 
+|-
+| 657 || oceani 
+|-
+| 034 || octa 
+|-
+| 526 || oculi 
+|-
+| 329 || odoro 
+|-
+| 527 || oesophagi 
+|-
+| 330 || offero 
+|-
+| 686 || olea
+|-
+| 014 || oligo 
+|-
+| 331 || onero 
+|-
+| 332 || oppresso 
+|-
+| 528 || ora 
+|-
+| 596 || orangi 
+|-
+| 333 || ordino 
+|-
+| 877 || organa 
+|-
+| 334 || orientatio 
+|-
+| 094 || oriento
+|-
+| 335 || orno 
+|-
+| 336 || ortho 
+|-
+| 453 || oscillo 
+|-
+| 337 || osculo 
+|-
+| 529 || ostea 
+|-
+| 530 || ostraca 
+|-
+| 531 || oti 
+|-
+| 532 || ova 
+|-
+| 721 || ovali 
+|-
+| 599 || ovi 
+|-
+| 338 || oxidatio 
+|-
+| 144 || oxyo 
+|-
+| 339 || pachyo
+|-
+| 340 || paco 
+|-
+| 341 || paleo 
+|-
+| 699 || pallia 
+|-
+| 015 || pan 
+|-
+| 687 || pani 
+|-
+| 600 || panica 
+|-
+| 342 || papillo 
+|-
+| 800 || papyri 
+|-
+| 095 || para 
+|-
+| 343 || parallelo 
+|-
+| 344 || paralyso 
+|-
+| 345 || parasito 
+|-
+| 346 || pardo 
+|-
+| 840 || parenta 
+|-
+| 254 || partio 
+|-
+| 347 || patho 
+|-
+| 748 || pectini 
+|-
+| 348 || pecunio 
+|-
+| 533 || pedi 
+|-
+| 349 || pedio 
+|-
+| 766 || peleci 
+|-
+| 534 || pelvi 
+|-
+| 116 || pendo 
+|-
+| 350 || penito 
+|-
+| 767 || penna 
+|-
+| 351 || peno 
+|-
+| 031 || penta 
+|-
+| 117 || per 
+|-
+| 477 || perde 
+|-
+| 383 || perforato 
+|-
+| 096 || peri 
+|-
+| 134 || permito 
+|-
+| 871 || perplexo 
+|-
+| 332 || persecuto 
+|-
+| 601 || persica 
+|-
+| 007 || '''pe'''rsona
+|-
+| 041 || '''peti'''tio
+|-
+| 801 || petrolea 
+|-
+| 352 || phaeo 
+|-
+| 353 || phago 
+|-
+| 354 || phanero 
+|-
+| 135 || pheno 
+|-
+| 355 || philo 
+|-
+| 878 || phlogista 
+|-
+| 356 || phobo 
+|-
+| 602 || phoeni 
+|-
+| 357 || phono 
+|-
+| 358 || phoro 
+|-
+| 359 || photo 
+|-
+| 658 || phrea 
+|-
+| 360 || phreno 
+|-
+| 603 || phylla 
+|-
+| 361 || physio 
+|-
+| 604 || phyta 
+|-
+| 362 || picto 
+|-
+| 535 || pinna 
+|-
+| 605 || pisa 
+|-
+| 606 || pisci 
+|-
+| 768 || pista 
+|-
+| 688 || placa 
+|-
+| 363 || plano 
+|-
+| 802 || plasti 
+|-
+| 364 || plato 
+|-
+| 365 || pleno 
+|-
+| 366 || plico 
+|-
+| 013 || plu 
+|-
+| 803 || plumba 
+|-
+| 118 || plus 
+|-
+| 367 || pluto 
+|-
+| 368 || pluvio 
+|-
+| 369 || pneumo 
+|-
+| 536 || poda 
+|-
+| 841 || poeti 
+|-
+| 246 || polio 
+|-
+| 842 || politica 
+|-
+| 843 || polizi 
+|-
+| 016 || poly 
+|-
+| 607 || pomi 
+|-
+| 721 || ponti 
+|-
+| 722 || porta 
+|-
+| 136 || posso 
+|-
+| 072 || post 
+|-
+| 844 || posta 
+|-
+| 119 || postulo 
+|-
+| 659 || potami 
+|-
+| 608 || potati 
+|-
+| 137 || poto 
+|-
+| 370 || praxo
+|-
+| 073 || pre 
+|-
+| 371 || premio 
+|-
+| 138 || preparo 
+|-
+| 723 || prisma 
+|-
+| 372 || privilegio 
+|-
+| 102 || pro 
+|-
+| 373 || producto 
+|-
+| 374 || profito 
+|-
+| 342 || projectio 
+|-
+| 845 || proletari 
+|-
+| 375 || promisso 
+|-
+| 846 || propaganda 
+|-
+| 376 || proposo 
+|-
+| 847 || propria 
+|-
+| 848 || prosa 
+|-
+| 724 || prosceni 
+|-
+| 377 || prospecto 
+|-
+| 378 || protesto 
+|-
+| 139 || proto 
+|-
+| 121 || proximi 
+|-
+| 609 || pruni 
+|-
+| 661 || psamma 
+|-
+| 379 || pseudo 
+|-
+| 537 || pteri 
+|-
+| 380 || publico 
+|-
+| 381 || pudo 
+|-
+| 538 || pulmoni 
+|-
+| 689 || pulvini 
+|-
+| 382 || puro 
+|-
+| 510 || pygea 
+|-
+| 383 || pylo 
+|-
+| 725 || pyrami 
+|-
+| 610 || pyri 
+|-
+| 384 || pyro
+|-
+| 726 || quadra 
+|-
+| 385 || qualito 
+|-
+| 042 || '''que'''stio 
+|-
+| 326 || quito 
+|-
+| 024 || quo
+|-
+| 386 || radio 
+|-
+| 611 || rami 
+|-
+| 387 || rapo 
+|-
+| 388 || raso 
+|-
+| 389 || ratio 
+|-
+| 006 || re 
+|-
+| 478 || reacte 
+|-
+| 414 || recepto
+|-
+| 727 || recessi 
+|-
+| 010 || recipro 
+|-
+| 390 || recto 
+|-
+| 391 || reflecto 
+|-
+| 849 || regi 
+|-
+| 392 || religio 
+|-
+| 524 || rena 
+|-
+| 850 || rentieri 
+|-
+| 393 || reparo 
+|-
+| 209 || resido 
+|-
+| 394 || residuo 
+|-
+| 395 || resisto 
+|-
+| 369 || respiro 
+|-
+| 396 || revero 
+|-
+| 769 || reti 
+|-
+| 097 || retro 
+|-
+| 612 || rhabdi 
+|-
+| 397 || rheo 
+|-
+| 613 || rhiza 
+|-
+| 398 || rhodo 
+|-
+| 399 || rigo 
+|-
+| 400 || riso 
+|-
+| 168 || rituo 
+|-
+| 770 || rota 
+|-
+| 051 || ru 
+|-
+| 401 || rugo 
+|-
+| 660 || rura
+|-
+| 690 || sacari 
+|-
+| 671 || sacci 
+|-
+| 841 || sacramenta 
+|-
+| 256 || sacro 
+|-
+| 402 || sado 
+|-
+| 771 || sagitta 
+|-
+| 614 || salmi 
+|-
+| 403 || salto 
+|-
+| 404 || saluto 
+|-
+| 405 || sano 
+|-
+| 406 || sapio 
+|-
+| 804 || saponi 
+|-
+| 407 || sapro 
+|-
+| 539 || sarca 
+|-
+| 615 || sardini 
+|-
+| 025 || satio 
+|-
+| 728 || scala 
+|-
+| 540 || scapa 
+|-
+| 408 || schizo 
+|-
+| 409 || scholo 
+|-
+| 852 || scientia 
+|-
+| 410 || sclero
+|-
+| 411 || scopo 
+|-
+| 772 || scuta 
+|-
+| 616 || secala 
+|-
+| 074 || seci 
+|-
+| 853 || secretari 
+|-
+| 412 || secto 
+|-
+| 691 || sedi 
+|-
+| 617 || selachi 
+|-
+| 413 || semao 
+|-
+| 414 || sensitivo 
+|-
+| 805 || sepia 
+|-
+| 440 || sepso 
+|-
+| 720 || septa 
+|-
+| 122 || sequo 
+|-
+| 415 || serio 
+|-
+| 258 || servo 
+|-
+| 773 || seta 
+|-
+| 416 || severo 
+|-
+| 854 || sibi 
+|-
+| 774 || signa 
+|-
+| 417 || significo 
+|-
+| 661 || sili 
+|-
+| 618 || simi 
+|-
+| 017 || singulo 
+|-
+| 418 || siphono 
+|-
+| 715 || skeleta 
+|-
+| 419 || societo 
+|-
+| 420 || solemno 
+|-
+| 428 || solido 
+|-
+| 020 || solo 
+|-
+| 421 || solutio 
+|-
+| 541 || soma 
+|-
+| 423 || somno 
+|-
+| 422 || sopho 
+|-
+| 423 || soporo 
+|-
+| 775 || spatula 
+|-
+| 424 || specio 
+|-
+| 662 || spectra 
+|-
+| 619 || sperma 
+|-
+| 776 || sphena 
+|-
+| 730 || sphera 
+|-
+| 879 || sphinctra 
+|-
+| 692 || spiriti 
+|-
+| 257 || spiro 
+|-
+| 425 || sporto 
+|-
+| 232 || stabilo 
+|-
+| 426 || stalagmo 
+|-
+| 806 || stanna 
+|-
+| 777 || stapi 
+|-
+| 427 || stato 
+|-
+| 520 || stea 
+|-
+| 428 || stereo
+|-
+| 429 || stigmo 
+|-
+| 479 || stimule 
+|-
+| 528 || stoma 
+|-
+| 693 || strata 
+|-
+| 430 || strategico 
+|-
+| 011 || su 
+|-
+| 620 || suberi 
+|-
+| 542 || sudori 
+|-
+| 621 || sui 
+|-
+| 807 || sulphi 
+|-
+| 431 || summatio 
+|-
+| 694 || supa 
+|-
+| 098 || supero 
+|-
+| 622 || syca 
+|-
+| 432 || sympto 
+|-
+| 123 || syn 
+|-
+| 778 || syringi 
+|-
+| 433 || systemo
+|-
+| 623 || tabaca 
+|-
+| 124 || tacto 
+|-
+| 388 || talo 
+|-
+| 695 || tapea 
+|-
+| 156 || tardo 
+|-
+| 543 || tarsi 
+|-
+| 779 || taxi 
+|-
+| 696 || tea 
+|-
+| 222 || techno 
+|-
+| 731 || tecti 
+|-
+| 099 || tele 
+|-
+| 855 || telefon 
+|-
+| 856 || telegram 
+|-
+| 075 || tem 
+|-
+| 126 || tendo 
+|-
+| 480 || tene 
+|-
+| 434 || tensio 
+|-
+| 140 || tentato 
+|-
+| 663 || terra 
+|-
+| 697 || testa 
+|-
+| 435 || testimonio 
+|-
+| 030 || tetra 
+|-
+| 057 || '''te'''xti 
+|-
+| 305 || thaumo 
+|-
+| 698 || theca 
+|-
+| 544 || thela 
+|-
+| 857 || thema 
+|-
+| 436 || theo 
+|-
+| 437 || thermo 
+|-
+| 545 || thoraci 
+|-
+| 699 || toga
+|-
+| 438 || tolero 
+|-
+| 624 || tomati 
+|-
+| 439 || tono 
+|-
+| 100 || topo 
+|-
+| 440 || toxo 
+|-
+| 481 || tracte 
+|-
+| 101 || trans 
+|-
+| 700 || trapeza 
+|-
+| 441 || traumo 
+|-
+| 749 || trepana 
+|-
+| 029 || tri 
+|-
+| 546 || tricha 
+|-
+| 625 || tritica 
+|-
+| 442 || tropo 
+|-
+| 002 || tu 
+|-
+| 732 || tubi 
+|-
+| 701 || tunica 
+|-
+| 664 || tunneli 
+|-
+| 443 || turbo 
+|-
+| 780 || tympana 
+|-
+| 444 || typo 
+|-
+| 099 || ultra 
+|-
+| 445 || umbro 
+|-
+| 012 || un 
+|-
+| 547 || ungua
+|-
+| 446 || uniformo 
+|-
+| 447 || unio 
+|-
+| 880 || unita 
+|-
+| 858 || universita 
+|-
+| 872 || universo 
+|-
+| 548 || ura 
+|-
+| 665 || urani 
+|-
+| 666 || urba 
+|-
+| 549 || urini 
+|-
+| 550 || uteri 
+|-
+| 873 || utilo 
+|-
+| 448 || vacuo 
+|-
+| 781 || vagoni 
+|-
+| 667 || valli 
+|-
+| 449 || valo 
+|-
+| 859 || valuta 
+|-
+| 450 || vaporo 
+|-
+| 314 || vario 
+|-
+| 058 || '''va'''sa 
+|-
+| 782 || vecti 
+|-
+| 783 || vela 
+|-
+| 169 || veloco
+|-
+| 451 || vendo 
+|-
+| 860 || verba 
+|-
+| 452 || verito 
+|-
+| 626 || vermi 
+|-
+| 126 || verso 
+|-
+| 627 || vespi 
+|-
+| 059 || '''ve'''sto 
+|-
+| 668 || via 
+|-
+| 453 || vibro 
+|-
+| 127 || vice 
+|-
+| 454 || victo 
+|-
+| 544 || villi 
+|-
+| 702 || vini 
+|-
+| 455 || violo 
+|-
+| 456 || viro 
+|-
+| 482 || vise 
+|-
+| 457 || visito 
+|-
+| 628 || viti 
+|-
+| 808 || vitri 
+|-
+| 458 || vivo 
+|-
+| 459 || voco 
+|-
+| 128 || volo 
+|-
+| 460 || volumo 
+|-
+| 461 || vulno 
+|-
+| 629 || vulpi 
+|-
+| 292 || xantho 
+|-
+| 149 || xeno
+|-
+| 026 || zero 
+|-
+| 630 || zoa 
+|-
+| 060 || '''zo'''na 
+|-
+| 462 || zygo
+|-
+| 881* || acarina 
+|-
+| 882* || alfalfa 
+|-
+| 883* || alga 
+|-
+| 884* || alkali 
+|-
+| 885* || anguilla
+|-
+| 886* || anura 
+|-
+| 887* || anus 
+|-
+| 888* || araneida 
+|-
+| 889* || area 
+|-
+| 890* || arteria 
+|-
+| 891* || avena
+|-
+| 892* || bacteria 
+|-
+| 893* || banana 
+|-
+| 894* || betula 
+|-
+| 895* || branchia 
+|-
+| 896* || brassica 
+|-
+| 897* || camera 
+|-
+| 898* || capra 
+|-
+| 899* || carina 
+|-
+| 900* || cetacea 
+|-
+| 901* || chela 
+|-
+| 902* || chelonia 
+|-
+| 903* || coleoptera 
+|-
+| 904* || corolla 
+|-
+| 905* || coryza 
+|-
+| 906* || crocodilia 
+|-
+| 907* || diptera 
+|-
+| 908* || dyspepsia 
+|-
+| 909* || embryo 
+|-
+| 910* || erica 
+|-
+| 911* || fungi 
+|-
+| 912* || gemini
+|-
+| 913* || inertia 
+|-
+| 914* || insecta 
+|-
+| 915* || lacertilia 
+|-
+| 916* || lactuca 
+|-
+| 917* || larva 
+|-
+| 918* || lens 
+|-
+| 919* || leo 
+|-
+| 920* || lepidoptera 
+|-
+| 921* || libra 
+|-
+| 922* || mamma 
+|-
+| 923* || manifesto 
+|-
+| 924* || maxima 
+|-
+| 925* || mica 
+|-
+| 926* || minima 
+|-
+| 927* || nausea 
+|-
+| 928* || ophidia 
+|-
+| 929* || oryza 
+|-
+| 930* || ostrea 
+|-
+| 931* || pediculina 
+|-
+| 932* || pelecypoda 
+|-
+| 933* || piano
+|-
+| 934* || picea 
+|-
+| 935* || porifera 
+|-
+| 936* || protesta 
+|-
+| 937* || pterygia 
+|-
+| 938* || pyrexia 
+|-
+| 939* || reptilia 
+|-
+| 940* || sago 
+|-
+| 941* || saliva 
+|-
+| 942* || scorpionida 
+|-
+| 943* || sex 
+|-
+| 944* || silica 
+|-
+| 945* || siphanaptera 
+|-
+| 946* || soya 
+|-
+| 947* || trachea 
+|-
+| 948* || ursa 
+|-
+| 949* || vena 
+|-
+| 950* || vertebra 
+|-
+| 951* || violin 
+|-
+| 952* || virgo 
+|-
+| 953* || viscera 
+|-
+| 954* || zea 
+|}
+
+==Referències==
+{{referències|1}}
+
+[[Categoria:Llengües artificials]]</text>
+      <sha1>i5xsglj2379yaydbadj5ljppeppao5d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

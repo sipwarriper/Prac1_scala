@@ -1,0 +1,234 @@
+<page>
+    <title>Història de la televisió</title>
+    <ns>0</ns>
+    <id>625237</id>
+    <revision>
+      <id>13594324</id>
+      <parentid>13593401</parentid>
+      <timestamp>2014-06-14T14:56:11Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: a Estats Units</comment>
+      <text>La '''història de la televisió''', visió a distància, es pot rastrejar fins [[Galileo Galilei]] i el seu [[telescopi]]. No obstant això, no és fins a 1884, amb la invenció del [[Disc de Nipkow]] de [[Paul Nipkow]] quan es fes un avanç rellevant per a crear un mitjà. El canvi que portaria la televisió tal com avui la coneixem va ser la invenció de l'[[iconoscopi]] de [[Vladímir Zvorikin]]. Això donaria pas a la televisió completament electrònica, que disposava d'una taxa de refresc molt millor, més definició d'imatge i il·luminació pròpia.
+
+Les primeres emissions públiques de televisió les va efectuar la [[BBC]] a [[Anglaterra]] a [[1927]] i la [[CBS]] i [[NBC]] als [[Estats Units]] a [[1930]]. En ambdós casos es van utilitzar sistemes mecànics i els programes no s'emetien amb un horari regular.
+
+Les emissions amb programació es van iniciar a [[Anglaterra]] a [[1936]], i en els [[Estats Units]] el dia 30 d'abril de [[1939]], coincidint amb la inauguració de l'[[Exposició Universal]] de [[Nova York]]. Les emissions programades es van interrompre durant la [[Segona Guerra Mundial]], i es reprengueren quan va acabar.
+
+== Primers desenvolupaments ==
+===Telefotografia ===
+Els primers intents de transmetre imatges a distància es realitzen mitjançant l'[[electricitat]] i sistemes mecànics. L'[[electricitat]] exercia com a mitjà d'unió entre els punts i servia per a realitzar la captació i recepció de la imatge, els mitjans mecànics efectuaven les tasques de moviments per a realitzar els escombrats i descomposició seqüencial de la imatge a transmetre. Per [[1884]] van aparèixer els primers sistemes de transmissió, mapes escrits i fotografies anomenats [[telefoto]]s. En aquests primers aparells s'utilitzava la diferència de resistència per a realitzar la captació.
+
+El desenvolupament de les cèl·lules fotosensibles de [[seleni]], en què el seu [[resistivitat]] varia segons la quantitat de llum que incideixi en elles, el sistema es va perfeccionar fins al punt que a [[1927]] es va establir un servei regular de transmissió de telefotografia entre Londres i Nova York. Les ones de ràdio aviat substituir els cables de [[coure]], encara que mai van arribar a eliminar del tot, sobretot en els serveis punt a punt.
+
+El desenvolupament de la telefotografia va arribar al seu cim amb els ''teleinscriptores'', i el seu sistema de transmissió. Aquests aparells permetien rebre el diari a casa del client, mitjançant la impressió del mateix que es feia des d'una emissora especialitzada.
+
+Fins a la [[dècada de 1980]] es van venir utilitzant sistemes de telefoto per a la transmissió de fotografies destinats als mitjans de comunicació.
+
+=== El moviment a la imatge ===
+[[Fitxer: Camaras TV.JPG |250px|thumb|Càmeres en un plató de TV.]]
+La imatge en moviment és el que caracteritza a la televisió. Els primers desenvolupaments els van realitzar els francesos [[Georges Rignoux]] i A. Fournier el [[1909]].refHenry de Varigny, [http://histv2.free.fr/rignoux/rignoux1909.htm La vision à distance], ''L'Illustration'', Paris, December 11, 1909, p. 451./ref Aquests van desenvolupar una matriu de cèl·lules fotosensibles que connectaven, al principi una a una, amb una altra matriu de llànties. A cada cèl·lula de l'emissor li corresponia una llàntia en el receptor.
+
+Aviat es van substituir els nombrosos cables per un únic parell. Per a això es va utilitzar un sistema de [[commutació]] que anava posant cada cèl·lula a cada instant en contacte amb cada làmpada. El problema va ser la sincronització dels dos commutadors, així com la velocitat a la qual havien de girar per aconseguir una imatge completa que fos percebuda per l'ull com a tal.
+
+La necessitat d'enviar la [[informació]] de la imatge en [[port sèrie|sèrie]], és a dir utilitzant només una via com en el cas de la matriu fotosensible, es va acceptar ràpidament. De seguida es van desenvolupar sistemes d'exploració, també anomenats de desintegració, de la imatge. Es van desenvolupar sistemes mecànics i elèctrics.
+
+=== TV mecànica, el disc de Nipkow i la roda fònica ===
+{{AP|Televisió electromecànica|Disc de Nipkow}}
+
+En [[1884]] [[Paul Nipkow]] dissenya i patenta l'anomenat [[disc de Nipkow]], un projecte de televisió que no podria dur a la pràctica. En [[1910]], el disc de Nipkow va ser utilitzat en el desenvolupament dels sistemes de televisió dels inicis del [[segle XX]] i en [[1925]], el [[25 de març]], l'inventor escocès [[John Logie Baird]] efectua la primera experiència real utilitzant dos discs, un a l'emissor i un altre al receptor, que estaven units al mateix eix perquè el seu gir fora síncron i separats 2 m. Es va transmetre un cap d'un maniquí amb una definició de 28 línies i una freqüència de quadre de 14 quadres per segon.
+
+Baird va oferir la primera demostració pública del funcionament d'un sistema de televisió als membres de la Royal Institution, i un periodista l'[[26 de gener]] de [[1926]] en el seu laboratori de Londres. El 1927, Baird va transmetre un senyal a 438 milles a través d'una línia de telèfon entre Londres i Glasgow.
+
+Aquest disc permet la realització d'un escombrat seqüencial de la imatge mitjançant una sèrie d'orificis realitzats en el mateix. Cada orifici, que en teoria hauria de tenir una mida infinitesimal i en la pràctica era d'1 mm, escombrava una línia de la imatge i com aquests, els forats, estaven lleugerament desplaçats, acabaven realitzant el escombrat total de la mateixa. El nombre de línies que es van adoptar va ser de 30 però això no va donar els resultats desitjats, la qualitat de la imatge no resultava satisfactòria.
+
+En [[1928]] Baird funda la companyia ''Baird TV Development Co'' per explotar comercialment la TV.
+Aquesta empresa va aconseguir el primer senyal de televisió transatlàntica entre Londres i Nova York.
+Aquest mateix any Paul Nipkow veu a l'''Exposició de ràdio de Berlín'' un sistema de televisió funcionant perfectament basat en el seu invent amb el seu nom al peu del mateix. El 1929 es comencen les emissions regulars a [[Londres]] i [[Berlín]] basades en el sistema Nipkow Baird, que emetia en banda mitjana de ràdio.
+
+Es van desenvolupar altres exploradors mecànics com el que va fer la casa Telefunken, que va donar bons resultats, però que era molt complex i constava d'un cilindre amb forats que tenien una lent cada un d'ells.
+
+La formació de la imatge en la recepció es realitzava mitjançant el mateix principi que utilitzava en la captació. Un altre disc similar, girant sincrònicament, era utilitzat per mirar a través d'ell una [[làmpada de neó]] la lluminositat corresponia a la llum captada en aquest punt de la imatge. Aquest sistema, pel minúscul mida de l'àrea de formació de la imatge, no va tenir molt d'èxit, ja que únicament permetia que aquesta fos vista per una persona, tot i que es va intentar fer més gran la imatge mitjançant la utilització de lents. Es van desenvolupar sistemes basats en cinta en lloc de discos i també es va desenvolupar, que va ser el que va aconseguir resoldre el problema de la mida de la imatge, un sistema de miralls muntats en un tambor que realitzaven la presentació en una pantalla. Per això el tambor tenia els miralls lleugerament inclinats, col·locats helicoïdalment. Aquest tambor és conegut com la ''roda de Weill''. Per al desenvolupament pràctic d'aquests televisors va ser necessària la substitució de la làmpada de neó, que no donava la lluminositat suficient, d'altres maneres, i entre ells es va utilitzar el de posar un llum de descàrrega de gas i fer passar la llum de la mateixa per una [[cèl·lula de Kerr]] que regulava el flux lluminós en relació a la tensió que se li aplicava en els seus borns. El desenvolupament complet del sistema es va obtenir amb la utilització de la [[roda fònica]] per a realitzar el sincronisme entre l'emissor i el receptor.
+
+L'exploració de la imatge, que s'havia desenvolupat de forma progressiva per les experiències de Senlecq i Nipkow es qüestiona per l'exposició del principi de l'''exploració entrellaçada'' desenvolupat per Belin i Toló. L'exploració entrellaçada resolia el problema de la persistència de la imatge, les primeres línies traçades es perdien quan encara no s'havien traçat les últimes produint el conegut com ''efecte onada''. A l'exploració entrellaçada s'exploren primer les línies senars i després les parells i es realitza el mateix en la presentació de la imatge. Brillounin perfecciona el disc de Nipkow perquè realitzi l'exploració entrellaçada col·locant unes lents en els forats augmentant així la brillantor captat.
+
+En [[1932]] es realitzen les primeres emissions en [[París]]. Aquestes emissions tenen una definició de 60 línies però tres anys després s'estaria emetent amb 180. La precarietat de les cèl·lules emprades per a la captació feia que s'hagués d'il·luminar molt intensament les escenes produint moltíssima calor que impedia el desenvolupament del treball en els platós.
+
+==== La roda fònica ====
+La roda fònica va ser el [[sistema]] de sincronització mecànic que millors resultats va donar. Consistia en una roda de [[ferro]] que tenia tants dents com forats hi havia al tambor o [[disc (topologia)|disc]]. La roda i el disc estaven units pel mateix eix. La [[roda]] estava enmig de dos bobines que eren recorregudes pel senyal que arribava de l'[[emissor]]. Al centre emissor es donava, al començament de cada forat, principi de cada línia, un pols molt més intens i ampli que les variacions habituals de les cèl·lules captadores, que quan era rebut en el [[receptor de televisió]] en passar per les bobines fa que la roda doni un pas posicionant el forat que correspon.
+
+=== Televisió electrònica ===
+En [[1937]] van començar les transmissions regulars de TV electrònica a [[França]] i al [[Regne Unit]]. Això va portar a un ràpid desenvolupament de la indústria televisiva i un ràpid augment de teleespectadors, encara que els televisors eren de pantalla petita i molt cars. Aquestes emissions van ser possibles per al desenvolupament dels següents elements en cada extrem de la cadena.
+
+==== En el receptor, el TRC ====
+Des dels començaments dels experiments sobre els [[raigs catòdics]] fins que el tub es va desenvolupar prou per al seu ús a la televisió van ser necessaris molts avenços en aquesta recerca. Les investigacions de [[Wehnelt]], que va afegir el seu cilindre, els perfeccionaments dels controls electrostàtics i electromagnètics del feix, amb el desenvolupament de les anomenades lents electròniques de Vichert i els sistemes de deflexió permetre que l'investigador [[Holweck]] desenvoluparà el primer tub de Brauman destinat a la televisió. Perquè aquest sistema treballés correctament es va haver de construir un emissor especial, aquest emissor el va realitzar [[Belin]] i estava basat en un mirall mòbil i un sistema mecànic per a l'escombrat.
+
+Un cop resolt el problema de la presentació de la imatge a la recepció quedava per resoldre el de la captació al [[emissor]]. Els exploradors mecànics frenaven l'avenç de la tècnica de la TV. Era evident que el progrés havia de venir de la mà de l'electrònica, com en el cas de la recepció. El [[27 de gener]] de [[1926]], [[John Logie Baird]] va fer una demostració davant la Reial Institució d'Anglaterra, el captador era mecànic, compost de tres discos i de construcció molt rudimentària.ref{{Ref-llibre |cognom=Burns |nom=Russell W. |títol=British Television: The Formative Years |url=http://books.google.es/books?id=7v7FTnT1wE4Cpg=PA1dq=John+Logie+Baird+1926hl=casa=Xei=1APtUOG8I4eS0QWJ-oHIBAved=0CEUQ6AEwAw#v=onepageq=1926f=false |llengua=anglès |editorial=IET |data=1986 |pàgines=p.47-70 |isbn=0863410790}}/ref
+
+{{Cita|L'aparell estava muntat amb eixos de bicicletes velles, taulers de taules de cafè i lents de [[vidre]] de claraboies, tot unit amb lacre, cordes, etc., La qual cosa va fer que no impressions molt favorablement a aquells que estaven acostumats als exquisits mecanismes dels constructors d'aparells, però la importància de les proves va ser real i decisiva per al món científic d'aquells temps.}}
+
+La primera imatge sobre un tub de raigs catòdics es va formar el 1911 a l'Institut Tecnològic de Sant Petersburg i consistia en unes ratlles blanques sobre fons negre i van ser obtingudes per [[Boris Rosing]] en col·laboració amb Vladimir Zworykin.ref{{Ref-llibre |cognom=Glinsky |nom=Albert |títol=Theremin: Ether Music and Espionage |url=http://books.google.es/books?id=6DHlQJcMpBQCpg=PA38dq=Boris+Rosing+Zworykin+1911hl=casa=Xei=qtrtUNy0H4Ot0QWduIHICQved=0CDgQ6AEwAQ#v=onepageq=Boris%20Rosing%20Zworykin%201911f=false |llengua=anglès |editorial=University of Illinois Press |data=2000 |pàgines=p.38 |isbn=0252025822}}/ref 
+
+Els senyals de sincronisme eren generats per potenciòmetres units als tambors de miralls que s'aplicaven a les bobines deflexoras del TRC, la intensitat de feix era proporcional a la il·luminació que rebia la cèl·lula fotoelèctrica.
+
+==== En l'emissor, l'iconoscopi ====
+[[Fitxer: Zworykin1931iconoscope.png|thumb|240px|Diagrama d'una patent de Zworykin, el 1931. És un microscopi construït similars al iconoscopi.ref [http://www.google.com/patents?id=ugN-AAAAEBAJ Method of and apparatus for producing images of objects], US Patent # 2021907, filed November 13, 1931, patent issues 1935. /ref]]
+[[Fitxer: Bloque optico.JPG|250px|thumb|Bloc òptic d'una càmera de TV de CCDs.]]
+
+En [[1931]] [[Vladimir Zworykin]] va desenvolupar el captador electrònic que tant s'esperava, e l'[[iconoscopi]]. Aquest tub electrònic permetre l'abandonament de tots els altres sistemes que es venien utilitzant i va perdurar, amb les seves modificacions, fins a la irrupció dels captadors de [[CCD]] 'sa finals del segle XX.
+
+El iconoscopi està basat en un ''mosaic electrònic'' compost per milers de petites cèl·lules fotoelèctriques independents que es creaven mitjançant la construcció d'un sandvitx de tres capes, una molt fina de [[Calci|Ca]] que es recobria en una de les cares d'una substància conductora (grafit en pols impalpable o plata) i en l'altra cara una substància fotosensible composta de milers de petits glòbuls de plata i òxid de cesi. Aquest mosaic, que era també conegut amb el nom de ''mosaic electrònic de Zworykin'' es posava dins d'un tub de buit i sobre aquest es projectava, mitjançant un sistema de lents, la imatge a captar. La lectura de la imatge electrònica generada al mosaic es realitzava amb un feix electrònic que proporcionava als petits condensadors fotoelèctrics els electrons necessaris per a la seva neutralització. Per a això es projecta un feix d'electrons sobre el mosaic, les intensitats generades en cada descàrrega, proporcionals a la càrrega de cada cèl·lula i aquesta a la intensitat de llum d'aquest punt de la imatge passen als circuits amplificadors i d'allà a la cadena de transmissió, després dels diferents processaments necessaris per l'òptim rendiment del sistema de TV.
+
+L'exploració del mosaic pel feix d'electrons es realitzava mitjançant un sistema de deflexió electromagnètic, igual que l'utilitzat en el tub del receptor.
+
+Es van desenvolupar un altre tipus de tubs de càmera com el ''dissector d'imatge'' de [[Philo Taylor Farnsworth]] i després el ''Icotró'' i el ''superemitró'', que era un híbrid de iconoscopi i dissector, i al final va aparèixer l{{'}}''orticó'', desenvolupat per la casa RCA i que era molt menor, en grandària, que l'iconoscopi i molt més sensible. Aquest tub va ser el que es va desenvolupar i va perdurar fins a la seva desaparició.
+
+Vladimir Zworykin realitzar els seus estudis i experiments del iconoscopi a la RCA, després de deixar Sant Petersburg i treballant amb Philo Taylor Farnsworth qui el va acusar de copiar els seus treballs sobre el dissector d'imatge.
+
+Els transductors dissenyats van ser la base per a les [[càmera de televisió|càmeres de televisió]]. Aquests equips integraven, i integren, tot el necessari per captar una imatge i transformar-la en un senyal elèctric. El senyal, que conté la informació de la imatge més els polsos necessaris per al sincronisme dels receptors, s'anomena [[senyal de vídeo]]. Un cop s'hagi produït aquest senyal, aquest pot ser manipulat de diferents formes, fins a la seva emissió per l'[[antena]], el sistema de difusió desitjat.
+
+====Senyal de vídeo ====
+{{AP|Senyal de vídeo}}
+El senyal transduit de la imatge conté la informació d'aquesta, però com hem vist, és necessari, per a la seva recomposició, que hi hagi un perfecte sincronisme entre la deflexió d'exploració i la deflexió en la representació.
+
+L'exploració d'una imatge es realitza mitjançant la seva descomposició, primer en fotogrames als que s'anomenen quadres i després en línies, llegint cada quadre. Per determinar el nombre de quadres necessaris perquè es pugui recompondre una imatge en moviment així com el nombre de línies per obtenir una òptima qualitat en la reproducció i l'òptima percepció del color (a la TV en color) es van realitzar nombrosos estudis empírics i científics de l'ull humà i la seva forma de percebre. Es va obtenir que el nombre de quadres devia ser almenys de 24 al segon (després es van emprar per altres raons 25 i 30) i que el nombre de línies devia ser superior a les 300.
+
+El senyal de vídeo la componen la pròpia informació de la imatge corresponent a cada línia (en el sistema [[PAL]] 625 línies i en el [[NTSC]] 525 per cada quadre) agrupades en dos grups, les línies senars i les parells de cada quadre, a cada un d'aquests grups de línies se'ls anomena camp (en el sistema [[PAL]] s'usen 25 quadres per segon mentre que en el sistema [[NTSC]] 30). A aquesta informació cal afegir la de sincronisme, tant de quadre com de línia, és a dir, tant vertical com horitzontal. Com que el quadre dividit en dos camps tenim per cada quadre un sincronisme vertical que ens assenyala el començament i el tipus de camp, és a dir, quan comença el camp senar i quan comença el camp parell. Al començament de cada línia s'afegeix el pols de sincronisme de línia o horitzontal (modernament amb la TV en color també s'afegeix informació sobre la sincronia del color).
+
+La codificació de la imatge es realitza entre 0 V per al negre i 0,7 V per el blanc. Per als sincronismes s'incorporen polsos de -0,3 V, el que dóna una amplitud total de la forma d'ona de vídeo d'1 V. Els sincronismes verticals estan constituïts per una sèrie de polsos de -0,3 V que proporcionen informació sobre el tipus de camp i igualen els temps de cada un d'ells.
+
+El so, anomenat ''àudio'', és tractat per separat en tota la cadena de producció i després s'emet al costat del vídeo en una portadora situada al costat de l'encarregada de transportar la imatge.
+
+== El desenvolupament de la TV ==
+[[Fitxer: Control central.JPG|250px|thumb|left|Control Central a un centre emissor de TV.]]
+
+En [[1945]] s'estableixen les normes [[CCIR]] que regulen l'exploració, modulació i transmissió del senyal de TV. Hi havia multitud de sistemes que tenien resolucions molt diferents, des de 400 línies a fins a més de 1.000. Això produïa diferents amplades de banda en les transicions. A poc a poc es van anar concentrant en dos sistemes, el de 512 línies, adoptat per EUA i el de 625 línies, adoptat per Europa (Espanya va adoptar les 625 línies en 1956). També es va adoptar molt aviat el format de 4/3 per a la relació d'aspecte de la imatge.
+
+[[Fitxer: Televisión pequeña blanco y negro.JPG|250px|thumb|Vella televisió blanc i negre.]]
+És a mitjan segle XX on la televisió es converteix en bandera tecnològica dels països i cada un d'ells va desenvolupant els seus sistemes de TV nacionals i privats. En [[1953]] es crea [[Eurovisió]] que associa a diversos països d'Europa connectant seus sistemes de TV mitjançant enllaços de microones. El 1960, es crea [[Mundovisión (xarxa satelital mundial)|Mundovisión]] que comença a realitzar enllaços amb [[satèl·lit geostacionari|satèl·lits geoestacionaris]] cobrint tot el món.
+
+La producció de televisió es va desenvolupar amb els avenços tècnics que van permetre la gravació dels senyals de vídeo i àudio. Això va permetre la realització de programes gravats que podrien ser emmagatzemats i emesos posteriorment. A finals de la [[dècada de 1950]] es van desenvolupar els primers [[magnetoscopi]]s i les càmeres amb òptiques intercanviables que giraven en una torreta davant del tub d'imatge. Aquests avenços, juntament amb els desenvolupaments de les màquines necessàries per a la mescla i generació electrònica d'altres fonts, van permetre un desenvolupament molt alt de la producció.
+
+En la [[dècada de 1970]] es van implementar les òptiques Zoom i es van començar a desenvolupar magnetoscopis més petits que permetien la gravació de les notícies en el camp. Van néixer els equips [[ENG|periodisme electrònic]] o [[ENG]]. Poc després es va començar a desenvolupar equips basats en la digitalització del senyal de vídeo i en la generació digital de senyals, van néixer d'aquests desenvolupaments dels ''efectes digitals'' i les paletes gràfiques. A la vegada que el control de les màquines permetia el muntatge de sales de postproducció que, combinant diversos elements, podien realitzar programes complexos.
+
+El desenvolupament de la televisió no es va aturar amb la transmissió de la imatge i el so. Aviat es va veure l'avantatge d'utilitzar el canal per donar altres serveis. En aquesta filosofia es va implementar, a finals de la [[dècada de 1980]] el [[teletext]] que transmet notícies i informació en format de text utilitzant els espais lliures d'informació del senyal de vídeo. També es van implementar sistemes de so millorat, naixent la televisió en estèreo o dual i dotant al so d'una qualitat excepcional, el sistema que va aconseguir imposar-se al mercat va ser el [[NICAM]].
+
+=== La televisió en color ===
+: ''Vegeu també: span class=plainlinks [http://en.wikipedia.org/wiki/Timeline_of_the_introduction_of_color_television_in_countries Introducció de la televisió en color en diferents països.]'' /span
+
+[[Fitxer: NTSC-PAL-SECAM.svg|right|thumb|400px|{{Llegenda|#70ff70|[[NTSC]]}}{{Llegenda|yellow|[[PAL]], o canviant a PAL}}{{Llegenda|orange|[[SECAM]]}}{{Llegenda|#9fdba4|Sense informació}}'''Distribució dels sistemes de TV en el món.''']]
+Ja en [[1928]] es van desenvolupar experiments de la transmissió d'imatges en color. Baird, basant-se en la teoria tricromàtica de Young, va realitzar experiments amb discs de Nipkow als que cobria els forats amb filtres vermells, verds i blaus aconseguint emetre les primeres imatges en color el 3 de juliol de 1928. El 17 d'agost de 1940, el mexicà [[Guillermo González Camarena]] patenta, a Mèxic i EUA, un Sistema tricromàtica Seqüencial de Campos. El [[1948]], Goldmark, basant-se en la idea de Baird i Camarena, va desenvolupar un sistema similar anomenat ''sistema seqüencial de camps'' el qual estava format per una sèrie de filtres de colors vermell, verd i blau que giren anteposant al captador i, de la mateixa manera, en el receptor, s'anteposen a la imatge formada a la pantalla del tub de raigs catòdics. L'èxit va ser tal que la Columbia Broadcasting System el va adquirir per a les seves transmissions de TV.
+
+El següent pas va ser la transmissió simultània de les imatges de cada color amb l'anomenat ''trinoscopi''. El trinoscopi ocupava tres vegades més espectre radioelèctric que les emissions monocromàtiques i, a sobre, era incompatible amb elles a la vegada que molt costós.
+
+L'elevat nombre de televisors en blanc i negre va exigir que el sistema de color que es desenvolupés fos compatible amb les emissions monocromes. Aquesta compatibilitat havia de realitzar-se en ambdós sentits, d'emissions en color a recepcions en blanc i negre i d'emissions en monocrom a recepcions en color.
+
+A la recerca de la compatibilitat neix el concepte de [[luminància]] i de [[crominància]]. La luminància porta la informació del [[Luminància|brillantor]], la llum, de la imatge, el que correspon al blanc i negre, mentre que la crominància porta la informació del color. Aquests conceptes van ser exposats per Valensi el 1937.
+
+En [[1950]] la [[Radio Corporation of America]] (RCA) desenvolupa un tub d'imatge que portava tres canons electrònics, els tres feixos eren capaços d'impactar en petits punts de fòsfor de colors, anomenats luminòfors, mitjançant la utilització de una màscara, la ''Shadow Mask'' o ''Trimask''. Això permetia prescindir dels tubs trinoscòpics tan voluminosos i molestos. Els electrons dels feixos en impactar amb els luminòfors emeten una llum del color primari corresponent que mitjançant la mescla additiva genera el color original.
+
+Mentre en el receptor es implementaven els tres canons corresponents als tres colors primaris en un sol element. En l'emissor (la càmera) es mantenien els tubs separats, un per cada color primari. Per a la separació es fa passar la llum que conforma la imatge per un prisma dicroic que filtra cada color primari a la seva corresponent captador.
+
+==== Sistemes actuals de TVC ====
+[[Fitxer: Barras en el MFO.JPG|250px|right|thumb|Barres de color EBU vistes en un MFO i un vectoscopi.]]
+El primer sistema de televisió en color ideat que respectava la doble compatibilitat amb la televisió monocroma es va desenvolupar en [[1951]] per un grup d'enginyers dirigits per Hirsh en els laboratoris de la ''Hazeltime Corporation'' als EUA Aquest sistema va ser adoptat per la ''Federal Communication Commission dels Estats Units'' (FCC) i era el [[NTSC]] que són les sigles de ''National Television System Commission''. El sistema va tenir èxit i es va estendre per tota Amèrica del Nord i Japó.
+
+Els senyals bàsics que utilitza són la [[luminància]] (I), que dóna la brillantor i és el que es mostra en els receptors monocroms, i les components de color, els dos senyals diferència de color, la RY i BY (el vermell menys la luminància i el blau menys la luminància). Aquesta doble selecció permet donar un tractament diferenciat al color i al brillantor. L'ull humà és molt més sensible a les variacions i definició de la brillantor que a les del color, això fa que les amplades de banda dels dos senyals siguin diferents, la qual cosa facilita la seva transmissió, ja que els dos senyals s'han d'implementar a la mateixa banda el ample és ajustat.
+
+El sistema NTSC modula en amplitud a dues portadores de la mateixa freqüència desfasades 90º que després se sumen, [[modulació QAM]] o [[modulació en quadratura|quadratura]]. En cadascuna de les portadores es modula una de les diferències de color, l'amplitud del senyal resultant indica la [[saturació cromàtica]] i la fase el [[tint]] o to del mateix. Aquest senyal es diu de [[crominància]]. Els eixos de modulació estan situats de manera que es cuida la circumstància que l'ull és més sensible al ''color carn'', és a dir que l'eix I s'orienta cap al taronja i el Q cap als magentes. Com que la modulació amb portadora suprimida cal enviar una salva de la mateixa perquè els generadors del receptor puguin sincronitzar amb ella. Aquesta salva o [[burst]] sol anar al pòrtic anterior del pols de sincronisme de línia. El senyal de crominància se suma a la de luminància component del senyal total de la imatge.
+
+Les modificacions en la fase del senyal de vídeo quan aquest és transmès té errors de tint, és a dir de color (canvia el color de la imatge).
+
+El NTSC va ser la base de la qual van partir altres investigadors, principalment europeus. A Alemanya es va desenvolupar, per un equip dirigit per [[Walter Bruch]] un sistema que esmenava els errors de fase, aquest sistema és el [[PAL]], ''Phase Altenating Line''.
+
+Per això la fase de la subportadora s'alterna per línia. La subportadora que modula la component RY, que en PAL es diu V, té una fase de 90º en una línia i de 270º en la següent. Això fa que els errors de fase que es produeixin en la transmissió (i que afecten igual i en el mateix sentit a totes dues línies) es compensin a la representació de la imatge en veure's una línia al costat de l'altra, Si la integració de la imatge per a la correcció del color la realitza el propi ull humà tenim l'anomenat PAL S (PAL Simple) i si es realitza mitjançant un circuit electrònic el PAL D (PAL Delay, retardat). El PAL va ser proposat com a sistema de color paneuropeu a la Conferència d'Oslo de 1966. Però no es va arribar a un acord i com a resultat els països d'Europa Occidental, amb l'excepció de França, van adoptar el PAL mentre que els de l'Europa Oriental i França el SECAM.
+
+A França es va desenvolupar per l'investigador [[Henri de France]] un sistema diferent, el SECAM, «SÉquentiel Couleur À Mémoire» que basa la seva actuació en la transmissió seqüencial de cada component de color modulades en FM de tal manera que en una línia s'envia una component i en la següent l'altra component. Després el receptor les combina per deduir el color de la imatge.
+
+Tots els sistemes tenien avantatges i inconvenients. Mentre que el NTSC i el PAL dificultaven l'edició del senyal de vídeo per la seva seqüència de color en quatre i vuit camps, respectivament, el sistema SECAM feia impossible el treball de barreja de senyals de vídeo.
+
+=== Arribada de la televisió a Amèrica Llatina ===
+A [[Mèxic]], s'havien realitzat experiments a la televisió a partir de 1934, però la posada en funcionament de la primera estació de TV, Canal 5, a la [[Ciutat de Mèxic]], va tenir lloc el 1946. En iniciar la dècada de 1950 es va implantar la televisió comercial i es van iniciar els programes regulars i el 1955 es va crear Telesistema mexicà, per la fusió dels tres canals existents.
+
+La primera transmissió a [[Argentina]] es va realitzar a [[1951]], donant origen al llavors privat [[Canal 7 Argentina|canal 7]], en aquest llavors ''LR3-TV'', propietat del pioner en ràdio i televisió, [[Jaume Yankelevich]]. La televisió [[argentina]] sempre s'ha diferenciat de la resta de les produccions de [[Hispanoamèrica]] pel sistema de televisió emprat en [[Argentina|aquest país]] ([[PAL|PAL-N]]). Causa d'això, tot programa produït en [[Argentina]] que portaré a un altre país [[Hispanoamèrica|hispanoamericà]] (excepte [[Paraguai]] i [[Uruguai]]) ha de convertir-se al sistema [[NTSC|NTSC (M o N)]].
+
+Un altre dels primers països a [[Amèrica Llatina]] després de [[Mèxic]] i [[Argentina]], en obrir camp a la televisió va ser [[Nicaragua]] a [[1956]], quan es funda Canal 8, propietat de la [[Família Somoza]]. A l'inici la programació era importada de [[Mèxic]] i [[Espanya]]. Durant la dècada dels 60, es desenvolupa la programació nacional i la creació de nous canals com Canal 2 i Canal 12, propietat dels Sacasa, parents dels Somozas. [[Panamà]] inici seus transmissió de Televisió Comercial, el 4 de març de 1960, a càrrec de Canal 4 RPC, propietat de la família Eleta. Abans d'això, el 1956, la TV havia arribat a la [[Zona del Canal de Panamà]], Canal 8, SCN l'Exèrcit Sud dels Estats Units [[USSOUTHCOM]]. [[Nicaragua]] va estar també al costat de [[Xile]] a la llista dels primers països a [[Amèrica Llatina]] a transmetre imatges en color abans que finalitzés la dècada dels 70s.
+
+[[Televisa]], l'empresa privada de televisió més important de parla hispana, es va fundar el 1973 i s'ha convertit en un dels centres emissors i de [[negoci]]s, en el camp de la comunicació, més gran del món, ja que, a més de canals i programes de televisió que va desenvolupar àmplies activitats en ràdio, premsa i edicions o espectacles esportius.
+
+La televisió ha assolit una gran expansió en tot l'àmbit [[llatinoamericà]]. En l'actualitat existeixen més de 300 canals de televisió i una audiència, segons el nombre d'aparells per llars (més de 60 milions), de més de dos-cents milions de persones.
+
+A partir de 1984, la utilització per Televisa del satèl·lit Panamsat per a les seves transmissions d'abast mundial, permet que el senyal en espanyol cobreixi la totalitat dels cinc continents. Hispasat, el satèl·lit espanyol de la dècada de 1990, cobreix també tot Europa i Amèrica.
+
+=== L'alta definició HD ===
+{{AP|Televisió d'alta definició}}
+El sistema de televisió de definició estàndard, conegut per la sigles SD, té, en PAL, una definició de 720x576 [[píxel]] és (720 punts horitzontals per línia i 576 punts verticals que corresponen a les línies actives del PAL ) això fa que una imatge en PAL tingui un total de 414.720 píxels. En NSTC es mantenen els punts per línia però el nombre de línies actives és només de 525 el que dóna un total de píxels de 388.800 sent els píxels lleugerament amples a PAL i lleugerament alts en NSTC.
+
+S'han desenvolupat 28 sistemes diferents de televisió d'alta definició. Hi ha diferències quant a relació de quadres, nombre de línies i píxels i forma d'escombrat. Tots ells es poden agrupar en quatre grans grups dels quals dos ja han quedat obsolets (els referents a les normes de la [[SMPTE]] 295M, 240m i 260m) mantenint-dos que difereixen, fonamentalment, en el nombre de línies actives, un 1080 línies actives (SMPT 274M) i l'altre de 720 línies actives (SMPT 269M).
+
+En el primer dels grups, amb 1.080 línies actives, es donen diferències de freqüència de quadre i de mostres per línia (encara que el nombre de mostres per temps actiu de línia es manté en 1.920) també la forma d'escombrat canvia, hi ha escombrat progressiu o entrellaçat. De la mateixa manera passa en el segon grup, on les línies actives són 720 tenint 1.280 mostres per temps de línia actiu. En aquest cas la forma d'escombrat és sempre progressiva.
+
+En el sistema de HD de 1.080 línies i 1.920 mostres per línia tenim 2.073.600 píxels en la imatge i en el sistema de HD de 720 línies i 1.280 mostres per línies tenim 921.600 píxels a la pantalla. En relació amb els sistemes convencionals tenim que la resolució del sistema de 1.080 línies és 5 vegades més gran que el del PAL i cinc vegades i mitja que el del NTSC. Amb el sistema de HD de 720 línies és un 50% més gran que en PAL i un 66% més gran que en NTSC.ref Name=sony High definition television. Sony Training Services 2008 /ref
+
+L'alta resolució requereix també una redefinició de l'[[Espai de color sRGB|espai de color]] canviant el triangle de gamut. 
+
+==== La relació d'aspecte ====
+A la [[dècada de 1990]] es van començar a desenvolupar els sistemes de [[televisió d'alta definició]]. Tots aquests sistemes, en principi analògics, augmentaven el nombre de línies de la imatge i canviaven la [[relació d'aspecte]] passant del format utilitzat fins aleshores, relació d'aspecte 4/3, a un format més apaïsat de 16/9. Aquest nou format, més agradable a la vista es va establir com a estàndard fins i tot en emissions de definició estàndard.
+
+La [[relació d'aspecte]] s'expressa per l'amplada de la pantalla en relació a l'altura. El format estàndard fins a aquest moment tenia una relació d'aspecte de 4/3. L'adoptat és de 16/9. La compatibilitat entre les dues relacions d'aspecte es pot realitzar de diferents formes.
+
+Una imatge de 4/3 que es vagi a veure en una pantalla de 16/9 pot presentar-se de tres formes diferents:
+* Amb barres negres verticals a cada costat ('' pillarbox ''). Mantenint la relació de 4/3, però perdent part de la zona activa de la pantalla.
+* Engrandint la imatge fins que ocupi tota la pantalla horitzontalment. Es perd part de la imatge per la part superior i inferior de la mateixa.
+* Deformant la imatge per adaptar-la format de la pantalla. S'usa tota la pantalla i es veu tota la imatge, però amb la geometria alterada (els cercles es veuen el·lipses amb el diàmetre major orientat de dreta a esquerra).
+
+Una imatge de 16/9 que es vagi a veure en una pantalla de 4/3, de forma similar, té tres formes de veure's:
+* Amb barres horitzontals amunt i avall de la imatge ('' letterbox ''). Es veu tota la imatge però es perd mida de pantalla (hi ha diversos formats de ''letterbox'' depenent de la part visible de la imatge que es vegi (com més gran es faci més es retalla), s'usen el 13/9 i el 14/9).
+* Engrandint la imatge fins a ocupar tota la pantalla verticalment, perdent-se les parts laterals de la imatge.
+* Deformant la imatge per adaptar-la a la relació d'aspecte de la pantalla. Es veu tota la imatge en tota la pantalla, però amb la geometria alterada (els cercles es veuen elipses amb el diàmetre major orientat de dalt a baix).ref Name=sony/
+
+====PALplus ====
+A Europa Occidental, i on el sistema de televisió de la majoria dels països és el PAL, es va desenvolupar, amb suport de la Unió Europea, un format a cavall entre l'alta definició i la definició estàndard. El PALplus va ser una extensió del PAL per transmetre imatges de 16/9 sense haver de perdre resolució vertical. En un televisor normal es rep una imatge apaïsada amb franges negres amunt i avall de la mateixa (''letterbox'') de 430 línies actives. El PALplus manava informació addicional per omplir les franges negres arribant a 576 línies de resolució vertical.ref{{Ref-llibre |cognom=Brice |nom=Richard |títol=Newnes Guide to Digital TV |url=http://books.google.es/books?id=0Ghd6FSMXUUCpg=PA43dq=PALplushl=casa=Xei=5nD4UIv_M8rQ4QTbjYHADAved=0CEAQ6AEwAw#v=onepageq=PALplusf=false |llengua=anglès |editorial=Newnes |data=2002 |pàgines=p.43 |isbn=0080512739}}/ref Mitjançant senyals auxiliars que anaven en les línies de l'interval de sincronisme vertical es comandava al receptor PALplus indicant-li si la captació havia estat realitzada en escombrat progressiu o entrellaçat. El sistema es va ampliar amb l'anomenat Colorplus que millorava la descodificació del color.
+
+=== La digitalització ===
+[[Fitxer: Digital broadcast standards.svg|thumb|250px|[[Televisió Digital Terrestre]] en el món.]]
+A finals de la [[dècada de 1980]] es van començar a desenvolupar sistemes de digitalització. La digitalització en la televisió té dues parts ben diferenciades. D'una banda hi ha la digitalització de la producció i de l'altra la de la transmissió.
+
+Quant a la producció es van desenvolupar diversos sistemes de digitalització. Els primers d'ells estaven basats en la digitalització del senyal compost de vídeo que no van tenir èxit. El plantejament de digitalitzar les components del senyal de vídeo, és a dir la luminància i les diferències de color, va ser el que va resultar més idoni. En un principi es van desenvolupar els sistemes de senyals en paral·lel, amb gruixuts cables que necessitaven d'un fil per a cada bit, aviat es va substituir aquest cable per la transmissió multiplexada en temps de les paraules corresponents a cada una de les components del senyal, a més aquest sistema va permetre incloure l'àudio, embegut en la informació transmesa, i una altra sèrie d'utilitats.
+
+Per al manteniment de la qualitat necessària per a la producció de TV es va desenvolupar la norma de ''Qualitat Estudi'' CCIR-601. Mentre que es va permetre el desenvolupament d'altres normes menys exigents per al camp de les produccions lleugeres (EFP) i el periodisme electrònic (ENG).
+
+La diferència entre ambdós camps, el de la producció en qualitat d'estudi i la de en qualitat de ENG rau en la magnitud el flux binari generat en la digitalització dels senyals.
+
+La reducció del flux binari del senyal de vídeo digital va donar lloc a una sèrie d'algorismes, basats tots ells en la [[transformada de cosinus discreta|transformada discreta del cosinus]] tant en el domini espacial com en el temporal, que van permetre reduir aquest flux possibilitant la construcció d'equips més accessibles. Això va permetre l'accés als mateixos a petites empreses de producció i emissió de TV donant lloc a l'auge de les televisions locals.
+
+Pel que fa a la transmissió, la digitalització de la mateixa va ser possible gràcies a les tècniques de compressió que van aconseguir reduir el flux a menys de 5 [[megabit|Mbit]]/s, cal recordar que el flux original d'un senyal de qualitat d'estudi té 270 Mbit/s. Aquesta compressió és l'anomenada [[MPEG-2]] que produeix fluxos d'entre 4 i 6 Mbit/s sense pèrdues apreciables de qualitat subjectiva.
+
+Les transmissions de TV digital tenen tres grans àrees depenent de la forma de la mateixa tot i que són similars pel que fa a tecnologia. La transmissió es realitza per [[satèl·lit artificial|satèl·lit]], [[TV per cable|cable]] i via radiofreqüència terrestre, aquesta és la coneguda com [[TDT]].
+
+L'avanç de la informàtica, tant a nivell del maquinari com del programari, van portar a sistemes de producció basats en el tractament informàtic del senyal de televisió. Els sistemes d'emmagatzematge, com els magnetoscopis, van passar a ser substituïts per servidors informàtics de vídeo i els fitxers van passar a guardar les seves informacions en discs durs i cintes de dades. Els fitxers de vídeo inclouen els [[metadada|metadades]] que són informació referent al seu contingut. L'accés a la informació es realitza des dels propis ordinadors on corren programes d'edició de vídeo de manera que la informació resident al fitxer és accessible en temps real per l'usuari. En realitat els fitxers s'estructuren en tres nivells, l'''en línia'', per a aquella informació d'ús molt freqüent que resideix en servidors de discs durs, l'''near line'', informació d'ús freqüent que resideix en cintes de dades i aquestes estan en grans llibreries automatitzades, i el ''fitxer profund'' on es troba la informació que està fora de línia i precisa de la seva incorporació manual al sistema. Tot això està controlat per una base de dades on figuren els seients de la informació resident en el sistema.
+
+La incorporació d'informació al sistema es realitza mitjançant la denominada funció d'ingesta. Les fonts poden ser generades ja en formats informàtics o són convertides mitjançant conversors de vídeo a fitxers informàtics. Les captacions realitzades en el camp per equips de ENG o EFP es graven en formats compatibles amb el de l'emmagatzematge utilitzant suports diferents a la cinta magnètica, les tecnologies existents són DVD de raig blau (de Sony), gravació en memòries ram (de Panasonic) i enregistrament en disc dur (de Ikegami).
+
+L'existència dels servidors de vídeo possibilita l'automatització de les emissions i dels programes d'informatius mitjançant la realització de llistes d'emissió, els anomenats ''play out''.
+
+== Referències ==
+{{referències|2}}
+
+{{Commonscat}}
+
+
+{{ORDENA:Historia De La Televisio}}	!--ORDENA generat per bot--
+[[Categoria:Història de la tecnologia|Televisio]]
+[[Categoria:Televisió]]
+
+[[nl:Geschiedenis van de televisie]]
+[[sv:Televisionens historia]]</text>
+      <sha1>jbjd7eafnlhm95mwizzdneg7l3xvynv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

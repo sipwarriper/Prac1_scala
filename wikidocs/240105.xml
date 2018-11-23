@@ -1,0 +1,127 @@
+<page>
+    <title>Claude Elwood Shannon</title>
+    <ns>0</ns>
+    <id>240105</id>
+    <revision>
+      <id>13842745</id>
+      <parentid>13709109</parentid>
+      <timestamp>2014-07-16T09:13:45Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció: espais que falten darrere de punt</comment>
+      <text>{{MT|data=febrer de 2013}}
+{{millorar ortografia|data=abril de 2013}}
+{{Infotaula persona
+| Box_width = px 300
+| nom = Claude Shannon
+| imatge =
+| peu = 
+| data_naix = {{data naixement |1916|04|30}}
+| lloc_naix = [[Petoskey]], [[Michigan]], [[Estats Units]]
+| data_mort = {{Data defunció i edat |2001|02|24|1916|04|30}}
+| lloc_mort = [[Medford (Massachusetts)|Medford]], [[Massachusetts]] [[Estats Units]]
+| educació = enginyer, matemàtiques
+| residència = [[Estats Units]]
+| nacionalitat = [[Estats Units]]
+| conegut_per = pare fundador de la [[teoria de la informació]]
+| empleat = enginyer, investigador a la [[Bell]] 
+}}
+'''Claude Elwood Shannon''' ([[30 d'abril]] de [[1916]] - [[24 de febrer]] de [[2001]]), va ser un [[enginyeria electrònica|enginyer electrònic]] i [[matemàtic]] [[estatunidenc]], recordat per ser el pare de la [[teoria de la informació]].
+
+== Biografia ==
+Va estudiar [[enginyeria elèctrica]] i [[matemàtiques]] a la [[Universitat de Michigan]] el [[1932]]. Per usos, inclosa l'[[àlgebra de Boole (lògica)|Àlgebra de Boole]] per al seu control el suport de [[1938]] a [[Massachusetts Institute of Technology]] (MIT). En ell s'explica com construir màquines [[Relé Electromecànic]] utilitzant l'àlgebra de Boole per a descriure l'estat del relè (1: Tancat, 0: obert).
+
+Shannon treballat vint anys a [[Massachusetts Institute of Technology|MIT]] de [[1958]] a [[1978]]. Paral·lelament a les seves activitats acadèmiques, també va treballar amb [[Laboratoris Bell]] de [[1941]] a [[1972]].
+
+Claude Shannon és conegut no només pel seu treball en telecomunicacions, sinó també per l'amplitud i l'originalitat de les seves aficions, com els jocs [[malabars]], la pràctica del [[monocicle]] i la invenció de màquines extravagants : el ratolí intel·ligent mecànic que sap trobar el seu camí a través d'un laberint, un robot malabarista, un jugador d'escacs (torre contra rei Rei), etc. Un d'aquests gadgets, però això, té un gran interès conceptual, com ho demostren [[Philip Baker]] i [[Alain Cohen]] En ''El Tresor [[paradoxa]]'' ([[Edicions Belin]] 2007): Claude Shannon seria desenvolupar una  màquina de forma gratuïta, sense fi: es posa en moviment al pressionar, com amb qualsevol dispositiu electromecànic, amb un interruptor d'encesa, però després les coses prenen un gir sorprenent, ja que aquest ajust activa un mecanisme que condueix a aturar immediatament el gadget a través de l'interruptor de apagat ! Aquest tipus de comportament estrany passa en situacions on la comunicació ubiqua rau, paradoxalment, en l'absència de comunicació, la utilitat en la manca d'utilitat. Exemples: La moda és el que passa de moda ([[Jean Cocteau]]), la Creació de l'Escola ([[l'escola freudiana]]) per dissoldre ([[Jacques Lacan]]); Ens adonem que el son, al despertar-nos ([[John Lennon]]); El bon funcionament de tot el sistema d'estalvi per a l'habitatge implica, paradoxalment, que alguns propietaris de dret (els bons germans) renunciïn específicament al seu dret a un préstec després d'un període d'estalvi (Pierre Chaillol); Els ideals revolucionaris només poden ser pertorbat quan s'assoleixen: la necessitat que segons ell va ser condemnat a perdre per aconseguir, menys distorsionat i traït pels seus enemics per les mateixes persones que volien fer complir ([[Jean Starobinski]]), La virginitat es perd per provar-la([[Fernand Crommelynck]]). Un avatar geoestratègic d'aquest autòmat paradoxal Shannon està en el concepte de [[dissuasió]] potències nuclears construint una bomba atòmica per tal de ... prohibir qualsevol intent d'utilitzar aquestes armes, es neutralitza l'un a l'altre i: no s'utilitza !
+
+Va patir la malaltia de [[malaltia d'Alzheimer]] en els últims anys de la seva vida, Claude Shannon va morir als 84 anys el 24, febrer, 2001 a [[Medford (Massachusetts)|Medford]], [[Massachusetts]].
+
+==La seva obra ==
+Durant la Segona Guerra Mundial, Shannon va treballar per als serveis secrets militars, en criptografia, a càrrec de localitzar automàticament en el Codi de les parts que significa enemic ocult enmig de la interferència. La seva obra s'exhibeix en un informe secret (desclassificat tan sols en la dècada de 1980), que dóna a llum després de la guerra a un element, ''Teoria Matemàtica de la Comunicació'' (1948), que va ser incorporada a [[1949]] com llibre amb una addició de [[Warren Weaver]], el seu superior en la intel·ligència. Aquest llibre se centra en el problema de la transmissió de senyals.
+
+===L'esquema de Shannon === 
+Per a descriure la comunicació entre les màquines, l'article 1948 i 1949, tant llibre comença amb un patró, que va arribar quan els fills sorprenent en [[Informàtica i Comunicació]], de manera que Shannon va ser sorprès i que es dissocia. Els models de sistema de la comunicació entre màquines de
+
+Aquest patró és la traducció de civil d'un sistema utilitzat prèviament en el context militar:
+
+* Font? codificador? del senyal? descodificador? abordar en el context de la interferència.
+
+Adequada per a descriure la comunicació entre màquines, aquesta comunicació imperfecta models de patró humà{{}}referència obligada. No obstant això, el seu èxit és aclaparadora, i va estar molt involucrat en la creació d'un camp disciplinari, el [[Ciències de la Informació i la Comunicació]]. Una explicació d'aquest èxit és que combina a la perfecció amb un enfocament [[comportament]] mitjans de comunicació. D'altra banda, aquest sistema dóna una canònica diu que la coherència i l'aparença de respectabilitat científica.
+
+=== Unitat de mesura===
+A l'article, com en el llibre, es va popularitzar l'ús de la paraula [[Bit (ordinador)|bit]] com una mesura bàsica de la informació [[digital]]. [[John W. Tukey]] va ser, però el primer a utilitzar el terme. Més precisament, el bit és el nombre de bits necessaris per codificar una gran quantitat d'informació. Per tant, es necessita com a mínim un bit per codificar els dos estats (per exemple, Bateria Pressupost cara o, més generalment 0 i 1), dos bits utilitzat per a codificar quatre estats (00, 01, 10, 11). Les 26 lletres de l'alfabet, requereixen com a mínim 5 bits, ja que:
+math (2^4 = 16) 26\le (2^5 = 32) /math
+
+Més en general, si ''p '' és el nombre d'estats possibles, ''n '' el nombre de bits necessaris per codificar tots els controls:
+
+math2^{(n-1)} \ p 2^n /math
+
+En un cas ideal en que s'utilitzi tota la informació disponible, math p = 2^n /math.
+
+===Telecomunicacions===
+En les telecomunicacions, la relació de Shannon es pot calcular la [[valència (xarxa)|valència]] (o nombre màxim d'estats) de Disturbed:
+
+Suposem que el senyal S, N, el soroll:
+
+math n =\sqrt 1+{\frac S{}{}n}/math
+
+Va ser llavors quan el flux màxim:
+
+math log_2 H (1+\frac S{}{}N) /math
+
+Aquest resultat és independent de la freqüència de mostreig i el nombre de nivells d'una mostra (la valència).
+
+===L'Entropia de Shannon ===
+{{principal|Entropia de Shannon}}
+Una contribució clau de l'obra de Shannon en el concepte d'[[Entropia de Shannon|entropia]]. Si tenim en compte els esdeveniments N de probabilitat p sub 1 /sub, p sub 2 /sub ... p sub N /sub, independents els uns dels altres, llavors la seva entropia de Shannon es defineix com:
+
+math Entropia = -\sum_ i = 1{}^p_i N log_2 (p_i) /math
+
+També:
+* Establiment d'una relació entre l'entropia creixent i l'augment de la informació;
+* Demostrar l'equivalència d'aquest concepte amb l'[[entropia]] de [[Ludwig Boltzmann]] de [[termodinàmica]].
+
+El descobriment del concepte d'obert el camí per mètodes anomenats de màxima [[entropia]] (veure [[probabilitat]]), llavors el [[Imatge mèdica|Scanner]], salut, [[Reconeixement d'escriptura a mà|reconeixement automàtic de caràcters]] i l'[[aprenentatge automàtic]].
+
+===Teoremes === 
+El seu nom està associat amb diversos teoremes, la [[Teorema de mostreig de Nyquist-Shannon]]
+en el mostreig, [[primer teorema de Shannon]] en el límit teòric de la [[compressió de dades|compressió]] el [[segon teorema de Shannon]] en la capacitat d'un [[canal de comunicació|canal de transmissió]].
+
+==Anècdotes == 
+
+* El 1981, Claude Shannon va començar a escriure un article titulat '' Aspectes científics de malabarisme '' en l'art de la [[malabars]]. Aquest article va ser programat per a la seva publicació en '' [[Scientific American]] '', però no era en última instància el cas. No obstant això, aquest projecte va ser la base per a la formalització dels moviments de malabarisme '' [[siteswap]] ''.ref{{en}}'' [http://www.jugglingdb.com/compendium/index.php ? id = 255 La invenció de les notacions Juggling] '' /ref
+
+== Vegeu també ==
+* [[Teorema de mostreig de Nyquist-Shannon]].
+* [[Cibernètica]].
+* [[Norbert Wiener]].
+* [[Nombre de Shannon]].
+
+== Referències ==
+{{Referències}}
+
+==Enllaços externs==
+* [http://hdl.handle.net/1721.1/11173 Claude E. De Shannon, '' Una anàlisi Simbòlic de Circuits Commutadors i Relés '', Tesi (MS), Massachusetts Institute of Technology, Dept. d'Enginyeria Elèctrica, 1940 ]
+* [http://pespmc1.vub.ac.be/books/Shannon-TheoryComm.pdfClaude E. Shannon, '' La Teoria Matemàtica de la Comunicació de, Bell System Technical Journal '', vol. 27{{}}p. 379-423 i 623-656, juliol i octubre de 1948] {{pdf}}ISBN 0252725484 
+* Claude E. De Shannon, '' Teoria de la Comunicació dels Sistemes Secrets '' Bell System Technical Journal, Vol 28,{{}}p. 656-715, octubre de 1949. ([llegir http://www.prism.net/user/dcowley/docs.html])
+* [http://livre01.free.fr J. Segal, Darkness '' i â '', Syllepse, París, 2003 ]
+
+{{Portal|Informàtica}}
+{{Autoritat}}
+{{Esborrany d'estatunidenc}}
+
+{{ORDENA:Shannon, Claude}}
+
+[[Categoria:Enginyers estatunidencs]]
+[[Categoria:Informàtics estatunidencs]]
+[[Categoria:Matemàtics estatunidencs]]
+[[Categoria:Persones de Michigan]]</text>
+      <sha1>gc3biy1vlcx1wiobyy0ri5juw7ki2tv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

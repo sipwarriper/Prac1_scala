@@ -1,0 +1,182 @@
+<page>
+    <title>Danizy</title>
+    <ns>0</ns>
+    <id>845160</id>
+    <revision>
+      <id>13645741</id>
+      <parentid>13473633</parentid>
+      <timestamp>2014-06-23T07:20:43Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>{{Infotaula de municipi de França|de |Danizy|
+| escut= Blason ville fr Danizy 02.svg
+| fotografia = 
+| fotografia_descripció = 
+| latitud = 49.66623
+| longitud = 3.389992
+| cantó = [[Cantó de La Fère|La Fère]]
+| codi_insee = 02260
+| codi_postal = 02800
+| dirigent_tipus1 = Batlle
+| dirigent1 = Gilbert Pottier
+| superfície = 4
+| web = 
+}}
+'''Danizy''' és un [[municipi]] [[França|francès]], situat al departament de l'[[Aisne]] i a la regió de [[{{Padró INSEE/Nom de regió|{{Padró INSEE/Regió|{{Padró INSEE/Departament|02260}}}}}}]]. L'any 2007 tenia 553 habitants. El municipi va agermanar-se amb el municipi de [[Sandbostel]] a la [[Baixa Saxònia]], on durant la [[Segona Guerra Mundial]] milers de francesos van ser internats com a presoners de guerra al camp Stalag X B.
+
+== Demografia ==
+
+=== Població ===
+El 2007 la població de fet de Danizy era de 553 persones. Hi havia 220 famílies de les quals 56 eren unipersonals (28 homes vivint sols i 28 dones vivint soles), 72 parelles sense fills, 72 parelles amb fills i 20 famílies monoparentals amb fills.
+
+La població ha evolucionat segons el següent gràfic:ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=poplog-com Population et logements par commune depuis le recensement de 1962 (1961 pour les Dom) à 1999] {{fr}}/ref
+
+''Habitants censats''
+timeline
+Colors=
+ id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:350 height:373
+PlotArea = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:1000
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50 start:0
+ScaleMinor = gridcolor:lightgrey increment:10 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1962 text:1962
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2007 text:2007
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1962 from:0 till: 484
+ bar:1968 from:0 till: 492
+ bar:1975 from:0 till: 586
+ bar:1982 from:0 till: 619
+ bar:1990 from:0 till: 560
+ bar:1999 from:0 till: 560
+ bar:2007 from:0 till: 553
+
+PlotData=
+
+ bar:1962 at: 484 fontsize:S text: 484 shift:(-8,5)
+ bar:1968 at: 492 fontsize:S text: 492 shift:(-10,5)
+ bar:1975 at: 586 fontsize:S text: 586 shift:(-10,5)
+ bar:1982 at: 619 fontsize:S text: 619 shift:(-10,5)
+ bar:1990 at: 560 fontsize:S text: 560 shift:(-10,5)
+ bar:1999 at: 560 fontsize:S text: 560 shift:(-10,5)
+ bar:2007 at: 553 fontsize:S text: 553 shift:(-10,5)
+
+TextData=
+ fontsize:S pos:(20,20)
+ text:font INSEE - elaboració gràfica pròpia
+
+/timelinenoinclude
+
+=== Habitatges ===
+El 2007 hi havia 251 habitatges, 224 eren l'habitatge principal de la família, 7 eren segones residències i 20 estaven desocupats. 250 eren cases i 1 era un apartament. Dels 224 habitatges principals, 182 estaven ocupats pels seus propietaris, 39 estaven llogats i ocupats pels llogaters i 3 estaven cedits a títol gratuït; 2 tenien una cambra, 17 en tenien dues, 25 en tenien tres, 73 en tenien quatre i 107 en tenien cinc o més. 155 habitatges disposaven pel capbaix d'una plaça de pàrquing. A 108 habitatges hi havia un automòbil i a 90 n'hi havia dos o més.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=base-cc-logement Logement, 1968-2007]/ref
+
+=== Piràmide de població ===
+La piràmide de població per edats i sexe el 2009 era:
+
+{{Piràmide de població 2
+|float=left
+|width=50%
+|maxvalue=55.2
+|bg=rgb(90%,90%,90%)
+|border=1px solid black|margin-top=1ex
+|caption=[[Piràmide de població]] de '''Danizy''' el [[2009]].ref{{Lien web|url=http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=pop-sexe-age-quinquennal| títol =Population par sexe et âge quinquennal de 1968 à 1999| site = http://www.recensement-2007.insee.fr | consultat = 13/07/2010}}/ref
+|barcolor=rgb(70%,90%,70%)
+|{{mida|80%|95 o +}}|0|0
+|{{mida|80%|90 a 94}}|0|0
+|{{mida|80%|85 a 89}}|0|8
+|{{mida|80%|80 a 84}}|4|0
+|{{mida|80%|75 a 79}}|12|20
+|{{mida|80%|70 a 74}}|12|12
+|{{mida|80%|65 a 69}}|24|20
+|{{mida|80%|60 a 64}}|20|20
+|{{mida|80%|55 a 59}}|16|16
+|{{mida|80%|50 a 54}}|20|20
+|{{mida|80%|45 a 49}}|28|32
+|{{mida|80%|40 a 44}}|16|8
+|{{mida|80%|35 a 39}}|8|4
+|{{mida|80%|30 a 34}}|48|20
+|{{mida|80%|25 a 29}}|8|20
+|{{mida|80%|20 a 24}}|20|8
+|{{mida|80%|15 a 19}}|28|8
+|{{mida|80%|10 a 14}}|20|8
+|{{mida|80%|5 a 9}}|4|4
+|{{mida|80%|0 a 4}}|24|8
+
+}}
+
+== Economia ==
+
+
+
+El 2007 la població en edat de treballar era de 354 persones, 232 eren actives i 122 eren inactives. De les 232 persones actives 202 estaven ocupades (117 homes i 85 dones) i 30 estaven aturades (13 homes i 17 dones). De les 122 persones inactives 42 estaven jubilades, 25 estaven estudiant i 55 estaven classificades com a altres inactius.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=base-cc-emploi-pop-active Emploi et population active 1999 et 2007]/ref
+
+=== Ingressos ===
+El 2009 a Danizy hi havia 227 unitats fiscals que integraven 557 persones, la [[mediana]] anual d'ingressos fiscals per persona era de 17.064€.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=base-cc-rev-fisc-loc-menage Revenus fiscaux des ménages en 2008]/ref
+
+=== Activitats econòmiques ===
+Dels 12 establiments que hi havia el 2007, 1 era d'una empresa extractiva, 2 d'empreses de construcció, 2 d'empreses de comerç i reparació d'automòbils, 1 d'una empresa d'hostatgeria i restauració, 1 d'una empresa immobiliària, 1 d'una empresa de serveis, 2 d'entitats de l'administració pública i 2 d'empreses classificades com a altres activitats de serveis.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=etab-com Créations et stock d'établissements par commune en 2009]/ref
+
+Dels 4 establiments de servei als particulars que hi havia el 2009, 1 era un taller de reparació d'automòbils i de material agrícola, 1 paleta, 1 lampisteria i 1 veterinari.ref[http://www.insee.fr/fr/bases-de-donnees/default.asp?page=statistiques-locales/car-ser.htm Nombre d'équipements des services aux particuliers]/ref
+
+== Equipaments sanitaris i escolars ==
+
+El 2009 hi havia una escola elemental. 
+
+
+
+== Poblacions més properes ==
+El següent diagrama mostra les poblacions més properes.
+
+div style=position: relative; float:left; width:450px;
+ [[Fitxer:Blank map.svg|400px|left|enllaç=|Distàncies i posició relativa d'algunes poblacions]] 
+ {{Image label|x=0.506|y=0.495|scale=400|text=[[Fitxer:Map pointer black.svg|20px|Danizy|]]'''Danizy'''}}
+{{Image label|x=0.408643884404|y=0.651211104615|scale=400|text=[[Fitxer:Small-city-symbol.svg|10px|Població amb 1693 habitants (2000)]]{{mida|80%|[[Charmes (Aisne)|Charmes]] (1,6km)}}}}
+{{Image label|x=0.307779042885|y=0.547551529716|scale=400|text=[[Fitxer:Small-city-symbol.svg|12px|Població amb 2962 habitants (2000)]]{{mida|80%|[[La Fère]] (1,8km)}}}}
+{{Image label|x=0.516465800296|y=0.152680072611|scale=400|text=[[Fitxer:Small-city-symbol.svg|8px|Població amb 539 habitants (2000)]]{{mida|80%|[[Achery]] (3,0km)}}}}
+{{Image label|x=0.342429694603|y=0.819320882287|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 175 habitants (2000)]]{{mida|80%|[[Andelain]] (3,1km)}}}}
+{{Image label|x=0.834661588787|y=0.692792238436|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 78 habitants (2000)]]{{mida|80%|[[Rogécourt]] (3,2km)}}}}
+{{Image label|x=0.263661326937|y=0.219061539621|scale=400|text=[[Fitxer:Small-city-symbol.svg|8px|Població amb 612 habitants (2000)]]{{mida|80%|[[Travecy]] (3,2km)}}}}
+{{Image label|x=0.156066147208|y=0.664892110699|scale=400|text=[[Fitxer:Small-city-symbol.svg|12px|Població amb 2679 habitants (2000)]]{{mida|80%|[[Beautor]] (3,4km)}}}}
+{{Image label|x=0.889747519046|y=0.664169396784|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 454 habitants (2000)]]{{mida|80%|[[Versigny (Aisne)|Versigny]] (3,5km)}}}}
+/divbr clear=left
+
+
+== Referències ==
+{{Commonscat|Danizy}}
+
+{{referències}}
+{{refbegin}}
+*[http://www.statistiques-locales.insee.fr/FICHES%5CRS%5CDEP%5C02%5CCOM%5CRS_COM02260.pdf Résumé statistique] Fitxa resum de dades estadístiques de Danizy a l'[[INSEE]].
+*[http://www.statistiques-locales.insee.fr/FICHES%5CDL%5CDEP%5C02%5CCOM%5CDL_COM02260.pdf Évolution et structure de la population] Fitxa amb el detall de dades de Danizy a l'[[INSEE]]
+*[http://www.statistiques-locales.insee.fr/carto/ESL_CT_cartethematique.asp?lang=FRnivgeo=COM France par comune] Dades detallades de totes les comunes de França accessibles a partir del mapa.
+{{refend}}
+
+{{Municipis Aisne}}
+[[Categoria:Municipis de l'Aisne]]</text>
+      <sha1>49wnvkq13i9texqewxccnn0ucc4fqn0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

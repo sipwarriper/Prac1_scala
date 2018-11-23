@@ -1,0 +1,101 @@
+<page>
+    <title>Mira Norden</title>
+    <ns>0</ns>
+    <id>1054445</id>
+    <revision>
+      <id>13776900</id>
+      <parentid>13662856</parentid>
+      <timestamp>2014-07-10T04:49:42Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Norden bombsights]]</comment>
+      <text>{{MM|2L = si|| data = gener de 2013 | FR = si}}
+[[fitxer: Norden bombsight.jpg|thumbnail|250px|Capçal de punteria de la Mira Norden.]]
+[[fitxer: Bifnordennomenclature.jpg|thumbnail|250px|Una pàgina del '' Bombardier s Information File '' (BIF), que descriu els components i controls de la Mira Norden.]]
+[[fitxer: ThomasFerebee.jpg|thumb|200px|Thomas Ferebee, bombarder del [[Enola Gay]], amb la Mira Norden en [[Tinian]] després de llançar la bomba atòmica sobre [[Hiroshima]].]]
+
+La ''' Mira Norden ''' era un dispositiu usat per la Força Aèria dels Estats Units d'Amèrica durant la [[Segona Guerra Mundial]], la [[Guerra de Corea]] i la [[Guerra del Vietnam]] per ajudar a les tripulacions dels bombarders a llançar la seva càrrega amb precisió. La seva manera de funcionament va ser gelosament guardat durant la [[Segona Guerra Mundial]].
+
+== Disseny i funcionament ==
+La Mira Norden va ser dissenyada per al seu ús en els avions de la Marina dels Estats Units. El seu creador va ser [[Carl Norden]], un enginyer [[Països Baixos|holandès]] educat a [[Suïssa]] i que va emigrar als Estats Units el [[1904]]. Va treballar a la [[Sperry Corporation]] dissenyant mires, abans de fundar la seva pròpia companyia. L'empresa Norden va ser adoptada per la [[USAAF]]. Abans de la Segona Guerra Mundial la Mira Norden es construïa a la planta que la Norden posseïa a la ciutat de [[Nova York]]. Un cop començada la guerra, altres companyies van començar a fabricar-la, donant lloc a un gran nombre de variants, encara que amb mínimes diferències.
+
+El sistema Norden consistia en dues parts principals, el '' estabilitzador '' i el '' capçal de punteria ''. El estabilitzador era una plataforma que anivellava mitjançant un [[giroscopi]], de manera que proporcionava al capçal de punteria una base estable des de la qual actuar. El estabilitzador solia estar unit al [[pilot automàtic]] de l'avió, el que permetia que aquest corregís el seu curs fins que arribés el mateix punt que el capçal de punteria. Aquest havia de ser acuradament alineat amb l'estabilitzador per assegurar que apuntava en la mateixa direcció que l'avió.
+
+El capçal de punteria contenia els principals components de la mira. Aquesta consistia principalment de tres parts, un ordinador mecànic analògic que calculava el punt d'impacte de les bombes en un angle amb relació a la posició de l'avió, un petit telescopi usat com mira primària, i un conjunt de motors elèctrics i giroscopis que movien el telescopi, fent que un únic punt del sòl quedi fix en la mira. Els primers models de la Mira Norden van ser equipades amb un dispositiu giroscòpic d'anivellament automàtica per mantenir estabilitzat el capçal de punteria, però es va comprovar que era difícil de mantenir i es va retirar de la majoria dels models, canviant-lo per una simple [[Nivell ( instrument)|bombolla]].
+ 
+El sistema funcionava apuntant el telescopi des de la part frontal de l'avió, per tal de poder localitzar el blanc mentre s'aproximava a aquest. Moltes Mires Norden van ser equipades amb una mira reflectora per ajudar durant aquesta etapa. Després d'encendre, els motors del capçal de punteria de la mira tractarien de mantenir el telescopi apuntant directament al blanc seleccionat, girant lentament el telescopi cap a la seva vertical mentre l'avió s'acosta al blanc. Ja que el canvi en la taxa d'angle depèn de la distància de l'avió respecte a aquest i la velocitat d'aproximació, el bombarder introduïa a l'ordinador mecànic estimacions de la velocitat aèria i l'altitud, les quals podien llegir-se amb precisió des del instrumental del avió.
+
+El proporcionar la velocitat terrestre amb precisió, va ser una de les fonts de la major exactitud de la Mira Norden en comparació amb altres instruments contemporanis. La velocitat terrestre no podia ser mesurada directament des de l'avió, si més no fins a la introducció de diferents aparells de [[radar]], de manera que havia de ser calculada mitjançant el mesurament de la velocitat aèria coneguda i una velocitat del vent calculada. La Norden va ser utilitzada per fer aquests mesuraments. Durant l'aproximació final al blanc, el bombarder podia seleccionar un blanc de prova fàcilment visible i encendre la mira amb els seus paràmetres per defecte. Ja que l'avió no tenia informació sobre la velocitat del vent, el blanc de prova es mouria a la deriva en l'ocular mentre l'avió s'allunyava d'aquest. Llavors el bombarder ajustava la mira emprant un joc separat de dials per ajustos fins que podien girar al tacte mentre es mirava a través de l'ocular, per ajustar les taxes de deriva fins que el blanc de prova deixi de moure en l'ocular. Els dials donaven un mesurament precís de la velocitat del vent, la qual podia emprar durant la missió de bombardeig. Aquesta mesura era molt més precisa que la que ofereix el telescopi de deriva del navegant o el [[dead Reckoning]].
+
+Quan la mira estava preparada i l'avió es trobava en el tram final de acercamientro, el sistema era encesa i prenia control del [[pilot automàtic]] de l'avió. A partir d'allí, la mira literalment pilotava l'avió i tractava de mantenir-lo en el curs fixat, acceptant ajustaments d'últim moment del bombarder. En el moment adequat, deixaria anar automàticament les bombes, l'avió es movia a més de 30 metres per segon (100 peus per segon), fent que fins a les més petites interrupcions en la sincronització afectin dramàticament la punteria (un problema comú dins del [[Comandament de Bombardeig|Bomber Command]]).
+
+Al front europeu, els nord-americans van introduir un Equip de Control del Vol Automàtic (ECVA) i un sistema de radar anomenat H2X (Mickey), que eren emprats al costat de la Mira Norden. El ECVA era un ordinador mecànic que servia com pilot automàtic. El radar va demostrar ser més precís en regions costaneres, on la superfície de l'aigua i la línia costanera produïen un ressò de radar característic.
+
+== Eficiència operacional ==
+
+La Mira Norden va ser desenvolupada durant un període de no-intervencionisme, quan l'estratègia militar nord-americana imperant era la defensa dels Estats Units i les seves possessions. Una gran part d'aquesta estratègia es basava en aturar els intents d'atac per mar, tant directament amb unitats navals com, a partir de 1930, amb les unitats aèries de la [[Forces Aèries de l'Exèrcit dels Estats Units|USAAF]].
+
+Els avions havien demostrat la seva viabilitat com a arma anti-vaixell, però atacar un vaixell en moviment era una operació difícil. La major part de les forces armades d'aquell llavors havien invertit grans sumes en [[Bombarder en picat|bombarders en picat]] i [[Avió torpediner|torpederos]], però aquests tenien un abast limitat i només eren aptes, estratègicament parlant, per emprar a bord d'[[Portaavions|portaavions]]. En canvi, l'Exèrcit Nord-americà invirtó en la combinació de la Mira Norden i el [[Boeing B-17 Flying Fortress|B-17]], que es creia capaç de tenir la suficient precisió com per permetre a les formacions de bombarders B- 17 atacar vaixells en alta mar des de les bases terrestres de la USAAF. En emprar la Mira Norden, els bombarders en teoria podien llançar les seves bombes dins d'un cercle de 30 metres (100 peus) d'una alçada de més de 7 quilòmetres (20.000 peus). La gran altitud els permetia als avions trajectes de llarg abast i els mantenia allunyats de l'abast de la majoria de canons antiaeris embarcats, donant a la bomba llançada una gran probabilitat d'impactar en el blanc. La Mira Norden va ser promocionada com l'eina per guanyar la guerra, sovint es deia que la mira podia llançar bombes dins de barrils.
+
+A la pràctica, la Mira Norden mai va arribar a obener impactes necessaris, com aquells de la qual era teòricament capaç. La [[Royal Air Force|RAF]] va ser la primera a emprar el B-17 en combat, reportant resultats summament pobres i eventualment convertint els seus avions per a altres missions. Les operacions antibuque de la USAAF a l'Extrem Orient van ser en general infructuoses, i encara que va haver nombroses afirmacions d'enfonsaments, l'única missió reeixida confirmada va tenir lloc durant la Batalla de les Filipines (1941-1942) quan els B-17 van danyar a dos vaixells de càrrega japonesos, al creuer '' Naka '' i al destructor '' Murasame '', a més d'enfonsar un barreminas. Encara que aquests èxits van ser una excepció a la regla, les operacions durant la [[Batalla del Mar del Coral]] o la [[Batalla de Midway]], per exemple, van ser completament infructuoses. La USAAF va reemplaçar tots els seus B-17 amb altres avions, a més de començar a emprar la tècnica del bombardeig de rebot.
+
+Sent emprada a Europa, la Mira Norden també va demostrar tenir una pobra precisió real. Sota condicions perfectes, només el 50% de les bombes nord-americanes queien en un radi d'un quart de milla del blanc i els pilots estimaven que el 90% de les bombes no impactarien en el blanc.ref Geoffery Perrett, There 'sa War to Be Won: The United States Army in World War II (1991) p. 405 /refref Edward K. Eckert, In War and Peace: An American Military History Anthology (1990) p. 260 /refref Micheal C.C. Adams, The Best War Ever: America in World War Two (1994) p.54 /ref Tot i això, molts bombarders veterans que van volar a bord dels [[Boeing B-17 Flying Fortress|B-17]] i [[Consolidated B-24 Liberator|B-24]] juren sobre la Mira Norden.
+
+Diversos factors han estat esmentats per explicar el pobre acompliment de la Mira Norden. Sobre Europa, la coberta de núvols era una explicació corrent, tot i que el desenvolupament no millorava fins i tot en condicions favorables. La precisió va millorar amb la introducció de la idea del bombarder líder, en la qual només un avió utilitzaria la Mira Norden mentre que els altres deixarien anar les seves bombes a l'ordre d'aquest. Això suggereix que la major part del problema és atribuïble al bombarder. Sobre [[Japó]], les tripulacions dels bombarders ràpidament van descobrir forts vents a gran altitud, els anomenats [[Corrent en doll|jet streams]], però la Mira Norden funcionava només amb velocitats de vent que tinguessin una variació mínima. Addicionalment, l'altitud de bombardeig sobre Japó arribava a més de 9 quilòmetres (30.000 peus) i la major part de les proves havien estat efectuades molt per sota de 7 quilòmetres (20.000 peus). Un altre factor addicional era que la forma i fins i tot la pintura de la carcassa de la bomba modificaven enormement les propietats aerodinàmiques de l'arma, i per aquell temps, ningú sabia com calcular la trajectòria de bombes que assolien velocitats supersòniques durant la seva caiguda.
+
+Una vulnerabilitat en ambdós fronts era que quan el bombarder activava el pilot automàtic en emprar la mira, l'avió era més susceptible a ser assolit per l'artilleria anti-aèria i topar amb altres avions.
+
+Com aparell mecànic, la Mira Norden emprava una maquinària complexa que consistia en diversos [[Engranatge|engranatges]] i [[rodament]] s, els quals eren proclius a causar imprecisions si no rebien un manteniment adequat. De fet, diverses mires van ser enviades al capdavant sense haver estat provades amb anterioritat. I moltes vegades, el bombarder havia oliar i reparar errors pel seu compte. Per un bon temps després de l'inici de la guerra, simplement no es disposava d'un bon nombre d'equips de tècnics qualificats i dotats amb les eines necessàries (vegeu a sota).
+
+== Seguretat en temps de guerra ==
+[[fitxer: 463rd AFCE and Bombsight Shop  Men.gif|thumb|Fotografia de l'equip del Taller de la AFCE i de Miras de Bombardeig del Grup de Servei dels Magatzems de Pertrechos 436, adjunt al Grup de Bombardeig 389 de la USAAF amb base en Hethel, Norfolk, [[Anglaterra]].]]
+ 
+Ja que la Mira Norden era considerada un vital instrument de guerra, els bombarders havien de fer un jurament durant el seu entrenament, en el qual afirmaven defensar el secret d'aquesta fins i tot amb la seva pròpia vida. En cas que l'avió hagués de fer un aterratge d'emergència en territori enemic, el bombarder havia disparar amb la seva [[M1911|pistola]] a les parts vitals de la Mira Norden per inutilitzar. Però com aquest mètode deixaria l'enemic un instrument gairebé intacte, es va instal·lar una granada de [[Tèrmit (barreja reactant)|thermita]], la calor de la reacció química fondria la Mira Norden fins a transformar-la en un terròs de metall.
+
+Després de cada missió complerta, els tripulants del bombarder sortien de l'avió portant una bossa que dipositaven en una caixa forta (la Volta de Bombes). Aquesta oficina segura (el Taller de la AFCE i de Miras de Bombardeig) es trobava habitualment dins d'una barraca Nissen (barraca Quonset) de la base. El Taller de Miras de Bombardeig era operat per recultas del Grup de Servei dels Magatzems de Pertrechos adjunt a cada grup de bombardeig de la USAAF. Aquests tallers no només guardaven les mires, sinó que també s'ocupaven del vital manteniment de la Mira Norden i els seus equips de control adjunts. Aquest era probablement el treball que requeria la major qualificació tècnica dins dels equips del personal terrestre, així com el més secret de tots els treballs efectuats pel personal del Grup de Servei dels Magatzems de Pertrechos. El [[suboficial]] a càrrec i el seu equip havien de tenir una gran capacitat per comprendre i treballar amb aparells mecànics.
+
+En apropar la fi de la [[Segona Guerra Mundial]], el secret de la mira va ser reduït gradualment, tot i això, no va ser sinó fins a 1944 quan va tenir lloc la primera exhibició pública de l'instrument.
+
+Va ser emprada per última vegada en combat pel Naval Air Observation Squadron Sixty-Seven (VO-67), durant la [[Guerra del Vietnam]]. Les mires van ser emprades en l'[[Operació Igloo White]] per implantar Detectors d'intrusió Seismícos Aero-Transportats (DISAT) al llarg de la [[Ruta Ho Chi Minh]].
+
+== Espionatge ==
+[[fitxer: Fbi herman w lang.jpg|thumb|Foto de registre del [[FBI]].]]
+Herman W. Lang havia estat un empleat de la Carl L. Norden Company. Durant una visita a [[Alemanya nazi|Alemanya]] el 1938, es va reunir amb les autoritats militars i reconstruir de memòria plànols de materials confidencials. El 1941, Lang va ser arrestat pel [[FBI]] juntament amb altres 32 espies alemanys que formaven part de la Xarxa Duquesne, en la major condemna per espionatge de la història dels Estats Units. Va ser sentenciat a 18 anys de presó sota càrrecs d'espionatge i 2 anys de presó sota l'Acta de Registre d'Agents Estrangers.
+
+Els instruments alemanys eren similars a la Mira Norden, fins i tot abans de la guerra. Un conjunt de giroscopis similar els oferia una plataforma estable perquè el bombarder pogués apuntar, encara que no tenien una interacció més complexa entre la mira i el pilot automàtic.
+
+== Vegeu també ==
+* [[Stabilizing Automatic Bomb Sight (SABS)]]: una mira de bombardeig de la [[Royal Air Force|RAF]] introduïda per bombardeig de precisió, amb capacitats similars a les de la Mira Norden.
+* [[Lotfernrohr 7]]: una mira de bombardeig alemanya similar.
+
+== Referències ==
+{{citar llibre|url=http://foia.fbi.gov/foiaindex/duquesne_frederick_interesting.htm|títol=FrederickDuquesneInterestingCaseWrite-up(publicly released on[[March12]],[[1985]])}}accessed:2007.05.12
+{{referències|2}}
+
+== Bibliografia ==
+* Stewart Halsey Ross: Strategic Bombing by the United States in World War II br/ Features a chapter about the bombsights used by the USA. It descrius the development, the fallacies, its utilitzeu and how Germany soon learned about the Norden.
+* Albert L. Pardini: The Legendary Norden Bombsight br/ The first Visualització detallada volume to cover the Norden Bombsight. 352 pages with over 70 b/w Photographs plus line art. ISBN 0-7643-0723-1, Schiffer Publishing, 1999.
+* The Norden Bombsight br/ A Classified manual during WW II, this is a complete guide to maintenance and calibration of the Norden bombsight. 200+pages.
+* Bombing - Students 'Manual br/ This WW II bombardiers instruction book includes Norden bombsight instruction and more. 250+pages, illustrated.
+* Bombardier s Information File br/ This manual features instructions for the use of the Norden Bombsight, and other bomb sights as well. Illustrated with photos of bombs, càmeres, various equipment, etc.
+* Loyd Searle: The Bombsight War: Norden vs. Sperry br/ Gives many details of the history and behind-the-scenes development of the NBS and its competitor. Spectrum IEEE #0018-92235/89/0900-0060, setembre 1989, http://www.thevaluesell.com/images/LSearle_bombsight.pdf
+
+== Enllaços externs ==
+{{Projectes germans|commons=Mira Norden}}
+* [http://Www.hill.af.mil/library/factsheets/factsheet.asp?id=5664 La Mira Norden del Museu Aeroespacial Hill.] (En anglès)
+* [http://Www.vo-67.org/vo67_norden.html Últim ocupació en combat de la Mira Norden: Observation Squadron Sixty-Seven (VO-67)] (en anglès)
+* [http://Www.centennialofflight.gov/essay/Dictionary/NORDEN_BOMBSIGHT/DI145.htm Comissió Nord-americana del Centenari del Vol: La Mira Norden] (en anglès)
+* [http://Www.twinbeech.com/norden_bombsight.htm Informació detallada i imatges addicionals de la Mira Norden] (en anglès)
+* [http://Www.aafcollection.info/Col·lecció de la Força Aèria de l'Exèrcit: el ''' Bombardiers Information File ''' (BIF)] (en anglès)
+* [http://Www.shoestringprod.org Pel·lícules sobre les mires Norden i Sperry en acció] (en anglès)
+
+[[Categoria:Armament de la Segona Guerra Mundial]]
+[[Categoria:Computadors analògics]]</text>
+      <sha1>eiuh84pcyrn3y08bdfyi2ycr2jzhvyo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

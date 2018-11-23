@@ -1,0 +1,272 @@
+<page>
+    <title>Història dels ordinadors</title>
+    <ns>0</ns>
+    <id>286943</id>
+    <revision>
+      <id>14057598</id>
+      <parentid>14054796</parentid>
+      <timestamp>2014-09-20T11:11:18Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot estandarditza i catalanitza referències, catalanitza dates i fa altres canvis menors</comment>
+      <text>{{Plantilla:Història de la computació}}
+Els elements de [[maquinari]] de la [[computació]] han experimentat una millora significativa durant la seva història. Aquesta millora ha disparat l'ús mundial de la tecnologia, les prestacions han millorat i el preu ha baixat. Els ordinadors han esdevingut [[comoditat]]s accessibles a sectors cada vegada més grans de la població. 
+El maquinari de computació ha esdevingut una plataforma per a usos diferents dels de la computació, com ara l'automatització, la comunicació, el control, l'entreteniment, i l'educació. Cada un d'aquests camps ha creat els seus propis requeriments al maquinari, que al seu temps ha evolucionat per donar resposta a aquest requeriments.
+
+== Primeres calculadores ==
+[[Fitxer:Boulier1.JPG|thumb|[[Àbac]]]]
+Els primers indicis de [[càlcul numèric]] van ser introduïts el [[3000 aC]] pels [[babilonis]], que van habitar en l'[[Antiga Mesopotàmia]]. Aquests empraven unes petites boles fetes de llavors o petites pedres que utilitzaven per fer els seus comptes agrupant-les en carrils de canya. Més tard, els xinesos van desenvolupar l'[[àbac]], amb el qual realitzaven càlculs ràpids i complexos. Aquest instrument tenia un marc de fusta i cables horitzontals amb boles foradades que corrien d'esquerra a dreta.
+
+Al [[segle XVII]] [[John Napier]], matemàtic escocès famós per la invenció dels [[logaritme]]s (unes funcions matemàtiques que permeten convertir les multiplicacions en sumes i les divisions en restes) va inventar un dispositiu d'un palet amb nombres impresos que, gràcies a un mecanisme enginyós i complicat, li permetia realitzar operacions de multiplicació i divisió. També referit com els ''ossos de Napier''.
+
+Basat en els logaritmes neperians, [[William Oughtred]] va inventar el [[1610]] un regle que mitjançant sumes i restes permetia càlculs aritmètics.
+
+El [[1617]], [[Wilhelm Schickard]], (matemàtic alemany) va dissenyar una primera calculadora capaç de sumar, restar, multiplicar i dividir. Quan acabava el seu invent, un incendi el va destruir, però van quedar uns esquemes que varen permetre reconstruir l'artefacte el [[1970]].
+
+[[Fitxer:Arts_et_Metiers_Pascaline_dsc03869.jpg|thumb|Una pascalina signada per Pascal l'any 1652.]]
+El [[1642]], el físic i matemàtic francès [[Blaise Pascal]] va inventar el primer calculador mecànic, la [[pascalina]]. Als 18 anys d'edat, desitjant reduir la feina de càlcul del seu pare que era funcionari d'impostos, va fabricar un dispositiu de 8 rodes dentades en el qual cada una feia avançar un pas la següent quan completava una volta. Estaven marcades amb nombres del 0 al 9 i n'hi havia dos per als decimals, per tant podia manejar nombres entre 000000,01 i 999999,99. Les rodes giraven mitjançant una manovella, amb la qual cosa per sumar o restar calia fer-li el nombre de voltes corresponent en un sentit o en un altre. 
+
+Trenta anys després el [[filòsof]] i matemàtic alemany [[Gottfried Wilhelm Leibniz]] va inventar una màquina de càlcul que podia multiplicar, dividir i obtenir arrels quadrades en [[Codi binari|sistema binari]]. Als 26 anys va aprendre matemàtiques de manera autodidàctica i va procedir a inventar el [[càlcul infinitesimal]], honor que comparteix amb [[Isaac Newton]]. A més féu un estudi sobre la matemàtica Binària que va permetre a Boole desenvolupar un sistema de lògica, l'[[àlgebra de Boole]] el [[1854]], un pas important per als primers ordinadors.
+A més l'ordinador ens ha fet passar de la prehistòria a l'edat conterporània.
+
+== 1801:Targetes perforades ==
+El [[1801]] el francès [[Joseph Marie Jacquard]], va utilitzar un mecanisme de [[targetes perforades]] per controlar el dibuix format pels fils de les teles confeccionades per una màquina de teixir. Aquestes plantilles o motlles metàl·lics perforats permetien programar les puntes del [[tèxtil|teixit]], aconseguint obtenir una diversitat de trames i figures.
+
+[[Fitxer:BabbageDifferenceEngine.jpg|thumb|Màquina diferencial dissenyada per [[Charles Babbage]]]]
+En [[Charles Babbage]] (1793-1871) va crear un [[màquina analítica|motor analític]] que permetia sumar, sostreure, multiplicar i dividir una velocitat de 60 sumes per minut. El 1843 [[Ada Byron]] (1815-1851) va suggerir la idea que les targetes perforades s'adaptessin de manera que el motor de Babbage repetís certes operacions. A causa d'aquest suggeriment alguns consideren Lady Lovelace la primera programadora i Charles Babbage com l'autèntic inventor de l'ordinador digital modern.
+
+[[Fitxer:Hollerith_card.jpg|thumb|Targeta perforada]]
+El [[1879]], [[Herman Hollerith]], amb 19 anys d'edat, va ser contractat com a assistent a les oficines del cens nord-americà i va desenvolupar un sistema de còmput mitjançant targetes perforades en les quals els forats representaven el sexe, l'edat, raça, etc. Gràcies a la [[màquina tabuladora]] de [[Herman Hollerith|Hollerith]] el cens de [[1890]] es va realitzar en dos anys i mig, cinc menys que el cens de [[1880]].
+
+En [[Herman Hollerith|Hollerith]] va deixar les oficines del cens el [[1896]] per fundar la seva pròpia Companyia: la [[IBM|Tabulating Machine Company]]. El [[1900]] havia desenvolupat una màquina que podia classificar 300 targetes per minut (en comptes de les 80 quan el cens), una perforadora de targetes i una màquina de còmput semiautomàtica. El [[1924]] Hollerith va fusionar la seva companyia amb dues més per formar la [[IBM|International Business Machines]] avui mundialment coneguda com a [[IBM]].
+
+==Computadors analògics avançats==
+Abans de la Segona Guerra Mundial, els ordinadors analògics elèctrics i mecànics eren considerats l'[[estat de l'art]], i molts pensaven que era el futur de la computació. Els ordinadors analògics prenen l'avantatge de les grans similituds entre les matemàtiques de fenòmens a baixa-escala -la posició i el moviment de les rodes, o el voltatge i el corrent dels components electrònics- i les matemàtiques d'altres fenòmens a més gran escala, com ara les trajectòries balístiques, la inèrcia, la ressonància, la transferència d'energia, el moment, etc. Així doncs, aquests sistemes modelen i simulen aquests últims fenòmens mitjançant els primers, usant el voltatge i el corrent com a quantitats analògiques, permetent als usuaris predir el comportament dels sistemes d'interès observant només els seus [[analogia|anàlegs]] elèctrics. 
+
+== Primers computadors digitals ==
+L'era de la computació moderna va començar amb un intens període de desenvolupament abans i durant la Segona Guerra Mundial, amb l'ús d'elements electronics com a substits dels seus equivalents mecànics, i amb els càlculs digitals substituint als càlculs analògics. Màquines com la Z3, l'Atanasoff-Berry Computer, els ordinadors Colossus, i l'ENIAC foren construïdes a mà usant circuits que contenien [[relé]]s i vàlvules ([[vàlvula de buit|vàlvules de buit]]) i sovint usavent targetes perforades o paper perforat com a entrada i com la principal (no-volàtil) memòria d'emmagatzement.
+
+Els primers ordinadors electrònics i programables van ser dissenyats per l'[[Alemanya|alemany]] [[Konrad Zuse]]: el Z1 ([[1938]]) i el Z3 ([[1941]]). 
+
+Durant la [[II Guerra Mundial]], un equip de científics i matemàtics que treballaven a ''[[Bletchley Park]]'', al nord de [[Londres]] ([[Anglaterra]]), van crear el que es va considerar el primer ordinador digital totalment electrònic: el COLOSSUS. 
+
+Cap al [[1943]], COLOSSUS ja era totalment operatiu i va ser utilitzat per aquest equip de científics que dirigia el matemàtic britànic [[Alan Mathison Turing]] per descodificar els missatges de ràdio xifrats dels alemanys.
+
+A començaments dels [[Dècada del 1930|anys 30]], [[John Vincent Atanasoff]], un nord-americà doctorat en física teòrica, fill d'un enginyer electrònic emigrat de [[Bulgària]] i d'una mestra d'escola, es va trobar que els problemes que havia de resoldre requerien una excessiva quantitat de càlculs. Aficionat a l'electrònica i coneixedor de la màquina de [[Blaise Pascal|Pascal]] i les teories de [[Charles Babbage]], va començar a considerar la possibilitat de construir un calculador digital. Va decidir que la màquina hauria d'operar en [[Codi binari|sistema binari]], i fer els càlculs de manera diferent a com els realitzaven les calculadores mecàniques.
+
+Amb 650 dòlars donats pel ''Consell d'Investigació de l'[[Estat de Iowa]]'', va demanar la cooperació de [[Clifford Berry]], estudiant d'enginyeria, i els materials per a un model experimental. Posteriorment va rebre altres donacions que van sumar 6460 dòlars. Aquest primer aparell creat va ser conegut com a [[Atanasoff Berry Computer|ABC Atanasoff- Berry-Computer]]
+
+Pràcticament al mateix temps que Atanasoff, l'enginyer [[John Mauchly]] s'havia trobat amb els mateixos problemes quant a velocitat de càlcul, i estava convençut que hi hauria una forma d'accelerar el procés per mitjans electrònics. En mancar de medis econòmics, va construir un petit calculador digital i es va presentar al congrés de l'''Associació Americana per a l'Avenç de la Ciència '' per presentar un informe sobre el mateix. Allà, el desembre de [[1940]], es va trobar amb Atanasoff, i l'intercanvi d'idees que van tenir va originar una disputa sobre la paternitat del computador digital. 
+
+Alguns autors consideren que no hi ha una sola persona a qui se li pugui atribuir el mèrit de la creació del primer ordinador, sinó que va ser l'esforç de moltes persones. No obstant en l'antic edifici de Física de la Universitat de Iowa hi figura una placa que diu:  El primer computador digital electrònic d'operació automàtica va ser construït en aquest edifici l'any 1939 per John Vincent Atanasoff, matemàtic i físic de la universitat, i és qui va concebre la idea, i per Clifford Edward Berry, estudiant graduat de física.
+
+=== Ordinador Z3 ===
+L'ordinador [[Z3]], creat per [[Konrad Zuse]], va ser la primera màquina programable i completament automàtica de característiques usades per definir un ordinador. Estava construït amb 2200 relés, tenia una freqüència de refresc d'aproximadament 5 [[Hz]], i una longitud de resposta de 22 [[bit]]s. Els càlculs eren realitzats amb aritmètica en [[coma flotant]] purament [[binaria]]. La màquina va ser completada el [[1941]] (el [[12 de maig]] d'aquell mateix any va ser presentada a una audiència de científics a [[Berlín]]). El Z3 original va ser destruït el [[1944]] durant un bombardeig aliat de Berlín. Una rèplica completament funcional va ser construïda durant els [[Dècada del 1960|anys 60]] per la companyia del creador Zuse KG i està en exposició permanent en el [[Deutsches Museum]]. El [[1998]] es va demostrar que el Z3 és [[Turing complet]].
+
+=== Mark 1 ===
+[[Fitxer:Enigma.jpg|thumb|[[Enigma (màquina)|Enigma]].]]
+Entre [[1939]] i [[1944]], [[Howard Aiken]] de la [[Universitat Harvard]], en col·laboració amb [[IBM]], va desenvolupar el [[Mark 1]], conegut com a Calculador Automàtic de Seqüència Controlada. Va ser un computador electromecànic de 15 metres de llarg i 2,40 d'alt, i pesava 5 tones. Tenia 700.000 elements mòbils i d'alguns centenars de kilòmetres de cables. Podia realitzar les quatre operacions bàsiques i treballar amb informació emmagatzemada en forma de taules. Operava amb nombres de fins a 23 dígits i podia multiplicar tres nombres de 8 dígits en 1 segon. Estava basat en [[relé|relés elèctrics]].
+
+El Mark 1, i les versions que posteriorment es van realitzar del mateix, tenien el mèrit d'assemblar-se al tipus de màquina ideada per Babbage, encara que treballaven en codi decimal i no en binari.
+
+L'avenç que van donar aquestes màquines electromecàniques a la informàtica va ser ràpidament entristit per l'ENIAC amb els seus circuits electrònics.
+
+[[Alan Turing]], matemàtic anglès, desxifrà els [[Enigma (màquina)|codis secrets d'Enigma]] usats per l'[[Alemanya nazi]] per a les seves comunicacions. Turing va ser un pioner en el desenvolupament de la lògica dels computadors moderns, i un dels primers a tractar el tema de la intel·ligència artificial.
+
+[[Norbert Wiener]], va treballar amb la defensa antiaèria anglesa i va estudiar la base matemàtica de la comunicació de la informació i del control d'un sistema per fer caure avions. El 1948 va publicar els seus resultats en un llibre que va titular CYBERNETICS ([[Cibernètica]]), paraula que provenia del grec pilot, i que es va usar àmpliament per indicar automatització de processos.
+
+=== ENIAC ===
+[[Fitxer:Eniac.jpg|thumb|ENIAC]]
+El [[1941]], Mauchly es va matricular en uns cursos a l'Escola Moore d'Enginyeria Elèctrica de la [[Universitat de Pennsilvània]], on va conèixer a [[John Presper Eckert]], un instructor de laboratori. L'escola Moore treballava llavors en un projecte conjunt amb l'exèrcit per realitzar unes taules de tir per a armes balístiques. La quantitat de càlculs necessaris era immensa, tant que es demorava uns trenta dies a completar una taula mitjançant l'ús d'una màquina de càlcul analògica. Tot i així, això era unes 50 vegades més ràpid del que tardava un home amb una de sumadora de sobretaula.
+
+En Mauchly va publicar un article amb les seves idees i les d'Atanasoff, el qual va despertar l'interès de [[Herman Goldstine]], un oficial de la reserva que feia de mitjancer entre la universitat i l'exèrcit, el qual va aconseguir interessar al Departament d'Ordenació en el finançament d'un computador electrònic digital i de funcionament automatitzat. El [[9 d'abril]] de [[1943]] es va autoritzar a Mauchly i Eckert iniciar el desenvolupament del projecte. Se'l va anomenar Electrònic Numerical integrator and Computer ([[ENIAC]]) i va començar a funcionar a les instal·lacions militars nord-americanes del camp Aberdeen Proving Ground l'Agost de 1947. La construcció va tardar 4 anys i va costar $486.804,22 dòlars (l'equivalent actual a uns tres milions de dòlars per menys poder de còmput del que actualment s'aconsegueix a les calculadores de mà).
+
+L'ENIAC tenia 19.000 [[Vàlvula de buit|vàlvules de buit]], 1500 [[relé]]s, 7500 [[interruptor]]s, milers de [[Resistència elèctrica (component)|resistències]], [[condensador (elèctric)|condensadors]] i [[inductor]]s i 800 quilòmetres de [[cablejat]], funcionant tot a una freqüència de rellotge de 100.000 [[cicles per segon]]. Tenia 20 [[acumulador (informàtica)|acumuladors]] de 10 dígits, era capaç de sumar, restar, multiplicar i dividir, i tenia tres taules de funcions. L'entrada i la sortida de dades es realitzava mitjançant targetes perforades. Podia dur a terme unes 5000 sumes per segon. Pesava unes 30 tones i tenia una mida equivalent al d'un saló de classes. Consumia 200 quilowatts de potència elèctrica i necessitava un equip d'aire condicionat per dissipar la gran calor que produïa. En mitjana, cada tres hores d'ús fallava una de les vàlvules.
+
+El que caracteritzava l'ENIAC com a computador modern no era simplement la seva velocitat de càlcul, sinó el fet que permetia realitzar tasques que abans eren impossibles.
+
+== [[Arquitectura de von Neumann|Màquines von Neumann]] de primera generació ==
+
+[[Fitxer:Von Neumann architecture.svg|thumb|150px|Arquitectura de von Neumann]]
+En [[1946]] [[John Von Neumann]] proposa una versió modificada de l'ENIAC; Von Neumann s'incorpora a l'equip de John Mauchly i J. Presper Eckert, i junts construeixen l'[[EDVAC]], l'any [[1952]]. Aquesta màquina presentava dues importants diferències respecte a l'ENIAC: En primer lloc empra aritmètica binària, la qual cosa simplifica enormement els circuits electrònics de càlcul. En segon lloc, permet treballar amb un programa emmagatzemat. L'ENIAC es programava endollant centenars de clavilles i activant un petit nombre d'interruptors. Quan calia resoldre un problema diferent, era necessari canviar totes les connexions, procés que portava moltes hores.
+
+En Von Neumann proposa cablar una sèrie d'instruccions i fer que aquestes s'executin sota un control central. A més proposa que els codis d'operació que havien de controlar les operacions s'emmagatzemin de manera similar a les dades en forma binària. D'aquesta manera l'EDVAC no necessita una modificació del cablatge per a cada nou programa, podent processar instruccions tan de pressa com les dades. A més, el programa podia modificar-se a si mateix, ja que les instruccions emmagatzemades, com a dades, podien ser manipulades aritmèticament. És per tant la primera màquina que incorpora memòria.
+
+[[1951]] John Mauchly i J. Presper Eckert lliuren a l'Oficina del Cens el seu primer computador: l'[[UNIVAC I]] (Universal Automatic Computer). Dissenyada per propòsits d'ús general. És la primera màquina que permet processar problemes alfanumèrics i de dades. És amb l'UNIVAC que neixen els ordinadors comercials.
+Posteriorment apareix l'UNIVAC-II amb [[memòria de nucli magnètic|memòria de nuclis magnètics]], el que el farà superior al seu antecessor, però, per diversos problemes, aquesta màquina no veurà la llum fins que, el [[1957]] perdrà el seu lideratge al mercat davant el 705 d'IBM.
+
+El [[1953]] apareix l'IBM 701, el Burroughs E-101, i el Honeywell Datamatic 1000. Són la primera generació d'ordinadors, amb un sistema de làmpades de buit que permetien o interrompien el pas del corrent. El [[1953]] IBM fabrica el seu primer ordinador a gran escala, l'[[IBM 650]].
+
+== La segona generació (1958-1964): Transistors ==
+A la segona meitat dels anys 50, els [[Transistor bipolar|transistors BJT]] substitueixen les vàlvules de buit. Això dóna lloc a la segona generació de computadors. 
+
+En un principi es creia es produirien i s'usarien molts pocs computadors. Això era en part per la seva mida, el cost, i els coneixements necessaris per operar-lo o interpretar-ne els resultats. Els transistors van reduir enormement la mida dels ordinadors, el cost inicial, i el cost d'operació. El transistor de junció bipolar fou inventat el 1947. 
+
+Un transistor i una vàlvula compleixen funcions equivalents, amb la qual cosa cada vàlvula pot ser reemplaçada per un transistor. Un transistor pot tenir la mida d'una llentia mentre que un tub de buit té una mida més gran que el d'un cartutx d'escopeta de cacera. Mentre que les tensions d'alimentació dels tubs eren al voltant dels 300 volts, les dels transistors són de 10 volts, amb la qual cosa els altres elements del circuit també poden ser de menor mida, en haver de dissipar i suportar tensions molt menors. El transistor és un element constituït fonamentalment per [[silici]] o [[germani]]. La seva vida mitjana és pràcticament il·limitada i en qualsevol cas molt superior a la del tub de buit. 
+
+Es van crear noves professions; programador, analista, expert en sistemes d'informació, i es va iniciar la indústria del programari.
+
+[[1948]]: William Bradford Shockley, John Bardeen i Walter H. Brattain Inventen el Transistor. 
+
+[[1959]] [[IBM]] treu el seu primer ordinador transistoritzat, els models 1620 fins a 1790
+
+[[1961]]: Apareixen nous conceptes pioners, entre ells el caràcter de 8 bits
+
+[[1962]]: IBM treu al mercat els primers discs extraibles que es van convertir en un estàndard de la indústria de la computació. 
+
+[[Fitxer:ascii_full.png|thumb|150px|Caràcters ASCII imprimibles, del 32 al 126.]]
+[[1963]]: Un comitè Indústria-Govern desenvolupa el codi de caràcters [[ASCII]], (es pronuncia asqui), el primer estàndard universal per a intercanvi d'informació (American Standard Code for Information Interchange), el qual va permetre que màquines de tot tipus i marca poguessin intercanviar dades.
+
+[[1964]]: L'evolució dels ordinadors fa que sorgeixin llenguatges d'alt nivell, més entenedors com el [[COBOL]], [[FORTRAN]] o [[BASIC]].
+
+== La tercera generació d'ordinadors (1964-1971) – [[Circuit integrat|Circuits Integrats]] ==
+Tot i que els circuits integrats van ser inventats en el 1958, no va ser fins al 1964 que es van construir ordinadors amb aquests components.
+Varen ser els primers ordinadors a disposar de sistema operatiu que controlava l'execució dels diferents programes a executar.
+
+[[1958]]. Jack Kilby de [[Texas Instruments]] fabrica el primer circuit integrat. La idea d'un circuit integrat, és la d'encapsular transistors en un mateix xip. Fent que els transistors siguin més petits i propers per tal que un impuls elèctric, viatgi més ràpid, ja que ha de transcórrer menys espai. En un mateix xip s'han integrat fins a milions de transistors.
+
+[[1959]]. [[Digital Equipment Corporation]] treu el [[Programmed Data Processor|PDP]], primer miniordinador de 18 bits.
+
+=== [[1964]] ===
+L'aparició de l'[[Sèrie 360|IBM 360]] marca el començament de la [[Tercera generació d'ordinadors|tercera generació]]. Les plaques de circuit imprès amb múltiples components passen a ser substituïdes pels [[circuit integrat|circuits integrats]]. Aquests elements són unes plaquetes de silici anomenades xips, sobre la superfície de les quals es col·loca per mitjans especials unes impureses que fan les funcions de diversos components electrònics. Això representa un gran avenç quant a velocitat i, en especial, quant a reducció de mida. En un xip de silici d'aproximadament un centímetre quadrat hi cap 64.000 bits d'informació. En [[nucli de ferrita|nuclis de ferrita]] aquesta capacitat de memòria pot requerir prop d'un litre en volum.
+
+Investigadors de l'[[Institut Tecnològic de Massachusetts]] ([[MIT]]), de la [[Corporació Rand]] i del [[Laboratori Nacional de Física]] de la Gran Bretanya, van presentar simultàniament solucions a allò proposat per les Forces Armades nord-americanes. I aquell mateix any la Força Aèria va assignar un contracte a la [[Corporació RAND]] per a l'anomenada xarxa descentralitzada. Aquest projecte va fracassar després de molts intents i mai no va ser realitzat, però la idea d'una xarxa que no depengués d'un sol punt central i amb la transferència de dades per paquet es va quedar ancorada al cap de moltes persones.
+
+En [[Paul Baran]], que llavors treballava amb Rand Corporation, va ser un dels primers a publicar a Data Communications Networks les seves conclusions en forma gairebé simultània amb la publicació de la tesi de [[Leonard Kleinrock|Kleinrock]] sobre teoria de línies d'espera. Va dissenyar una xarxa de comunicacions que utilitzava computadors i no tenia nucli ni govern central. A més, assumia que totes les unions que connectaven les xarxes no eren prou fiables.
+
+El sistema de Baran treballava amb un esquema que partia els missatges en petits trossos i els posava en sobres electrònics, anomenats [[Paquet de xarxa|paquets]] cada un amb l'adreça del remitent i del destinatari. Els paquets es llançaven en una xarxa de computadors interconnectats, on rebotaven de l'un a l'altre fins a arribar al seu punt de destinació, en el qual s'ajuntaven novament per recompondre el missatge total. Si algun dels paquets es perdia o s'alterava (i se suposava que alguns s'haurien de dislocar), no era problema, ja que es tornaven a enviar.
+
+1966. Texas instruments treu la seva primera calculadora de butxaca.
+
+1968. Es funda Integrated Electronics ([[Intel]]) dedicada a la construcció de circuits integrats.
+
+== La quarta generació d'ordinadors (1971 en endavant) – PC’s ==
+[[Fitxer:Science museum 025 adjusted.jpg|thumb|[[Apple II]] d'[[Apple]], un dels primers ordinadors personals]]
+La base de la quarta generació fou la invenció per part de [[Marcian Hoff]] del [[microprocessador]].
+
+A diferència de les [[minicomputadora|minicomputadores]] de tercera generació, que eren essencialment una versió reduïda d'ordinadors [[mainframe]], els orígens de la quarta generació són fonamentalment diferents. Els ordinadors basats en microprocessadors originàriament eren molt limitats pel que fa a la capacitat computacional i velocitat, i no eren per tant cap intent de fer una versió de mida petita d'un minicomputador, sinó que anava dirigits a un mercat completament diferent.
+
+Tot i que la capacitat de computació i emmagatzemament s'ha incrementat espectacularment des dels anys 70, la tecnologia subjacent dels xips ([[LSI]] (large scale integration) o [[VLSI]] (very large scale integration)) s'ha mantingut bàsicament la mateixa, de manera que és àmpliament acceptat que la majoria d'ordinadors d'avui en dia encara pertanyen a la quarta generació.
+
+Alguns xips caracerístics eren el 8008, 8080 d'intel, el Z80 de Zilog o el 6800 de Motorola. Aquests xips es dissenyen amb objectius genèrics i gràcies al programari poden executar funcions molt diverses.
+
+Durant aquesta generació l'evolució dels microprocessadors ha seguit la [[llei de Moore]] (que el 1965 va dir que la capacitat dels microprocessadors es doblaria cada 2 anys), duplicant-se cada 18 mesos.
+
+1971. Intel treu el microprocessador 4004. Encarregat per una empresa japonesa per fer una calculadora d'escriptori. Era un xip de 4 bits, amb 2300 transistors que processaven 108 kHz. Tenia una capacitat per a 4KB de memòria.
+
+*[[1973]]. IBM treu al mercat els discs durs anomenats Winchester. 
+
+*1975. [[Gary Klidall]] i [[John Torode]] treuen CP/M (Control Program for Microcomputers) el primer Sistema Operatiu estàndard, per les màquines basades amb els xips 8080 d'intel i el Z80.
+
+*[[1976]]. [[Steve Wozniak]] i [[Steve Jobs]] van fundar [[Apple Computer]].
+
+*[[1978]]. Intel fabrica la CPU, Intel 8086 (de 16 bits). IBM va treure al mercat el seu primer PC, amb un xip de mateixa la família, un intel 8088 (amb bus de dades extern de 8 bits). D'aquí van sorgir els [[Intel 80286|80286]], [[Intel 80386|80386]] (de 32 bits), 80486 (amb coprocessador matemàtic incorporat), i Pèntium, II, III i IV. Els PC’s que trobem actualment al mercat són una evolució dels 8086.
+
+*[[2000]] Intel Fabrica el Pentium 4 amb 42.000.000 de transistors. 
+
+*[[2003]]: Apareixen els primers xips de 64 bits l'[[Opteron]] de [[AMD]] i l'[[Itanium]] d'[[Intel]] adreçats a usuaris domèstics. 
+
+*[[2005]]: Es comencen a comercialitzar els [[processador]]s amb diversos nuclis o [[multi core]] per a PCs domèstics.
+
+== El microprocessador i la reducció de costos ==
+[[Fitxer: Science museum 025 adjusted.jpg|thumb|El [[Apple II]], un dels computadors de la trinitat de 1977. La unitat de disc mostrada és un model per al [[Apple III]]]]
+
+Els avantpassats (miniordinadors) del modern ordinador personal usaven tecnologia de [[circuit integrat|circuits integrats]], que van reduir la mida i el cost, comparat als transistors discrets. El procés va ser realitzat per circuits amb una gran quantitat de components disposats en múltiples targetes grans de [[circuit imprès|circuits impresos]]. Els miniordinadors eren conseqüentment físicament grans i costosos en produir comparat amb posteriors sistemes de microprocessadors. Després que l'ordinador en un xip fos comercialitzat, el cost de produir un sistema de computació va caure dramàticament. L'aritmètica, lògica, i les funcions de control que prèviament van ocupar diverses costoses targetes de circuits, ara eren a un circuit integrat que era molt costós de dissenyar però barat de produir en grans quantitats. Concurrentment, els avenços en el desenvolupament de la [[memòria d'estat sòlid]] eliminar la voluminosa, costosa, famolenca d'energia [[memòria de nucli magnètic]] usada en anteriors generacions de computadors.
+
+== L'Altair 8800 i el Imsai 8080 ==
+{{AP|Altair 8800}}
+{{AP|IMSAI 8080}}
+El desenvolupament del microprocessador en un sol xip va ser un enorme catalitzador en la popularització de veritables computadors personals barats i fàcils d'usar. L'[[Altair 8800]], introduït en un article de la revista [[Popular Electronics]] en l'edició de gener de 1975, va fixar en aquest llavors un nou punt de baix preu per un ordinador, portant la possessió de l'ordinador a un mercat certament selecte en els dècada del 1970. Això va ser seguit per l'ordinador [[IMSAI 8080]] (un clon del Altair 8800), amb capacitats i limitacions similars. L'Altair i el IMSAI eren essencialment miniordinadors reduïts i eren incomplets: per connectar un [[teclat d'ordinador|teclat]] o un [[teletip]] a ells es requerien perifèrics pesats i costosos. Les dues màquines oferien un panell davanter amb interruptors i llums, que es comunicaven amb l'operador [[Codi binari |binari]]. Per programar la màquina després encendre-la, el programa [[arrencada loader]] (carregador d'arrencada) havia de ser entrat, sense errors, en binari, i després, un [[Intèrpret (informàtica)|interpretador]] [[BASIC]] es carregava des un lector de [[cinta de paper]]. Teclejar el carregador va requerir el la configuració cap amunt o cap avall d'un banc de vuit interruptors i prémer el botó de carregar (load), un cop per a cada [[byte]] del [[programa d'ordinador|programa]], que típicament era de centenars de bytes de longitud. L'ordinador podria córrer programes escrits en BASIC una vegada que l'interpretador havia estat carregat.
+
+[[fitxer: Altair 8800 Computer.jpg|thumb|right|160px|1975: [[Altair 8800]]]]
+
+El [[MITS Altair 8800]], el primer kit de microprocessador comercialment reeixit, va ser ofert a la coberta de la revista Popular Electronics al gener de 1975. Va ser el primer kit del món, produït en massa, d'un computador personal, així com el primer ordinador a usar un processador [[Intel 8080]]. Va ser un èxit comercial amb 10.000 Altairs despatxats. L'Altair també va inspirar els esforços de desenvolupament de programes de [[Paul Allen]] i del seu amic de la universitat, [[Bill Gates]], que van desenvolupar un interpretador BASIC per l'Altair, i després van crear [[Microsoft]].
+
+L'Altair 8800 de MITS efectivament va crear una nova indústria de microcomputadors i de kits de computadors, amb molts altres seguint, per exemple una ona de petits computadors de negocis a la fi dels dècada del 1970 basats en els microprocessadors Intel 8080, [[Zilog Z80]] i [[Intel 8085]]. La majoria corrent el sistema operatiu [[CP/M]] -80 desenvolupat per [[Gary Kildall]] a [[Digital Research]]. CP/M-80 ser el primer sistema operatiu de microcomputador popular a ser usat per molts venedors diferents de maquinari, i molts paquets de programaris van ser escrits per a ell, com ara [[WordStar]] i [[dBase]] II.
+
+Per mitjans dels anys setanta, molts aficionats van dissenyar els seus propis sistemes, amb diversos graus d'èxit, i es van congregar junts per facilitar el treball. Fora d'aquestes reunions de casa, el [[Homebrew Computer Club]] es va convertir en un lloc on els aficionats es van trobar per parlar del que havien fet, intercanviar diagrames esquemàtics i programari, i demostra els seus sistemes. Molta gent va construir o ensambó els seus propis ordinadors segons dissenys publicats. Per exemple, molts milers de persones van construir l'ordinador casolà [[Galaksija]] més endavant a principis dels dècada del 1980.
+
+Es podria dir que l'ordinador Altair, va generar el desenvolupament de les empreses [[Apple Inc|Apple]], així com de [[Microsoft]] la qual va produir i va vendre l'interpretador de llenguatge de programació [[Altair BASIC]], primer producte de Microsoft. La segona generació de microcomputadores, els que van aparèixer al final dels dècada del 1970, provocat per la inesperada demanda per als computadors de kit en els clubs d'aficionats de l'electrònica, eren usualment coneguts com a [[ordinador casolà|computadors casolans]]. Per a l'ús de negoci, aquests sistemes eren menys capaços i en certa manera menys versàtils que els computadors de negoci grans d'aquests dies. Van ser dissenyats per a la diversió i propòsits educatius, no tant per a l'ús pràctic. I encara que es podien fer servir en ells algunes aplicacions simples d'oficina/productivitat, van ser generalment usats pels entusiastes de les computadores per a aprendre a [[programació d'ordinadors|programar]] i per córrer jocs d'ordinador, per als quals els computadors personals del període eren menys convenients i molt més costosos. Per als aficionats més tècnics, els computadors casolans també van ser usats per a la interfície electrònica, per exemple controlar [[Tren elèctric|models de trens]], i altres activitats de l'aficionat.
+
+== Micral N ==
+A França, la companyia Réalisations et Etudes Electronique (R2E)ref [http://www.feb-patrimoine.com/projet/micral/micral.htm R2E Micral1972 !-- Bot generated title ---]/ref formada per dos enginyers anteriors de la companyia de Intertechnique, [[André Truong Trong Thi]]ref [http://www.zdnet.fr/actualites/informatique/0, 39040745,39216252,00. htm Décès d ' André Truong, inventeur du micro-ordinateur - Actualités - ZDNet.fr !-- Bot generated title André Truong, père du micro-ordinateur, nous a quitte Actualité - Silicon.fr !-- Bot generated title ---]/ref i [[François Gernelle]],ref [http://members.fortunecity .com/pcmuseum/gernelle.htm Gernelle creator of the first micro computer !-- Bot generated title ---]/ref va introduir al febrer de 1973 un microcomputador, el [[MICRAL]] N basat en el [[Intel 8008]].ref Roy A. Allan A History of the Personal Computer (Alan Publishing, 2001) ISBN 0-9689108-0-7 Chapter 4 (PDF: http://www.archive.org/download/A_History_of_the_Personal_Computer/eBook04.pdf) /ref Originalment, l'ordinador havia estat dissenyat per Gernelle, Lacombe, Beckmann i Benchitrite per al [[Institut National de la Recherche Agronomique]] per automatitzar mesuraments higromètriques.ref [http://febcm.club.fr/english/chronoa10.htm Groupe BULL chronology !-- Bot generated title ---]/refref [http://www.old-computers.com/museum/computer.asp?c=352 OLD-COMPUTERS.COM: The Museum !-- Bot generated title ---]/ref El MICRAL N va costar una cinquena part del preu d'un [[PDP-8]], al voltant de 8500FF ($ 1300). El rellotge de l'Intel 8008 va ser fixat en 500nbsp;kHz, la memòria va ser de 16 kilobytes. Un bus, anomenat Pluribus va ser introduït i permetia la connexió de fins a 14 targetes. Diferents taulers per [[entrada/sortida]] digital, entrada/sortida anàloga, memòria, disc floppy, estaven disponibles per R2E. El sistema operatiu de MICRAL va ser anomenat inicialment Sysmic, i va ser més tard renombrado [[Prologue]]. R2E va ser absorbida per [[Groupe Bull]] el 1978. Encara Groupe Bull continués la producció d'ordinadors MICRAL, no estava interessat en el mercat de l'ordinador personal. i els computadors MICRAL van ser confinades sobretot a les portes de peatge de la carretera (on van romandre en servei fins al 1992) i similars mercats molt especialitzat.
+
+== El microcomputador emergeix ==
+{{AP|ordinador personal}}
+L'adveniment del microprocessador i de la memòria d'estat sòlid va fer la computació casolana assequible. Els primers sistemes de computadors per l'aficionat com, el [[Altair 8800]] i el [[Apple I]], introduïts al voltant de 1975 van marcar el llançament dels xips de processador de 8 bits de baix cost, que tenien suficient poder de computació per ser d'interès per a usuaris aficionats i experimentals. Per 1977, sistemes preensamblados com el [[Apple II]], [[Commodore PET]], i el [[TRS-80]] (més endavant denominats com la Trinitat de 1977 per la [[revista Byte]])ref{{citar ref
+ |url = http://www.byte.com/art/9509/sec7/art15.htm
+ |títol = Most Important Companies
+ |consulta = 2008.06.10
+ |data = setembre 1995
+ |obra = [[Byte (magazine)|Byte]]
+}}/ref van començar l'era dels [[ordinador personal|computadors personals]] mercadeados en massa; molt menys esforç va ser requerit per obtenir un ordinador operant, i aplicacions com ara jocs, processament de paraules, i fulls de càlcul van començar a proliferar. A diferència dels ordinadors de segona mà en llars, els petits sistemes empresarials van ser típicament basats en el [[CP/M]], fins que IBM introduís el [[IBM PC]], que va ser adoptat ràpidament. El PC va ser fortament [[Clon (informàtica)|clonat]], portant a la producció en massa i a la consegüent reducció de costos a través dels dècada del 1980. Això va expandir la presència dels PC a les llars, reemplaçant la categoria de l'ordinador casolà durant els dècada del 1990 i [[Influència de l'IBM PC|portant a l'actual]] [[monocultura (ciències de la computació)|monocultura]] de computadors personals arquitectònicament idèntics.
+
+gallery caption=La'Trinidad de 1977'. Aquests van ser els primers microcomputadors que van començar l'era del computador personal widths=120px heights=120px perrow=3
+ Imatge: Apple II IMG 4212.jpg|[[Apple II]]
+ Image: TRS-80 Model I - Rechnermuseum Cropped.jpg|[[TRS-80]] Model I
+ Image: PET2001.jpg|[[Commodore PET]]
+/gallery
+
+== Intent fallit de cinquena generació ==
+L'any 1982, el Ministeri d'Indústria Japonès va intentar revolucionar el món dels ordinadors llençant un projecte per a desenvolupar ordinadors de cinquena generació en un termini de 10 anys. 
+Havien de ser ordinadors capaços d'utilitzar intel·ligència (sistemes experts) per tal de resoldre els problemes. 
+
+Tot indueix a pensar que els resultats d'aquest projecte no es van correspondre ni de bon tros amb les expectatives que es van generar.
+
+== El futur ==
+Encara no s'ha trobat cap substitut comercial per als xips de silici. Entre altres, es parla dels ordinadors basats en [[ADN]] (on molècules d'ADN interaccionarien realitzant càlculs en paral·lel), dels ordinadors quàntics (Que no estarien basats només en el 0 o el 1, sinó també en un conjunt d'estats intermedis típics de la física quàntica).
+
+Una tendència constant en el desenvolupament dels ordinadors és la '''microminiaturització''', iniciativa que tendeix a comprimir més elements de circuits en un espai de [[Circuit integrat|xip]] cada vegada més petit. Actualment existeixen [[ordinador de butxaca|ordinadors de butxaca]], que es poden agafar amb una sola mà, amb gairebé les mateixes prestacions d'un ordinador personal.
+
+Els investigadors intenten agilitzar el funcionament dels circuits mitjançant l'ús de la ''superconductivitat'', un fenomen de disminució de la resistència elèctrica que s'observa quan es refreden els objectes a temperatures molt baixes.
+
+Les [[Xarxa informàtica|xarxes informàtiques]] han adquirit cada vegada més importància en el desenvolupament de la tecnologia informàtica. Les xarxes són grups d'ordinadors interconnectats mitjançant sistemes de comunicació. La xarxa pública [[Internet]], és un exemple de xarxa informàtica planetària. Les xarxes permeten que els ordinadors connectats intercanviïn ràpidament informació, i en alguns casos, comparteixin una tasca, amb la qual cosa molts ordinadors poden cooperar per realitzar una feina específica.
+
+Una via que s'està explorant activament és l'ordinador de ''procés paral·lel'', que utilitza molts xips per a realitzar diverses tasques diferents al mateix temps. Aquest procés paral·lel podria arribar a reproduir, fins a cert punt, les complexes funcions que caracteritzen el pensament humà.
+
+Una altra forma de procés paral·lel que s'està investigant és la utilització ''d'ordinadors moleculars''. En aquests ordinadors, els símbols lògics s'expressarien per unitats químiques d'[[ADN]] en comptes de pel flux d'electrons habitual en els ordinadors d'ara. Els ''ordinadors moleculars'' podrien arribar a resoldre problemes complicats molt més ràpidament que els actuals superordinadors amb una despesa molt més petita d'[[Energia (societat)|energia]].
+
+== Vegeu també ==
+* '''Història dels ordinadors'''
+* [[Història dels sistemes operatius]]
+* [[Internet]]
+* [[Història de l'ordinador personal]]
+* [[Factor-P]]
+*[[Fredrik Rosing Bull]]
+*[[Història de l'ordinador personal]]
+*[[Ordinador de programa emmagatzemat]]
+
+== Referències ==
+{{referències|2}}
+
+==Bibliografia==
+*{{citar ref
+|cognoms = freiberger
+|nom = paul
+|coautors = michael swain
+|títol = fire in the valley: the making of the personal computer
+|any-original = 1984
+|url = http://www.fireinthevalley.com/
+|edició =2a ed.|any = 2000
+|editorial = mcgraw-hill
+|ubicació = new york
+|isbn = 0-07-135892-7
+}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+*[http://www.mnactec.cat/documents/Guia-visita-expo-enigma-ordinador.pdf Exposició digital - L'enigma de l'ordinador] {{ca}}
+*[http://www.fh-jena.de/~kleine/history/ Documents històrics amb manuals de programació de llenguatges antics i patents de maquinari]
+
+{{ORDENA:Historia De La Informatica}}
+{{Enllaç AB|zh}}
+
+[[Categoria:Història de la informàtica| ]]</text>
+      <sha1>n0d3a4s76z748zm22cc6aj17o06yogr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

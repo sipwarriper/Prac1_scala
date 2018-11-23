@@ -1,0 +1,195 @@
+<page>
+    <title>Tanc Ióssif Stalin</title>
+    <ns>0</ns>
+    <id>343655</id>
+    <revision>
+      <id>14014980</id>
+      <parentid>13777761</parentid>
+      <timestamp>2014-09-06T12:43:40Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció: VeureVegeu</comment>
+      <text>{{VPHISMILCAT Infotaula vehicle militar
+|nom= IS-2
+|imatge= [[Fitxer:Js2-1g.jpg|300px|Model IS-2 de 1944]]
+|peu de foto= Model IS-2 de 1944. El nombre d'enemics abatuts és el número de bandes blanques que hi ha pintades al canó.
+|país= {{Bandera|Unió Soviètica}} [[Unió Soviètica]]
+|tipus= [[Tanc]] pesat
+|data_prod= [[1944]]
+|longitud= 6,68 [[metre|m]]
+|amplada= 3,07 m
+|altura= 2,83 m
+|pes= 46 [[tona (unitat)|t]]
+|tripulació= 4
+|motor= V-2IS
+|tipusm= [[Gasoli|dièsel]] 12 cilindres i 4 temps
+|potència= 520 [[cavall de vapor|CV]] (385 [[kW]])
+|transmissió= embragatge en sec múltiple
+|rodatge= cadenes amb 6 rodes de rodatge a cada costat
+|suspensió= barres de torsió
+|velocitat= 37 [[km/h]]
+|autonomia= 240 [[km]]
+|combustible= 623L + 364L + 500L
+|armamentp= canó D-25T de 122 [[mm]]
+|armaments= 3 × [[metralladores]] [[DPM|DT]] de 7,62 mm més 1 × metralladora DShK de 12,7mm
+|blindatge= 90-120 mm
+}}
+El '''Tanc [[Ióssif Stalin]]''', o simplement el '''IS''' (anomenat '''JS''' però també '''ИС''' en les traduccions a causa que en català és Josep Stalin), va ser un [[tanc]] pesat rus creat durant la [[Segona Guerra Mundial]] com a tanc de ruptura.
+
+== Història de Producció ==
+
+===Guerra Civil Espanyola===
+La [[Guerra Civil Espanyola]] va mostrar les deficiències dels carros soviètics allà enviats: poc blindatge i mala mobilitat entre d'altres. Els anticarros de 37 mm podien posar fora de combat als [[T-26]] sense problemes, pel que es va fer patent la necessitat d'un carro que aguantés els impactes dels anticarros en missions de ruptura, que en aquells moments eren portats pels tancs ràpids (així cridats vulgarment) BT, que avançava a altes velocitats fent la ruptura. Tanmateix, no deixaven de ser vulnerables a tot tipus d'arma anticarro, igual com els esmentats [[T-26]], pel que es va pensar en la necessitat d'un carro que aguantés els esmentats impactes en atacs de ruptura, d'on va néixer el [[KV-1]].
+
+===Carro de combat KV-1===
+Els [[KV-1]] tenien una protecció de fins a 75 mm al frontal, el qual el convertien en invulnerable als canons de l'època, però tot això a expenses de la velocitat, doncs amb un màxim de 34 km/h, el [[T-34]] aviat va fer gala dels seus avantatges sobre aquest substituint-lo per complet. Quan els alemanys van començar a muntar els canons llargs de 75 mm i els anticarros [[PaK 40]], el [[KV-1]] es va tornar tan vulnerable com el [[T-34]] i per la contra, tenia el mateix armament i una menor mobilitat. En resum, el [[KV-1]] oferia unes condicions desfavorables respecte al [[T-34]] que era més manejable, anava igual d'armat i era més barat. Es van fer algunes versions del [[KV-1]] més lleugeres i fins i tot algunes més pesades, però els resultats van ser insatisfactoris.
+
+===Batalla de Kursk===
+En la [[Batalla de Kursk]], els soviètics van capturar algun [[Tiger I]] i el van comparar amb seus [[KV-1]]S que tenien, traient les conclusions que era inferior en tots els aspectes al carro alemany i per tant, es requeria una solució, ja que el canó F-34 de 76,2mm no era suficient contra els [[Panzer V Panther]]s o [[Tiger I]] per a atacs frontals, pel qual feia falta apropar-se pels laterals per posar-los fora de combat.
+
+La captura del [[Tiger I]] a Kursk el gener de 1943ref name=is2Steven Zaloga i Peter Sarson. Els Carros Pesats JS-2 i JS-3, Osprey Military. ISBN 84-473-1613-0/ref en van portar a la creació d'un nou carro el nom del qual en codi va ser izdeliye 237 (article 237). Per motius del fracàs del [[KV-1]], es va optar per canviar el nom del nou carro de combat, pel del Dictador Iosif Stalin. Es van fer diverses proves sobre el carro alemany capturat amb diferents canons, on els de 85 mm (antiaeri) i el 122 mm van ser bons. Per necessitats òbvies, es va permetre la producció del KV-85 com a model transitori i se li va donar prioritat a l'izdeliye 237 perquè entrés en producció com més aviat millor.
+
+No és clar que algun [[IS-1]] arribés a lliurar-se a les unitats del front, però sabem que almenys 102 dels 130 fabricats se'n van modificar perquè muntessin el canó de D-25 T de 122 mmref name=is2/
+
+=== L'elecció del canó ===
+El primer canó en ment dels enginyers soviètics era un model antiaeri modificat de 85 mm (un S-53 milloratref name=is2/), el que va donar com a resultat al [[KV-1|KV-85]] i a l'IS-1. Tanmateix, la seva potència es va considerar insuficient per a un carro pesat que se les hauria de veure contra els carros més pesats dels seus oponents alemanys, per la qual cosa es van estudiar dues possibilitats, el D-25 T de 122 mm i el D-10 T de 100 mm.
+
+El canó D-10 T era un derivat del canó antitanc BS-3, amb una potència de penetració de fins a 185 mm a 500 m a 0ºref name=penetracions{{format ref}} http://www.freeweb.hu/gva/index.html/ref amb projectils normals. El seu poder de penetració era superior al D-25 T (modificat de l'antitanc A-19) que penetrava fins a 157 mm a 500 m a 0º,ref name=penetracions/ però el curt nivell de subministraments de 100mmrefref name=is2/ va fer que s'escollís el canó D-25 T. Més endavant es va fer el caçacarros [[ISU-100]] que era bàsicament un buc d'un IS-2 (sense torre) amb el canó D-10 T com a arma principal.
+
+== Potencia de foc ==
+L'IS-2 portava el poderós canó d'ànima ratllada D-25 T de 122 mm d'origen soviètic amb una velocitat inicial de 780-800 m/segon. La velocitat inicial dels projectils de l'IS-2 estaven per sota de la majoria d'alemanys, però hem de contemplar que hi ha 2 factors fonamentals pel que fa a la penetració: la velocitat del projectil i el seu pes. A causa del gran calibre usat per l'IS-2 (122 mm davant els 88 mm i 75 mm que eren els més comuns en l'exèrcit alemany, li permetia una potència considerable que oscil·lava entre el 88 mm L56 i el 88 mm L71. La gran massa dels projectils de 122 mm aconseguien una energia cinètica de 820 mentre que els 88 mm arribaven fins a 520. La relació entre aquests valors i la velocitat inicial donen el resultat de la penetració.
+
+El pes de la munició del D-5 T rondava els 25 kg, una cosa molt important a l'hora de disparar munició trencadora a punts no protegits, la qual cosa permetia una major efectivitat que calibres més petits. Tanmateix, el gran calibre junt amb la petita torre de l'IS-2, va fer que el nombre de projectils màxim decreixés des dels 56 de l'IS-1 (amb canó de 85 mm) a 28 de l'IS-2, que és just la meitat. D'altra banda, s'emprava munició de nucli partit, per la qual cosa la cadència es veia molt afectada, fins al punt que habitualment es feien 2-4 trets per minut i fins a un màxim de 6 amb tripulants molt entrenats, mentre que un [[T-34]]/85 estava sobre 6-8ref name=t3485Steven J. Zaloga, Jim Kinnear i Peter Sarson. El Tanc Mitjà T-34/85. Osprey Military. ISBN 84-473-1481-2/ref trets en el mateix temps i un Tiger II fins a 10.ref name=isvtiEl tanc IS-2 vs el Tiger-II per Alejandro_ a http://www.militar.org.ua/ref
+
+Sovint s'ha criticat la poca munició carregada al carro, però informes soviètics indicaven que 28 projectils eren suficients per a tota una batalla. Hem de tenir en compte que estaven previstos regiments de 21 IS-2, pel que la multiplicació de projectils s'eleva a 588 projectils per regiment, sense tenir en compte que una vegada assegurada la ruptura, els [[T-34]]s entrarien de ple i per tant, no hi hauria més necessitat d'emprar la munició de 122 mm fins a nou combat.
+
+A continuació es mostra una taula de penetracions del canó D-25Tref name=batruBattlefield.ru/ref per a les dues municions principals, l'AP i l'APBC (munició BR-471 i BR471B respectivament). En ambdós casos es comparen les penetracions a 0º i a 30º respecte a la vertical, encara que normalment empraven 60º en comptes de 30º, però en aquest cas concorden amb les seves contrapartides alemanyes que empraven habitualment 0è i 30è i es poden comparar en certa manera (vegeu nota després de la taula).
+
+{| class=wikitable style=text-align: left
+|-
+! !! 500m !! 1000m !! 1500m !! 2000m
+|-
+|D-25 T AP a 0º || 152 || 142 || 133 || 122
+|-
+|D-25 T AP a 30º || 122 || 115 || 107 || 97
+|-
+|D-25 T APBC a 0º || 155 || 143 || 132 || 116
+|-
+|D-25 T APBC a 30º || 125 || 120 || 110 || 100
+|-
+|}
+
+Com ja hem dit, el pes dels projectils influeix molt en la seva potència. La inclinació de les cuirasses pot fer que un projectil reboti literalment o simplement que la penetració sigui més baixa, pel qual a major massa, menor probabilitat de retruc. Per això mateix, el projectil de 122 mm i 25 kg era menys propens al rebot en comparació amb els projectils de 75 mm i 88 mm utilitzats pels alemanys.
+
+Quant a precisió, l'IS-2 comptava amb una cúpula per al Cap de Carro, el qual permetia una ràpida captació de l'enemic i un periscopi amb visibilitat millorada (amb el problema de les bombolles resoltref name=isvti/), igual com en altres tancs soviètics de la seva època. La mira usada era la TSh-17 de 4 augments i 19è de visió (les antigues del [[T-34]] eren de 16º només,ref name=signalSteven Zaloga i James Grandsen. T-34 in Action, Squadron/Signal Publications, ISBN 0-89747-112-1/ref El canó per si mateix era de bona qualitat. Tendia a desviar-se de l'eix vertical fins un màxim de 170 mm i en l'horitzontal fins a 270mm,ref name=batru/ el que a priori pot semblar molt, era sens dubte una precisió a l'altura dels millors canons de l'època. Insistim que el pes de la seva munició també hi ajudava.
+
+Les òptiques de l'IS-2 eren excel·lents, al contrari de l'expressat en altres fonts. Per a 1944 les òptiques soviètiques havien millorat molt i havien desaparegut els problemes de bombolles. Les mira utilitzada en l'IS-2 era la TSh-17, de 4 augments i 19° d'angle de visió. Aquest model s'inspiraven en les TFZ-5 del Tiger-I i equips utilitzats pels aliats.
+
+Als entusiastes dels carros de combat tenen molt en compte la penetració antitanc, mentre que els experts en la matèria asseguren que en una guerra es disparen més projectils trencadors que perforants.ref name=is2/ En aquest cas, l'IS-2 era una arma molt eficaç, ja que el gran calibre del seu canó era ideal per fer les funcions d'artilleria de suport, com els caçacarros [[SU-122]] o el [[ISU-122]]. Aquest últim basat l'en xassís de l'IS-2 i el primer en el del [[T-34]]. En comparació amb el canó de 88 mm, el D-25 T era 1,4 vegades superior com a artilleria autopropulsada.ref name=is2/
+
+Un paràmetre també fonamental és la rotació de la torreta. Identificar un blanc requereix habitualment girar la torre o en el cas dels [[Caçacarros]], moure el tanc sencer. L'IS-2 rotava la seva torre mitjançant un motor elèctric, el qual va ser més potent de l'inicialment pensat,ref name=is2/ el qual va agregar un major pes i consum al tanc. El temps màxim de rotació de la torre de l'IS-2 era de 22,5 segonsref name=is2/ a màxima potència, el que equival a 16º per segon. En qualsevol cas, es podia recórrer a moure la torre manualment en inclinacions fins i tot majors a 15è.ref name=isvti/ L'ascensió màxima del seu canó era de fins i tot 20º i la seva depressió de -3º.
+
+L'armament secundari de l'IS-2 seguia en certa manera al dels [[KV-1]], ja que posseïa una metralladora DT de 7,62mm a la part posterior de la torre igual com el seu antecessor. A més, portava una altra metralladora coaxial DT de 7,62mm i un total de 2520 bales. Una característica de l'armament secundari era la possibilitat de treure'l del tanc i emprar-lo com a metralladores de mà. A partir de gener de 1945 es va instal·lar una metralladora antiaèria DShK de 12,7mm disposada a sobre de la torre amb un total de 250 bales en una caixa de municions que es trobava a l'esquerra de l'arma. L'ús de metralladores antiaèries als tancs no destinats a l'esmentat final|finalitat eren molt rars de veure, ja que es considerava que el carro de combat pesat no havia de lluitar contra l'aviació en cap moment.
+
+== Protecció ==
+[[Fitxer:IS-2_scheme_of_armour.jpg|700px|left|Esquema del tanc]]La protecció és l'aspecte més destacat d'un carro pesat. EL [[KV-1]] tenia un blindatge molt bo per a la seva època (75 mm al frontal del buc i fins a 100 mm a la torre), però els canons de 75 mm L43 i L48 van acabar amb invulnerabilitat frontal. Es va buscar la manera de potència la defensa sense crear un tanc superpesat (com el [[Panzer VIII Maus]] amb tot just mobilitat), que tingués una mobilitat adequada a les necessitats de la guerra moderna.
+
+L'IS-2 es va centrar en inclinar al màxim el seu blindatge, de manera que amb igual pes, s'aconseguís un blindatge major. El clar exemple està en la comparació amb el [[KV-1]], que amb un pes semblant estava netament més mal protegit que l'IS-2. La torre es va fer en motlle de farga, ja que aquest mètode permet un millor perfil balístic que en alguns casos és impossible de fer amb el laminat (vegeu la torre de l'IS-3, per exemple). Es va reduir l'espai interior al mínim possible per evitar l'augment de pes, la qual cosa va comprometre la capacitat màxima de projectils a 28, però va ajudar a oferir un blanc més petit a l'ull enemic. A més, es va reduir la tripulació a quatre soldats (en el [[KV-1]] eren cinc) per estalviar espai, repartint l'ús de la ràdio entre el comandant i el conductor i de nou estalviar espai interior.
+
+Les parts més susceptibles a ser impactades són el frontal de la torre en primer lloc i el frontal de la barcassa, pel que se li va donar màxima prioritat a reforçar les esmentades zones, iniciant-les al màxim. Es va eliminar la trapa davantera que portaven tancs com el [[T-34]] a causa de la seva vulnerabilitat, el qual donava una major protecció, però una major dificultat en cas d'evacuació del carro, ja que només hi havia dues escotilles superiors per les quals escapar. Els carros alemanys solien tenir un cert espai entre el frontal de la torre i la barcassa, on podien posar un parell d'escotilles de sortida, però l'IS-2 tenia la torre massa avançada com per posar escotilles superiors i l'única manera era de posar-la inclinada al frontal, la qual cosa es va desestimar.
+
+El frontal es va fabricar en laminat, unint planxes de diferents espessors fins a arribar als 120mmrefref name=is2/ previstos i inclinant-les a 60º de la vertical, el qual proporcionava una resistència igual a la de 240 mm a 0è, però amb l'avantatge de l'efecte rebot propiciat pel seu angle abrupte. Els costats del buc es van protegir amb 90-95mm,ref name=is2/ mentre que el frontal de la torre es va reforçar amb 100 mm i els seus costats amb 90 mm La part posterior del buc es va reforçar amb 60 mm d'acer i a la torre amb 90 mm
+
+Un altre aspecte important quant a la protecció és la mida del carro de combat. L'IS-2 era més baix que la majoria de carros pesats de la seva època, gairebé un 13%ref name=isvti/ més baix que el [[Tiger II]] i una cosa molt important, un pes acceptable en comparació amb les grans bèsties alemanyes. Cal traslladar a l'època per adonar-se que no tots els ponts podien sostenir grans pesos, per la qual cosa és un factor important, doncs carros com el [[Panzer VI|Tiger I]] pesaven 57Tn i en el cas del Tiger II s'arribava gairebé a les 70Tn, sense oblidar-nos mai que en terrenys tous, el pes era fonamental junt amb l'ample de les cadenes.
+
+== Mobilitat ==
+Els tancs pesats tenen per norma general una mobilitat reduïda en comparació amb els àgils carros de combat mitjos. L'IS-2 muntava un motor dièsel V-V-2IS de 520CV, 12 cilindres i 4 temps en V. La seva relació potència/pes era de 11,3CV/Tn, una mica normal entre els estàndards dels tancs pesats, donant una velocitat màxima en carretera de 37 km/h i de 29 km/h en camp a travessa.
+
+L'ús d'un motor dièsel va ser a causa de l'alta flamabilitat de la gasolina contemplat durant la [[Guerra Civil Espanyola]], on els [[T-26]] cremaven amb facilitat. A més, aquest tipus de motor permetia una major autonomia a un cost menor (el gasoil és més fàcil d'obtenir que la gasolina i per tant, més barat). Tanmateix, el soroll d'aquests motors era més gran que els de gasolina. L'autonomia de l'IS-2 podia arribar fins a 240 km, mentre que la seva capacitat interna de combustible eren de 623 L, junt amb 364 litres externs, més 500 L suplementaris en bidons exteriors.
+
+La suspensió per barres de torsió feien que la conducció per terreny accidentat fora bastant incòmode, però a canvi era un sistema de baix manteniment en comparació amb el de rodes imbricades que donaven una major comoditat camp a travessa. Les seves amples cadenes li permetien avançar correctament per zones fangoses i la seva capacitat de travesso era de 1,3m.
+
+== Oponents ==
+L'IS-2 va néixer per la necessitat d'afrontar als carros alemanys més avançats, que amb els seus grans blindatges provocaven altíssimes baixes en l'exèrcit soviètic i aliat en general. L'IS-2 tenia un disseny revolucionari i podia mesurar-se als carros més potents de la [[Wehrmatch]]. Comparar-ho amb tancs com el [[Panzer IV]] i anteriors no seria just a causa de com a mínim els dobla en pes.
+
+=== El Panther ===
+El Panzer V o Panther estava considerat com un carro de combat mitjà segons els alemanys, però el seu pes era similar al de l'IS-2 que era un carro pesat. La proximitat de pesos ens permet una comparació objectiva entre ambdós.
+
+En termes de penetració, ambdós carros estaven bastant igualats. El Panther disparava un projectil de 4,7 kg a gran velocitat i l'IS-2 llançava un projectil de 25 kg Malgrat que la penetració era similar, la gran càrrega explosiva de l'IS-2 li conferien un gran avantatge contracarro. Les taules de penetracions del [[ISU-152]] mostren una pobra penetració, tanmateix podia arrencar literalment les torres de Panthers i Tigers enemics.ref name=batru/ El canó D-25 T tenia avantatge contra blancs desprotegits a causa del seu gran calibre. D'altra banda, la cadència i munició del Panther era superior, així com les òptiques alemanyes en general.
+
+Quant a protecció, el Panther estava en clar desavantatge fins i tot malgrat tenir un pes similar. El Panther necessitava atacar l'IS-2 des d'uns 500 m per aconseguir una penetració frontal, mentre l'IS-2 podia fer-ho des dels 1500 m i amb sort des dels 2000 m Els dèbils laterals del Panther eren de 45 mm encara que es van augmentar fins als 80 mm en algunes versions. L'IS-2 tenia 90 mm en els laterals, per la qual cosa novament ens trobem amb un lleuger avantatge. A més, l'IS-2 era més baix que Panther i suposava un blanc més petit.
+
+Quant a la mobilitat, el Panther tenia un cert avantatge de tenir una millor relació potència/pes que era de 15,4CV/Tn davant les 11,3CV/Tn de l'IS-2. La seva suspensió de rodes imbricades li conferien una major comoditat camp a travessa, però era un sistema que requeria un gran manteniment i la reparació d'una roda interior suposava treure'n algunes de les exteriors. A més, en hivern, el gel i el llot es posaven pel mig paralitzant el carro. L'elecció del motor a gasolina del Panther li conferia un menor soroll, però un major consum i flamabilitat, sense tenir en compte els problemes dels primers models.
+
+=== El Tiger I ===
+
+El Tiger I pesava 57 Tn davant les 46 de l'IS-2. L'armament del carro alemany era bastant similar al del soviètic, amb una major cadència, però inferior quant a trets contra objectius desproveïts d'armadura, tals com a canons anticarro o búnquers.
+
+El blindatge del Tiger I era significativament inferior. Això era degut en gran manera a la poca inclinació, mentre que l'IS-2 tenia una pendent de 60º al frontal que li proporcionaven un blindatge teòric del 240 mm davant els 100 mm del Tiger I a 9º. A la torre la situació era similar. L'alta protecció de l'IS-2 li permetia posar fora de combat al Tiger I en distàncies de fins a 1500 m, mentre que el Tiger I necessitava d'almenys 1000 m per fer el mateix i sempre que obtingués un angle superior a l'IS-2 per limitar la inclinació i emprés munició Pzgr.40 (la qual escassejava molt). El carro soviètics oferia una menor silueta que l'alemany a causa de la seva reducció de l'espai intern.
+
+La mobilitat d'ambdós carros era molt semblant. L'alt pes del Tiger I no li permetia passar per tots els llocs que carros més petits podien. Emprava la suspensió de rodes imbricades amb els seus pros i contres davant la senzillesa de l'IS-2, que tenia el defecte de percebre més els desnivells. El motor de l'alemany era també de gasolina i per tant, més flamable i major consum, encara que menys sorollós que el de l'IS-2. La relació potència/pes del Tiger I era de 12,3CV/Tn, lleugerament superior als 11,3CV/Tn de l'IS-2.
+
+=== El Tiger II ===
+El Tiger II pesava 69 Tn davant les 46 de l'IS-2. L'armament del caror alemany era lleugerament superior,ref name=isvti/ amb una cadència de fins a 8 projectils per minut davant uns 4 màxims d'IS-2. La munició també era major en el Tiger II, tanmateix, la seva fàcil disposició a la torreta ho feien vulnerable a explotar en cas de penetració. La cadència i potència és potser el major avantatge que tenia el Tiger II davant l'IS-2. En cas d'atacar a blancs desproveïts de blindatge, el gran obús de 25 kg era 1,4 vegades superior a l'alemany.ref name=isvti/ La dispersió del canó d'ambdós carros era molt similar. El Canó D-25 T a 1000 m es desviaven de la vertical fins a 170 mm i de l'horitzontal fins a 270 mm. El canó KwK 46 del Tiger II 260 mm i 210 mm respectivamente.ref name=batru/ref name=isvti/
+
+El blindatge és un tema controvertit. El Tiger II emprava molt més blindatge (d'allà el seu elevat pes) per protegir-se, però no podem afirmar que estigués més protegit. L'espai intern de l'IS-2 era menor al del Tiger II, el que es convertia en un estalvi considerable de pes, però el més important són els angles que tenia l'IS-2. Al gràfic que apareix a la secció de Blindatge, podem observar els angles utilitzats. Frontalment, l'IS-2 tenia 120 mm a 60º, que equivalen a 240 mm a 0º. En el cas del Tiger II teníem 150 mm a 50º,ref name=isvti/ que equival a 233 mm Exceptuant la part posterior, la superior i inferior de la torre i la part inferior de la barcassa (les zones menys propenses a un impacte), l'IS-2 té un blindatge real (traspassat el valor a 0º) superior al Tiger II.ref name=isvti/ A causa del volúmen intern, l'IS-2 era un blanc més petit i per tant, més difícil d'impactar.
+
+La mobilitat és també molt controvertida. Alguns autors es van basar en experiències puntuals per parlar d'una bona mobilitat del Tiger II, quan emprava el motor del [[Panzer V Panther|Panther]] pesant 23 Tn més.ref name=t2El Carro Pesat Königstiger, Osprey Military/ref Això es traduïa en una menor mobilitat i major consum que l'IS-2, que era lleugerament superior en la seva relació potència/pes (11,3CV/Tn front 10,14CV/Tn), sense oblidar-nos que l'excessiu pes del Tiger II evitava que es pogués emprar per certs ponts o zones fangoses a causa del seu pes. La fiabilitat del tanc soviètic va ser bastament superior. La demostració està en què el Tiger II i els diversos apunts sobre els seus errors i problemes de sobrecàrrega del motorref name=isvti/ref name=batru/ref name=t2/ van ser molt notoris en les poques unitats produïdes davant els IS-2 que provenen de la ja provada sèrie [[KV-1]].
+
+== Ús ==
+El concepte de l'IS-2 era participar com un carro de ruptura obrint bretxes al front enemics i obrint pas als carros mitjans que anaven darrere. En les esmentades operacions de ruptura haurien de ser capaços d'encaixar els trets enemics i posar fora de combat els oponents més perillosos i grans com a tancs pesats o canons anticarro. Per a això, es van crear regiments blindats de 21 IS-2 cada un.ref name=is2/ Al principi, i a falta d'un elevat nombre d'ells, es van emprar a les zones més conflictives. El 1945 es van fer les primeres brigades pesades de 65 tancs IS-2 de la Guàrdia Roja, junt amb 3 canons d'assalt lleugers [[SU-76]], 19 transports cuirassats i 3 automòbils blindats. [[BA-64]]ref name=is2/ Estaven reservades per a atacs a zones fortificades i la primera d'elles va operar per primera vegada en l'ofensiva sobre l'Oder el gener de 1945.ref name=is2/
+
+La primera batalla en què els IS-2 van intervenir es va produir l'abril de 1944, quan el el Regiment de Carros de Combat Pesats Independent de la Guàrdia manat pel col. Tsiganov va lliurar diverses escaramusses amb [[Panzer VI|Tigers I]] del sPz.Abt.503 a prop de Tarnopol.ref name=is2/ Un sol IS-2 va ser posat fora de combat.
+
+Un mes més tard, a prop de la població romanesa de Tirgu Frumos es van perdre tres IS-2. Els carros IS-2 van suposar tota una commoció per a les tropes alemanyes que van veure com els seus projectils rebotaven en ser disparats pels [[Panzer VI|Tigers I]] a 3000mrefref name=is2/ de distància. Una contraofensiva a càrrec de la companyia de l'Hauptmann B. Klemz va parar l'atac soviètic. Els alemanys van deduir que les tripulacions dels IS-2 eren molt inexpertes fins i tot, però començaven a témer el trobar-se en mesura progressiva tancs IS-2 en posteriors encontres.
+
+Una de les batalles més importants dels IS-2 va prendre lloc durant la lluita l'agost de [[1944]] per establir un cap de pont al voltant del riu [[Vistula]] al voltant de la ciutat de [[Sandomierz]]. Aquesta va ser la primera vegada que l'IS-2 es va enfrontar directament contra els tanc pesades alemanyes [[Panzer VI|Tiger II]]. Durant l'enfrontament que va tenir lloc el 13 d'agost, el regiment pesat independent 71, 11 tancs IS-2 van bloquejar un atac de 14 tancs [[Tiger II]] del destacament 101 de tancs pesats de les SS. Un enfrontament a 600 metres va acabar amb la destrucció de 4 tancs, 3 IS-2 es van perdre i 7 van quedar danyats. Això va ser un gran crèdit a l'acompliment dels IS-2, les anàlisis van indicar que el blindatge dels IS-2 era només vulnerable a partir de 1000 metres.
+
+== Models ==
+
+'''IS-1''': 43', canó de 85 mm. Després van ser adaptats amb un canó de 122 mm
+
+'''IS-100''': Una versió de prototip, provada contra l'IS-122, armat amb un canó de 122 mm Encara que l'IS-100 va provar tenir capacitats bones quant a blindatge, l'IS-122 va ser elegit per tenir millor rendiment general.
+
+'''IS-2''': 43', model de producció armat amb un canó A-19.
+
+'''IS-2''': (model del 44): Cridat l'IS-2m, tenia un canó D25-T de 122 mm, millor front, noves superfícies de control de foc, més ràpid quel IS-2 43'.
+
+'''IS-3''': 44' redisseny del blindatge, amb torreta rodona, va integrar noves parts a les erugues. Idèntic per dins a l'IS-2m i concurrentment produït. es van fabricar uns 350 en tota la guerra.
+
+'''IS-4''': 44', competia amb l'IS-3. Canó més llarg però blindatge més prim que el de l'IS-2. Al voltant de 250 es van construir després de la guerra.
+
+'''IS-7''': Prototip de postguerra. Només se'n va construir un. Tenia diferent forma de torreta.
+
+'''IS-10''': 52', canó més llarg, set parells de rodes, torreta més gran i amb una nova arma, motor dièsel i major blindatge. Rebatejat [[T-10]].
+
+== Notes ==
+references /
+
+== Bibliografia ==
+*Steven Zaloga i Peter Sarson. Els Tancs Pesats JS-2 i JS-3, Osprey Military. ISBN 84-473-1613-0
+*Steven J. Zaloga, Jim Kinnear i Peter Sarson. Els Tancs Pesats KV-1 i KV-2. Osprey Military. ISBN 84-473-1597-5
+*Steven J. Zaloga, Jim Kinnear i Peter Sarson. El Tanc Mitjà T-34/85. Osprey Military. ISBN 84-473-1481-2
+*Steven Zaloga i James Grandsen. T-34 in Action, Squadron/Signal Publications. ISBN 0-89747-112-1
+*Tom Jentz, Hilary Doyle i Peter Sarson. El Tanc Pesat Königstiger. Osprey Military. ISBN 84-473-1475-8
+
+== Vegeu també ==
+{{Vehicles blindats soviètics de la II Guerra Mundial}}
+
+== Enllaços externs ==
+{{Projectes germans|commons=Iosef Stalin tank}}
+* [http://www.geocities.com/urrib2000/Tanques2.html El IS-2 a Cuba] {{es}}
+* [http://www.militar.org.ua/militar/tanques/tanques-Stalin-IS-2-contra-Tiger-II.html El IS-2 contra el Tiger-II] {{es}}
+* [http://mainbattletanks.czweb.org/Tanky/is-7_2.jpg '''IS-7 model 1948'''] {{en}}
+
+
+{{ORDENA:Tanc Iossif Stalin}}	!--ORDENA generat per bot--
+[[Categoria:Tancs soviètics de la Segona Guerra Mundial]]</text>
+      <sha1>s1vw5o553b4dgn01szs94pe5685xfuj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

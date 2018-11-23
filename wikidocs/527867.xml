@@ -1,0 +1,116 @@
+<page>
+    <title>Maurice Vincent Wilkes</title>
+    <ns>0</ns>
+    <id>527867</id>
+    <revision>
+      <id>13816734</id>
+      <parentid>11694551</parentid>
+      <timestamp>2014-07-14T00:09:03Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{ Infotaula Personalitat
+| nom = Maurice V. Wilkes
+| imatge = Maurice V Wilkes.jpg
+| mida = 150px
+| descripció = Maurice Vincent Wilkes
+| data_naix = {{Data naixement|1913|7|26}}
+| lloc_naix = {{UK}}, [[Dudley (Staffordshire)|Dudley]]
+| data_mort = {{Data defunció i edat|2010|11|29|1913|7|26}}
+| lloc_mort = [[Staffordshire]]
+| nacionalitat =
+| ocupació = informàtic, físic
+| cònjuge =
+| fills =
+| pares =
+| signatura =
+}}
+'''Maurice Vincent Wilkes''' ([[Dudley (Staffordshire)|Dudley]], [[Staffordshire]], [[26 de juny]] de [[1913]] - [[Cambridge]], [[29 de novembre]] de [[2010]]) fou un investigador de les [[ciències de la computació]], reconegut per diversos dels seus importants desenvolupaments en el camp de la [[informàtica]].
+
+Wilkes va estudiar al [[St John's College]] de la [[Universitat de Cambridge|Cambridge]] del 1931 al 1934, seguint el 1936 amb un [[PhD]] en [[física]] sobre la propagació de radiacions d'ona llarga a la [[ionosfera]].
+Es trobava en un lloc ''junior'' a la Universitat de Cambridge, que li va permetre participar en la creació d'un laboratori d'informàtica.
+
+Wilkes va ser reclutat per fer el [[servei militar]] durant la [[Segona Guerra Mundial]], i va treballar en el tema del [[radar]] i de la [[investigació operativa]].
+
+El 1945, va ser nomenat vicedirector del laboratori de matemàtiques de la [[Universitat de Cambridge]], més endavant anomenat Laboratori Informàtic.
+
+Al principi, el laboratori de Cambridge tenia diversos dispositius de còmput, entre els quals es trobaven un [[analitzador diferencial]] de [[Vannevar Bush]].
+
+Un dia, Wilkes va trobar una còpia d'un document de [[John Von Neumann]], encara no publicat, que descrivia l'[[EDVAC]], un successor del'[[ENIAC]].
+L'[[ENIAC]] s'estava construint per [[Prespa Eckert]] i [[John Mauchly]] a l'escola Moore d'Enginyeria Elèctrica, i Von Neumann estava prenent notes sobre les seves observacions.
+Wilkes va llegir el document a la nit (perquè havia de tornar-lo i no hi havia màquines de fotocòpies), i aviat es va adonar que aquest era el camí pel qual la informàtica havia d'anar.
+Per això, el va publicar (respectant el nom de l'autor original) i així va fer famosa l'[[Arquitectura Eckert-Mauchly | arquitectura Von Neumann]].
+
+Com el laboratori de Wilkes tenia el seu propi finançament, va poder començar immediatament a treballar en una petita màquina pràctica, l'[[EDSAC]].
+Va decidir que el seu objectiu final no havia de ser inventar un ordinador millor, sinó aconseguir que la universitat en tingués un de disponible; per això, el seu enfocament va ser totalment pràctic: fer servir només els mètodes coneguts i que funcionaven per construir cada peça de la màquina.
+L'ordinador resultant era més lent i petit que els altres ordinadors planejats en aquella època, però va aconseguir ser el primer exemple d'ordinador que tenia un [[programa emmagatzemat]] en memòria. Va funcionar correctament des de maig de 1949.
+
+El 1951, va desenvolupar el concepte de la [[microprogramació]] quan es va adonar que la [[CPU | unitat central de procés]] d'un ordinador podia estar controlada per un petit [[programari | programa]] altament especialitzat i escrit a [[memòria ROM]], que és molt ràpida.
+Aquest concepte va simplificar enormement el desenvolupament dels processadors.
+
+La programació va ser presentada el 1951 a la conferència inaugural de la [[Universitat de Manchester]], i després es va publicar un article expandit a [[IEEE Spectrum]], el 1955.
+El concepte es va implementar de manera pràctica en l'EDSAC 2, que també feia servir múltiples tires de bits idèntiques per simplificar el disseny.
+Es feien servir muntatges de tubs intercanviables per a cada bit del processador, cosa que va ser molt avançada per l'època.
+
+El següent ordinador per al seu laboratori va ser el [[Titan (ordinador)| Titan]], un projecte conjunt amb [[Ferranti | Ferranti Ltd]]. Va arribar a ser el primer sistema del [[Regne Unit]] de [[temps compartit (informàtica)| temps compartit]], i es feia servir per donar accés a altres recursos de les universitats, com a sistemes gràfics de temps compartit per al [[disseny assistit per ordinador]] de peces mecàniques.
+
+Una característica important del [[sistema operatiu]] de Titan era que proporcionava accés als dispositius depenent de la identitat del programa, a més de la identitat de l'usuari.
+A més, permetia el sistema de xifrat de contrasenyes que es faria servir més tard en [[Unix]].
+El seu sistema de programació també en tenia un [[sistema de control de versions]].
+
+Wilkes també és reconegut per altres idees, com la de les etiquetes simbòliques en el codi, les [[macro]]s, i les [[biblioteca (programació)| biblioteques de funcions]].
+Són desenvolupaments fonamentals de la [[programació d'ordinadors]], que l'han fet més fàcil que en èpoques anteriors, i que han permès la creació de [[llenguatge de programació| llenguatges de programació]] d'[[llenguatge d'alt nivell| alt nivell ]].
+
+Més tard, Wilkes va treballar en un dels primers sistemes de temps compartit (ara coneguts com a sistemes operatius [[multiusuari]]) i en [[computació distribuïda]].
+
+El 1956 va ser elegit com a membre de la [[Royal Society]].
+
+Wilkes va rebre el [[Premi Turing]] el 1967, amb el següent comentari:
+
+:''El professor Wilkes és conegut principalment com el constructor i dissenyador de l'EDSAC, el primer ordinador amb un programa emmagatzemat internament. Construït el 1949, l'EDSAC usava una [[memòria de línia de retard de mercuri]]. També és conegut com l'autor, juntament amb [[David Wheeler | Wheeler]] i [[Stanley Gill | Gill]], d'un volum sobre Preparació de Programes per als Ordinadors Electrònics Digitals el 1951, en el qual presenta les [[biblioteca (programació) | biblioteques de programes]] de forma efectiva.''
+
+Cap al final dels 1960s, Wilkes també es va interessar en la [[computació segura]] (basada en capacitats), i el laboratori va muntar un ordinador experimental, el [[Cambridge CAP]].
+
+El 1974, va trobar una [[xarxa d'ordinadors| xarxa]] (a Hasler AG) que feia servir una [[topologia de xarxa| topologia]] [[xarxa en anell| en anell]] per reservar temps a la xarxa. El laboratori feia servir al principi un prototip per compartir perifèrics.
+Van arribar a un acord comercial, i es va crear una tecnologia similar que va passar a estar àmpliament disponible al Regne Unit.
+
+El 1980 es va retirar del seu càrrec de professor al laboratori i va entrar a l'equip d'enginyeria de [[Digital Equipment Corporation]] a [[Maynard, Massachusetts]].
+
+El 1986 Wilkes torna a Anglaterra, i es converteix en membre de l'equip de recerca d'[[Olivetti]].
+La Universitat de Cambridge li presenta el 1993 un títol honorífic de Doctor en Ciència (''D. Sc'').
+Va ser coronat a la [[New Year Honours List]] de 2000.
+El 2002, va tornar al Laboratori d'Informàtica de la Universitat de Cambridge com a professor [[emèrit]].
+
+S'atribueix a Maurice V. Wilkes la cita:{{Citació necessària|data=novembre de 2012}}
+''Puc recordar el moment exacte en què em vaig adonar que una gran part de la meva vida a partir de llavors la passaria corregint errors en els meus propis programes''.
+
+== Publicacions ==
+*''Time-sharing Computer Systems''. Elsevier, 1975. ISBN 0-444-19525-4
+*''Memoirs of a Computer Pioneer''. The MIT Press. 1985. ISBN 0-262-23122-0
+
+== Enllaços externs ==
+{{Commonscat|Maurice Vincent Wilkes}}
+
+* [http://hawaii.ls.fi.upm.es/historia/grandes% 20logros/Edsac/Edsac_2_ppal.htm EDSAC 2] {{es}}
+* [http://www.cl.cam.ac.uk/ ~ mvw1/list-of-papers.txt Llista d'articles] {{en}}
+* [http://www.cl.cam.ac.uk/users/mvw1/ Pàgina personal] {{en}}
+* [http://ei.cs.vt.edu/ ~ history / Wilkes.html Biografia de Maurice Wilkes] {{en}}
+* [http://www.cl.cam.ac.uk Computer Laboratory, University of Cambridge] {{en}}
+* [http://www-etsi2.ugr.es/alumnos/mlii/edsac.htm EDSAC], desenvolupat per Wilkes {{es}}
+
+{{Premi Turing}}
+{{Autoritat}}
+{{ORDENA:Wilkes, Maurice}}
+[[Categoria:Informàtics britànics]]
+[[Categoria:Professors de la Universitat de Cambridge]]
+[[Categoria:Alumnes de la Universitat de Cambridge]]
+[[Categoria:Persones de Staffordshire]]
+[[Categoria:Premiats amb el Premi Turing]]</text>
+      <sha1>2wx3w7u9def53htnou54eliqd5te3ds</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

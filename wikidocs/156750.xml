@@ -1,0 +1,230 @@
+<page>
+    <title>V-2</title>
+    <ns>0</ns>
+    <id>156750</id>
+    <revision>
+      <id>13534023</id>
+      <parentid>13499311</parentid>
+      <timestamp>2014-06-06T21:39:04Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: dubten de què això  dubten que això</comment>
+      <text>{{Infotaula arma
+|nom= {{lang|de|Aggregat-4}} / {{lang|de|Vergeltungswaffe-2}}
+|imatge= [[Fitxer:Fusée V2.jpg|300px|[[Rèplica]] de V-2 al Museu de [[Peenemünde]]]]
+|peu= [[Rèplica]] de V-2 al Museu de [[Peenemünde]]
+|nació= {{flagcountry|GER|Nazi}}
+|spec_tipus= Míssil Balístic d'una sola etapa
+!-- Història de servei --
+|serv_data= 1944–[[Llista de llançaments de prova de V-2#Llançaments de coets V-2 capturats als EUA després del 1945|1952]]
+|operadors= {{flagcountry|GER|Nazi}}br /{{flag|United States}} (després de la guerra)br /{{flag|Soviet Union}} (després de la guerra)
+|guerra= 
+!-- Història de producció --
+|dissenyador= [[Mittelwerk]] GmbH (desenvolupament per [[Peenemünde#Army Research Center Peenemünde|Army Research Center Peenemünde]])
+|data=
+|marca=
+|cost=100.000 [[Reichsmark|RM]] Gener del 1944, 50.000 RM març del 1945ref name=Kennedy{{ref-llibre |cognom=Kennedy|nom= Gregory P.|títol=Vengeance Weapon 2: The V-2 Guided Missile|any=1983 |editorial= Smithsonian Institution Press|lloc= Washington DC|pàgines=27, 74}}/ref
+|prod_data=[[Llista de llançaments de prova de V-2|16 de març de 1942]]
+|número= 
+|variants= 
+!-- Especificacions generals --
+|pes= 12500 kg
+|longitud= 
+|canó= 
+|amplada=
+|alçària=14 m 
+|diàmetre=1,65 m
+|equip=1,000 kg d'[[amatol]]
+!-- Arma de foc comuna -- 
+|munició= 
+|calibre= 
+|canons=
+|sistema= 
+|cadència= 
+|velocitat= 
+|abast= 
+|abast_màxim= 
+|carregador= 
+|mires= 
+!-- Artilleria --
+|retrocés= 
+|blindatge= 
+|angle_vertical= 
+|angle_horitzontal= 
+!-- Arma blanca -- 
+|hoja= 
+|puño= 
+|vaina= 
+!-- Explosiu -- 
+|explosiu= 
+|pes_explosiu= 
+|detonació= 
+!-- Míssil --
+|envergadura= 3,56 m
+|propulsor= 3810 kg de 75% d'[[etanol]] i 25% water + 4910 kg d'[[oxigen líquid]]
+|teulada_vol= 
+|altitud=88 km en l'altitud màxima a la trajectòria de llarg termini, 206 km en màxima altitud si es llança verticalment.
+|profunditat= 
+|temps_llançament= 
+|velocitat_màxima= 1600 m/s - 5760 km/h br/En impactar: 800 m/s - 2880 km/h
+|sistema_guia=Giroscopis per determinar la direccióbr /L'[[acceleròmetre giroscòpic pendular Müller]] per la separació de motor en la majoria de producció de coets (el 10% dels coets de [[Mittelwerk]] van utilitzar un feix orientador per a la separació.)ref name=Neufeld{{ref-llibre |cognom=Neufeld|nom=Michael J|títol=The Rocket and the Reich: Peenemünde and the Coming of the Ballistic Missile Era|any=1995|editorial=The Free Press|lloc=New York|pàgines=73, 74, 101, 281}}/ref
+|abast=320 km
+|precisió= 
+|plataforma= Mòvil ([[Meillerwagen]])
+|transport= 
+}}
+[[Fitxer:V-2 Rocket On Meillerwagen.jpg||thumbnail|310px|right|Coet V-2 a Meillerwagen (Smithsonian Institution Negative #76-2755)l]]
+El [[míssil balístic]] '''V-2''' (en alemany Vergeltungswaffe 2, tot i que els enginyers l'anomenaven '''A-4''') va ser el primer coet de combustible líquid realment funcional. Va ser emprat per l'exèrcit alemany (Wehrmacht) per atacar objectius aliats durant la [[Segona Guerra Mundial]]. Tot i que el seu ús principal era ser emprat com a arma ofensiva, aquest giny va representar un salt quantitatiu immens en el desenvolupament de la tecnologia de coets existent, i es pot considerar un dels pares del moderns coets. Finançat per l'alemanya Nazi aquest gran programa va costar com a mínim uns 2.000 milions de dòlars de l'any 1944.
+Es van construir 6.084 míssils V-2, el 95% d'ells durant els set darrers mesos de la guerra. Per aquesta tasca es van fer servir uns 20.000 treballadors forçats. Aproximadament uns 3.225 coets van ser emprats en accions de guerra, la majoria d'ells llançats contra Anvers (Bèlgica) i Londres (Regne Unit). Entre 1.000 i 1.700 van ser disparats durant les proves i els entrenaments.
+Tot i l'enorme escala de l'esforç, la falta de precisió i efectivitat dels míssils va impedir que canvies el sentit de la guerra i tot va resultar en un enorme malbaratament de recursos. Finalitzada la guerra, els anglesos, americans i russos van disparar uns altres 86 V-2 capturats als alemanys entre els anys 1945 i 1952. Tot el personal i la tecnologia dels V-2 capturat i recollit pels aliats vencedors, van formar la base de tot el desenvolupament de la coeteria que es produiria als Estats Units, Rússia i França en els anys de la postguerra i fins a l'actualitat. 
+
+== Desenvolupament ==
+[[Fitxer:Rocket engine A4 V2.jpg|thumb|left|Tall vertical d'un motor]]
+A l'agost del 1932, [[Wernher von Braun]] va ser reclutat per l'exèrcit alemany amb l'objectiu d'ajudar a en [[Walter Dornberger]] a desenvolupar coets de combustible líquid. Els passos donats fins aquell moment en la construcció de motors coet eren molt limitats. La VfR (Societat alemanya per les astronaus) encarregada d'aquest afers només havia aconseguit un coet amb la cambra de combustió refrigerada per aigua que només podia generar 60 kg amb un impuls específic de 173 segons.
+
+Després de només 28 mesos de treball, Von Braun va ser capaç de fer una demostració davant l'exèrcit del A-2, un petit coet capaç de generar una empenta de 300 kg.
+
+Després de tres anys, al desembre del 1937, es va llençar l'A-3 que suposadament havia de ser el prototip de l'A-4 (V-2). L'A-3 aconseguia una empenta de 1.500 kg, però el poc sofisticat sistema de refrigeració només permetia mantenir l'impuls 195 segons. A part es va demostrar que els sistemes de control i l'aerodinàmica estaven completament malament.
+
+Per tal d'acomplir els seus objectius l'A-4 necessitava un motor amb una empenta de 25.000 kg. Després de 7 anys seguint un procés d'assaig i error, es va aconseguir perfeccionar un motor de 1500 kg amb un impuls específic de 215 segons. Però tots els intents de fer créixer el motor fins als 25.000 kg van fracassar per la inestabilitat de la cambra de combustió. Com a solució temporal es va decidir d'ajuntar 18 cambres de combustió del motor petit en un sol motor. Finalment aquest complexíssim disseny temporal es va haver de passar a producció. 
+
+El desenvolupament dels sistemes de control i l'aerodinàmica pel V-2 van necessitar de centenars de proves amb coets a escala A5. Aquest també va ser un esgotador procés d'assaig - error donat que hi havia molt poca teoria i cap experiència prèvia en el camp de l'aerodinàmica a velocitats supersòniques. El míssil havia d'esser controlat en aixecar-se verticalment a molt poca velocitat (i per tant les superfícies aerodinàmiques no tenien efecte), però quan volava a velocitats subsòniques, transsòniques i hipersòniques fins a arribar a Mach 4. No va poder fins a mitjans del 1942 que es van poder llençar els primers A-4 en proves. Els dos primers llençament van fracassar però el tercer, el [[d'octubre]], va volar 200 km.ref{{Ref-llibre |cognom=Stocker |nom=Jeremy |títol=Britain and Ballistic Missle Defence, 1942-2002 |url=http://books.google.es/books?id=Dlhwx7atBr0Cpg=PA10lpg=PA10dq=3+october+1942+v-2+200+kmsource=blots=_S0u8Z7e_lsig=6YY-Q-Z_y89OCws6-9xpu7ZmVzUhl=casa=Xei=W1VMUIr6HeeU0QXnyYGgBAved=0CEAQ6AEwAw#v=onepageq=3%20october%201942%20v-2%20200%20kmf=false |llengua=anglès |editorial=Routledge |data=2004 |pàgines=p.10 |isbn=0714656968}}/ref
+
+La darrera àrea de tecnologia completament nova que calia desenvolupar era el sistema de guiat. Calia dirigir de manera precisa un míssil amb un abast de 320 km. Després de descartar la guia per ràdio, els dissenyadors de la V-2 van haver-se de decantar per de control que orientava el míssil seguint un camí determinat sobre un pla vertical que apuntava a l'objectiu. El sistema emprava acceleròmetres acumuladors per determinar quan el míssil havia assolit la velocitat correcta per procedir a apagar el motor en aquest moment. 
+
+[[Adolf Hitler]] va endarrerir la decisió de començar a produir massivament les V-2 tres anys, del 1939 al 1942. En [[Walter Dornberger]] es lamenta repetidament a les seves memòries, afirmant que el se coet podria haver canviat el curs de la guerra si hagués estat disponible abans. De totes maneres, i donats els problemes que van aparèixer durant el seu desenvolupament, moltes fonts dubten que això hagués estat possible.
+
+== Detalls Tècnics ==
+[[Fitxer:V-2 rocket diagram (with English labels).svg|right|350px|Diagrama d'un coet V-2.]]
+Al moment del llançament la V-2 es propulsava durant 65 segons com a màxim, mentre un motor programat controlava l'angle d'inclinació fins al punt on es tallava l'impuls del motor. A partir d'aquest punt el cos continuava en caiguda lliure seguint una [[trajectòria balística]]. El combustible (alcohol) i l'oxidant (oxigen) eren empesos a la [[cambra de combustió]] per [[turbina de vapor|turbines de vapor]]. El vapor que movia aquestes turbines era generat per peròxid d'hidrogen concentrat emprant [[permanganat potàssic]] com a [[catalitzador]]. Els dipòsits que contenien tant l'alcohol com l'oxigen estaven fabricats amb un [[aliatge]] d’[[alumini]] i [[magnesi]].
+
+La cambra de combustió assolia una temperatura d'entre 2.500nbsp;°C i 2.700nbsp;°C. El combustible compost d'alcohol i aigua es bombava a través de la doble paret de la cambra de combustió principal, per tal de refrigerar la cambra i escalfar el combustible (refrigeració regenerativa). Després d'aquest recorregut el combustible era injectat a la cambra de combustió principal a través de 1.224 [[injector]]s, per tal d'assegurar la correcta barreja de l'alcohol i l'oxigen. Uns petits forats permetien que una petita part del combustible es filtrés directament a la [[cambra de combustió]], formant-se una capa (boundary layer) que en protegia les parets. Aquesta capa s'encenia en contacte amb l'atmosfera formant la llarga i difusa flama a la sortida del motor.
+
+Les V-2 eren dirigides per quatre [[Timó|timons]] externs col·locats als [[aleró|alerons]] de la cua, i per quatre panells de [[Grafit (mineral)|grafit]] interns instal·lats a la sortida del motor. El sistema de guiatge LEV-3 consistia en dos [[giroscopi]]s (un de vertical i un d'horitzontal) per aconseguir l'estabilització lateral, i un [[acceleròmetre]] giroscòpic connectat a un integrador electrolític (el tall del motor es produïa quan una fina capa de plata ubicada sobre una base poc conductora, era desgastada). Algunes de les darreres V-2 eren dirigides per rajos guia (senyals de ràdio transmesos des de terra), però els primers models empraven una senzilla [[computadora analògica]] que ajustava la direcció del coet, i la distància de vol era controlada pel moment d'atur del motor, per un [[sistema doppler]] governat des de terra o per diferents acceleròmetres integrats a l'interior. El coet deixava d'accelerar tan bon punt arribava a la part més alta de la [[paràbola]] que el conduïa fins a l'objectiu.
+
+La majoria de les V-2 operatives anaven pintades de camuflatge amb diferents variacions, però cap al final de la guerra també van aparèixer pintades de [[verd oliva]]. Durant la fase de proves, les coets anaven pintats amb el típic patró de quadres blancs i negres alternats (com un tauler d'escacs), per que fos més fàcil d'apreciar si el coet girava sobre si mateix.
+
+;Fitxa tècnica 
+** Nom: V-2 (Vergeltungswaffe 2)
+** Funció: Míssil balístic d'una etapa (bombardeig)
+** País: Alemanya
+** Desplegament: 1944
+** Longitud: 17,25 m.
+** Amplada (amb alerons): 3,56 m.
+** Diàmetre: 1,65 m.
+** Pes en llançament: 12.800 kg.
+** Abast: 393 km.
+** Tipus motor: Combustible líquid.
+** Empenta: 267 kN.
+** Combustible: 3800 kg d'alcohol (etanol i aigua)
+** Oxidant: 4900 kg d'oxigen líquid
+Donades les variacions que hi ha entre diverses fonts les dades aquí presentades poden no ser del tot exactes.
+
+== Emplaçaments de llançament ==
+[[Fitxer: V-2_Rocket_On_Meillerwagen.jpg|Right|thumb|200px| Coet V-2 a Meillerwagen]]
+Inicialment es van planificar realitzar llançaments des de grans bukners subterranis a Épercles i La Coupole, però finalment es va optar per llançament des de posicions mòbils. Per tal de poder moure tot el necessari pel llançament d'un sol míssil, incloent-hi el coet, homes, equipament i el combustible, es necessitaven uns 30 camions. Un cop ubicat al lloc de llançament el coet era aixecat, s'omplien els tancs de combustible, s'armava i es disparava. Des que el comboi arribava al lloc de llançament fins que es disparava el coet eren necessaris uns 90 minuts i el personal era capaç d'abandonar el lloc en 30 minuts més. Amb aquesta tècnica es podia dispara una mitjana de deu V-2 per dia.
+
+Aquests míssils, doncs, es podien disparar pràcticament des de qualsevol lloc. Normalment s'escollien carreteres que travessaven boscos, per poder amagar-se millor. El sistema era tant petit i tant mòbil que ni un sol d'aquests combois fa ser detectat enmig d'un llançament per l'aviació aliada.
+
+== Operacions ==
+La primera unitat capaç d'assolir un estat operacional real, va ser la Batterie 444. El 2 de setembre del 1944 es van desplegar a Houffalize (Bèlgica) per iniciar una sèrie d'atacs sobre la recent alliberada ciutat de París. L'endemà el 485 es va moure cap a Den Haag per iniciar l'atac sobre Londres. Durant els següents dies alguns dels llançaments van fallar, però a partir del 8 de setembre ambdós grups van començar a efectuar llançaments efectius.
+[[Fitxer:V2 engine.jpg|right|thumbnail|175px|Motor d'un coet V-2.]]
+Durant els següents mesos es van disparar un mínim de 3.172 míssils distribuïts entre diversos objectius de la següent manera: {{Citació necessària|data=novembre de 2012}}
+
+* Sobre [[Bèlgica]] : 1664{{Citació necessària|data=novembre de 2012}}
+** [[Anvers]] 1610 (˜ 50% del total)
+** [[Liege]] 27
+** [[Hasselt]] 13
+** [[Tournai]] 9
+** [[Mons]] 3
+** [[Diest]] 2
+
+* Sobre [[França]] : 76{{Citació necessària|data=novembre de 2012}}
+** [[Lilla]] 25
+** [[París]] 22
+** [[Tourcoing]] 19
+** [[Arràs]] 6
+** [[Cambrai]] 4
+
+* Sobre [[Anglaterra]] : 1402{{Citació necessària|data=novembre de 2012}}
+** [[Londres]] 1358 (˜ 40% del total)
+** [[Norwich]]/[[Ipswich]] 44
+
+* Sobre [[Alemanya]] : 11{{Citació necessària|data=novembre de 2012}}
+** [[Remagen]] 11
+
+* Sobre [[Països Baixos|Holanda]] : 19{{Citació necessària|data=novembre de 2012}}
+** [[Maastricht]] 19
+
+Realment va haver-hi centenars més de llançaments, però que van explotar en ple vol, de manera que no apareixen a cap de les estadístiques dels aliats. Els treballs finals sobre les V-2 al final de la Guerra intentaven, de fet, solucionar aquest problema.
+
+La darrera bomba V-2 que va esclatar (sobre el seu objectiu) ho va fer el 27 de març del 1945. S'estima que uns 2.754 civils van morir i uns 6.523 van quedar ferits a Londres a causa dels atacs amb les V-2. Aquests atacts van provocar un nombre relativament baix de víctimes (en el context de la guerra) perquè moltes de les bombes anaven mal dirigides i van explotar en llocs on podien fer molt poc mal. Correctament dirigits cap a blancs més encertats haguessin causat una devastació terrible.
+
+== Silenci ==
+Les bombes V-2 volaven a una velocitat supersònica, això feia que fins al moment de l'impacte es moguessin en el més absolut silenci. Per la població civil acostumada a amagar-se quan sentien a un bombarder enemic o una bomba voladora V-1, aquesta nova arma resultava desconcertant.
+
+Aquest fet va permetre també al govern britànic mantenir aquest nou tipus d'atac en secret fins al 10 de novembre, tot i que aquests van començar al setembre del 1944. Les explosions es podien atribuir a qualsevol altre causa o senzillament a cap causa. D'aquesta manera els alemanys no podien estar segurs de si els seus míssils estaven arribant o no a Anglaterra. El 8 de novembre els alemanys finalment van anunciar que disposaven i estaven emprant les V-2, només llavors (2 dies després) Winston Churchill va informar al parlament que Anglaterra estava patint un atac amb coets des de feia unes setmanes.
+
+== Contramesures ==
+A diferència de les bombes voladores [[V-1]], la velocitat i trajectòria amb les que volaven les V-2 les feien immunes a al foc antiaeri i als avions de caça. Aquestes bombes queien des d'una alçada d'entre 100 i 110 km a una velocitat que podia arribar a 4 vegades la velocitat del so (uns 4.500 km/h). Es va proposar un pla en el que, un cop detectada la bomba a través del radar i calculada la seva velocitat terminal, pretenia saturar amb munició antiaèria la trajectòria final del coet. Al final el pla es va descartar, perquè el nombre d'obusos que fallarien i caurien a terra provocarien més mal que la bomba mateixa. 
+
+L'única defensa possible contra les V-2 era intentar destruir les infraestructures de llançament o bé, intentar que els alemanys apuntessin cap a llocs incorrectes emprant tècniques de desinformació. Els Britànics van aconseguir que els alemanys dirigissin les V-1 i V-2 que apuntaven a Londres cap a les àrees menys poblades a l'est de la ciutat. Això es va aconseguir enviant falsos informes sobre els impactes a través de la xarxa alemanya d'espionatge a Anglaterra que era controlada per l'[[MI5]] (Double Cross System).
+
+Finalment la millor contramesura contra aquesta campanya va ser l'avanç de les tropes aliades que va fer que els combois llançadors haguessin de retrocedir més enllà de l'abast màxim dels míssils.
+
+== Efectivitat ==
+[[Fitxer:Dora - production.jpg|frame|left|Cadena de producció de V-2 a Mittelwerk.]]
+Tot i ser una de les armes més avançades de la [[segona guerra mundial]], les V-2 van ser militarment molt poc efectives. Donat que no empraven un [[detonador]] de proximitat no podien explotar a l'aire a una certa distància de l'objectiu. Això feia que s'enterressin o es clavessin contra l'objectiu abans o just en el moment en què el cap explosiu detonava, i per tant que la destrucció fos menor. A més el sistema de guiatge no era prou avançat per permetre apuntar-les cap a objectius concrets. A més el seu cost era l'equivalent a un bombarder quadrimotor, que tenia més abast, podia portar més bombes i era reutilitzable. Tot i això el seu efecte psicològic era notable donat que al volar a més velocitat que el so, no hi havia cap tipus d'advertència anterior a l'impacte i la defensa tampoc era possible.
+
+Poder produir massivament les V-2 va costar a alemanya (aproximadament) prop d'1 milió de marcs (Reichsmark) per coet. Amb el cost de les 6.000 V-2 construïdes es podrien haver fet 48.000 tancs model Panzer IV. De totes maneres aquestes comparacions no consideren la realitat de l'alemanya nazi ni la psicologia i les idees de la cúpula nazi en aquell moment. Amb la guerra pràcticament perduda, els alemanys van recórrer a les armes V com la darrera esperança per canviar el curs de la guerra, castigar als enemics i, sobretot, donar ànims i esperances als seus partidaris. 
+
+La innegable aportació de les V-2, tot i la seva ineficàcia, va ser el salt que va representar aquesta arma innovadora assentant les bases de la coeteria militar i civil dels següents 50 anys que va culminar amb els [[ICBM]]s (Míssils Balístics Intercontinentals) durant la guerra freda i l'arribada de l'home a la lluna.
+
+== Projectes inacabats ==
+Es varen realitzar proves satisfactòries amb un submarí que portava una plataforma de llançament, essent aquest el primer prototip d'una plataforma submarina de llançament de míssils balístics. Aquest projecte s'anomenava Prüfstand XII i si s'hagués completat hauria permès als U-boat disparar míssils V-2 sobre els Estats Units[http://www.uboataces.com/articles-rocket-uboat.shtml].
+
+A l'agost del 1944, dotze coets desmuntats van ser enviats cap al Japó, des del port the Bordeaux dins dels submarins de transport U-219 i U-195. Van passar per Djakarta el desembre del mateix any. Un expert civil en les V-2, vas ser també embarcat al submarí U-234 cap al Japó al final de la guerra a Europa(maig del 1945). Es desconeix quin va ser el final real d'aquests coets.
+
+Cap al final de la guerra, els científics alemanys estaven treballant en càrregues quimiques (i possiblement també biològiques) per ser emprades en el programa V-2. En aquesta època els alemanys ja havien produït municions que contenien agents nerviosos com el sarin, el soman i el tabun.
+
+== Les V-2 a la postguerra ==
+[[Fitxer:Bumper8_launch-GPN-2000-000613.jpg|thumb|300px|right|Llançament de proves d'un ''Bumper'' V-2.]]
+Un cop acabada la guerra a Europa, va començar una cursa entre els [[Estats Units]] i la [[Unió Soviètica]] per tal d'aconseguir capturar el màxim nombre possible de coets V-2 i del personal especialitzat al seu càrrec. Tres-cents (300) trens carregats amb V-2 i components van ser enviats cap als Estats Units. Els van acompanyar en el viatge 126 dels principals enginyers, científics i dissenyadors del projecte entre els que s'incloïen [[Wernher von Braun]] i [[Walter Dornberger]]. Von Braun i el seu equip va decidir rendir-se als americans per tal de no caure en mans de les tropes russes.
+
+En mig de tot això dins de l'operació ''Backfire'', l'octubre del 1945, els anglesos van muntar unes quantes V-2 i en van disparar tres des d'una ubicació al nord d'alemanya. Els enginyers implicats ens aquests llançaments de proves van ser transferits als Estats Units en acabar-les. L'informe backfire continua sent la documentació més detallada sobre aquests coets i inclou tots els procediments de suport, el vehicles fets a mida i la composició del combustible.
+
+L'[[Operació Paperclip]] es va dedicar a reclutar enginyers alemanys cap als Estats Units, mentre que la Missió Especial V-2 transportava cap al camp de proves de White Sands peces de les V-2. 
+
+La Unió Soviètica (URSS) també va capturar un nombre indeterminat de coets i enginyers deixant-los inicialment a Alemanya. Els primers contractes de treball es van signar a l'estiu del 1945. L'any 1946 van ser obligats a traslladar-se a Kapustin Yar (a l'URSS) on Groettrup dirigiria un equip d'uns 250 enginyers. Amb els primers coets R-1 (copies pràcticament exactes dels V-2, igual que els Bumper americans) s'inicià una família que evolucionaria fins als míssils [[Scud]] actuals.
+
+Els dissenys produïts per l'equip alemany a Moscou no es passaven a producció directament, sinó que enginyers soviètics incorporaven només les millors característiques als seus propis dissenys. A principis dels anys 50, quan ja s'havia transferit tot el coneixement als equips de disseny local, l'equip alemany va ser repatriat.
+
+Llançaments secrets d'alguna de les parts des de Peenemünde podrien considerar-se els responsables d'un curiós fenomen anomenat coets fantasma, en el que objectes estranys creuaven els cels de Suècia i Finlàndia a mitjans del 1946.
+
+== Bibliografia i articles ==
+* Dungan, Tracy D. (2005). ''V-2: A Combat History of the First Ballistic Missile.'' Westholme Publishing. ISBN 1-59416-012-0.
+* Huzel, Dieter K. (ca. 1965). ''Peenemunde to Canaveral''. Prentice Hall Inc.
+* King, Benjamin and Timothy J. Kutta (1998). ''Impact: The History of Germany's V-Weapons in World War II ''. (Alternately: ''Impact: An Operational History of Germany's V Weapons in World War II''.) Rockville Center, New York: Sarpedon Publishers, 1998. ISBN 1-885119-51-8, ISBN 1-86227-024-4. Da Capo Press; Reprint edition, 2003: ISBN 0-306-81292-4.
+* Piszkiewicz, Dennis (1995). ''The Nazi Rocketeers: Dreams of Space and Crimes of War''. Westport, Conn.: Praeger. ISBN 0-275-95217-7.
+* [http://www.globalsecurity.org/wmd/ops/peenemunde.htm Historia de Peenemünde i la descoberta dels míssils alemanys pels aliats]
+* [http://www.flyingbombsandrockets.com/V2_intro Sobre el efectes de les V2's a Londres]
+
+==Vegeu també==
+*[[Llista de llançaments de prova de V-2]]
+==Referències==
+{{referències|2}}
+{{commonscat|V-2 missiles}}
+
+[[Categoria:Armament de la Segona Guerra Mundial]]
+[[Categoria:Coets]]
+
+{{Enllaç AD|ja}}
+{{Enllaç AD|ka}}</text>
+      <sha1>q7mhg6h499j8s2sg6nqcjgr397hmpgr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

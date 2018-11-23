@@ -1,0 +1,133 @@
+<page>
+    <title>Regulació automàtica</title>
+    <ns>0</ns>
+    <id>621245</id>
+    <revision>
+      <id>13998621</id>
+      <parentid>13352918</parentid>
+      <timestamp>2014-09-02T09:56:43Z</timestamp>
+      <contributor>
+        <username>EVA2.0 (bot)</username>
+        <id>167473</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text (-Lyapunov +Liapunov, -Sergei +Serguei)</comment>
+      <text>La '''regulació automàtica''' és una branca de l'[[enginyeria]] que s'ocupa del control d'un procés en un estat determinat, per exemple, mantenir la temperatura d'una calefacció, el rumb d'un [[avió]] o la velocitat d'un [[automòbil]] en un valor establert. La regulació automàtica, també anomenada teoria de control, estudia el comportament dels [[sistemes dinàmics]], tractant-los com caixes o blocs amb una entrada i una sortida. En general, l'entrada al sistema és un senyal analògic o digital que es capta en algun punt del sistema. Els blocs intermedis representen les diverses accions pertorbadores que afecten al senyal, com fregaments en els actuadors, així com l'efecte dels elements de control interposats, els reguladors. Aquests efectes es solen representar per mitjà de les funcions matemàtiques que els descriuen, anomenades funcions de transferència. La sortida del sistema es diu referència i correspon al valor del senyal després actuar-hi les anteriors funcions de transferència. Quan una o més de les variables de sortida d'un sistema han de seguir el valor d'una referència que canvia amb el temps, es necessita interposar un controlador que manipuli els valors dels senyals d'entrada al sistema fins a obtenir el valor desitjat de sortida.
+
+== Història ==
+Encara que hi ha diversos tipus de sistemes de control des de l'Antiguitat, la formalització del domini de la Regulació va començar amb una anàlisi de la dinàmica del [[regulador centrífug]], dirigida pel físic [[James Clerk Maxwell]] a [[1868]] sota el títol ''On Governors'' (Sobre els Reguladors). Aquí va descriure i analitzar el fenomen de la caça, en què retards en el sistema poden provocar una compensació excessiva i un comportament inestable. Es va generar un fort interès sobre el tema, durant el qual el company de classe de Maxwell, [[Edward John Routh]], generalitzar els resultats de Maxwell per als sistemes lineals en general. Aquest resultat es coneix amb el nom de [[Teorema de Routh-Hurwitz]].
+ 
+Una aplicació notable de la Teoria de Control es va trobar a l'àrea del vol tripulat. Els [[germans Wright]] els seus primers vols amb èxit el [[17 de desembre]] de [[1903]] i es distingien per la seva habilitat per controlar els seus vols durant períodes substancials, més que per la seva habilitat per aprofitar l'empenta d'un [[perfil alar]], que ja era conegut.
+
+Durant la [[Segona Guerra Mundial]], la Teoria de Control va ser part important dels [[Sistema de control de tir|sistemes de control de tir]], [[Sistema de guiatge|sistemes de guiatge]] i [[Electrònica|electrònics]]. La [[carrera espacial]] també depenia del control precís de les naus. D'altra banda, la Teoria de Control també ha vist un ús creixent en camps com l'[[economia]] i la [[sociologia]].
+
+== Teoria clàssica: control en llaç tancat ==
+
+Per evitar els problemes del control en llaç obert, la teoria de control introdueix la [[realimentació]]. Un [[regulador]] de llaç tancat utilitza la realimentació per controlar els estats i les sortides d'un [[sistema dinàmic]]. El nom de llaç tancat fa referència al camí que segueix la informació en el sistema: les entrades al procés (per exemple, la [[diferència de potencial]] que s'aplica a un [[motor elèctric]]) afecta les sortides del procés (p. ex., la velocitat o el parell que ofereix el motor). Aquestes sortides es mesuren amb [[sensor]] és (captadors en el llenguatge de control) i es processen, un cop comparades amb la referència o consigna, mitjançant un controlador o regulador, el resultat, un senyal de control, s'afegeix a l'entrada al procés, tancant el llaç.
+El control de llaç tancat sempre ha d'estar format per un procés, Mesura i transmissió de la variable, Control, Element final de control.
+
+El control amb llaç tancat presenta els següents avantatges sobre el control en llaç obert:
+* Correcció de les pertorbacions (com ara fregament impredictible en un motor)
+* Bon comportament fins i tot amb incertesa en el [[model matemàtic|model]], és a dir, en aquells casos en què l'estructura del model no representa perfectament la realitat del procés o els paràmetres del model no es poden mesurar amb absoluta precisió
+* Permet estabilitzar processos inestables
+* Tolerància a variacions en els paràmetres
+
+L'únic desavantatge del control en llaç tancat, davant del control en llaç obert, és que el primer redueix la [[guany (electrònica)|guany]] total del sistema. Això porta a l'ús conjunt del control en llaç obert i tancat, per millorar el rendiment.
+
+Una arquitectura molt freqüent per a un regulador en llaç tancat és el [[regulador PID]].
+
+La sortida del sistema i (t) es compara amb el valor de referència r (t), a través de les mesures d'un sensor. S'alimenta l'error i al regulador C. Es defineix l'error i com la diferència entre el valor de referència i la sortida del sistema. En funció de l'error, el regulador modifica la seva sortida, que és precisament l'alimentació o al procés que s'està controlant, P. Aquest esquema és el que es mostra a la figura.
+
+El sistema en la figura és un sistema senzill d'una sola entrada i una sola sortida, SISO (de l'anglès ''single-input-single-output''), els sistemes més complexos, MIMO (''Multi-Input-Multi -Output'') són bastant freqüents. En aquests casos, les variables es representen mitjançant [[Vector (matemàtiques)|vectors]] en lloc de [[escalar|valors escalars]].
+
+[[fitxer: simple feedback control loop.png|negocis|A simple feedback control loop]] br/
+
+Si suposem que el regulador '' C '' i el procés '' P '' són [[lineal]] és i invariants en el temps (és a dir, els elements del seu [[funció de transferència]] '' C (s) '' i '' P (s) '' no depenen del temps), el sistema de la figura es pot analitzar aplicant la [[transformada de Laplace]] sobre les variables. Això proporciona les següents relacions:
+
+: math I (s) = P (s) U (s) \, \! /math
+: math U (s) = C (s) E (s) \, \! /math
+: math E (s) = R (s) - I (s) \, \! /math
+
+Aïllant '' I '' ('' s '') en funció de '' R '' ('' s '') s'obté:
+
+: math I (s) = \left (\frac{P (s) C (s)}{1+P (s) C (s)}\right) R (s) /math
+
+El terme math \frac{P (s) C (s)}{1+P (s) C (s)}/math s'anomena funció de transferència del sistema. El numerador és el guany en llaç obert de '' r '' a '' i '', i el denominador és un més el guany del llaç tancat. Si math P (s) C (s) \gg 1 /math, llavors '' I (s) '' és molt semblant a '' R (s) '', el que significa que la sortida s'ajusta molt bé a la referència '' r '' de control.
+
+== Estabilitat ==
+L'estabilitat, en Regulació Automàtica, sovint es defineix de la següent manera: un sistema és estable si, davant qualsevol entrada fitada en un interval qualsevol de temps, la sortida també està fitada. L'estabilitat, així definida, es coneix com [[estabilitat BIBO]] (de l'anglès Bound-Input-Bound-Output) (es pot consultar també l'[[estabilitat segons Liapunov]]).
+
+Si un sistema és estable segons l'anterior definició, aleshores el sistema no pot explotar, és a dir, davant d'una entrada finita la sortida del sistema no pot tendir a infinit en un interval tot el ampli que es vulgui. Matemàticament, això vol dir que perquè un sistema lineal causal continu en el temps sigui estable, tots els [[pol (anàlisi complexa)|pols]] del seu [[funció de transferència]] han
+* Estar situats a la meitat esquerra del [[pla complex]] si es fa servir la [[transformada de Laplace]], és a dir, la seva part real ha de ser menor o igual que zero
+O BÉ
+* Estar a la frontera o l'interior del cercle de radi unitat si s'usa la [[transformada Z]], és a dir, el seu mòdul ha de ser igual o menor que la unitat
+
+En ambdós casos, si el pol té part real estrictament menor que zero o el mòdul és estrictament menor que un, és [[estabilitat asimptòtica|asimptòticament estable]]. Les variables d'un sistema asimptòticament estable sempre disminueixen el seu valor inicial (excepte pel transitori inicial) i no mostren oscil·lacions permanents, que sí que apareixen quan l'pol té part real exactament igual a zero o bé el mòdul igual a un. En aquest últim cas es diu que el sistema és '' simplement estable ''. Un sistema estable (o simplement estable) que mai decreix ni creix amb el temps, i no presenta oscil·lacions, és [[estabilitat marginal|marginalment estable]]: en aquest cas té pols amb component real nul i component complexa nul. Si hi ha pols amb part real nul però part imaginària diferent de zero, apareixen oscil·lacions.
+
+Les diferències entre ambdós casos no suposen cap contradicció. La [[transformada de Laplace]] és en [[coordenades cartesianes]], mentre que la transformada Z és a [[coordenades polars]], i es pot demostrar que:
+* La part real negativa en el domini de Laplace correspon a l'interior del cercle unitat en el domini Z
+* La part real positiva en el domini de Laplace correspon a l'exterior del cercle unitat en el domini Z.
+
+Si el sistema en qüestió té una [[resposta impulsional]] de
+
+: math X [n] = 0.5^n o [n] \, /math
+
+considerant la [[transformada Z]] (vegeu [[Z-transform # Example 2 (causal ROC)|aquest exemple]]) s'obté
+
+: math X (z) = \frac{1}{1 - 0.5z^{-1}}\,/math
+
+que presenta un pol a math z = 0,5 /math ([[nombre imaginari|part imaginària]] zero). Aquest sistema és BIBO, és a dir, asimptòticament estable, ja que el pol està '' dins '' del cercle unitat.
+
+Tanmateix, si la resposta impulsional fora
+
+: math X [n] = 1.5^n o [n] \, /math
+
+llavors la corresponent transformada Z valdria
+
+: math X (z) = \frac{1}{1 - 1.5z^{-1}}\,/math
+
+que té un pol en math z = 1.5 /math i no és estable BIBO, ja que aquest pol té mòdul estrictament més gran que un.
+
+Existeixen nombroses eines per a l'anàlisi dels pols d'un sistema. Algunes d'elles són procediments gràfics, com l'estudi del [[lloc de les arrels]], els [[Bode|diagrames de Bode]] o els [[diagrama de Nyquist|diagrames de Nyquist]].
+
+== Controlabilitat i observabilitat ==
+La [[controlabilitat]] i l'[[observabilitat]] són els aspectes fonamentals d'un sistema per poder decidir la millor estratègia de control en el mateix. La controlabilitat és la possibilitat de portar el sistema a un estat particular utilitzant un senyal de control adequat. Si un estat no és controlable, llavors cap senyal de control aplicat podrà mai portar al sistema fins a un estat controlable. D'altra banda, l'observabilitat és la possibilitat de endevinar, mitjançant l'observació dels senyals d'entrada i sortida del sistema, l'estat intern del sistema. És a dir, si el sistema es troba en un estat '' no observable '', el controlador no serà capaç de corregir el comportament en llaç tancat si aquest estat no és desitjable.
+
+Si s'estudien els estats de cada variable del sistema que es va a controlar, cada estat dolent (des del punt de vista del control) d'aquestes variables ha de ser controlable i observable per assegurar un funcionament correcte del sistema en bucle tancat. Matemàticament, si algun dels [[i'autovalor]] és del sistema no és, alhora, observable i controlable, el seu efecte en la dinàmica del sistema es mantindrà inalterat en el control en llaç tancat que implementats. Si aquest i'autovalor és inestable, la seva dinàmica afectarà el sistema en llaç tancat i ho farà inestable. Els pols no observables no estan presents en la funció de transferència d'una representació en l'espai d'estats, de manera que de vegades es prefereixen en l'anàlisi de sistemes dinàmics. Si un pol no observable és inestable, llavors inestabilitzar el sistema i, tant si aquest pol és controlable com si no ho és, el sistema no es podrà estabilitzar (perquè no es pot actuar sobre el pol per no ser observable).
+
+En resum, un sistema només serà controlable quan tots els pols inestables del mateix siguin alhora observables i controlables. La solució a problemes de control de sistemes no controlables o no observables sol incloure l'addició d'actuadors i sensors.
+
+== Estratègies de control més freqüents ==
+Cada sistema de control ha de garantir en primer lloc l'estabilitat del comportament en llaç tancat. En els [[sistema lineal|sistemes lineals]], això es pot aconseguir directament mitjançant assignació dels pols. En els sistemes no lineals cal recórrer a teories específiques, habitualment basades en la Teoria de [[Aleksandr Liapunov]] per assegurar l'estabilitat sense tenir en compte la dinàmica interna del sistema. En funció de l'especificació de requisits del sistema (és a dir, de les condicions que desitgem imposar a la sortida) s'ha de triar una estratègia de control o una altra. A continuació es presenta una llista de les tècniques de control més habituals:
+
+=== Reguladors PID ===
+{{AP|Proporcional integral derivatiu}}
+
+El [[Proporcional integral|regulador PID]] probablement sigui el disseny de control més utilitzat, per ser el més senzill. PID són les sigles de Proporcional-Integral-Derivatiu, i es refereix als tres termes que operen sobre el senyal d'error per produir un senyal de control. Si '' u (t) '' és el senyal de control que s'envia al sistema, '' i (t) '' és la mesura que es fa del senyal de sortida i '' r (t) '' és la sortida desitjada, l'error es defineix com math e (t) = r (t) - i (t) /math i un regulador PID pren l'aspecte
+: math U (t) = K_P e (t)+K_I \int e (t) dt+K_D \dot{i}(t) /math
+
+El primer sumand s'aplica un senyal proporcional a l'error. El segon avaluació quina ha estat l'evolució de l'error, i cobra més importància quan l'error comès és petit però constant., El tercer terme avaluació quina serà la tendència, i cobra més importància quan l'error comès es produeix per instants.
+
+La dinàmica desitjada en llaç tancat s'obté ajustant els tres paràmetres math K_P /math, math K_I /math i math K_D /math. Aquest ajust sovint es fa iterant de manera empírica i sense coneixement previ del model del sistema. Sovint es pot assegurar l'estabilitat utilitzant únicament el terme proporcional. Els reguladors PID són la classe més usada de sistemes de control: però no es poden utilitzar en diversos casos més complicats, especialment si es consideren sistemes MIMO (Multiple Input Multiple Output, múltiples entrades i sortides).
+
+=== Assignació del lloc dels pols ===
+En els sistemes MIMO (múltiples entrades i sortides) es poden assignar els llocs dels pols matemàticament, usant una [[Espai d'estat (control)|representació de l'espai d'estats]] del sistema en llaç obert i calculant una matriu de realimentació que assigni als pols seves posicions desitjades. En sistemes complicats pot ser necessari un ordinador amb capacitat de càlcul, i no sempre es pot assegurar la robustesa de la solució. Més encara, en general no es mesuren tots els estats del sistema i per tant s'han d'incorporar '' observadors '' al disseny del lloc dels pols.
+
+=== Control òptim ===
+El [[control òptim]] és una tècnica particular de control en què el senyal de control intenta optimitzar una determinada '' funció de cost '': per exemple, en el cas d'un satèl·lit, el valor de flux dels coets que permetin portar-lo a la trajectòria desitjada amb el mínim consum de combustible. S'utilitza per a resoldre problemes d'optimització en sistemes que evolucionen en el temps i que són susceptibles de ser influenciats per forces externes. Poden ser sistemes que evolucionen en el temps el cos humà i el sistema econòmic. Una vegada que el problema ha estat resolt el control òptim ens dóna un camí de comportament per a les variables de control, és a dir, indica quines accions s'han de seguir per poder dur a la totalitat del sistema d'un estat inicial a un final de forma òptima. En les aplicacions industrials s'han fet servir dos mètodes de disseny de control òptim, ja que s'ha demostrat que poden garantir estabilitat en llaç tancat. Són el [[control per model predictiu]] ([[MPC]]) i el [[control gaussià lineal quadràtic]] ([[LQG]]). El primer permet prendre en consideració restriccions aplicables als senyals del sistema, que en molts processos industrials és un requisit decisiu. Juntament amb els reguladors PID, els sistemes MPC són la tècnica més usada en el control de processos.
+
+== Vegeu també ==
+* [[Enginyeria de control]]
+
+== Enllaços externs ==
+* [http://www.todocontrol.es/Todocontrol.es Lloc web dels sistemes de regulació i control d'instal·lacions en edificis]
+
+
+{{ORDENA:Regulacio Automatica}}	!--ORDENA generat per bot--
+[[Categoria:Enginyeria]]
+[[Categoria:Automatismes]]</text>
+      <sha1>nb8nlcw7vdkyhzoxgnh1ac1hwi0p93s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

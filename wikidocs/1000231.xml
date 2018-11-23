@@ -1,0 +1,76 @@
+<page>
+    <title>Kettering Bug</title>
+    <ns>0</ns>
+    <id>1000231</id>
+    <revision>
+      <id>13776906</id>
+      <parentid>13655887</parentid>
+      <timestamp>2014-07-10T04:50:43Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Kettering Bug]]</comment>
+      <text>{{2L|data=febrer de 2013}}
+{{Infotaula aeronau
+|nom = Kettering Bug
+|tipus = [[Míssil de creuer]]ref [http://www.historynet.com Glines CV Ford s Forgotten Aviation Legacy Aviation History mai 2008] /ref
+|fabricant = [[Dayton-Wright Airplane Company]]
+|imatge = file:Kettering Bug.jpg|thumb
+|peu de foto = Un Torpede Aeri Kettering, al carretó de llançament.
+|dissenyador = [[Orville Wright]] - [[Elmer Ambrose Sperry]]
+|primer vol = [[2 d 'octubre]] de [[1918]]
+|introduït =
+|retirat =
+|estat = Retirat
+|usuari ={{USA}}[[Cos de Senyals de l'Exèrcit dels Estats Units]]
+|altres usuaris =
+|producció =
+|unitats construïdes =
+|cost unitari =
+|variants amb el seu propi article =
+}}
+El '''Kettering Bug''' (Bestiola de Kettering, en [[idioma anglès|anglès]]) va ser un torpede aeri, precursor del que avui és considerat com [[Vehicle aeri no tripulat|UAV]] o [[míssil de creuer]]. Era capaç d'assolir blancs terrestres situats a 120 km (75 milles) del seu punt de llançament.
+
+== Desenvolupament ==
+Durant la [[Primera Guerra Mundial]], l'[[Exèrcit dels Estats Units]] va demanar a Charles Kettering de Dayton (Ohio), que dissenyi una bomba volant no tripulada, capaç d'assolir l'objectiu a una distància de 70 km (40 milles). El disseny de Kettering, formalment anomenat '' Torpede Aeri Kettering '', però més tard conegut com a '' Kettering Bug '', va ser construït per la [[Companyia Dayton-Wright d'Aeronaus]]. [[Orville Wright]] va actuar com a consultor aeronàutic en el projecte, mentre que [[Elmer Ambrose Sperry]] va dissenyar el sistema de control i orientació. També es va construir un avió experimental de desenvolupament, anomenat Dayton-Wright Bug.
+
+=== Especificacions ===
+Especificacions bàsiques d'aquest biplà relativament petit, no tripulat inclou una envergadura de 4,5 m (15 peus), amb una longitud de 3,8 m (12,5 peus), i una alçada de 2,3 m (7,7 peus). L'avió era propulsat per un motor [[De Palma]] de 4 cilindres i 40 [[Cavall de vapor|HP]]. El motor va ser produït en sèrie per la [[Ford Motor Company]], a un cost de 40 US $ cadascun.ref [http://www.historynet.com Glines CV Ford s Forgotten Aviation Legacy Aviation History mai 2008.] /ref El fuselatge va ser construït de [[fusta laminada]] i [[paper maixé]].
+
+=== Sistema de guia ===
+El '' Bug '' de 240 kg (530 lliures) (pes brut) era llançat mitjançant un carretó sobre rails, similar al mètode usat pels germans Wright quan van fer el seu primer vol el [[1903]]. Una vegada llançat, un petit [[giroscopi]] a bord guiava l'aeronau al seu destí a una velocitat de prop de 193 km/h (120 mph). El sistema de control era [[pneumàtic]]/de buit, amb un sistema elèctric i un [[baròmetre aneroide]]/[[altímetre]].
+
+=== Mecanisme de detonació ===
+[[Fitxer: Kettering Aerial Torpedo Bug USAF.jpg|thumb|Una rèplica del Bug, exposada al [[Museu Nacional de la Força Aèria dels Estats Units]].]]
+Per garantir l'impacte del Bug contra el seu objectiu, es va concebre un sistema mecànic que controlaria la distància recorreguda per l'avió. Abans de l'enlairament, els tècnics determinaven la distància a recórrer en relació amb l'aire, tenint en compte la velocitat i direcció del vent al llarg de la trajectòria de vol. Aquesta es va utilitzar per calcular el nombre total de revolucions del motor necessària perquè el '' Bug '' arribarà al seu destí. Quan el nombre de revolucions totals s'assolia, una lleva apagava el motor i retreia els perns que unien les ales, provocant la caiguda. El Bug iniciava una trajectòria balística cap al seu objectiu i l'impacte feia detonar la càrrega útil de 81 kg (180 lliures) d'explosius.
+
+== Prova de vol ==
+El prototip del '' Bug '' es va completar i va lliurar a la [[Secció d'Aviació del Cos de Senyals de l'Exèrcit dels Estats Units]] el [[1918]], prop del final de la [[Primera Guerra Mundial]]. El primer vol va ser el [[2 d'octubre]] de [[1918]]ref [http://www.hq.nasa.gov/office/pao/History/Timeline/1915-19.html NASA timeline] /ref i va ser un fracàs: l'avió va pujar fortament després de l'enlairament, es va aturar i es va estavellar.ref [http://www.ctie.monash.edu/hargrave/rpav_usa.html Remote Piloted Aerial Vehicles: The 'Aerial Target' and 'Aerial Torpede' in the USA] /ref Després d'això, els vols van tenir èxit i l'aeronau va ser provada davant personal de l'Exèrcit a Dayton.
+
+{{Cita|'... El Kettering Bug va tenir 2 èxits de 6 intents a [[Dayton (Ohio)|Dayton]], 1 de 4 a Amityville, i 4 de 14 a [[Carlstrom]].}}ref[http://stinet.dtic.mil/oai/oai?verb=getRecordmetadataPrefix=htmlidentifier=ADA162646 ''The Evolution of the Cruise Missile'' de Werrell, Kenneth P. - Vegeu pdf pàgines 23-28] /ref
+
+Malgrat alguns èxits durant les proves inicials, la guerra va acabar abans que el '' Bug '' pogués entrar en combat. En aquest moment, uns 45 Bugs s'havien produït. L'aeronau i la seva tecnologia seguir sent un secret fins a la [[Segona Guerra Mundial]].
+
+Durant la dècada de 1920, el Servei Aeri de l'Exèrcit dels EUA va seguir experimentant amb l'aeronau fins que el seu finançament va ser retirat.
+
+Una rèplica a mida real d'un Bug està en exhibició permanent en el [[Museu Nacional de la Força Aèria dels Estats Units]] a Dayton (Ohio).
+Des d'abril de 1917 a març de 1920, el Govern dels EUA va gastar prop de $ 275.000 en el Kettering Bug.ref Werrell, pdf page 28 /ref
+
+== References ==
+{{referències|2}}
+
+== Enllaços externs ==
+{{Projectes germans|commons=Kettering Bug}}
+* [http://www.daviddarling.info/encyclopedia/K/Kettering_Bug.html Encyclopedia of Astrobiology, Astronomy, and Space Flight: Kettering Bug] (en anglès)
+* [http://www.ctie.monash.edu/hargrave/rpav_usa.html Informació de la Universitat Monash] (en anglès)
+
+[[Categoria:Avions militars]]
+[[Categoria:Armament dels Estats Units]]
+[[Categoria:Míssils]]</text>
+      <sha1>06d2jsjc6d4vd6xkvafjsotauyu3co3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

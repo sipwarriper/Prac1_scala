@@ -1,0 +1,103 @@
+<page>
+    <title>Metaner</title>
+    <ns>0</ns>
+    <id>655789</id>
+    <revision>
+      <id>13662470</id>
+      <parentid>13624001</parentid>
+      <timestamp>2014-06-23T22:59:55Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>[[fitxer: LNGtanker es.jpg|thumb|300px|Esquema d'un vaixell metaner.]]
+Un ''' metaner ''' és un [[vaixell de càrrega]] especialitzat en el transport de [[gas natural]] liquatref name=def{{GEC|00088940}}/ref des dels països productors de gas natural als països consumidors. Les característiques tecnològiques d'aquests vaixells són molt sofisticades, ja que per mantenir el metà en estat líquid, s'ha de conservar la càrrega a una temperatura de -160nbsp;°C.ref name=def/ref
+
+En terminologia marítima internacional es coneixen com LNG (acrònim en anglès per ''Liquified Natural Gas'') ''carrier'' o ''tanker''. Pràcticament tots els vaixells metaners estan construïts expressament per a aquest transport i no poden dedicar-se a un altre tipus de càrrega. Els primers es construïen amb la possibilitat de transportar també [[GLP]] ([[gas liquat del petroli]]) davant la incertesa del transport de GNL. Darrerament s'han tornat a construir petits metaners polivalents, amb capacitat de transportar també [[GLP]] i etilè.
+
+[[fitxer: Methanier aspher LNGRIVERS.jpg|thumb|300px|Vaixell metaner.]]
+== Història ==
+Encara que hi va haver estudis anteriors el primer metaner va ser el Methane Pioneer, originalment va ser un [[vaixell de càrrega]] tipus C1-M-AV1, construït dins dels programes navals de la [[Segona Guerra Mundial]] per part del Govern dels [[Estats Units]]. Aquest fou seleccionat i adaptat per estudiar les tecnologies necessàries pel [[transport marítim]] de GNL.
+
+Per estudiar aquesta possibilitat es va constituir un equip a Lake Charles, a l'estat de [[Mississipi]] ([[Estats Units]]). Aquest equip va dissenyar i va decidir muntar [[tanc]]s d'[[alumini]], amb [[fusta de balsa]] com a [[aïllant tèrmic]], així com la resta d'equipament que incorporaria. Una vegada realitzades totes les proves al moll el vaixell va sortir de Lake Charles el 25 gener 1959 amb destinació a Canvey Island([[Regne Unit]]) amb els seus tancs plens de 5.000 [[m³|metres cúbics]] de gas natural liquat. Una quantitat molt petita per als estàndards actuals però que va demostrar que el [[transport marítim]] de GNL era possible.
+
+Durant els set viatges que va realitzar va trobar tota mena de condicions meteorològiques que, tot i provocar amplis moviments del casc, no vam comportar cap problema de seguretat ni per la càrrega. Amb això va quedar demostrat que el transport marítim de GNL era factible. Un cop finalitzades les proves es va dedicar al transport de GLP, ja que la seva capacitat de càrrega era massa petita per al transport comercial rendible de GNL. 
+
+A partir de 1959 a [[França]] es van iniciar proves amb diversos tipus de tanc. Per a això es van construir tres tancs dissenyats per diferents empreses. Es van instal·lar diferents tipus de [[Bomba (enginyeria) |bombes]] i equipament a cada tanc al vaixell Beauvais (cedit pel Govern francès).ref{{Ref-llibre |cognom=Wijnolst |nom=N. |cognom2=Wergeland |nom2=Tor |títol=Shipping Innovation |url=http://books.google.es/books?id=Iewj9LOcPWkCpg=PA255dq=Beauvais+1959+shiphl=casa=Xei=E2IzUqnUJc6d7ga67IFYved=0CDoQ6AEwAQ#v=onepageq=Beauvais%201959%20shipf=false |llengua=anglès |editorial=IOS Press |data=2009 |pàgines=255 |isbn=1586039431}}/ref Es van realitzar intensives proves de mar que han conduït a la preponderància que la indústria francesa ha aconseguit des d'aleshores.
+
+El 1964 van entrar en servei els dos primers metaners comercials, el Methane Progress i el Methane Princess, encara que per no estar segurs de l'evolució del transport de GNL es van construir amb la possibilitat de transportar GLP. Tenien 27.500 metres cúbics de capacitat i han estat en servei fins al 1986 i 1997, respectivament.ref Natural gas by sea - The development of a new technology - Roger Ffooks /ref L'any 1969 van entrar en servei els dos primers vaixells amb tancs de membrana, que segueixen en actiu amb els noms de SCF Arctic i SCF Polar.ref [http://www.streamrgn.com/servlet/ContentServer?gnpage=1-140-0centralassetname=1-140-Buque-SCFArticcentralassettype=Buque Història operativa i característiques tècniques de l'SCF Arctic]/ref El 1973 va entrar en servei el primer vaixell de tancs esfèrics, el Norman Lady, que segueix en actiu amb el mateix nom. Tant aquest com els anteriors eren d'uns 75.000 metres cúbics.ref [http://www.streamrgn.com/servlet/ContentServer?gnpage=1-140-0centralassetname=1-140-Buque-SCFArticcentralassettype=Buque Història operativa i característiques tècniques del Norman Lady]/ref
+
+Poc després es van començar a construir vaixells de 125.000 [[m³]], que han estat la mida estàndard fins que fa pocs anys van passar a ser-ho els de 140.000 metres cúbics. A finals de l'any 2008 s'entregava el Mozah, el primer d'una sèrie de gran metaners amb una capacitat de fins a 266.000 metres cúbics, construïts per [[Samsung]] Heavy industries i Daewoo Shipbuilding a [[Corea del Sud]].ref name=World Fleet of LNG carriers [http://www.shipbuildinghistory.com/today/highvalueships/lngactivefleet.htm Llista de la flota mundial de metaners]/ref
+
+== Tipus == 
+[[Fitxer:LNG tanker (side view).PNG|thumb|300px|Diagrama '''metaner''' Moss Rosenberg.]]
+[[Fitxer:LNG tanker GTT MkIII (side view).PNG|thumb|300px|Diagrama d'un '''metaner''' de membrana tipus MkIII.]]
+Hi ha dos tipus principals de tancs per a aquests vaixells: esfèrics i de membrana que tenen una estructura [[Prisma (geometria)|prismàtica]]. Aquests constitueixen dos dissenys de metaners amb aparença i tecnologia de construcció diferenciades:ref name=Witherby{{ref-llibre|títol=LNG shipping knowledge : underpinning knowledge to the SIGTTO standards.|lloc=Livingston|editorial=Witherby Seamanship International|any=2011|isbn=9781856095037|url=http://www.liquefiedgascarrier.com/Liquefied-Natural-Gas-Carriers.html|consulta=27 març 2014|edició=2nd ed.}}/ref 
+
+* Els '''esfèrics''' són tipus Moss Rosenberg per ser dissenyats per aquesta empresa [[noruega]]. Estan construïts en [[alumini]] i [[acer inoxidable]] i són auto-suportades, és a dir que ells suporten la càrrega, i no formen part de la part estructural del vaixell. A causa del seu preu elevat i de la infraestructura que han de crear les drassanes per a construir-han perdut mercat avui en dia pel que fa als de membrana. Són molt característics per tenir un sistema de contenció de càrrega format per quatre o més grans tancs esfèrics, les semiesferes dels quals sobresurten per sobre de la coberta principal.ref name=Witherby/ref
+
+* Els de '''membrana''' són dissenyats, dissenyats i produïts sota llicència per Gaz Transport i Technigaz.ref name=Witherby/ref El pes de la càrrega es transmet al nucli interior a través de les membranes i aïllaments. Els dissenys principals són:
+**GT-96, consisteix en dues membranes llises d'[[Invar]] de 0,7 [[mm]] de gruix.ref name=Sacchi{{ref-web|cognom=Sacchi|nom=Alan|url=http://www.pomorskodobro.com/en/types-of-lng-carriers.html|consulta=27 març 2014|títol=Types of LNG Carriers|editor=http://www.pomorskodobro.com}}/ref  Aquest material té pràcticament un [[coeficient de dilatació]] tèrmica de 0. Entre les dues membranes i entre la segona i el casc interior porta caixes d'aïllament, farcides de [[Perlita (acer)|perlita]]. 
+** Mark III: evolució del model anterior amb membrana primària corrugada d'1,2 mm de gruix.ref name=Sacchi/ref En aquests el corrugat absorbeix les [[Dilatació|dilatacions]]. La membrana secundària és d'un altre material anomenat tríplex en el cas del Mark III. Són més barats de construir que els GT-96, però s'han produït alguns problemes per pèrdues en aquesta membrana secundària.{{CC|data=març de 2014}}
+
+Aproximadament el 60% dels vaixells de GNL en servei disposen de sistemes de contenció de càrrega del tipus membrana. {{CC|data=març de 2014}} Aquests es distingeixen fàcilment d'altres tipus de vaixell per l'elevada estructura que s'eleva sobre la coberta principal tot cobrint els tancs prismàtics de GNL.
+
+Fins ara aquests tipus de vaixells han tingut un manteniment òptim i presenten uns índexs de seguretat excel·lents. Això es deu al fet que tenen un cost de construcció elevat i són contractats per llargs períodes per transportar càrregues entre dos punts determinats, permetent un beneficis assegurats. En augmentar el nombre de metaners i [[armador]]s que els liciten amb contractes més curts o d'un sol viatge, aquest bon estat de la flota pot baixar, degut a la cerca de preus més baixos a costa del cost de manteniment i seguretat.
+
+== Transport == 
+
+El GNL es transporta a una [[pressió]] lleugerament superior a l'[[Pressió atmosfèrica|atmosfèrica]] en vaixells especialment construïts per a aquest fi. Per poder transportar el gas a aquestes pressions (unes 15 kPa com a màxim) es liqua refredant-lo fins aproximadament -160nbsp;°C.ref name=def/ref Teòricament hauria d'estar almenys a -161nbsp;°C però moltes terminals el lliuren a temperatures sensiblement superiors, entre -159,0 i -159,5nbsp;°C.
+
+El sistema de contenció de la càrrega està dissenyat i construït utilitzant materials que suporten aquestes temperatures criogèniques. El [[pes específic]] del gas liquat varia depenent del port de càrrega ja que variaran els percentatges de cada tipus de gas en el líquid. Està entre 430 i 460 kg/m³.{{CN|data=març de 2014}}
+
+El GNL en els tancs de càrrega del vaixell es manté a la temperatura a la qual s'ha carregat (entre -159,5 i -161 [[Grau Celsius|°C]]) al llarg de tota la navegació, però depenent de la seva temperatura una part del líquid s'evapora per [[ebullició]]. El gas evaporat s'utilitza habitualment per propulsar la nau, bé cremant-ne l'excés en calderes per generar vapor per les [[turbina de vapor|turbines]] o bé directament en [[motor de combustió interna|motors de combustió interna]] adaptats (duals) capaços de cremar tant gas com gasoil.
+
+L'[[evaporació]] produeix fred que ajuda a mantenir la temperatura de la càrrega. En el cas que es vulgui refredar alguna cosa, per haver carregat relativament calenta, es pot forçar l'evaporació, i per tant el refredament, extraient amb un [[compressor]] els vapors dels tancs. Mitjançant aquest mètode es pot arribar a baixar la temperatura fins aproximadament -160,2 [[Grau Celsius|°C]].
+
+En els contractes de noliejament s'estipula la quantitat màxima de gas que pot evaporar diàriament a causa de l'escalfament produït malgrat els bons aïllaments. Per vaixells moderns sol estar entre 0,12% i 0,15% del volum total de càrrega del vaixell.{{CN|data=març de 2014}}
+
+Habitualment al acabar la descàrrega es deixa en els tancs una petita quantitat de la càrrega. Aquesta en anar-se evaporant durant el viatge en [[llast]] fins al port de càrrega impedirà que els tancs s'escalfin massa. Abans d'arribar al port de càrrega, s'utilitzarà la càrrega que queda per tornar a refredar els tancs fins a la temperatura requerida per la càrrega. Aquest refredament intensiu durarà d'un dia a una setmana, depenent del tipus de tanc. El que es fa es extreure el líquid que normalment es troba concentrat majoritàriament en un dels tancs amb una bomba de menor capacitat que les de descàrrega i s'envia aquest líquid un altre cop als tancs, però aquest cop en forma de pluja o esprai per unes canalitzacions que es troben a una certa alçada; aquesta polvorització del líquid provoca que es refredi la superfície del tanc i el gas present al tanc.
+
+== Propulsió == 
+
+La [[propulsió]] d'aquest tipus de vaixells ha estat fins fa molt poc temps mitjançant [[turbina de vapor]] exclusivament.ref name=informare{{ref-web|url=http://www.informare.it/news/forum/2005/brs/lng-auk.asp|consulta=28 març 2014|títol=The LNG shipping market in 2004}}/refref name=ABB{{ref-web|url=http://cleantech.cnss.no/wp-content/uploads/2011/05/2007-ABB-Marine-A-new-era-in-ship-propulsion.pdf|consulta=28 març 2014|títol=A new era in ship propulsion}}/ref El gas evaporat dels tancs es consumeix en calderes que produeixen vapor. Aquest vapor mou les turbines principals associades a [[generador elèctric|generadors]] que proporcionen [[energia]] i [[climatització]] a tot el vaixell.
+
+Aquest sistema permet consumir la quantitat que es desitgi de gas, i mantenir la pressió en els tancs dins dels valors correctes. Permetent, si fos necessari, disminuir la temperatura d'aquests i per tant la pressió, i forçant l'evaporació de gas que serà consumit en les calderes. Aquestes calderes poden consumir al mateix temps també fueloil, que es veurà complementat pel gas fins a aconseguir la producció de vapor requerida.
+
+Aquest sistema permet també consumir el gas que s'evapora mentre el vaixell està en port, atracat o fondejat, i que no es necessita per al consum del vaixell. En aquest cas el gas es crema també en les calderes i el vapor sobrant produït s'envia directament al [[condensador]]. Avui en dia s'estan construint molts vaixells amb propulsió mitjançant motors dualsref name=ABB{{ref-web|url=http://www05.abb.com/global/scot/scot293.nsf/veritydisplay/14505dcdb9e6a46ac12575c900277c5d/$file/ABB_LNGCarrier_brochure-finalMay2009-lowres.pdf|consulta=27 març 2014|títol=Dual Fuel Electric Propulsion|editor=ABB}}/ref o amb motors dièsel marins convencionals, que són més lents.
+
+En el cas dels motors duals poden consumir gas o gasoil.ref name=ABB/ref El gas evaporat en els tancs es consumeix en aquests motors de manera similar al cas dels vaixells de turbines. Per aconseguir consumir la quantitat adequada de gas es combinen els motors consumint uns, gas i altres, gasoil. Cada motor només pot consumir un d'aquests combustibles en cada moment. No és possible el consum simultani com en el cas de les calderes. Per poder realitzar aquestes combinacions aquests vaixells tenen usualment quatre d'aquests motors, que funcionen bàsicament com a generadors elèctrics, ja que generen electricitat per impulsar la propulsió del vaixell.
+
+Els vaixells amb motors lents marins convencionals tenen dos d'aquests motors. Aquests motors només poden consumir combustibles líquids, fueloil i dièsel. En no poder utilitzar el gas evaporat per a la propulsió estan equipats amb una planta de reliquafecció. Tot el gas evaporat es torna a liquar i es retorna als tancs. En cas de fallada d'aquest sistema equipen una [[Incineració|incineradora]] de gas.
+
+Gràcies als avenços tecnològics, cada vegada es construeixen vaixells més eficients, capaços de reduir l'efecte '' Boil-off '' (GNL que es reconverteix a gas). Gràcies a aquests avenços, aquestes quantitats mínimes de gas es reutilitzen com a combustible per al vaixell, i la resta és novament convertit en GNL, si porta planta de reliquat.
+
+== Flota actual == 
+L'any 2007 la flota mundial de metaners era de 246 vaixellsref name=fleet{{ref-web|url=http://cmapspublic3.ihmc.us/rid=1HK9BR15K-BPWHBY-15V3/lngactivefleet.htm|consulta=27 març 2014|títol=The World Fleet of LNG Carriers}}/ref i hi havia una demanda creixent. A finals de 2012 la flota de metaners ja arribava als 362 vaixells,ref name=Fleet 2012{{ref-web|url=http://www.igu.org/gas-knowhow/publications/igu-publications/IGU_world_LNG_report_2013.pdf|consulta=28 març 2014|títol=IGU World LNG Report – 2013 Edition}}/ref suposant un increment de quasi el 50% en 5 anys.
+
+== Vegeu també ==
+* [[Vaixell de càrrega]]
+* [[Petrolier]]
+* [[Portacontenidors]]
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+{{Commons|LNG carriers|Metaner}}
+* [http://www.saggas.com/caracteristicas-tecnicas/proceso-de-regasificacion/ Descripció del procés de re-gasificació] {{es}}
+* [http://www.shipbuildinghistory.com/today/highvalueships/lngactivefleet.htm Llista mundial de metaners] {{en}}
+
+[[Categoria:Tipus de vaixells de transport]]
+[[Categoria:Gas natural]]
+
+{{Enllaç AD|pl}}
+
+[[de:Tanker#Flüssiggastanker]]</text>
+      <sha1>oqerxcfh1lr6jqer8pj9huclwoxq78a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

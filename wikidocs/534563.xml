@@ -1,0 +1,102 @@
+<page>
+    <title>Control Data Corporation</title>
+    <ns>0</ns>
+    <id>534563</id>
+    <revision>
+      <id>13939731</id>
+      <parentid>13808986</parentid>
+      <timestamp>2014-08-14T11:13:40Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: principal linia e CRC  principal línia de CRC</comment>
+      <text>''Control Data Corporation (CDC)'' fou un fabricant de [[supercomputador|supercomputadors]]. Durant la dècada de 1960 va construir els ordinadors més ràpids del món.
+
+== Breu cronologia i història ==
+Control Data va ser fundada l'any 1957 com una filial de l'empresa Sperry Rand. Era una mena de botiga que es va establir al 501 de Park Avenue, a Minneapolis. 
+L'empresa Sperry provenia d'una fusió de diverses empreses: Sperry Corporation i ERA, que provenia d'una branca militar de computació fruit de les investigacions durant la Segona Guerra Mundial.
+
+William Norris va ser escollit com a cap executiu de la nova companyia.
+
+La companyia va començar venent components bàsics a altres companyies més grans.
+Un any després l'enginyer [[Seymour Cray]] va deixar ERA per unir-se a CDC, i immediatament va fabricar una petita màquina de 6 bits basada en transistors, per a poder fer proves dels seus dissenys de gran escala. La màquina era anomenada Little Character.
+Aquesta petita màquina va ser un èxit i l'any 1959 es va treure la versió de 48-bits que es va anomenar CDC 1604 què va ser el primer computador entregat a la Marina dels EUA.
+A partir d'aquest, se'n va fer una versió capada de 12 bits conegut com el 160A, que també es coneix com el primer minicomputador.
+Amb aquesta tecnologia, es va fer servir per a un nou model CDC 3000 que es va vendre durant els anys 60.
+
+El mateix Cray, es va convertir en l'enginyer que dissenyaria el computador més ràpid de la seva època (que arribava 50 cops la velocitat del 1604). El projecte va necessitar d'un profund canvi en l'arquitectura i de 4 anys de treball.
+Com a fet curiós destaquem que Cray va demanar un laboratori propi per dur a terme les investigacions i que ni tan sols el president de la CRC hi podia assistir sense invitació prèvia.
+
+CRC va triar una política força curiosa: va intentar valer-se per si mateixa en tots els aspectes. Així, va començar amb la fabricació d'una cinta transportadora per a la fàbrica i va seguir: una lectora de targetes(405), perforadora de targetes (415), aparells de cinta i impressores. Tot això fet de casa. 
+
+A partir d'aquest moment William Norris va voler competir amb [[IBM]], i no era fàcil: primer calia que l'empresa creixés i agafés volum de mercat. Aleshores va començar la compra de les petites empreses al voltant de la CRC. Intentaven oferir el mateix que IBM, però més ràpid i més barat, tot i la dificultat que implicava.
+Norris estava molt obsessionat amb les targetes perforades d'IBM, que li havien donat el monopoli quasi absolut del mercat. Per això va comprar Rainbow Engineering, una de les empreses pioneres en el reconeixement de caràcters de forma òptica. La idea era passar la tecnologia de les targetes perforades amb tecnología òptica que llegís directament frases sense necessitat de cap intèrpret. La idea era molt més difícil d'aplicar del que semblava i tot i que CRC es va convertir en una pionera de la tecnología òptica, la idea no va cuallar i la planta es va tancar l'any 1976.
+
+Abans de vendre Rainbow, Norris va veure que la idea no havia estat bona i que les targetes no envellirien tan ràpid, de manera que va canviar d'estratègia. La seva màquina la 405, era molt cara de produir, de manera que van adquirir Bridge Engineering, una empresa de low cost per a la fabricació de les seves màquines. La nova idea tampoc va tenir futur i la nova fàbrica que havien muntat va esdevenir part de CPI (Computer Periphericals Inc) que després es fusionaria amb [[Centronics]] l'any 82.
+
+Paral·lelament a en Norris, [[Seymour Cray]] i altre enginyers van posar en marxa un equip de 34 enginyers per seguir dissenyant. L'any 1964 creen el CRC 6600. Derivats del CRC 6600 van sortir: el 6400 una versió capada, el 6500 una versió amb 2 processadors de la 6400 i finalment una nova màquina més potent que la 6600: la 6800.
+A partir d'aquest moment IBM va començar a tenir en compte CRC com a companyia emergent. Watson Jr. no entenia com una companyia amb només 34 enginyers havia aconseguit competir amb la seva, que era molt més nombrosa en empleats.
+L'unic contratemps que va patir la 6600 va ser una campanya d'IBM on assegurava una nova versió del seu conegut System360 que era més ràpid que el CRC 6600, això va fer caure les vendes de CRC en picat. També va ser la raó per la qual Cray va demandar IBM per més de 600 milions de dolars.
+
+L'any que CRC va guanyar el judici contra IBM, va treure la CRC 7600 (que era la mateixa que la 6800), tot i ser una tecnologia molt nova (que permetia al computador treballar al mateix temps en diferents càlculs), no va acabar de funcionar bé i va fer molt de mal a la reputació de CRC.
+Per tal de salvar l'empresa, Cray va fer la CRC 8600, que permetia una velocitat més gran de càlcul. També va reduir molt el volum que ocupava. Malauradament el 8600 estava fet amb tecnologia antiga fent servir soldadures de components a pel i tampoc va funcionar com s'esperava. Això va fer decidir Cray que calia replantejar-se la situació.
+
+Al mateix temps que el 8600 CRC tenia un altre projecte anomenat STAR. I a diferència d'aquest, treballava en una nova tecnología que ara es coneix com a processadors vectorials. En realitat aquesta màquina va acabar sent més lenta que el 7600 tot i que resolia alguns problemes que causava la 7600.
+Els dos projectes (STAR i 8600) competien per la subvenció de l'empresa i Norris sabia que no es podien dur a terme tants projectes si es volia ser competitiu. Arran d'això Cray va fundar la seva pròpia empresa l'any 1972 i el 74 es cancel·lava el 8600 i es llançava al mercat STAR, també anomenat Cyber 203. A partir d'aqui es van començar a redissenyar components originaris del CRC 6600 i 7600 per a Cyber, juntament amb una nova versió d'aquest que funcionava molt millor. Cyber va convertir-se en la principal línia de CRC als anys 70.
+
+Tot i això va tornar a fracassar l'empresa, i els seus caps Norris i Cray estaven d'acord que l'empresa moria. A partir dels 80 CRC va canviar el mercat i va concentrar-se en la producció de discs durs (notem que els 80 arriben els PC's). Juntament amb Compaq i SD desenvoluparan la interficie ATA. Finalment el 1988 CRC decideix deixar el mercat dels discs i acaba convertint-se en Syntegra, una sucursal de BT Group.
+
+== Producció de Control Data Corp. ==
+=== CRC 1604 ===
+
+Va ser un computador de 48 bits dissenyat per Seymour Cray. Va ser el primer computador de transistors que es va vendre al mercat i es basava en una anterior computador de 8 bits. 
+La seva memòria eren 32K de paraules de 48 bits. Estava organitzat amb 2 bancs de 16K amb adreces parelles i senars a cada un dels grups. Els dos bancs de memoria estaven en un decalatge de 3,2 microsegons.
+Cada paraula de 48 bits es formava amb dues instruccions de 24. (6 bits pel codi de l'operació, 3 per índex i 15 bits per l'adreça de memòria.
+Per programar la màquina es feia servir el JOVIAL, un llenguatge de programació molt semblant al ALGOL i igual que aquest va ser desenvolupat pels militars.
+
+La versió petita del 1604, el 160A, funcionava amb octal.
+
+=== CRC 3000 ===
+La serie 3000 estava classificada en la 3000 baixa i la 3000 alta. Les de baixa gamma usaven paraules de 24 bits i les d'alta paraules de 48 bits. La serie 3000 de gamma alta, es feia servir per calculs científics.
+Per ordre d'aparició trobem: 
+CRC 3600 (juny 1963)
+CRC 3200 (maig de 1964)
+CDC 6100 (febreb 1965)
+CRC 3300 (desembre 1965)
+CRC 3400 (desembre 1965)
+CRC 3800 (desembre 1965)
+CRC 3500 (març 1967) (a més a més va ser la primera amb circuits integrats).
+
+Com que tota la sèrie 3000 estava basada en el 1604, era possible (tot i que tenien computadors diferents, de 24 i 48 bits) utilitzar programes que funcionessin a qualsevol model de la sèrie. Això és en part perquè la partició que feien de les paraules era igual a la sèrie. Una altra particularitat és que incorporaven un sistema de 4 registres de 15 bits de memoria, on R0 era sempre 0.
+El software que usaven si que distingia la classe alta i la baixa. La clase baixa usava el RTSOS i MSOS (mass storage os). Per la gamma alta hi havia en MASTER, un SO que funcionava a base d'interrupcions.
+Tot i això també existia un SO per a les dues gammes, el SCOPE. També acceptava a totes les màquines els llenguatges: ALGOL, COBOL, i FORTRAN. 
+
+El model 3300 arribava al milió d'operacions per segon, el que li va donar estatus de supercomputador l'any 1965.
+
+=== CRC 6600 ===
+Va ser entregada l'any 1964. Es va considerar un supercomputador des de l'any 1964 fins a 1969.
+
+L'enginyer que estava darrere del 6600 no era ja Cray mateix sinó Jim Thronton que va deixar l'empresa després del fracàs del 7600 8000. Tot i això va ser un dels genis que va dissenyar el sistema d'arquitectura que feia servir el 6600.
+
+Durant la seva vida es van vendre més de 100 unitats, i cal tenir en compte que al tractar-se d'un supercomputador, la majoria van anar a laboratoris de recerca nuclear i també a laboratoris de recerca d'universitats.
+
+En aquella època tots els computadors estaven basats en una gran CPU, que portava el control sobre totes les tàsques de càlcul. El problema és que per fer una multiplicació es tardaven 15 cicles de CPU i per fer un acces a memòria només 2 (al contrari del que passa avui en dia paradoxalment).
+Cray va especialitzar la CPU: va fer una CPU més petita i que només feia operacions matemàtiques i lògiques. D'aquesta forma podia operar molt més ràpid que les de l'època (fins a 10 MHz). Aleshores teníem les operacions de in/out, les de memoria i les matemàtiques de CPU que s'executaven totes alhora, això feia que l'eficiència de la màquina fos enorme. Aquest sistema també feia la màquina més cara, per això els components que no eren de CPU es van fer el més barats (i per això també lents).
+La curiosa forma de funcionar de la màquina feia que a més a més, es pogués aprofitar el temps d'acces a memoria si la programació es feia conscient de l'arquitectura i aprofitava els avantatges del sistema.
+La base del 6600 és el que ara anomenariem arquitectura RISC.
+
+El processador tenia 8 registres de 60 bits.
+8 de 16 bits.
+8 de 18 bits.
+El sistema operatiu que acceptava la màquina també era com en els altres CRC-series el SCOPE.
+
+{{Commonscat}}
+
+[[Categoria:Empreses d'informàtica dels Estats Units]]</text>
+      <sha1>fastl4j753u05nr3imct9fhw94ke3yt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

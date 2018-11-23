@@ -1,0 +1,62 @@
+<page>
+    <title>Aviònica</title>
+    <ns>0</ns>
+    <id>1140138</id>
+    <revision>
+      <id>12929626</id>
+      <parentid>12873547</parentid>
+      <timestamp>2014-02-09T13:38:50Z</timestamp>
+      <contributor>
+        <username>EVA (bot)</username>
+        <id>18201</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text  (-   + )</comment>
+      <text>[[Fitxer:Comanche instrum.jpg|250px|thumb|Panell d'instrumentació d'una [[avioneta]] ''Piper PA-24 260B Comanche'' mostrant diversos components de l'aviònica.]]
+[[Fitxer:Cessna501 radar.JPG|thumb|250px|Radar i altres components d'aviònica d'un jet privat [[Cessna Citation]].]]
+[[Fitxer: B1Lancer avionics.jpg|thumb|250px|right|Tècnic realitzant tasques de manteniment de l'aviònica d'un [[bombarder]] [[B1 Lancer]].]]
+[[Fitxer: Cockpit Dassault Mirage 2000 (7443127844).jpg|thumb|250px|Cabina d'un [[caça (avió)|caça]] [[Mirage 2000]].]]
+
+L''''aviònica''' és l'aplicació de l'[[electrònica]] a l'[[aviació]] o el conjunt d'equipament electrònic d'una aeronau.ref name=diccionari.cat{{ref-web|url=http://www.diccionari.cat/lexicx.jsp?GECART=0150761|consulta=8 desembre 2013|títol=aviònica|obra=Gran Diccionari de la Llengua Catalana|editor=Enciclopèdia Catalana}}/ref Fa referència als sistemes electrònics usats en avions, satèl·lits artificials i naus espacials, tant sistemes de comunicació i navegació com els seus indicadors i elements de control.
+
+== Història ==
+El terme aviònica va començar a estendre's a principi dels anys 70. Fins llavors, els instruments, [[ràdio]]s, [[radar]]s, sistemes de combustible, controls de motor i els [[Radiofar omnidireccional en VHF|sistemes de navegació per ràdio]] havien estat sistemes independents, normalment mecànics.
+
+Molts dels sistemes d'aviònica actual tenen els seus orígens en tecnologia militar desenvolupada durant la [[Segona Guerra Mundial]]. Per exemple el sistema de [[pilot automàtic]] van començar per tal d'assistir les llargues missions dels [[bombarder]]s pesants que volaven a gran alçada.ref{{cite web|last=McGough |first=Michael |url=http://www.skeptic.com/eskeptic/05-08-26/ |title=In Memoriam: Philip J. Klass: A UFO (Ufologist Friend’s Obituary) | date = August 26, 2005 |editor=Skeptic |accessdate=2012-04-26}}/ref Un altre exemple molt conegut és el [[radar]], desenvolupat simultàniament al Regne Unit, Alemany i els Estats Units.ref name=MostSecretWar{{ref-llibre|cognom=Victor Jones|nom=Reginald|títol=Most Secret War|isbn=978-1-85326-699-7|editor=Wordsworth Editions Ltd}}/ref 
+
+Als anys 70 l'aviònica va aparèixer de mà de la necessitat militar més que de la necessitat de millorar l'aviació civil. Els avions militars s'havien convertit en complexes plataformes amb múltiples components electrònics com els sistemes de [[radar]] o els que controlaven l'armament avançat com els [[míssil aire-aire|míssils aire-aire]]. La correcta gestió i control de tots aquest sistemes és molt complexa.
+
+El mercat civil també ha incrementat la seva despesa en aviònica. Els sistemes de control de vol elèctrics (''[[fly-by-wire]]'') i les noves necessitats de navegació deguts a la major ocupació de l'espai aeri han impulsat notablement les inversions destinats al desenvolupament d'aquestes tecnologies. El canvi més important ha estat degut a l'enorme increment dels vols comercials. Aquest fet ha comportat la necessitat de dissenyar i implementar mètodes més segurs i complexos per controlar els avions i el seu trànsit de manera segura. Amb el continu refinament dels elements de construcció aeroespacial, els sistemes de guia i navegació s'han tornat més exactes.
+
+==Equipament modern==
+La cabina de vol i zones properes és on es solen concentrar els sistemes d'aviònica: control de l'avió, sensors, comunicacions, navegació, meteorologia, etc. La majoria dels avions alimenten l'aviònica mitjançant instal·lacions elèctriques de [[corrent continu]] de 14 o 28 [[volt]]s. Tots i que els aparells més grans i sofisticats, com els avions de passatgers a reacció o els avions militars, utilitzen instal·lacions de [[corrent altern]] a 400 Hz i 115 volts AC.ref name=yoon{{ref-web|cognom=Yoon|nom=Joe|url=http://www.aerospaceweb.org/question/electronics/q0219.shtml|consulta=8 desembre 2013|títol=400 Hz Electrical Systems|editor=http://www.aerospaceweb.org/}}/ref 
+
+El [[girocompàs]] d'anell làser, el [[MEMS]], el giròscop de fibra òptica i molts altres avenços han fet que les cabines de comandament es tornin molt més complexes i integrades. En els darrers anys aquest sistemes han tendit a integrar-se en un [[sistema electrònic d'instruments de vol]]. Aquest integra les ràdios de comunicació, ràdios de navegació, sensors [[GNSS]], [[Distance Measuring Equipment|Equips telemètrics]], [[transponedor]]s, etc. Aquests poden estar basats en un [[sistema de navegació inercial]] (en anglès IMS o ''Inertial Measurement System'') per donar una referència de navegació autònoma. 
+
+Avui en dia la majoria d'avions comercials compten amb sistemes de vol per reduir l'error humà i la càrrega de treball durant l'aterratge o enlairament.ref{{ref-llibre|cognom=L. Rodengen|nom=Jeffrey|títol=The Legend of Honeywell|any=1995|isbn=0-945903-25-1|editor=Write Stuff Syndicate}}/ref El [[Garmin G1000]] és un exemple d'aquest tipus de sistema d'ús corrent avui en dia en [[avioneta|avionetes]] i reactors lleugers.
+
+== Vegeu també ==
+{{Portal|Enginyeria}}
+* [[Aeronàutica]]
+* [[Enginyeria aeronàutica]]
+* [[Enginyeria aeroespacial]]
+* [[Instrument de navegació aèria]]
+* [[Sistema electrònic d'instruments de vol]]
+
+== Referències ==
+references /
+
+== Enllaços externs ==
+*[http://drmoe.org/research/avionics_made_simple.pdf Llibre ''Avionics Made Simple'' d'introducció a l'aviònica] {{en}}
+*[http://www.aeapilotsguide.net ''Pilot's Guide to Avionics'']{{en}}
+{{Commonscat}}
+
+
+{{ORDENA:Avionica}}	!--ORDENA generat per bot--
+[[Categoria:Aeronàutica]]
+[[Categoria:Aviònica]]</text>
+      <sha1>des10vcugnplvrvp84hucxan34d6vyl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

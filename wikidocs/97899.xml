@@ -1,0 +1,531 @@
+<page>
+    <title>Efecte Ruchti-Lohmann</title>
+    <ns>0</ns>
+    <id>97899</id>
+    <revision>
+      <id>14014138</id>
+      <parentid>13111081</parentid>
+      <timestamp>2014-09-06T09:47:45Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: sempre i quan es  sempre que es</comment>
+      <text>L''''Efecte Ruchti-Lohmann''' és un fenomen [[economia|econòmic]] observat el 1953 pels economistes [[Martin Lohmann]] i [[Hans Ruchti]]. També és conegut com l'efecte expansiu de l'[[amortització]].
+
+== Efecte Ruchti-Lohmann ==
+
+L'efecte expansiu de l'amortització s'engloba dintre de la subcategoria d''''autofinançament de manteniment o reposició''', ja que els recursos obtinguts tenen com a finalitat la ''renovació dels equips productius en finalitzar la seua vida útil''. Esta, al seu torn, forma part de la categoria d'autofinançament o finançament intern, on també s'encontra l'autofinançament d'expansió o enriquiment el qual consisteix a repartir el benefici després d'interessos i impostos, [[BDIT]], en forma de dividends per als accionistes o pel contrari destinar aquests a reserves per augmentar els recursos propis de l'empresa. Esquemàticament, quedaria:
+
+
+'''Autofinançament o finançament intern:'''
+#''Autofinançament d'expansió o enriquiment.''
+#''Autofinançament de manteniment o reposició.''
+
+
+L'Efecte Ruchti-Lohmann consisteix en el fet que l'amortització no sols permet mantenir la capacitat productiva de l'empresa, sinó que fins i tot permet d'ampliar-la gràcies a l'ús dels recursos procedents de les quotes d'amortització per adquirir noves unitats productives. Aquest efecte es va observar amb intensitat en moltes empreses a l'acabar la [[Segona Guerra Mundial]].
+
+
+[[Fitxer:Efecte ruchti lohmann.png|800px|center|Efecte Ruchti-Lohmann.]]
+
+
+El gràfic superior mostra aquest efecte i com, en els primers anys els actius que formen part de l'estructura productiva de l'empresa creixen. S'experimenta un descens notori en anys posteriors però, el creixement torna a ser positiu i convergeix cap a un valor constant durant tot el temps, sempre que es complisquen una sèrie de condicions. L'efecte serà més o menys intents depenent del grau d'acompliment d'aquestes.
+
+
+== Condicions de Ruchti-Lohmann ==
+Per tal que es produeixi s'han de complir els següents requisits:
+
+* Que l'[[empresa]] es trobi en una fase de creixement en la que calgui un ús creixent d'actius fixos.
+* Absència d'[[obsolescència]] tecnològica.
+* L'equip productiu haurà de presentar cert càrrec de divisibilitat
+* La capacitat productiva ha de mantenir-se inalterada al llarg de la seva vida útil.
+* Inexistència d'[[inflació]].
+
+Això no obstant, la primera condició és necessària però no suficient. És a dir, que si aquesta es compleix però no alguna de les restants o les quatre, l'efecte expansiu serà menor.
+
+D'aquesta forma, l'efecte d'expansió de l'amortització serà major quan:
+* La inflació siga més baixa, ja que permet un cost menor dels nous equips productius i adquirir-ne més.
+* El progrés tècnic tinga escassos avanços, ja que permet que la vida útil dels equips siga major.
+* La pèrdua de capacitat productiva deguda a l'ús siga menor.
+* Hi haja major divisibilitat en els elements productius.
+* Menor siga el valor residual del bé.
+
+
+
+== Sistemes d'amortització en l'Efecte Ruchti-Lohmann ==
+
+=== Sistema d'amortització lineal o de quotes fixes ===
+Amb aquest sistema, es distribueix el valor d'aquisició de l'actiu menys el valor residual entre el nombre d'anys de vida útil d'aquest. Ens proporcionarà una quota constant per a tots els anys. L'expressió és la següent:
+
+
+math\text{Quota d'amortització}=a_{i}=\frac{\text{Valor d'adquisició - Valor residual}}{\text{Vida útil}}=\frac{\text{Va - Vr}}{\text{n}}/math
+
+
+Suposem:
+* Empresa que acompleix totes les condicions de Ruchti-Lohmann.
+* Ha adquirit en l'any vigent un total de 5 màquines noves.
+* Maquinària per valor de 12.000 unitats monetàries, amb un valor residual de 2.000 um i vida útil de 2 anys.
+* Sistema d'amortització lineal.
+
+Nota:
+L'apartat Nombre d'actius a comprar, Gi, és la divisió entre els fons totals i el preu d'aquisició unitari de l'actiu. El resultat sempre es trunca a la unitat. Així, si el resultat ens dóna 2'87 aquest serà truncat a la unitat, sent el nou valor 2.
+
+
+table class=wikitable
+caption EFECTE RUCHTI-LOHMANN AMB AMORTITZACIÓ PEL SISTEMA LINEAL O DE QUOTES CONSTANTS /caption
+tr
+thAny/th
+thActius principi any/th
+thQuotes d'amortització/th
+thActius de baixa final any/th
+thValor residual obtingut/th
+thFons totals obtinguts/th
+thNº actius a comprar/th
+thRecursos en la compra/th
+thFons restants/th
+/tr 
+tr
+thmathA_i/math/th
+thmathB_i/math/th
+thmathC_i=B_i\;\cdot\;a_i/math/th
+thmathD_i/math/th
+thmathE_i=D_i\;\cdot\;Vr/math/th
+thmathF_i=A_i+C_i+I_{t-1}/math/th
+thmathG_i=\frac{F_i}{V_a}/math/th
+thmathH_i=G_i\;\cdot\;V_a/math/th
+thmathI_i=F_i-H_i/math/th
+/tr 
+tr
+td1/td
+td5/td
+td5·5.000=25.000/td
+td0/td
+td0/td
+td25.000/td
+td25.000/12.000=2'08≃2/td
+td2·12.000=24.000/td
+td25.000-24.000=1.000/td
+/tr
+tr
+td2/td
+td5+2=7/td
+td7·5.000=35.000/td
+td5/td
+td5·2.000=10.000/td
+td46.000/td
+td46.000/12.000=3'83≃3/td
+td3·12.000=36.000/td
+td46.000-36.000=10.000/td
+/tr
+tr
+td3/td
+td7+3-5=5/td
+td5·5.000=25.000/td
+td2/td
+td2·2.000=4.000/td
+td39.000/td
+td39.000/12.000=3'25≃3/td
+td3·12.000=36.000/td
+td39.000-36.000=3.000/td
+/tr
+tr
+td4/td
+td5+3-2=6/td
+td6·5.000=30.000/td
+td3/td
+td3·2.000=6.000/td
+td39.000/td
+td39.000/12.000=3'25≃3/td
+td3·12.000=36.000/td
+td39.000-36.000=3.000/td
+/tr
+tr
+td5/td
+td6+3-3=6/td
+td6·5.000=30.000/td
+td3/td
+td3·2.000=6.000/td
+td39.000/td
+td39.000/12.000=3'25≃3/td
+td3·12.000=36.000/td
+td39.000-36.000=3.000/td
+/tr
+/table
+
+Com es pot comprovar, a partir del quart any i posteriors el nombre d'actius que es poden comprar es manté constant, igual que ho fa el nombre d'actius disponibles per a l'any concret i el nombre d'actius que es donen de baixa. Açò romandrà fins que alguna de les condicions de Ruchti-Lohmann es veja alterada.
+
+
+=== Sistema d'amortització per quotes creixents ===
+El següent sistema d'amortització consta de quotes d'amortització que creixen al llarg de la vida útil de l'element. Es plantegen una sèrie d'equacions. El nombre d'equacions a realitzar és equivalent al nombre d'anys que correspon a la vida útil de l'actiu. Així, l'expressió quedarà:
+
+table
+tr
+tdmatha_1/math/td
+tdmath\longrightarrow/math/td
+tdmathX1/math/td
+/tr
+tr
+tdmatha_2/math/td
+tdmath\longrightarrow/math/td
+tdmathX2/math/td
+/tr
+tr
+td.../td
+td.../td
+td.../td
+/tr
+tr
+tdmatha_{n-1}/math/td
+tdmath\longrightarrow/math/td
+tdmathX_{n-1}/math/td
+/tr
+tr
+tdmatha_n/math/td
+tdmath\longrightarrow/math/td
+tdmathXn/math/td
+/tr
+tr
+td/td
+td/td
+tdmath\downarrow/math/td
+/tr
+tr
+td/td
+td/td
+tdmath\left ( 1+2+...+n \right ) X = V_{a}-V_{r} \longrightarrow X=\frac{V_{a}-V_{r}}{\left (1+2+...+n \right )}/math/td
+/table
+
+
+Suposant el cas anterior en el qual el preu d'adquisició de l'actiu és de 12.000 unitats monetàries, un valor residual de 2.000 i una vida útil de 2 anys, caldria fer:
+
+
+table
+tr
+tdmatha_1/math/td
+tdmath\rightarrow/math/td
+tdmath1X \longrightarrow 1 \cdot 3333'33 = 3333'33/math/td
+/tr
+tr
+tdmatha_2/math/td
+tdmath\rightarrow/math/td
+tdmath2X \longrightarrow 2 \cdot 3333'33 = 6666'66/math/td
+/tr
+tr
+td/td
+td/td
+tdmath\downarrow/math/td
+/tr
+tr
+td/td
+td/td
+tdmath3X = 12.000-2.000 \rightarrow X = \frac{10.000}{3} = 3333'33 \;\text{um}/math/td
+/tr
+/table
+
+Per tant, les dades obtingudes anteriorment impliquen que en el primer any de l'element adquirir, aquest serà amortitzat per un import de 3333'33un mentre que l'any posterior i últim, s'amortitzarà per 6666'66 unitats. I així successivament amb tots els elements.
+El quadre d'amortització amb l'efecte d'expansió queda de la següen forma:
+
+
+table class=wikitable
+caption EFECTE RUCHTI-LOHMANN AMB AMORTITZACIÓ PEL SISTEMA DE QUOTES CREIXENTS /caption
+tr
+thAny/th
+thActius principi any/th
+thQuotes d'amortització/th
+thActius de baixa final any/th
+thValor residual obtingut/th
+thFons totals obtinguts/th
+thNº actius a comprar/th
+thRecursos en la compra/th
+thFons restants/th
+/tr 
+tr
+thmathA_i/math/th
+thmathB_i/math/th
+thmathC_i=B_i\;\cdot\;a_i/math/th
+thmathD_i/math/th
+thmathE_i=D_i\;\cdot\;Vr/math/th
+thmathF_i=A_i+C_i+I_{t-1}/math/th
+thmathG_i=\frac{F_i}{V_a}/math/th
+thmathH_i=G_i\;\cdot\;V_a/math/th
+thmathI_i=F_i-H_i/math/th
+/tr 
+tr
+td1/td
+td5/td
+td5·3333.33=16.666'7/td
+td0/td
+td0/td
+td16.666'7/td
+td16.666'7/12.000=1'38≃1/td
+td1·12.000=12.000/td
+td16.666'66-12.000=4.666'66/td
+/tr
+tr
+td2/td
+td5+1=6/td
+td5·6666'66+1·3333'33/td
+td5/td
+td5·2.000=10.000/td
+td51.333'30/td
+td51.333'30/12.000=4'27≃4/td
+td4·12.000=48.000/td
+td51.333'30-48.000=3.333'30/td
+/tr
+tr
+td3/td
+td6+4-5=5/td
+td1·6.666'6+4·3.333'3/td
+td1/td
+td1·2.000=2.000/td
+td25.333'3/td
+td25.333'3/12.000=2'11≃2/td
+td2·12.000=24.000/td
+td25.333'3-24.000=1.333'3/td
+/tr
+tr
+td4/td
+td5+2-1=6/td
+td2·3.333'33+4·6.666'66/td
+td4/td
+td4·2.000=8.000/td
+td42.666'6/td
+td42.666'6/12.000=3'55≃3/td
+td3·12.000=36.000/td
+td42.666'6-36.000=6.666'6/td
+/tr
+tr
+td5/td
+td6+3-4=5/td
+td3·3.333'33+2·6.666'66/td
+td2/td
+td2·2.000=4.000/td
+td34.000/td
+td34.000/12.000=2'83≃2/td
+td2·12.000=24.000/td
+td34000-24.000=10.000/td
+/tr
+tr
+td6/td
+td5+2-2=5/td
+td2·3.333'33+3·6.666'66/td
+td3/td
+td3·2.000=6.000/td
+td42.666'64/td
+td42.666'64/12.000=3'55≃3/td
+td3·12.000=36.000/td
+td42.666'64-36.000=6.666'64
+tr
+td7/td
+td5+3-3=5/td
+td3·3.333'33+2·6.666'66/td
+td2/td
+td2·2.000=4.000/td
+td34.000/td
+td34.000/12.000=2'83≃2/td
+td2·12.000=24.000/td
+td34000-24.000=10.000/td
+/tr
+/table
+
+
+De la mateixa forma que en el mètode anterior, es pot comprovar com amb el transcurs del temps, el nombre d'actius a l'inici de l'any és el mateix. Tot açò si no canvia alguna de les condicions de Ruchti-Lohmann.
+
+
+
+=== Sistema d'amortització per quotes decreixents ===
+En aquest sistema d'amortització, les quotes són decreixents al llarg de la vida útil de l'actiu. La quota d'amortització més elevada té lloc en el primer any de l'actiu mentre que la resta disminueixen amb el pas del temps. La forma de conèixer el terme amortitzatiu X és igual que el mètode de quotes creixents, és a dir, calcular la diferència entre el valor d'adquisició i el valor residual, si hi ha, i dividir-ho pel nombre de quotes. 
+
+
+table
+tr
+tdmatha_n/math/td
+tdmath\longrightarrow/math/td
+tdmathXn/math/td
+/tr
+tr
+tdmatha_{n-1}/math/td
+tdmath\longrightarrow/math/td
+tdmathX_{n-1}/math/td
+/tr
+tr
+td.../td
+td.../td
+td.../td
+/tr
+tr
+tdmatha_2/math/td
+tdmath\longrightarrow/math/td
+tdmathX2/math/td
+/tr
+tr
+tdmatha_1/math/td
+tdmath\longrightarrow/math/td
+tdmathX1/math/td
+/tr
+tr
+td/td
+td/td
+tdmath\downarrow/math/td
+/tr
+tr
+td/td
+td/td
+tdmath\left ( 1+2+...+n \right ) X = V_{a}-V_{r} \longrightarrow X=\frac{V_{a}-V_{r}}{\left (1+2+...+n \right )}/math/td
+/table
+
+
+Suposant el cas anterior en el qual el preu d'adquisició de l'actiu és de 12.000 unitats monetàries, un valor residual de 2.000 i una vida útil de 2 anys, caldria fer:
+
+
+table
+tr
+tdmatha_2/math/td
+tdmath\rightarrow/math/td
+tdmath2X \longrightarrow 2 \cdot 3333'33 = 6666'66/math/td
+/tr
+tr
+tdmatha_1/math/td
+tdmath\rightarrow/math/td
+tdmath1X \longrightarrow 1 \cdot 3333'33 = 3333'33/math/td
+/tr
+tr
+td/td
+td/td
+tdmath\downarrow/math/td
+/tr
+tr
+td/td
+td/td
+tdmath3X = 12.000-2.000 \rightarrow X = \frac{10.000}{3} = 3333'33 \;\text{um}/math/td
+/tr
+/table
+
+
+Amb la informació disponible i igual que el mètode de quotes creixents, el quadre d'amortització amb l'Efecte Ruchti-Lohmann queda de la següent forma:
+
+
+table class=wikitable
+caption EFECTE RUTCHI-LOHMANN AMB AMORTITZACIÓ PEL SISTEMA DE QUOTES DECREIXENTS /caption
+tr
+thAny/th
+thActius principi any/th
+thQuotes d'amortització/th
+thActius de baixa final any/th
+thValor residual obtingut/th
+thFons totals obtinguts/th
+thNº actius a comprar/th
+thRecursos en la compra/th
+thFons restants/th
+/tr 
+tr
+thmathA_i/math/th
+thmathB_i/math/th
+thmathC_i=B_i\;\cdot\;a_i/math/th
+thmathD_i/math/th
+thmathE_i=D_i\;\cdot\;Vr/math/th
+thmathF_i=A_i+C_i+I_{t-1}/math/th
+thmathG_i=\frac{F_i}{V_a}/math/th
+thmathH_i=G_i\;\cdot\;V_a/math/th
+thmathI_i=F_i-H_i/math/th
+/tr 
+tr
+td1/td
+td5/td
+td5·6666.66/td
+td0/td
+td0/td
+td33.333'33/td
+td33.333'33/12.000=2'77≃2/td
+td2·12.000=24.000/td
+td33.333'33-24.000=9.333'33/td
+/tr
+tr
+td2/td
+td5+2=7/td
+td2·6666'66+5·3.333'33/td
+td5/td
+td5·2.000=10.000/td
+td49.333'33/td
+td49.333'33/12.000=4'11≃4/td
+td4·12.000=48.000/td
+td49.333'33-48.000=1.333'27/td
+/tr
+tr
+td3/td
+td7+4-5=6/td
+td4·6.666'6+2·3.333'3/td
+td2/td
+td2·2.000=4.000/td
+td38.666'57/td
+td38.666'57/12.000=3'22≃3/td
+td3·12.000=36.000/td
+td38.666'57-36.000=2.666'57/td
+/tr
+tr
+td4/td
+td6+3-2=7/td
+td4·3.333'33+3·6.666'66/td
+td4/td
+td4·2.000=8.000/td
+td43.999'87/td
+td43.999'87/12.000=3'66≃3/td
+td3·12.000=36.000/td
+td43.999'87-36.000=7.999'87/td
+/tr
+tr
+td5/td
+td7+3-4=6/td
+td3·3.333'33+3·6.666'66/td
+td3/td
+td3·2.000=6.000/td
+td43.999'84/td
+td43.999'84/12.000=3'66≃3/td
+td3·12.000=36.000/td
+td43.999'84-36.000=7.999'84/td
+/tr
+tr
+td6/td
+td6+3-3=6/td
+td3·3.333'33+3·6.666'66/td
+td3/td
+td3·2.000=6.000/td
+td43.999'81/td
+td43.999'81/12.000=3'66≃3/td
+td3·12.000=36.000/td
+td43.999'81-36.000=7.999'81/td
+/tr
+td7/td
+td6+3-3=6/td
+td3·3.333'33+3·6.666'66/td
+td3/td
+td3·2.000=6.000/td
+td43.999'78/td
+td43.999'78/12.000=3'66≃3/td
+td3·12.000=36.000/td
+td43.999'78-36.000=7.999'78/td
+/tr
+/table
+
+
+Com es pot observar, amb els pas dels anys i donant-se l'efecte d'expansió de l'amortització, el nombre d'actius a l'inici dels anys és el mateix i continuarà d'aquesta manera mentre es complisquen les condicions anteriorment citades. 
+
+
+== Relacionat ==
+
+* [[Amortització]]
+* [[Dividends]]
+* [[Reserves]]
+* [[Patrimoni net]]
+* [[Actius]]
+* [[Finances]]
+
+
+
+[[Categoria:Teoria econòmica]]</text>
+      <sha1>921la4axrjqdbzs311r1h3hpcbglora</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,89 @@
+<page>
+    <title>World in Flames</title>
+    <ns>0</ns>
+    <id>1164333</id>
+    <revision>
+      <id>13964264</id>
+      <parentid>13559019</parentid>
+      <timestamp>2014-08-22T22:57:53Z</timestamp>
+      <contributor>
+        <username>RotlinkBot</username>
+        <id>151337</id>
+      </contributor>
+      <minor></minor>
+      <comment>Bot: enllaç no actiu</comment>
+      <text>{{Infotaula joc
+| títol  = World in Flames
+| dissenyador = Harry Rowland
+| editor      =[[Australian Design Group]]
+| jugadors = 2–6 
+| edats      = 16-99
+| preparació = 30-120 minuts
+| durada = 20-180 hores
+| gènere = [[Joc de tauler]]
+| complexitat = Molt Alta
+| estratègia  = Alta
+| atzar = Baix
+| habilitats = Estratègia, producció
+| data       = 1985
+}}
+'''''World in Flames''''' és un [[joc de taula]] del tipus [[wargame]] dissenyat per Harry Rowland el 1985 i distribuït per la companyia [[Australian Design Group]] on es recrea la [[Segona Guerra Mundial]] amb tota la seva amplitud, considerat com un dels millors jocs d'estratègia del segle XX.ref{{ref-web| url=http://www.originsgamefair.com/awards/1985/list-of-winners
+ |títol=Charles S. Roberts Award Winners (1985)
+ |editor=Academy of Adventure Gaming Arts  Design
+ |consulta= |urlarxiu= http://web.archive.org/web/20080307101410/http://www.originsgamefair.com/awards/1985/list-of-winners !-- Bot retrieved archive -- |dataarxiu= 2008-03-07}}/ref
+
+Des de la seva creació s'han dissenyat nous mòduls que amplien els components del joc, arribant a una complexitat màxima per aquest tipus de [[wargame]]:
+* America in Flames
+* Days of Decision III
+* Patton in Flames
+* Carrier Planes in Flames
+* Cruisers in Flames
+* Convoys in Flames
+* Khaki in Flames
+
+== Mecànica del joc ==
+El joc es divideix en torns de 2 mesos i cada un d'aquest en un impuls d'una setmana, depenent de la climatologia el torn es pot allargar o reduir; cada vegada que els dos bàndols han jugat, es llança un dau per saber quin tipus de climatologia hi haurà a cada zona climàtica del món per la següent fase, el que permet o impedeix fer algun tipus d'acció i pot reduir la capacitat de moviment i atac de les unitats.
+
+Durant cada impuls el jugador actiu ha de decidir quin tipus de moviment vol realitzar, terrestre, naval, aeri o combinat, el que limita les unitats que poden moure o lluitar, simulant així la capacitat de cada país.
+
+Cada mapa té una escala que pot ser diferent al d'altres zones, a Europa cada hexàgon representa uns 100 Km; la unitat bàsica militar es el Cos d'Exèrcit i la Divisió.
+
+El joc contempla moltes regles opcionals, permetent jugar des de les més bàsiques i senzilles fins a la complexió total, incloent l'estratègia política del mòdul Days of Decision.
+
+Encara que el joc estàndard comença al Setembre de 1939, amb la [[Invasió de Polònia]] per l'exèrcit alemany, hi ha diferents opcions, podent començar el 1939 amb la [[Guerra Civil Espanyola]] o continuar després del 1945 amb els diferents escenaris possibles. 
+
+==Importància de la indústria ==
+En gran part, les possibilitats de guanyar el joc es decideix amb el recursos que obté cada país per poder tenir totes les seves fàbriques a ple rendiment, el que permetrà la construcció de més i millors unitats militars.
+
+Al final de cada torn, cada país decideix quin tipus d'unitat vol construir, que poden tenir un termini de fabricació per poder entrar en joc de fins a dos anys, depenent del tipus d'unitat.
+
+== Subministrament ==
+Per cada acció que es vulgui fer amb una unitat, aquesta deu ser capaç de traçar una línia de subministrament cap a una font de subministraments, cosa que provoca que s'hagi de mantenir permanentment el contacte entre la unitat i la font de subministraments.
+
+== Combat ==
+La victòria o derrota a una batalla es decideix majoritàriament pels tipus i la força de les unitats enfrontades, però sempre hi ha un percentatge que depèn en major o menor mesura d'altres factors; al '''World in Flames''', com a la majoria de jocs de taula, això ho decideixen els daus; encara que la importància d'aquests, disminueix quan la proporció entre el atacant i el defensor és major.
+
+==Referències==
+references/
+
+== Enllaços externs==
+* [http://www.a-d-g.com.au/ Australian Design Group]
+* [http://www.vassalengine.org/wiki/Module:World_in_Flames Vassal]
+* http://www.matrixgames.com/products/296/details/World.In.Flames 
+* http://wifcon.org/ 
+* http://web.archive.org/web/20070624085852/http://pagesperso-orange.fr/froon/WiF/wif.htm 
+* http://users.ats.dk/jsp/wif.htm 
+* http://games.groups.yahoo.com/group/wifdiscussion/ 
+* http://fr.groups.yahoo.com/group/WorldinFlames_en_francais/ 
+* http://www.theletterj.net/ 
+* http://talk.consimworld.com/WebX?50@236.AqAHa3v9Rdj.31@.ee6b55a 
+
+{{orfe|data=març de 2014}}
+
+{{ORDENA:World In Flames}}
+[[Categoria:Jocs de taula]]</text>
+      <sha1>5wnwfjyw4rjbkw3dfh9ye2kpujrpd7g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

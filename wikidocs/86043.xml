@@ -1,0 +1,63 @@
+<page>
+    <title>Grace Hopper</title>
+    <ns>0</ns>
+    <id>86043</id>
+    <revision>
+      <id>13809319</id>
+      <parentid>13697624</parentid>
+      <timestamp>2014-07-13T08:36:17Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{VPHISMILCAT Infotaula biografia militar 
+|name= Grace Murray Hopper 
+|lived= {{Data naixement|1906|12|9}} – {{Data defuncio i edat|1992|1|1|1906|12|9}} 
+|placeofbirth= [[Fitxer:Flag of New York.svg|23px|Nova York]] [[Nova York|New York City]], [[Nova York (estat)|New York]]
+|placeofdeath= {{bandera|Virgínia }} [[Comtat d'Arlington]] [[Virgínia]]
+|image=[[Fitxer:Grace Hopper.jpg|200px|Grace Hopper]]
+|caption= 
+|nickname= 
+|allegiance= {{USA}} 
+|branch= [[Fitxer:Flag of the United States Navy.svg|23px|US Navy]] [[Marina dels Estats Units]]
+|serviceyears=1943-1966, 1967-1971, 1972-1986.
+|rank=[[Fitxer:US Navy O7 infobox.svg|30px|Contraalmirall inferior]] [[Contraalmirall]]
+|commands= 
+|battles= 
+|awards= [[Fitxer:Defense Distinguished Service ribbon.svg|30px|Medalla del Servei Distingit de Defensa]] [[Medalla del Servei de Defensa Distingit]]br/[[Fitxer:Legion of Merit ribbon.svg|30px|Legió del Mèrit]] [[Legió del Mèrit]]br/[[Fitxer:Meritorious Service ribbon.svg|30px|Medalla del Servei Meritori]] [[Medalla del Servei Meritori (Estats Units)| Medalla del Servei Meritori]]br/[[Fitxer:American Campaign Medal ribbon.svg|30px|Medalla de la Campanya Americana]] [[Medalla de la Campanya Americana]]br/[[Fitxer:World War II Victory Medal ribbon.svg|30px|Medalla de la Victòria a la II Guerra Mundial]] [[Medalla de la Victòria a la II Guerra Mundial (Estats Units)| Medalla de la Victòria a la II Guerra Mundial]]br/[[Fitxer:National Defense Service Medal ribbon.svg|30px|Medalla del Servei a la Defensa Nacional]] [[Medalla del Servei a la Defensa Nacional]]br/[[Fitxer:ResMedRib.svg|30px|Medalla de la Reserva de les Forces Armades]] [[Medalla de la Reserva de les Forces Armades]] amb dues [[Insígnies Hourglass]]sbr/[[Fitxer:Naval Reserve Medal ribbon.svg|30px|Medalla de la Reserva Naval]] [[Medalla de la Reserva Naval]]
+|laterwork= 
+|portrayedby=
+}}
+'''Grace Hopper''' ([[9 de desembre]] de [[1906]] a [[Nova York]] - [[1 de gener]] de [[1992]]) va ser una [[militar]] nord-americana, amb grau d'[[almirall]] i una autèntica pionera en el món de la [[informàtica]]. Va ser la primera [[programador]]a que va utilitzar el [[Harvard Mark I|Mark I]] i també la inventora del concepte de [[compilador]] d'un [[llenguatge de programació]].
+
+Ha passat a la història de la informàtica, però, com la inventora del llenguatge de programació [[COBOL]], un llenguatge d'alt nivell de compilació, especialment pensat per facilitar el desenvolupament de programes d'ordinador per gent sense coneixements específics d'informàtica. 
+
+El COBOL va ser el primer llenguatge que va oferir una autèntica interfície als recursos disponibles a l'ordinador, de forma que el programa no havia de conèixer els detalls específics. D'aquesta forma, personal sense un coneixement específic de cada una de les màquines podia desenvolupar programes. El segon avantatge és que els programes desenvolupats per a una plataforma concreta podien ser executats en un ordinador diferent al que s'havien programat, sense necessitat de fer cap canvi.
+
+Al final de la seva carrera professional, abans de retirar-se, va participar en els comitès d'estandardització dels llenguatges de programació [[COBOL]] i [[FORTRAN]]. 
+
+== Biografia ==
+Va néixer el 9 de desembre de 1906 i va graduar-se en Matemàtiques i Física al Vassar College de Nova York i Matemàtiques a la Universitat Yale el 1930. Durant la Segona Guerra Mundial, va unir-se a les forces armades treballant en el projecte de computació dirigit per Howard Aiken que consistia en la construcció de l’ordinador [[Harvard Mark I|Mark I]]. 
+
+Anys més tard continuava investigant amb Aiken, i el 1949 a l'Eckert – Mauchly Corporation en la creació dels ordinadors BINAC i UNIVAC I. El 1952 va aconseguir desenvolupar el primer compilador, l’A-0, i el 1957 un altre anomenat B-0, però en aquest cas utilitzat per al processament de dades. Aviat va tenir la idea de crear un llenguatge de programació, i dos anys més tard es va establir el comitè creador de [[COBOL]], el llenguatge de programació amb una interfase del que ella era una dels creadors. 
+
+El 1966 va ser retirada de la reserva de les forces armades per superar l’edat màxima, però l’any següent la van tornar a admetre per a treballar amb els llenguatges de programació que utilitzaven, però durant la resta d’anys va estar sent retirada i readmesa diverses vegades, i retirant-se de forma definitiva el 1986. Posteriorment va treballar a Digital Equipment Corporation, empresa amb la que feia conferències i programes educatius. Va morir l’1 de gener de 1992 mentre estava dormint.
+
+== Curiositats ==
+[[Fitxer:H96566k.jpg|thumb|esquerra|Llibre de registre amb el primer ''bug'' enganxat amb cinta adhesiva]]
+Va popularitzar la utilització del terme [[error de programari|bug]] per referir-se als problemes durant la programació informàtica. Treballant amb un [[Mark II]] a la [[Universitat Harvard]], el [[9 de setembre]] de [[1947]], es van trobar amb una [[Arna (insecte)|arna]] enganxada a un dels relés de l'ordinador, fet que impedia el funcionament de l'ordinador. L'[[Arna (insecte)|arna]] ha passat a la història de la informàtica quan la van enganxar al llibre de registre d'activitat de l'ordinador amb la inscripció «''First actual case of bug being found''» (primer cas real de localitzar un [[Error de programari|bug]]). Per això el procés de depuració dels problemes de programació es coneix com [[Depuració de programes|debugging]].
+
+== Enllaços externs ==
+{{Commonscat}}
+* [http://www.caballe.cat/2006/06/25.html#a7451 Galeria de hackers famosos. I - Grace Hopper]
+{{Autoritat}}
+{{ORDENA:Hopper, Grace}}
+[[Categoria:Informàtics novaiorquesos]]
+[[Categoria:Almiralls de la Marina dels Estats Units]]</text>
+      <sha1>hs27dihg4g9nglrqqr62wu1tnlmtuf4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

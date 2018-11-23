@@ -1,0 +1,127 @@
+<page>
+    <title>Reactor nuclear</title>
+    <ns>0</ns>
+    <id>13331</id>
+    <revision>
+      <id>13818703</id>
+      <parentid>13778967</parentid>
+      <timestamp>2014-07-14T05:22:18Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:Kkw leibstadt.jpg|thumb|[[Central nuclear]] de Leibstadt ([[Suïssa]]). El reactor es troba dins un mur de contenció semiesfèric.]]
+[[Fitxer:Reaktor Maria w czasie budowy.jpg|thumb|Reactor Maria, a [[Polònia]].]]
+Un '''reactor nuclear''' és una [[màquina]] que forma el nucli de producció energètica d'una [[central nuclear]] i que té la funció de produir [[calor|energia calorífica]], a base d'alliberar-la del nucli d'[[àtoms]] d'[[urani]] en ser trencats en ser bombardejats amb [[neutrons]]. En trencar-se cada nucli en dos fragments de fissió, a més d'alliberar calor també emet neutrons, que dividiran altres nuclis en una [[reacció en cadena]]. En un reactor la [[refrigeració]] i la [[seguretat]] són molt importants. 
+
+El primer reactor nuclear va ser dissenyat i posat en marxa pel [[premi Nobel de Física]] [[Enrico Fermi]] sota les grades del camp de [[rugbi]] de la [[Universitat de Chicago]] el [[2 de desembre]] de [[1942]]. Era de només mig [[Watt]] de [[Potència física|potència]] però va servir per demostrar que un reactor nuclear era [[tècnica]]ment possible. Va ser usat com a instal·lació pilot dels reactors [[disseny]]ats per a fabricar [[plutoni]] per a la [[bomba atòmica]] del [[Projecte Manhattan]] de la [[Segona Guerra Mundial]]. A [[Espanya]] només se n'han fet amb objectius pedagògics i per a centrals nuclears, la més antiga de les quals, la [[central nuclear José Cabrera]] “Zorita”, es va començar a construir en [[1965]]. Als [[Països Catalans]] la més antiga és la de [[Vandellòs I]], que tenia un reactor de gas. 
+
+Els reactors nuclears produeixen [[calor]] que es fa servir sobretot per a la generació [[electricitat|elèctrica]], [[dessalinització]] d'[[aigua]] de [[mar]] i [[propulsió]] [[embarcació|naval]].
+
+== Principis físics ==
+[[Fitxer:Nuclear fission.svg|thumb|Esquema de la fissió nuclear de l'Urani-235. Els àtoms arrugats són radioactius. En blau cel els neutrons.]]
+El funcionament dels reactors nuclears està basat en les reaccions nuclears en cadena.
+
+=== Fissió nuclear ===
+{{AP|Fissió nuclear}}
+Un [[àtom]] està format per un gran [[nucli atòmic|nucli]] central envoltat d'una zona per la qual es desplacen de manera caòtica alguns [[electrons]], que són partícules molt petites. El nucli està format per [[neutrons]] i [[protons]] units entre ells. Si trenquem un nucli en dues parts, obtenim dos fragments de fissió, que, amb els electrons que agafi cadascun, seran dos àtoms d'un [[element químic]] diferent a l'àtom inicial trencat. Aquest trencament en, generalment dues o tres parts, s'anomena [[fissió nuclear]]. 
+
+A les fissions nuclears sovint els àtoms lliuren al medi ambient una mica de [[massa]] (neutrons, radiacions alfa o nuclis d'[[heli]], radiacions beta o electrons) i molta [[energia]] en forma de [[fotons]], que corresponia a l'[[energia d'enllaç]] entre els nucleids (neutrons i protons del nucli) abans units i que s'han separat al trencament. Per exemple, l'[[energia]] alliberada per una [[Fissió nuclear|fissió]] d'un àtom d'Urani-235 és de 210 M[[electró volt|eV]] i un [[quilogram]] d'urani fissionat despren 925M[[watt|W]].
+
+La '''secció eficaç d'un nucli atòmic''', o probabilitat d'interacció d'un neutró amb el nucli, es mesura en unitats de [[superfície]], com els [[barn]]s (un barn és igual a 10sup-24/sup cmsup2/sup), i depèn de l'energia cinètica d'aquest neutró. Aquesta és molt major a l'Urani-235 (682 barns; de sumar la secció eficaç de captura radiactiva, de 98 barns, als 584 barns de secció eficaç per fissió) que a l'Urani-238 (de només 2'7 barns de secció eficaç, a la qual no hi ha component per fissió), i també és major al [[plutoni|Plutoni-241]], que al Plutoni-239 i, molt més, que al Plutoni-240.
+
+=== Reacció en cadena ===
+[[Fitxer:Kettenreaktion.png|thumb|left|Reacció en cadena]]
+{{AP|Reacció en cadena}}
+La fissió pot ser espontània (poc probable) o induïda (provocada). Sigui com sigui, a més, si la fissió es fa en certes condicions, almenys una partícula produïda al trencament d'un nucli d'un nucli pesant (o sigui, d'un àtom gran) surt llançada i topa amb un altre nucli d'àtom gran, trencant-lo (o sigui, fissionant-lo) i fent que emeti nous neutrons, que repeteixen successivament el procés. Això s'anomena [[reacció en cadena]], perquè un cop començada s'alimenta ella mateixa. En particular és una fissió en cadena, ja que hi ha altres tipus de reaccions químiques i nuclears que també es poden produir en cadena. 
+
+El '''[[coeficient de multiplicació]]''' ('''k''') és el nombre de fissions en un instant dividit en el nobre de fissions a la generació anterior, o el que és el mateix, el nombre de neutrons en una generació entre els que hi havia a la generació precedent. Una reacció en cadena amb '''k''' inferior a la unitat (reacció subcrítica) tendeix a mitigar-se, una '''k''' igual a 1 (reacció crítica) manté constant el nombre de fissions i amb una '''k''' major a 1 les fissions van augmentant (reacció supercrítica). En un reactor podem modificar la '''k''' per a controlar la reacció en cadena i la calor obtinguda pel percentatge d'Urani-235 que posem al [[combustible]] (més enriquit és una '''k''' major), per moderadors (augmentadors de k) i absorbents (disminuidors de '''k'''). La reacció en cadena també es pot mesurar per la '''[[Coeficient de reactivitat|reactivitat]]''', que és igual a (k-1)/k i que val zero quan '''k''' és igual a 1.
+
+No tots els àtoms tenen la mateixa facilitat per a fissionar-se en cadena, perquè això ocorri cal que el nombre mitjà de neutrons emesos a cada fissió sigui proper a dos i mig, com ocorre en el cas de l'[[urani]] (és de 2'42 per l'Urani-235 i neutrons d'energia de 0'025[[Electró volt|eV]], dits ''[[neutrons tèrmics]]''). 
+
+L'[[energia cinètica]] dels neutrons produïts a la fissió és de l'ordre de dos megaelectrovolts. Més del 99% d'aquests neutrons són immediats (instantanis, ràpids) mentre que la resta, menys del 1%, són [[neutró lent|retardats]], lents o diferits, que apareixen després de la fissió com a conseqüència d'alguns productes de la reacció. Els seus períodes de desintegració estan compresos entre 0'2 [[segon]]s i 55 segons.
+
+== Funcionament bàsic ==
+[[Fitxer:Yellowcake.jpg|thumb|Galeta groga d'òxid d'urani concentrat, [[octaòxid de triurani|Usub3/subOsub8/sub]], usat per a produir el combustible UOsub2/sub]]
+[[Fitxer:Fuel Pellet.jpg|thumb|Una pastilla de [[combustible nuclear]]]]
+[[Fitxer:Nuclear fuel element.jpg|thumb|Element de combustible, format per un feix de beines de [[zircaloy]] on s'apilen les pastilles]]
+
+Les [[centrals nuclears]] són instal·lacions de [[Producció (economia)|producció]] d'[[electricitat]] a partir d'[[calor|energia calorífica]] proporcionada per habitualment un o dos reactors nuclears. Els reactors d'una mateixa central nuclear funcionen de manera independent entre ells. Cada reactor s'encarrega de produir calor a partir de l'energia obtinguda per reaccions de fissió nuclear en cadena.
+
+[[Fitxer:U235 Fission cross section.png|thumb|left|La secció eficaç (eix vertical), o probabilitat que l'àtom d'urani fissioni, és alta per a petites velocitats del neutró (i per tant energia cinètica, a la taula, en electró volts) i baixa a grans velocitats.]]
+Perquè es produeixi la [[fissió nuclear|fissió]] [[reacció en cadena|en cadena]] cal que almenys un dels neutrons produïts a la fissió d'un àtom gran, que als reactors nuclears sol ser Urani-235, produeixi una altra fissió d'un nucli d'[[urani]] i això es repeteixi successivament. La reacció en cadena es pot facilitar si els neutrons incidents (els que xoquen contra els àtoms d'urani) tenen una velocitat no molt ràpida. Això és perque a més alta [[velocitat]], més [[energia cinètica]] tenen, cosa que fa disminuir la secció eficaç de fissió. Per a aconseguir-lo, prop de les pastilles de combustible (l'urani) es posen moderadors dels neutrons de fissió, que disminueixen la seva velocitat per a augmentar el nombre de reaccions i que la cadena no vagi minvant i s'aturi. El procés de moderació consisteix a fer xocar els neutrons amb partícules d'una mida no excesivament diferent a la seva pròpia, per tal que vagin perdent velocitat i energia. 
+
+Els reactors nuclears de fissió que fa servir moderador s'anomenen ''[[reactors tèrmics]]'' i són la majoria dels existents al món actualment. Només n'hi ha un grapat que no usen moderador, estan encara en fase de prototipus i s'anomenen ''[[reactors ràpids]]''.
+
+
+Tant o més important és poder afeblir la cadena de reaccions i fins i tot, si cal, aturar-la completament. Aquesta es controla amb un sistema bàsic que inclou la introducció de més o menys material absorbent de neutrons. Es fan servir elements mòbils d'un material que pren els neutrons del reactor. 
+
+L'urani-235 a fissionar sol introduir-se en forma de pastilles de [[diòxid d'urani]] (UOsub2/sub).ref''Radiaciones Ionizantes'', de Guillem Cortés, article de física publicat a la pàg. 9 de ''Investigación i Ciencia''. Maig de 2011 {{es}} ISBN 977-02-1013600-4 /ref En trencar-se, cada àtom d'urani genera dos fragments de fissió que solen ser radioactius, a més de neutrons. Alguns d'aquests neutrons poden reaccionar amb isòtops d'urani i produir isòtops inestables de vida llarga (transurànids), com el [[plutoni]] o el [[neptuni]]. Altres neutrons poden reaccionar amb altres elements (impureses, moderadors, materials de l'estructura del reactor, etc.) i donar lloc a productes d'activació inestables.
+
+== Parts d'un reactor ==
+[[Fitxer:Magnox reactor schematic.svg|thumb|400px|Esquema de funcionament d'un reactor de gas Magnox. El quadre verd representa el mur de contenció. Dins, les barres mòbils en negre són l'absorbent, les vermelles són el combustible i en gris està el moderador. En groc s'observa el circuit primari, al qual una bomba fa circular un fluid refrigerant que extreu la calor obtinguda al reactor i passa per un intercanviador de calor. A l'intercanviador, ja fora del reactor, hi ha moltes petites canonades per on entra aigua freda (en blau), que en passar dins del recinte escalfat pel refrigerant s'escalfa fins a evaporar-se (en vermell) i surt. El refrigerant es refreda quan dona calor al segon circuit, dins de l'intercanviador, i això està marcat pintant-lo d'un groc més clar, llavors torna a entrar al reactor, on és escalfat per la calor de les reaccions nuclears, i surt amb aquesta calor de nou cap l'intercanviador, refredant (extraient calor) així el reactor.]]
+* El '''vas del reactor''' és un recipient d'[[acer]] que conté una font de [[neutrons]], per poder iniciar la [[reacció en cadena]] i el [[combustible]] nuclear, que pot ser [[urani]] natural o [[urani enriquit]]. El vas i tot el reactor es troben dins d'un '''mur de contenció''' de [[formigó]], de prou gruix perquè no el puguin travessar els neutrons o altres partícules radioactives a les possibles fugues, i dissenyat de tal manera que, si el reactor explotés, tota l'explosió es mantindria completament a l'interior d'aquesta estructura, sense fugues de cap mena vers l'exterior.
+* El '''moderador''' té la funció de reduir la [[velocitat]] dels neutrons emesos en les reaccions de [[fissió nuclear]], ja que aquestes, en l'urani, es produeixen en major mesura quan els neutrons incidents, que xoquen contra els àtoms d'urani, tenen baixa [[energia cinètica]] i velocitat. La moderació, o descens de la velocitat, dels neutrons incidents es fa fent-los xocar amb successivament amb materials que tenen àtoms petits, com per exemple d'[[hidrogen]]. D'aquesta manera, els neutrons reboten amb ells però amb una velocitat inferior, ja que han transmès velocitat i energia cinètica als àtoms contra els que han xocat. El moderador que se sol utilitzar és [[aigua]] (normal o [[aigua pesada]]) o bé [[Grafit (mineral)|grafit]]. Fa anys que hom experimenta amb reactors sense moderador (els ''[[reactors ràpids]]'') però els resultats obtinguts fins ara són força decebedors.
+* L''''absorbent''' és un material absorbent de neutrons que s'aplica en forma d'elements mòbils dins dels elements (tubs) de combustible que es poden regular, de manera que hom pot controlar en tot moment quants neutrons vol fer desaparèixer en cada instant i, per tant, quant es vol inhibir la [[reacció en cadena]]. És un element molt important, ja que, sense aquest control de les reaccions, aquestes augmentarien de manera [[funció exponencial|exponencial]] i el reactor, descontrolat, explotaria com [[bomba nuclear]]. L'absorbent sol tenir forma de llargues barres que estan formades per [[aliatge]]s de [[bor]], [[cadmi]] i [[hafni]], [[material]]s que absorbeixen neutrons. Quan les barres estan totalment introduïdes, la reacció nuclear en cadena s'atura per complet. El control de les reaccions se sol fer per mitjà de la temperatura, que és molt fàcil i ràpida de mesurar amb sensors. 
+* El '''[[Fluid refrigerant|refrigerant]]''' és un [[fluid]] que transporta la calor generada per les reaccions nuclears del reactor al generador de vapor i la [[turbina]]. Els refrigerants poden ser [[líquid]]s com l'[[aigua]], el [[sodi]] i el [[potassi]], o gasosos com el [[diòxid de carboni]], l'[[heli]], l'[[hidrogen]] i el [[nitrogen]].
+* El '''[[combustible]]''' sol ser [[òxid d'urani]] ([[urani|U]][[oxigen|O]]sub2/sub). L'[[urani]] que conté aquest compost pot ser natural (99'3% de l'[[isòtop]] Urani-238 i 0,7% de l'isòtop Urani-235) o bé enriquit, és a dir, amb una major proporció d'Urani-235, que és el que té major [[probabilitat]] de ser [[fissió nuclear|fissionat]] per neutrons de baixa energia.
+
+== Tipus de reactors ==
+Els diferents tipus de reactors nuclears que hi ha a les diferents [[centrals nuclears]] en funcionament avui al món, classificats com ho fa l'Organisme Internacional de l'Energia Atòmica de les [[Nacions Unides]], OIEA, són els següents:
+* '''[[Reactor d'aigua pressuritzada]]''' ([[PWR]], de l'[[anglès]] ''pressurized water reactor'', i [[VVER]], del [[rus]], ''Водо-Водяной Энергетический Реактор''): Fan servir aigua a alta [[pressió]] com a moderador dels neutrons, per a refrigerar el reactor i per a produir vapor als generadors de vapor. Com a combustible usen [[òxids d'urani]] lleugerament [[urani enriquit|enriquit]]. [[Reactor tèrmic]]. S'usa a la [[central nuclear d'Ascó]] i a [[Vandellòs II]].
+* '''[[Reactor d'aigua bullent]]''' ([[BWR]], de l'anglès ''boiling water reactor''): El segon més comu al món, ja que hi era a 93 centrals nuclears al món en [[1997]]. L'aigua bull, i així produeix vapor, directament al nucli del reactor. S'hi usa aigua a pressió com a moderador dels neutrons i com a refrigerant del nucli. El combustible també són òxids d'urani lleugerament enriquit. [[Reactor tèrmic]]. S'usa a la [[central nuclear de Cofrents]] i a la central japonesa [[Fukushima Daiichi]], que va patir un [[Terratrèmol i tsunami de Sendai del 2011|accident a causa del terremot i del tsunami]] de març de [[2011]].
+* '''[[Reactor d'aigua pesada pressuritzada]]''' ([[PHWR]], de l'anglès, ''pressurized heavy water reactor''): En [[1997]] n'hi havia 28 al món, que feien una potència total de més de 15.000 MWe. S'usa bàsicament a [[Canadà]]. Fa servir [[aigua pesada]] (òxid de [[deuteri]], [[deuteri|D]]sub2/sub[[oxigen|O]]) a alta pressió com a moderador de neutrons i com a refrigerant. [[Reactor tèrmic]].
+* '''[[Reactor de gas]]''' ([[GCR (reactor nuclear)|GCR]], de l'anglès ''gas cooled reactor'', [[AGR]] i [[Magnox]]): Són reactors que fan servir [[Grafit (mineral)|grafit]] com a moderador dels neutrons i [[diòxid de carboni]] en estat [[gas]]ós com a refrigerant. Els de tipus Magnox usen urani natural com a combustible, mentre que els AGR fan servir urani enriquit. [[Reactor tèrmic]]. Era l'usat a [[Vandellòs I]].
+* '''[[RBMK|Reactor moderat per grafit i refrigerat per aigua lleugera]]''' ([[LGR]], de l'anglès ''light-water graphite-moderated reactor'', o [[RBMK]], del rus Реактор Большой Мощности Канальный): Són tots models d'origen [[rus]], el més conegut és el que va patir l'[[accident de Txernòbil]]. En [[1997]] hi havia 14 centrals nuclears amb aquesta tecnologia, que produïen uns 14.6000 MWe. L'aigua lleugera és [[aigua|aigua normal]] ([[hidrogen|H]]sub2/sub[[oxigen|O]]), es diu així per a marcar la diferència amb l'[[aigua pesant]], que és aigua amb dos àtoms de [[deuteri]], un [[isòtop]] de l'[[hidrogen]], en comptes dels d'hidrogen. [[Reactor tèrmic]].
+* '''[[Reactor ràpid]]''' ([[LBR]] o [[LMFBR]], de l'anglès ''liquid-metal fast-breeder reactor''): Es diferencien dels [[reactors tèrmics]] en que la [[fissió nuclear]] en cadena es fa amb neutrons que no han estat prèviament moderats. Fan servir [[sodi]] líquid com a refrigerant. En [[1997]] hi havia quatre a tot el món, en etapa de prototipus, dels quals el més avançat era el ''Monju'', al [[Japó]], però els diversos problemes i accidents que han tingut han frenat notablement el seu desenvolupament.
+
+== Reactors de fusió ==
+[[Fitxer:ITER-img 0239.jpg|thumb|left|Maqueta que mostra una secció de l'ITER, que té forma de donut o de [[Tor (figura geomètrica)|toroide]]]]
+El [[Sol]] i la resta d'[[estrelles]] es poden considerar reactors naturals de [[fusió nuclear|fusió]]. Actualment no existeix cap central nuclear que funcioni amb [[reactor de fusió]], ja que aquest encara està en fase de [[recerca]]. 
+
+El principal inconvenient de construir un reactor de fusió és el seu [[rendiment (termodinàmica)|rendiment]]: es gasta més [[energia]] en fer el [[combustible]] que l'energia que es produeix, de manera que en comptes d'obtenir energia el que fem és consumir-la. Un altre greu inconvenient és que, segons el criteri de Lawson, es necessita una temperatura d'ignició, o de començament de la reacció de fusió en cadena, molt elevada, de l'ordre de 10.000.000.000 °C i un combustible ([[heli]], per exemple, molt abundant a l'aire) calent en estat de [[Plasma (estat de la matèria)|plasma]], cosa que fondria qualsevol recipient on el volguéssim tancar. A les estrelles els materials queden subjectats per la [[gravetat]], que impedeix que es dissipin. Als reactors s'està investigant de subjectar o confinar el combustible en estat de [[Plasma (estat de la matèria)|plasma]] i les seves reaccions nuclears bé per confinament [[magnetisme|magnètic]], en sistemes amb formes [[toroide|toroidals]], com el ''[[tokamak]]'' i l'''[[stellerator]]''; bé per confinament [[inèrcia|inercial]], als quals la ignició ocorre al centre i es propaga vers l'exterior fins que s'acaba el combustible.
+
+El reactor [[ITER]], un tokamak que s'està construint a [[Carandache]] ([[França]]), experimenta amb la [[fusió nuclear]].
+
+== Usos ==
+[[Fitxer:Crocus-p1020491.jpg|thumb|Reactor escolar que imita el d'una central nuclear]]
+[[Fitxer:Multiflash.png|thumb|Esquema d'un dessalinitzador d'aigua marina de tipus flash multiestadi.]]
+[[Fitxer:1YrIceFlow.png|thumb|Vaixell trencaglaç]]
+La [[tecnologia]] dels reactors nuclears va començar a desenvolupar-se amb fins [[guerra|bèlics]] pero a partir dels [[anys 50|anys cinquanta]] es va començar a diversificar per a fins civils, en especial per a la producció d'energia elèctrica.
+
+En els últims anys, pels problemes de [[sostenibilitat]] que presenten els [[combustibles fòssils]] de les [[centrals tèrmiques]], i per la independència i benefici que representaria com a solució d'[[energies renovables]]; ha anat creixent l'interés pels reactors de fissió primer i després pels de fusió com a mitjà per a obtenir electricitat. L'inconvenient és que la recerca és molt cara, ja que inclou instal·lacions molt costoses i que no aporten resultats immediats, cosa per la qual els projectes tenen caire internacional (com l'[[ITER]]) entre diversos països molt rics i tecnològicament molt desenvolupats. Els recursos [[econòmic]]s de que es disposen no són tampoc els mateixos que tenen les recerques amb fins [[militar]]s. 
+
+Les aplicacions dels reactors nuclears de fissió bàsicament s'engloben en:
+* '''Producció de [[calor]]''', que s'empra directament o per a produir vapor a partir d'aigua i aquest vapor per a treball mecànic ([[turbina]]), usat directament o per a produir electricitat amb un [[alternador]] ([[central nuclear]]), per a produir aigua dolça a partir d'aigua de [[mar]] ([[dessalinització]]), per a produir [[hidrogen]] per [[electròlisi]] a alta temperatura, etc.
+* '''[[Propulsió]] [[embarcació|naval]]''' d'embarcacions [[trencaglaç]], submarins nuclears, [[portaavions]] militars, etc. Hom investiga a usar-los també per a la propulsió de [[cohet]]s.
+* '''Producció de [[plutoni]]''', que es pot usar amb fins militars, com per exemple a [[bomba atòmica|bombes atòmiques]] o no, com per exemple el combustible [[MOX]], fet amb òxids de [[plutoni]] (PuOsub2/sub) i d'[[urani]] empobrit (UOsub2/sub) i que es pot usar a alguns reactors [[PWR]]. En aquest darrer cas, en principi el concepte és l'invers, als anys 90 es comencen a crear centrals nuclears que usen com a combustible els residus radiactius d'altres centrals nuclears, que resulten ser el plutoni (al MOX en un 7% aproximadament) i l'urani empobrit (al MOX entorn d'un 93%) resultant del procés d'enriquiment d'urani.
+* '''Producció d'[[isòtop]]s [[radiactiu]]s''', usats en construcció ([[americi]] dels detectors de fum), en [[medicina]] ([[cobalt|Cobalt-60]]), en recerca, etc.
+* '''Producció de [[neutrons]] lliures''', usats a la recerca i en medicina.
+* '''Producció de [[bombes de neutrons]]''', usades amb fins militars.
+ 
+Els reactors nuclears de fusió estan tots encara en fase de recerca i desenvolupament, una de les futures aplicacions més importants que hom espera d'ells és la producció d'electricitat.
+
+== Curiositats ==
+A [[Barcelona]], a l'[[ETSEIB|Escola d'Enginyeria Industrial]] de la [[Universitat Politècnica de Catalunya|UPC]], fa més de cinquanta anys professors i estudiants van construir un reactor nuclear al mateix edifici de l'escola, a la cantonada davant de la facultat de física i química. L'objectiu era fer experiments d'[[enginyeria nuclear]]. Va estar funcionant molts anys, fins que, a l'època dels [[Jocs Olímpics de Barcelona]], algú el va veure (el mur de contenció hexagonal de formigó que l'envolta es veu des de l'exterior) i el va manar aturar. Però la burocràcia i les circumstàncies especials d'aquest petit reactor van fer que aquest no es desmantellés completament fins al [[segle XXI]]. Actualment la càpsula de formigó s'ha guardat com a record, i acull una petita sala d'ordinadors on els estudiants fan simulacions virtuals.
+
+== Referències ==
+references/
+
+== Enllaços externs ==
+{{commonscat|Nuclear reactors}}
+* [http://www.consumer.es/web/es/medio_ambiente/energia_y_ciencia/2005/03/09/140431.php Projecte ITER]
+* [http://blogs.jornal.cat/sophia-blasco/bloc/centrals-nuclears-algunes-veritats-incomodes Centrals Nuclears, algunes veritats incòmodes]
+* [http://www.tv3.cat/videos/393479 Entrevista] de [[Mònica Terribas]] al professor [[Antoni Lloret i Orriols]] dins del programa La nit al dia, a TV3, amb motiu de la fuita radioactiva del mes de novembre de 2007 a Ascó. 
+* [http://www.tv3.cat/videos/2808490/Antoni-Lloret-fisic-nuclear Entrevista] al professor [[Antoni Lloret i Orriols]] dins del programa Àgora, al Canal 33, amb motiu de la polèmica sobre la futura ubicació del cementiri de residus nuclears.
+{{Autoritat}}
+{{ORDENA:Reactor Nuclear}}
+
+[[Categoria:Reactors nuclears| ]]
+[[Categoria:Indústria]]</text>
+      <sha1>5aimwo1gkkyh6877gmfy1qk6loyrd6l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

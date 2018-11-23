@@ -1,0 +1,471 @@
+<page>
+    <title>Penicil·lina</title>
+    <ns>0</ns>
+    <id>8764</id>
+    <revision>
+      <id>14058941</id>
+      <parentid>13893989</parentid>
+      <timestamp>2014-09-20T19:35:57Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: entre sí segons  entre si segons</comment>
+      <text>{{Infotaula de fàrmac
+| IUPAC_name = Àcid 4-Tia-1-azabiciclo(3.2.0)heptà-2-carboxílic, 3,3-dimetil-7-oxo-6-((fenilacetil)amino)-(2S-(2alfa,5alfa,6beta))
+| image = Penicillin-G.png
+| width = 200
+| image2 = Penicillin-G 3D.png
+| width2 = 200
+| CAS_number = 61-33-6
+| ATC_prefix = J01
+| ATC_suffix = CE01
+| ATC_supplemental = 
+| PubChem = 5904
+| ChemSpiderID =
+| DrugBank = DB01053
+| C=16|H=18|N=2|O=3|S=1
+| molecular_weight = 334,4 - 356,4 g/mol
+| smiles = CC1(C)SC2C(NC(=O)CC3=C br /C=CC=C3)C(=O)N2C1C(O)=O
+| density = 1,41
+| boiling_point = 97
+| solubility = 0,285
+| bioavailability = 60-75% (humans)br /30% (animals)
+| protein_bound = 50-80%, principalment [[albúmina]]
+| metabolism =
+| elimination_half-life = 30 minuts - 3 hores
+| routes_of_administration = [[Intramuscular]] i [[boca|oral]]
+| excretion = [[Ronyó|Renal]]
+}}
+Les '''penicil·lines''' són [[antibiòtics]] del grup dels [[betalactàmic]]s utilitzats profusament en el tractament d'[[infeccions]] provocades per [[eubacteris]] que hi són sensibles. La majoria de les penicil·lines són derivades de l'[[àcid 6-aminopenicilànic]], que difereixen entre si segons la substitució a la [[cadena lateral]] del seu [[grup amino]]. La [[penicil·lina G]] o benzilpenicil·lina va ser el primer antibiòtic emprat àmpliament en [[medicina]]; el seu descobriment fou atribuït a [[Alexander Fleming]] el 1928, que juntament amb els científics [[Ernst Boris Chain]] i [[Howard Walter Florey]] (que crearen un mètode per produir en massa aquest [[fàrmac]]) obtingueren el [[Premi Nobel de Fisiologia o Medicina|Premi Nobel de Medicina]] el 1945.
+
+No es coneix completament el mecanisme d'acció de les penicil·lines, tot i que la seva analogia a la D-alanil-D-alanina terminal, situada a la cadena lateral peptídica de la subunitat del [[peptidoglicà]], suggereix que el seu caràcter [[bactericida]] deriva de la seva intervenció com a [[inhibidor enzimàtic|inhibidor]] del procés de [[transpeptidasa|transpeptidació]] durant la síntesi de la [[mureïna]]. D'aquesta manera, la penicil·lina actua afeblint la paret bacteriana i facilitant la [[pressió osmòtica|lisi osmòtica]] del bacteri durant el procés de multiplicació.ref name=prescott{{ref-llibre| autor = Prescott, L.M.|títol= Microbiología|any= 1999|editorial = McGraw-Hill Interamericana de España, S.A.U.|id = ISBN 84-486-0261-7}}/ref
+
+Existeix una gran diversitat de penicil·lines. Algunes espècies de [[fongs]] del gènere ''[[Penicillium]]'' sintetitzen penicil·lines de forma natural, com el primer tipus aïllat, la penicil·lina G. Tanmateix, a causa de l'aparició de [[resistència als antibiòtics|resistències]], s'han desenvolupat altres famílies seguint bàsicament dues estratègies: l'addició de precursors per la cadena lateral al [[medi de cultiu]] del fong productor, fet que estimula la producció de [[penicil·lina biosintètica|penicil·lines biosintètiques]]; i la [[síntesi orgànica|modificació química]] de la penicil·lina obtinguda per la [[fermentació]] biotecnològica, resultant en [[penicil·lina semisintètica|penicil·lines semisintètiques]].ref name=crueger{{ref-llibre| cognom = Crueger| nom = Wulf| coautors = Crueger, Anneliese| títol = A texbook of industrial microbiology| edició =2a ed.|any = 1989|editorial = Sinauer Associates|lloc = Sunderland|isbn = 0-87893-131-7}}/ref
+
+Les penicil·lines difereixen entre si segons el seu [[espectre|espectre d'acció]]. Per exemple, la benzilpenicil·lina és eficient contra [[eubacteris]] [[grampositius]] com els [[estreptococ]]s i [[estafilococs]], així com els [[Neisseria gonorrheae|gonococs]] i [[Neisseria meningitidis|meningococs]], però s'ha d'administrar per [[via d'administració|via parenteral]] a causa de la seva sensibilitat al [[pH]] àcid de l'[[estómac]]. En canvi, la fenoximetilpenicil·lina és resistent a aquest pH i es pot administrar per via oral. L'ampicil·lina, a més de mantenir aquesta resistència, és eficient contra bacteris [[gramnegatius]] com ara ''[[Haemophilus]]'', ''[[Salmonella]]'' i ''[[Shigella]]''.ref name=prescott/
+
+Tot i que les penicil·lines són els antibiòtics menys tòxics, és habitual que causin [[al·lèrgies]]. Fins al 10% dels pacients que reben tractaments amb betalactàmics en desenvolupen.ref name=pmid12721392{{citar ref|autor=Solensky R |títol=Hypersensitivity reactions to beta-lactam antibiotics |publicació=Clinical reviews in allergy  immunology |volum=24 |exemplar=3 |pàgines=201–20 |any=2003 |pmid=12721392| doi = 10.1385/CRIAI:24:3:201}}/ref Com que un [[anafilaxi|xoc anafilàctic]] pot provocar la mort del pacient, cal interrogar-lo sobre aquest tema abans d'iniciar el tractament.
+
+A més de les seves propietats antibacterianes, la penicil·lina és un [[Antídot (medicina)|antídot]] eficient contra els efectes de l'enverinament per [[amanitina|α-amanitina]], un dels [[aminoàcids]] tòxics dels [[fongs]] del gènere ''[[Amanita]]''.ref{{ref-publicació| autor =Enjalbert F., Rapior S., Nouguier-Soulé J., Guillon S., Amouroux N., Cabot C.|article =Treatment of amatoxin poisoning: 20-year retrospective analysis.|any =2002|publicació = J Toxicol Clin Toxicol.|volum =40|exemplar =6|id =PMID 12475187}}/ref
+
+== Història de les penicil·lines ==
+{{principal|Història de la penicil·lina}}
+Tot i que generalment s'atribueix a [[Alexander Fleming]] el descobriment de la penicil·lina, moltes cultures diferents d'èpoques diferents arribaren a conèixer i emprar les propietats bactericides de les floridures mitjançant l'observació i l'experiència. Se n'han descobert precedents a [[Història de Grècia|Grècia]] i l'[[Història de l'Índia|Índia]] [[Història antiga|antigues]], així com els exèrcits de [[Ceilan]] del [[segle II]]. També ha estat present en les cultures tradicionals de regions tan diferents i distants com [[Sèrbia]], [[Rússia]] o la [[Xina]], així com els [[amerindis|nadius nord-americans]].ref{{ref-llibre| cognom =Sokoloff|nom =Boris|títol =The Story of Penicillin|any =1945|editorial = Ziff-Davis}}/refref{{ref-llibre| cognom =Brown|nom =Kevin|títol =Penicillin Man: Alexander Fleming and the Antibiotic Revolution|any =2004|editorial =|isbn = 0-7509-3152-3 }}/ref Se solien aplicar aliments florits o terra del [[sòl]] que contingués [[fongs]] a les [[ferida|ferides]] de [[guerra]]. Com a mínim des del [[segle VIII]], els metges [[àrabs]] curaven [[infeccions]] untant les ferides amb una pasta blanca que es formava als [[arnès|arnesos]] de [[cuir]] amb què ensellaven els [[burro]]s de càrrega. Al llarg del [[segle XVII]], alguns [[farmacologia|farmacòlegs]] i herboristes [[Anglaterra|anglesos]], com ara [[John Parkington]], inclogueren el tractament amb fongs als registres de [[farmàcia]].
+
+[[Fitxer:St Mary's Hospital.jpg|right|thumb|Hospital St. Mary de [[Londres]], que allotjava a la seva cèlebre [[ala (arquitectura)|ala]] [[Albert Víctor del Regne Unit|Clarence]] el departament d'inoculació d'[[Almroth Wright]] i [[Alexander Fleming]], on tingué lloc el descobriment de la penicil·lina.ref{{ref-publicació| autor =|article =The Clarence Memorial Wing, St. Mary's Hospital|any =[[1892]]|editorial = Br Med J.|volum =2|exemplar =1669|id =PMCID PMC2421595|url =http://www.pubmedcentral.nih.gov/pagerender.fcgi?artid=2421595pageindex=1 }}/refref{{ref-publicació| autor =Glynn, A. A.|article =Museum review: Alexander Fleming Laboratory Museum. St Mary's Hospital, Praed Street, London W2 1NY, UK [Curator: Kevin Brown]|any =2006|editorial = Journal of Antimicrobial Chemotherapy|volum =58|exemplar =1|id =doi 10.1093/jac/dkl148|url =http://jac.oxfordjournals.org/cgi/content/full/58/1/233 }}/ref]]
+
+A finals del [[segle XIX]], [[Friedrich Gustav Jakob Henle|Henle]] (un dels grans [[científic]]s de l'anomenada generació intermèdia) suscità al seu deixeble [[Robert Koch]], a la [[Universitat de Göttingen]], l'interès pel treball d'[[Agostina Bassi]] i [[Casimir Davaine]], que el portaria a investigar els [[microorganismes]] com a agents causants de les [[malalties]]. Això el dugué el 1876 a descobrir que el ''[[Bacillus anthracis]]'' era l'agent causant específic de l'[[àntrax]], en la línia de la [[teoria microbiana de la malaltia]], i a enunciar els seus cèlebres [[postulats de Koch|postulats]].ref{{ref-llibre| cognom =Volcy|nom =Charles|títol =Lo malo y lo feo de los microbios, pg. 84|any =2004|editorial = Unibiblos|isbn = 958-701-400-6 }}/ref Més endavant, [[Paul Ehrlich]], que treballà amb Koch a [[Berlín]], desenvolupà el concepte de les ''Magischen Kuger'' o bales màgiques, referint-se als components químics que podien eliminar selectivament els gèrmens. Finalment, el 1909 aconseguí sintetitzar un compost (el nº 606, més endavant conegut com a [[arsfenamina|salvarsan]]) que es revelà eficient contra la [[sífilis]].ref{{ref-publicació| autor =Calvo, A|article =Ehrlich y el concepto de bala mágica|any =2006|editorial = Rev Esp Quimioterap|volum =19|exemplar =1|url =http://www.seq.es/seq/0214-3429/19/1/90.pdf }}/ref Aquest descobriment influí posteriorment en Alexander Fleming, fins al punt que existeixen caricatures del jove Fleming caracteritzat i motejat com a recluta 606.ref{{ref-web|url =http://www.pbs.org/wgbh/aso/databank/entries/bmflem.html |títol=People and discoveries:Alexander Fleming |consulta=9 d'octubre del 2008 |editor=Public Broadcasting Service}}/ref
+
+Al mateix temps o poc després, essent conegut el fet que els [[eubacteris]] podien provocar malalties, es produirien un gran nombre d'observacions –tant ''[[in vivo]]'' com ''[[in vitro]]''– i es veié que les [[floridura|floridures]] exercien una acció bactericida. En són exemples els treballs de [[John Scott Burdon-Sanderson]], [[Joseph Lister]], [[William Roberts (metge)|William Roberts]], [[John Tyndall]], [[Louis Pasteur]] i [[Jules Francois Joubert]], [[Carl Garré]], [[Vincenzo Tiberio]], [[Ernest Duchesne]], [[Andre Gratia]] i [[Sara Dath]].
+
+El març del 2000, metges de l'Hospital [[Orde Hospitalari Sant Joan de Déu|San Juan de Dios]] de [[San José (Costa Rica)|San José]] ([[Costa Rica]]) publicaren els escrits del científic i metge costa-riqueny [[Clodomiro Picado Twight|Clodomiro ''Clorito'' Picado Twight]] (1887-1944). En el seu informe, expliquen les experiències que adquirí Picado entre el 1915 i el 1927 sobre l'acció inhibidora dels fongs del [[gènere (biologia)|gènere]] ''[[Penicillium]]'' sobre el creixement d'[[estafilococs]] i [[estreptococ]]s (bacteris causants d'una sèrie d'infeccions humanes).ref name=CP{{ref-notícia|títol=Dr. Clodomiro Picado Twight Honored with WIPO medal|url =http://www.wipo.int/wipo_magazine/en/pdf/2000/wipo_pub_121_2000_07-08.pdf|obra=[[Organització Mundial de la Propietat Intel·lectual|WIPO Magazine]]|páages=11|consulta= 02-03-2008|format=PDF}}/ref Aparentment, ''Clorito'' Picado informà del seu descobriment a l'[[Acadèmia de les Ciències Francesa|Acadèmia de Ciències de París]], però no el patentà, tot i que la seva investigació havia començat uns quants anys abans que la de Fleming.ref[http://www.infomed.sld.cu/diaria/040899.html#descubridor El descubridor de la penicilina era costarricense, según dos científicos. Infomed 4 d'agost de 1999. Año 6, No. 150]/refref{{ref-llibre|cognom = Jaramillo Antillón
+| nom = Juan| editorial = Universitat de Costa Rica| títol = Historia y filosofía de la Medicina| any = 2005| isbn = 9977679851| capítol = El principio de la quimioterapia y los antibióticos| citació = Tilio von Vulgo, Édgar Cabezas y María San Román afirmen la intervenció del Clorit Picat en el descobriment de la penicil·lina.}}/ref
+
+=== Alexander Fleming ===
+{{principal|Alexander Fleming}}
+El descobriment de la penicil·lina ha estat presentat com un exemple icònic de com funciona el [[mètode científic]] a través de l'observació, i de la singular habilitat d'[[Alexander Fleming]] a l'hora d'interpretar un fenomen causal.ref{{ref-web|url=http://www.seq.es/seq/0214-3429/19/2/g_lus_historia.pdf|títol=Las claves de una época: Wright y Flemin |consulta=31 d'octubre |accessyear=2008 |autor=López, M. T. |coautors=Gómez-Lus, M. L. |any=2006 |editor=Rev. Esp. Quimioterap. |pàgines=6 |llengua=castellà}}/ref El mateix Fleming relatà aquesta versió en la seva conferència de recepció del [[Premi Nobel]].ref name=nobel{{ref-web|url=http://nobelprize.org/nobel_prizes/medicine/laureates/1945/fleming-lecture.pdf |títol=Penicillin. Conferencia Nobel |consulta=31 d'octubre |consulta=2008 |autor=[[Alexander Fleming]]|data=11 de desembre |any=1945}}/ref Tanmateix, alguns autors revisen aquesta història oficial, i opinen que, sense restar mèrits, està distorsionada per mites, la necessitat de [[propaganda]] a la [[Segona Guerra Mundial]] i també una certa lluita pel prestigi d'institucions amb influències sobre àrees del poder i la premsa.ref name=bud{{ref-llibre| cognom =Bud|nom =Robert|títol =Penicillin: Triumph and Tragedy. Veure capítol:The Brand in the Era of Propaganda|any =2007|editorial = [[Oxford University Press]]|isbn = 0-19-925406-0 }}/refref name=flemingpapers{{ref-publicació| autor =Clarke, Tom|article =Penicillin paper restores Fleming's healthy reputation|any =2002|publicació = [[Nature]]|volum =419|exemplar =867|id =doi 10.1038/419867b|url =http://www.nature.com/nature/journal/v419/n6910/full/419867b.html }}/refref{{ref-llibre| cognom =Hantula|nom =Richard|títol =Alexander Fleming|any =2002|editorial = Gareth Stevens|isbn = 0-8368-5243-5 }}/ref George Wong, en considerar a versió d'un descobriment casual, destaca els antecedents següents:ref name=Wong{{ref-web|url=http://www.botany.hawaii.edu/faculty/wong/BOT135/Lect21b.htm |títol= Penicillin |consulta=1 de novembre |accessyear=2008 |autor=Wong, G. |any=2003}}/ref
+[[Fitxer:Alexander Fleming.jpg|left|thumb|[[Alexander Fleming]] sostenint una [[placa de Petri]] en què s'observa una massa fúngica de ''Penicillium'' (a dalt a la dreta) i sis estries d'[[eubacteris]] (a baix a l'esquerra). Remarqueu la clapa d'inhibició en el creixement dels bacteris.]]
+
+* Coneixia gairebé tots els autors mencionats més amunt. El seu gran nombre ja és per si sol indicador que existia tot un corrent que investigava el camp amb un coneixement del treball dels altres. El mateix Nobel ho reconegué a la seva conferència del Premi Nobel.ref name=nobel/
+* Buscava activament una substància [[bactericida]]; impressionat pels camps de batalla europeus a la [[Primera Guerra Mundial]] i les baixes per infecció de les ferides, féu proves amb el Salvarsan, descobrí el [[lisozim]] i constatà que no afectava cap dels organismes problemàtics de la penicil·lina, i això en contra de la línia marcada pel seu superior, [[Almroth Wright]], més interessat en la [[immunitat (medicina)|immunització]]. En el seu primer treball compara l'[[espectre|espectre d'acció]] de la penicil·lina i el lisozim.
+
+Segons Fleming, el descobriment de la penicil·lina es produí el matí del divendres 28 de setembre del 1928, quan estava estudiant [[cultiu microbiològic|cultius bacterians]] de ''[[Staphylococcus aureus]]'' al soterrani del laboratori de l'Hospital St. Mary en Londres, situat a l'Ala Clarence, actualment part del [[Imperial College London|Imperial College]].refKendall F. Haven, ''Marvels of Science'' (Libraries Unlimited, 1994) p. 182/ref Després de tornar d'un mes de vacaces, observà que molts cultius estaven contaminats, i els llençà a una safata de [[Lysol]]. Afortunadament, rebé una visita d'un antic company i, en mostrar-li el que estava fent amb algunes de les [[placa de Petri|plaques]] que encara no havien estat rentades, s'adonà que en una d'elles s'havia creat al voltant del [[fong]] contaminant un halo de transparència, cosa que indicava destrucció cel·lular. L'observació immediata fou que es tractava d'una substància [[difusió|difusible]] procedent del contaminant. Posteriorment aïllà i cultivà el fong en una placa en què disposà radialment diversos [[microorganismes]], comprovant quins eren sensibles. La identificació de l'espècimen com a ''[[Penicillium chrysogenum|Penicillium notatum]]'' la féu Charles Tom. Publicà el seu descobriment sense rebre gaire atenció i, segons els seus companys, Fleming tampoc no s'adonà en un principi del potencial de la substància, sinó a poc a poc, en especial a causa de la seva baixa estabilitat. Al seu treball, obtingué un filtrar lliure de cèl·lules que injectà a [[conills]], comprovant que mancava de [[tòxic|toxicitat]]. També n'aprecia la utilitat per aïllar ''[[Haemophilus influenzae]]'' a partir d'[[esput]]s.ref name=Wong/refFleming, A. (1929). [http://202.114.65.51/fzjx/wsw/newindex/wswfzjs/pdf/1929p185.pdf On the antibacterial action of cultures of a Penicillium, with special reference to their use in the isolation of ''B. influenzae'']. British Journal of Experimental Pathology. 10: 226-236./ref
+
+=== Primeres aplicacions en medicina i aïllament ===
+[[Fitxer:Penicillium.jpg|thumb|Aspecte al [[microscopi òptic]] de les [[hifa|hifes]] i els [[conidiòfor]]s de ''Penicillium'', fong del qual s'aïllà la penicil·lina.]]
+Fleming, per culpa del caràcter tímid que el caracteritzava, no aconseguia transmetre entusiasme sobre el seu descobriment, tot i que continuà treballant-hi durant molt de temps, fins que el 1934 l'abandonà per dedicar-se a les [[sulfamida|sulfamides]].ref name=Wong/ La primera demostració que la penicil·lina era útil per la medicina la dugué a terme el 1930 el [[patologia|patòleg]] [[Anglaterra|anglès]] Cecil George Paine, antic alumne de Fleming, que intentà tractar la [[sicosi]] sense èxit, probablement perquè no administrà el medicament amb prou profunditat. Tanmateix, aconseguí reeixir aplicant el filtratge a [[nounat]]s per al tractament de l'[[conjuntivitis|oftalmia neonatal]], aconseguint la seva primera cura el 25 de novembre del 1930, en un adult i tres bebés.ref{{citar ref|autor=Wainwright, M  Swan, HT |any=1986 |títol=C.G. Paine And The Earliest Surviving Clinical Records Of Penicillin Therapy |publicació=Medical History |volum=30 |exemplar=1 |pàgines=42–56 |url=http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1139580 |pmid=3511336}}/ref Tot i que aquests resultats no foren publicats, influïren en [[Howard Walter Florey]], que fou company de Payne a la [[Universitat de Sheffield]].
+
+Entre el [[1928]] i el [[1938]], Florey s'interessà primerament pel lisozim, i després pel segon descobriment de Fleming. A diferència d'aquest últim, que gairebé no tenia personal, formà un gran equip amb personalitats del calibre de [[Ernst Boris Chain|Chain]], Leslie Falk, Norman Heatley i fins a 22 altres col·laboradors, entre investigadors i tècnics, amb una gran quantitat de medis a l'escola de patologia Sir William Dunn d'[[Oxford]] tot i que curiosament, segons Florey, no pel seu potencial farmacèutic, sinó per pur interès científic. La seva capacitat de processament superava els 500 litres de cultiu setmanals.ref name=Wong/
+
+La purificació de la penicil·lina es produí el 1939, per part del [[bioquímic]] Heatley, utilitzant grans quantitats de [[filtració|filtrat]] mitjançant un sistema a contracorrent i [[extracció líquid-líquid]] per [[amil acetat]]. Edward Abraham acabà d'eliminar la resta d'impureses per [[cromatografia]] en columna d'[[alúmina]]. Posteriorment es provà la substància en [[ratolins]] infectats amb [[estreptococ]]s. El primer ésser humà tractat amb penicil·lina purificada fou l'agent de [[policia]] Albert Alexander a l'[[Hospital John Radcliffe]], el 12 de febrer del 1941. El pacient morí perquè no se li pogué administrar prou [[fàrmac]].ref{{ref-web|url=http://portal.acs.org/portal/acs/corg/content?_nfpb=true_pageLabel=PP_ARTICLEMAINnode_id=926content_id=CTP_004451use_sec=truesec_url_var=region1 |títol=Discovery of penicillin |consulta= |publishr=American Chemical Society |llengua= anglès}}/ref
+
+Les primeres companyies que s'interessaren per la [[patent]] foren [[GlaxoSmithKline|Glaxo]] i Kemball Bishop.
+
+=== Desenvolupament de la producció industrial i altres penicil·lines ===
+[[Fitxer:Atelier fermentation-2-72.jpg|thumb|200px|Cobert de [[fermentació]], semblant als [[calder]]s en què es preparà per primera vegada la producció massiva de penicil·lina submergida, a [[Illinois]] ([[Estats Units]]).]]
+A partir de les investigacions de Florey el 1939 i de Heatley el 1941, la producció industrial de penicil·lina a Europa es trobà en dificultats econòmiques a causa de l'inici de la [[Segona Guerra Mundial]]. Els científics britànics cercaren ajut als [[Estats Units]], especialment als laboratoris de [[Peoria (Illinois)]], on els seus científics estaven treballant en mètodes de [[fermentació]] per accelerar el creixement de cultius de [[fongs]].refThe Illinois Historic Preservation Agency. [http://www.state.il.us/HPA/Illinois%20History/klaus106.pdf Penicillin: The Miracle Drug] (article complet disponible en anglès). Consultat l'11 de novembre del 2008./ref El 9 de juliol del 1941, Florey i Heatley marxaren de la [[Universitat d'Oxford]] cap als Estats Units amb una petita quantitat de penicil·lina. Bombejaren aire dins d'enormes cubetes plenes de blat de moro fermentat amb altres ingredients i additius clau, que demostrà poder generar ràpidament grans quantitats de penici·lina en comparació amb els mètodes antics de creixement sobre superfícies planes.ref{{ref-web|url = http://www.ars.usda.gov/Main/docs.htm?docid+12764|títol = Penicillin: Opening the Era of Antibiotics|consulta = 19-06-2007|data = 07-04-2006|obra = National Center for Agricultural Utilization Research website }}/ref La soca de ''Penicillium'' que tingué el millor rendiment no fou la importada pels científics britànics, sinó una soca que creixia sobre un meló en un dels mercats de Peoria, millorant la quantitat de producció en les condicions immerses de la nova tècnica del laboratori estatunidenc, aproximadament 70-80 unitats de penicil·lina per mil·lilitre de cultiu.ref[[Universidad de Wisconsin-Madison|UW-Madison]]. Department of Botany. [http://botit.botany.wisc.edu/toms_fungi/nov2003.html Tom Volk's Fungus of the Month for November 2003] (article complet disponible en anglès). Consultat l'11 de novembre del 2008./ref
+
+El 26 de novembre del 1941, Heatley i Andrew J. Moyer, l'expert del laboratori de Peoria, aconseguiren millorar deu vegades la producció de penicil·lina. Amb l'augment de la quantitat de penicil·lina, també baixà el preu d'una dosi. Del seu preu incalculable del 1940, el preu de la penicil·lina baixà a 20[[dòlar estatunidenc|$]] per dosi al juliol del 1943, i encara més, a 0,55$ per dosi, el 1946. Com a conseqüència d'això, els laboratoris de Gran Bretanya (1999) i Peoria (2001) foren designats com a Monument Químic Històric Internacional (''International Historic Chemical Landmark'').refRoyal Society of Chemistry. [http://www.rsc.org/Chemsoc/Activities/ChemicalLandmarks/International/Penicillin.asp Discovery and Development of Penicillin] (en anglès). 19 de novembre del 1999. The Alexander Fleming Laboratory Museum, Londres, Regne Unit. Consultat l'11 de novembre del 2008./refrefCote, Gregory. [http://www.ars.usda.gov/research/publications/publications.htm?SEQ_NO_115=203593 Carbohydrate Research at the USDA Laboratory in Peoria, Illinois] (en anglès). Agricultural Research Service. Consultat l'11 de novembre del 2008./ref
+
+=== Penicil·lines sintètiques ===
+Una de les diverses formes de penicil·lina produïdes de manera natural és la [[benzilpenicil·lina]] o penicil·lina G, l'única que s'utilitza clínicament. S'hi associaren la [[procaïna]] i la [[benzatina]] per perllongar-ne la presència a l'organisme, obtenint les supensions de benzilpenicil·lina + procaïna i benzilpenicil·lina benzatina, que només es poden administrar per via intramuscular.
+
+Més endavant, es modificà la molècula de penicil·lina G per elaborar penicil·lines sintètiques, com la penicil·lina V, que es poden administrar per via oral, sent capaces de resistir la [[hidròlisi]] àcida de l'[[estómac]]. Tanmateix, l'espectre d'acció relativament reduït de la penicil·lina V féu que se sintetitzessin derivats amb efectes sobre una gamma més àmplia d'agents infecciosos. El primer pas fou el desenvolupament de l'[[ampicil·lina]], efectiva contra [[patògens]] [[grampositius]] i [[gramnegatius]], que a més resultà bastant fàcil d'adquirir. Un altre avenç fou el desenvolupament de la [[flucloxacil·lina]], utilitzada contra bacteris productors de [[betalactamasa|β-lactamasa]] com els [[estafilococs]]. Actualment existeixen nombrosos derivats sintètics de la penicil·lina, com la [[cloxacil·lina]] i l'[[amoxicil·lina]], que s'administren per via oral i de les quals existeix un abús de consum en la societat en general per l'autotractament d'[[infeccions]] lleus [[víriques]] que no requereixen teràpia antibiòtica. Això ha provocat un elevat percentatge de [[resistència als antibiòtics|resistèntia bacteriana]] a les penicil·lines i ha dut a la ineficàcia dels betalactàmics en algunes infeccions greus.
+
+Les penicil·lines han estat àmpliament utilitzades en el camp de la [[veterinària]] des del 1950, quan començaren a ser afegides com a additius al [[pinso]], a causa de la seva eficacitat a l'hora de reduir la mortalitat i la morbiditat davant d'infeccions clíniques, així com l'augment de la taxa d'[[engreix]].refGersema L. M., Helling D. K. [http://www.ncbi.nlm.nih.gov/pubmed/3956379?dopt=Abstract The use of subtherapeutic antibiotics in animal feed and its implications on human health.] Drug Intell Clin Pharm. 1986 Mar;20(3):214-8. /ref De fet, l'amoxicil·lina fou descrita el 1976 com una penicil·lina per ús veterinari.refPalmer G. H., Buswell J. F., Dowrick J. S., Yeoman G. H. (1976) [http://www.ncbi.nlm.nih.gov/pubmed/982783 Amoxycillin: a new veterinary penicillin]. Vet Rec. 1976 Jul 31;99(5):84-5./ref S'ha suggerit una relació entre aquest ús i la selecció de soques resistents amb capacitat d'infectar els humans. Tanmateix, tot i que alguns antibiòtics s'apliquen en ambdós camps, la majoria de resistències en els humans tenen el seu origen en una mala pràctica mèdica.refPhillips I., Casewell M., Cox T., De Groot B., Friis C., Jones R., Nightingale C., Preston R., Waddell J. [http://www.ncbi.nlm.nih.gov/pubmed/14657094?dopt=Abstract Does the use of antibiotics in food animals pose a risk to human health? A critical review of published data.] J Antimicrob Chemother. Gener de 2004, 28-52./ref
+
+== Estructura química ==
+[[Fitxer:Penicillin core.svg|thumb|200px|Estructura molecular del nucli de les penicil·lines. Es mostra l'anell 6-aminopenicilànic consistent en un anell β-lactàmic (a l'esquerra, amb un N) i un altre tiazolidínic (a la dreta, amb un S).]]
+Les penicil·lines pertanyen a una família de compostos químics amb una estructura química peculiar que li confereix una activitat característica contra un grup determinat de bacteris.ref name=bud / Tot i que existeixen diferents variants, l'estructura química essencial de la penicil·lina va ser descoberta per [[Dorothy Crowfoot Hodgkin]] entre 1942 i 1945.refBentley, Ronald. [http://jchemed.chem.wisc.edu/Journal/Issues/2004/oct/abs1462.html The Molecular Structure of Penicillin](en anglès). J. Chem. Educ. 2004 81 1462./ref La majoria de les penicil·lines posseeixen com a nucli químic l'anell [[6-aminopenicilànic]] i difereixen entre si segons la [[cadena lateral]] ancorada al seu [[grup amino]]. Aquest nucli 6-aminopenicilànic o nucli penam consta, al seu torn, d'un anell tiazolidínic (un anell iminofnílic dels tiazoles) enllaçat a un [[anell β-lactàmic]];refJeremy Berg y John Tymoczko. [http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.figgrp.1082 Figure 8.26. Structure of Penicillin.] (descripció de la imatge en anglès). ''Biochemistry'' (5ª edició). National Center for Biotechnology Information. Últim accés 8 de setembre, 2008./ref aquest últim, aparentment essencial per a l'activitat antimicrobiana del compost,ref name=bioquimicaALPIZAR OLIVARES, Yulién. La penicil·lina i els seus derivats com agents desencadenants de la resposta immune. Rev Cubana Hematol Inmunol Hemoter [online]. 2000, vol. 16, no. 2 [citado 2008-11-08], pp. 99-104. Disponible a: [http://scielo.sld.cu/scielo.php?script=sci_arttextpid=S0864-02892000000200003lng=esnrm=iso]. ISSN 0864-0289./ref és hidrolitzat mitjançant penicil·linases (enzims tipus β-lactamases) pels bacteris resistents a les penicil·lines.ref name=prescott{{ref-llibre| autor = Prescott, L.M.|títol= Microbiología|any= 1999|editorial = McGraw-Hill Interamericana de España, S.A.U.|id = ISBN 84-486-0261-7}}/ref
+
+A més del [[nitrogen]] i del [[sofre]] de l'anell tiazolidínic i β-lactàmic, la penicil·lina té les següents agrupacions: 
+* Un grup [[Àcid carboxílic|carboxil]] en la posició 2. 
+* Un radical 2-[[metil]] en la posició 3. 
+* Un [[grup amino]] en la posició 6, amb diferents derivats del grup acil com a possibles substituents, que són els responsables de les diverses característiques de les diferents penicil·lines. 
+
+A la molècula hi ha tres carbonis asimètrics: 
+
+# El carboni C2, que té una configuració absoluta S (sentit contrari a les agulles del rellotge).
+# Els carbonis C5 i C6, que tenen una configuració absoluta R, presentant cada un els seus hidrògens [[Isomeria cis-trans|isomeria cis]] entre ells.
+
+=== Propietats ===
+La penicil·lina natural o penicilina G és cristal·lina, totalment soluble en aigua, solucions salines i [[glucosa|dextroses]] [[isotònic|isotòniques]]. El radical R, és el responsable de la sensibilitat a la hidròlisi per part de les β-lactamases, de l'enllaç a proteïnes transportadores i del vincle amb les proteïnes bacterianes PBP que transporten la penicil·lina dins de la cèl·lula.ref name=pbpchange / A més, se li associa a la penicil·lina un dipèptid [[cisteïna]]-[[valina]], fent que tingui l'ideal d'afinitat per l'enzim bacterià [[transpeptidasa]], el qual no es troba en el cos humà i que permet la síntesi del [[peptidoglicà]].
+
+Hi ha una analogia estructural entre la penicil·lina i el dipèptid D-alanil-D-alanina terminal associat a les unitats de peptidoglicà que apareixen durant la formació de la [[paret cel·lular]] de certs bacteris (procés de transpeptidació). El nucleòfil Osup(-)/sup serina de la transpeptidasa ataca els grups carbonils dels ß-lactàmics, com la penicil·lina, per aquesta analogia al seu substrat D-Ala-D-Ala, el dipèptid abans esmentat. D'aquesta manera, unint-se covalentment als residus de serina del lloc actiu de l'enzim en forma de complex penicil·loil, la penicil·lina inhibeix a la transpeptidasa bacteriana.ref name=pbpchangeG Zhao, WK Yeh, RH Carnahan, J Flokowitsch, TI Meier, WE Alborn Jr, GW Becker and SR Jaskunas. [http://jb.asm.org/cgi/content/abstract/179/15/4901 Biochemical characterization of penicillin-resistant and -sensitive penicillin-binding protein 2x transpeptidase activities of Streptococcus pneumoniae and mechanistic implications in bacterial resistance to beta-lactam antibiotics] (article complet disponible en anglès). J. Bacteriol., 08 1997, 4901-4908, Vol 179, No. 15. Últim accés 20 de setembre, 2008./ref
+
+=== Al·lèrgens ===
+Els metabòlits que deriven de la [[molècula]] intacta de la penicil·lina actuen com [[haptè|haptens]] i es tornen immunitaris actius a través de la seva unió de tipus [[enllaç covalent|covalent]], amb les proteïnes endògenes en el cos, preferentment per atacs als grups amino de la lisina d'aquestes proteïnes transportadores, podent induir així una reacció d'hipersensibilitat.ref name=bioquimica /ref''Introducción a la Microbiología''. John L. Ingraham, Catherine A. Ingraham, Joaquín J. Nieto, Emilia (trad.) Quesada, Antonio Ventosa. Publicat per [[Reverté]], [[1871]]. ISBN 84-291-1871-3./ref L'intermediari antigènic de les penicil·lines és l'[[àcid penicil·loil]] que es forma en obrir-se l'anell β-lactàmic. El 95% de la droga unida als teixits apareix en aquesta forma. Aquest àcid, conjugat amb un transportador proteic immunogènic és un dels agents més utilitzats en les proves cutànies per determinar si un pacient és [[al·lèrgia|al·lèrgic]] a la penicil·lina. Altres determinants menys freqüents, que inclouen al benzilpenicil·loat i l'amina-benzilpenicil·loil són productes que es formen ''[[in vivo]]'' i poden també trobar-se en les solucions de penicil·lina preparades per a la seva administració comercial, que poden induir una reacció d'hipersensibilitat.ref name=bioquimica /
+
+== Classificació ==
+{| border=1 cellpadding=5 cellspacing=0 align=center
+|+'''Classificació de les penicil·lines'''refAgafat i adaptat de ''Farmacología humana''. Autors Jesus Florez, Juan Antonio Armijo i África Mediavilla. Publicat per [[Elsevier]] Espanya, 2004; pàgina 1108. ISBN 84-458-1290-4/ref
+|-
+! style=background:#ffdead;|Naturals
+! style=background:#ffdead;|Resistents br /a l'àcid
+! colspan=2 style=background:#ffdead;|Antiestafilococs
+! colspan=2 style=background:#ffdead;|Gramnegatius
+|-
+| [[bencilpenicil·lina|Penicil·lina G]] br /[[bencilpenicil·lina|(bencil)]]
+| Penicil·lina V
+| [[Meticil·lina]]
+| rowspan=2 valign=top |
+Isoxazolilopenicil·lines:
+* [[Cloxacil·lina]]
+* [[Dicloxacil·lina]]
+* [[Flucloxacil·lina]]
+* [[Oxacil·lina]]
+| [[Temocil·lina]]
+|-
+| Penicil·lina G br /Procaïna 
+| [[Feneticil·lina]]
+| [[Nafcil·lina]]
+| style=background:#efefef; |
+|-
+| style=border-bottom:3px solid grey;|Penicil·lina G br /benzatina
+| style=border-bottom:3px solid grey;|[[Propicil·lina]]
+| style=border-bottom:3px solid grey; background:#efefef;|
+| style=border-bottom:3px solid grey; background:#efefef;|
+| style=border-bottom:3px solid grey; background:#efefef;| 
+|-
+! colspan=2 style=background:#ffdead; style=background:#ffdead;|Aminopenicil·lines
+! colspan=2 style=background:#ffdead; style=background:#ffdead;|Antipseudomones
+! style=background:#ffdead;| Amidinopenicil·lines
+|-
+| [[Amoxicil·lina]]
+| rowspan=2 valign=top |
+[[Ampicil·lina]]:
+* [[Becampicil·lina]]
+* [[Metampicil·lina]]
+* [[Pivampicil·lina]]
+* [[Talampicil·lina]]
+| [[Ticarcil·lina]]
+| rowspan=2 valign=top |
+[[Carbenicil·lina]]:
+* [[Carfecil·lina]]
+* [[Carindacil·lina]]
+| [[Mecil·linam]]
+|-
+| [[Hetacil·lina]]
+| [[Apalcil·lina]]
+| [[Pivmecil·linam]]
+|-
+| style=border-bottom:3px solid grey;|[[Espicil·lina]]
+| style=border-bottom:3px solid grey;|[[Ciclacil·lina]]
+| style=border-bottom:3px solid grey;|[[Azlocil·lina]]
+| style=border-bottom:3px solid grey;|[[Mezlocil·lina]]
+| style=border-bottom:3px solid grey; background:#efefef; |
+|-
+| align=center width=125px|[[Fitxer:Penicillin-nucleus-3D-balls.png|125px|Estructura tridimensional de la penicil·lina]]
+| align=center width=125px|[[Fitxer:Benzylpenicillin-3D-balls.png|125px|Bencilpenicil·lina]]
+| align=center width=125px|[[Fitxer:Amoxicillin-3D-balls.png|125px|Amoxicil·lina]]
+| align=center width=125px|[[Fitxer:Flucloxacillin-3D-balls.png|125px|Flucloxacil·lina]]
+| align=center width=125px|[[Fitxer:6-aminopenicillanic-acid-3D-balls.png|125px|Una aminopenicil·lina]]
+|-
+| align=center style=border-top:1px solid red; border-right:1px solid red; border-bottom:2px solid red; border-left:1px solid red; |
+Nucli comú
+| align=center style=border-top:1px solid red; border-right:1px solid red; border-bottom:2px solid red; border-left:1px solid red; |
+[[Bencilpenicil·lina]]
+| align=center style=border-top:1px solid red; border-right:1px solid red; border-bottom:2px solid red; border-left:1px solid red; |
+[[Amoxicil·lina]]
+| align=center style=border-top:1px solid red; border-right:1px solid red; border-bottom:2px solid red; border-left:1px solid red; |
+[[Flucloxacil·lina]]
+| align=center style=border-top:1px solid red; border-right:1px solid red; border-bottom:2px solid red; border-left:1px solid red; |
+Una aminopenicil·lina
+|}
+br /
+
+Les penicil·lines es classifiquen en dos grups, naturals i semisintètiques, i en cada un d'ells hi ha compostos relativament resistents al [[suc gàstric]] i, per tant, es poden administrar per via oral com per exemple, la penicil·lina V, la dicloxacil·lina i l'amoxicil·lina.
+
+El terme penicil·lina s'usa sovint, en sentit genèric, per a qualsevol de les variants que deriven de la penicil·lina, en especial, la benzilpenicil·lina. Aquestes tenen la major activitat contra [[organisme]]s [[grampositiu]]s, cocs [[gramnegatiu]]s i organismes anaerobis que no produeixen β-lactamasa. No obstant això, presenten una baixa activitat contra bacils gramnegatius. Tots són susceptibles a la hidròlisi per β-lactamases. La penicil·lamina, un metabòlit de la penicil·lina i anàleg de l'aminoàcid cisteïna, és efectiu per a l'alleugeriment de l'[[artritis reumatoide]] reduint la velocitat d'aparició de nous danys a articulacions, encara que poques vegades és receptat per la seva elevada toxicitat.ref name=katzung / També hi ha al mercat penicil·lines sintètiques, com la ticarcil·lina, la mezlocil·lina i la piperacil·lina.
+
+=== Penicil·lines naturals i biosintètiques ===
+Les penicil·lines naturals són aquelles generades sense intervenció biotecnològica. Entre elles destaquen la bencilpenicil·lina, com a producte final d'interès terapèutic, i els intermediaris aïllables com la isopenicil·lina N o la penicil·lina N. Les biosintètiques, en canvi, es produeixen mitjançant l'addició de determinats compostos en el medi de cultiu del [[bioreactor]] empleat durant la seva producció, és a dir, sense que tingui lloc un aïllament i una modificació química ''ex vivo''. Entre les biosintètiques destaquen: la fenoximetilpenicil·lina, l'alilmercaptometilpenicil·lina i, de nou, la bencilpenicil·lina (ja que és possible induir la seva síntesi aplicant certs precursors en el fermentador).ref name=prescott/
+
+==== Bencilpenicil·lina o penicil·lina G ====
+[[Fitxer:Penicillin G.svg|thumb|Estructura química de la [[bencilpenicil·lina]].]]
+La bencilpenicil·lina, comunament coneguda com a penicil·lina G, és l'estàndard de les penicil·lines. En general s'administra per [[Via d'administració|via parenteral]] (intravenosa, intratecal o intramuscular), perquè tendeix a perdre estabilitat amb el sucs gàstrics de l'[[estómac]]. Com que s'administra per injecció, es poden aconseguir majors concentracions del medicament en els teixits que amb la penicil·lina V o fenoximetilpenicil·lina. Aquestes grans concentracions es tradueixen en una major eficàcia antibacteriana. Els avantatges de la penicil·lina G són el seu baix cost, la seva fàcil administració, la seva excel·lent penetració en els teixits i el seu índex terapèutic favorable. En contrast, els desavantatges són la seva degradació per l'[[àcid gàstric]], la seva destrucció per les β-lactamases bacterianes i la seva associació amb el desenvolupament de reacció adversa en prop del 10% dels pacients. Les indicacions específiques de la penicil·lina G inclouen:ref name=AMH2006/ [[cel·lulitis]], [[endocarditis]] bacteriana, [[gonorrea]], [[meningitis]], [[pneumònia]] per aspiració, [[abscés pulmonar]], pneumònia adquirida a la comunitat, [[sífilis]] i [[sèpsia]] en nens.
+
+;Bencilpenicil·lina procaïna
+La bencilpenicil·lina procaïna (DCI), coneguda també com a penicil·lina G procaïna, és una combinació de la penicil·lina G amb un [[anestèsic local]], la procaïna. Aquesta combinació té com a finalitat reduir el dolor i la incomoditat associada amb la voluminosa injecció intramuscular de la penicil·lina. Després de l'administració d'una injecció intramuscular, el fàrmac s'absorbeix lentament a la circulació i s'hidrolitza a bencilpenicil·lina. Per això, és administrada quan es desitja que les seves concentracions siguin baixes però prolongades. Aquest antibiòtic és molt utilitzat en [[veterinària]].
+
+La penicil·lina procaïna s'indica per a totes les infeccions locals greus per [[estreptococ]]s, bacteris anaerobis, [[pneumococ]]s i [[gonococ]]s, [[sífilis]], [[àntrax]] (com coadjuvant), [[otitis]] mitjana aguda purulenta, [[mastoïditis]] aguda, [[amigdalitis]] aguda per estreptococ hemolític del grup A, pneumònia pneumocòccica, abscés peritonsilar i submandibular i [[gonorrea]]. Les indicacions específiques de la procaïna penicil·lina inclouen:ref name=AMH2006/ sífilis,{{Ref_label|A|I|none}} infeccions de l'aparell respiratori on el pacient no compleix el seu tractament oral, [[cel·lulitis]] i [[erisipela]]. 
+
+En el passat s'usava per al tractament de la gonorrea genitourinària. No obstant això, el bacteri ''[[Neisseria gonorrhoeae]]'' freqüentment produeix β-lactamases i ha arribat a desenvolupar resistència a la penicil·lina, de manera que s'ha reemplaçat per [[ceftriaxona]]. També es feia servir per al tractament de la pneumònia pneumocòccica no complicada, però el sorgiment del segle neumoniae penicil·lina-resistent en alguns països ha limitat el seu ús.
+
+;Bencilpenicil·lina benzatínica
+La bencilpenicil·lina benzatínica o penicil·lina G benzatínica (DCI), és una combinació amb benzatina que s'absorbeix lentament en la circulació sanguínia després d'una injecció intramuscular i després s'hidrolitza a bencilpenicil·lina. És la primera opció quan es requereix una concentració baixa de bencilpenicil·lina, permetent una acció prolongada de l'antibiòtic per més de 2-4 setmanes per cada injecció. L'administració de penicil·lina G benzatina o benzetacil·lina la pot presentar ocasionalment una reacció al·lèrgica anafilàctica en pacients hipersensibles. La penicil·lina G sòdica és administrada en casos de [[diftèria]], d'infeccions de l'aparell respiratori o de l'[[aparell genital]] i en certes infeccions produïdes per gramnegatius, com la [[meningitis]] i l'[[endocarditis]].ref name=katzung / Pot causar [[urticària]], pruïja i, molt poques vegades, [[xoc anafilàctic]]. 
+
+Les indicacions específiques de la bencilpenicil·lina benzatina inclouen:ref name=AMH2006/ [[profilaxi]] de la febre reumàtica i sífilis en fase primerenca o latent.
+
+==== Fenoximetilpenicil·lina o penicil·lina V ====
+[[Fitxer:Penicillin-V-2D-skeletal.png|thumb|Estructura química de la [[fenoximetilpenicil·lina]].]]
+
+La fenoximetilpenicil·lina, comunament anomenada penicil·lina V, és l'única penicil·lina activa per via oral. Té una activitat menor que la bencilpenicil·lina, de manera que s'administra quan no es requereix assolir concentracions elevades en els [[teixit (biologia)|teixits]]. 
+
+Amb la penicil·lina oral V, l'espectre és pràcticament igual al de la penicil·lina G: estreptococs, pneumococs i ''Neisseria'', alguns anaerobis i estafilococs no productors de penicil·linasa. No és inactivada pel suc gàstric, aconseguint en poc temps concentracions adequades de penicil·lina en teixits i [[plasma sanguini]]. L'absorció no està influïda pels àpats. Les indicacions específiques per a la penicil·lina V inclouen: 40 infeccions causades per ''[[Streptococcus pyogenes]]'' (com l'amigdalitis, la faringitis i infeccions de la pell), profilaxi de la [[febre reumàtica]] i [[gingivitis]] moderada o severa (juntament amb [[metronidazol]]). 
+
+La penicil·lina V és la primera opció en el tractament d'infeccions odontològiques. Ocasionalment pot causar diarrees que no solen requerir suspensió de la teràpia. Rares vegades produeix reaccions al·lèrgiques severes i solen ser més lleus que amb penicil·lina parenteral.
+
+=== Penicil·lines semisintètiques ===
+Les penicil·lines semisintètiques són aquelles generades mitjançant l'aïllament d'un intermediari estable durant una producció [[microbiologia industrial|microbiològica industrial]] (fermentació en bioreactors) continuada per la modificació química o enzimàtica del compost aïllat.ref name=prescott/ Es divideixen segons la seva acció antibacteriana en cinc grups: resistents a β-lactamases, aminopenicil·lines, antipseudomones, amidinopenicil·lina i resistents a β-lactamases (Gramnegatius).ref{{ref-llibre|cognom= Flórez|nom= Jesús|enllaçautor=|coautors= Armijo, Juan Antonio; Mediavilla África| editorial = Masson|títol= Farmacología humana|edició= Cuarta|data= 2004| isbn = 8445812904|pàgines= 1416|capítol= Antibióticos β-lactámicos| urlcapítulo =|cita = Vegeu pàgina 1108}}/ref
+
+==== Resistents a β-lactamases ====
+[[Fitxer:Methicillin.png|thumb|Estructura química de la [[meticil·lina]].]]
+El seu ús és principalment en infeccions per estafilococs productors de β-lactamases, com l'''[[Staphylococcus aureus]]''. També presenten activitat, encara que reduïda, davant estreptococs, però no en tenen davant d'enterococs.ref name=enfermería{{ref-llibre|cognom= Castells Molina
+|nom= Silvia
+|enllaçautor= 
+|coautors= Hernández Pérez, Margarita
+| editorial = Elsevier España
+| títol = Farmacología en enfermería
+|edició= Segona
+|data= 2007
+| isbn = 8481749931
+|pàgines= 654
+|capítol= Farmacología antiinfecciosa
+| urlcapítulo = 
+| cita = Vegeu pàgines 396 i 397
+}}/ref
+
+* La meticil·lina és una penicil·lina d'espectre reduït desenvolupada per la farmacèutica [[Beecham]] el 1959. Quan es va desenvolupar, era especialment activa contra grampositius productors de β-lactamases com ''Staphylococcus aureus'', si bé el desenvolupament de resistència per part d'aquests últims (''Staphylococcus aureus'' resistent a meticil·lina (SAMR)) impedeix actualment el seu ús clínic. 
+* Posteriorment van aparèixer l'oxacil·lina i la nafcil·lina per a ús parenteral, i dos drogues per a ús oral, la cloxacil·lina i la dicloxacil·lina.
+
+==== Aminopenicil·lines ====
+El seu espectre d'acció és molt gran, però són sensibles a les β-lactamases. S'administren en casos d'infeccions respiratòries de les vies altes per estreptococs (sobretot, ''[[S. pyogenes]]'' i ''[[S. pneumoniae]]'') i per soques de ''[[Haemophilus influenzae]]'', infeccions urinàries per certes enterobacteris (com ''[[Escherichia coli]]'' i diverses infeccions generades per ''[[Streptococcus faecalis]]'', ''[[Salmonella]] spp''., ''[[Shigella]] spp''. i ''[[Listeria monocytogenes]]'').ref{{ref-web|url = http://www.qb.fcen.uba.ar/microinmuno/SeminarioAntibioticos2.htm |títol = CLasificación de los antimicrobianos|consulta = 10-11-2008}}/ref
+
+[[Fitxer:Ampicillin structure.svg|thumb|Estructura química de l'[[ampicil·lina]].]]
+* L'ampicil·lina és l'epímer D (-) de l'aminopenicil·lina, un β-lactàmic amb un grup fenil. Es va desenvolupar en els laboratoris Beecham (actual [[GlaxoSmithKline]]) com a resposta a la necessitat de trobar derivats de la penicil·lina de major espectre, donada l'aparició de soques resistents. El 1959 es va descobrir que l'[[epímer]] D (-) de l'aminopenicil·lina amb un grup fenil era el més actiu dels derivats sintetitzats. Administrada oralment, l'ampicil·lina és absorbida, s'uneix parcialment a proteïnes plasmàtiques (15 a 25%) i és biodisponible en un 40%. S'excreta principalment pel [[ronyó]].
+* La pivampicil·lina és un ester metilat de l'ampicil·lina, administrada en forma de pro-droga,refJ. M. ENSINK, W. R. KLEIN, D. J. MEVIUS, A. KLARENBEEK, A. G. VULTO. [http://www3.interscience.wiley.com/journal/119840721/abstract?CRETRY=1SRETRY=0 Bioavailability of oral penicillins in the horse: a comparison of pivampicillin and amoxicillin] (en inglés). Journal of Veterinary Pharmacology and Therapeutics
+Volume 15 (2008), Issue 3, Pages 221 - 230./ref la qual cosa potencia la biodisponibilitat del medicament, donada la seva major [[liposolubilitat]].ref name=pharmacologyK. Roholt, B. Nielsen, and E. Kristensen. [http://www.pubmedcentral.nih.gov/pagerender.fcgi?artid=444693pageindex=6 Clinical Pharmacology of Pivampicillin]. Antimicrob Agents Chemother. 1974 November; 6(5): 563–571. PMCID: PMC444693/ref En medicina és indicat per al tractament de pacients, especialment ancians, amb infeccions agudes de les vies aèries inferiors, com la pneumònia i la [[bronquitis]].refAdmani AK, Somasundram U., Singh I. [http://www.bago.com/bago/bagoarg/biblio/a0110.htm El Tratamiento de los Pacientes Ancianos con Infecciones Agudas de las Vías Aéreas Inferiores: Comparación entre Pivampicilina y Amoxicilina](en castellà). Current Medical Research and Opinion 9(8):536-541, Ref.:10, 1985//ref
+* L'amoxicil·lina és una aminopenicil·lina d'ampli espectre. Com a estratègia per potenciar la resistència a les β-lactamases, es presenta acompanyada d'[[àcid clavulànic]]. És indicada per al tractament d'un gran nombre d'infeccions, incloent-hi les del tracte respiratori, digestiu, genitourinari, sistema nerviós, així com en estomatologia i durant l'eradicació d'Helicobacter pylori en casos d'[[úlcera pèptica]].
+
+==== Antipseudomòniques ====
+Aquestes penicil·lines són d'ampli espectre perquè la seva cobertura d'acció comprèn grampositius, gramnegatius i anaerobis. Dins d'aquest grup hi ha dos subgrups, les carboxipenicil·lines i les ureidopenicil·lines, atenent a la seva eficàcia davant les pseudomones.ref{{ref-web|url = http://www.bvs.sld.cu/revistas/oft/vol9_1_96/oft05196.htm |títol = Clasificación de las antipseudomonas|consulta = 5-11-2008}}/ref
+
+===== Carboxipenicil·lines =====
+[[Fitxer:Ticarcillin.svg|thumb|Estructura química de la [[ticarcil·lina]].]]
+Van ser desenvolupades per ampliar l'espectre dels bacteris gramnegatius coberts per penicil·lines, com ara infeccions nosocomials causades per ''[[Pseudomonas aeruginosa]]''. Inicialment es va produir la carbenicil·lina per substitució del grup amino per un grup carboxil en l'ampicil·lina i posteriorment algunes substitucions en la carbenicil·lina permetré desenvolupar la ticarcil·lina.
+
+Presenten el mateix espectre d'acció que les aminopenicil·lines, però ampliat amb [[pseudomones]] i ''B. fragilis''.ref name=enfermería/
+* La ticarcil·lina és una carboxipenicil·lina emprada en el tractament d'infeccions causades per gramnegatius, especialment de ''[[Pseudomonas aeruginosa]]'', incloent-hi casos de pneumònia, infeccions dels: [[os]]sos, [[estómac]], [[pell]], [[Articulació (anatomia)|articulacions]], [[sang]], ginecològiques i de les vies urinàries. La combinació d'un [[aminoglicòsid]] amb carbenicilina o ticarcil·lina ha estat utilitzada en el tractament d'infeccions severes per ''Pseudomones''. Com a estratègia per potenciar la resistència a les β-lactamases, es presenta acompanyada d'[[àcid clavulànic]].ref{{ref-web|url= http://www.nlm.nih.gov/medlineplus/spanish/druginfo/medmaster/a685011-es.html|títol= Inyección de Ticarcilina disódica|consulta= 23 de setembre de 2008|autor= MedlinePlus|enllaçautor= MedlinePlus|any= 2003|mes= enero|obra = Enciclopedia médica en español|llengua= castellà|citació= }}/ref
+* Actualment, la carbenicil·lina no es fabrica als [[Estats Units]] i s'ha substituït el seu ús per la ticarcil·lina, la qual té menys efectes adversos i és més eficaç enfront de ''[[Pseudomonas aeruginosa]]''.ref{{ref-web|url = http://www.infecto.edu.uy/terapeutica/atbfa/peni/espamp.html|títol = Venta de carbenicilina|consulta = 4-11-2008}}/ref
+
+===== Ureidopenicil·lines =====
+Es crearen derivades de la molècula d'ampicil·lina per ampliar encara més l'espectre contra els bacteris gramnegatius i les ''Pseudomonas''. Les ureidopenicil·lines penetren bé en els teixits, incloent-hi el [[líquid cefaloraquidi]] en pacients amb meninges inflamades, i nivells adequats en os per al tractament d'osteomielitis. Igual que les carboxipenicil·lines, estan associades a [[hipopotassèmia]], [[hipernatremia]] i disfunció [[plaqueta|plaquetària]]. En aquest grup de penicil·lines hi ha la mezlocil·lina, l'azlocil·lina i la piperacil·lina.
+
+==== Amidinopenicil·lines ====
+Presenten gran eficàcia davant de gramnegatius, però escassa davant cocs grampositius, per la seva estructura química, la 6-amidinopenicil·lina. 
+
+* El mecil·linam actua molt bé davant d'[[enterobacteri]]s. La causa del seu èxit davant els gramnegatius es deu a la producció d'[[esferoplast]]s per la seva afinitat a la PBP2 i al seu efecte sinèrgic al costat d'altres β-lactàmics.ref name=amidinopenicilinas{{ref-web|url = http://www.sepeap.es/libros/MEDICINE98/Artikulu/m8003.pdf |títol = Espectro de acción de las amidinopenicilinas|consulta = 5-11-2008}}/ref No obstant això, el mecil·linam no és capaç d'actuar davant de bacteris productors de β-lactamases ni davant ''H. influenzae'', ''P. aeruginosa'' ni ''B. fragilis''. La seva utilització està indicada en el cas d'infeccions urinàries per enterobacteris, i també en la [[febre tifoide]] i la [[salmonel·losis]] septicèmica.ref name=amidinopenicilinas/
+* El pivmecil·linam és l'èster del mecil·linam i és indicada en els mateixos casos, encara que presenta un avantatge quant a l'administració. A diferència de l'anterior amidinopenicil·lina, aquesta es pot administrar per via oral, hidrolitzats després a mecil·linam.ref{{ref-web|url = http://bvs.sld.cu/revistas/mgi/vol14_4_98/mgi08498.htm |títol = Diferencias entre mecilinam y pivmecilinam|consulta = 5-11-2008}}/ref
+
+==== Resistents a betalactamases de gramnegatius ====
+El representant del grup és la temocil·lina, el qual només és útil davant enterobacteris, ''Haemophilus spp.'', i ''Neisseria gonorrhoeae''. Els bacteris grampositius, anaerobis i ''Pseudomonas spp.'' són resistents a la seva acció.ref{{ref-web|url = http://webcd.usal.es/web/educativo/m_especial/11atexto2.htm|títol = Penicilinas resistentes a las betalactamasas de enterobacterias|consulta = 4-11-2008}}/ref
+
+== Mecanisme d'acció ==
+La penicil·lina, com la resta de betalactàmics, exerceix una acció [[bactericida]] per alterar la [[paret cel·lular]] bacteriana, estructura que no existeix en les cèl·lules humanes. La paret bacteriana es troba per fora de la [[membrana citoplasmàtica]] i confereix als [[eubacteris]] la resistència necessària per suportar, sense trencar-se, l'elevada [[pressió osmòtica]] que existeix en el seu interior. A més, la paret bacteriana és indispensable per a:ref name=prescott/
+
+* La [[bipartició|divisió cel·lular bacteriana]]
+* Els processos de transport de substàncies als que limita per les seves característiques de permeabilitat.
+* La capacitat patògena i antigènica dels bacteris, ja que contenen [[endotoxina|endotoxines]] bacterianes.
+
+[[Fitxer:Transpeptidase with bound penicillin.png|thumb|200px|Penicil·lina (en blanc) unida a una transpeptidasa bacteriana. La penicil·lina és tan semblant a l'enzim bacteriana que s'acobla amb ella de manera que impedeix que l'enzim connecti tots els seus components estructurals.]]
+Hi ha importants diferències en l'estructura de la paret entre els [[bacteri grampositiu|bacteris grampositius]] i [[bacteri gramnegatiu|gramnegatius]], de les que cal destacar la major complexitat i contingut en [[lípid]]s en els gramnegatius. 
+
+L'acció de la penicil·lina, i en general dels β-lactàmics, es desenvolupa fonamentalment en l'última fase de la síntesi del [[peptidoglicà]] de la [[paret cel·lular]], unint-se a un enzim transpeptidasa anomenat proteïna fixadora de la penicil·lina,refE. Gordon, N. Mouz, E. Duée and O. Dideberg [http://www.sciencedirect.com/science?_ob=ArticleURL_udi=B6WK7-45F51MG-HW_user=10_rdoc=1_fmt=_orig=search_sort=dview=c_version=1_urlVersion=0_userid=10md5=4bb9b16cc4904bbff7d5f93b26edeea3 The crystal structure of the penicillin-binding protein 2x from Streptococcus pneumoniae and its acyl-enzyme form: implication in drug resistance](en anglès). Journal of Molecular Biology, Volume 299, Issue 2, 2 June 2000, Pages 477-485. Últim accés 14 de novembre del 2008./ref responsable de produir una sèrie d'enllaços creuats entre les cadenes de [[pèptid]]s. La formació d'aquests enllaços o ponts és la que confereix, precisament, la major rigidesa a la paret bacteriana. Per tant, els β-lactàmics com la penicil·lina inhibeixen la síntesi del peptidoglicà indispensable per la formació de la paret cel·lular bacteriana. Els bacteris sense la seva paret cel·lular moren o són més fàcilment fagocitats pels granulòcits.ref name=prescott/
+
+Aquesta inhibició produeix una acumulació dels precursors del peptidoglicà, els quals produeixen una activació d'enzims com hidrolases i autolisines que digereixen, més encara, el romanent de peptidoglicà en el bacteri. En perdre la seva paret cel·lular com a conseqüència de l'acció de la penicil·lina, els bacteris grampositius són anomenats [[protoplast]]s, mentre que les gramnegatius, que no arriben a perdre tota la seva paret cel·lular, reben el nom d'[[esferoplast]]s. 
+
+La penicil·lina mostra un efecte sinèrgic amb els [[aminoglucòsid]]s, ja que la inhibició de la síntesi del peptidoglicà permet que els aminoglucòsids penetrin la paret cel·lular amb més facilitat, permetent així trastorns en la síntesi de proteïnes dins de la cèl·lula bacteriana (fet que resulta en una concentració menor d'antibiòtic que la requerida per eliminar el microorganisme susceptible).ref name=harrison/
+
+== Ús clínic ==
+[[Fitxer:PenicillinPSAedit.jpg|thumb|Durant la [[Segona Guerra Mundial]], les autoritats sanitàries anunciaven la penicil·lina com a cura per a les [[malaltia venèria|malalties venèries]].ref[http://www.nlm.nih.gov/exhibition/phs_history/34.html National Library of Science] U.S. National Library of Medicine/ref]]
+Inicialment, després de la comercialització de la penicil·lina natural en la dècada de 1940, la majoria dels bacteris eren sensibles a ella, fins i tot el ''[[Mycobacterium tuberculosi]]''. Però a causa de l'ús i abús d'aquesta substància molts bacteris es tornaren resistents, no obstant continuava sent efectiu en algunes soques de ''[[Streptococcus]] sp'', ''[[Staphylococcus]] sp'', ''[[Neisseria]] sp'', ''[[Clostridium]] sp'', ''[[Listeria monocytogenes]]'', ''[[Haemophilus]] sp'', ''[[Bacteroides]] sp'', ''[[Escherichia coli]]'', ''[[Proteus mirabilis]]'', ''[[Klebsiella]]'' i ''[[Enterobacter]]''. 
+
+La penicil·lina és indicada, per exemple, en pacients embarassades, a terme o no, com a mesura profilàctica quan se sospita en elles un alt risc d'infecció per estreptococ del grup B. 
+
+La penicil·lina V potàssica s'indica per tractar certes formes de pneumònia bacteriana, l'[[escarlatina]], i les infeccions en orelles, pell i gola. També s'usa per a prevenir la febre reumàtica recurrent i la corea infecciosa.ref{{ref-web|url= http://www.nlm.nih.gov/medlineplus/spanish/druginfo/meds/a685015-es.html|títol= Penicilina V potásica oral|consulta= 11 de novembre del 2008|autor= por MedlinePlus|enllaçautor= http://medlineplus.gov/spanish/|any= 2003|mes= març|obra = Enciclopedia médica en español|llengua= castellà|citació= }}/ref En forma injectable, la penicil·lina V s'usa en certes infeccions bacterianes dels ossos, estómac, articulacions, sang, meningitis i de les vàlvules del cor.ref{{ref-web|url= http://www.nlm.nih.gov/medlineplus/spanish/druginfo/meds/a685013-es.html|títol= Inyección de Penicilina G potásica o sódica|consulta= 11 de novembre de 2008|autor= MedlinePlus|enllaçautor= MedlinePlus|data= gener de 2003|obra = Enciclopedia médica en español|llengua= castellà|citació= }}/ref
+
+El tractament inicial d'una [[bacterièmia]] (presència de bacteris en sang que ocasiona febre alta, confusió, estupor i mort en tot just 12 hores), es porta a terme amb l'administració de penicil·lines semisintètiques com la nafcil·lina o la metacil·lina intravenoses, si el pacient no és [[al·lèrgia|al·lèrgic]] o la infecció és causada per bacteris sensibles.ref name=pdr''The PDR Family Guide to Prescription Drugs''. Escrit per Medical Economics Data (Firm). Publicat per Crown Trade Paperbacks, [[1996]]. ISBN 0-609-80068-X/ref
+
+La [[borreliosi]], transmesa per les paparres i que pot cursar sense tractament per diverses setmanes o mesos causant símptomes neurològics o cardíacs, és una malaltia que pot ser tractada amb penicil·lina oral o amoxicil·lina, especialment en nens. En els estadis avançats se sol administrar penicil·lina intravenosa de 2 a 4 setmanes.ref name=pdr /
+
+Els antibiòtics de preferència en el tractament del [[tètanus]] també són les penicil·lines a altes dosis.ref name=pdr /
+
+=== Aplicació veterinària ===
+La penicil·lina G s'administra en preparats injectables per al tractament d'infeccions per organismes susceptibles en múltiples espècies veterinàries, incloent-hi [[gos]]sos, [[gat]]s, [[fura|fures domèstics]], [[conills]], [[eriçó|eriçons]] i [[au]]s. La penicil·lina G sola o combinada s'ha fet servir amb èxit per tractar braves amb mastitis.refHirvonen J, Pyörälä S, Heinäsuo A, Jousimies-Somer H. [http://www.ncbi.nlm.nih.gov/pubmed/9133056 Penicillin G and penicillin G-tinidazole treatment of experimentally induced summer mastitis--effect on elimination rates of bacteria and outcome of the disease](en anglès). Vet Microbiol. 1994 Dec;42(4):307-15. PMID: 9133056/ref Certes espècies, incloent-hi [[serp]]s, [[ocell]]s, [[tortuga|tortugues]], [[conillet d'índies|conillets d'índies]] i [[xinxilles]], han mostrat sensibilitat a la penicil·lina procaïna.refPatient information sheet. [http://www.drsfostersmith.com/Rx_Info_Sheets/rx_penicillin_g.pdf Penicillin G] (en anglès). Consultat l'11 de novembre de 2008./ref
+
+=== Implicacions clíniques ===
+La penicil·lina va iniciar l'era dels antibiòtics, portant la cura de malalties comunes com la [[tuberculosi]] i la [[sífilis]], fent que les intervencions quirúrgiques fossin menys arriscades i que la medicina de les infeccions fos més fiable. Abans dels anys 1930, persones adultes i nens morien en grans quantitats per infeccions bacterianes com la [[pneumònia]] i la [[febre reumàtica]], des dels més pobres fins als més rics. El 1924, el fill del president nord-americà [[Calvin Coolidge]], un jove de 16 anys, va morir per una septicèmia originada en una ferida d'un peu per les seves sabatilles de tenis.ref name=bud / Tot i que la prevenció, les vacunes i altres mesures epidemiològiques van portar l'eradicació de certes malalties, la penicil·lina per si sola ha salvat més vides des de la seva introducció al mercat que cap altre medicament.ref name=times / Però el mal ús de la penicil·lina ha portat, al seu torn, resistències en organismes fulminants com ''Staphylococcus'' i ''Clostridium''. Fleming, durant el seu discurs d'acceptació del [[premi Nobel]] pel seu descobriment, va dir:
+
+{{Cita|El temps vindrà quan la penicil·lina pugui ser comprada per qualsevol en les botigues. I després hi ha el perill que l'home ignorant utilitzi sovint infradosis i, en exposar els seus microbis a quantitats no letals de la droga, els torni resistents.|Alexander Flemingref name=timesTraducció lliure del ''Sunday Times''. Setembre de 2008. [http://www.timesonline.co.uk/tol/news/uk/scotland/article4691534.ece Penicillin overuse puts Fleming's legacy at risk] (article complet en anglès). Consultat el 14 de novembre del 2008./ref}}
+
+== Farmacologia ==
+Atès que la majoria de les penicil·lines són destruïdes pel [[suc gàstric]], l'absorció per via oral no és bona i per això han de ser administrades parenteralment. La penicil·lina s'absorbeix ràpidament tant amb l'administració intramuscular com subcutània. Els nivells sanguinis seguits de l'administració parenteral són elevats però transitoris. La toxicitat oral (LD50), és a dir, la dosi letal en el 50% dels animals d'experimentació és aproximadament de 8900 mg/kg.refFitxa de dades de seguretat (març, 2006). [http://www.cofc.edu/~grice/pdf/MSDS/Rm209/Penicillin%20G%20Potassium.pdf Penicillin G, Potassium] (article complet disponible en anglès). Últim accés 29 de desembre, 2008./ref S'observen certes reaccions neurològiques, incloent-hi convulsions, si la penicil·lina i altres β-lactàmics arriben a assolir concentracions molt elevades en el [[líquid cefaloraquidi]].ref name=AMH2006/
+
+La unió a proteïnes sèriques és variable en un rang que va des del 15% per les aminopenicil·lines fins al 97% per a la dicloxacil·lina. La vida mitjana sèrica és curta, aproximadament 30 minuts per penicil·lina G i 60 minuts per penicil·lines d'ampli espectre. 
+
+La penicil·lina és eliminada pels [[ronyons]], de manera que una disminució o inhibició de la secreció tubular renal pot augmentar la concentració i l'efecte terapèutic de la penicil·lina. Les dosis han de ser reconsiderades en pacients amb insuficiència renal o que estiguin prenent altres [[fàrmac]]s com el [[probenecid]],ref name=harrison / usat en pacients que requereixin concentracions particularment elevades de penicil·lina.ref name=AMH2006{{ref-llibre|editor=Rossi S, editor|títol=Australian Medicines Handbook|any=2006|lloc=Adelaide|editorial=Australian Medicines Handbook|id=ISBN 0-9757919-2-3}}/ref 
+
+Les penicil·lines no són metabolitzades o només mínimament metabolitzades i excretades principalment pels ronyons a través de la filtració glomerular (10%) i la secreció tubular (90%). El [[probenecid]] bloqueja l'excreció renal i així causa un augment dels nivells sèrics de la penicil·lina. Aquests antibiòtics (excepte les penicil·lines penicilinasa resistents) poden ser eliminats de l'[[organisme]] per diàlisi peritoneal i hemodiàlisi. En pacients amb disfunció renal severa són necessaris ajustaments en les dosis diàries per prevenir nivells excessius i la consegüent toxicitat.
+
+=== Unitats ===
+L'acció de la penicil·lina G es va definir inicialment en unitats. Per exemple, la penicil·lina G sòdica cristal conté aproximadament 1.600 unitats/mg (1 unitat = 0,6 mg, 1 milió d'unitats de penicil·lina = 0,6 g). Les penicil·lines semi-sintètiques es prescriuen per pes en comptes de fer-ho per unitats. La concentració inhibitòria mínima (CIM) de qualsevol penicil·lina (o qualsevol altre antimicrobià), en general ve donat en g/ml. La majoria de les penicil·lines es dispensen en forma de sals de [[sodi]] o [[potassi]] l'àcid lliure. La penicil·lina G potàssica conté aproximadament 1,7 mEq de K + per cada milió d'unitats de penicil·lina. Les sals de penicil·lina en forma de cristall sec es conserven estables per períodes llargs de temps, arribant diversos anys a 4 °C. Les solucions preparades perden la seva activitat amb rapidesa, unes 24 hores a 20 °C, pel que cada solució ha de ser preparada just abans de la seva administració.ref name=katzung{{ref-llibre|cognom= Katzung|nom= Bertram G.|editorial= [[McGraw-Hill]]|títol= Basic  Clinical Pharmacology|edició=9a ed.|data= 2007|isbn= 0071451536|pàgines= |capítol= Chapter 43. Beta-Lactam Antibiotics  Other Inhibitors of Cell Wall Synthesis| urlcapítulo = |cita= }}/ref
+
+=== Reaccions adverses ===
+S'han descrit diversos tipus de reaccions, algunes d'elles fatals, en persones a les quals es va administrar penicil·lina. La penicil·lina i els seus derivats són les causes més freqüents de reaccions dependents de la [[immunoglobulina E]] (IgE), tot i que també poden produir [[immunoglobulina G|immunoglobulines G]] i [[immunoglobulina M|M]].ref name=harrison / Les reaccions adverses a la penicil·lina ocorren en ≤ 1% dels pacients que prenen l'antibiòtic. Encara que l'al·lèrgia a la penicil·lina és la forma més freqüent d'al·lèrgia reportada en medicina, menys del 20% de les persones que creuen ser al·lèrgiques veritablement ho són.ref{{citar ref|autor=Salkind AR, Cuddy PG, Foxworth JW|títol=Is this patient allergic to penicillin? An evidence-based analysis of the likelihood of penicillin allergy|publicació=JAMA|any=2001|volum=285|exemplar=19|pàgines=2498–2505|doi= 10.1001/jama.285.19.2498|pmid=11368703}}/ref Entre les reaccions adverses més comunes estan: 
+
+* Reacció d'[[hipersensibilitat]] o al·lèrgica: és l'[[Reacció adversa a medicament|efecte advers]] més important. Pot ser immediata (2-30 minuts), accelerada (1-72 hores) o tardana (més de 72 hores). La gravetat és variable: des de simples erupcions cutànies passatgeres ([[urticària]] o [[angioedema]]), fins a [[xoc anafilàctic]], que ocorre en el 0,2% i provoca la mort en el 0,001% dels casos.ref name=AMH2006 / 
+* Trastorns gastrointestinals: el més freqüent és la [[diarrea]], ja que la penicil·lina elimina la [[flora intestinal]]. També pot provocar [[nàusees]] i [[vòmit]]s. 
+* Infeccions addicionals, incloent-hi [[candidiasi]].
+
+Entre els efectes secundaris menys freqüents, que es donen en el 0,1-1% dels pacients, estan:
+* Augment reversible d'enzims aminotransferases, que sol passar desapercebut.
+* Trastorns hematològics: [[anèmia]], [[neutropènia]] i [[trombocitopènia]]. La penicil·lina pot estimular la producció d'[[anticossos]], principalment IgG i IgM, els quals causen lesions en les cèl·lules sanguínies i ocasionen aquests trastorns [[hematologia|hematològics]].ref name=harrison /
+* [[Hipopotassèmia]]: poc freqüent.
+* [[Nefritis intersticial]].
+* [[Encefalopatia]]: que cursa amb mioclònies, convulsions cròniques i tònic-clòniques d'extremitats que poden acompanyar-se de somnolència, estupor i coma. L'encefalopatia és més freqüent en pacients amb insuficiència renal.ref name=AMH2006 /
+
+El dolor i la [[inflamació]] del lloc d'injecció són també freqüents en les penicil·lines administrades per via parenteral, com la benzilpenicil·lina. Ocasionalment s'ha pogut comprovar que les penicil·lines, així com altres fàrmacs, poden causar [[necrosis epidèrmica tòxica]], [[pèmfig]] i [[eritema multiforme]].
+
+Els pacients amb [[fibrosi quística]] tenen major probabilitat de patir reaccions adverses a la penicil·lina i els seus derivats.ref name=pillbookHarold M. Silverman. The Pill Book (12th Edition). Publicado por Bantam. ISBN 0-553-58892-3./ref La penicil·lina no ha causat defectes de naixement pel que amb freqüència és receptat a dones embarassades. Les penicil·lines poden creuar la barrera placentària i només han de ser usades en l'embaràs quan sigui absolutament necessari i recomanat sota supervisió mèdica. La penicil·lina pot ser presa durant la [[lactància]], però, petites quantitats de l'antibiòtic poden passar a la [[llet]] materna i causar en el lactant indigestió, diarrea o reaccions al·lèrgiques.ref name=pillbook /
+
+==== Al·lèrgia a la penicil·lina ====
+Les reaccions al·lèrgiques a qualsevol dels antibiòtics β-lactàmics poden donar-se en fins a un 10% dels pacients que reben aquests agents.ref name=pmid12721392/ S'ha acceptat en el passat que pot haver fins a un 10% de sensibilitat creuada entre els diferents derivats de la penicil·lina, és a dir, que un 10% dels pacients hipersensibles a un dels medicaments, com les [[cefalosporina|cefalosporines]] i [[carbapenema|carbapenemes]], també ho serà per als altres derivats de la penicil·lina, per raó que totes tenen un anell β-lactàmic.ref name=pmid1201975{{ref-publicació |cognom=Dash |nom=CH |títol=Penicillin allergy and the cephalosporins |publicació=J. Antimicrob. Chemother. |volum=1 |nom=3 Suppl |pàgines= pp.107–18 |data=1975 |id=pmid 1201975 |llengua=anglès}}/refref{{ref-publicació |autor=Gruchalla RS, Pirmohamed M |títol=Clinical practice. Antibiotic allergy |publicació=N. Engl. J. Med. |volum=354 |exemplar=6 |pàgines=pp.601–9 |data=2006 |id=pmid=16467547 |doi=10.1056/NEJMcp043986|llengua=anglès}}/ref Això no obstant, descobriments recents han mostrat que no hi ha un augment d'al·lèrgies creuades des de les cefalosporines de segona generació fins a les més recents.ref name=pmid16451776{{ref-publicació |autor=Pichichero ME |títol=Cephalosporins can be prescribed safely for penicillin-allergic patients |publicació=The Journal of family practice |volum=55 |nom=2 |pàgines=pp.106–12 |data=2006 |id=pmid 16451776 |url=http://www.jfponline.com/pdf%2F5502%2F5502JFP_AppliedEvidence1.pdf |format=PDF|llengua=anglès}}/refref name=pmid17349459{{ref-publicació |autor=Pichichero ME |títol=Use of selected cephalosporins in penicillin-allergic patients: a paradigm shift |publicació=Diagn. Microbiol. Infect. Dis. |volum=57 |nom=3 Suppl |pàgines=pp.13S–18S |data=2007 |id= pmid 17349459 |doi=10.1016/j.diagmicrobio.2006.12.004|llengua=anglès}}/ref Certes investigacions actuals han demostrat que el principal factor en la determinació de reaccions immunitàries és la similitud que hi ha entre les cadenes laterals de les cefalosporines de primera generació i les penicil·lines i no necessàriament entre l'estructura del β-lactàmic comú entre ells.ref name=pmid16461141{{ref-publicació |cognom=Antunez |nom= Blancacogom2=Lopez |nom2=N|cognom3=Torres|nom3= MJ |títol=Immediate allergic reactions to cephalosporins: evaluation of cross-reactivity with a panel of penicillins and cephalosporins |publicació=J. Allergy Clin. Immunol. |volum=117 |nom=2 |pàgines= pp.404–10 |data=2006 |id= pmid 16461141 |doi=10.1016/j.jaci.2005.10.032|llengua=anglès}}/ref En una revisió d'històries clíniques, es va trobar que l'al·lèrgia a la penicil·lina és més freqüent en les dones que en els homes.ref{{ref-web|url= http://medlineplusite.com/spanish/news/fullstory_53996.html|títol= Alergia a penicilina es más frecuente en mujeres que en hombres|consulta= 11 de novembre de 2008|autor= MedlinePlus|any= 2007|mes= agost|obra = Enciclopedia médica en español|llengua=castellà}}/ref
+
+La via d'administració més freqüent amb la qual apareixen aquestes reaccions al·lèrgiques és l'endovenosa, i rarament ocorre quan s'administra per via oral. Per desenvolupar la reacció es necessita d'una exposició inicial al medicament o els seus determinants antigènics, per exemple, en ingerir llet o productes d'animals tractats amb penicil·lina, a través de la [[llet materna]] o pel contacte amb la droga a l'administrar-la a l'individu.ref name=bioquimica /
+
+La majoria dels pacients exposats a la penicil·lina desenvolupen anticossos, però, no manifesten reaccions en exposar novament a ella.ref name=harrison / Els que desenvolupen reaccions al·lèrgiques associades a l'administració de penicil·lines mostren símptomes que varien àmpliament: [[anafilaxi]], [[malaltia de la son]], [[anèmia hemolítica]], malalties renals, [[angioedema]], [[urticària]], [[vasculitis]] entre d'altres, i poden arribar a ocasionar la mort.ref name=bioquimica /
+
+Les proves cutànies, com el Pre-pen i el Kremers-Urban, es van dissenyar per a pacients en els quals se sospiten reaccions al·lèrgiques a la penicil·lina per [[IgE]] i que s'anticipa seu tractament, com en el cas de pacients amb endocarditis o dones embarassades amb [[sífilis]]. Prop del 25% dels pacients amb antecedents d'al·lèrgia a la penicil·lina tindran una prova cutània positiva, mentre que un 6% (del 3 al 10%) amb antecedents negatius presenta una resposta cutània positiva.ref name=harrison / Altres proves, com la [[radioalergoadsorció]] o proves ''[[in vitro]]'', no ofereixen avantatges sobre les proves cutànies correctament realitzades.
+ 
+Com és d'esperar, un gran nombre de pacients (d'un 50 a un 100%) amb una prova cutània positiva, produeixen reaccions al·lèrgiques a la penicil·lina de ser administrat l'antibiòtic, mentre que un 0,5% dels pacients amb proves cutànies negatives reaccionen al fàrmac, la qual tendeix a ser una reacció lleu o tardana, després de l'administració de la penicil·lina. Després de diversos anys, fins a un 80% dels pacients perd la sensibilitat anafilàctica i els anticossos IgE.ref name=harrison /
+
+==== Interaccions medicamentoses ====
+La penicil·lina no ha de ser presa conjuntament amb altres antibiòtics com el [[cloramfenicol]], l'[[eritromicina]], la [[tetraciclina]] o la [[neomicina]], entre d'altres, perquè es redueix la seva efectivitat.refDrugs.com[http://www.drugs.com/drug-interactions/penicillin_d00116_erythromycin_d00046.html Interactions between penicillin and Erythromycin], [http://www.drugs.com/drug-interactions/penicillin_d00116_tetracycline_d00041.html Interactions between penicillin and Tetracycline] [http://www.drugs.com/drug-interactions/penicillin_d00116_chloramphenicol_d00025.html Interactions between penicillin and Chloramphenicol] /ref Se sap que la penicil·lina disminueix l'efecte de les pastilles anticonceptives i que les reaccions secundàries ocorren amb més freqüència en combinar la penicil·lina amb els beta bloquejants. També interfereix amb l'absorció de l'[[atenolol]], i a grans dosis, la penicil·lina potencia l'efecte dels medicaments [[anticoagulant]]s.
+
+No es recomana prendre refrescos carbonatats o certs sucs naturals, ja que l'ambient àcid d'aquestes begudes pot destruir la droga. Per això, les penicil·lines orals han de ser ingerides en dejú o unes 2 hores després de dinar. L'amoxicil·lina pot ser administrada amb el menjar.
+
+=== Resistència a la penicil·lina ===
+Prop del 25% de les soques dnowiki'/nowiki''[[Streptococcus pneumoniae]]'' aïllades en pacients amb otitis mitjana són resistents a la penicil·lina i a l'amoxicil·lina, i comparteixen aquesta resistència amb prop del 33% de soques d'nowiki'/nowiki''[[Haemophilus influenzae]]'' en aquests pacients.ref name=harrison{{ref-web|url= http://www.harrisonmedicina.com/content.aspx?aID=57736searchStr=fototoxicidad|títol= Patogenia de las reacciones a fármacos|consulta= 9 de setembre del 2008|autor= Harrison Principios de Medicina Interna 16a edició|any= 2006|obra = Harrison online en español|editor= [[McGraw-Hill]]|llengua= castellà|citació= }}/ref D'acord a publicacions recents, el percentatge d'aïllaments de ''S. pneumoniae'' amb susceptibilitat a penicil·lina disminuïda a [[Xile]] i a [[Espanya]],refCalvo A, Amores R, Valero E, Fuentes F, Gómez-Lus ML, Prieto J; Working Group for the Study of Cefpodoxime. [http://www.ncbi.nlm.nih.gov/pubmed/14961138 Activity of oral antibiotics against respiratory tract pathogens in Spain.] Rev Esp Quimioter. 2003 Dec;16(4):436-43. Citat el 8 de novembre del 2008./ref per exemple, és del voltant d'un 30% en els pacients menors de 5 anys.refCalvo A, Amores R, Valero E, Fuentes F, Gómez-Lus ML, Prieto J; Working Group for the Study of Cefpodoxime. [http://www.ncbi.nlm.nih.gov/pubmed/14961138 Activity of oral antibiotics against respiratory tract pathogens in Spain.] Rev Esp Quimioter. 2003 Dec;16(4):436-43. Citat 8 de novembre, 2008./ref En general, les infeccions causades per aquestes soques resistents s'associen a limitacions terapèutiques i un desenllaç desfavorable de la infecció.refBardi, Leticia; Badolati, Adelina; Corso, Alejandra; Rossi, M. Alicia. [http://bases.bireme.br/cgi-bin/wxislind.exe/iah/online/?IsisScript=iah/iah.xissrc=googlebase=LILACSlang=pnextAction=lnkexprSearch=147152indexSearch=ID Fracaso del tratamiento con penicilina en un caso de meningitis por Neisseria meningiditis] (en castellà). Medicina (B.Aires);54(5,pt.1):427-30, sept.-oct. 1994. Citat 8 de novembre, 2008./ref
+
+L'ús, moltes vegades indiscriminat, d'aquests fàrmacs davant el temor d'una complicació i/o risc de mort del pacient, gairebé sempre sense l'empara del coneixement de l'agent causal de la infecció i el seu comportament davant el tractament aplicat, provoca tal efecte sobre els microorganismes que els porta a desenvolupar una resistència major. Aquest seriós problema ha induït a diversos països a instal·lar polítiques d'ús racional dels antibiòtics, basades en el coneixement dels paràmetres farmacodinàmics i microbiològics d'aquests fàrmacs i recolzades per la realització de proves de laboratori que permetin una veritable avaluació de la infecció i del tractament que s'ha d'aplicar.refMaría Espino, María J. Couto, Mario Lee, Natasha Páez y Elisa Meriño. [http://www.bvs.sld.cu/revistas/ped/vol67_3_95/ped03395.htm Efecto sinérgico de penicilina G y Kanamicina en septicemia neonatal por estafilococo] (en castellà). Rev Cubana Pediatr 1998; 67(3). Últim accés 7 de novembre, 2008./ref
+
+Després de l'aparició de serioses resistències a la penicil·lina, es van desenvolupar derivats amb major espectre d'acció, així com penicil·lines resistents a la β-lactamasa, com és el cas de la flucloxacil·lina, la dicloxacil·lina i la meticil·lina. No obstant això, aquests fàrmacs són encara ineficaços contra les soques de l'estafilococ resistent a la meticil·lina, tot i que hi ha altres fàrmacs eficaços per tractar la seva infecció.refGemmell CG, Edwards DI, Fraise AP, et al. [http://jac.oxfordjournals.org/cgi/ijlink?linkType=ABSTjournalCode=jacresid=57/4/589 Guidelines for the prophylaxis and treatment of methicillin-resistant Staphylococcus aureus (MRSA) infections in the UK]. J Antimicrob Chemother (2006) 57:589–608./ref
+
+En general, la resistència a antibiòtics β-lactàmics en qualsevol bacteri es fonamenta en la interacció entre els 
+factors següents:refJames, P. A., and D. S. Reeves. 1996. [http://cmr.asm.org/cgi/external_ref?access_num=8835106link_type=MED Bacterial resistance to cephalosporins as a function of outer membrane permeability and access to their target]. J. Chemother. 8(Suppl. 2):37-47/refrefJames, P. A., D. A. Lewis, J. Z. Jordens, J. Cribb, S. J. Dawson, and S. A. Murray. 1996. [http://cmr.asm.org/cgi/ijlink?linkType=ABSTjournalCode=jacresid=37/4/737 The incidence and epidemiology of beta-lactam resistance in Haemophilus influenzae]. J. Antimicrob. Chemother. 37:737-746/ref
+* Permeabilitat de la paret bacteriana a l'antibiòtic. 
+* Presència, espectre d'acció i afinitat de les proteïnes d'unió a la penicil·lina o PBPs (de l'anglès ''penicillin binding proteins'').refGEHLREIN M.; LEYING H.; CULLMANN W.; WENDT S.; OPFERKUCH W. [http://www.ncbi.nlm.nih.gov/pubmed/1760939?dopt=Abstract Imipenem resistance in Acinetobacter baumanii is due to altered penicillin-binding proteins] Chemotherapy. 1991, vol. 37, no6, pp. 405-412./ref 
+* Existència i eficàcia dels mecanismes d'excreció del compost. 
+* Afinitat de l'antibiòtic pel lloc actiu de la PBP. 
+
+Alguns d'aquests factors estan relacionats amb la ubicació [[taxonomia|taxonòmica]] del microorganisme: per exemple, l'estructura de la paret dels bacteris gramnegatius dificulta la permeabilitat l'antibiòtic i, per això, disminueix la seva eficàcia.
+
+Cal destacar l'existència d'enzims que hidrolitzen elements de les penicil·lines disminuint la seva activitat: són les anomenades β-lactamases. En els bacteris gramnegatius, l'enzim es troba en el [[periplasma]], just entre les membranes interna i externa, mentre que els grampositius secreten la β-lactamasa al medi que les envolta. L'enzim pot ser codificada per gens del cromosoma bacterià o per [[plasmidi]]s. Un dels gens bacterians associat a la producció de β-lactamases és el ''BlaZ'', el qual pot ser localitzat en un plasmidi. L'expressió d'aquest [[gen]] està determinada per dos gens reguladors ''blaR1'' i ''BlaI''. Certes evidències fan suposar que l'exposició a la penicil·lina fa que el bacteri activi al gen ''blaR1'', el producte actua com una proteasa activant al gen ''blaI'' i permetent la síntesi de l'enzim per ''blaZ''.refTIBAVIZCO, Diego, RODRÍGUEZ, José Yesid, SILVA, Edwin et al. Enfoque terapéutico de la bacteriemia por ''Staphylococcus aureus''. Biomédica. [online]. Apr./June 2007, vol.27, no.2 [cited 22 December 2008], p.294-307. Disponible en la World Wide Web: [http://www.scielo.org.co/scielo.php?script=sci_arttextpid=S0120-41572007000200016lng=ennrm=iso]. ISSN 0120-4157./ref 
+
+La β-lactamasa té major afinitat per l'antibiòtic que el que aquest té per la seva diana. Certs antibiòtics, com la ceftriaxona i la cefatazidima, són estables en presència de β-lactamases codificats i produïts per plasmidis. No obstant això, les codificades i produïdes des dels cromosomes, com en el cas de l'''[[Enterobacter]]'', són enzims que hidrolitzen pràcticament a totes les penicil·lines i cefalosporines.ref name=harrison /
+
+S'ha determinat que la mala [[evolució]] de certes malalties causades per organismes amb susceptibilitat disminuïda a la penicil·lina, com la pneumònia pneumocòccica invasiva en nens, tendeix a ser independent de la susceptibilitat a la penicil·lina del microorganisme.refMC Pírez García y col. [http://db.doyma.es/cgi-bin/wdbcgi.exe/doyma/mrevista.pubmed_full?inctrl=05ZI0103rev=37vol=69num=3pag=205 Neumonía neumocócica invasiva en niños de 0 a 24 meses: ¿influye la resistencia bacteriana en la evolución?] (article complet disponible en castellà). Anales de Pediatría. Septiembre 2008; Volumen 69 - Número 03 p. 205 - 209. PMID: 18775263. Últim accés 18 de setembre, 2008./ref No obstant això, com la resistència a la penicil·lina i altres antibiòtics continua en augment, s'ha estimulat l'interès en nous medicaments amb propietats bactericides en contra d'organismes resistents, drogues com les [[quinolones]], el blanc són els enzims [[ADN girasa]] de bacteris gramnegatius i topoisomerasa tipus IV de bacteris grampositius.refManinder K. Sohi, Dennis A. Veselkov, Ivan Laponogov, Xiao-Su Pan, L. Mark Fisher y Mark R. Sanderson. [http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pubmedpubmedid=18787651 The Difficult Case of Crystallization and Structure Solution for the ParC55 Breakage-Reunion Domain of Topoisomerase IV from Streptococcus pneumoniae] (article complet disponible en anglès). PLoS ONE. Septiembre 2008; 3(9): e3201. PMCID: PMC2527675. Últim accés 18 de setembre, 2008./ref
+
+== Producció biotecnològica ==
+[[Fitxer:Bundesarchiv Bild 183-23912-0002, Königs Wusterhausen, Märkische Apotheke, Schaufenster.jpg|thumb|200px|Vitrina de la ''Farmacia Märkische'' a [[Alemanya]], [[1954]] anunciant la producció de penicil·lina.]]
+La producció industrial de penicil·lina va emergir i va florir com a indústria a causa de la [[Segona Guerra Mundial]], especialment per la quantitat de llocs de treball disponibles als [[Estats Units]]. El juliol de 1943, es va presentar un pla per distribuir-la en massa a les tropes en el front de batalla d'[[Europa]] i, gràcies a això, es van produir 425 milions d'unitats. En aquells dies, el [[fong]] es feia créixer sobre una capa prima de cultiu posat en safates o ampolles. Per millorar els requeriments d'espai i dels materials es va desenvolupar un nou mètode comercial de [[fermentació]] submergida en calders de 20.000 a més de 100.000 litres de capacitat, fent que es reduïssin els preus de cost i augmentés la producció. Com a conseqüència, el 1945, es van produir més de 646 bilions d'unitats.refParascandola, John. The History of Antibiotics: a Symposium. Publication No. 5, 1980./ref Per tant, el que era un compost car i difícil d'aïllar és avui una «[[mercaderia]] química», és a dir, un compost químicament pur que es compra i ven a gran escala en un mercat competitiu.refAllen I. Laskin, Geoffrey M. Gadd, Sima Sariaslani (2008) [http://books.google.cat/books?id=g63vQEExc8QCdq=penicillin+commoditylr=hl=essource=gbs_summary_scad=0 Advances in Applied Microbiology] Academic Press. ISBN 0-444-53191-2, 9780444531919/ref 
+
+El desenvolupament biotecnològic de ceps superproductores ha estat un altre camp de recerca de gran interès. L'aïllat original de Fleming produïa al voltant de 2 u/mL. Els processos empleats a finals de la dècada dels 80 generaven 85.000 u/mL. El desenvolupament dels ceps s'ha basat en:ref name=crueger/refShu-Jen Chiang (2004). [http://www.springerlink.com/content/p8cu7jgktnq7w41w/ Strain improvement for fermentation and biocatalysis processes by genetic engineering technology] Journal of Industrial Microbiology and Biotechnology. DOI 10.1007/s10295-004-0131-z/ref
+
+* L'anàlisi de nombrosos aïllats d'espècies i soques diferents.
+* La seva mutagènesi mitjançant [[raigs X]], metilbiscloroetilamina, nitrosoguanidina, [[radiació UV]] d'ona curta i altres.
+* La recombinació mitjançant cicles parasexuals a ''[[P. chrysogenum]]''.
+* La fusió de [[protoplast]]s.
+* Tècniques moleculars de barrejat d'ADN, que permeten realitzar evolució dirigida de fragments d'ADN mitjançant [[Reacció en cadena de la polimerasa|PCR]].
+
+=== Biosíntesi i semisíntesi ===
+[[Fitxer:Biosíntesis penicil·lina.jpg|right|thumb|350px|Ruta de [[biosíntesi]] de la penicil·lina.]]
+L'estratègia de producció industrial de penicil·lina està lligada al tipus de penicil·lina a sintetitzar. Bàsicament, aquesta varietat rau en la substitució del grup acil de la posició 6 en l'àcid 6-aminopenicilànic. Quan la fermentació{{Ref_label|B|II|none}} es produeix sense afegir cap [[precursor]] es produeixen les [[penicil·lines naturals]]. D'entre elles, només la penicil·lina G és útil terapèuticament i, per tant, és el compost a purificar. D'altra banda, d'afegir altres precursors per a la cadena lateral, el control de la reacció millora i és possible produir el compost desitjat amb una alta especificitat. Aquesta estratègia dóna lloc a les [[penicil·lines biosintètiques]], com la penicil·lina V o la penicil·lina O (en petites quantitats). L'aproximació al problema més emprada, però, passa per la modificació química del compost obtingut mitjançant la fermentació. D'aquesta manera és possible obtenir una gran diversitat de penicil·lines semisintètiques.ref name=crueger/
+
+La generació de penicil·lines semisintètiques requereix la producció, mitjançant fermentació, de penicil·lina G (en alguns casos penicil·lina V), compost que es converteix en àcid 6-aminopenicilànic mitjançant una transformació química, o, més freqüentment, enzimàtica. Aquest compost és després modificat mitjançant l'enzim [[penicil·lina acilasa]] de manera que s'afegeixi la cadena lateral desitjada a la posició 6, el que dóna lloc a la penicil·lina semisintètica final. De fet, el 38% de les penicil·lines produïdes comercialment s'empren en medicina humana, el 12% en veterinària i el 43% com a precursors per al disseny de penicil·lines semisintètiques.ref name=crueger/
+
+=== Regulació de la síntesi ===
+L'anell tiazolidínic de la β-lactama es genera mitjançant la unió dels [[aminoàcid]]s L-[[cisteïna]], L-[[valina]] i àcid α-aminoadípic. Aquest últim, aminoàcid no proteic, s'uneix al residu de cisteïna mitjançant una síntesi de pèptids no [[ribosoma]]l, el producte es combina una valina mitjançant una [[epimerització]], reacció que dóna lloc a un tripèptid. Aquest tripèptid se cicla mitjançant un procés encara no descrit donant lloc al primer producte aïllable, l'isopenicil·lina N. L'acció de la penicil·lina transacetilasa, que substitueix la cadena de α-aminoadípic al C6 per una [[molècula]] d'àcid fenilacètic activada, produeix la bencilpenicil·lina.refS. C. Warren, G. G. F. Newton, and E. P. Abraham (1967). [http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=1270494 Use of α-aminoadipic acid for the biosynthesis of penicillin N and cephalosporin C by a Cephalosporium sp] Biochem J. 103(3): 891–901./ref
+ 
+La producció de penicil·lina requereix la col·laboració de científics i enginyers per a l'efectiva producció de quantitats industrials de l'antibiòtic. La penicil·lina és un metabòlit secundari del fong ''[[Penicillium]]'', és a dir, el fong no produeix l'antibiòtic quan creix sota condicions normals, només quan el seu creixement es troba inhibit per veure's sotmès a condicions d'estrès. Altres factors inhibeixen la producció de penicil·lina, incloent-hi la seva mateixa ruta de producció. Per exemple, la lisina inhibeix la seva síntesi, ja que inhibeix l'homocitrat sintasa, enzim implicat en la síntesi d'àcid α-aminoadípic. Això no obstant, la retroinhibició per lisina no sembla ser un factor limitant en la producció industrial del compost. Altres elements reguladors són: la concentració de [[fosfat]], de [[glucosa]] i d'[[amoni|ió amònic]].ref name=crueger/
+
+Les cèl·lules de ''Penicillium ''creixen mitjançant la'' '' tècnica coneguda com a «fed-batch» (cultiu de lot nodrit), en el qual es veuen contínuament subjectes en condicions d'estrès i, per tant, produeixen penicil·lina en abundància. Les fonts de carboni disponibles són també importants perquè la glucosa inhibeix a la penicil·lina mentre que la lactosa no. El valor del pH i els nivells de [[nitrogen]], fosfat i [[oxigen]] són també crítics en els lots de producció i s'han de controlar automàticament.
+
+== Notes ==
+'''{{mida|1=I}}.''' {{Note_label|A|I|none}} Entenent fermentació no en el sentit [[metabòlic]] de la paraula, sinó en el sentit biotecnològic de producció a gran escala en un biorreactor.ref name=crueger/ 
+
+'''{{mida|1=II}}.''' {{Note_label|B|II|none}} Als [[Estats Units]], la presentació anomenada Bicillin CR, una suspensió injectable que conté 1,2 milions d'unitats de penicil·lina benzatina amb 1,2 milions d'unitats de procaïna per 4 ml, no es recomana per al tractament de la sífilis perquè és una dosi menor a la recomanada per al tractament eficaç d'aquesta infecció. S'han comès errors en aquest país a causa de la similitud dels noms Bicillin LA i Bicillin CR.ref{{ref-publicació |títol=Inadvertent use of Bicillin C-R to treat syphilis infection--Los Ángeles, California, 1999-2004 |publicació=MMWR Morb. Mortal. Wkly. Rep. |volum=54 |nom=9 |pàgines= pp.217–9 |data=2005 |id= pmid15758893|llengua=anglès }}/ref Com a resultat, s'han fet canvis en l'etiquetatge del Bicillin CR i CR 900/300 amb l'aclaridora frase No apte per al tractament de la sífilis.refUnited States Food  Drug Administration. [http://www.fda.gov/bbs/topics/ANSWERS/2004/ANS01329.html FDA Strengthens Labels of Two Specific Types of Antibiotics to Ensure Proper Use.] Publicat l'1 de desembre del 2004. Consultat el 18 de juny de 2007./ref
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+{{Commonscat|Penicillin antibiotics}}
+
+* {{ref-llibre
+ | cognom = Bud
+ | nom = Robert
+ | títol = Penicillin
+ | url = http://books.google.cat/books?id=T7GTf6Du554Cprintsec=frontcoverdq=penicillinsig=ACfU3U32c3l6DZta7Di0cD0CHWe4o_Y01g#PPA165,M1
+ | data = 2007
+ | editorial = 
+ | lloc = [[Universitat d'Oxford]]
+ | llengua = anglès
+ | pàgines = 
+ | isbn = 0-19-925406-0
+ | ref =
+}}
+* {{ref-llibre
+ | cognom = de la Bedoyere
+ | nom = Guy 
+ | títol = The Discovery of Penicillin
+ | url = http://books.google.cat/books?id=bWs8Ya4Cn20Cprintsec=frontcoverdq=penicillinas_brr=3sig=ACfU3U276zamTc7Za99LmJ3M4Vjy63GJNg
+ | data = 2005
+ | editorial = Evans Brothers
+ | lloc = 
+ | llengua = anglès
+ | pàgines = 
+ | isbn = 0-237-52739-1
+ | ref =
+}}
+
+{{1000+AdQ|Ciència}}
+
+{{Autoritat}}
+{{Enllaç AB|eo}}
+{{Enllaç AD|es}}
+{{Enllaç AD|sl}}
+{{Enllaç AD|sr}}
+
+{{ORDENA:Penicillina}}	!--ORDENA generat per bot--
+[[Categoria:Penicil·lines| ]]
+[[Categoria:Articles de qualitat de ciències de la vida]]
+[[Categoria:Traduccions que són articles de qualitat]]</text>
+      <sha1>ef1e24hvslw1s8cmk0pl96rhm8zzemz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,52 @@
+<page>
+    <title>Teletip</title>
+    <ns>0</ns>
+    <id>588164</id>
+    <revision>
+      <id>13768658</id>
+      <parentid>13748708</parentid>
+      <timestamp>2014-07-09T04:50:36Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Teleprinters]]</comment>
+      <text>[[Fitxer: WACsOperateTeletype.jpg|thumb|Teletips durant la [[Segona Guerra Mundial]], a Anglaterra.]]
+Un '''teletip''', '''TTY''' ([[acrònim]] actual per la [[llengua anglesa]]) o '''tèlex''' és un dispositiu [[telègraf|telegràfic]] de transmissió de dades, ja obsolet, utilitzat durant el [[segle XX]] per enviar i rebre missatges [[mecanografia|mecanografiats]] punt a punt a través d'un canal de comunicació simple, sovint un parell de [[Cable elèctric|cables]] de telègraf. TTY és el terme usat en les consoles d'escriptura per als terminals [[UNIX]] en honor a les màquines de teletip.
+
+Les formes més modernes de l'equip es van fabricar amb components electrònics, utilitzant un [[Monitor d'ordinador|monitor]] o pantalla en lloc d'una [[impressora]]. El sistema encara s'utilitza per a persones sordes o amb serioses discapacitats auditives, per tal de tipejar o posar per escrit comunicacions [[telèfon|telefòniques]].
+
+El teletip va implicar una sèrie d'invencions tecnològiques desenvolupades, entre d'altres, per [[Royal Earl House]], [[David E. Hughes]], [[Emanuel Baldani]], [[Charles Krum]], [[Émile Baudot]] i [[Frederick G. Creed]]. Un dels predecessors del teletip va ser utilitzat en la [[borsa de valors]] des de la dècada de [[anys 1870|1870]] com a forma d'imprimir text transmès per cable. Es feia servir una màquina d'escriure especialment dissenyada per a enviar informació de borsa per telègraf a les impressores.
+
+== Operació del teletip ==
+[[Fitxer:Tastatur-Blattfernschreiber.jpg|thumb|Detall del teclat d'un teletip.]]
+La majoria dels teletips feien servir un codi de 5 [[bit]]s, també conegut com a [[codi Baudot]] o «ITA2», que limitava el conjunt de caràcters possibles a 32. Calia emprar tecles especials per tipejar números i caràcters especials. Van existir versions especials amb codis de transmissió per aplicacions específiques, com ara els informes [[meteorologia|meteorològics]]. El codi Baudot utilitzava un sistema asíncron amb bit d'arrencada i parada, íntimament lligat al disseny electromecànic dels equips. Els primers models van utilitzar sistemes sincrònics, però resultava molt difícil sincronitzar les parts mecàniques. Hom va experimentar l'ús d'altres codis, per exemple el [[Fieldata]] i el [[Flexowriter]], però cap d'ells es va popularitzar com el Baudot. Per als estàndards de qualitat moderns, la qualitat d'impressió era pobre.
+
+ Mark i space són termes que descriuen nivells lògics en un circuit de teletip. El mode nadiu de comunicació consistia en un simple circuit en sèrie de [[corrent continu]] que s'interromp de forma similar a com un disc o dial de telèfon interrompia el senyal telefònica. La condició «mark» es donava amb el circuit tancat, i la «space» amb el circuit obert. L'inici d'un caràcter s'indica per un «space» . Els bits d'aturada són « mark ». Quan s'interromp la línia, el cicle de l'teletip continua però no imprimeix, perquè rep únicament zeros, el caràcter [[ASCII]] (o Baudot) «NULL» .
+
+Els primers circuits de teletip van ser arrendats per algunes empreses argentines i van consistir en parells de coure dins de cables telegràfics ordinaris. Aquests circuits es connectaven en sèrie, però no permetien l'ús telefònic.
+
+Els teletips es connectaven freqüentment a equips de perforació de cintes de paper, cosa que permetia, amb els lectors apropiats, de tornar a enviar missatges rebuts sobre altres circuits. Amb aquesta tecnologia es van desenvolupar complexes xarxes de comunicació militar i comercial, on els centres de missatges tenien llargues fileres d'equips connectats. Molts teletips permetien compondre missatges fora de línia, perforadores en el sistema de cintes per al seu posterior enviament, cosa que permetia la transmissió a una velocitat superior a la que podia escriure directament i de forma contínua un operador ...
+
+==Vegeu també==
+*[[Radioteletip]]
+
+== Enllaços externs ==
+{{Projectes germans|commons=Teleprinter|Teletip}}
+* [http://mailman.qth.net/mailman/listinfo/greenkeys GreenKeys és una llista de correu dedicada a la discussió sobre equips antics de ràdio-teletip (RTTY) amb teletips mecànics (Teletype, Kleinschmidt, etc.), Terminals, cinta de paper, engranatges, lleves, oli, i qualsevol cosa relacionada amb TTY/RTTY. ]
+*[http://www.kekatos.com/teletype/History_Of_The_Morkrum_Company_1925.htm un informe de primera mà dels primers anys de teletip Corporation] pel mateix Howard L.Krum ..
+* [http://www.rtty.com/history/nelson.htm Història del desenvolupament del teletip], de RA Nelson.
+* [http://www.nadcomm.com North American Digital Comunications Museum, amb diverses màquines de teletip]
+* [http://www.assistech.com/tty/Default.htm Printing vs. Non-Printing TTY's]
+* [http://www.teleprinter.net/english/index.html Lloc web superb que té una col·lecció de fotografia de grans dimensions i diverses interfícies de port sèrie per conectar teleimpresoras a la Xarxa de Telexphone!]
+* [http://www.baudot.net/docs/haynes--notes.pdf Notes de teletype Corporation, una atractiva col·lecció d'informació de la llista de correu de GreenKeys ]
+
+[[Categoria:Instruments d'escriptura]]
+[[Categoria:Telecomunicacions]]
+[[Categoria:Terminals]]</text>
+      <sha1>0fzy4gcw4wqch1tq3exo4j8jh3qxryc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,61 @@
+<page>
+    <title>Curta</title>
+    <ns>0</ns>
+    <id>940079</id>
+    <revision>
+      <id>13776609</id>
+      <parentid>13273319</parentid>
+      <timestamp>2014-07-10T04:00:46Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Curta calculator]]</comment>
+      <text>{{2L|data=febrer de 2013}}
+[[Image: Curta Type II.jpg|thumb|right|250px|La calculadora mecànica Curta en exhibició al Museu d'Història de l'Computador, en [[Mountain View (comtat de Santa Clara)]], [[Califòrnia]] ]]
+[[Image: Curtadsasm.JPG|thumb|right|250px|Una calculadora Curta parcialment desmuntada, mostrant els lliscadors de dígits i el tambor de pas darrere d'ells.]]
+La '''Curta''' era una calculadora mecànica introduïda el [[1948]]. Era petita, i tenia una maneta per a ser operada. Tenia un disseny brillantment compacte, un petit cilindre que cabia en el palmell de la mà. Podia ser usada per realitzar operacions d'[[addició]], [[sostracció]], [[multiplicació]], [[divisió]], i amb més dificultat, [[arrel quadrada|arrels quadrades]] i altres operacions. El disseny de Curta va ser una variant del [[aritmòmetre]] de [[Gottfried Leibniz]], acumulant valors en [[Engranatge|rodes dentades]], que eren sumats o complementats per un mecanisme de tambor de pas ([[Stepper Reckoner]]).
+
+La Curta va ser inventat per [[Curt Herzstark]] mentre era un presoner al camp de concentració de [[Camp de concentració de Buchenwald|Buchenwald]]. Herzstark va sobreviure al camp, i va acabar i va perfeccionar el disseny després del final de la [[Segona Guerra Mundial]]. Les calculadores van ser fetes per '' Contino AG Mauren '' en [[Liechtenstein]], i van ser àmpliament considerades les millors calculadores portables disponibles, fins que van ser desplaçades per les calculadores electròniques en els [[dècada del 1970]].
+
+== Ús==
+Els números eren introduïts usant barres de desplaçament en el costat del dispositiu (un botó de desplaçament per dígit). El comptador de revolució i el comptador de resultat estaven en la tapa. Una sola volta de la manovella agregaria el nombre de l'entrada al comptador de resultat, en qualsevol posició, i en conseqüència, incrementaria el comptador de revolució. Tirar de la manovella lleument cap a fora abans de donar-li volta realitzaria una sostracció en comptes d'una addició. La multiplicació, la divisió, i altres funcions van requerir una sèrie d'operacions de la maneta.
+
+La calculadora Curta era coneguda afectuosament com la moledora de pebre a causa de la seva forma física i manera d'operar. Ella literalment molia les respostes.
+
+== Curta Tipus I i Tipus II ==
+Hi havia dues calculadores Curta. La Curta Tipus I tenia barres de desplaçament per representar 8 dígits, un comptador de revolució de 6 dígits, i un comptador del resultat d'11 dígits. La Curta Tipus II, més gran, introduït el [[1954]], tenia barres de desplaçament per representar 11 dígits, un comptador de revolució de 8 dígits, i un comptador de resultat de 15 dígits.
+
+Van ser fetes (s'estima) 140.000 calculadores Curta (80.000 Tipus I i 60.000 del Tipus II). L'últim Curta va ser produït al novembre de 1970.
+
+== Ús en els ral·lis d'automòbils ==
+La Curta era popular entre els competidors dels [[ral·li|ral·lis d'automòbils esportius]] durant els [[dècada del 1960]], [[dècada del 1970]] i en els [[dècada del 1980]]. Fins i tot després de la introducció de la calculadora electrònica per a altres propòsits, les Curta van ser usades en ral·lis de temps-velocitat-distància (TSD) per l'ajuda en el còmput de temps als punts de comprovació, distàncies fora de curs, etc.
+
+Els competidors que usaven aquestes calculadores eren anomenats freqüentment Curta-crankers pels que estaven limitats a paper i llapis, o els que usaven computadores lligades a les rodes de l'automòbil.
+
+==Curta en la ficció ==
+La Curta és una figura en la novel · Pattern Recognition de [[William Gibson]], on un dels personatges de menor importància té un interès en ells.
+Editada en espanyol amb el títol [[Món mirall]]
+
+== Enllaços externs ==
+{{Projectes germans|commons=Curta calculator}}
+* [http://www.sciam.com/article.cfm?chanID=sa006colID=1articleID=0008177C-EA28-1FD3-A7EA83414B7F012C The Curious History of the First Pocket Calculator] by [[Cliff Stoll]], '' [[Scientific American]] '', January 2004
+* [http://www.vcalc.net/curta_simulator_en.htm Curta simulator] requires Shockwave
+* [http://www.vcalc.net/cu.htm Curta calculator fansite]
+* [http://curta.org/Curta.Org, Your Completi Curta Calculator Site] includes a [[Wiki]]
+* [http://members.chello.nl/o.veenstra3/vrml/curta_info/curta_demo.html YAC-Yet Another Curta Simulator. A 3D Simulator in VRML]
+* [http://www.teleport.com/% 7Egregsa/curta/Curta site] by Greg Saville
+* [http://web.archive.org/19981202194722/www.webcom.com/calc/Curta_text.html The Amazing Curta] by Bruce Flamm
+* [http://www.xnumber.com/xnumber/nbodley5.htm How to Calculate with a Curta] by Nicholas Bodley
+* [http://www.hpmuseum.org/ffcurta.htm Curta Handhelds] at the Museum of HP Calculators
+* http://www.diycalculator.com/sp-mechcool.shtml #A4 
+* http://web.archive.org/20021006014657/www.geocities.com/andriesdeman/curtaman.html #strt 
+* [http://www.curta.com.ar/curta/code/type_and_age_of_your_curta.php Type  Age of your Curta]
+
+[[Categoria:Calculadores mecàniques]]</text>
+      <sha1>0kabcswa657t6e70e6vvzfr8rfooib6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
