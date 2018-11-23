@@ -1,0 +1,80 @@
+<page>
+    <title>Sistema de defensa aèria portàtil</title>
+    <ns>0</ns>
+    <id>950079</id>
+    <revision>
+      <id>13864348</id>
+      <parentid>13860895</parentid>
+      <timestamp>2014-07-18T21:04:59Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot estandarditza i catalanitza referències, catalanitza dates i fa altres canvis menors</comment>
+      <text>[[Fitxer: FIM-92 Stinger USMC.JPG|thumb|260px|[[Marina dels Estats Units|Marines nord-americans]] amb un [[FIM-92 Stinger]].]]
+
+Un '''sistema de defensa aèria portàtil''', anomenat '''MANPADS''' per les seves sigles en [[anglès]] (''Man-Portable Air-Defense System''),ref{{ref-web| url= http://enciclopedia.cat/enciclop%C3%A8dies/gran-enciclop%C3%A8dia-catalana/EC-GEC-0281500.xml?s.rows=25s.start=125s.q=11+setembre#.U8gz-vl_v8Y| títol= MANPADS|editor= [[GEC]]| consulta= 17 de juliol de 2014}}/ref és un sistema de [[defensa antiaèria]] lleuger habitualment basat en un [[míssil superfície-aire]] i un llançador utilitzable per una persona o petit grup.ref name=arms survey{{ref-web|url=http://www.smallarmssurvey.org/?id=328|consulta=1 octubre 2013|títol=MANPADS|editor=Small Arms Survey}}/ref  Normalment són armes guiades i són una gran amenaça per a les aeronaus en vol baix, especialment els [[helicòpters]].
+
+== Descripció ==
+[[fitxer: SA-16 and SA-18 missiles and launchers.jpg|thumb|Míssils i tubs llançadors [[9K38 Igla]] soviètics, SA-18 (a dalt) i SA-16 (a sota).]]
+
+Aquests sistemes van ser desenvolupats originalment en la dècada de [[1950]] per proporcionar protecció militar a les forces terrestres de l'aviació enemiga. Han rebut una gran atenció com potencials armes terroristes que podrien ser utilitzats contra avions comercials. Aquests míssils, accessibles i àmpliament disponibles a través de diverses fonts, s'han utilitzat amb èxit en els últims trenta anys, tant en les operacions militars com en les terroristes. 
+
+En l'actualitat, vint-i-cinc països, incloent [[Estats Units]], produeixen MANPADS.ref name=CRS1CRS RL31741 page 1/refrefWade Bose, Wassenaar Agreement Agrees on MANPADS Export Criteria, ''Arms Control Today'', January/February 2001, p. 1., quoted in CRS RL31741/ref La possessió, l'exportació i el tràfic d'aquestes armes, és oficialment i estrictament controlada, ja que representa una amenaça per a l'aviació civil, encara que lamentablement, moltes vegades aquest control és superat.ref[http://fas.org/asmp/campaigns/MANPADS/MANPADS.html MANPADS Proliferation - FAS]/refref[http://www.janes.com/security/international_security/news/jir/jir021128_1_n.shtml The proliferation of MANPADS - Jane's]/ref
+
+Els míssils mesuren al voltant de 180 cm i el seu pes és d'uns 18 kg, depenent del model. El llançador s'aguanta sobre l'espatlla i es disparen de forma manual un cop fixat l'objectiu. Generalment, el seu abast de detecció del blanc és de 6 milles (10 km) i la seva distància màxima  d'atac és d'aproximadament 4 milles (6 km), per la qual cosa, les aeronaus que volen a una altura de 20.000 peus (6.100 metres) o més no són vulnerables a aquestes armes.ref name=schafferMarvin B. Schaffer, Concerns About Terrorists With Manportable SAMS, RAND Corporation Reports, October 1993, quoted in CRS RL31741/ref
+
+== Tipus==
+
+=== No guiats ===
+[[fitxer: Luftfaust.JPG|thumb|El [[Fliegerfaust]] alemany, considerat el primer MANPAD.]]
+L'any [[1944]], l'[[Alemanya nazi]] estava desesperadament curta d'armes mòbils de defensa aèria. Inspirats en el concepte del simple i eficaç antitanc [[Panzerfaust]], un [[llançacoets]] no guiat de 20mm, van desenvolupar el [[Fliegerfaust]]. L'arma mai va arribar a la producció en massa a causa del final de la [[Segona Guerra Mundial]].
+
+Després del final de la Segona Guerra Mundial, els soviètics van experimentar amb aquest tipus d'armament, però van abandonar aquest concepte per posar en pràctica als míssils guiats per un sensor infraroig.
+
+=== infraroigs  (IR) ===
+Els míssils infraroigs estan dissenyats per buscar una font de calor en una aeronau, normalment en el [[Reactor (motor)|reactor]] del motor de l'avió, on després esclata la càrrega explosiva dins o a prop, danyant així l'avió.
+
+Aquests míssils fan servir [[orientació passiva]], el que significa que no emeten senyals per detectar una font de calor, el que fa difícil que ho descobreixin els avions que utilitzen orientació contra-mesura.
+
+==== Primera generació ====
+[[fitxer: Sa-7.jpg|thumb|Un [[9K32 Strela-2]] soviètic (designació OTAN: SA-7 Grail).]]
+Els primers míssils d'espatlla desplegats a la dècada de [[1960]] van ser els míssils d'infrarojos. En aquesta primera generació es van disparar míssils [[Míssil superfície-aire|SAM]], els [[Redeye]] dels EUA, els soviètics [[SA-7]], i els xinesos [[HN-5]], considerats com armes de caça de la cua o sol·licitants de calor, ja que només poden disparar quan detecten una font de calor. En aquest perfil de vol, els motors de l'avió estan plenament exposats a la detecció dels míssils i proporcionen una signatura tèrmica suficient per al compromís. La primera generació de míssils infraroigs són també molt susceptibles a interferències a partir de fonts termals, incloent el sol, i per això molts experts consideren que són poc fiables.
+
+==== Segona generació ====
+La segona generació de míssils IR, com les primeres versions del [[Stinger]] dels EUA, els soviètics [[SA-14]], i el xinès [[FN-6]], utilitzen refrigerants millors per refredar el cap buscadora que permet al cercador filtrar la majoria de fonts d'interferències d'infraroigs de fons. Aquests míssils també fan servir tecnologies per contrarestar bengales esquer, que podrien ser desplegades pels avions als quals es dirigeixen i també les maneres de còpia de seguretat de detecció d'objectius com ara la [[radiació ultraviolada]] (UV) es troben en la manera de míssils Stinger.
+
+==== Tercera generació ====
+[[fitxer: Mistral-2.jpg|thumb|[[MBDA Mistral]] francès.]]
+La tercera generació de míssils d'espatlla IR, els SAM, el [[MBDA Mistral|Mistral]] francès, el rus [[SA-18]], i l'Stinger B dels Estats Units, utilitzen detectors simples o múltiples per produir un quasi-imatge de la destinació i també tenen la capacitat per reconèixer i rebutjar les flamarades dispensades d'aeronaus.
+
+==== Quarta generació ====
+
+Míssils de quarta generació, com ara el [[FIM-92 Stinger|Stinger Bloc 2]] dels EUA, i els míssils sota el desenvolupament de Rússia, Japó, França i Israel podrien incorporar els sistemes pla de gamma focal d'orientació i altres sistemes de sensors avançats que permetin multiplicar les actuacions en grans distàncies.
+
+=== Comandes de línia de visió ===
+[[File: Blowpipe missile 2.JPG|thumb|Soldats canadencs amb vestits NBC entrenant amb un [[míssil Blowpipe]].]]
+Comando de línia de visió (''Command Line-of-Sight'', per les seves sigles en anglès CLOS). Es diu així als míssils que detecten mitjançant una font de calor o mitjançant de les transmissions de ràdio o de radar de l'aeronau específica. Una vegada detectat, l'operador de míssils o artiller visual adquireix el comandament amb una magnifica vista òptica i després utilitza els controls de ràdio per volar els míssils cap al blanc. Un dels beneficis dels míssils d'aquest tipus és que és pràcticament immune a les bengales i altres sistemes de contramesures de base que estan dissenyats principalment per derrotar als míssils d'infraroigs. El major inconvenient dels míssils CLOS és que requereixen els operadors altament capacitats i qualificats. Nombrosos informes de la guerra afganès-soviètica en la [[dècada de 1980]], citen els [[mujahidins]] de l'[[Afganistan]] com decebuts amb els britànics proporcionats amb [[Blowpipe]] (míssils CLOS ), perquè era massa difícil d'aprendre a utilitzar i molt imprecises, especialment quan s'utilitza contra el ràpid moviment d'avions de reacció. Ateses aquestes consideracions, molts experts creuen que els míssils CLOS no són els ideals per a ser usats contra un caça, com ho són els míssils d'infraroigs, que de vegades es coneixen com dispara i oblida.
+
+Les versions posteriors de míssils CLOS, com ara el [[Javelin]] britànic, utilitza un sòlid estat de càmeres de televisió en lloc de les òptiques tracker per fer la tasca del artiller més fàcil. El fabricant de la Javelin, [[Thales Air Defenses]] va exposar que els seus míssils de defensa són virtualment impermeables a les contramesures. Fins i tot les versions més avançades dels míssils CLOS, com el [[Starburst]] britànic, té un enllaç de dades per làser en lloc d'enllaços de ràdio d'orientació abans de volar el míssil a la objectiu.
+
+=== Guiats per làser ===
+Els míssils d'espatlla SAM guiat per làser, utilitzen el làser per guiar els míssils a la meta. El míssil vola al llarg del feix de làser i als blancs de l'aeronau en què l'operador de míssils o artiller apunta el làser. Com ara els míssils [[RBS-70]] de [[Suècia]] i [[Starstreak]] de [[Gran Bretanya]] poden atacar els avions des de l'exterior, i només exigir a l'operador que rastregi contínuament la meta amb un [[joystick]] per mantenir el punt de mira de làser en el blanc. Perquè no hi ha enllaços de dades des del terra fins que el míssil, el míssil no pot ser movible després que es va posar en marxa. Aquesta tècnica es coneix com muntar Manga. El futur SAM guiat per làser pot exigir a l'operador perquè designi a la meta d'una sola vegada i no manualment mantenir un punt de mira làser continu en l'aeronau. Tot i que els míssils guiats per làser requereixen una formació relativament àmplia i habilitat per funcionar, molts experts consideren que aquests míssils són particularment amenaçadors a les mans dels terroristes a causa de la resistència dels míssils a les contramesures més convencionals actualment en ús.
+
+== Vegeu també ==
+* [[Defensa antiaèria]]
+* [[Contramesures d'infrarojos]]
+
+== Referències ==
+references /
+
+{{Commonscat|Man-portable air-defense systems}}
+
+{{ORDENA:Sistema De Defensa Aeria Portatil}}
+
+[[Categoria:Seguretat i defensa]]</text>
+      <sha1>onpllgrjy3mcs7322cbyzelpqswz31w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

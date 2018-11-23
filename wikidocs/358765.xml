@@ -1,0 +1,100 @@
+<page>
+    <title>Jan Lukasiewicz</title>
+    <ns>0</ns>
+    <id>358765</id>
+    <revision>
+      <id>13848146</id>
+      <parentid>13568656</parentid>
+      <timestamp>2014-07-16T17:35:19Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Infotaula Cientific
+|nom = Jan Łukasiewicz
+|taula_amplada = 
+|imatge = Jan Łukasiewicz.jpg
+|imatge_amplada = 
+|llegenda = Jan Łukasiewicz (1935)
+|data_naixement = {{Data naixement|1878|12|21}}
+|lloc_naixement = [[Lviv|Lemberg]], [[Galítsia]], [[Imperi austrohongarès|Àustria-Hongria]]
+|data_mort = {{Data defunció i edat|1956|02|13|1878|12|21}}
+|lloc_mort = [[Dublín]]
+|residencia = 
+|ciutadania = [[Polònia|polonès]]
+|nacionalitat = 
+|etnicitat = 
+|camp = [[matemàtica]]
+|institucions_treb = 
+|alma_mater = 
+|assessor_doctor = 
+|estudiants_doctor = 
+|conegut_per = [[notació polonesa]]
+|autor_abrev_bot = 
+|autor_abrev_zoo = 
+|influencia = 
+|influenciat_per = 
+|premis = 
+|religio = [[Catolicisme|catòlic]]
+|signatura =
+|notes_peu = 
+}}
+'''Jan Łukasiewicz''' ([[21 de desembre]] de [[1878]] – [[13 de febrer]] de [[1956]]) va ser un [[matemàtic]] [[Polònia|polonès]] nascut a [[Lviv|Lemberg]], [[Galítsia]], [[Imperi austrohongarès|Àustria-Hongria]] (avui [[Lviv]], [[Ucraïna]]). El seu principal treball matemàtic fou centrat al voltant de la [[lògica matemàtica]]. Va pensar de forma innovadora sobre la [[lògica proposicional]] tradicional, el [[principi de no-contradicció]] i la [[llei del tercer exclòs]]. Fou l'inventor de la [[notació polonesa]], entorn de 1920.
+
+== Vida i obra ==
+
+Un gran nombre d'axiomatizacions de la [[lògica proposicional]] es deuen a Łukasiewicz. Encara avui fem servir la seva axiomatització particularment elegant en solament tres axiomes. Pioner e investigador de la lògica multi-valor, va introduir el seu càlcul proposicional de tres valors a 1917. Va ser el primer a axiomatitzar explícitament el càlcul lògic no classic. Va escriure sobre la filosofía de la ciència. La seva aproximació a la creació de la teoria de la ciència més comunament acceptada es pot comparar a la del pensament de [[Karl Popper]].
+
+Łukasiewicz va inventar la [[notació polonesa]] (d'aquest nom per la seva nacionalitat) per les connexions lògiques a 1920. Aquesta notació és l'arrel de la idea de [[Memòria en pila (estructura de dades)|pila recursiva]], una [[memòria d'ordinador]] amb un funcionament de que el darrer en entrar és el primer a sortir, proposada per alguns investigadors com [[Alan Turing|Turing]], Bauer i Hamblin, i implementada per primera vegada a 1957. Aquest disseny va portar al ordinador XDF9 multi-programat d'«English Electric» a 196, el qual tenia dos piles de registres per hardware d'aquesta mena. Un concepte similar hi ha darrere de la [[notació polonesa inversa]] (RPN, una notació de tipus postfix) a la calculadora Friden EX-130 i les seves successores, moltes calculadores [[Hewlett Packard]], el [[llenguatge de programació]] [[Forth]] o el [[llenguatge de descripció de pàgines]] [[PostScript]].
+
+Al començament de la [[Segona Guerra Mundial]] va treballar en la ''Universitat secreta de Varsòvia'' («Uniwersytet Tajny Warszawski»), però al final de la guerra va trobar refugi a l'[[Alemanya nazi]] al poble de [[Hembsen]], on va anar per la seva pròpia seguretat. En acabar la guerra va emigrar a Irlanda on va treballar a la [[Universitat de Dublín]] fins a la seva mort.
+
+== Cronologia ==
+
+* 1878 - naixement
+* 1890-1902 - Estudis amb [[Kazimierz Twardowski]] en [[Lviv|Lemberg]] (Lwów, L'viv)
+* 1902 - doctorat (matemàtiques i filosofia), Universitat de Lemberg, amb la distinció més alta possible
+* 1906 - acabat la tesi d'habilitació, Universitat de Lemberg (Lwów, L'viv)
+* 1906 - es fa conferenciant
+* 1910 - assajos en el principi de no-contradicció i del tercer exclòs
+* 1911 - professor extraordinari a Lemberg (Lwów, L'viv)
+* 1915 - convidat al novament reoberta Universitat de Varsòvia
+* 1916 - declarat nou Regne de Polònia
+* 1917 - desenvolupa nous càlculs proposicionals
+* 1919 - ministre polonès d'educació
+* 1920-1939 - professor a Universitat de Varsòvia; funda amb [[Stanisław Leśniewski]] el Escola de Lwów-Varsòvia de lògica (vegeu també [[Alfred Tarski]], [[Stefan Banach]], [[Hugo Steinhaus]], [[Zygmunt Janiszewski]], [[Stefan Mazurkiewicz]])
+* 1928 - es casa amb Regina Barwińska
+* 1946 - exili en [[Bèlgica]]
+* 1946 - se li ofereix una càtedra a la University College Dublin
+* 1953 - escriu autobiografia
+* 1956 - mor en [[Dublín]]
+
+== Curiositats ==
+
+* L'[[asteroide]] ''27114 Lukasiewicz'' va ser batejat en honor seu.
+* Una notació inspirada en la de Łukasiewicz només que postfix en comptes de prefix, denominada [[notació polonesa inversa]], roman en ús en algunes de les calculadores de la [[Hewlett-Packard]] com la HP 12C, així com en els llenguatges de programació [[Postscript]] i [[Forth]].
+
+== Lectura complementària ==
+*{{ref-llibre  |cognom=Łukasiewicz |nom=Jan |enllaçautor=Jan Łukasiewicz | títol=Aristotle’s Syllogistic from the Standpoint of Modern Formal Logic | editorial=Oxford University Press | any=1957}} Reimprès per ''Garland Publishing'' en 1987. ISBN 0-8240-6924-2
+*{{ref-llibre  |cognom=Łukasiewicz |nom=Jan |enllaçautor=Jan Łukasiewicz | títol=Elementy logiki matematycznej. | editorial=[[Varsòvia]], Państwowe Wydawnictwo Naukowe | any=1958 | llengua=polonès }}
+*{{ref-llibre  |cognom=Łukasiewicz |nom=Jan |enllaçautor=Jan Łukasiewicz | títol=Elements of Mathematical Logic. Translated from Polish by Olgierd Wojtasiewicz. | editorial=New York, Macmillan | any=1964  | llengua=polonès }}
+*{{ref-llibre  |cognom=Łukasiewicz |nom=Jan |enllaçautor=Jan Łukasiewicz |editor=Ludwik Borkowski | títol=Selected Works | editorial=North-Holland Pub. Co. | any=1970 |isbn=0720422523}}
+*{{ref-llibre  |títol=Aristotle  Łukasiewicz on the Principle of Contradiction |nom=Frederick |cognom=Seddon |enllaçautor=Frederick Seddon |editorial=Ames, Iowa: Modern Logic Pub. |any=1996 |isbn=1884905048}}
+*{{ref-llibre  |títol=Philosophical Logic in Poland |nom=Jan |cognom=Wolenski |enllaçautor=Jan Wolenski |editorial=Kluwer Academic Publishers |any=1994 |isbn=0792322932 }}
+
+== Enllaços externs ==
+* [http://www.webcitation.org/query?id=1256542578371413url=es.geocities.com/fisicas/cientificos/matematicos/lukasiewicz.htm Jan Lukasiewicz]-{{es}}
+* Jan Woleński. ''[http://projecteuclid.org/DPubS?service=UIversion=1.0verb=Displayhandle=euclid.rml/1204835353 Jan Łukasiewicz on the liar paradox, logical consequence, truth, and induction]''. Mod. Log. Volume 4, Número 4 (1994), 392-400. {{en}}
+{{Autoritat}}
+
+{{ORDENA:Lukasiewicz, Jan}}
+
+[[Categoria:Matemàtics polonesos]]
+[[Categoria:Persones de Lviv]]</text>
+      <sha1>8e29z5ples5j5tqb48eplt92r39uupf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

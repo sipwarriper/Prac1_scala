@@ -1,0 +1,94 @@
+<page>
+    <title>Qualitat</title>
+    <ns>0</ns>
+    <id>268104</id>
+    <revision>
+      <id>13860331</id>
+      <parentid>13618149</parentid>
+      <timestamp>2014-07-17T19:54:48Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: necesitats  necessitats</comment>
+      <text>{{Polisèmia|Qualitat (desambiguació)}}
+La '''qualitat''' és formalment, segons les normatives [[ISO 9000|ISO 9000:2000]], el grau en què un conjunt de característiques s'adapta als [[requeriment]]s d'un [[producte]], [[sistema]] o [[servei]]. Inclou un màxim de [[defecte]]s, que pot no ser [[zero|nul]], comunament establert i pactat entre els diferents usuaris, i en particular entre el que ofereix el producte, sistema o servei i qui el rep.
+
+== Evolució històrica ==
+La gestió i organització econòmica, política i empresarial ha estat orientada a donar prioritat a una alta quantitat de producció en situacions a les quals la [[demanda]] havia estat molt superior a la capacitat d'[[oferta]], el client comprarà el que hi ha perquè no té alterntives millors, o accepta el que hi ha o es queda sense. En canvi, quan els processos es fan massius, apareix més competència o qualsevol altra cosa que faci que la demanda sigui inferior a la capacitat d'oferta, és quan hom comença a orientar-se a la qualitat front a la quantitat.ref name=upc16''Métodos estadísticos. Control y mejora de la calidad''. Volum I, pàg.16. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas, Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya, 1997. ISBN 84-8301-222-7/ref
+
+A continuació describiem les principals fases històriques per les quals ha passat el concepte de qualitat i la seva gestió des dels seus inicis fins a l'actualitat:
+
+=== Inspecció ===
+El mètode que primer es va fer servir per al control de la qualitat, si bé actualment es considera inadecuat i obsolet, és el de la [[inspecció]], tant en la forma exhaustiva (quan es verifica un per un el 100% de producte obtingut) com en la versió de mostreig estadístic (es verifica un producte final a l'atzar de tant en tant).ref name=upc17/
+
+La finalitat de la inspecció consisteix a separar el producte defectuós, o que no compleix la totalitat de requeriments previstos, just abans que no arribi al [[mercat]], quan ja s'ha dissenyat, produït i completament acabat.ref name=upc17/
+
+Es tracta d'una activitat molt costosa, no productiva i que pateix el risc que és possible donar per bo productes que a la inspecció es consideren acceptables però que en realitat no ho són.ref name=upc17''Métodos estadísticos. Control y mejora de la calidad''. Volum I, pàg.17. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas, Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya, 1997. ISBN 84-8301-222-7/ref
+
+=== Control Estadístic de Processos ===
+El [[Control Estadístic de Processos]] (en [[català]], CEP; en [[anglès]], ''SPC'') va aconseguir millorar una mica la inspecció, desplaçant-la una etapa, al procés de [[fabricació]]. El CEP va néixer abans de la [[Segona Guerra Mundial]], i es va desenvolupar a partir dels treballs de W. Shewhart publicats el [[1931]]. Consisteix a minimitzar la producció d'unitats defectuoses per mitjà de la disminució entre el temps entre el moment en què es produeix el defecte i el temps d'identificació d'aquest, a més de les seves causes, per tal que no es repeteixi. El CEP no representa una substitució total de la inspecció, ja que aquesta pot ser igualment necessària després d'aquest.ref name=upc17/
+
+=== Qualitat en l'actualitat ===
+Avui dia el control de la qualitat ha evolucionat molt, ha millorat i ha passat de ser una actuació puntual a un procés globalitzador, que inclou tot el [[cicle de vida]] del producte, a partir del seu [[disseny]]. Així, la qualitat es determina abans de la concepció del producte, determinada per les necessitats i expectatives del client (no de l'empresa, com s'havia fet abans), actuant ja sobre els proveïdors i usant una sèrie d'eines variades al llarg de tot el procés. Algunes d'aquestes eines són el [[disseny d'experiments]] (en anglès, DEV), el [[desenvolupament de la funció de qualitat]] (en anglès, ''Quality Function Deployement'', QFD) o les [[eines d'Ishikawa]], per exemple. És el que hom ha vingut a anomenar ''[[qualitat total]]''.ref name=upc18''Métodos estadísticos. Control y mejora de la calidad''. Volum I, pàg.18. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas, Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya, 1997. ISBN 84-8301-222-7/ref
+
+== Activitats de la qualitat ==
+L'actual qualitat compren en realitat tres activitats diferenciades: el [[manteniment]], la [[millora contínua]] i la [[innovació]].ref name=upc18/
+* '''[[Manteniment]]''': Inclou l'[[estandardització]] de les [[tecnologia|tecnologies]] utilitzades, de l'[[organització]] i d'[[operació]]; el seguiment i control d'aquest estàndards i la [[responsabilitat]] per part de la gestió de l'empresa per a donar tot el [[temps]], [[formació]], [[recursos econòmics]] i [[recursos materials|materials]] necessaris perquè es puguin fer. Al dia a dia són els operadors els que dediquen una major part de temps a aquestes activitats, tot i que els caps intermedis també hi dediquen una petita part.ref name=upc18/
+* '''[[Millora contínua]]''' (en [[japonès]], ''kaizen''): La seva funció principal és millorar contínuament i cada vegada més els estàndards i prodeciments del manteniment. Està demostrat que tots els processos generen informació, i només si ningú n'ha fet cap mena de seguiment, o no l'ha fet prou bé, no s'aconsegueix una modificació (s'entén que a millor) d'un procés, producte o estàndard en com a molt sis mesos. És a dir, que si hi ha ''Kaizen'' o millora contínua, hom pot assegurar una millora almenys cada mig any. Aquesta activitat és cíclica i es basa en la [[seqüència Planificació - Execució - Avaluació -Actuació]] (en anglès, PDCA).ref name=upc18/ S'hi dediquen sobretot els capataços i també, menys, els operadors.ref name=upc19''Métodos estadísticos. Control y mejora de la calidad''. Volum I, pàg.19. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas, Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya, 1997. ISBN 84-8301-222-7/ref
+* '''[[Innovació]]''': Inclou una sèrie d'activitats sistemàtiques per a crear productes i serveis amb funcions, operativitat, costos, etc. mai experimentats abans. S'hi dediquen principalment els caps amb forts coneixements tècnics i l'alta direcció.ref name=upc19/
+
+== Els tres pilars de la qualitat ==
+La qualitat tal com s'entén actualment, o [[qualitat total]], està basada en teories desenvolupades per Juran i Gryna ([[1980]]), Deming ([[1982]]), [[Kaoru Ishikawa|Ishikawa]] ([[1985]]) i altres autors. Avui hi ha un consens en què els pilars de la gestió de la qualitat total són:ref name=upc20''Métodos estadísticos. Control y mejora de la calidad''. Volum I, pàg.20. Albert Prat Bartés, Xavier Tort-Martorell Llobés, Pere Grima Cintas, Lourdes Pozueta Fernández. Edicions Universitat Politècnica de Catalunya, 1997. ISBN 84-8301-222-7/ref
+* una [[cultura]] de qualitat,ref name=upc20/
+* sistemes i [[recursos humans]] iref name=upc20/
+* la utilització de l'[[estadística]].ref name=upc20/
+
+== Algunes eines per a la gestió i control de la qualitat ==
+A banda de les ja mencionades, altres eines que s'utilitzen habitualment a la [[TQM|gestió i al control de la qualitat]] són:
+* [[Sis sigma]] i [[cinc sigma]]
+* [[Poka-Yoke]]
+* [[AMFE]], anàlisi modal de fallades i els seus efectes
+* [[Minitab]], programa informàtic per a l'estudi estadístic de la qualitat
+
+== Alguns models de gestió i control de la qualitat ==
+Els models de gestió i control de la qualitat més habituals i demanats als [[Països Catalans]] són els següents:
+* La norma [[ISO 9000]] de l'any [[2000]], anomenada [[ISO 9000: 2000]], o millor la més recent de l'any [[2008]], la [[ISO 9000:2008]]. Les versions anteriors a l'any 2.000 no corresponen encara a la [[qualitat total]]. Hi ha moltres altres normes internacionals ISO; per exemple, la [[ISO 14000]] afecta al [[medi ambient]].
+* [[EFQM 2010]], el darrer model europeu de la ''[[European Foundation for Quality Management]]''.
+* Model [[Servqual]] per a la qualitat als [[servei]]s.
+* Les recomanacions de l'''[[Asociación española para la calidad]]'' (AEC).
+
+== Filosofies diverses ==
+Moltes tècniques diferents i conceptes han evolucionat per a millorar la qualitat dels productes i serveis, incloent el Control Estadístic de Processos (CEP), Zero Defectes, Sis Sigma, Premi Nacional dels Estats Units a la Qualitat ''Malcolm Baldrige'', cercle de qualitat, [[Teoria de les restriccions]] (TOC), models de gestió de la qualitat (ISO 9000 i altres) i millora contínua.
+
+A continuació es donen diverses interpretacions per al terme ''qualitat'':
+# Philip B. Crosby als [[1980]]s: Conformitat amb els requeriments. El problema d'aquesta és que els requeriments poden no representar completament les expectatives del client; Crosby tracta això com un problema separat.
+# Joseph M. Juran: Idoneitat per a ser utilitzat. La idoneitat és definida per l'usuari.
+# Noriaki Kano i altres: Model bidimensional de qualitat. La qualitat té dues dimensinos: la qualitat imprescindible i la qualitat atractiva. La primera és propera a la idoneitat per a ser utilitzat, mentre que l'última és allò que a l'usuari li encantaria, encara que no ho hagi pensat. Els defensors d'aquesta definició caracteritzen aquest model més breument com: Productes i serveis que assoleixen o superen les expectatives dels usuaris.
+# Gerald M. Weinberg: Valor per a alguna persona.
+# W. Edwards Deming: A Qualitat i l'estil necessari de gestió (1988), [http://www.deming.org/ WEb de Deming]. El cost baixa i la productivitat puja, a mesura que la millora de la qualitat és assolida per una millor gestió del disseny, l'enginyeria, les proves i els processos. La millor qualitat a un preu menor té una oportunitat de capturar el mercat. Retallar costos sense millorar la qualitat és en va.
+# Genichi Taguchi: La definició de Taguchi es basa en una visió més exhaustiva del sistema de producció, i relaciona la qualitat (o, més acuradament, la manca d'aquesta) a La pèrdua que un producte imposa a la societat després de sortir a la venda
+# ''Energy quality'', associada tant amb l'enginyeria d'energia de sistemes industrials i les diferències qualitatives als nivells tròfics d'un ecosistema.
+# ''Associació Americana per a la Qualitat'': [http://www.asq.org/glossary/q.html Font]. Un terme subjectiu per al que cada persona té la seva pròpia definició. 
+# La qualitat d'un producte es refereix a la percepció del grau en què el producte o el servei assoleix les expectatives de l'usuari. La qualitat no té un significat específic, a menys que es relacioni amb una funció o objecte específic. La qualitat és un atribut perceptual, condicional i d'alguna forma subjectiu.
+# Les dimensions de la qualitat es refereixen als atributs que la qualitat assoleix a la [[Gestió d'operacions]]: La qualitat contribueix a la fiabilitat, la fiabilitat contribueix a la velocitat, la velocitat contribueix a la flexibilitat i la flexiblitat contribueix al cost: Qualitat ↔ Fiabilitat ↔ Velocitat ↔ Flexibilitat ↔ Cost
+# Existeix una característica de la qualitat moderna que és universal. En el passat, quan s'intentava millorar la qualitat, típicament definida com a produir menys parts defectuoses, es va fer això a expenses d'un major cost, temps de producció, temps de cicle, etc. Es pensava que no es podien obtenir menys parts defectuoses i un cost menor i un cicle de producció més curt, etc. No obstant això, quan les tècniques modernes de qualitat s'apliquen correctament als negocis, enginyeria, fabricació o processos de muntatge, tots els aspectes de la qualitat - [[satisfacció del client]] ''i'' menys defectes/errors ''i'' temps de cicle ''i'' temps/productivitat de tasques ''i'' cost total, etc. - han de millorar o, si un d'aquests aspectes no millorar, s'ha de mantenir almenys estable i no empitjorar. Així, a qualitat moderna té la característica de què crea beneficis conjuntius, no exclusius.
+# La visió més progressista de qualitat és la de què és definida enterament per l'usuari i està basada en l'avaluació d'aquesta persona de la seva experiència completa com a usuari. L'experiència de l'usuari és la suma de tots els punts de contacte que els clients tenen amb els productes i serveis de la companyia, per definició una combinació d'aquestes. Per exemple, cada cop que algú compra un producte es forma una impressió basada en com va ser venut, com va ser entregat, com va funcionar, com va ser suportat, etc.
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.aec.es/web/guest AEC - Asociación Española para la Calidad] {{es}}
+* [http://ww1.efqm.org/en/ European Foundation for Quality Management] {{en}}
+* [http://www.iso.org/iso/iso_catalogue/management_standards/iso_9000_iso_14000/iso_9000_essentials.htm ISO 9000:8000] a la web de la [http://www.iso.org/iso/home.htm International Organization for Standardization] (ISO) {{en}} {{fr}}
+
+== Referències ==
+references/
+
+[[Categoria:Qualitat| ]]</text>
+      <sha1>cxw8t2ddv44pjvhhh5ympzk5c7rp8az</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

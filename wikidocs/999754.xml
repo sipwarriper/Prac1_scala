@@ -1,0 +1,115 @@
+<page>
+    <title>Boeing B-17 Flying Fortress</title>
+    <ns>0</ns>
+    <id>999754</id>
+    <revision>
+      <id>13902044</id>
+      <parentid>13899736</parentid>
+      <timestamp>2014-07-30T01:30:29Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot catalanitza noms i paràmetres de plantilles</comment>
+      <text>{{Fitxa d'aeronau
+ |nom = Boeing B-17 Flying Fortress
+ |tipus = [[Bombarder]] pesat / estratègic
+ |fabricant = [[Boeing]]
+ |imatge = Fitxer:Color Photographed B-17E in Flight.jpg
+ |peu de foto = Boeing B-17E
+ |dissenyador = 
+ |primer vol = [[28 de juliol]] de [[1935]]
+ |introduït = [[abril]] de [[1938]]
+ |retirat = [[1968]] de la Força Aèria Brasilera
+ |estat = 
+ |usuari = 
+ |altres usuaris = 
+ |producció = 1936–1945
+ |unitats construïdes = 12.731ref name=Yenne.p8Yenne 2006, p. 8./ref
+ |cost unitari =238.329 dòlars americansref name=Bowers1976.p12Bowers 1976, p. 12./ref
+ |variants amb el seu propi article =
+}}
+
+El '''Boeing B-17''' va ser un [[bombarder]] estratègic fet servir per la força armada dels [[Estats Units d'Amèrica]] i altres aliats durant la [[Segona Guerra Mundial]]. El B-17 va ser àmpliament utilitzat per la [[USAAF]] en les missions de bombardeig diürn a Alemanya.
+
+==Desenvolupament==
+===Orígens===
+{{imatge múltiple|direcció= vertical
+ |amplada= 220
+ |imatge1=Boeing XB-17 (Model 299).jpg
+ |peu1= Model 299 ''NX13372''
+ |imatge2=Boeing XB-17 (Model 299) nose turret with gun.jpg
+ |peu2= Torreta frontal instal·lada al prototip
+ |imatge3=Boeing Model 299 crash.jpg
+ |peu3= Model 299 estavellat
+ |imatge4=Boeing Y1B-17 in flight.jpg
+ |peu4= Boeing Y1B-17 en vol
+}}
+El 8 d'agost de 1934, l'[[Exèrcit dels Estats Units d'Amèrica]] (USAAC) va fer pública una proposta d'un bombarder multi-motor per substituir el [[Martin B-10]]. L'Air Corps buscava un bombarder capaç de reforçar les bases llunyanes de Hawaii, Panamà i Alaska.refTate 1998, p. 164/ref Es requeria que el disseny fos capaç de transportar una càrrega útil de bombes a una altura de 10.000 peus (3.048 m) amb una autonomia de 10 hores de vol. A més calia una velocitat punta almenys 200 milles/h (322 km/h).refSwanborough and Bowers 1963, p. 74/ref També volien, però no exigien, un abast de 2.000 milles (uns 3.200 km) i una velocitat punta de 250 milles/h (402 km/h).
+
+La competició es va realitzar entre 3 models: el prototip del B-17 de Boeing, el [[Douglas B-18 Bolo|Douglas DB-1]] i el [[Martin Model 146]]. L'avaluació ocmparativa es va realitzar a l'aeròdrom de ''Wright Field'' a Dayton, [[Ohio]].
+
+El prototip del B-17, anomenat Model 299, va ser dissenyat per un equip d'enginyers lideratper E. Gifford Emery i Edward Curtis Wells i es va finançar amb recursos propis de Boeing.refHess and Winchester Wings of Fame 1997, p. 41/ref Combinava elements del bombarder experimental XB-15 i l'avió de transport [[Boeing 247]].L'armament del B-17's consistia en 4.800 lliures de bombes (2.180 kg) en dues fileres disposades darrere la cabina de vol. Inicialment l'armament defensiu estava format per 5 [[metralladora|metralladores]] de calibre 7,62 mm (0,30 plosades). La planta motriu estava formada per 4 motors radials [[Pratt  Whitney R-1690]] Hornet cadascun produint 750 CV a 7000 peus.refBowers 1989, pp. 291–292/ref
+
+==Especificacions (B-17G)==
+[[Fitxer:Boeing B-17G.png|350px|thumb|right|Vistes d'una projecció del B-17G]]
+
+{{Especificacions aeronau
+|plane or copter?=plane
+|jet or prop?=prop
+|ref = The Encyclopedia of World Aircraftref name=DonaldDonald 1997, p. 155./ref
+|crew = 10:Pilot, copilot, navegador, bombarder/artiller de proa, enginyer de vol/artiller de la torreta superior, operador de ràdio, 2 artillers laterals, artiller de la torreta ventral i artiller de cua.
+|length main = 22,66 m
+|span main = 31,62 m
+|aspect ratio = 7,57
+|height main =5,82 m
+|area main =131,92 msup2/sup
+|airfoil = NACA 0018 / NACA 0010
+|empty weight main = 16.391 kg
+|loaded weight main = 24.500 kg
+|max takeoff weight main = 29.700 kg
+|engine (prop) = Wright R-1820-97 Cyclone
+|type of prop = [[motor radial]] amb turbo
+|number of props = 4
+|power main = 1.200 [[cavall de vapor|CV]]
+|power alt = 895 kW
+|max speed main = 249 nusos(462 km/h)
+|cruise speed main = 158 nusos (293 km/h)
+|range main = 1.738 milles nàutiques, 3,219 km
+|range more = amb 2.700 kg de bombes
+|ceiling main = 10.850 m
+|climb rate main = 4,6 m/s
+|loading main = 185,7 kg/msup2/sup
+|power/mass main = 150 W/kg
+|more performance =
+|guns = 13 [[metralladora|metralladores]] de calibre 12,7 mm ''M2 Browning'' en 8 [[torreta|torretes]]: frontal, ventral, dorsal, dorsal posterior, de cua i 2 laterals
+|bombs =br /
+** '''Missions de curt abast (640 km):''' 3.600 kg
+** '''Missions de llarg abast (≈1.290 km):''' 2.000 kg
+** '''Càrrega màxima:''' 7.800 kg
+}}
+
+==  Video ==
+*[http://www.military.com/video/aircraft/attack-and-fighter-aircraft/b-17-flying-fortress-bombing-mission/3147362368001/ B-17 Flying Fortress Bombing Mission] on  military.com
+
+== Referències ==
+{{Commonscat|B-17 Flying Fortress}}
+
+Notes:
+{{referències|2}}
+Bibliografia:
+* Bowers, Peter M. ''Fortress in the Sky''. Granada Hills, California: Sentry Books Inc., 1976. ISBN 0-913194-04-2.
+* Donald, David. Boeing Model 299 (B-17 Flying Fortress). ''The Encyclopedia of World Aircraft''. Etobicoke, Ontario, Canada: Prospero Books, 1997. ISBN 1-85605-375-X.
+* Tate, Dr. James P. The Army and its Air Corps: Army Policy toward Aviation 1919–1941. Maxwell Air Force Base, Alabama: Air University Press, 1998. ISBN 1-4289-1257-6.
+* Yenne, Bill. ''B-17 at War''. St. Paul, Minnesota: Zenith Imprint, 2006. ISBN 0-7603-2522-7.
+
+[[Categoria:Avions de la Segona Guerra Mundial]]
+[[Categoria:Avions de Boeing|B-17 Flying Fortress]]
+[[Categoria:Bombarders]]
+
+{{Enllaç AD|vi}}</text>
+      <sha1>hhehg8seq5x8hgdyyuen116gkj70lnq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

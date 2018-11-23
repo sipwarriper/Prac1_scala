@@ -1,0 +1,84 @@
+<page>
+    <title>Sinterització metàl·lica</title>
+    <ns>0</ns>
+    <id>887482</id>
+    <revision>
+      <id>13750035</id>
+      <parentid>13013850</parentid>
+      <timestamp>2014-07-05T13:14:55Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: respecte l'obtinguda  respecte a l'obtinguda</comment>
+      <text>[[File:Peces sinterització.jpg|thumb|Peces realitzades per sinterització metàl·lica]]
+La '''sinterització''' és un [[procés de fabricació]] basat en la compactació de materials en pols mitjançant [[pressió]] i [[temperatura]]. La sinterització és utilitzada principalment en la fabricació de peces [[Metalls|metàl·liques]].
+
+==Història==
+Els inicis de la sinterització són a Egipte (3000 aC) on utilitzaven processos rudimentaris de compactació del [[ferro]] per a la fabricació d'eines i altres. Més tard, els Inques van fabricar joies i altres artefactes a partir de pols de materials preciosos.
+La fabricació en serie de productes sinteritzats aparegué a mitjanç del segle dinou on es feia servir per a la producció de monedes de coure, medallons, lingots de [[platí]] i cables de [[tungstè]], el material primari pels filaments de les bombetes. Durant la Segona Guerra Mundial s'experimentà un ràpid desenvolupament tecnològic basat principalment en l'[[automatització]] de processos i en la substitució del coure pel ferro i l'[[acer]] com a sinteritzats dominants. Els productes d'alta [[densitat]] van aparèixer a la dècada del 60 mentre durant els 70s, 80s i 90s es comercialitzà la [[pols de ràpida solidificació]] alhora que les noves tecnologies d'[[injecció de polímers]]. Des de la dècada dels 90 fins a l'actualitat la producció de peces per sinteritzat ha anat augmentant tant en nombre com en varietat al realitzar-se peces d'[[aliatges]], ceràmiques i [[plàstics]].
+
+==Materials==
+Les característiques dels productes sinteritzats depenen altament no només del material utilitzat sinó de les característiques de la pols del material (dimensions, forma, puresa de les partícules). Per a l'obtenció d'aquesta pols hi ha diversos mètodes: Atomització del metall fos, atomització mitjançant la rotació d'un [[elèctrode]], reducció química de partícules compostes, [[polvorització]], [[precipitació química]] de solut, [[condensació]] de vapors metàl·lics. 
+
+Els materials més utilitzats en processos de sinteritzat metàl·lic són:
+;Metalls fèrrics: [[Ferro]], [[ferro]] + [[coure]], [[ferro]] + [[carbó]] + [[coure]].
+;Metalls no fèrrics: [[Llautó]], [[plata]]-[[níquel]], [[alumini]]
+
+==Procés==
+El procés de sinteritzat es divideix en quatre etapes: barreja, compactació, sinteritzat i operacions d'acabat.
+
+===Barreja===
+Rarament la sinterització d'un únic material en pols ens permetrà obtindre una peça amb les característiques mecàniques desitjades. Habitualment la sinterització es realitza amb una barreja de materials en pols variats més [[additius]] com poden ser [[lubricants]] o [[Aglutinant (química)|aglutinant]]. En aquesta primera etapa es barregen les partícules dels diferents materials fins a obtindre una pols [[homogènia]].
+
+===Compactació===
+[[File:Compactació.jpg|thumb|Detall de l'estructura interna d'un metall conforme es va compactant]]
+Mitjançant una [[premsa hidràulica]], mecànica o mixta i el motllo adequat, es compacte el material en pols obtenint el que es coneix com peça en verd. Aquesta compactació es pot realitzar a temperatura ambient, en fred, o en calent. De la compactació en calent s'obté una peça amb un augment de la [[densitat]] de 0,1 - 0,2 g/cmsup3/sup respecte a l'obtinguda en fred.
+El factor fonamental de l'etapa de compactació és la [[pressió]] aplicada al material, a major pressió major serà la [[densitat]] del material resultant. El procés de compactació es realitza seguint la següent seqüència:
+#S'omple la cavitat del motllo
+# Posicionament inicial del punxons i inici de la compressió
+# Arribada a la posició final dels punxons i final de la compressió
+# Extracció de la peça
+
+En funció de com es realitzi la compressió varia la distribució de la densitat de la peça resultant. Principalment podem distingir dos maneres de realitzar la compressió, en la primera només un punxó aplica la pressió mentre que en la segona la pressió és aplicada pels dos punxons en parts iguals. En el primer cas la densitat del material en la capa de contacte amb el punxó serà superior a la capa inferior mentre que en el segon cas les densitats de les dues capes seran les mateixes.
+
+===Sinterització===
+En aquesta etapa el material compactat es escalfat en una atmosfera controlada (atmosfera sense oxigen) a altes temperatures però per sota del punt de fusió, la majoria de metalls s'escalfen a temperatures d'entre el 70 i el 80% del seu [[punt de fusió]].
+L'etapa de sinterització es divideix en tres fases:
+
+====Preescalfament====
+En aquesta fase s'elimina l'aire, lubricants i aglutinants que interferirien en el bon acabat de la peça, alhora que es va augmentant lentament la temperatura dels compactes. L'augment de la temperatura es fa de manera lenta per evitar pressions internes altes que podrien fracturar la peça.
+
+====Sinteritzat o fase d'alta temperatura====
+És l'etapa on s'estableix la difusió i els vincles entre les diferents partícules permet augmentar la [[Resistència mecànica|resistència]], [[ductilitat]], [[duresa]] i la [[conducció elèctrica]] i [[Conducció tèrmica|tèrmica]] del material.
+
+====Període de refredament====
+Es refreda la peça de manera controlada i progressiva per evitar la possible oxidació i xoc tèrmic que es produiria si es diposités directament a l'aire atmosfèric.
+
+===Operacions d'acabat===
+Un cop realitzada la sinterització es realitzen una sèrie d'operacions que permeten adequar les característiques de la peça per a la seva posterior utilització. Algunes d'aquestes operacions són: [[Calibrat]], [[mecanització]], tractaments tèrmics, ensamblament, [[impregnació]], tractaments superficials.
+
+==Prestacions==
+El sinteritzat presenta certes avantatges respecte d'altres processos de fabricació, les principals són: [[Tolerància de fabricació|Toleràncies]] dimensionals estretes, Mínim mecanització posterior, Es desaprofita poc material, Nivell específic de [[porositat]]: rodament, filtres; Permet combinar metalls difícilment aleables. Facilitat de realitzar fabricació en serie; Estalvi energètic per peça en comparació amb la [[fosa (metal·lúrgia)|fosa]]. Reducció de costos en sèries mitjanes i grans
+ 
+Hi ha una sèrie d'inconvenients alhora de realitzar peces per sinteritzat: Elevat cost dels utensilis, Alt cost per a l'obtenció de la pols metàl·lica, Dificultat d'emmagatzematge i manipulació de la pols metàl·lica, Limitació de la forma de la peça: Trepants o perforacions laterals s'han de realitzar per mecanització posterior. Limitació en l'espessor de les parets de 1,5mm en general. Variació de la [[densitat]] del material en diferents zones de la peça.
+
+== Vegeu també ==
+* [[Titani]]
+* [[Màquina hidràulica]]
+* [[Metal·lúrgia]]
+* [[Siderúrgia]]
+
+==Bibliografia==
+* Bralla, James G. (2007). «Machining Processes» (en anglès). Handbook of Manufacturing Processes (1 edició). Industrial Press, Inc.
+* Vivancos, Joan; Sierra, Cayetano; Ferré, Rafael; Gomà, Joan; Buj, Irene; Rodríguez, Rosa; Costa, Lluís (marzo 2011). «Procesos especiales» (en espanyol). Tecnologías de fabricación. Teoría y problemas.
+
+
+{{ORDENA:Sinteritzacio Metallica}}	!--ORDENA generat per bot--
+[[Categoria:Processos industrials]]</text>
+      <sha1>nznujwofn21mnmc7wggse9170pimzsh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

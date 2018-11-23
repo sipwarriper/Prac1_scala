@@ -1,0 +1,217 @@
+<page>
+    <title>Plasticitat</title>
+    <ns>0</ns>
+    <id>625031</id>
+    <revision>
+      <id>13972020</id>
+      <parentid>13830249</parentid>
+      <timestamp>2014-08-25T22:38:55Z</timestamp>
+      <contributor>
+        <username>JoRobot</username>
+        <id>24498</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot posa sintaxi correcta al tag br</comment>
+      <text>[[Fitxer: Stress-strain1-ca.svg | 350px | thumb | Exemple típic de corba tensió-deformació per a un esforç uniaxial de tracció, en un metall dúctil amb comportament elasto-plàstic: el comportament és elàstic lineal per a petites deformacions (tram recte de color blau) i presenta plasticitat a partir de cert límit.]]
+{{Mecànica dels medis continus|secció=Mecànica dels sòlids}}
+La '''plasticitat''' és la propietat mecànica d'un material, biològic o d'altre tipus, de [[deformació # Deformacions elàstica i plàstica | deformar]] permanentment i irreversible quan es troba sotmès a [[tensió mecànica | tensions]] per sobre del seu rang [[elasticitat (mecànica de sòlids) | elàstic]], és a dir, per sobre del seu [[límit elàstic]].
+
+En els metalls, la plasticitat s'explica en termes de desplaçaments irreversibles de [[dislocació (defecte cristal·lí) | dislocacions]].
+
+== Introducció ==
+En els materials elàstics, en particular en molts metalls dúctils, un [[esforç intern | esforç]] de [[tracció]] petit comporta un comportament elàstic. Això significa que petits increments en la tensió de tracció comporta petits increments en la deformació, si la càrrega es torna zero de nou el cos recupera exactament la seva forma original, és a dir, es té una deformació completament reversible. No obstant això, s'ha comprovat experimentalment que hi ha un límit, anomenat [[límit elàstic]], tal que si certa funció homogènia de les tensions supera aquest límit llavors en desaparèixer la càrrega queden deformacions romanents i el cos no torna exactament a la seva forma. És a dir, apareixen deformacions no reversibles.ref name=upc
+{{citar web
+|títol=Plasticitat
+|cognom1=Apunts amb referències aPrat P. (2000) i Sánchez F. (2004)
+|url=upcommons.upc.edu/pfc/bitstream/2099.1/3435/7/55014-7.pdf
+|editor=UPC
+|consulta=5 d'abril de 2010
+|pàgines=1,2
+}}/ref
+
+Aquest tipus de '''comportament elasto-plàstic''' descrit més amunt és el que es troba en la majoria de metalls coneguts, i també en molts altres materials. El '''comportament perfectament plàstic''' és una mica menys freqüent, i implica l'aparició de deformacions irreversibles per petita que sigui la tensió, l'argila de modelar i la [[plastilina]] s'aproximen molt a un comportament perfectament plàstic. Altres materials a més presenten '''plasticitat amb enduriment''' i necessiten esforços progressivament més grans per augmentar la seva deformació plàstica total. I fins i tot els comportaments anteriors puden anar acompanyats d'efectes viscosos, que fan que les tensions siguin majors en casos de velocitats de deformació altes, aquest comportament es coneix amb el nom de '''visco-plasticitat'''.
+
+La plasticitat dels materials està relacionada amb canvis irreversibles en aquests materials. A diferència del [[elasticitat (mecànica de sòlids) | comportament elàstic]] que és termodinàmicament reversible, un cos que es deforma plàsticament experimenta canvis d'entropia, com desplaçaments de les dislocacions. Al'' 'comportament plàstic''' part de l'[[energia mecànica]] es dissipa internament, en lloc de transformar-se en [[energia potencial | energia potencial elàstica]].
+
+Microscòpicament, en l'escala de la xarxa cristal·lina dels metalls, la plasticitat és una conseqüència de l'existència de certes imperfeccions en la xarxa trucades dislocacions.
+En [[1934]], Egon Orowan, Michael Polanyi i Geoffrey Ingram Taylor, més o menys simultàniament van arribar a la conclusió que la deformació plàstica de materials dúctils podia ser explicada en termes de la teoria de dislocacions. Per descriure la plasticitat normalment es fa servir un conjunt d'equacions diferencials no lineals i no integrables que descriuen els canvis en les components del tensor deformació i el tensor tensió amb respecte a l'estat de deformació-tensió previ i l'increment de deformació en cada instant.
+
+=== Història de la disciplina ===
+La base de la moderna teoria de la plasticitat va ser assentada al [[segle XIX]] amb els treballs de [[Henri Tresca | Tresca]], [[Adhemar Jean Claude Barré de Saint-Venant | Saint-Venant]], [[Maurice Lévy | Lévy]] i [[Johann Bauschinger | Bauschinger]]. A principis del segle XX es van fer alguns avenços en la comprensió del fenomen per part de [[Ludwig Prandtl | Prandtl]], [[Richard von Mises | Von Mises]] i A. Reuss. En aquesta primera fase es va introduir el concepte de deformació irreversible, [[Teories de fallada | criteris d'error]], enduriment i plasticitat perfecta, a més de la forma incremental de les equacions constitutives de la deformació plàstica.
+
+Just després de la [[Segona Guerra Mundial]] van aparèixer els treballs de [[William Prager | Prager]], [[Daniel C. Drucker | Drucker]] i [[Rodney Hill | Hill]] es va aconseguir una major claredat de la formulació i es va establir la [[convexitat]] de les [[Superfície de fluència | superfícies de fluència]]. Poc després, a partir de [[1960]], es van produir alguns avenços matemàtics en la teoria d'equacions en derivades parcials i les desigualtats variacionals que resultarien ser particularment profitosos per a la teoria de la plasticitat. Aquests avenços van provar que el marc natural per resoldre els problemes de valor inicial en sòlids elastoplàstica eren les desigualtats variacionals. La confluència de certs avenços en el terreny de la mecànica de sòlids i les matemàtiques van donar lloc a nous desenvolupaments teòrics, dels quals són un exemple els articles de Moreau, les monografies de [[Georges Duvaut | Duvaut]] i [[Jacques - Louis Lions | JL Lions]] i [[Roger Temam | Temam]].
+
+=== Models de plasticitat ===
+En general un model de plasticitat requereix definir diversos elements:
+* En primer lloc en l'espai de tensions principals es requereix definir l'anomenada '''regió de tensions admissibles''', que serà un [[conjunt tancat]] (i possiblement compacte) d'aquest espai de tensions. La frontera d'aquest conjunt usualment s'anomena '''superfície de fluència'''.
+* Per punts del sòlid les tensions principals estiguin contingudes en l'interior de la regió de tensions admissibles el comportament és elàstic. No obstant això, per a punts de la superfície de fluència és necessari definir una '''regla de flux''' que explicita com augmentaran la deformació plàstica en funció de la taxa d'augment de la tensió i altres paràmetres.
+* Els models de plasticitat imperfecta requeriran la definició d'un conjunt de variables internes que donin compte de l'enduriment i del desplaçament de la regió de tensions admissibles al llarg del temps en funció de les taxes d'augment de les altres variables.
+
+=== Descomposició de la deformació ===
+La descripció d'un material plàstic requereix tant de variables que descriguin la deformació total, com a variables internes math \ xi_k /math que descriguin els canvis irreversibles que tenen lloc a l'interior del material. Aquestes variables intervenen més en les relacions de dissipació del material. Les consideracions termodinàmiques fan que l'[[energia lliure de Gibbs]]''g''[per unitat de volum] estigui relacionada amb l'[[energia lliure de Helmholtz]], ''f'', les tensions i les deformacions mitjà la relació:
+
+mathg(\sigma_{ij},\xi_k) = \left( \sum_{i,j} \sigma_{ij}\varepsilon_{ij} \right)
+- f(\sigma_{ij},\xi_k), \qquad \varepsilon_{ij} = \frac{\part g}{\part \sigma_{ij}}/math
+
+On:
+:math\sigma_{ij}\,/math són les components del [[tensor tensió|tensor de tensions]],
+:math\varepsilon_{ij}\,/math són els components del [[tensor deformació]] i
+:math\xi_k\,/math són un conjunt de variables internes relacionades amb els canvis irreversibles en el material
+La relació anterior implica:
+
+math\dot{\varepsilon_{ij}} = \frac{\part \varepsilon_{ij}}{\part \sigma_{mn}} \dot{\sigma}_{mn} +
+\frac{\part \varepsilon_{ij}}{\part \xi_k} \dot{\xi}_k =
+\mathbf{A}:\boldsymbol{\dot\sigma} + \mathbf{B}\cdot \boldsymbol{\dot\xi}/mathbr/
+Experimentalment es coneix que el [[Constant elàstica # Tensor de constants elàstiques | tensor de complianza]] math \mathbf(A) /math no sembla veure's afectat pels processos irreversibles de deformació plàstica, el que al seu torn implicarà :
+
+math 0 = \frac{\part}{\part \xi_k} \frac{\part \varepsilon_{ij}}{\part \sigma_{mn}} =
+\frac{\part}{\part \sigma_{mn}} \frac{\part \varepsilon_{ij}}{\part \xi_k} =
+\frac{\part \mathbf{B}}{\part \boldsymbol\sigma} /mathbr/
+
+I en aquest cas hi ha una descomposició additiva de la [[deformació]], en deformació elàstica i deformació plàstica, perquè sota l'anterior suposat la ((eqnref | *)) pot ser integrada en la forma:
+
+math \varepsilon_{ij} = \varepsilon^e_{ij}(\boldsymbol\sigma) +
+\varepsilon^p_{ij}(\boldsymbol\xi) /math
+br/
+Per altra banda la'' 'llei de flux''' està limitada per una desigualtat associada a la dissipació plàstica de l'energia. Aquesta desigualtat es deriva de la [[segona llei de la termodinàmica]] en la forma de Clausius-Duhem:
+
+math\dot{f} + s\dot{T} -\boldsymbol\sigma:\dot{\boldsymbol\varepsilon}
++ \frac{\mathbf{q}}{T}\cdot \boldsymbol\nabla T \le 0/math
+br/
+On:
+: math f, s\, /math són l'energia lliure de Helmholtz i la [[entropia]] per unitat de volum.
+: math T, \mathbf(q) /math són la temperatura i el [[flux de calor]] a través de la superificie.
+
+== Equacions constitutives de plasticitat ==
+La [[Llei de Hooke | llei de Hooke]] usada per materials elàstics reversibles i lineals és una equació constitutiva en què les [[tensor tensió | tensions]] es descriuen com el producte de [[càlcul tensorial | components tensorials]] del tensor de [[constant elàstica | constants elàstiques]] per les components del [[tensor deformació]]. En aquesta llei les tensions són combinacions lineals de les deformacions, i no hi ha potència dissipació d'energia i per tant irreversibilitat. Per aquestes raons no poden descriure la plasticitat. De fet la descripció matemàtica de la plasticitat ha d'incloure tant la irreversibilitat o dissipació d'energia com la no-linealitat de les expressions que relacionen tensions i deformacions. De fet, hi ha un bon nombre de models matemàtics de plasticitat amb aquestes característiques. En tots els models de plasticitat la relació entre tensions i deformacions són del tipus:
+{{equació |
+math\sigma_{ij} = C_{ijkl}(\varepsilon_{kl}-\varepsilon_{kl}^p)/math
+|1|left}}
+On en l'equació anterior i en les següents s'usa el [[conveni de sumació d'Einstein]] sobre índexs repetits, i on a més:
+: math C_ (IJKL)\, /math, són les components del tensor de [[constant elàstica | constants elàstiques]] del material.
+: math \varepsilon_ (ij)\, /math, són les components del [[tensor deformació]].
+: math \varepsilon_ (ij)^p\, /math, són les components de la [[Deformació|deformació plàstica]].
+: math \dot\varepsilon_ (ij) \, /math, representen la [[velocitat de deformació]].
+La diferència bàsica entre els diversos models de plasticitat és la [[superfície de fluència]] i per tant la manera en què es computen les deformacions plàstiques, a més de les possibles variacions en la component viscoplàstic. De fet un model de plasticitat a més de l'equació ((eqnref | 1)) necessitareu especificar dues relacions més:
+* Especificació de la superfície de fluència, que relaciona la tensió de fluència math \sigma_y\, /math amb l'estat de tensió i de deformació plàstica:
+
+math\phi(\sigma_{ij},\varepsilon_{ij}^p) = \sigma_y - f_2(\sigma_{ij},\varepsilon_{ij}^p) /math
+br/br/
+* La llei de flux plàstic:
+{{equació |
+math \dot\varepsilon_{ij}^p =
+\begin{cases}
+f_{ij}(\sigma_{ij})(\dot{f}_2-\dot\sigma_y)  \phi = 0 \\ 0  \phi  0\ 
+\end{cases}, \qquad f_{ij} = \frac{\part g_p}{\part \sigma_{ij}}/math
+|3|left}}
+
+=== Model de plasticitat ''J''sub 2 /sub ===
+Aquest és un model elasto-plàstic isòtrop sense viscositat ni enduriment i és un dels models elasto-plàstics més senzills. La tensió en cada instant ve donada per una tensió purament elàstica independent de la velocitat de deformació:
+
+math\sigma_{ij} = C_{ijkl}(\varepsilon_{kl}-\varepsilon_{kl}^p)\,/math
+br/br/
+On la superfície de fluència i la zona plàstica vénen donades pel segon invariant o [[invariant algebraic | invariant quadràtic]] del tensor desviador.
+
+math\phi(\sigma_{ij}) = J_2 - \frac{\sigma_y}{3} \ge 0, \qquad J_2 = \frac{\bar{\sigma}_{ij}\bar{\sigma}_{ij}}{2},
+\qquad \bar{\sigma}_{ij} = \left( \sigma_{ij} - \frac{1}{3}\sigma_{kk}\delta_{ij}\right)/math
+br/br/
+Les equacions bàsiques addicionals de l'evolució temporal del límit de fluència i la deformació elàstica són:
+
+math\dot\sigma_y = E_p\dot\varepsilon^p, \qquad \dot{\epsilon}_p = \begin{cases}
+\cfrac{\dot{\bar\sigma}-\dot\sigma_y}{3G+E_p}  \bar\sigma \ge \sigma_y\\
+0  \bar\sigma  \sigma_y \end{cases} /math
+br/br/
+On:
+: math \sigma_y\, /math, és la tensió de fluència.
+: math E_p\, /math, és el mòdul d'elasticitat longitudinal en el domini plàstic.
+: math (\bar\sigma) = \sqrt (3J_2) /math
+Sent les condicions inicials existents abans de l'aparició de plastificació són:
+|
+math \sigma_y(0) = \sigma_0,\qquad\varepsilon^p(0) = 0 /math
+br/br/
+
+=== Model elasto-plàstic hidrodinàmic ===
+Aquest model atribueix un comportament elàstic al material per sota de límit de fluència i atribueix augments de la deformació plàstica per sobre d'ell. La velocitat de deformació no juga cap paper dins d'ell. Les relacions entre tensió i deformació són de la forma:
+
+math\sigma_{ij} = C_{ijkl}(\varepsilon_{kl}-\varepsilon_{kl}^p), \qquad \mbox{o} \quad
+\dot\sigma_{ij} = C_{ijkl}(\dot\varepsilon_{kl}-\dot\varepsilon_{kl}^p)+\sigma_{ik}\omega_{kj} + \sigma_{jk}\omega_{ki}/math
+br/br/
+On la superfície de fluència i la zona on es produeixen deformacions plàstica és la mateixa que en el model de plasticitat''J''sub 2 /sub, la qual cosa significarà que hi ha augment de la deformació plàstica sempre que:
+
+math\phi(\sigma_{ij}) = \frac{\bar{\sigma}_{ij}\bar{\sigma}_{ij}}{2} - \frac{\sigma_y}{3}  0,
+\qquad \bar{\sigma}_{ij} = \left( \sigma_{ij} - \frac{1}{3}\sigma_{kk}\delta_{ij}\right)/math
+br/br/
+|
+math\hat{\sigma}_{ij} = \bar{\sigma}_{ij} + \bar\sigma_{ik}\omega_{kj} + \bar\sigma_{jk}\omega_{ki}, \qquad
+\hat{\sigma} = \frac{3}{2}\hat{\sigma}_{ij}\hat{\sigma}_{ij} /math
+br/br/
+Les equacions addicionals de la [[Equació de moviment | evolució temporal]] del límit de 
+math\begin{cases}
+\dot\varepsilon_{ij}^p = \cfrac{1}{2G}\left(-\cfrac{\dot\sigma_y\hat\sigma}{\sigma_y^2} +\cfrac{\dot\hat\sigma}{\sigma_y}\right)\bar\sigma_{ij} \\
+\dot{\varepsilon}^p = \left(\frac{2}{3} \varepsilon_{ij}\varepsilon_{ij}\right)^\frac{1}{2}  \varepsilon^p(0) =0 \\
+\dot\sigma_y = E_p\dot\varepsilon_p  \sigma_y(0) =0 \end{cases}/math
+br/br/
+On l'instant inicial s'ha pres abans que aparegués plastificació.
+
+=== Model visco-elasto-plàstic de Krieg-Key ===
+Aquest model és un model elasto-plàstic amb enduriment cinemàtic, un cop passat el punt de fluència del material. La relació entre tensions i deformacions ve donada per una contribució elàstica més una contribució plàstica.
+En el cas isotròpic la [[superfície de fluència]] es pren com el lloc geomètric:ref Krieg, RD and Key, SW, Implementation of a time dependent plasticity theory into structural computer programs. A: Stricklin, J.A., Saczalski, K.J. (Eds.), Constitutive Equations in Viscoplasticity: Computational and Engineering Aspects, AMD-20, ASEM, New York. pp. 125-137. /ref
+
+math\phi = \frac{\sigma_y^2}{3} -\frac{\bar{\sigma}_{ij} - \alpha_{ij}}{2} = 0, \qquad 
+\sigma_y = \left[ 1+ \left( \frac{\dot{\varepsilon}_{ij}\dot{\varepsilon}_{ij}}{C^2} \right)^\frac{1}{2p} \right]
+(\sigma_0 + \beta E_p \varepsilon_{eff}^p)/math
+br/br/
+On:
+: math \sigma_y\, /math rep el nom de tensió de fluència.
+: math \sigma_0\, /math, és un paràmetre que defineix la [[superfície de fluència]], quan les tensions cauen fora de la superfície de fluència s'acumula més deformació plàstica.
+: math \bar (\sigma) _ (ij) = \sigma_ (ij) - (\sigma_ (kk) / 3) \delta_ (ij) \, /math, són les components de la part desviadora de l'[[tensor tensió]].
+: math \alpha_(ij)\, /math és la [[velocitat de deformació]] co-rotacional que pot obtenir a partir de la derivada temporal del tensor deformació mitjançant:
+|
+math\dot{\alpha}_{ij} = \frac{2}{3}(1-\beta)E_p\dot{\varepsilon}_{ij}^p + \alpha_{ik}\omega_{kj} + \alpha_{jk}\omega_{ki}, \qquad \varepsilon_{eff}^p = \int_0^t \left( \frac{2}{3}\dot{\varepsilon}_{ij}^p \dot{\varepsilon}_{ij}^p\right)^\frac{1}{2}\ dt, \qquad 
+\omega_{ij} = \frac{1}{2}\left(\frac{\part u_i}{\part x_j}-\frac{\part u_j}{\part x_i}\right)/math
+br/br/
+La versió isòtropa d'aquest model conté 7 constants del material: dues constants elàstiques math E, \nu\, /math, dos paràmetres de de plasticitat math E_p, \sigma_0\, /math, dos paràmetres de viscoelàstics math C, p\, /math i el paràmetre d'enduriment math \beta\, /math.
+
+== Plasticitat en els metalls ==
+
+=== Càlcul plàstic ===
+El càlcul plàstic fa al càlcul de [[esforç intern | esforços]], tensions i deformacions en [[enginyeria estructural]] d'elements que tenen un comportament plàstic. A diferència dels mecanismes que han d'operar de manera reversible les estructures estàtiques poden ser projectades per treballar per sobre del domini elàstic, aconseguint amb això un aprofitament més complet de la seva [[resistència de materials | capacitat resistent]]. Això és degut al fet que un cop superat el domini elàstic de reversibilitat, alguns materials de construcció continuen tenint capacitat per resistir esforços grans, per enduriment cinemàtic, encara a costa de patir transformacions internes irreversibles.
+
+En estructura metàl·lica el càlcul plàstic consisteix bàsicament en identificar els punts d'aparició de ròtules plàstiques o regions de plastificació que un cop completament plastificades es converteixen en [[articulació mecànica | articulacions]]. L'aparició d'articulacions redueixen el grau de [[hiperestàtic | hiperestaticitat]] ampliant el nombre de [[Graus de llibertat (enginyeria) | graus de llibertat]]. Quan apareixen el suficient nombre de ròtules plàstiques l'estructura es converteix en un mecanisme. El càlcul plàstic inclou la identificació de les formes de col lapse per formació de ròtules plàstiques, i la càrrega necessària per a la plastificació de totes les ròtules.
+
+També en el càlcul d'estructures de [[formigó armat]] s'admet que les barres d'acer sotmeses a tracció adquireixin deformacions plàstiques, ja que l'acer té un comportament plàstic amb enduriment, i al superar el seu límit elàstic es endure pot suportar grans tensions que abans d'adquirir deformacions plàstiques. Aquest enduriment o augment de la capacitat resistent de l'acer a tracció permet economitzar, i construir estructures amb una menor quantitat d'acer.
+
+== Plasticitat dels sòls ==
+En el cas d'alguns terrenys humits, la plasticitat és la propietat que els permet ser modelats aplicant forces externes, i mantenir les formes adquirides, encara que la humitat i les forces externes desapareguin. Segons [[Atterberg]]ref Vegeu també: [[Límits d'Atterberg]] /ref es poden definir dos límits de plasticitat,ref T. William Lambe, Mecànica de Sòls. Imprès a Mèxic, 1997. ISBN 968-18-1894-6 /ref el màxim i el mínim. Amb percentatge d'humitat per sobre del límit màxim de plasticitat, la massa terrosa adquireix fluïdesa i perd la seva capacitat de mantenir la forma, i si el terreny té un percentatge d'humitat per sota del límit mínim de plasticitat, la massa terrosa es torna trencadissa, i no es pot modelar.ref Constantí Constantinidis. Bonifica ed irrigazione. Edagricole, Bologna, 1970 /ref És evident que no tots els sòls tenen la mateixa plasticitat, les [[sorra]] si els [[llim]] s tenen una plasticitat baixa o molt baixa, mentre que sòls amb alt contingut de [[argila]] s tenen una plasticitat major. En línia general es pot afirmar que terrenys amb un contingut d'argila inferior al 15% no són plàsticsref C. Constantinidis. 1970. pag.186-187. /ref
+
+Per a cada un dels límits de plasticitat, el màxim i el mínim, correspon, en funció del terreny, un percentatge d'humitat, la diferència entre els dos percentatges d'humitat límits de flama '''nombre''' o '''índex de plasticitat'''. Tant els límits de plasticitat com també el corresponent nombre de plasticitat o índex de plasticitat varien, òbviament de terreny a terreny, en funció principalment de la textura i més precisament del contingut de [[col·loide]]s inorgànics.
+
+Un altre factor important que influencia la plasticitat és el tipus de [[Catió|cations]] disponibles.ref Baver, LD - 1928. The Relation of exchange cations to the PHISICAL Properties of Soils. J.Am.Soc.Agron., 20: 921-941. /ref Generalment l'ió '''K +''' disminueix els dos límits de plasticitat i l'índex de plasticitat, mentre que l'ió '''Na +''' disminueix els límits de plasticitat, però augmenta l'índex de plasticitat; els cations '''Mg ++''' i ''' Ca ++''' augmenten la plasticitat, però els terrenys saturats amb ells requereixen una quantitat elevada d'aigua per aconseguir l'estat de plasticitat, al contrari dels saturats amb cations de '''K +'''.
+L'efecte d'hidratació i de dispersió del '''Na +''' determinen una plasticitat dels sòls saturats amb aquest catió més gran del que arriben als terrenys saturats amb cations bivalents.
+
+Generalment, la influència dels diversos cations sobre la plasticitat varia amb la qualitat i la naturalesa de l'argila.
+
+La matèria orgànica continguda en el sòl també té un efecte important en la plasticitat dels sòls.ref Baver, LD - 1930. The effect of Organic Matter Upon Several Physical Properties of Soils. J.Am.Soc.Agron., 22: 703-708. /ref En general els estrats superiors del sòl tenen una plasticitat més gran que els estrats més profunds. Això es pot atribuir a la major presència de material orgànic en les capes superiors del terreny.
+
+== Exemples ==
+Alguns exemples de materials amb amplies regions plàstiques són:
+*L'[[argila]]
+*El [[plom]]
+
+== Vegeu també ==
+* [[Problema elastoplàstic]]
+* [[Catherine Malabou]]
+
+== Referències ==
+references/
+
+[[Categoria:Mecànica de medis continus]]
+[[Categoria:Ciència de materials]]
+[[Categoria:Enginyeria estructural]]
+{{Autoritat}}
+{{Enllaç AD|hu}}</text>
+      <sha1>gtcszd65ex2k25nkekc504tao2t7jmk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

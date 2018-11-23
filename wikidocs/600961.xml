@@ -1,0 +1,73 @@
+<page>
+    <title>Mètode de Monte Carlo</title>
+    <ns>0</ns>
+    <id>600961</id>
+    <revision>
+      <id>13824826</id>
+      <parentid>13630731</parentid>
+      <timestamp>2014-07-14T17:32:19Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{2L|data=febrer de 2013}}
+El '''mètode de Montecarlo''' és un [[algoritme no determinístic|mètode no determinístic]] o estadístic numèric utilitzat per aproximar expressions matemàtiques complexes i costoses d'avaluar amb exactitud, i o bé s'atura i dóna el resultat, correcte o incorrecte, o bé s'atura sense donar resultat.ref{{en}} Ernst W. Mayr, H. J. Prömel, i Angelika Steger, ''[http://books.google.cat/books?id=_C8Ly1ya4cgCpg=PA30dq=Las+Vegas+algorithmhl=caei=mN-3TOmNLpCbOrX-6YgNsa=Xoi=book_resultct=resultresnum=1ved=0CCwQ6AEwAA#v=onepageq=Las%20Vegas%20algorithmf=false Lectures on proof verification and approximation algorithms]'', p.30/ref El mètode es va anomenar així en referència al Casino de Montecarlo ([[Principat de Mònaco]]) per ser la capital del joc d'atzar, en ser la [[ruleta]] un generador simple de nombres aleatoris. El nom i el desenvolupament sistemàtic dels mètodes de Montecarlo daten aproximadament de [[1944]] i es van millorar enormement amb el desenvolupament de l'[[ordinador]].
+
+L'ús dels mètodes de Montecarlo com a eina de recerca, prové del treball realitzat en el desenvolupament de la [[bomba atòmica]] durant la [[Segona Guerra Mundial]] al [[Laboratori Nacional de Los Alamos]] a [[EUA]] Aquest treball comportava la simulació de problemes probabilístics de [[hidrodinàmica]] concernents a la difusió de neutrons en el material de fusió, la qual té un comportament eminentment aleatori. En l'actualitat és part fonamental dels algorismes de [[Raytracing|traçat de raigs]] per a la generació d'imatges sintètiques.
+
+[[Fitxer: Simulacionmontecarlo.png|250px|thumb|right|Montecarlo]] En la primera etapa d'aquestes investigacions, [[John von Neumann]] i [[Stanislaw Ulam]] van refinar aquesta [[ruleta russa]] i els mètodes de divisió de tasques. No obstant això, el desenvolupament sistemàtic d'aquestes idees va haver d'esperar al treball de Harris i [[Herman Kahn]] a [[1948]]. Aproximadament el mateix any, [[Enrico Fermi]], Metropolis i Ulam van obtenir estimadors per als valors característics de l'[[equació de Schrödinger]] per a la captura de neutrons a nivell nuclear utilitzant aquest mètode.
+
+El mètode de Montecarlo proporciona solucions aproximades a una gran varietat de problemes matemàtics possibilitant la realització d'experiments amb mostres de nombres pseudoaleatoris en un ordinador. El mètode és aplicable a qualsevol tipus de problema, ja sigui [[estocàstic]] o [[Sistema determinista|determinista]]. A diferència dels mètodes numèrics que es basen en avaluacions en N punts en un espai M-dimensional per produir una solució aproximada, el mètode de Montecarlo té un error absolut de l'estimació que decreix com math\frac{1}{\sqrt{N}}/math en virtut del [[teorema del límit central]].
+
+== Orígens del mètode ==
+[[Fitxer: Monte carlo method.svg|thumb|150px|Exemple d'aplicació de Montecarlo. En el joc de vaixells, primer es realitzen una sèrie de tirs a punts aleatoris. Si el jugador genera un algorisme pot deduir la posició del vaixell conegudes les dades anteriors.]]
+La invenció del mètode de Montecarlo s'assigna a Stan Ulam i John von Neumann. Ulam ha explicat com se li va acudir la idea mentre jugava un solitari durant una malaltia el 1946. Va advertir que resulta molt més senzill tenir una idea del resultat general del solitari fent proves múltiples amb les cartes i comptant les proporcions dels resultats de computar totes les possibilitats de combinació formalment. Se li va ocórrer que aquesta mateixa observació s'havia d'aplicar al seu treball de Los Alamos sobre difusió de neutrons, per la qual resulta pràcticament impossible solucionar les equacions independent-diferencials que governen la dispersió, l'absorció i la fissió. La idea consistia a provar amb experiments mentals els milers de possibilitats, i en cada etapa, determinar per casualitat, per un nombre aleatori distribuït segons les probabilitats, què passaria i totalitzar totes les possibilitats i tenir una idea de la conducta del procés físic. 
+
+Podien utilitzar màquines de computació, que començaven a estar disponibles, per efectuar les proves numèriques i en efecte reemplaçar l'aparell experimental del físic. Durant una de les visites de von Neumann a Los Alamos el 1946, Ulam li va esmentar el mètode. Després de cert escepticisme inicial, von Neumann es va entusiasmar amb la idea i aviat va començar a desenvolupar les seves possibilitats en un procediment sistemàtic. Ulam va expressar que Montecarlo va començar a tenir forma concreta i va començar a desenvolupar-se amb totes les seves falles de teoria rudimentària després que l'hi vaig proposar a Johnny.
+
+A principis de 1947 Von Neumann va enviar una carta a Richtmyer a Los Alamos en la qual va exposar de manera influent potser el primer informe per escrit del mètode de Montecarlo. La seva carta va ser enquadernada juntament amb la resposta de Richtmyer com un informe de Los Alamos i distribuïda entre els membres del·laboratori. Von Neumann suggeria aplicar el mètode per a rastrejar la generació isòtropa de neutrons des d'una composició variable de material actiu al llarg del radi d'una esfera. Sostenia que el problema era adequat per a l'ENIAC i estimava que portaria 5 hores calcular l'acció de 100 neutrons a través d'un curs de 100 col·lisions cadascun.
+
+Ulam estava particularment interessat en el mètode Montecarlo per avaluar integrals múltiples. Una de les primeres aplicacions d'aquest mètode a un problema determinista va ser duta a terme el 1948 per Enrico Fermi, Ulam i von Neumann quan van considerar els valors singulars de l'equació de Schrödinger.
+
+== Exemple ==
+Si volem reproduir, mitjançant nombres aleatoris, el tiratge successiva d'una moneda, hem prèviament assignar-li un interval de nombres aleatoris a CARA i un altre a CREU, de manera de poder interpretar el resultat de la simulació. Aquests intervals s'assignen en funció de les probabilitats d'ocurrència de cada cara de la moneda. Tenim així:
+
+* CARA - Probabilitat: 0,50 Números aleatoris: 0,000 al 0,499
+* CREU - Probabilitat: 0,50 Números aleatoris: 0,500 al 0,999
+
+Després, en generar un nombre aleatori a partir de la funció RAN de la calculadora, per exemple, obtenim el resultat simulat. Així, si obtenim el número aleatori 0,385, observem que està inclòs en l'interval assignat a CARA.
+
+En altres aplicacions, s'associen intervals de nombres aleatoris segons les probabilitats d'ocurrència dels esdeveniments a simular.
+
+==Referències==
+{{referències}}
+
+== Bibliografia ==
+* John von Neumann i els orígens de la computació moderna de William Aspray - Gedisa Editorial - 1992
+
+== Vegeu també ==
+{{portal|Matemàtica}}
+* [[Cadena de Markov]]
+* [[Integració de Montecarlo]]
+* [[Mètode quasi-Montecarlo]]
+* [[Atzar]]
+* [[Algorisme de Las Vegas]]
+* [[Generador aleatori de nombres]]
+* [[Estocàstic]]
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://economia-excel.blogspot.com/search/label/MonteCarlo Economia Excel] Aplicacions del mètode de Monte Carlo amb Excel.
+* [http://simularsoft.com.ar Simular] Programari gratuït de Simulació de Monte Carlo amb Excel.
+{{Autoritat}}
+{{ORDENA:Metode De Monte Carlo}}
+
+[[Categoria:Teoria de jocs]]</text>
+      <sha1>d4ho6c1rjacc8qtnfrwxu9k2teh3v9d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,271 @@
+<page>
+    <title>UGV</title>
+    <ns>0</ns>
+    <id>1060635</id>
+    <revision>
+      <id>13892905</id>
+      <parentid>13875838</parentid>
+      <timestamp>2014-07-26T21:50:01Z</timestamp>
+      <contributor>
+        <username>EVA2.0 (bot)</username>
+        <id>167473</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text  (- han sigut + han estat)</comment>
+      <text>Un '''vehicle terrestre no tripulat''' o '''UGV''', sigles de l'anglès ''Unmanned Ground Vehicle'', és un [[vehicle]] terrestre [[Vehicle no tripulat|sense persones]] a bord dissenyat per complir tasques de caràcter civil o militar controlat per un humà a distància o amb un cert grau d'autonomia. N'hi ha de molts tipus, formes i tenen un gran ventall d'aplicacions, però generalment són usats en tasques repetitives, de transport o de treball en entorns bruts o perillosos on els humans no podrien fer la feina amb seguretat.
+
+Els UGV són la versió terrestre dels vehicles aeris no tripulats o [[UAV]]'s, (Unmanned Aerial Vehicle), i dels vehicles marins o submarins no tripulats, [[USV]]'s (Unmanned Surface Vehicle) i [[ROV]]'s (Remotely Operated underwater Vehicle), respectivament.ref{{ref-web|url=http://www.unmannedvehicles.co.uk/unmanned-vehicles-ground-ugv/ |títol=Unmanned Vehicles – Ground – UGV |consulta=18/11/2012 |obra= |editor=Unmanned Vehicles |data=2012 |llengua=anglès }}/ref
+
+La comunitat acadèmica, o científica, sol anomenar ''robots mòbils'' als UGV's, sobretot quan tenen un cert grau d'autonomia.ref name=USM/ A la cultura popular els UGV's solen englobar-se en el terme ''robot'', siguin o no autònoms. I és la  comunitat militar la que usa més normalment el terme UGV per a major precisió, ja que gran part dels UGV's que s'usen actualment per a tasques bèl·liques no són autònoms i per tant el terme robot no s'hi adapta.
+
+Avui en dia existeixen i s'estan desenvolupant tot tipus d'UGV tant pel sector civil com pel militar per a una gran varietat d'aplicacions. Es preveu una ràpida expansió del mercat civil dels UGV mitjançant la tecnologia desenvolupada, primerament, per a tasques militars o espacials.ref{{ref-web|url=http://www.marketinfogroup.com/non-military-sensor-dense-unmanned-ground-vehicles-military-ugv-market/ |títol=Non-Military, Sensor-Dense Unmanned Ground Vehicles (UGVs) to Dwarf Military UGV Market |consulta=02/12/2012 |obra= |editor=Market Info Group |data=06/2011 |llengua=anglès }}/ref
+
+[[Fitxer:MULEoffroad.jpg|right|thumb|L'UGV XM1217 MULE-T va ser un projecte (cancel·lat el gener del 2010)ref{{ref-web|url=http://www.armytimes.com/news/2011/08/army-mule-program-killed-081511w/ |títol=Army kills off MULE unmanned vehicle |consulta=18/11/2012 |obra= |editor=Gannett Government Media Corporation - Army Times |data=2011 |llengua=anglès }}/ref de transport robòtic desenvolupat als [[EUA]] capaç de transportar fins a 1100 [[Kg]] de material per a la [[infanteria]] en terrenys amb desnivells i obstacles.|450px]]
+
+== Classificació ==
+
+[[Fitxer:Bio-inspired Big Dog quadruped robot is being developed as a mule that can traverse difficult terrain.tiff|right|thumb|L'UGV autònom BigDog, desenvolupat per Boston Dyamicsref{{ref-web|url=http://www.bostondynamics.com/robot_bigdog.html |títol=BigDog - The Most Advanced Rough-Terrain Robot on Earth |consulta=18/11/2012 |obra= |editor=Boston Dynamics |data=2012 |llengua=anglès }}/ref i financiat per la [[DARPA]], està inspirat en la biologia d'un [[Quadrupedisme|quadrúpede]] i és capaç d'imitar a la perfecció els moviments d'un animal de quatre potes.|250px]]
+
+Els vehicles terrestres no tripulats es divideixen en dues gran branques:
+
+* '''Autònoms''', si poden complir la seva tasca sense que cap persona els hagi de controlar. 
+* '''Teleoperats''', si per complir la seva tasca necessiten que un humà els dirigeixi.
+
+El Comitè de Tecnologia de Vehicles Terrestres no Tripulats de l'[[Exèrcit dels Estats Units d'Amèrica]] (''Committee on Army Unmanned Ground Vehicle Technology''), va categoritzar els UGV's en quatre branques, també segons les capacitats autònomes de cada grup. L'escala del comitè varia des d'un sistema 100% teleoperat, a través de diversos estaments d'autonomia, fins a un sistema completament autònom, considerat ideal.
+
+# '''Vehicle Terrestre Teleoperat o TGV''' (Teleoperated ground vehicle). L'operador controla tots els processos cognitius. Els sensors del vehicle i les comunicacions enllacen amb l'operador per permetre-li comprendre la situació de l'UGV i controlar-lo. Els vehicles teleoperats poden ser de qualsevol mida.
+# '''Seguidor d'ordres semiautònom o SAP''' (Semiautonomous preceder-follower). Són els que estan sent desenvolupats actualment per a conflictes bèl·lics. Són un tipus d'UGV amb capacitats de navegació avançades que minimitzen la necessitat d'un operador per a moure's d'un punt a un altre. És un tipus d'UGV amb un sistema de navegació suficient per a seleccionar la millor ruta per a arribar a l'objectiu designat pel controlador sense necessitat de marcatge del terreny.
+# '''Plataforma Autònoma Terrestre o PCAGV''' (Platform-centric autonomous ground vehicle). És un UGV al qual se li pot assignar una tasca complexa o una missió i l'executarà. És un tipus d'UGV capaç d'aconseguir informació de diferents fonts, maneres i també d'un operador però sense necessitat de guiatge. Per a fer-ho ha de ser capaç de desplaçar-se de forma totalment autònoma i ha de ser capaç de mitjançant informació adaptar-se als canvis que hi hagi pogut haver.
+# '''Xarxa Autònoma Terrestre o NCAGV''' (Network-centric autonomous ground vehicle). Són un tipus d'UGV amb un nivell d'autonomia suficient per funcionar com un node independent d'una xarxa complexa de sistemes autònoms amb missions abstractes que han de precisar de forma automàtica. Han de ser capaços de rebre informació d'una xarxa de comunicacions, i a partir de l'objectiu donat, crear una missió específica incorporar-hi la informació i actuar de la forma més òptima possible. La referència en el mode d'actuar que s'espera d'aquest nivell és el que faria un sistema teleoperat per un humà, però òbviament, de forma completament autònoma.ref name=Comitè UGV/
+
+== Història ==
+
+[[Fitxer:Tt-26.jpg|right|thumb|Fotografia de dos teletancs TT-26, muntats sobre xassís de [[T-26]], destruïts a l'[[Istme de Carèlia]] per l'[[Exèrcit Finès]] durant la [[Guerra d'Hivern]] el febrer de 1940. A la imatge es poden apreciar les antenes sobre la torreta que servien per controlar els tancs.|250px]]
+
+A principis del [[Segle XX|segle XX]], gràcies a la recent expansió de l'ús de l'[[electricitat]] i les [[ona electromagnètica|ones electromagnètiques]] i de les seves aplicacions, com la ràdio [[ràdio]], es van començar a imaginar i desenvolupar els primers vehicles no tripulats, encara molt primitius. El visionari [[Nikola Tesla]] concep que, en un futur, es puguin enviar vehicles a centenars de quilòmetres sense que hi hagi tripulació mitjançant [[telegrafia sense fils]] i crea dos vaixells telecomandats a més de patentar un vaixell [[torpediner]] sense tripulació el 1895. 
+[[Leonardo Torres Quevedo]] també va idear un giny teleoperat naval que va presentar el 1906 al port de [[Bilbao]].
+
+Però faria falta esperar fins a la [[Guerra d'Hivern]] i la [[Segona Guerra Mundial]] per veure els que es podrien considerar els primers vehicles terrestres no tripulats.
+La [[Unió Soviètica]] va crear el primer vehicle terrestre de combat no tripulat: el teletanc. El teletanc fou un UGV muntat sobre xassís de tanc i controlat a distància per ràdio que podia combatre amb metralladores, [[Llançaflames|llançaflames]]... Va ser usat per primer cop a la [[Guerra d'Hivern]], i a l'inici de la Segona Guerra Mundial els soviètics disposaven de dos batallons sencers de teletancs amb els seus respectius operadors. L'exèrcit de l'[[Alemanya nazi]], per la seva banda, va crear el primer vehicle de demolició remot, el Leichter Ladungsträger Goliath (Sd.Kfz. 302/303a/303b), un UGV teleoperat per cable. Feia 1,2 metres de llarg i servia per destruir posicions fortificades enemigues o tancs.ref name=Comparativa/
+
+Els estralls de la guerra van fer que s'abandonessin els projectes que s'havien encetat per reconstruir les economies i, també en gran part, per la descoberta de la [[bomba atòmica]] i la captura de coets [[V2]], que van eclipsar la resta de tecnologies i invents que es van desenvolupar durant la guerra. Va ser el 1966 que es va reprendre la investigació amb la fundació de l'Stanford Research Institute, que es pot considerar el primer gran centre de desenvolupament d'UGV's. Shakey, el fundador de l'institut de recerca, va crear un UGV capaç de fer una navegació simple, complint tasques, pel laboratori.
+Posteriorment la Universitat de Stanford va crear un laboratori d'intel·ligència artificial, que va estar operatiu des del 1973 fins al 1981, i que va crear un UGV capaç de construir models 3D del seu entorn i esquivar obstacles, tot i així era un robot molt lent i només capaç de funcionar en entorns de laboratori.
+Un primer desenvolupament d'aplicacions útils en camp obert es va realitzar pel programa Autonomous Land Vehicle des de 1985 fins a 1988, patrocinat per la [[DARPA]]. El prototip que van crear, conegut com a DARPA ALV, era un UGV muntat sobre uns xassís de 8 rodes amb una càmera a color capaç d'esquivar obstacles movent-se a 14,5 km/h per carretera i a 3km/h per terrenys sense pavimentar.
+
+Seguint els passos del DARPPA ALV, els esforços des del 1990 fins al 2001 es van concentrar en els programes DARPA DEMO I, II i III. El DEMO I, muntat sobre un [[Hummer]] va demostrar ser capaç de circular per tot tipus de terreny de forma teleoperada. El DEMO II va començar a incloure funcions autònomes. El DEMO III (1998-2001) va començar a fer UGV's més petits aprofitant l'experiència aconseguida amb els UGV anteriors.ref name=Modelling/
+
+El 2003 l'[[Exèrcit dels Estats Units d'Amèrica]] va crear el projecte [[Future Combat Systems]] destinat a modernitzar l'exèrcit, fent especial èmfasi en UGV's, [[UAV]]'s, municions intel·ligents i sistemes de vigilància remota.ref{{ref-web|url=http://www.washingtonpost.com/wp-dyn/content/article/2007/12/06/AR2007120602177.html |títol=Timeline: Army Modernization and Future Combat Systems |consulta=06/12/2012 |obra= |editor=The Washington Post |data=desembre 2007 |llengua=anglès }}/ref Conjuntament amb projectes financiats o duts a terme per la DARPA, han creat alguns dels UGV's més diversos i avançats fins ara. Alguns exemples són el BigDog, el Legged Squad Support System (LS3), l'Atlas, XM1216, XM1217...
+
+Alhora les aplicacions civils, de mica en mica, seguint les evolucions que feien els laboratoris més avançats, van anar guanyant cada cop més pes i s'han fet més concursos i aplicacions funcionals fins avui en dia, que es preveu un gran augment del mercat dels UGV civils.
+
+Per la seva banda, de forma aïllada, a partir del 1970, les agències espacials dels EUA i de la Unió soviètica/Rússia també van anar desenvolupant UGV's per a les seves missions. Els primers eren totalment teleoperats, usats per la Unió soviètica a la Lluna, i posteriorment els EUA també en van fer per a les missions a [[Mart (planeta)|Mart]]. Amb el pas del temps cada vegada han esdevingut més autònoms i complexos, fins a arribar als que s'usen avui en dia.
+
+== Característiques ==
+
+[[Fitxer:Agv.forktruck2.jpg|right|thumb|Un AGV de tipus [[Toro mecànic|toro]] transportant un [[Palet|palet]] de producte acabat cap a una cinta transportadora. Els AGV són un bon exemple d'UGV totalment automatitzat.|300px]]
+
+Tot i que ambdós grups guarden grans simil·lituds i, de fet, gran part dels UGV barregen elements dels dos grups, les característiques bàsiques de cada branca són molt diferents i cal distingir-ne la procedència.
+
+=== UGV's autònoms ===
+
+Un UGV autònom és un vehicle que capta informació, processa les dades i duu a terme la seva tasca sense interacció amb cap humà. És a dir, és un vehicle que pot funcionar i complir la seva tasca sense cap tipus de contacte amb persones. També es poden anomenar ''[[Robot|robots]]'', tot i ser menys acurat, ja que per definició s'hi veuen englobats. 
+Simplificant-ho molt, estan constituïts per tres parts:ref name=AI robotics/
+
+# Sensors o ''entrades''.
+# Unitat de control.
+# Actuadors o ''sortides''.
+
+Per al funcionament d'un UGV autònom normalment sol ser necessària una major varietat de sensors que per a un de teleoperat. Això es deu al fet que per realitzar una tasca de forma autònoma són necessaris sensors que el permetin ubicar-se, no xocar, traçar la millor ruta possible.ref name=AI robotics/ref name=Sensors/
+
+Aquestes entrades d'informació són processades de forma automàtica i actua segons la seva programació per a realitzar la seva tasca mitjançant unes sortides: [[motor]]s, [[pistó|pistons]]...
+
+El pilar d'aquests robots és el processament de la informació, a diferència dels UGV's teleoperats on el tractament de les dades d'entrada és molt menor. Per a processar la informació que rep i actuar en consonància necessita algun tipus de [[hardware]] i normalment, també algun tipus de [[software]].ref name=Cibernética aplicada/
+
+El processament de la informació, la lògica, pot ser cablejada o programada. Si és cablejada s'usen [[xip]]s de portes lògiques (AND, OR, NOT) però sol ser complicat, a més a més són poc manipulables i per tant s'usen en aplicacions simples i molt concretes on són més barats. La lògica programada per la seva banda ofereix un més ampli ventall de possibilitats i és el que s'aplica en més gran mesura en aplicacions professionals. El [[Maquinari|maquinari]] que s'usa és més divers: [[Ordinador|ordinadors]], plaques predissenyades (com [[Arduino]] o similars) o [[Microcontrolador|microcontroladors]] amb un circuit de disseny propi (aplicant [[PIC (microcontrolador)|PIC's]]). La lògica programable generalment és més pràctica, ja que es pot retocar el codi tants cops com faci falta, és més ampliable i fàcil de treballar-hi, a més a més, com més complicat és el sistema més a compte surt fer-ho programat, ja que la revisió d'un programa és més simple que la d'un circuit.ref name=Cibernética aplicada/
+
+=== UGV's teleoperats ===
+
+[[Fitxer:FFW fort bliss-2007-02-02-.jpg|right|thumb|Soldats dels [[EUA]] evaluant l'ús de l'UGV teleoperat XM1216 Small Unmanned Ground Vehicle, en un exercici en viu l'1 de febrer de 2007 a Fort Bliss, [[Texas]]. A la imatge es pot veure un [[Controlador de videojoc|controlador]] d'[[Xbox 360]] que dirigeix el [[Telerobòtica|telerobot]].|300px]]
+
+Un UGV teleoperat és un vehicle, que a diferència dels autònoms, funciona operat per un humà, a distància, amb informació enviada pel vehicle mitjançant [[Telecomunicació|telecomunicacions]]. Així doncs l'UGV capta informació i realitza la tasca mentre que l'operari fa la tasca de processament d'aquesta informació. Els UGV teleoperats també es poden anomenar [[Telerobòtica|telerobots]], ja que són un tipus de robot controlats a distància per un operador, igual que els UGV teleoperats.ref{{ref-web|url=http://upcommons.upc.edu/e-prints/bitstream/2117/570/1/IOC-DT-P-2004-05.pdf|títol=Teleoperación: técnicas, aplicaciones, entorno sensorial y teleoperación inteligente |consulta=23/11/2012 |obra= [[UPC]] |editor= Emmanuel Nuño Ortega, Luis Basañez Villaluenga |data=abril 2004 |llengua=castellà}}/ref Bàsicament estan compostos per 3 grans parts:ref name=AI robotics/
+
+# Sensors o ''entrades''.
+# Comunicacions.
+# Actuadors o ''sortides''.
+
+L'intercanvi d'informació és el pilar d'aquesta tecnologia i es pot fer amb [[ones de ràdio]], [[Comunicacions per satèl·lit|comunicacions via satèl·lit]], [[Wi-Fi]], [[Bluetooth]], cable o d'altres segons la funció del vehicle no tripulat.
+
+Per a controlar-lo l'operador rep un seguit de dades, informació que podem processar els humans: [[imatges]] i [[so]] principalment. Així doncs, normalment els UGV's teleoperats envien dades de [[Telemesura|telemetria]] de la seva pròpia posició o d'obstacles, [[Vídeo|vídeo en temps real]] i [[so]]. Els robots més avançats poden arribar a incorporar [[Càmera tèrmica|visors tèrmics]], [[Telèmetre|telèmetres làsers]], [[Visió nocturna|visió nocturna]], [[GPS|posicionament per GPS]]...
+
+Amb aquestes dades l'operador envia unes ordres que fan actuar el robot, ja sigui pel mateix canal que fa servir per l'entrada de dades com per un altre. Aquestes ordres que l'operador envia de tornada es poden efectuar amb una gran varietat d'elements, un [[Controlador de videojoc|controlador de videojoc]], un [[Joystick|joystick]], [[Teclat d'ordinador|teclat]], [[Botó (dispositiu)|botons]]... que faran funcionar les sortides.
+
+Un exemple bàsic d'aquesta relació home-màquina seria un cotxe de [[radiocontrol]], que està massa lluny perquè es vegi, amb una càmera i que la persona que controla el cotxe el fa anar mirant el vídeo que li arriba.
+
+== Avantatges i inconvenients ==
+
+Cada tipus d'UGV té uns avantatges i inconvenients que fa que depenent de la situació sigui preferible un tipus o un altre. A grans trets, actualment, els avantatges i inconvenients de cada grup són els següents:ref name=Comparativa{{ref-web|url=http://www.armedforces-int.com/article/unmanned-ground-vehicles-autonomous-versus-teleoperated.html |títol=Unmanned Ground Vehicles: Autonomous Versus Teleoperated |consulta=18/11/2012 |obra= |editor=Macroswiss |data=2012 |llengua=anglès }}/ref
+
+centertable border=1 cellspacing=0 cellpadding=3
+trth width=10%; td style=background: #C0C0C0; color:#000000nbsp;th width=50%; td style=background: #C0C0C0; color:#000000 UGV's autònomsth width=50%; td style=background: #C0C0C0; color:#000000UGV's teleoperats
+tr
+th style=background: #EEE9E9; color: #00CD00Avantatges
+td valign=top
+*No necessiten un operador per funcionar.
+*Poden complir la seva tasca amb més precisió.
+*Poden funcionar sense necessitat d'una xarxa de comunicacions.
+td valign=top
+*No necessiten gaire potència de processament.
+*Solen ser més barats, ja que no necessiten tants sensors ni potència de càlcul. 
+*Hi ha molta tecnologia ja desenvolupada per fer les telecomunicacions.
+*Al ser operats per un humà, poden reaccionar millor a imprevistos.
+tr
+th style=background: #EEE9E9; color: #CD2626Inconvenients
+td valign=top
+*Necessiten, generalment, molts sensors i un bon processador.
+*Al necessitar més material solen ser més cars.
+*El seu disseny i programació és complex i depèn molt de l'entorn on hagi de funcionar l'UGV.
+*Tasques que serien simples de realitzar per a un humà poden ser molt complicades de fer per una màquina.
+td valign=top
+*Si l'UGV ha de treballar lluny de l'operador les comunicacions poden ser molt complexes.
+*Si es tallen les comunicacions el sistema no pot funcionar.
+*Poden haver-hi errors humans, que en el cas d'un sistema autònom no es cometrien.
+/table
+/center
+br /
+
+Tot i que actualment els sistemes teleoperats són els més usats per limitació pressupostària, material i de coneixement, hi ha una clara tendència a fer els UGV cada vegada més autònoms i l'avenç en l'automatització és un dels pilars del progrés en el camp dels vehicles terrestres no tripulats. 
+
+Incrementant els nivells d'autonomia en un futur els UGV's és d'esperar que siguin útils en més camps dels que ho són avui en dia. Per exemple, és evident que els AGV (que són en la seva gran majoria totalment autònoms) milloren l'eficiència i el rendiment de les indústries que n'usen. Actualment l'Exèrcit dels [[EUA]] està acabant de perfecccionar la mobilitat d'un punt a un altre de forma automàtica i intel·ligent en terrenys no coneguts, que és considerat indispensable i crucial pel desenvolupament dels UGV's completament autònoms i capaços de funcionar a tot arreu.ref name=Comitè UGV/
+
+[[Fitxer:Weather sensor on Curiosity.jpg|right|thumb|Imatge de l'ensamblatge de l'[[Estació meteorològica|estació ambiental]] de l'UGV d'exploració espacial [[Curiosity]]. Aquest component inclou dos sensors de vent equipats amb uns [[xip]]s de [[silici]] creats pel Grup de Recerca en Micro i Nanotecnologies, vinculat al Departament d’Enginyeria Electrònica de la [[UPC]].ref{{ref-web|url=http://www.upc.edu/saladepremsa/al-dia/mes-noticies/la-tecnologia-de-la-upc-arriba-al-planeta-mart|títol=La tecnologia de la UPC arriba al planeta Mart  |consulta=23/11/2012 |obra= |editor=Oficina de Mitjans de Comunicació UPC |data=febrer 2012 |llengua=català}}/refref{{ref-web|url=http://upcommons.upc.edu/revistes/bitstream/2099/11738/1/informacions-249-febrer-2012%5B1%5D.pdf|títol=Un peu a Mart, amb el 'Curiosity' |consulta=23/11/2012 |obra= |editor=Oficina de Mitjans de Comunicació UPC |data=octubre 2012 |llengua=català}}/ref
+|300px]]
+
+== Aplicacions ==
+
+Els UGV tenen diverses aplicacions i subcatagories per a les més especialitzades tant en el camp civil com en el militar. Algunes d'aquestes aplicacions encara no són operatives però n'estan fent prototips i s'està investigant, d'altres ja fa temps que estan en ús i continuen fent progressos en els seus respectius camps. Per això s'ha d'analitzar cada aplicació per separat per comprovar-ne l'impacte, el funcionament...
+
+=== Civils ===
+
+*'''Accidents nuclears''', són vehicles terrestres no tripulats preparats per treballar en entorns contaminats per radiació a causa d'un accident nuclear. Al primer accident nuclear que hi va haver greu, l'[[accident de Txernòbil]], ja es van intentar usar UGV's, que no van funcionar correctament a causa de les fortes radiacions, que feia que es descontrolessin. Posteriorment no es va investigar gaire en aquest tipus d'aplicació, fins que a l'[[Accident nuclear de Fukushima I]] es va posar en evidència la mancança de sistemes robòtics especialitzats en desastres a [[Centrals nuclears|centrals nuclears]]. Tot i que alguns països van oferir UGV's, com els [[EUA]]ref{{ref-web|url=http://www.guardian.co.uk/world/2011/mar/29/japan-nuclear-plant-us-robots |títol=Japan nuclear plant gets help from US robots |consulta=03/12/2012 |obra= |editor=[[Guardian]] |data=2011 |llengua=anglès }}/ref o [[Alemanya]]ref{{ref-web|url=http://www.dw.de/germany-offers-japan-robots-for-nuclear-clean-up/a-14958794 |títol=Germany offers Japan robots for nuclear clean-up |consulta=03/12/2012 |obra= |editor=DW |data=2011 |llengua=anglès }}/ref no van ser suficients ni eren usats per a treballar en lloc d'homes, sinó que es feien servir com exploradors per a determinar la quantitat de radiació. Després de l'accident l'empresa [[Japó|japonesa]] [[Toshiba]] ha començat un ràpid desenvolupament d'un UGV quadrúpede especialitzat en treballs en entorns d'alta radiació per suplir la mancança.ref{{ref-web|url=http://www.thetimes.co.uk/tto/business/industries/technology/article3607729.ece |títol=Toshiba takes Japan’s robot wars into the eye of a nuclear storm |consulta=03/12/2012 |obra= |editor=The Times |data=2012 |llengua=anglès }}/ref
+*'''Bombers''', són UGV dissenyats especialment per a usar-se en situacions en que els [[bomber]]s humans podrien prendre mal com [[incendi]]s descontrolats, accidents a [[Indústria química|plantes químiques]]... Un exemple d'aquest tipus d'UGV és el Thermite RS-1 T2, desenvolupat als [[Estats Units d'Amèrica]].ref{{ref-web|url=http://www.gizmag.com/thermite-robot/24445/ |títol=Thermite fire-fighting robot removes firefighters from harm's way |consulta=14/08/2013 |obra= |editor=Gizmag |data=5 d'octubre 2012 |llengua=anglès }}/ref
+*'''Educació''', són rèpliques o imitacions a petita escala dels UGV/robots més grans. Serveixen per introduir als alumnes en el món de l'[[electrònica]], [[programació]]... de forma pràctica i il·lustrativa. Són robots simples però que reflecteixen els principis bàsics de la [[robòtica]], i normalment els seus objectius són resolució de problemes simples, seguir línies, exploració, lluita amb altres robots... 
+*'''Exploració espacial''', són la branca d'UGV's més especialitzada i que més repercussió mediàtica ha tingut. Són vehicles terrestres no tripulats destinats a l'exploració científica de cossos celestes. De moment tots els els UGV's destinats a l'exploració espacial han estat enviats a investigar la [[Lluna]] o [[Mart (planeta)|Mart]]. Són una mescla entre telerobot i robot, inclouen funcions automatitzades, com per exemple la presa de mostres, tot i que en tot moment estan supervisats i els moviments més delicats són realitzats per operadors des de la [[Terra]]. Són sistemes de gran precisió i dissenyats amb molta cura, ja que l'entorn on treballaran és radicalment diferent al del nostre planeta. Alguns exemples d'aquests UGV's són el [[Lunokhod 1]] [[Programa espacial soviètic|soviètic]] enviat a la Lluna o el més recent [[Curiosity]] de la [[NASA]] enviat a Mart.
+*'''Observació de conductes''', són UGV's que serveixen per inspeccionar conductes com [[Gasoducte|gasoductes]], [[Claveguera|clavegueres]], conductes de ventilació... Generalment són petits, ja que han d'operar en espais molt reduïts on una persona no pot entrar. La majoria són teleoperats i es guien mitjançant càmeres per dins de les tuberies.
+*'''Transport''', són vehicles que s'usen en el transport de materials entre diversos punts en fàbriques. Pràcticament tots estan englobats en els anomenats [[AGV]] (Automated Guided Vehicles), i com el seu propi nom indica tots són autònoms. La capacitat de càrrega és molt variable i tenen aplicacions molt diverses, des del transport de rotllos de paper fins al trasllat de barres d'acer. Operen en entorns molt estructurats, dels quals es pot tenir un mapa a priori per definir-ne la ruta de treball.
+*'''Vigilància''', són un tipus d'UGV encarregats de controlar zones o perímetres. Solen ser usats per la policia, seguretat d'empreses o factories i vigilància domèstica. Solen funcionar de forma autònoma, ja que no van armats i per tant l'únic que han de fer és alarmar.ref name=citar2{{ref-web|url=http://www.disam.upm.es/~barrientos/Curso_Robots_Servicio/R_servicio/Seguridad_files/Robots%20de%20Seguridad%20Civil.pdf|títol=Robots de Seguridad Civil|consulta=24/11/2012 |obra= |editor=Jose Breñosa, Patricia García. [[UPM]] |data=abril 2010|llengua=castellà}}/ref
+*'''Vigilància ofensiva''', són un tipus d'UGV's teleoperats, equipats amb armes no letals com escopetes amb [[bales de goma]], armes de [[paintball]]... Tot just estan en fase de prototip, ja que hi ha riscos pel seu ús, però en el futur podrien ser usats pels equips [[Antiavalots|antiavalots]] com a mesura dissuassòria. Són controlats directament o mitjançant una càmera.ref name=citar2/
+
+[[Fitxer:PIA15279 3rovers-stand D2011 1215 D521.jpg|right|thumb|Dos enginyers espacials drets al costat de tres generacions d'UGV's espacials (o [[Astromòbil|astromòbils]]). Al centre hi ha el recanvi del primer rover explorador de Mart, el [[Sojourner (astromòbil)|Sojourner]], que va aterrar a Mart el 1997. A l'esquerra hi ha un [[Mars Exploration Rover]], germà de l'[[Spirit|Sprit]] i l'[[Opportunity]], que van arribar a [[Mart (planeta)|Mart]] el 2004. I a la dreta el [[Curiosity]] que va aterrar a Mart el 2012.|400px]]
+
+=== Militars ===
+
+*'''Combat''', són UGV's creats pel combat, també se'ls anomena UGCV (de l'anglès Unmanned Ground Combat Vehicle). Els UGCV, actualment, són tots operats per un humà, ja que el sistema de detecció aliat-enemic és complex i el perill de que un sistema així cometés un error podria ser fatal. Són telerobots de totes mides i fan servir un gran ventall d'armament: [[coet]]s, [[Metralladora|metralladores]], [[fusell]]s...
+*'''Desactivació de mines o explosius''', són vehicles terrestres no tripulats que tenen com a objectiu la desactivació d'explosius. Disposen de pinces per treballar i de càmeres en cas d'explosius, i de pales i detectors de metalls en cas de mines. Actualment, també tots són teleoperats per un artificier expert, ja que segons el tipus d'explosiu s'ha de treballar d'una manera o una altra que de moment un robot no té la capacitat de diferenciar. Un bon exemple d'aquest tipus d'UGV és el [[Robot artificier|Wheelbarrow]].ref{{ref-web|url=http://www.army-technology.com/projects/wheelbarrowmk9/ |títol=Wheelbarrow MK9 Unmanned Ground Vehicle, United Kingdom |consulta=14/08/2013|editor= army-technology |llengua=anglès }}/ref
+*'''Exploració i reconeixement''', són vehicles terrestres no tripulats que serveixen per a avaluar la perillositat d'una zona abans d'enviar-hi els soldats. N'hi ha de molts tipus i mides, i tant poden ser controlats per un operador com autònoms amb rutes d'exploració predefinides.
+*'''Patrulla''', són UGV's que controlen àrees frontereres. Solen ser robots autònoms amb rutes predeterminades que han de controlar les seves zones d'intrusions o d'atacs ja sigui de forma armada o simplement donant l'alerta perquè vigilants fronterers humans prenguin les mesures necessàries. Un bon exemple d'aquest tipus d'UGV és el [[Guardium]] produït i usat a [[Israel]] per controlar la frontera de [[Gaza]].ref{{ref-web|url=http://www.idfblog.com/2012/12/06/the-idf-unmanned-ground-vehicle/ |títol=Always Watching: The IDF Unmanned Ground Vehicle |consulta=06/12/2012 |obra= |editor=IDF blog |data=desembre 2012 |llengua=anglès }}/ref
+*'''Transport militar''', són vehicles terrestres no tripulats orientats al transport de material militar per zones perilloses. Al substituir vehicles tripulats per UGV's, s'aconsegueixen evitar baixes de soldats per [[Mina terrestre|mines]], [[emboscada|emboscades]], [[Franctirador|franctiradors]]... I d'aquesta manera es pot abastir el front, o tropes aïllades, sense posar en perill cap home. Solen funcionar autònomament tot i que en cas de necessitat se solen poder dirigir manualment.
+
+== Vegeu també ==
+* [[Robot]]
+* [[Robòtica]]
+* [[Telerobòtica]]
+* [[UAV]]
+* [[Mars rover]]
+* [[Robot industrial]]
+* [[Robot artificier]]
+* [[Enginyeria automàtica]]
+
+== Referències ==
+*{{ref-llibre
+ | cognom =
+ | nom = Committee on Army Unmanned Ground Vehicle Technology
+ | títol = Technology Development for Army Unmanned Ground Vehicles
+ | editorial = Washington, D.C. : National Academies Press
+ | any = 2002
+ | isbn = 0-309-50365-5}}
+*{{ref-llibre
+ | cognom = R. Murphy
+ | nom = Robin
+ | títol = Introduction to AI robotics
+ | editorial = [[Massachusetts Institute of Technology]]
+ | any = 2000
+ | isbn = 0-262-13383-0}}
+*{{ref-llibre
+ | cognom = Hung Tran
+ | nom = Thanh
+ | títol = Modelling and Control of Unmanned Ground Vehicles
+ | editorial = ARC Centre of Excellence for Autonomous Systems - Univerity of Technology, Sydney, Australia.
+ | any = 2007
+ | isbn = }}
+{{Referències|2|refs=
+ref name=Cibernética aplicada{{ref-llibre
+ | cognom = Salido Tercero
+ | nom = Jesús
+ | títol = Cibernética aplicada
+ | editorial = [[Ra-Ma]]
+ | any = 2009
+ | isbn = 978-84-7897-940-0
+ | citació = ,0 -Cualquier sistema cibernético [...] necesita para su funcionamiento de un módulo funcional controlador encargado de adoptar las medidas correctoras adecuadas para que la evolucion del sistema sea la deseada.
+,1 - Al aumentar la complejidad de los comportamientos deseados resulta más difícil llevarlos a la práctica mediante lógica cableada.}}/ref
+ref name=AI robotics{{ref-llibre
+ | cognom = R. Murphy
+ | nom = Robin
+ | títol = Introduction to AI robotics
+ | editorial = [[Massachusetts Institute of Technology]]
+ | any = 2000
+ | isbn = 0-262-13383-0
+ | citació = An artificially intelligent robot has to have some sensing in order to be considered a true AI robot. If it cannot observe the world and the effects of its actions, it cannot react.}}/ref
+ref name=Sensors{{ref-llibre
+ | cognom = 
+ | nom = Diversos autors
+ | títol = Guía Práctica de Sensores
+ | editorial = [[Creaciones Copyright]]
+ | any = 2010
+ | isbn = 978-84-92779-49-9
+ | citació = Nos valdremos de algunos de los sensores que hemos ido viendo [...], para dotar al micro-robot de capacidad de reconocer determinadas modificaciones que sufre el entorno en el que se mueve.}}/ref
+ref name=Comitè UGV{{ref-llibre
+ | cognom =
+ | nom = Committee on Army Unmanned Ground Vehicle Technology
+ | títol = Technology Development for Army Unmanned Ground Vehicles
+ | editorial = Washington, D.C. : National Academies Press
+ | any = 2002
+ | isbn = 0-309-50365-5
+ | citació = To facilitate its work, the Committee on Army Unmanned Ground Vehicle Technology categorized UGVs as belonging to one of four capability classes. These classes are distinguished by the following characteristics: 1. Teleoperated ground vehicle (TGV) 2. Semiautonomous preceder-follower (SAP/FUGV) 3. Platform-centric autonomous ground vehicle (PCAGV) 4. Network-centric autonomous ground vehicle (NCAGV)}}/ref
+ref name=Modelling{{ref-llibre
+ | cognom = Hung Tran
+ | nom = Thanh
+ | títol = Modelling and Control of Unmanned Ground Vehicles
+ | editorial = ARC Centre of Excellence for Autonomous Systems - Univerity of Technology, Sydney, Australia.
+ | any = setembre 2007
+ | isbn = 
+ }}/ref
+ref name=USM{{ref-llibre
+ | cognom = Douglas W.
+ | nom = Gage
+ | títol = A Brief History of Unmanned Ground Vehicle (UGV) Development Efforts
+ | editorial = Unmanned Systems Magazine
+ | any = 1995
+ | isbn =
+ | citació = In the broadest dictionary sense, an unmanned ground vehicle (UGV) is any piece of mechanized equipment that moves across the surface of the ground and serves as a means of carrying or transporting something, but explicitly does NOT carry a human being. [...] The academic community usually refers to UGVs (especially UGVs possessing significant autonomous capabilities) as mobile robots. There is a certain irony in this terminology, since many of the key research issues (e.g., inverse kinematics) addressed in traditional robotics (oriented to the control of industrial manipulators) are completely irrelevant to mobile robots.}}/ref
+}}
+
+== Enllaços externs ==
+*http://science.howstuffworks.com/military-robot.htm
+*http://defense-update.com/ugv
+*http://www.unmanned.co.uk/ugv-gallery/
+*http://contracting.tacom.army.mil/future_buys/FY11/UGS%20Roadmap_Jul11.pdf
+*http://www.washingtonpost.com/wp-srv/technology/interactives/futurecombat/index.html
+*http://www.dtic.mil/dtic/tr/fulltext/u2/a422845.pdf
+*http://upcommons.upc.edu/e-prints/bitstream/2117/570/1/IOC-DT-P-2004-05.pdf
+
+{{Commonscat}}
+
+{{ORDENA:UGV}}
+[[Categoria:Robòtica]]
+[[Categoria:Telecomandament]]
+[[Categoria:Vehicles terrestres]]</text>
+      <sha1>5vnm4zmz19wdt5i1e9g3dyv0c630zzw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

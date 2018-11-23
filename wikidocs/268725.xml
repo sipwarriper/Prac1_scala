@@ -1,0 +1,91 @@
+<page>
+    <title>Kaizen</title>
+    <ns>0</ns>
+    <id>268725</id>
+    <revision>
+      <id>13869298</id>
+      <parentid>13282505</parentid>
+      <timestamp>2014-07-19T19:28:19Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: Benefici' éstà més  Benefici' està més</comment>
+      <text>'''Kaizen''' (改善, [[Japonès]] per a, literalment, canvi per a millor, o millora; el terme comú en [[català]] és [[millora contínua]]).
+
+En el context d'aquest article, ''kaizen'' es refereix a una estratègia de [[qualitat]] al lloc de treball i està freqüentment associada amb el sistema de producció de [[Toyota]] i relacionada amb diversos sistemes de [[control de qualitat]], incloent mètodes de W. Edwards Deming.
+
+El kaizen tracta d'eliminar residus,definits per Joshua Isaac Walters com activitats que afegeixen cost pero no afegeixen valor). 
+
+== Introducció ==
+El kaizen és una activitat diària el propòsit de la qual va més enllà d'una simple millora de la productivitat. És també un procés que, quan es fa correctament, fa més humà el lloc de treball, elimina la superposició de treball difícil (físic o mental) [[muri]], i ensenya a la gent com fer experiments al seu treball fent servir el [[mètode científic]] i com a aprendre a detectar i eliminar residus en els processos de negocis.
+
+Per a ser més efectiu, el Kaizen ha d'operar amb tres principis:
+* Considerar el procés i els resultats perquè les accions que donen els efectes surtin a la superfície.
+* Pensament sistemàtic de tot el procés i no només d'allò que es veu immediatament (p.ex. una visió àmplia, no només estreta) per a evitar crear problemes en qualsevol lloc del procés.
+* Un enfocament i una intenció d'aprenentatge, objectiva, no acusadora permetrà la re-examinació de suposicions que van portar a l'actual procés.
+
+La gent a tots nivells d'una organització pot participar en el Kaizen, des del Director General fins als proveïdors externs si existeixen. El format per al Kaizen pot ser individual, sistema de suggeriments, grup petit o grup gran. A Toyota, és habitualment una millora local a una estació de treball o àrea local i involucra a un petit grup en la millora del seu entorn de treball i la seva productivitat. Aquest grup és sovint guiat a través del procés Kaizen per un supervisor de línia; altres vegades aquesta és el rol principal del supervisor de línia.
+
+Mentre que Kaizen (a Toyota) habitualment dóna petites millores, la cultura de les millores i les estandarditzacions contínues, alineades i petites dóna grans resultats en forma de millores de la productivitat composta. 
+
+Aquesta filosofia difereix dels programes de millora manar i controlar de mitjans del [[segle XX]]. La metodologia Kaizen inclou fer canvis, monitoritzar els resultats, i després ajustar. La preplanificació a gran escala i la calendarització de projecte exhaustiva és reemplaçada per experiments més petits, que poden ser adaptats ràpidament a mesura que es suggereixen noves millores.
+
+== Traducció ==
+En japonès es pronuncia 'Kaizen'.
+
+* 改 ('kai') KAI significa 'canvi' o 'l'acció per a corregir'. 
+* 善 ('zen') ZEN significa 'bo'.
+
+En xinès es pronuncia 'gai shan':
+
+* 改 ('gǎi') significa 'canvi' l''acció per a millorar'.
+* 善 ('shàn') significa 'bo' o 'benefici'. 'Benefici' està més lligat a la filosofia Taoista o Budista, que dóna la definició com l'acció que beneficia a la societat però no a un individu individual (p.ex. la millora multilateral). En altres paraules, un no es pot beneficiar a expenses del benefici de l'altre. La qualitat d'aquest benefici hauria de durar per sempre, en altres paraules, el 'shan' és una acció que realment beneficia als altres.
+
+== Història ==
+Al Japó, després de la [[Segona Guerra Mundial]], les forces d'ocupació americanes van portar experts americans en mètodes de control estadístic que estaven familiaritzats amb els programes d'entrenament del departament de guerra [[Training Within Industry]] (TWI) per a recuperar el país. Els programes de TWI incloïen Instrucció de Treball (treball normal) i Mètodes de Treball (millores de processos). En conjunció amb el [[cicle Shewhart]] ensenyat per [[W. Edwards Deming]], i altres mètodes basats en estadística ensenyats per [[Joseph M. Juran]], això es va convertir en la base de la revolució Kaizen al JapórefThe Roots of Lean: Training within Industry - the origin of Kaizen, Jim Huntzinger, AME, Target Volume 18 No 1, First Quarter 2002, p 13/ref que va tenir lloc als [[1950s]].
+
+== Implementació ==
+El [[Toyota Production System]] és conegut pel Kaizen, on de tot el personal de línia s'espera que pari la seva activitat a la línia de producció en cas d'anormalitat, i juntament amb un supervisor, suggereixi una millora per a resoldre l'anormalitat, cosa que pot iniciar un Kaizen.
+
+El cicle d'una activitat Kaizen pot ser definit com: estandarditzar una operació → mesurar l'operació estandarditzada (trobar el temps de cicle i la quantitat d'inventari de procés) → comparar les mesures amb els requeriments → innovar per a assolir els requeriments i augmentar la productivitat → estandarditzar les noves i millorades operacions → continuar el cicle ''ad infinitum''. Això es coneix també com a cicle Shewart, cicle Deming, o PDCA.
+
+[[Masaaki Imai]] va fer el terme famós al seu llibre, ''Kaizen: La clau per a l'èxit competitiu del Japó''.
+
+A part de les aplicacions de negoci del mètode, tant [[Anthony Robbins]] com Robert Maurer han popularitzat els principis Kaizen en prinicpis de desenvolupament personal. Les bases del mètode Kaizen CANI (Constant and Never-Ending Improvement, en anglès Millora constant i que mai acaba) de Robbins és tractat a la seva sèrie Lessons in Mastery.
+
+== Vegeu també ==
+* [[5S (metodologia)|5S]]
+* [[Balanced Scorecard]]
+* [[Business Process Reengineering]]
+* [[Extreme Programming]]
+* [[Lean]]
+* [[Lean production]]
+* [[Six Sigma]]
+* [[Theory of Constraints]]
+* [[Total Productive Maintenance|TPM]] or [[Total Productive Maintenance]]
+* [[Toyota Production System]]
+* [[Training Within Industry]]
+* [[TRIZ]]
+* [[W. Edwards Deming]]
+* [[TOC Lean Six Sigma]]
+* [[Control de Processos Estadístic]]
+* [[SCRUM]]
+
+== Referències ==
+{{referències}}
+
+== Altres lectures ==
+* Dinero, Donald (2005), ''Training Within Industry: The Foundation of Lean, Productivity Press, ISBN 1-56327-307-1
+* Emiliani, B., with Stec, D., Grasso, L. and Stodder, J. (2007), ''Better Thinking, Better Results: Case Study and Analysis of an Enterprise-Wide Lean Transformation,'' second edition, The CLBM, LLC Kensington, Conn., ISBN 978-0-9722591-2-5
+* Imai, Masaaki (1986), ''Kaizen: The Key to Japan's Competitive Success'', McGraw-Hill/Irwin, ISBN 0-07-554332-X
+* Imai, Masaaki, ''Gemba Kaizen: A Commonsense, Low-Cost Approach to Management'' McGraw-Hill; 1 edition (March 1, 1997) ISBN 0-07-031446-2
+
+[[Categoria:Cultura del Japó]]
+[[Categoria:Gestió de projectes]]</text>
+      <sha1>ruoj0anhfu8w7jwqpjogc6qrjeld5pc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

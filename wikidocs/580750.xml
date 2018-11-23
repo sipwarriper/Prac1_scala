@@ -1,0 +1,41 @@
+<page>
+    <title>Atac per maquinari a mida</title>
+    <ns>0</ns>
+    <id>580750</id>
+    <revision>
+      <id>13471427</id>
+      <parentid>13040385</parentid>
+      <timestamp>2014-05-27T21:22:38Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: desclassificat]] fina al  desclassificat]] fins al</comment>
+      <text>[[Fitxer:Board300.jpg|thumb|right|260px|La màquina Deep Crack de EFF continguda en 18.000 xips a mida podia trencar per la força bruta una clau DES en qüestió de dies —; la foto mostra una targeta del circuit amb 32 xips d'atac a mida]]
+En [[criptografia]], un '''atac per maquinari a mida''' fa servir circuits electrònics dissenyats de manera especial per desxifrar [[xifratge|missatges xifrats]].
+
+Realitzar un [[atac per la força bruta|atac criptogràfic per la força bruta]] exigeix un gran nombre de càlculs similars: típicament provar una [[clau (criptografia)|clau]], comprovar si el text desxifrat que resulta dóna una resposta significativa i provar la pròxima clau si no. Els ordinadors poden realitzar aquests càlculs a una proporció de milions per segon, i milers d'ordinadors es poden emprar junts en una xarxa de [[computació distribuïda]]. Però el nombre de càlculs exigits de mitjana [[augmenta exponencialment]] amb la mida de la clau i per a molts problemes els ordinadors estàndards no són prou ràpids. D'altra banda, molts algorismes criptogràfics es presten a ser implementats ràpidament en maquinari, i.e. xarxes de [[porta lògica|circuits integrats lògics]] o portes. Els [[Circuit integrat|circuits integrats]] (ICs) es construeixen d'aquestes portes i sovint poden executar algorismes criptogràfics centenars de vegades més ràpids que un ordinador de propòsit general. 
+
+Cada CI pot contenir grans nombres de portes (centenars de milions el 2005) i el nombre continua augmentant segons [[llei de Moore]]. Així el mateix circuit de desxifratge, o '''cèl·lula''', pot ser duplicat milers de vegades en un CI. Els requisits de comunicacions d'aquests CIs són molt simples. Cada un s'ha de carregar inicialment amb un punt de partida en l'espai claus i, en algunes situacions, amb un valor de prova de comparació (vegi [[atac per textos clars coneguts]]. La sortida consta d'un senyal que el CI ha trobat una resposta i la clau que ha tingut èxit.
+
+Ja que els CIs es presten a la producció en massa, milers o fins i tot milions de CIs es poden aplicar a un problema senzill. Els CIs mateixos es poden muntar en [[circuit imprès|plaques de circuit imprès]]. Un disseny de placa estàndard de es pot fer servir per a problemes diferents, ja que els requisits de comunicació dels xips són els mateixos. La integració Wafer-scale és una altra possibilitat. Les limitacions primàries sobre aquest mètode són el cost de [[Lay out de circuits integrats|disseny del xip]], la [[Fabricació de semiconductors|fabricació dels ICs]], l'espai de base, la potència elèctrica i la dissipació tèrmica.
+
+Un enfocament alternatiu és fer servir FPGAs [[FPGA|Field Programmable Gate Array]]; aquests són més lents i més cars per porta, però es poden tornar a programar per a problemes diferents. [http://www.copacobana.org/ COPACOBANA] (Cost-Optimized Parallel COde Breaker)(Trencador de codis paral·lel optimitzat en cost) és una màquina d'aquest tipus, consta de 120 FPGAs de tipus [[Xilinx]] Spartan3-1000 que corren en paral·lel.
+
+
+== Història ==
+El primer atac per maquinari a mida pot haver estat la [[Bomba criptogràfica]] feta servir per trobar claus de la [[Màquina Enigma]] en la [[Segona Guerra Mundial]]. El 1998, un atac per maquinari a mida es muntava contra el sistema de xifratge [[DES]] per la [[Electronic Frontier Foundation]]. El seu [[EFF DES cracker]] màquina que va costar $250.000 de construir, desxifrava el missatge de prova del [[II-2 desafiament de DES]] després de 56 hores de treball. L'únic altre dispositiu capaç de trencar el DES confirmat era la màquina [http://www.copacobana.org/ Copacobana] construïda el 2006. A diferència del EFF DES cracker, COPACOBANA consistia de circuits integrats reconfigurables disponibles comercialment. COPACOBANA costava uns $10.000 de construir i obtenia una clau DES en menys de 6.4 dies de mitjana. Es creu generalment que les organitzacions de ruptura de codi governamentals grans, com l'[[National Security Agency|Agència De Seguretat Nacional]] dels EUA, fan ús extens d'atacs de maquinari a mida, però cap exemple no s'ha [[informació classificada|desclassificat]] fins al 2005.
+
+== Enllaços externs ==
+* [http://ops.conus.info/ Hardware brute-force Oracle RDBMS password/hashes solver]
+
+{{ORDENA:Atac Per Maquinari A Mida}}
+
+[[Categoria:Criptografia]]
+[[Categoria:Atacs criptogràfics|Maquinari a mida]]</text>
+      <sha1>q09kjcdxd736m40ah2gh7ivadao6y4l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

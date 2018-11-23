@@ -1,0 +1,89 @@
+<page>
+    <title>John von Neumann</title>
+    <ns>0</ns>
+    <id>206534</id>
+    <revision>
+      <id>13661838</id>
+      <parentid>13124707</parentid>
+      <timestamp>2014-06-23T22:29:17Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Infobox scientist2
+|name              = John von Neumann
+|image             = JohnvonNeumann-LosAlamos.gif
+|image_size        = 230px
+|caption           = John von Neumann a l'època del [[Projecte Manhattan]]
+|birth_date        = {{birth date|mf=yes|1903|12|28}}
+|birth_place       = [[Budapest]], [[Àustria-Hongria ]]
+|death_date        = {{death date and age|mf=yes|1957|2|8|1903|12|28}}
+|death_place       = [[Washington, D.C.]], [[EUA]]
+|residence         = [[EUA]]
+|citizenship       = 
+|nationality       = Hongaresa i Americana
+|fields            = [[Matemàtiques]] i [[Informàtica]]
+|workplaces        = [[Universitat de Berlin]]br /[[Princeton University]]br /[[Institute for Advanced Study]]br /[[Los Alamos National Laboratory|Site Y, Los Alamos]]
+|alma_mater        = [[Eötvös Loránd University|University of Pázmány Péter]]br /[[ETH Zürich]]
+|doctoral_advisor  = [[Lipót Fejér]]
+|academic_advisors = 
+|doctoral_students = [[Donald B. Gillies]]br /[[Israel Halperin]]
+|notable_students  = [[Paul Halmos]]br[[Clifford Hugh Dowker]]
+|known_for         = [[Teoria dels jocs]]br[[ALU]]!--[[Àlgebra de von Neumann ]]br[[Affiliated operator]]br[[Amenable group]]br[[viscosity|Artificial viscosity]]br[[Axiom of regularity]]br[[Axiom of limitation of size]]br[[Backward induction]]br[[Blast wave|Blast wave (fluid dynamics)]]br[[Bounded set (topological vector space)]]br[[Class (set theory)]]br[[Quantum decoherence|Decoherence theory]]br[[Computer virus]]br[[Commutation theorem]]br[[Continuous geometry]]br[[Direct integral]]br[[Doubly stochastic matrix]]br[[Dual problem|Duality Theorem]]br[[Density matrix]]br[[Durbin–Watson statistic]]br[[Game theory]]br[[Hyperfinite type II factor]]br[[Ergodic theory]]br[[EDVAC]]br[[nuclear weapon design|explosive lenses]]br[[Lattice (order)|Lattice theory]]br[[Lifting theory]]br[[Inner model]]br[[Inner model theory]]br[[Interior point method]]br[[Mutual assured destruction]]br[[Merge sort]]br[[Middle-square method]]br[[Minimax|Minimax theorem]]br [[Monte Carlo method]]br[[Normal-form game]]br[[Pointless topology]]br[[Polarization identity]]br[[Pseudorandomness]]br[[Pseudorandom number generator|PRNG]]br[[Quantum mutual information]]br[[Radiation implosion]]br[[Rank ring]]br[[Operator theory]]br[[Operation Greenhouse]]br[[Self-replication]]br[[Hardware_random_number_generator#Software_whitening|Software whitening]]br[[Standard probability space]]br[[Stochastic computing]]br[[Subfactor]]br[[von Neumann algebra]]br[[von Neumann architecture]]br[[Von Neumann bicommutant theorem]]br[[Von Neumann cardinal assignment]]br[[Von Neumann cellular automaton]]brvon Neumann constant (two of them)br[[Interpretation_of_quantum_mechanics#von_Neumann.2FWigner_interpretation:_consciousness_causes_the_collapse|Von Neumann interpretation]]br[[Measurement_in_quantum_mechanics#von_Neumann_measurement_scheme|von Neumann measurement scheme]]br[[Von Neumann ordinal|Von Neumann Ordinals]]br[[Von Neumann universal constructor]]br[[Von Neumann entropy]]br[[von Neumann Equation]]br[[Von Neumann neighborhood]]br[[Von Neumann paradox]]br[[Von Neumann regular ring]]br{{nowrap|[[Von Neumann–Bernays–Gödel set theory]]}}br[[Spectral theory|Von Neumann spectral theory]]br[[Von Neumann universe]]br[[Von Neumann conjecture]]br[[Von Neumann's inequality]]br[[Stone–von Neumann theorem]]br[[Von Neumann's trace inequality]]br[[Von Neumann stability analysis]]br[[Quantum statistical mechanics]]br[[Von Neumann extractor]]br[[Mean ergodic theorem|Von Neumann ergodic theorem]]br[[Ultrastrong topology]]br[[Von Neumann–Morgenstern utility theorem]]br[[ZND detonation model]]--
+|author_abbrev_bot = 
+|author_abbrev_zoo = 
+|influences        = 
+|influenced        = 
+|awards            = [[Bôcher Memorial Prize]] (1938)
+|awards            = [[Premi Enrico Fermi]] (1956)
+|signature         = 
+|footnotes         = 
+}}
+'''John von Neumann''' (Nom original en [[hongarès]]: '''Margittai Neumann János Lajos'''), ([[Budapest]], [[1903]] - [[Washington D.C.|Washington]], [[1957]]), fou un [[científic]], [[físic]] i [[matemàtic]] [[estatunidenc]], d'origen hongarès, considerat per alguns com un dels més importants científics del [[segle XX]].
+
+Ja de jove va mostrar geni i bona memòria, realitzant complicades operacions matemàtiques o podent inclús memoritzar pàgines completes de la guia telefònica. Sense anar molt a classe, obtingué brillants qualificacions en matemàtiques a la [[Universitat de Budapest]]. De [[1921]] al [[1923]] va estudiar [[química]] a [[Berlín]] i, després, es va graduar en Enginyeria química a [[Zurich]]. Es doctorà en Matemàtiques als vint-i-tres anys i amb vint-i-cinc ja era considerat un geni per la comunitat de matemàtics. El 1933 junt a Alexander, [[Veblen]], [[Albert Einstein|Einstein]], [[Samuel Morse|Morse]] i [[Weyl]] es va convertir en un dels grans sis primers professors de matemàtiques de l'institut per a l'Estudi Avançat de Princenton ([[USA]]) on va estar per a la resta de la seva vida.
+
+Junt a [[Oskar Morgenstern]], el [[1944]] publicà, Teoria de jocs i comportaments econòmics, que va revolucionar l'àrea de l'economia, introduint nous mètodes matemàtics per a l'anàlisi de problemes econòmics. Fou un dels iniciadors de les ciències de la computació, i precursor del primer ordinador, per als que va definir el bit com a unitat de memòria. Durant la [[Segona Guerra Mundial]] fou conseller de les [[Forces Armades dels Estats Units]], va formar part del [[Projecte Manhattan]] i va contribuir a la fabricació de la [[bomba d'hidrogen]].
+
+== Traduccions al català ==
+* {{Ref-llibre
+ |títol=El paper de la matemàtica en la ciència i la societat
+ |editorial= [[Obrador Edèndum]] i [[Publicacions URV]]
+ |lloc= [[Santa Coloma de Queralt]]
+ |any= [[2008]]
+ |isbn = 9788493660918
+ |col·lecció= Punt Nodal; 1
+ }} Traducció de Mònica Merín i Sales.
+
+* {{Ref-llibre
+ |títol= L’ordinador i el cervell
+ |editorial= [[Obrador Edèndum]] i [[Publicacions URV]]
+ |lloc= [[Santa Coloma de Queralt]]
+ |any= [[2009]]
+ |isbn = 9788493759087
+ |col·lecció= Punt Nodal; 2
+ }} Traducció de Jordi Ainaud.
+
+== Vegeu també ==
+* [[Arquitectura de von Neumann]]
+* [[Conceptes de Neumann]]
+{{-}}
+== Enllaços externs ==
+{{Commonscat|John von Neumann}}
+
+{{Autoritat}}
+{{ORDENA:Neumann, John Von}}
+
+[[Categoria:Persones de Budapest]]
+[[Categoria:Científics hongaresos]]
+[[Categoria:Químics]]
+[[Categoria:Matemàtics hongaresos]]
+[[Categoria:Premis Enrico Fermi]]
+[[Categoria:Físics quàntics]]</text>
+      <sha1>81i13zvj3l282cv8sarbgn942kqf6ig</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

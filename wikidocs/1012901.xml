@@ -1,0 +1,98 @@
+<page>
+    <title>Borsa de Tòquio</title>
+    <ns>0</ns>
+    <id>1012901</id>
+    <revision>
+      <id>13823766</id>
+      <parentid>13609072</parentid>
+      <timestamp>2014-07-14T15:22:13Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer: Tokyo stock exchange.jpg|thumb|150px|Borsa de [[Tòquio]].]]
+La {{nihongo|''' Borsa de Tòquio '''|东京 证券 取 引 所|Tōkyō Shōken Torihikijo}}(TSE), és la segona [[borsa de valors]] més gran del món (juntament amb la [[Borsa de Valors de Sao Paulo]]) i està destinada a la negociació en exclusiva de les [[acció (finances)|accions]] i [[valors]] convertibles o que atorguin dret d'adquisició o subscripció.
+
+Els principals índexs de la Borsa de [[Tòquio]] són el [[Nikkei 225]], índex de companyies triades pel [[Nihon Keizai Shimbun]] (el diari de negocis més gran del [[Japó]]), el [[TOPIX]] i el [[J30]] (índex de grans companyies industrials).
+
+El sistema de negociació utilitzat s'anomena [[CORES]] ('''C'''omputer assisted '''O'''pered re'''R'''outing and '''E'''xecution '''S'''ystem).
+
+== Estructura ==
+La Borsa de Tòquio està estructurada en diferents mercats o seccions:
+
+* ''' First Section ''' (Primer mercat): cotitzen els valors més importants i de major capitalització ([[blue chips]]) on es troben els components del Nikkei.
+* ''' Second Section ''' (Segon mercat): cotitzen companyies més petites i de menor volum de negoci.
+* ''' Foreign Section ''' (Mercat estranger): cotitzen companyies estrangeres.
+* ''' Mothers ''' (Empreses mares): companyies d'alt creixement i innovadores.
+
+== Dades ==
+
+* Nom: Tòquio Stock Exchange, Inc
+* Adreça: 12 directors, 4 auditors, 9 consellers
+* Address: 2-1 Nihonbashi-kabutocho, Chuo-ku, [[Tòquio]], [[Japó]]
+* Fundació: [[15 de maig]] de [[1878]]
+* Capital: 11.500 milions de [[ien]] s
+* Accions: 2.300.000 [[Acció (finances)|accions]]
+* Empleats: 737 persones
+
+* Companyies adscrites 2.302
+** Nacionals 2.271
+** Estrangeres 31
+* Capitalització borsària
+** 332.133.153.000.000 iens
+
+== Història ==
+
+* [[15 de maig]] de [[1878]] - La ''' Borsa de Tòquio ''' és fundada.
+* [[1 de juny]] de [[1878]] - Comença el comerç.
+* [[30 de juny]] de [[1943]] - 11 borses a tot arreu del Japó (Incloent al TSE) van ser unificades en una corporació quasi-pública al servei dels interessos industrials i militars de l'imperi.
+* [[10 d'agost]] de [[1945]] - L'empitjorament de les condicions de guerra i els atacs aeris a l'illa principal del Japó, van forçar al mercat de valors a suspendre les seves sessions de comerç sobre tots els mercats de valors.
+* [[Segona Guerra Mundial]] - Després de la [[Segona Guerra Mundial]], el març de [[1947]], es va promulgar la Llei de Valors i Mercats japonesa que és el marc regulador actual.
+* [[16 de maig]] de [[1949]] - Es reinicien les sessions comercials després de la guerra, sota el patró regulador adoptat el 1947 per la '''Borsa de Tòquio'''.
+* [[1971]] - La borsa de Tòquio va adoptar el sistema d'anotacions en compte per a accions.
+* [[1973]] - Es determina la secció d'acció estrangera.
+* [[1982]] - Introducció del sistema CORES (Computer assited Order Routing and Execution System), de manera que va començar la transformació del [[mercat de ròdols]] en el mercat informàtic que coneixem avui, unint els cinc mercats japonesos en un modern mercat continu.
+
+== Formes de negociació: Fixació del preu ==
+
+La Borsa de Tòquio, com qualsevol altre mercat de valors del món, té com a comesa posar en contacte oferta i demanda per tal d'establir preus competitius. I per assolir aquest objectiu les diferents borses recorren a diferents mecanismes i formes de negociació.
+A la TSE, podem distingir tres regles de joc diferents, d'acord al moment i les condicions que s'estiguin donant. Aquestes tres formes són: ''' Itayose ''', ''' Zabara ''' i ''' les subhastes '''.
+
+* ''' Itayose ''': Aquest sistema el seu utilitza per fixar preus d'obertura i tancament de cadascuna de les dues sessions diàries i per fixar el nou preu inicial després d'una parada de negociació (trading Hault). L'últim cas en que s'usa és per fixar un preu després d'una cotització especial (special quote). Sota aquest sistema totes les ordres que s'introdueixen en el llibre registre d'anotacions es tracten com simultànies, és a dir que se suprimeix la prioritat de temps. Com es calcula aquest preu d'equilibri, és una cosa que ve determinat pel volum agregat d'ordres de compra i venda que existeixen. De fet, el preu que resulta d'una negociació amb el mètode Itayose serà aquell que equilibri en major mesura oferta i demanda, executant les ordres de compravenda amb preus superiors/inferiors al d'equilibri.
+
+* ''' Zaraba ''': És el mètode de fixació de preus que s'usa en la negociació contínua de la sessions. És l'execució habitual de les ordres d'oferta i demanda després de la fixació del preu inicial.A mesura que noves ordres arriben al llibre registre, aquestes s'agreguen a les ja existents i s'executen si escau, o s'emmagatzemen en espera de ser executades.
+
+* ''' Subhastes (ToSTNeT-1 i ToSTNeT-2) ''': Aquests dos mecanismes van ser introduïts el 1997 i 1998 respectivament i són bàsicament sistemes electrònics de negociació en subhastes i tenen com a fi facilitar el comerç de grans volums d'accions. Aquest tipus de negociació aquesta restringida a les accions domèstiques. Per a aquestes negociacions hi ha tres sessions diàries: 8:20-09:00, 11:00-12:00 i de 15:00-16:30.
+
+== Liquidació i compensació ==
+
+Les tasques de compensació i liquidació resultants de les operacions de mercat, són portades a terme per dos empreses independents.
+La compensació, és a dir, el balanç individual de cada agent que determina la quantitat d'accions que al final de la jornada compra, ven i guarda, el realitza la corporació ''' JSCC ''' o ''' Japan Securities Clearing Corporation '''. Aquesta empresa és comú a les sis borses nipones, ja que les sis estan interconnectades. Per tant, el seu treball és determinar els saldos i moviment d'accions entre les diferents parts i agents i transmetre aquesta informació als liquidadors.
+La liquidació és el traspàs efectiu, el canvi de mans, d'uns individus, (venedors) cap a altres (els compradors). Les funcions pròpies de la liquidació són portades a terme per l'empresa ''' JASDEC ''' o ''' Japan Securities Depository Center. Inc ''' I aquestes funcions són:
+* Custodiar els saldos d'accions dels agents participants, i executar les transferències dels uns als altres d'acord a les anotacions en compte i a la informació que li subministra el JSCC.
+* Atorga els permisos per a la possessió directa d'accions.
+* Eliminar els regs de comportament oportunista inherents a l'intercanvi.
+* Assegurar el crèdit dels participants. Establir garanties en cas d'incompliment o impagament.
+
+== Enllaços externs ==
+{{Commonscat}}
+* [http://www.tse.or.jp/Lloc oficial] (en japonès)
+* [http://www.tse.or.jp/english/Lloc oficial] (en anglès)
+
+== Nota ==
+references/
+
+{{coord|35|40|57.60|N|139|46|43.71|E|source:enwiki_type:landmark|display=title}}
+{{Autoritat}}
+{{ORDENA:Borsa De Toquio}}	!--ORDENA generat per bot--
+[[Categoria:Economia]]
+[[Categoria:Japó]]
+[[Categoria:Borses de valors]]
+[[Categoria:Tòquio]]</text>
+      <sha1>tvp28ga01jr8vfi29o3aye7hykrh7s6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

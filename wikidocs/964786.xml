@@ -1,0 +1,135 @@
+<page>
+    <title>Vàlvula de camisa</title>
+    <ns>0</ns>
+    <id>964786</id>
+    <revision>
+      <id>13679592</id>
+      <parentid>13646659</parentid>
+      <timestamp>2014-06-24T15:01:19Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>{{2L|data=febrer de 2013}}
+[[fitxer: Bristol Perseus sleeve valve radial engine.jpg|thumb|300px|[[Motor radial]] [[aeronàutica|aeronàutic]] [[Bristol Perseus]], seccionat mostrant els seus components, són clarament visibles les '' vàlvules de camisa ''.]]
+La ''' vàlvula de mànega ''', ''' vàlvula de camisa ''', o més correctament ''' vàlvula de camisa corredissa ''', és un tipus de mecanisme de [[vàlvula]] per [[motor de combustió interna alternatiu|motors de pistons]], diferent de la més comuna [[vàlvula de seient]]. Van tenir algun ús en actuacions de luxe i esportius pre-[[SGM]], en actuacions i camions lleugers de [[Willys-Knight]]; les actuacions de luxe de la [[Daimler]] britànica i l'[[Avions Voisin]] francesa també van usar el sistema similar de doble màniga Willys-Knight. Es va deixar d'usar paulatinament pels avanços en la tecnologia de les vàlvules de seient (refrigerades per sodi) i per la seva tendència a cremar quantitats considerables d'oli, o agafar causa de la falta d'ell. La companyia escocesa [[Argyll]] va usar el seu propi sistema d'una sola màniga, molt més simple i eficient, el qual després d'un extens desenvolupament, va veure un ús considerable en [[motor d'avió|motors d'avió]] dels 40, com el [[Napier Sabre]], el [[Bristol Hercules]] i el [[Bristol Centaurus|Centaurus]], només suplantats pels motors de reacció.
+
+== Descripció ==
+Una vàlvula de camisa corredissa consisteix en una o més camises mecanitzades amb forats o lumbreras en posició adequada, que se situen entre el pistó i la paret del cilindre, on roten i/o llisquen per fer coincidir els seus forats amb les lumbreras d'admissió i escapament del cilindre en el moment apropiat del cicle del motor (veure [[cicle Otto]]).
+
+=== Tipus de vàlvules de camisa ===
+[[fitxer: Knight sleeve-valve engine (Autocar Handbook, Ninth edition).jpg |thumb|right|Un motor de 4 cilindres d'automòbil de 1919, seccionat en els cilindres per mostrar les vàlvules de camisa Knight.]]
+[[fitxer: Argyll single sleeve-valve engine (Autocar Handbook, Ninth edition).jpg |thumb|right|Vàlvula de camisa simple Argyll]]
+La primera vàlvula de corredissa reeixida va ser patentada per [[Charles Yale Knight]], i usava dues camises alternants i lliscants. Es va usar en alguns automòbils de luxe, però tenia un alt consum d'oli.
+
+La vàlvula de camisa corredissa de [[Burt-McCollum]], utilitzada per l'empresa escocesa Argyll per als seus vehicles, i més tard adoptada per la [[Bristol Motor Company|Bristol]] per als seus motors radials d'aviació, va utilitzar una sola camisa que girava sincronitzada amb un eix col·locat a 90 º de l'eix del cilindre. La vàlvula Burt-McCollum era mecànicament més simple i robusta, i tenia l'avantatge addicional de consumir menys oli (comparada amb altres dissenys de vàlvules de camisa), alhora que mantenia la relació entre la càmera de combustió i les llumeneres del sistema del [[motor Knight]].
+
+Un petit nombre de dissenys utilitzaven una camisa a la culata de cilindre, en lloc de fer-ho en el cos del cilindre, donant un perfil més clàssic comparat amb els motors amb [[Vàlvula de seient|vàlvules de seient]] tradicionals. Aquest disseny tenia l'avantatge de no contenir el pistó a l'interior de la vàlvula, encara que en els fets sembla haver tingut poc valor pràctic. Com desavantatge, aquest sistema limita la mida de les llumeneres de la culata, mentre que les vàlvules de camisa situades en el cilindre poden tenir obertures de mida molt més gran.
+
+== Avantatges i Desavantatges ==
+=== Avantatges ===
+Els principals avantatges dels motors amb vàlvules de camisa són:
+
+* Increment en l'eficiència volumètrica a causa de la gran obertura de les llumeneres d'entrada, Sir Harry Ricardo va demostrar també una major eficiència mecànica. Un avantatge addicional és que la mida de les llumeneres pot ser controlat fàcilment. Això és d'importància quan el motor funciona en un ampli rang de RPM, ja que la velocitat a la que l'aire pugui entrar i sortir del cilindre es defineix per la grandària del conducte que condueix al cilindre i varia segons la galleda de les RPM. En altres paraules, a major RPM del motor normalment requereix que les llumeneres tinguin una major obertura, cosa que és bastant fàcil d'aconseguir amb les vàlvules de camisa corredissa, però difícil en un sistema de vàlvules de seient.
+
+* La vàlvula de camisa única ofereix un bon escombrat dels gasos d'escapament i una turbulència controlada per la barreja aire/combustible entrant; Quan la lumbrera d'admissió s'obre, la barreja aire/combustible pot entrar tangencialment al cilindre. Això ajuda a l'escombrat quan s'usa el solapament de les llumeneres d'escapament i admissió (veure [[Avanços i retards de vàlvules #El 22 encreuament de v.C3.A1lvulas.22|Encreuament de vàlvules]]) i es requereix un ampli rang de velocitats, mentre que el escombrat en el sistema de [[vàlvula de seient|vàlvules de seient]] pot diluir la barreja aire/combustible entrant, sent més depenent de la velocitat (confiant principalment en l'ajust de la ressonància del sistema escapament/admissió per mantenir separats les dues maces de fluids, la de la barreja fresca i la dels gasos cremats). Més llibertat en el disseny de la cambra de combustió (amb unes poques restriccions, a més de la ubicació de la bugia) significa que el remolí de la barreja combustible/aire en el PMS pot ser més controlat per permetre una millora en l'encesa i en l'expansió de la flama, la qual cosa va ser demostrat per Ricardo, el que permet almenys una unitat més en la relació de compressió sense detonar, pel que fa al sistema de vàlvules de seient.
+
+* La [[càmera de combustió]] formada amb les camises en final del cicle és ideal per a una combustió de la càrrega completa i lliure de detonacions, ja que no ha de bregar amb una càmera de forma compromesa i la vàlvula (de seient) de escapament calenta.
+
+* No s'usen molls en el sistema de vàlvules de camisa, per tant la força necessària per operar les vàlvules roman constant amb les [[Revolució per minut|RPM]] del motor, permetent operar a altes velocitat sense penalitzacions per això. Un problema amb els motors d'alta velocitat que utilitzen les vàlvules de seient és que a mesura que augmenta la velocitat del motor, la velocitat a la qual la vàlvula es mou també ha d'augmentar. Això al seu torn augmenta les càrregues involucrades a causa de la inèrcia de la vàlvula, que ha d'obrir-se ràpidament, detenir-se, invertir la direcció, tancar-se i després aturar una altra vegada. Les vàlvules grans que permeten un bon flux d'aire tenen una massa considerable i requereixen forts ressorts per sobreposar-se a la inèrcia de l'obertura. En aquest punt, el ressort de la vàlvula aconsegueix la seva [[freqüència de ressonància]], causant una ona de compressió que oscil·la dins del ressort, que al seu torn fa que disminueixi la seva efectivitat i per tant és incapaç de tancar correctament la vàlvula. Aquesta [[flotat de vàlvula|flotació de vàlvules]] pot resultar en que la vàlvula no es tanqui tan ràpid al costat del perfil de la lleva i pot colpejar la part superior del pistó a mesura que aquest puja. A més, l'arbre de lleves, les varetes d'empenta i els taqués poden suprimir-se en un disseny de vàlvules de corredissa, sent aquestes generalment manejades per un sol engranatge controlat pel cigonyal. Per a un motor aeronàutic això produeix una desitjable reducció en pes i complexitat.
+
+* Un altre avantatge en els primers motors d'automòbil (el motor Knight) era la durabilitat. Abans de l'arribada de les gasolines amb plom, els motors amb vàlvules de seient requerien rectificar les vàlvules i els seus seients cada 30.000-50.000 km de servei. Les vàlvules de camisa no sofreixen el desgast causat per l'impacte repetit de la vàlvula contra el seu seient. Les vàlvules de camisa també pateixen menys acumulació de calor intensa, per la seva major àrea de contacte amb altres grans superfícies de metall. En el motor Knight, l'acumulació de carbó en realitat va contribuir a millorar el segellat de les vàlvules de camisa, es deia que milloraven amb l'ús, en contrast amb els motors de vàlvules de seient que perden compressió i potència quan les vàlvules es gasten. A causa del continu moviment de les camises (tipus Burt-McCollum), els punts de major desgast relacionats amb la mala lubricació en el PMI/PMS se suprimeixen, augmentant la durabilitat dels cilindres i els segments dels pistons.
+
+* Una altra gran avantatge és el fet que no requereix allotjar les vàlvules en la culata, permetent col·locar la bugia en el millor lloc per aconseguir un encès eficient de la barreja combustible. En els motors molt grans, on la velocitat de propagació de la flama limita tant la velocitat de gir com la grandària, la turbulència induïda per les lumbreras i descrita per H. Ricardo pot ser un avantatge addicional.
+
+La majoria d'aquests avantatges van ser avaluades i establertes durant la dècada de 1920 per Sir [[Harry Ricardo]], possiblement el major defensor del motor amb vàlvules de camisa corredissa. Va reconèixer però, que algunes d'aquestes avantatges van ser significativament superades amb les millores en els combustibles abans i durant la Segona Guerra Mundial, i la introducció de les vàlvules d'escapament refrigerades per sodi en els motors d'aviació d'alta potència.
+
+=== Desavantatges ===
+El principal desavantatge de les vàlvules de camisa és que és difícil aconseguir un segellat perfecte. En un motor amb vàlvules de seient, el pistó posseeix cèrcols (sovint 3, però pot arribar a 8) els quals formen un segell amb el cos del cilindre. Durant el [[estovi del motor]] (procés que es denomina també com rodatge o assentat), qualsevol imperfecció entre un component raspa contra l'altre, resultant en un bon ajust. Aquest tipus de s'estovi o rodatge no és possible en un motor amb vàlvules de camisa a causa que el pistó i la camisa es mouen en diferents direccions, i en alguns sistemes fins i tot rotan en diferents direccions, en relació d'un amb l'altre. A diferència d'un motor tradicional, les imperfeccions del pistó no es mouen seguint el mateix camí a la camisa. A la dècada de 1940 això no era una preocupació important perquè la vàlvula de seient d'aquest llavors es gastava més del que ho fan avui en dia, de manera que el consum d'oli va ser deficient en ambdós casos.
+
+El problema de consum d'oli associat al motor Knight de doble camisa va ser solucionat amb el sistema de vàlvula Burt-McCollum d'una sola camisa, perfeccionat per Bristol. En el PMS, l'única camisa del sistema trencada en relació al pistó. Això prevé el desgast per problema de lubricació en els límits, com el produït pels cèrcols en els PMI i PMS. El límit del [[Bristol Hercules]] va ser establert en 5.000 Hrs{{Citació necessària|data=novembre de 2012|date = March 2008}}!-- 5,000? -- Amb l'accelerador obert al màxim. Un desavantatge inherent pot ser que el pistó en el seu recorregut tapa parcialment les lumbreras, fent més difícil l'intercanvi de gasos durant l'encreuament de vàlvules usual en els motors ràpids moderns. L'enginyer alemany Max Benteler, que va estudiar un motor d'aviació anglès capturat durant la 2 ª GM, trobava poc pràctic que el motor tingués més de 100 engranatges.ref Name=Bentele, 100 gears{{citar llibre
+ |cognom = Benteler|nom = Max
+ |any = 1991
+ |títol = Engine Revolutions: The Autobiography of Max Benteler
+ |lloc = Warrendale, PA|editorial = [[Society of Automotive Engineers|SAE]]
+ |isbn = 978-1-56091-081-7
+ |ref = Benteler, Engine Revolutions
+ |pàgines =
+ |citació = Durant la SGM, el meu entusiasme original per la simplicitat del motor de vàlvules de camisa resultar estar basat en premisses dubtoses. La inspecció que vaig realitzar un motor Bristol de doble estrella capturat va revelar una galleda plena d'engranatges per manejar les vàlvules de camisa. Crec que hi havia més de 100 engranatges !
+}}/ref
+
+== Història ==
+=== Charles Yale Knight ===
+El 1901 Knight (un impressor i editor de diaris) va comprar un automòbil [[Automòbil Knox|Knox]] de tres rodes amb un motor monocilíndric refredat per aire, però li molestaven les seves sorolloses vàlvules. Va pensar que podia dissenyar un millor motor, i ho va fer, inventant el seu principi de doble camisa en 1904. Recolzat per l'empresari de [[Chicago]] L.B. Kilbourne, es van construir diversos motors, seguit pel [[automòbil de turisme]] Silent Knight (Knight silenciós, però Knight vol dir '' cavaller '', per la qual cosa també és '' Cavaller Silenciós '') el qual va ser mostrat en l'Exposició de l'Automòbil de Chicago de 1906.
+
+El disseny de Knight tenia dues camises de [[ferro colat]] per cilindre, una desplaçant dins de l'altra, amb el [[pistó]] dins de la camisa interior. Les camises eren operades per [[biela]]s petites col·locades en un eix excèntric. Les llumeneres estaven calades en les camises en la part superior. El disseny era notablement simple, i les vàlvules de camisa necessitaven poca atenció. No obstant això, era més car per fabricar a causa de la precisió necessària requerida en les superfícies de les camises. També consumia més oli, i era més difícil d'arrencar en temps fred.ref{{citar llibre|cognom = Petryshyn|nom = Jaroslav|títol = Made Up To A Standard: Thomas Alexander Russell and the Russell Motor Car|editorial = General Store Publishing House|any = 2000|pàgines = 65-66|isbn = 1894263251}}/ref
+
+Tot i que inicialment no va poder vendre el seu [[motor Knight]] als [[Estats Units]], un viatge a [[Europa]] va garantir que diverses firmes fabricants d'automòbils de luxe estiguessin disposades a pagar els seus preus més alts. Knight el seu disseny en [[Gran Bretanya]] en 1908. Com a part dels acords per les llicències, 'Knight' havia d'incloure en el nom de l'automòbil.
+
+Entre les companyies que van usar la tecnologia de Knight estan [[Gabriel Voisin]] (i els seus automòbils [[Avions Voisin]]), [[Daimler]] (en el seu [[Daimler Doble Sis|Doble Sis]] V-12, 1909 - 1930), [[Panhard]] (1911-1939), [[Mercedes-Benz|Mercedes]] (1909-1924), [[Willys]] (com el [[Willys-Knight]], més l'associat Falcon-Knight), [[Stearns (automòbil)|Stearns]], [[Mors]], [[Peugeot]] i la companyia belga [[Minerva automòbils|Minerva]], una trentena d'empreses en total.ref Georgano, GN '' Cars: Early and Vintage, 1886-1930 ''. (London: Grange-Universal, 1985). /ref [[Itala]] també va experimentar amb les vàlvules de camisa.
+
+Al retorn de Knight als Estats Units va aconseguir que algunes empreses utilitzin el seu disseny, sent la seva marca [[Silent Knight]] (1905-1907). L'argument de venda era que els seus motors eren més silenciosos que aquells amb vàlvules convencionals. La més coneguda va ser la companyia F.B. [[Stearns (automòbil)|Stearns]] de Cleveland, la qual va vendre un automòbil anomenat [[Stearns-Knight]], i la signatura [[Willys]], que oferia un automòbil anomenat [[Willys-Knight]], el que es va produir un nombre molt més gran que qualsevol altre automòbil amb vàlvules de camisa.
+
+=== Burt-McCollum ===
+La vàlvula Burt-McCollum consistia d'una sola camisa la que combinava el moviment vertical amb una rotació parcial. Va ser desenvolupada el 1909 i usada per primera vegada en l'automòbil de 1911 [[Argyll (automòbil)|Argyll]]. El seu major èxit va ser en els grans motors aeronàutics de Brsitol, i també va ser usat en els motors, també aeronàutics, [[Napier Sabre]] i [[Rolls Royce Eagle (1944)|Rolls-Royce Eagle]]. El sistema de vàlvula simple també solucionava l'alt consum d'oli associat a la camisa doble de Knight.ref{{citar llibre|cognom = Hillier|nom = Victor AW|coautors = F.W. Pittuck|títol = Fundamentals of Motor Vehicle Technology|editorial = Nelson Thorne|any = 1991|pàgines = 36|isbn = 0748705317}}/ref
+
+Diversos motors d'aviació amb vàlvula de camisa van ser desenvolupats després que es publiqués un article fonamental d'investigació el 1927, escrit per [[Harry Ricardo]] de la [[Royal Aircraft Establishment|RAE]]. Aquest document descriu els avantatges de la vàlvula de camisa, i suggeria que els motors de vàlvules de seient no eren capaços de superar els 1.500 hp (1.100 kW). [[Napier Lion|Napier]] and [[Bristol Aeroplane Company|Bristol]] van començar els seus desenvolupaments de motors i vàlvules de camisa que van resultar en dos dels motors de pistons més potents del món, el [[Napier Sabre]] i el [[Bristol Centaurus]].
+
+En certa manera, el més potent de tots els motors de vàlvula de camisa (que mai va entrar en producció) va ser el [[Rolls Royce Crecy]], un motor aeronàutic [[Motor V-12|V-12]] (estranyament amb una V a 90 graus) de dos temps amb injecció directa, [[compressor|​​ turbocomprimido]] i 26,1 litres de capacitat. Aconseguia una potència específica molt alta, i sorprenentment un molt bon consum específic. El 1945 el motor de proves (el E65) produïa l'equivalent de 5.000 hp (192 hp al fre per litre) amb injecció d'aigua, encara que el V12 complet probablement tenia una potència inicial nominal propera als 2.500 hp (1.900 kW). Sir Harry Ricardo, que va especificar el disseny i els objectius de disseny, se sentia constantment frustrat durant la guerra amb els esforços de Rolls Royce, ell i Tizard acceptar finalment que si no s'assignava en forma específica a un avió, el desenvolupament no rebria l'atenció que mereixia. !---- He felt a reliable 4,000 HP military ràting was on the cards, having been bench-running E65 test engines for many years .---- Hives i Rolls Royce es van centrar en el Merlin, el Griffon i el Eagle i més tard en les [[turborreactor|turbines]] de [[Power Jets Ltd|Whittle]], els qui tenien uns objectius de producció ben definits. El concepte original del 'Spitfire amb esteroides' per a un interceptor de ràpid ascens amb un motor Crecy de baix pes, per 1945 s'havia convertit en un avió sense aplicacions.
+
+Després de la Segona Guerra Mundial la vàlvula de camisa va deixar d'usar-se, quan els problemes anteriors amb el segellat i el desgast de les [[vàlvula de seient|vàlvules de seient]] es van solucionar amb l'ús de millors materials, i els problemes d'inèrcia en les vàlvules grans es van reduir amb l'ús de diverses vàlvules petites en el seu lloc, atorgant un major flux i una menor massa. Fins a aquest punt, la vàlvula de camisa simple superava a la vàlvula de seient en termes de cilindrada/potència. La dificultat per endurir per nitruración quan es finalitzava la rectificació de la vàlvula de camisa, va poder ser un factor de la seva falta d'aplicacions comercials.
+
+== Ús modern ==
+La vàlvula de camisa ha començat a reaparèixer tímidament, a causa dels moderns materials ia les toleràncies molt estrictes que arriba avui l'enginyeria, ia les tècniques de fabricació, que permeten produir vàlvules de camisa amb molt poques pèrdues d'oli. No obstant això, les investigacions en motors més avançats es concentren a millorar els dissenys de motors de combustió interna totalment diferents, com el [[Motor Wankel|Wankel]].
+
+Es diu queref (entrevista per Charles Fox a la revista Car  Driver, juliol de 1974, The Bricklin) /ref Mike Hewland i Keith Duckworth (del motor de F1 Cosworth) van experimentar amb un motor de proves monocilíndric amb vàlvula de camisa simple, quan buscaven un reemplaçament per al [[Cosworth DFV]]. Hewland afirma haver obtingut 72 cv (54 kW) d'un motor monocilíndric de 500 cc, amb un consum específic de combustible de 170 g/cv/hr, el motor era capaç de funcionar amb [[creosota]], no necessitava lubricació específica per a la camisa, sent suficient el barboteig procedent de la resta, i també fa que la temperatura màxima mesura dins del cilindre no va superar els 150nbsp;°C.
+
+Una forma inusual de motor de [[modelisme]] de quatre temps, que essencialment usa el format de vàlvula de camisa, és la sèrie RCV britànica de motors per modelisme SP, els quals usen una camisa de cilindre rotatòria impulsada a través d'un engranatge cònic a la part inferior d'aquesta camisa, i el més inusual és que l'eix de l'hèlix surt del que seria la part superior del cilindre, a l'extrem frontal del motor, aconseguint una reducció de 2:1 pel que fa al cigonyal orientat verticalment.
+
+== Motors de vapor ==
+La vàlvula de camisa ha estat ocasionalment usada en màquines de vapor, per exemple en la [[classe SR Leader]].
+
+== Vegeu també ==
+* [[Vàlvula de seient]]
+
+== Referències ==
+{{referències|2}}
+
+== Bibliografia ==
+{{Commonscat|Sleeve valve engines}}
+
+*{{citar llibre
+ |cognom = Ricardo|nom = Sir Harry R.|enllaçautor = Harry Ricardo
+ |nom2 = J G G|cognom2 = Hempson
+ |títol = The High-Speed ​​Internal-Combustion Engine
+ |pàgines = 290-322
+ |editorial = Blackie  Són|lloc = London and Glasgow
+ |edició = cinquè
+ |any = 1968
+ |ref = Ricardo, High-Speed ​​Internal-Combustion Engine
+}}
+*{{citar llibre
+ |títol = Sleeve valve engines
+ |url = http://www-g.eng.cam.ac.uk/125/achievements/ricardo/#9.% 20SLEEVE
+ |editorial = Cambridge University Engineering Department
+}}
+* Aircraft Engine Historical Society-AEHS-(USA): revista Torque Meter, vol 7, n º 2-3-4
+* A E Biermann i H Hellerbrock, Jr. The design of fins for air-cooled cylinders NACA Report-726, 1941 [http://naca.central.cranfield.ac.uk/report.php?NID=1815]
+
+* Robert J. Raymond: Comparison of Sleeve and Poppet-Valve Aircraft Piston Engines, AEHS 2005.[http://www.enginehistory.org/members/articles/Sleeve.pdf] 
+
+*Kimble D. McCutcheon: The Liquid-Cooled Engines of Pratt  Whitney AEHS, 2006.[http://www.enginehistory.org/Convention/2006/Presentations/McCutcheonK/PWLC3_1.pdf]
+* Muhammad Hafidz Rahmat i col. (Petronas): Side Opening Intake Strategy Simulation and Validation for a Sleeve Valve Port Application, SAE Paper 2009-32-0130/20.097.130
+
+
+{{ORDENA:Valvula De Camisa}}	!--ORDENA generat per bot--
+
+[[Categoria:Motors de combustió interna]]
+[[Categoria:Vàlvules]]</text>
+      <sha1>jglzpjr5bppg8d8mh9hnmffnkqcksju</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

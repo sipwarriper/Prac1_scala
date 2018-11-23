@@ -1,0 +1,46 @@
+<page>
+    <title>Analitzador diferencial</title>
+    <ns>0</ns>
+    <id>1054452</id>
+    <revision>
+      <id>13115008</id>
+      <parentid>12873319</parentid>
+      <timestamp>2014-03-23T22:44:32Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: contruir  construir</comment>
+      <text>[[Fitxer:NASA Differential Analyzer.jpg|thumb|Un analitzador diferencial al [[National Advisory Committee for Aeronautics|NACA]] [[Glenn Research Center|Lewis Flight Propulsion Laboratory]]]]
+[[Fitxer:KayMcNultyAlyseSnyderSisStumpDifferentialAnalyzer.jpg|thumb|[[Kay McNulty]], Alyse Snyder, i Sis Stump operen un analitzador diferencial al soterrani de l'[[Escola Moore d'Enginyeria Elèctrica]], [[Universitat de Pennsylvania]], a [[Filadèlfia]], al voltant de 1942 i 1945.]]
+L{{'}}'''analitzador diferencial''' (en anglès, '''''Differential Analyser''''') va ser un [[computador analògic]] mecànic dissenyat per solucionar [[equació diferencial|equacions diferencials]] per [[integració]], usant mecanismes de rodes i discos per realitzar la integració. Va ser un dels primers dispositius de computació avançats a ser usats operacionalment.ref name=calculating instruments and machines{{ref-llibre |cognom=Hartree |nom=Douglas Rayner |títol=Calculating instruments and machines |url=http://books.google.es/books?id=mMw7AAAAIAAJpg=PA26dq=Differential+Analyserhl=caredir_esc=y#v=onepageq=Differential%20Analyserf=false |consulta=12/1/2013 |editor=University of Illinois Press |data=1949 |pàgines=p.26 |llengua=anglès }}/ref
+
+L'analitzador diferencial va ser inventat el 1876 per [[James Thomson]], germà de [[Lord Kelvin]]. H. W. Nieman i [[Vannevar Bush]] van construir una versió pràctica va ser primer construïda a començant del 1927 a l'[[Institut Tecnològic de Massachusetts]].ref name=calculating instruments and machines/ El 1931 van publicar un informe detallat sobre el dispositiu. [[D. R. Hartree]], de la [[Universitat de Manchester]], va portar el disseny a [[Anglaterra]], on va construir el seu primer model amb l'estudiant [[Arthur Porter]] el 1934. Durant els cinc anys següents se'n van construir tres més: un a la [[Universitat de Cambridge]], a la [[Universitat Queen's de Belfast]], i a la [[Royal Aircraft Establishment]] de Farnborough. Als Estats Units, els analitzadors diferencials van ser construïts a la [[base de la Força Aèria Wright-Patterson]] i al soterrani l'Escola Moore d'Enginyeria Elèctrica de la [[Universitat de Pennsylvania]] a principis de la dècada del 1940; l'últim va ser usat extensivament en la línia de muntatge de les taules de foc de l'artilleria abans de la invenció de l'[[ENIAC]], que, de moltes maneres, va ser modelat després de l'analitzador diferencial. Alguns anys més tard, un altre ordinador, l'[[UTEC]], va ser construït a la [[Universitat de Toronto]], però sembla que va veure poc o cap ús.
+
+L'analitzador diferencial podria haver ser utilitzat en el desenvolupament de la [[bomba de rebot]], emprada per atacar les preses hidroelèctriques [[Alemanya|alemanyes]] durant la [[Segona Guerra Mundial]].ref name=Irwin{{cite web|last=Irwin|first=William|url=http://amg.nzfmm.co.nz/differential_analyser_explained.html|title=The Differential Analyser Explained|work=|publisher=[http://amg.nzfmm.co.nz/ Auckland Meccano Guild]|date=juliol de 2009|language=anglès}}/ref Els analitzadors diferencials també han estat usats en el càlcul de l'[[erosió]] del sòl per les autoritats de control del rius de [[Nova Zelanda]].ref name=Irwin/ Eventualment es va tornar obsolet pels [[computador analògic|computadors analògics]] i, posteriorment, pels [[ordinadors]].
+
+Més recentment, la construcció d'analitzadors diferencials usant peces de [[Meccano]] s'ha convertit en un projecte popular entre els aficionats al Meccano.ref name=CamDA{{cite web|last=|first=|url=http://amg.nzfmm.co.nz/differential_analyser.html|title= Differential Analyser |work=|publisher=[http://amg.nzfmm.co.nz/ Auckland Meccano Guild]|language=anglès}}/ref
+
+Un analitzador diferencial és mostrat en operació a la pel·lícula de 1951 ''[[When Worlds Collide]]'' i a la de [[1956]] ''[[Earth vs. the Flying Saucers]]''.ref name=UCLADA{{cite web|url=http://news.google.com/newspapers?nid=849dat=19780109id=R50oAAAAIBAJsjid=eVQDAAAAIBAJpg=6329,375623|format=Google News|title= UCLA's Bush Analyzer Retires to Smithsonian|publisher=Computerworld|date=9 de gener de 1978 |language=anglès}}/ref
+
+== Referències ==
+{{referències}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://Www.kerryr.net/pioneers/bush.htm Vannevar Bush bio] which focuses on the Differential Analyzer
+* [http://Scoter2.union.edu/~ hemmendd/Encyc/Articles/Difanal/difanal.html Differential Analyser]
+* [http://Www.maxmon.com/1927ad.htm Vannevar Bush s Analog Computer]
+* [http://Www.dalefield.com/nzfmm/magazine/Differential_Analyser.html The Differential Analyser Explained]
+* [http://Www.meccano.us/differential_analyzers/robinson_da/index.html Tim Robinson s Meccano Differential Analyser]
+* [http://clubmeccanocatalunya.net/articles/meccano/11-meccano/53-lanalitzador-diferencial-precursor-de-lordinador.html L'analitzador diferencial, precursor de l'ordinador (català)]
+
+[[Categoria:Primers ordinadors]]
+[[Categoria:Computadors analògics]]</text>
+      <sha1>9ip39gpf4i3lguyq0zbws5eedwl68oh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

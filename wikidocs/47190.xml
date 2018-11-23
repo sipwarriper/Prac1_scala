@@ -1,0 +1,144 @@
+<page>
+    <title>Telecomunicació</title>
+    <ns>0</ns>
+    <id>47190</id>
+    <revision>
+      <id>13779958</id>
+      <parentid>13613210</parentid>
+      <timestamp>2014-07-10T20:19:37Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:Fibreoptic.jpg|150px|thumb|La [[fibra òptica]] permet transmetre grans quantitats d'informació.]]
+La '''telecomunicació''' és la transmissió de senyals a distància a través de qualsevol medi per tal d'aconseguir comunicar-nos. Des del [[segle XX]] aquest procés sol implicar l'enviament d'[[ona electromagnètica|ones electromagnètiques]] a través d'un medi físic o radioelèctric fent ús de transmissors i receptors electrònics però antigament podia involucrar l'ús de [[senyal de fum|senyals de fum]], les emissions sonores o la [[telegrafia|telegrafia òptica]]. Avui en dia la telecomunicació té moltes aplicacions i els dispositius que ens ajuden a rebre aquests senyals, com la televisió, la ràdio i els telèfons, són comuns a gran part del món. Al llarg del temps per tal d'oferir nous serveis s'han creat xarxes d'aquests dispositius. Alguns exemples en són la [[xarxa telefònica commutada|xarxa telefònica]], les d'ordinadors, les de telefonia mòbil o les de ràdio i televisió digital. Un clar exemple d'aquestes xarxes és [[Internet]], un dels referents de les [[TIC|Tecnologies de la Informació i la Comunicació]]. 
+
+En l'actualitat la fibra òptica ha millorat la capacitat per a les comunicacions intercontinentals facilitant les connexions a Internet d'alta velocitat i els serveis de televisió digital per cable. Econòmicament la indústria de les telecomunicacions és un factor important arribant gairebé el 3% del producte interior brut mundial.
+
+Els sistemes de telecomunicació solen ser dissenyats pels [[Enginyeria de telecomunicació|enginyers de telecomunicacions]] i alguns dels inventors en aquest camp al llarg de la història han estat [[Alexander Graham Bell]], [[Elisha Gray]], [[Nikola Tesla]], [[Guglielmo Marconi]] i [[John Logie Baird]]. El [[Dia Mundial de les Telecomunicacions]] se celebra el [[17 de maig]].
+
+== Història de la telecomunicació ==
+{| style=float:right; margin:1em 1em 1em 1em; width:25em; border: 1px solid #a0a0a0; padding: 10px; background-color: #F5F5F5; text-align:left;
+|- style=text-align:center;
+|'''Etimologia'''
+|- style=text-align:left; font-size:x-small;
+|La paraula ''telecomunicació'' és una paraula composta formada pel prefix Grec ''tele-'' (τηλε-), que significa distància, i la paraula llatina ''communicare'', que significa 'compartir'.ref''Telecommunication'', ''tele-'' and ''communication'', [[New Oxford American Dictionary]] (2nd edition), 2005.{{en}}/ref
+|}
+=== L'inici de les telecomunicacions ===
+[[Fitxer:OptischerTelegraf.jpg|160px|thumb|Un telegraf òptic prop de [[Nalbach]] (Alemanya).]]
+Arreu del món les primeres formes de telecomunicació inclouen els senyals de fum, i els senyals acústics fets amb [[tambor]]s. Al nostre entorn un exemple de telecomunicació fou l'ús per part de les tropes de [[Pere el Cerimoniós]] de sistemes de senyals de fum per a transmetre els moviments de les tropes i flotes enemigues entre els seus diferents destacaments. 
+ 
+L'any [[1792]] s'aprova un projecte de l'enginyer francès [[Claude Chappe]] donant llum verda així a la construcció del primer sistema de [[telegrafia òptica]], un sistema de telecomunicació amb regles homogènies i regularitzades. Aquest sistema requeria de la construcció d'unes torres específiques per al seu ús i la primera línia en funcionament fou entre [[Lilla]] i [[París]] amb vint-i-dues torres separades per 230 km.ref{{citar web| url= http://chappe.ec-lyon.fr/ |títol= Les Télégraphes Chappe|nom= Cédrick |cognom= Chatenet| obra= l'Ecole Centrale de Lyon| data= 2003| llengua= francès}}/ref 
+
+A [[Catalunya]] la telegrafia òptica no va arribar fins a mitjans del segle XIX però llavors la xarxa fou ràpidament desplegada amb l'objectiu de combatre la guerra de guerrilles feta des dels Pirineus durant les [[Guerres Carlines]] per part del pretendent carlista. Degut a la falta d'infraestructura elèctrica la xarxa catalana de telegrafia òptica va seguir ampliant-se en èpoques en què aquesta ja es considerava obsoleta se'n van arribar a fer servir més de 150 estacions en els seus últims serveis durant la [[Tercera Guerra Carlina]] (1872-1876).
+
+L'aparició del [[telègraf elèctric]], al qual ens referim habitualment quan parlem de [[telegrafia]], va deixar obsolet aquest sistema al poder aprofitar el cablejat elèctric i per tant no necessitar d'una infraestructura específica i no utilitzable per a cap altre servei per a funcionar. L'últim sistema de telegrafia òptica d'ús comercial fou abandonat l'any [[1880]] a Suècia.ref[http://www.google.com/url?sa=tct=rescd=19url=http%3A%2F%2Fwww.itu.int%2Fitudoc%2Fgs%2Fpromo%2Ftsb%2F88192.pdfei=WmQKRc6wEqL4ggP_6bHTDQsig=__RpZ0L0hbqjtzZfVWEAMZVhduDBw=sig2=dzK2J3-3WNRc0o63DXwciQ#search=%22semaphore%201880%20Sweden%22 CCIT/ITU-T 50 Years of Excellence], Internation Telecommunication Union, 2006.]{{en}}/ref
+
+=== El telègraf i el telèfon ===
+[[Fitxer:CNAM-IMG 0564.jpg|150 px|right|thumb|Reproducció del telèfon patentat per [[Alexander Graham Bell]] al [[Musée des Arts et Métiers]] de París]]
+L'any [[1795]] [[Francesc Salvà i Campillo]] va llegir a l'Acadèmia de Medicina de Barcelona una memòria titulada ''Memoria sobre la Electricidad Aplicada a la Telegrafía'', en la qual qualificava el telègraf elèctric de factible i efectiu.ref[http://www.fecyt.es/semanadelaciencia2004/html/conme_200.asp Semana de la Ciencia y la Tecnologia 2004 {{es}}]/ref Aquest físic català va acumular experiències en aquest camp a la seva casa del carrer Petritxol, i en va fer una demostració a Madrid, a la cort, l'any 1796 sent un dels pioners de la telegrafia elèctrica. Al llarg dels anys però es va anar evolucionant el concepte fins a arribar al primer telègraf de caràcter comercial construït per [[Charles Wheatstone]] i [[William Fothergill Cooke]] l'any [[1839]]. 
+
+D'altra banda [[Samuel Morse]] va evolucionar el telègraf elèctric introduint-hi el [[codi de Morse]], el seu codi era un avanç important al concepte de Wheatstone en permetre la transmissió d'informació d'una forma més eficient. El [[27 de juliol]] de [[1866]] es produeix una altra efemèride doncs es va instal·lar el primer [[cable transatlàntic]].ref[http://www.sil.si.edu/digitalcollections/hst/atlantic-cable/ The Atlantic Cable], Bern Dibner, Burndy Library Inc., 1959 {{en}}/ref
+
+L'any [[1876]] [[Alexander Graham Bell]] patenta el telèfon convencional tot i que encara avui es parla de si en realitat fou [[Elisha Gray]] qui l'inventà.ref[http://www.oberlin.edu/external/EOG/OYTT-images/ElishaGray.html Elisha Gray ], Oberlin College Archives, Electronic Oberlin Group, 2006.{{en}}/ref Els primers serveis telefònics comercials foren l'any [[1878]] a [[New Haven]] (Estats Units) i l'any [[1879]] a París i Londres.ref[http://www.connected-earth.com/Galleries/Telecommunicationsage/Thetelephone/index.htm Connected Earth: The telephone], BT, 2006{{en}}/refref[http://www.att.com/history/milestones.html History of ATT], ATT, 2006{{en}}/ref A Espanya la primera xarxa telefònica arribà a Madrid l'any [[1882]] de mans de la ''Red de Telégrafos''ref[http://www.iies.es/bd/historia/htele019.htm Història de les telecomunicacions {{es}}]/ref i ja l'any [[1895]] s'inaugura una línia telefònica interurbana que uneix les ciutats de Barcelona, Saragossa i Madrid. 
+
+A Catalunya l'any [[1915]] la [[Mancomunitat de Catalunya|Mancomunitat]], presidida en aquell moment per [[Enric Prat de la Riba]], decideix impulsar la creació d'una xarxa telefònica entre els municipis de Catalunya però aquesta iniciativa fou aturada per la [[dictadura de Primo de Rivera]] en abolir la Mancomunitat. Primo de Rivera a més va cedir la xarxa de la Mancomunitat a la [[Companyia Telefònica Nacional d'Espanya]] qui no completa la xarxa intermunicipal de Catalunya fins anys després del fi de la [[Guerra Civil Espanyola]] en no considerar-la una inversió estratègica.
+
+=== L'electromagnetisme ===
+[[Fitxer:Heinrich Rudolf Hertz.jpg|150px|right|thumb|Heinrich Hertz va provar l'existència de la [[radiació electromagnètica]].]]
+La base matemàtica sobre la que es desenvolupen les telecomunicacions més avançades fou desenvolupada pel físic anglès [[James Clerk Maxwell]]. Maxwell, en la introducció del seu llibre ''Treatise on Electricity and Magnetism'' ([[1873]]), va declarar que el seu principal objectiu era justificar matemàticament conceptes físics descrits fins al moment de forma qualitativa com les lleis d'inducció magnètica i els camps de força enunciats per [[Michael Faraday]]. Amb aquest objectiu Maxwell va definir el concepte d'[[ona electromagnètica]] permetent descriure de forma matemàtica la interacció entre l'electricitat i el magnetisme mitjançant les anomenades [[equacions de Maxwell]] que descriuen i quantifiquen els camps de força que es produeixen quan aquests camps interaccionen. Maxwell va predir que era possible propagar ones a través de [[medi radioelèctric|medis radioelèctrics]], fet que va corroborar [[Heinrich Hertz]] l'any [[1887]], vuit anys després de la mort de Maxwell.
+
+=== Ràdio ===
+L'any [[1832]] [[James Lindsay]] va aconseguir una comunicació de telegrafia sense fils en l'àmbit acadèmic, i ell mateix va poder transmetre ja a una distància d'uns 4 km entre Dundee (Escocia) i Woodhaven l'any [[1854]] utilitzant l'aigua com a medi de propagació. Les comunicacions ràdio a petita escala foren provades per primera vegada per Nikola Tesla l'any [[1893]] en una presentació a la ''National Electric Association''. L'any [[1901]] arribaria el primer enllaç ràdio transatlàntic de la mà de [[Guglielmo Marconi]] aconseguint comunicació sense fil entre St John's (Canada) i Cornwall (Anglaterra) i amb la qual va aconseguir el premi Nobel de la Física del [[1909]]. La telegrafia radioelèctrica començaria a emprar-se a la comunicació amb vaixells a partir del [[1915]], després que l'accident del [[Titànic]] demostrés la necessitat de noves mesures. 
+
+La [[radiodifusió]] arriba a [[Espanya]] l'any 1923 quan, concretament a [[Barcelona]], EAJ-1 va començar les seves primeres emissions. Cal dir però que l'impuls a la ràdio a [[Espanya]] fou a causa de l'oportunitat d'autopromoció que veia [[Primo de Rivera]] en aquest medi.ref [http://recursos.cnice.mec.es/media/radio/bloque1/pag3.html Historia de la Radio (Ministeri de Ciencia y Tecnologia] {{es}}/ref EAJ-1 en el futur seria el que avui coneixem com [[Ràdio Barcelona]] però les primeres emissions en català, de 3'5 hores diàries i cancel·lables ''cuando la Dirección General lo considere oportuno''ref[http://www.radioassociacio.com/Historia.htm Història de la Ràdio Associació de Catalunya] {{ca}}/ref arribaren el [[1930]] de la mà de EAJ-15, emissora creada per la [[Ràdio Associació de Catalunya]].ref[http://www.radioassociacio.com/ Lloc oficial de La Ràdio Associació de Catalunya] {{ca}}/ref
+
+=== Televisió ===
+[[Fitxer:Tv3 logo1983.jpg|150 px|right|thumb|[[TV3]], un element que va ser fonamental per la normalització del català, no arribaria fins després de la transició]]
+L'any [[1925]] [[John Logie Baird]] va ser capaç d'aconseguir una transmissió de dibuixos animats a través d'una televisió mecànica que va crear ell mateix. A partir de 1929 es varen fer les primeres retransmissions de TV en proves per la ''British Broadcasting Corporation'' però la televisió no es popularitzà fins que [[Karl Braun]] va inventar el tub de rajos catòdics. La primera televisió que feia ús d'un tub de rajos catòdics fou produïda per [[Philo Farnsworth]] qui va mostrar-la en societat al públic el [[7 de setembre]] de [[1927]]. Entre 1935 i [[1941]] arribaren les primeres emissions televisives a Anglaterra, Italia, França, Estats Units i Holanda però l'emissió s'aturaria a causa de la [[Segona Guerra Mundial]]. Un cop acabada aquesta guerra els països pioners anaren recuperant les seves emissions televisives i d'altres començarien les seves experiències. 
+
+A Catalunya el juny de [[1948]] Philips va organitzar unes proves televisives dins de la [[Fira de Mostres de Barcelona]]. Aquestes proves consistien amb l'emissió en directe d'actuacions musicals i humorístiques fetes a un estudi i varen tenir un gran èxit entre el públic assistent a la Fira. Posteriorment, entre els anys [[1951]] i [[1952]], es produeixen les primeres emissions regulars del que més endavant fou anomenada com a [[Televisió Espanyola]]ref[http://recursos.cnice.mec.es/media/television/bloque2/pag1.html Historia de la Televisión en España {{es}}/ref tot i que la seva popularitat no s'aconseguiria fins a la segona meitat dels anys 60. Cap als anys 70 i 80 van aparèixer xarxes de televisió per cable, anomenades operadors de cable històric,refFONDEVILA GASCÓN, Joan Francesc (2004). “Las redes de telecomunicaciones de cable histórico: realidad y tendencias”. Revista de Comunicación de la SEECI (Sociedad Española de Estudios de la Comunicación Iberoamericana), 11 (VII), pp. 67-89. ISSN: 1576-3420 http://www.seeci.net/seeci/Numeros/Numero%2011/JFFond.pdf /ref en diversos municipis catalans, que emetien en situació alegal i que van haver d'adaptar-se als canvis legislatius.refFONDEVILA GASCÓN, Joan Francesc (2009). “La adaptación regulatoria de los operadores de cable histórico en España. La competencia de los grandes operadores/Older Cable Operators Adapt to New Regulations in Spain. Competition for Large Cable Operators”. Telos. Cuadernos de Comunicación e Innovación, 80, pp. 139-146. ISSN: 0213-084X http://www.telos.es/articuloexperiencia.asp?idarticulo=1rev=80/ref Aquestes xarxes han evolucionat i gairebé totes emeten [[triple play]] ([[televisió]], [[telefonia]] i [[Internet]]) i [[quadruple play]].refFONDEVILA GASCÓN, Joan Francesc (2009). “El peso de la televisión en el triple play de los operadores de cable en España y en Europa”. ZER, Revista de Estudios de Comunicación (Journal of Communication Studies), 14 (27), pp. 13-31. ISSN: 1137-1102. http://www.ehu.es/zer/hemeroteca/pdfs/zer27-01-fondevila.pdf /ref Les primeres emissions televisives en català no arribarien fins després de la transició amb la creació de [[Televisió de Catalunya]].
+
+=== Xarxes d'ordinadors i Internet ===
+L'[[11 de setembre]] de [[1940]] [[George Stibitz]] va ser capaç de transmetre informació de forma bidireccional entre dues màquines en aconseguir enviar una sèrie de dades a un Centre de Càlcul perquè aquest les processés i li tornés els resultats.ref[http://www.kerryr.net/pioneers/stibitz.htm George Stlibetz], Kerry Redshaw, 1996{{en}}/ref No obstant això la [[commutació de paquets]], tècnica usada per l'actual Internet, no va començar a ser plantejada fins als anys 60. La primera xarxa de commutació (amb 4 nodes) va ser creada el [[5 de desembre]] de [[1969]], posteriorment aquesta xarxa esdevindria en [[ARPANET]] i l'any [[1981]] estaria formada per 213 nodes.ref{{ref-llibre | cognom = Hafner | nom = Katie | títol = Where Wizards Stay Up Late: The Origins Of The Internet | editorial = Simon  Schuster | any = 1998 | isbn = 0-684-83267-4 }} {{en}}/ref
+
+[[Fitxer:Internet users by country world map.PNG|250 px|right|thumb|Distribució mundial del nombre d'usuaris d'Internet]]
+El desenvolupament d'[[ARPANET]] era important doncs la fusió d'aquesta xarxa amb altres ja existents formaria el que avui coneixem com a [[Internet]] i molts dels protocols usats avui en dia ja estaven implementats a aquella xarxa. El setembre de [[1981]] ARPANET començà a fer servir [[IPv4]] i poc després s'introduiria el TCP (''Transmission Control Protocol''), primer mecanisme que garantia la seguretat que el nostre missatge arribaria al seu destí.
+
+Les xarxes locals d'ordinadors varen ser investigades posteriorment, així els primers documents sobre [[Token Ring]] apareixen l'any [[1974]] i el [[1976]] apareixen també els primers documents que plantegen les xarxes [[Ethernet]].
+
+== Conceptes clau ==
+=== Estructura ===
+Actualment un sistema de telecomunicació està format per almenys els següents 3 elements:
+* Un [[transmissor]] que mitjançant una sèrie de transformacions converteix la informació en un senyal.
+* Un [[medi de transmissió]], pel qual es transmet el senyal. Els medis més usats solen ser el parell de cables de coure (telefonia) o l'aire (radiodifusió). 
+* Un [[Receptor (comunicació)|receptor]] que rep el senyal i aconsegueix desfer les transformacions fetes pel transmissor i obtenir la informació.
+
+Sovint els sistemes de telecomunicació actuen com a transmissors i receptors a la vegada, és el que anomenem un transceptor. Per exemple, un telèfon mòbil és un d'aquest tipus de sistemes.
+
+A més, cal tenir en compte que cada element d'un sistema de telecomunicació a més d'aportar la seva funcionalitat degrada la qualitat del senyal en introduir una certa quantitat de soroll. Els paràmetres més usats per a valorar la qualitat d'un sistema de telecomunicació són la seva relació senyal a soroll (SNR) o alternativament la seva taxa d'error de bit (BER).
+
+=== Tipologia de telecomunicacions ===
+* [[Punt a punt]]: Es connecta un transmissor amb un receptor, un exemple és la comunicació entre dos telèfons a una línia telefònica.
+* Punt a multipunt: Des d'un transmissor es transmet a múltiples receptors, un exemple és la radiodifusió (en anglès broadcasting) on des d'una torre emeten un senyal que serà rebut per diversos usuaris.
+
+=== Classificació dels senyals ===
+Els senyals que tractem en aquests sistemes poden ser [[senyal analògic|analògics]] (que varien de forma contínua) o bé digitals, on la informació és codificada en una sèrie de valors discrets (per exemple en binari). 
+La principal diferència entre aquests dos tipus de senyals és que en una transmissió analògica el senyal sempre serà degradat pel soroll que hi hagi al medi de transmissió però en canvi si el senyal és digital si aconseguim transmetre el senyal per sobre d'un cert llindar de potència podrem recuperar la informació transmesa completament.refAnalog and Digital Signal Processing '''Brooks/Cole Publishing Company''' 1999 pàgines 1-2 ISBN 0-534-95409-X {{en}}/ref
+
+=== Tipologia de les xarxes ===
+Un conjunt de transmissors, receptors i transceptors que es comuniquen entre ells formant una [[xarxa de telecomunicacions|xarxa]]. Les xarxes poden ser, de nou, digitals o analògiques.
+* Orientada a connexió: Un exemple és la xarxa telefònica commutada on els terminals estan comunicats per una sèrie d'interruptors que estableixen un camí fix entre dos o més usuaris.
+* Orientada a paquet: La informació se sol dividir en paquets que seran transmesos pel canal passant per una sèrie de [[routers|encaminadors o encaminadors]] que encaminen el senyal cap a l'usuari destí. 
+
+En els dos tipus de xarxes són necessaris [[repetidors]] per tal d'amplificar i recuperar el senyal per tal d'aconseguir que aquest pugui ser transmès a llargues distàncies. El repetidor, en augmentar la qualitat del senyal, aconsegueix que la relació entre el senyal i el soroll sigui suficient per tal que el senyal pugui ser separat correctament del soroll a la recepció o si més no per tal d'aconseguir un nivell de qualitat mínim en el cas de senyals analògics.ref[http://www.atis.org/tg2k/ ATIS Telecom Glossary 2000], ATIS Committee T1A1 Performance and Signal Processing (approved by the American National Standards Institute) {{en}}}/ref
+
+=== Modulació ===
+La conformació d'un senyal a partir del qual transmetem la informació sobre un medi es el que coneixem com a modulació. 
+
+Una modulació pot ser usada per a representar un missatge digital com una forma d'ona analògica que viatgi fàcilment sobre un medi aeri. Això es coneix en anglès amb el nom de ''keying''. Algunes tècniques que usen ''keying'' són [[modulació per desplaçament de fase]], que transmet la informació en la fase del senyal modulat; [[FSK]], que la transmet en les variacions de [[freqüència]]; i [[ASK]], que ho fa amb les variacions d'amplitud. No obstant això caldria esmentar que amb aquestes variacions de freqüència, segueixen sent del tot imprevisibles.
+
+Per exemple [[Bluetooth]] usa [[modulació per desplaçament de fase]] per a intercanviar informació entre dos dispositius que emeten senyals digitals.ref[http://www.bluetooth.org/foundry/adopters/document/Core_v2.0_EDR/en/1/Core_v2.0_EDR.zip Bluetooth Specification Version 2.0 + EDR] (p 27), Bluetooth, 2004. {{en}}/ref
+
+Les modulacions també són útils per tal d'aconseguir transmetre senyals analògics de baixa freqüència (com la veu) a freqüències més altes. Aquest augment de freqüència, aparentment innecessari, és útil perquè els senyals de baixa freqüència no poden ser transmesos de forma efectiva per l'espai. Així doncs, sovint abans de transmetre un senyal el modularem i el portarem al voltant d'una nova freqüència que serà anomenada [[ona portadora|freqüència portadora]]. Hi ha moltes maneres de modular els senyals, segurament les més clàssiques són l'[[Amplitud modulada]] (AM) i la [[Freqüència modulada]] (FM). Els sistemes de telecomunicació més moderns utilitzen noves modulacions que usen múltiples portadores, és el cas de la [[Televisió Digital Terrestre]]. Aquestes modulacions amb múltiples portadores són conegudes amb l'acrònim [[OFDM]].
+
+== La societat i les telecomunicacions ==
+En l'actualitat les telecomunicacions són un element important de la societat arribant a moure prop d'un 3% del PIB mundial durant l'any [[2006]].ref[http://www.voip-magazine.com/content/view/1197/ Telecom Industry Revenue to Reach $1.2 Trillion in 2006], VoIP Magazine, 2005. {{en}}/ref
+
+A la microeconomia les companyies han utilitzat les telecomunicacions per a construir marques globals, un exemple d'un d'aquests èxits és [[Amazon.com]], una de les primeres empreses a implementar un sistema de [[comerç electrònic]]. Les telecomunicacions però també dinamitzen l'economia a comunitats del tercer món, així per exemple a [[Costa d'Ivori]] els plantadors de cafè usen els seus telèfons mòbils per a seguir les fluctuacions del preu del cafè i aconseguir vendre el producte al millor preu.refThe Effect of Income Inequality on Mobile Phone Penetration, Boston University Honors thesis [http://dissertations.bc.edu/cgi/viewcontent.cgi?article=1016context=ashonors] /ref
+
+A l'escala macroeconòmica Lars-Hendrik Röller i Leonard Waverman suggereixen que existeix una connexió entre el creixement econòmic dels països i una bona infraestructura de telecomunicació.ref Telecommunications Infrastructure and Economic Development: A Simultaneous Approach. ''American Economic Review'' Pàgines 557-583 /ref
+
+Malgrat tot la possibilitat d'aconseguir beneficis econòmics gràcies a una bona infraestructura de telecomunicacions està causant un nou problema a escala mundial, és l'anomenada [[fractura digital]]. La fractura digital apareix a causa del fet que l'accés a les noves tecnologies no és equitatiu a diferents punts del món. Així una enquesta feta l'any [[2003]] per la [[International Telecommunication Union]] mostrava que a un terç dels països la penetració de la telefonia mòbil era menor al 5% de la població o que a la meitat dels països la penetració d'Internet encara era menor al 5% de la població.
+
+La ITU també ha construït un [http://www.itu.int/ITU-D/ict/dai/ ranking] que mesura el coneixement dels ciutadans d'un país en les noves tecnologies de la informació i la comunicació. Així, aquest rànquing que permet visualitzar d'alguna manera aquesta fractura digital està liderat per [[Suècia]], [[Dinamarca]] i [[Islàndia]] mentre que les últimes places són ocupades per països del tercer món com [[Níger]], [[Burkina Faso]] i [[Mali]].ref[http://www.itu.int/ITU-D/ict/publications/wtdr_03/index.html World Telecommunication Development Report 2003], [[International Telecommunication Union]], 2003 {{en}}/ref
+
+== Vegeu també ==
+*[[Empreses de telecomunicacions dels Països Catalans]]
+*[[Llista d'operadors de televisió per cable dels Països Catalans]]
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.itu.int/home/ Unió Internacional de les Telecomunicacions] {{en}}
+* [http://www.etsi.org/ European Telecommunication Standards Institute] {{en}}
+* [http://www.ieee.org/ Institute of Electrical and Electronic Engineers] {{en}}
+* [http://www.cmt.es/ Comissio del Mercat de les Telecomunicacions] {{es}}
+* [http://www10.gencat.net/dursi/AppJava/home.jsp?area=3 Direcció General de Telecomunicacions i la Societat de la Informació de la Generalitat de Catalunya] {{ca}}
+* [http://www.telecos.cat/ Col·legi d'Enginyers de Telecomunicació de Catalunya] {{ca}}
+* [http://www.coettc.com/ Col·legi Oficial d'Enginyers Tècnics de Telecomunicació de Catalunya] {{ca}}
+* [http://myrf.org/ eBooks sobre Telecomunicacions] {{en}}
+{{Autoritat}}
+{{Enllaç AB|en}}
+
+[[Categoria:Telecomunicacions| ]]</text>
+      <sha1>70gx39i0puz90ggedtzbt3eo3ecbw5s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,230 @@
+<page>
+    <title>Partit Democràtic Lliure</title>
+    <ns>0</ns>
+    <id>423784</id>
+    <revision>
+      <id>13809691</id>
+      <parentid>13721063</parentid>
+      <timestamp>2014-07-13T09:21:24Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Partit polític
+|name = Partit Democràtic Lliure
+|original_name = Freie Demokratische Partei 
+|logo = [[Fitxer:FDP logo.png|125px|Partit Democràtic Lliure]]
+|colorcode = #FFFF00
+|lider = [[Philipp Rösler]] 
+|secretary_general = [[Patrick Döring]] 
+|leader1_title = Líder al [[Bundestag]]
+|leader1_name = [[Rainer Brüderle]]
+|founded = {{Start date|1948|12|11}} 
+|headquarters = Thomas-Dehler-Haus br / Reinhardtstraße 14 br / D-10117 [[Berlín]]
+|youth_wing = [[Junge Liberale]]
+|membership_year = 2012
+|membership = 58,675
+|ideology = [[Liberalisme]], br / [[Liberalisme|liberalisme clàssic]] br / [[Centredreta|Centre-dreta]]
+|international = [[Internacional Liberal]]
+|european = [[Partit Europeu dels Liberals, Demòcrates i Reformistes]]
+|europarl = [[Aliança dels Liberals i Demòcrates per Europa]]
+|colors = groc i blau
+|seats1_title = Diputats al [[Bundestag]]
+|seats1 = timeline
+ImageSize = width:100 height:25
+PlotArea = left:0 bottom:0 top:0 right:0
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = x.y
+Period = from:0 till:631
+TimeAxis = orientation:horizontal
+AlignBars = early
+Colors =
+ id:gray value:rgb(0.85,0.85,0.85)
+ id:darkgray value:rgb(0.27,0.27,0.27)
+ id:midgray value:rgb(0.57,0.57,0.57)
+ id:blue value:rgb(0.07, 0.44, 0.76)
+ id:green value:rgb(0.38, 0.73, 0.27)
+ id:orange value:rgb(1, 0.55, 0)
+ id:red value:rgb(0.80,0, 0)
+BarData =
+ bar:Wikipedias
+PlotData=
+ bar:Wikipedias from:0 till:631 color:gray width:0.2in text:/631
+ bar:Wikipedias from:0 till:0 color:yellow width:0.2in text:0
+/timeline
+|seats2_title = Diputats als Parlaments Regionals
+|seats2 = timeline
+ImageSize = width:100 height:25
+PlotArea = left:0 bottom:0 top:0 right:0
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = x.y
+Period = from:0 till:1875
+TimeAxis = orientation:horizontal
+AlignBars = early
+Colors =
+ id:gray value:rgb(0.85,0.85,0.85)
+ id:darkgray value:rgb(0.27,0.27,0.27)
+ id:midgray value:rgb(0.57,0.57,0.57)
+ id:blue value:rgb(0.07, 0.44, 0.76)
+ id:green value:rgb(0.38, 0.73, 0.27)
+ id:orange value:rgb(1, 0.55, 0)
+ id:red value:rgb(0.80,0, 0)
+BarData =
+ bar:Wikipedias
+PlotData=
+ bar:Wikipedias from:0 till:1875 color:gray width:0.2in text:/1875
+ bar:Wikipedias from:0 till:104 color:yellow width:0.2in text:104
+/timeline
+|seats3_title = Eurodiputats al [[Parlament Europeu]]
+|seats3 = timeline
+ImageSize = width:100 height:25
+PlotArea = left:0 bottom:0 top:0 right:0
+TimeAxis = orientation:horizontal format:yyyy
+DateFormat = x.y
+Period = from:0 till:99
+TimeAxis = orientation:horizontal
+AlignBars = early
+Colors =
+ id:gray value:rgb(0.85,0.85,0.85)
+ id:darkgray value:rgb(0.27,0.27,0.27)
+ id:midgray value:rgb(0.57,0.57,0.57)
+ id:blue value:rgb(0.07, 0.44, 0.76)
+ id:green value:rgb(0.38, 0.73, 0.27)
+ id:orange value:rgb(1, 0.55, 0)
+ id:red value:rgb(0.80,0, 0)
+BarData =
+ bar:Wikipedias
+PlotData=
+ bar:Wikipedias from:0 till:99 color:gray width:0.2in text:/99
+ bar:Wikipedias from:0 till:12 color:yellow width:0.2in text:12
+/timeline
+|website = [http://www.liberale.de/ http://www.liberale.de/]
+}}
+El '''Partit Democràtic Lliure''' (en [[alemany]], '''Freie Demokratische Partei, FDP''') és un [[partit polític]] d'[[Alemanya]] d'ideologia [[liberal]]. 
+
+== Historia ==
+El FDP, hereu de la tradició liberal del [[Partit Democràtic Alemany]] (DDP) i del Partit Democràtic Popular (DVP) va ser creat després de la Segona Guerra Mundial com un partit que reunís tant a liberals d'esquerres com de dretes. Des de les [[eleccions federals alemanyes de 1949]], formava part d'una coalició de govern amb la [[Unió Demòcrata Cristiana d'Alemanya|CDU]] sota el canceller [[Konrad Adenauer]]; el primer President Federal, [[Theodor Heuss]], va ser membre del FDP. Amb resultats d'entre el 5 i el 10 per cent dels vots, el FDP s'establia com la tercera força d'Alemanya, participant en els governs conservadors i promovent el model alemany de la economia social de mercat. 
+
+En 1966, per desacords en matèria dels drets civils, va trencar amb la CDU i, després d'uns anys en l'oposició, es va aliar amb els [[Partit Socialdemòcrata d'Alemanya|socialdemòcrates]] en 1969 sota els governs de [[Willy Brandt]] i [[Helmut Schmidt]]. En 1982, el FDP va tornar a canviar de soci de govern, oferint un pacte a la CDU de [[Helmut Kohl]] i donant suport una moció de censura contra Helmut Schmidt. A partir d'aquest viratge el FDP va actuar cada vegada més com un partit liberal de dretes, subratllant l'economia lliure i descurant la seva faceta de defensor de drets civils. Així, va permetre l'establiment d'[[Aliança 90/Els Verds|Els Verds]] com un partit d'ideologia liberal d'esquerres. En les [[Eleccions federals alemanyes de 1998|eleccions federals de 1998]] van assolir treure més vots que el FDP, que va quedar relegat a la quarta posició i va passar a l'oposició per segona vegada en la seva història. Després d'una campanya erràtica, en la qual algun membre de la cúpula del partit fins i tot va recórrer a al·lusions antisemites, el FDP tot just va assolir millorar el seu resultat a les [[eleccions federals alemanyes de 2002|eleccions de 2002]], traient el 7,4% dels vots. Després de participar com a soci minoritari en el [[Gabinet Merkel II|segon govern de Merkel]] entre [[2009]] i [[2013]], en les [[Eleccions federals alemanyes de 2013|eleccions federals de 2013]] el partit sofrí una desfeta, la qual es consolidà després de les numeroses desfetes en les eleccions als ''länder'', quedant-se sense cap escó a Bundestag al no arribar al 5% necessari (va obtenir un 4,8%) i per tant obtenint el seu pitjor resultat des de la fundació del partit el [[1948]]. 
+== Dades principals ==
+* Líder: [[Philipp Rösler]].
+* Nom en alemany: Freie Demokratiche Partei.
+* Data de fundació: 1948.
+* Estat amb més presència: [[Saxònia]] (10%)
+* Estat amb menys presència: [[Saarland]] (1,2%).
+* Seu central: 	Thomas-Dehler-Haus ([[Berlín]]).
+
+== Situació actual ==
+=== A escala federal ===
+Després de les [[Eleccions federals alemanyes de 2005|eleccions federals]] del [[18 de setembre]] de [[2005]], en les quals es va presentar amb un discurs netament [[neoliberal]], el FDP va tornar a augmentar fins al 9,8% dels vots convertint-se de nou en la tercera força política d'Alemanya, però el resultat de les eleccions no va bastar per a una coalició amb la CDU, el soci preferit del FDP. No obstant això, podria haver entrat en el govern mitjançant dues possibles coalicions: [[Unió Demòcrata Cristiana d'Alemanya|CDU]]+FDP+[[Aliança 90/Els Verds|Verds]] (la coalició Jamaica) o [[Partit Socialdemòcrata d'Alemanya|SPD]]+FDP+[[Aliança 90/Els Verds|Verds]] (coalició del Semàfor). 
+
+No obstant això, el FDP rebutjava qualsevol pacte amb els socialdemòcrates i, per altra banda, els Verds no estaven disposats a una coalició amb els dos partits de dreta. Per tant, va acabar formant-se una gran coalició entre democristians i socialdemòcrates, i el FDP es va quedar en l'oposició per tercera legislatura consecutiva. A continuació, i vista la pràctica impossibilitat d'una futura participació en un govern sense Els Verds, durant un temps el FDP semblava tractar de tornar a obrir-se cap al centre i millorar el seu escàs perfil en política social i ecològica. No obstant això, des que a la tardor de 2007 tant SPD, CDU com Verds giressin a l'esquerra en matèria social, el FDP ha tornat a posicionar-se com a guardià de la doctrina neoliberal. 
+
+A les [[Eleccions federals alemanyes de 2009|eleccions federals del 2009]] el FDP augmentà considerablement, i obtingué 93 diputats al [[Bundestag]]. Després de les eleccions formà part del govern de coalició amb [[Angela Merkel]].
+
+Actualment no té cap escó al Bundestag després de la desfeta en les [[Eleccions federals alemanyes de 2013|eleccions federals del 2013]]. 
+
+=== Als estats ===
+
+És soci de govern de la [[Unió Demòcrata Cristiana d'Alemanya|CDU]] a:
+
+* [[Hessen]]
+* [[Saxònia]]
+
+És a l'oposició a:
+
+* [[Baden-Württemberg]]
+* [[Baixa Saxònia]]
+* [[Brandenburg]]
+* [[Bremen]]
+* [[Hamburg (estat)|Estat d'Hamburg]]
+* [[Mecklemburg-Pomerània Occidental]]
+* [[Rin del Nord-Westfàlia]]
+* [[Slesvig-Holstein]]
+* [[Turíngia]]
+
+No té representació parlamentària a:
+
+* [[Baviera]]
+* [[Berlín]]
+* [[Renània-Palatinat]]
+* [[Saarland]]
+* [[Saxònia-Anhalt]]
+
+=== A les grans ciutats ===
+* [[Munic]]: és a l'oposició. Té 4 de 80 regidors.
+* [[Frankfurt del Main]]: És a l'oposició. Té 4 de 93 regidors.
+
+== Estadístiques ==
+{| class=prettytable
+|- class=hintergrundfarbe6
+! colspan=4 | Resultats al [[Bundestag]] des de [[1949]]
+|- class=hintergrundfarbe8
+! Any
+! %
+! Escons
+! Candidat
+|-
+| [[Eleccions federals alemanyes de 1949|1949]] || align=center | 11,9 % || align=center | 52 || align=center | [[Franz Blücher]]
+|-
+| [[Eleccions federals alemanyes de 1953|1953]] || align=center | 9,5 % || align=center | 48 || align=center | Franz Blücher
+|-
+| [[Eleccions federals alemanyes de 1957|1957]] || align=center | 7,7 % || align=center | 41 || align=center | [[Thomas Dehler]]
+|-
+| [[Eleccions federals alemanyes de 1961|1961]] || align=center | 12,8 % || align=center | 67 || align=center | [[Wolfgang Stammberger]]
+|-
+| [[Eleccions federals alemanyes de 1965|1965]] || align=center | 9,5 % || align=center | 49 || align=center | [[Erich Mende]]
+|-
+| [[Eleccions federals alemanyes de 1969|1969]] || align=center | 5,8 % || align=center | 30 || align=center | [[Walter Scheel]]
+|-
+| [[Eleccions federals alemanyes de 1972|1972]] || align=center | 8,4 % || align=center | 41 || align=center | Walter Scheel
+|-
+| [[Eleccions federals alemanyes de 1976|1976]] || align=center | 7,9 % || align=center | 39 || align=center | [[Hans-Dietrich Genscher]]
+|-
+| [[Eleccions federals alemanyes de 1980|1980]] || align=center | 10,6 % || align=center | 53 || align=center | Hans-Dietrich Genscher
+|-
+| [[Eleccions federals alemanyes de 1983|1983]] || align=center | 7,0 % || align=center | 34 || align=center | Hans-Dietrich Genscher 
+|-
+| [[Eleccions federals alemanyes de 1987|1987]] || align=center | 9,1 % || align=center | 46 || align=center | Hans-Dietrich Genscher
+|-
+| [[Eleccions federals alemanyes de 1990|1990]] || align=center | 11,0 % || align=center | 79 || align=center | Hans-Dietrich Genscher
+|-
+| [[Eleccions federals alemanyes de 1994|1994]] || align=center | 6,9 % || align=center | 47 || align=center | [[Klaus Kinkel]]
+|-
+| [[Eleccions federals alemanyes de 1998|1998]] || align=center | 6,2 % || align=center | 43 || align=center | [[Wolfgang Gerhardt]]
+|-
+| [[Eleccions federals alemanyes de 2002|2002]] || align=center | 7,4 % || align=center | 47 || align=center | [[Guido Westerwelle]]
+|-
+| [[Eleccions federals alemanyes de 2005|2005]] || align=center | 9,8 % || align=center | 61 || align=center | Guido Westerwelle
+|-
+| [[Eleccions federals alemanyes de 2009|2009]] || align=center | 14,6 % || align=center | 93 || align=center | Guido Westerwelle 
+|-
+| [[Eleccions federals alemanyes de 2013|2013]] || align=center | 4,8 % || align=center | 0 || align=center | [[Rainer Brüderle]] 
+|-
+|}
+
+
+== Articles relacionats ==
+* [[Alexander Nuno Alvaro]]
+
+== Enllaços externs ==
+{{Commonscat|Freie Demokratische Partei}}
+
+* {{de}} [http://www.fdp.de Pàgina oficial del FDP] 
+
+{{Partitspoliticsalemanya}}
+
+
+{{ORDENA:Partit Democratic Lliure}}
+{{Autoritat}}
+{{Enllaç AB|de}}
+
+[[Categoria:Partits polítics d'Alemanya]]
+[[Categoria:Partits polítics liberals]]</text>
+      <sha1>q83s2yuf42dj01dd6oirfs7kwx0wd8a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

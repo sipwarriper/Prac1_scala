@@ -1,0 +1,66 @@
+<page>
+    <title>Ala de geometria variable</title>
+    <ns>0</ns>
+    <id>874113</id>
+    <revision>
+      <id>13329129</id>
+      <parentid>13215139</parentid>
+      <timestamp>2014-05-06T09:31:53Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>[[Fitxer: Ala en flecha variable.svg|thumb|200px|Esquema d'un avió amb configuració d'ala en fletxa variable.]] 
+
+Un ''' ala de geometria variable ''' és una configuració d'[[ala (aeronàutica)|ala]] que permet alterar el seu [[planforma]] per a diverses condicions de vol. Això permet aprofitar els avantatges de l'aerodinàmica d'un [[ala en fletxa]] a altes velocitat mentre que s'eviten els seus desavantatges a baixes velocitats. En aquest sentit es comporta satisfactòriament, però el pes i complexitat afegits requerits contraresten els avantatges, pel que el seu ús no està massa generalitzat. El terme ''' geometria variable ''' s'usa a vegades de forma indistinta amb el de '' ala swing '', encara que estrictament parlant una '' ala swing '' és un tipus específic de geometria variable. 
+
+== Història == 
+
+[[Fitxer: F-14 breaks the sound barrier.jpg|thumb|250px|F-14 Tomcat en configuració de fletxa màxima.]] 
+[[Fitxer: F-14-vf-84.jpg|thumb|250px|F-14 Tomcat en configuració de fletxa mínima.]] 
+
+=== Dissenys inicials === 
+
+Les aeronaus amb ala variable es van desenvolupar a base de dissenys experimentals anteriors, fets per enginyers alemanys durant la [[II Guerra Mundial]], que es van construir per estudiar els efectes d'una simple ala fletxa. El primer d'aquests va ser el ''' [[Messerschmitt P-1101]] ''', l'angle de fletxa podia ser ajustat en terra. Un nombre rècord de vols de prova es van dur a terme amb diferents angles per determinar els avantatges i desavantatges de cada un. 
+
+Al final de la [[Segona Guerra Mundial]] els aliats van confiscar els prototips alemanys, estudiant-minuciosament. El Em P.1101 va ser transportat als [[EUA]] Per a ser estudiat pels enginyers de [[Bell Aircraft]]. Va ser allà on es van construir versions addicionals les quals podien ajustar l'angle de fletxa de les ales en vol. Un problema descobert durant les proves del [[Bell X-5]] és que al pivotar l'ala cap enrere, el [[centre de gravetat]] també es mou cap enrere, el que al seu torn empeny el nas cap avall. Un sistema per compensar aquest efecte bàsic va haver de ser afegit per donar-li viabilitat al disseny. 
+
+L'ala variable és de millor ús en aquelles aeronaus que volen a un ampli ventall de velocitats, és per aquesta raó que se li ha donat ús a [[aeronaus militars]].
+
+=== Experimentació en la dècada de 1950 === 
+
+Una ala swing va ser provada en el [[Grumman F-10F Jaguar]] el [[1952]]. El XF-10F va ser una plataforma purament experimental amb el propòsit d'avaluar la tecnologia de l'ala swing. La [[Marina dels Estats Units]], després de repassar els resultats dels estudis, va decidir que no tenia cap interès en el disseny d'ala variable en aquest moment. La idea va tornar a renéixer al principi de la dècada del [[1960]] en un intent de reconciliar l'augment constant en el pes de les aeronaus (i per tant, la càrrega d'ala) amb la necessitat de proveir un rendiment raonable en l'enlairament i aterratge. Els EUA adoptar la configuració en el programa TFX («Tactical Fighter Experimental o Caça Tàctic Experimental), que va culminar en la introducció del [[General Dynamics F-111]], la primera aeronau de geometria variable que va entrar en producció. 
+
+Immediatament després de la guerra, [[Barnes Wallis]] havia començat a treballar el disseny de la geometria variable per maximitzar l'economia en vol supersònic. El treball inicial es va fer amb el projecte militar «Wild Goose», i va seguir amb el «Swallow», la meta era fer el vol anada i tornada des d'Europa fins a Austràlia en deu hores. El model a escala va volar amb èxit a una velocitat de Mach 2 en els dècada del 1950 però se li va retirar el suport per part del govern. Wallis i el seu equip van presentar el seu treball als nord-americans amb el propòsit d'aconseguir diners per continuar el programa de desenvolupament, però no van tenir èxit. 
+
+=== Utilització en aeronaus supersòniques === 
+
+Requisits similars a la [[Unió Soviètica]] van conduir a la [[TsAGI]], l'agència aerodinàmica soviètica, per explorar les possibilitats de la geometria variable. TsAGI evolucionar dues plataformes diferents, diferint principalment en la distància (expressada com un percentatge de la [[envergadura]] total) entre els pivots de les ales. Un espai més ample no només redueix els efectes aerodinàmics negatius de canviar l'escombrat de l'ala, sinó també proporciona una secció d'ala més gran, que podria ser utilitzada com a [[tren d'aterratge]] o emmagatzemar pilons. Això podria, de fet, ser adaptat més o menys a les estructures existents que els soviètics aviat van fer, amb el [[Sukhoi Su-17]] (basat en un dels primers [[ala en fletxa]] [[Sukhoi Su-7]] ) i el [[Tupolev Tu-22M]] (basat en el [[Tupolev Tu-22]]). Les limitacions de l'espai, però, va ser el que va reduir els beneficis de la geometria variable tant com van reduir les dificultats tècniques. Per al nou, disseny soviètic, el TsAGI va idear un espaiat més estret similar al del F-111. Aquest disseny va ser usat (encara que a escala diferent) per l'avió de combat [[MiG-23]] i el [[Sukhoi Su-24]], que van volar en forma de prototip a finals dels [[dècada del 1960]], entrant en servei a principis dels [[dècada del 1970]]. 
+
+Un consorci europeu, mentrestant, va adoptar la geometria variable per al projecte '' Multi-Role Combat Aircraft '' (MRCA) que va emergir com el [[Tornado GR1]]. Va ser un interdictors i un interceptor a distància similar en funcionalitat al F-111, però a menor escala. Mentrestant, la [[Armada dels Estats Units]] va ordenar reemplaçar el desastrós i frustrat interceptor de flota F-111B pel [[F-14 Tomcat]]. L'ala de geometria variable és un camí per reconciliar les velocitats baixes d'aterratge necessàries per a avions militars de transport amb les funcions de combat com un interceptor d'alta velocitat. Com un efecte col·lateral, encara que la maniobrabilitat no fos un objectiu de disseny, el F-14 era extraordinàriament àgil, tot i els motors de poca potència. Estava lluny de tenir més maniobrabilitat que el F-111, el Tornado o qualsevol aeronau d'ala swing soviètica a causa de la poc efectiva [[càrrega alar]] (gràcies a un fuselatge llis que proporcionava una empenta addicional) i un escombrat d'ala automàtic . [[Rockwell]], mentrestant, va adoptar la geometria variable per al programa '' Advanced Manne Strategic Bomber '' (AMSA) que va produir el bombarder [[B-1 Lancer]], va intentar proporcionar una combinació òptima d'eficiència d'alta velocitat de creuer i rapidesa, velocitats de penetració supersònica a un extremadament baix nivell. L'últim avió militar de geometria variable fins ara ha estat el soviètic [[Tupolev Tu-160]] «Black Jack, que va volar per primera vegada el [[1980]].
+
+=== Boeing i el transport supersònic nord-americà === 
+L'ala variable també va ser usat en la proposta de [[Boeing]] per a l'estudi de l'[[Administració Federal d'Aviació]] dirigit cap al desenvolupament d'un [[transport supersònic]], el model [[Boeing 2707]]. No obstant això, durant la fase de disseny va quedar clar que el mecanisme seria tan gran que no deixaria cap espai a la cabina per als seients. El disseny va ser abandonat a favor d'un que va utilitzar la més clàssica [[ala delta]]. 
+
+Encara que la geometria variable proveeix molts avantatges, particularment en la distància necessària per a l'enlairament, l'habilitat de portar càrrega i en les missions de penetració ràpida a baixa altura, les ales swing imposen un cost en termes de pes i complexitat. El desenvolupament de sistemes de control de vol de «estabilitat relaxada» en la dècada del 1970 va eliminar moltes de les avantatges de la plataforma fixa, i no s'han construït aeronaus noves amb ala ''swing'' des que es va introduir el [[Tupolev Tu-160|Tu-160]].
+
+==Vegeu també==
+*[[Ala en delta]]
+*[[Ala en fletxa]]
+*[[Ala volant]]
+
+== Nota ==
+{{referències|2}}
+
+{{Commonscat}}
+
+{{ORDENA:Ala De Geometria Variable}}
+
+[[Categoria:Configuracions d'ales|Geometria Variable]]</text>
+      <sha1>3a5mexds8jw6bberz41nqwfeny9tsyk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

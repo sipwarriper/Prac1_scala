@@ -1,0 +1,124 @@
+<page>
+    <title>Citroën (aviació)</title>
+    <ns>0</ns>
+    <id>840062</id>
+    <revision>
+      <id>13957222</id>
+      <parentid>13954299</parentid>
+      <timestamp>2014-08-21T11:06:21Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot estandarditza i catalanitza referències, catalanitza dates i fa altres canvis menors</comment>
+      <text>{{Infotaula motor aeronau
+|nom = Citröen
+|fabricant = Diversos
+|imatge = Avionitzacio2CV.jpg
+|peu = Un Motor de Citroën 2CV avionitzat
+|dissenyador = Citröen 
+|any = [[1941]] - Actual
+|tipus = Pistons Boxer
+|aplicacions = [[Aviació ultralleugera|ultralleugers]]
+|unitats = 
+|cost = 
+|variants = Moltes
+}}
+''[[Citroën]]'' és una marca de motors d'automoció usats en l'[[aviació ultralleugera]].
+
+== Història ==
+A [[França]] i a la resta d'[[Europa]] es va començar a fer servir el motor de ''[[Citroën 2CV|2 CV]]'' per funcionar en ultralleugers, amb no més de 375 [[cm³]] i 18 [[Cavall de vapor|CV]], pujant a poc a poc de cubicatge fins a arribar als 435 [[cm³]]. Aquest motor resultava molt suggestiu per la seva [[Motor de combustió interna#Arquitectura|arquitectura “boxer”]] i refrigeració per aire, amb el que no més alleugerant-lo es converteix en un propulsor de primera.
+
+A més, en ser un propulsor molt produït, es va fabricar de la fi de la [[Segona Guerra Mundial]] fins al [[1985]]. També destaca per ser un motor de construcció molt fiable, cosa molt apreciada en aviació.
+
+El més apreciat fou el del cotxe, ''[[Citroën Visa|VISA II]]'', més potent, ja que amb els 652 cm³, arriba a donar els 39 [[Cavall de vapor|CV]]. Encara que també s'ha utilitzat el cubicatge de 602 cm³ amb 29 CV, el més aprofitat ha estat els ''AMI'' i ''VISA'' en avions ultralleugers i ULM de construcció casolana.
+
+A l'[[Argentina]] es va instal·lar un motor de ''3 CV'' (denominació en aquell país de la furgoneta 2 CV), per muntar l'avió '''Armar I''' (Arrambide + Mário) el ''Gorrión''.
+
+El darrer '''Visa II''' amb 652 cm³ ja donava 40 CV, que amb la fiabilitat dels motors/vehicles, encara ha estat un factor més per aquest fet.
+
+Existeixen kits de cilindres per augmentar la cilindrada a 700, 750 i 800 cm³, a part de versions sobrealimentades (veure [[sobrealimentació]]) que arriben a, amb 652 cm³, als 75 CV.
+
+El motor del cotxe '''GS'' amb 4 cilindres boxer, i refrigerat també per aire, i amb una cilindrada d'1,2 [[Litre|ls.]], i una potència de 65 CV a 5.700 [[Revolució per minut|RPM]], igualment ha estat ''avionitzat''. Mentre que la seva construcció va de [[1973]] a [[1983]]. Igualment hi ha hagut diferents cubicatges que engloben els 1015, 1129, 1299 i 1990 cm³.
+
+Resumint, que a pesar de ser uns motors nascuts per l'automòbil, encara que no ho semblen, pel seu sistema de refrigeració i disposició dels cilindres, fan que juntament amb els motors del [[Volkswagen Escarabat]], que és el mateix cas, han volat més.ref{{MotorAZ|19-20}}/ref
+
+== Funcionament ==
+Per transformar un motor de cotxe en motor d'aviació, es necessita primer de tot treure pes, el que s'aconsegueix treien tot el que sigui superflu, en el cas que ens ocupa seria els conductes de refrigeració forçada i ventilador, en els gràfics no s'aprecia tampoc alternador i grup embragatge. Possiblement es canviï el sistema d'encesa passant-lo a magneto (és un sistema que no necessita bateria ni bobina d'alta i funciona amb el propi motor). Modificar l'escapament (re-dirigir-lo). I per últim muntar un sistema de reducció, que faci girar el hèlix al règim adequat. En aquest cas, s'aconsegueix per mitjà de corretges de Poliflex.
+
+== Característiques tècniques ==
+Citroën 2CVref[https://archive.is/20120710072706/motor.terra.es/coches-clasicos/pruebas/articulo/citroen-2cv-42619-ficha-tecnica.htm Fitxa Tècnica Citroën 2CV]/ref
+
+{|border=2 cellspacing=2 cellpadding=2 style=text-align: rigth; 
+|Empresa : || Citroën
+|-
+|Any de fabricació : || 1945 - 1985
+|-
+|Cicle : otto 4 temps || Combustible : Gasolina
+|-
+|Nº de cilindres : 2 || [[Motor de combustió interna#Arquitectura|Disposició]] : Boxer
+|-
+|Diàmetre del cilindre : 66 || Cursa : 62 
+|-
+|Cilindrada total : 425 cm³ || Relació de compressió : 7:1
+|-
+|Carburador : Solex 26 CBI || Refrigeració : Aire
+|-
+|Lubricació : Forçada/Carter humit || Reducció : Si
+|-
+|Potència 12,5 [[Cavall de vapor|CV]] SAE || a 4.200 [[Revolució per minut|RPM]]
+|-
+|Pes [[Kg]] ||
+|-
+|}
+
+Citroën GSref[http://www.motormania.info/citroengs.htm| Fitxa Tècnica del Citroën GS ( versió X2 )]/ref
+
+{|border=2 cellspacing=2 cellpadding=2 style=text-align: rigth; 
+|Empresa : ||Citroën
+|-
+|Any de fabricació : || 1973 - 1983
+|-
+|Cicle : otto 4 temps || Combustible : Gasolina
+|-
+|Nº de cilindres : 4 || [[Motor de combustió interna#Arquitectura|Disposició]] : Boxer
+|-
+|Diàmetre del cilindre : 77 || Cursa : 65,6 
+|-
+|Cilindrada total : 1.222 cm³ || Relació de compressió : -
+|-
+|Carburador : Weber vertical doble cosbr/30 DGS 2/250 || Refrigeració : Aire
+|-
+|Lubricació : Forçada/Carter humit || Reducció : Si
+|-
+|Potència 64 [[Cavall de vapor|CV]] || a 5.750 [[Revolució per minut|RPM]]
+|-
+|Pes [[Kg]] ||
+|-
+|}
+
+== Aplicacions ==
+S'ha aplicat el motor 2CV en el model [[Pou-du-Ciel]], a part d'altres ultralleugers de construcció casolana. El motor del 3CV també s'ha instal·lat en ultralleugers de fabricació casolana.ref{{ref-web|url=http://www.doscaballos.org/article402.html |títol=Trike monoplaza con motor Citroen 3CV convertido para uso aeronáutico. |consulta= |obra= |editor= |data= |llengua= }}/ref
+
+Per altra banda, hi ha un avió francès anomenat [[Starck]] que utilitzava en principi el motor ''GS'' per moure dues hèlixs, i més tard es va assajar amb motor [[Porsche]] de 100 CV.
+
+== Vegeu també ==
+* [[Motor de combustió interna#Arquitectura|Arquitectura dels motors de pistons]]
+* [[Motor boxer]]
+* [[Llista de motors d'aviació fabricats a Espanya]]
+
+== Referències ==
+{{Referències}}
+
+== Bibliografia ==
+* {{MotorAZ}}
+
+
+{{ORDENA:Citroen Aviacio}}	!--ORDENA generat per bot--
+[[Categoria:Empreses d'Espanya]]
+[[Categoria:Fabricants de motors d'aviació]]</text>
+      <sha1>b40vtrqnkmvpnlnj1a1put7xqf98ijp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

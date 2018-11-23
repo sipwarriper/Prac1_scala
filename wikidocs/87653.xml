@@ -1,0 +1,81 @@
+<page>
+    <title>Primera Batalla d'El Alamein</title>
+    <ns>0</ns>
+    <id>87653</id>
+    <revision>
+      <id>13869037</id>
+      <parentid>13699697</parentid>
+      <timestamp>2014-07-19T18:21:03Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: s'enmarca  s'emmarca</comment>
+      <text>{{FixHTML|begin}}
+{{VPHISMILCAT Infotaula conflicte militar|
+nom_de_la_batalla=Primera Batalla d'El Alamein|
+esquema_de_colors=background:#eeddbb|
+imatge=[[Fitxer:1stAlameinBritDefense.jpg|300px|Tropes de la Commonweakth]]|
+mapa=| 
+bàndol1=[[Fitxer:Flag of the United Kingdom.svg|25px|Regne Unit]] [[Regne Unit de la Gran Bretanya i Irlanda del Nord|Regne Unit]]|
+bàndol2=[[Fitxer:Flag_of_Germany_1933.svg|25px|Alemanya nazi]] [[Alemanya nazi|Alemanya]]br/ [[Fitxer:Flag of Italy (1861-1946).svg|25px|Itàlia]] [[Regne d'Itàlia (1861–1946)|Itàlia]]|
+peu_de_foto=Tropes de la Commonweakth|
+mapa= {{VPHISMILCAT Localització militar
+ |Orient Proper
+ |label={{PAGENAME}}
+ |position=right
+ |lat_deg=30 | lat_min=50 | lat_seg=0 |lon_deg=28 | lon_min=57 |lon_seg=00
+ |float=none
+ |caption= {{PAGENAME}}
+ |width=315
+}}|
+batalla_anterior=[[Batalla de Gazala]]|
+batalla_posterior=[[Segona Batalla d'El Alamein|2a Batalla d'El Alamein]]|
+conflicte=[[Segona Guerra Mundial]]|
+data= De l'[[1 de juliol]] de l'any [[1942]] - [[27 de juliol]] de l'any [[1942]]|
+resultat=Empat tàcticbr/ Victòria estratègica aliada|
+general1=[[Fitxer:Flag of the United Kingdom.svg|25px|Regne Unit]] [[Claude Auchinleck]]|
+general2=[[Fitxer:Flag_of_Germany_1933.svg|25px|Alemanya nazi]] [[Erwin Rommel]]|
+localitat=[[El Alamein]], [[Egipte]]|
+força_numèrica1=150.000 homesbr/ 1.114 [[tanc|tancs]] br/ 1.500 [[avions]]br/ 1.000 peces d'[[artilleria]]|
+força_numèrica2=96.000 homesbr/ 585 [[tanc|tancs]] br/ 500 [[avions]]|
+baixes1=?|
+baixes2=?|
+}}
+{{FixHTML|mid}}
+{{FixHTML|end}}
+La '''Primera Batalla d'El Alamein''', entre l'[[1 de juliol]] i el [[27 de juliol]] de [[1942]] es va lluitar en la [[campanya del Desert Occidental]] de la [[Segona Guerra Mundial]], entre l'[[Afrika Korps]] Italoalemany comandades per [[Erwin Rommel]] i el [[8è Exèrcit (Regne Unit)|8è Exèrcit]] britànic, comandat per [[Claude Auchinleck]].
+
+==Antecedents==
+La Batalla d'El Alamein s'emmarca en la campanya del desert oriental, amb l'intent de control per part de l'eix d'Egipte i el Canal de Suez, ruta important per al trànsit de subministraments.
+
+Després de la derrota a la [[Batalla de Gazala]] el juny de 1942, el [[8è Exèrcit (Regne Unit)|8è Exèrcit]] britànic es va retirar de Mersa Matruh a la línia d'El Alamein, a [[Egipte]], un espai de 60 [[km]] entre la ciutat d'[[El Alamein]] a la costa del [[Mediterrani]] i la depressió Qattara, en el desert al sud.
+
+==Les tropes==
+Els aliats comptaven amb uns cansats 150.000 soldats britànics, en 3 [[Cos (militar)|cossos]] i 7 [[Divisió (militar)|divisions]], 1.114 [[tanc|tancs]] en tres divisions, 1000 peces d'[[artilleria]] i 1500 [[avions]].
+
+L'Eix comptava amb 96.000 soldats, 56.000 d'ells italians, en 8 divisions, i quatre divisions [[tanc|blindades]], dues italianes i dues alemanyes de [[panzer|panzers]], i uns 500 avions. 
+
+==La Batalla==
+L'1 de juliol l'[[Afrika Korps]] va atacar. La línia aliada no va ser trencada fins al vespre, i això va aturar l'avanç italoalemany.
+
+El [[2 de juliol]] Rommel va concentrar les tropes al Nord, intentant arribar a El Alamein. Auchinleck va contraatacar al centre de la línia de l'eix però l'atac va fracassar. Els aliats també van atacar al sud amb més èxit cointra els italians. Com a conseqüència de la resistència aliada, Rommel va decidir reagrupar-se i defensar la línia aconseguida.
+
+Auchinleck va atacar de nou el [[10 de juliol]] a [[Tel el Eisa]] al nord, i es van fer mil presoners. El contraatac de Rommel va aconseguir pocs resultats. Auchinleck va tornar a atacar al centre en dues batalles ([[14 de juliol|14]] i [[21 de juliol]]). Cap de les batalles va ser un èxit i que els blindats no arribessin a temps a cobrir la infanteria en la segona batalla va resultar en la pèrdua de 700 homes. Tot i això, dos atacs van ser llançats el [[27 de juliol]]. Al nord, a Tel el Eisa va resultar un fracàs moderat, i el de [[Miteiriya]] va ser una calamitat, atès que els [[camps de mines]] no van ser netejats i la infanteria no va tenir suport blindat al rebre un contraatac alemany.
+
+El 8è Exèrcit estava esgotat, i el [[31 de juliol]] Auchinleck va ordenar el final de les operacions per reforçar les defenses en cas de [[contraofensiva]].
+
+==Vegeu també==
+{{commonscat|World War II}}
+*[[Cronologia de la Segona Guerra Mundial]]
+*[[Cronologia dels fets que van precedir a la Segona Guerra Mundial]]
+*[[Unitat militar]]
+
+{{ORDENA:Primera Batalla D El Alamein}}
+[[Categoria:Campanya del nord d'Àfrica|El Alamein]]</text>
+      <sha1>m4f2p8rit17xdxl4dvce7tk3xlpdiwx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,190 @@
+<page>
+    <title>Pronòstic meteorològic</title>
+    <ns>0</ns>
+    <id>780937</id>
+    <revision>
+      <id>13965648</id>
+      <parentid>13879295</parentid>
+      <timestamp>2014-08-23T13:33:49Z</timestamp>
+      <contributor>
+        <username>RotlinkBot</username>
+        <id>151337</id>
+      </contributor>
+      <minor></minor>
+      <comment>Bot: enllaç no actiu</comment>
+      <text>[[Fitxer:Day5pressureforecast.gif|thumb|250px|Pronòstic de les pressions de superfície a Amèrica del nord]]
+El '''pronòstic meteorològic''' o la '''previsió meteorològica''', '''predicció meteorològica''', '''predicció del temps''', '''predicció de l'oratge''' és l'aplicació de la ciència i la tecnologia per a predir l'estat de l'[[atmosfera terrestre]] en un temps futur en una localitat determinada. 
+
+De manera empírica la humanitat ha predit el temps a curt termini. En l'actualitat es fan servir models de predicció númèrica. La naturalesa de l'atmosfera és [[teoria del caos|caòtica]] i es requereix una gran capacitat de càlcul per a resoldre les equacions que descriuen l'atmosfera, els errors implicats en la mesura de les condicions inicials i la comprenssió incompleta dels processos atmosfèrics fa que els pronòstics no siguin del tot acurats. 
+
+Els pronòstic són importants perquè serveixen per fer avisos que protegeixen les vides i les propietats. Els pronòstic basats en la temperatura i la precipitació són importants en [[agricultura]] i en el trànsit i el comerç de tot tipus. A nivell diari són útils per a escollir la roba que s'ha de dur. En els esports a l'aire liure poden decidir la diferència entre celebrar-se o no.
+
+== Història ==
+[[Fitxer:Meyers b16 s0570.jpg|right|thumb|Mapa meteorològic a Europa, 10 de desembre de 1887]]
+Durant mil·lennis la humanitat ha intentat fer la predicció del temps meteorològic. El 650 aC a [[Babilònia]] van intentar predir l’oratge per la forma dels [[núvol]]s i els coneixements de l’[[astrologia]].refMistic House. [http://www.mistichouse.com/astrology-lessons.htm Astrology Lessons, History, Prediction, Skeptics, and Astrology Compatibility.] Retrieved on 2008-01-12./ref Cap a l’any 340 aC [[Aristòtil]] va descriure el patrons meteorològics a la seva obra ''[[Meteorològica (Aristòtil)|Meteorològica]]''.ref[http://yale.edu/ynhti/curriculum/units/1994/5/94.05.01.x.html Meteorology by Lisa Alter]/ref Més tard, [[Teofrast]] compilà la predicció meteorològica en un llibre anomenat ''Llibre dels Senyals''.ref[http://www.infoplease.com/cig/weather/forecasting-from-beginning.html Weather: Forecasting from the Beginning]/ref A la [[Xina]] la predicció meteorològica es va estendre com a mínim des de l’any 300 aC.,ref[[University of California]] Museum of Paleontology. [http://www.ucmp.berkeley.edu/history/aristotle.html Aristotle (384-322nbsp;B.C.E.).] Retrieved on 2008-01-12./ref dates compartides amb les prediccions més antigues de l’[[India]].ref{{citar ref|títol=THE INDIAN AND PSEUDO-INDIAN PASSAGES IN GREEK AND LATIN ASTRONOMICAL AND ASTROLOGICAL TEXTS|autor=[[David Pingree]]|pàgines=141–195 [143–4]|url=http://brepols.metapress.com/content/6861608670636388/fulltext.pdf|consulta=2010-03-01}}/ref L’any 904 de la nostra era, [[Ibn Wahshiyya]] en el marc de la [[Revolució de l’Agricultura a l’Islam]] va analitzar els pronòstics meteorològics com a senyals de canvis atmosfèrics i de les alteracions astrals planetàries; signes de pluja basats en les observacions de les [[Fase de la Lluna|fases de la Lluna]] i pronòstics basats en els moviments del vent.ref{{citar ref|cognom=Fahd|nom=Toufic|citació=Botany and agriculture|pàgina=842}}, in {{citar ref|cognom1=Rashed |nom1=Roshdi |cognom2=Morelon |nom2=Régis |any=1996 |títol=[[Encyclopedia of the History of Arabic Science]] |volum=3 |editorial=[[Routledge]] |isbn=0415124107 |pàgines=813–852}}/ref
+
+Els mètodes de pronòstic antics es basaven normalment en reconeixements dels patrons observats. Per exemple, una posta de sol particularment vermella pot implicar bon temps el dia següent. Tanmateix no totes aquestes observacions són de fiar.refJerry Wilson. [http://wilstar.com/skywatch.htm#clouds Skywatch Signs of the Weather.] Retrieved on 2007-04-15./ref
+
+No va ser fins que es va inventar el telègraf elèctric l’any 1835 quan va començar l’era moderna dels pronòstics meteorològics.ref{{ref-web| url=http://www.si.edu/archives/ihd/jhp/joseph20.htm|títol=Joseph Henry: Inventor of the Telegraph? Smithsonian Institution |consulta=2006-06-29 |urlarxiu= http://web.archive.org/web/20060626163000/http://www.si.edu/archives/ihd/jhp/joseph20.htm |dataarxiu= 26 juny 2006}}/ref Abans d’aquest invent no es podia transportar de forma ràpida la informació, ja que el tren també s’acabava d’inventar. A finals de la dècada de 1840 el telègraf ja va aconseguir una gran expansió i permetia rebre la informació meteorològica de manera gairebé instantània,refEncyclopædia Britannica. [http://www.britannica.com/eb/topic-585850/telegraph Telegraph.] Retrieved on 2007-05-05./ref permetent pronòstics com els que van fer ja [[Francis Beaufort]] (autor de l’[[Escala de Beaufort]]) i [[Robert Fitzroy]] (que desenvolupà el tipus de [[baròmetre]] de Fitzroy). Els seus pronòstics, encara que van ser ridiculitzats per la premsa del seu temps, van rebre l’acceptació de la [[Royal Navy]], i formen la base del coneixement meteorològic actual.refEric D. Craft. [http://eh.net/encyclopedia/article/craft.weather.forcasting.history An Economic History of Weather Forecasting.] Retrieved on 2007-04-15./ref Va ser necessari, cap a la dècada de 1890, estandarditzar el vocabulari per descriure els núvols i fer-ne un atlas.
+
+Al segle XX hi va haver grans progressos. La possibilitat de la predicció numèrica va ser proposada per [[Lewis Fry Richardson]] el 1922,refLynch, P. (2006). The Emergence of Numerical Weather Prediction. Cambridge U.P./ref però com que no existien els ordinadors per a fer els grans càlculs, la predicció numèrica en la pràctica va començar el 1955.refPaul N. Edwards. [http://www.aip.org/history/sloan/gcm/ Atmospheric General Circulation Modeling.] Retrieved on 2007-02-16./ref 
+
+Als Estats Units el primer pronòstic, enès per la ràdio, es va emetre l’any 1925 per Edward B. E.B. Rideout des de [[Boston]].ref name=cyc{{format ref}} http://www.encyclopedia.com/doc/1G2-3401802621.html/ref Els pronòstics televisats es van iniciar a la dècada de 1940.ref name=cyc /ref{{ref-notícia| url=http://www.usatoday.com/weather/wforund.htm |títol=Answers: Understanding weather forecasts |data=2006-02-08 |obra=USA Today}}/ref
+
+== Models de predicció ==
+=== Recollida de les dades ===
+Les observacions de superfície de la [[pressió atmosfèrica]], [[temperatura]], velocitat del [[vent]] i la seva direcció, [[humitat]] i [[precipitació atmosfèrica]] es fan prop de la superfície de la Terra per part d’observadors entrenats, estacions meteorològiques automàtiques o boies meteorològiques. L’[[Organització Meteorològica Mundial]] (WMO) actua per estandarditzar els instruments, les pràctiques d’observació i calendari d’aquestes a tot el món. Les estacions o bé informen cada hora en informes [[METAR]],ref[[National Climatic Data Center]] [http://www.ncdc.noaa.gov/oa/climate/conversion/swometardecoder.html Key to METAR Surface Weather Observations.] Retrieved on 2008-03-09/ref o cada sis hores en informes [[SYNOP]].ref[[UNISYS]]. [http://weather.unisys.com/wxp/Appendices/Formats/SYNOP.html SYNOP Data Format (FM-12): Surface Synoptic Observations.] Retrieved on 2008-05-25./ref
+
+Les mesures de temperatura, humitat i vent sobre la superfície es troben amb el llançament de [[radiosondes]] en [[globus meteorològic]]s.ref[[NASA]]. [http://ghrc.msfc.nasa.gov:5721/dataset_documents/namsenegal_dataset.html NAMMA Senegal Radiosonde and Tower Flux.] Retrieved on 2008-05-25./ref Normalment les dades s’obtenen des de prop de la superfície fins a la meitat de l’[[estratosfera]], a uns 21 km d’altitud.refDian J. Gaffen. [http://www.aero.jussieu.fr/~sparc/News12/Radiosondes.html Radiosonde Observations and Their Use in SPARC-Related Investigations.] Retrieved on 2008-05-25./ref En els darrers anys, s’incorporen també les dades d’avions comercials a través del sistema [[AMDAR]] principalment en els models numèrics.refBradley A Ballish and V. Krishna Kumar. [http://amdar.noaa.gov/docs/bams_ballish_kumar.pdf Investigation of Systematic Differences in Aircraft and Radiosonde Temperatures with Implications for NWP and Climate Studies.] Retrieved on 2008-05-25./ref
+
+De manera creixent les dades de [[Satèl·lit meteorològic|satèl·lits meteorològics]] es fan servir per la seva cobertura gairebé global.ref[[NASA]] [http://wwwghcc.msfc.nasa.gov/GOES/globalir.html Interactive Global Composite Weather Satellite Images.] Retrieved on 2008-05-25/ref Encara que les imatges en llum visible són molt útils pels predictors per veure el desenvolupament dels núvols, poca d’aquesta informació es pot usar en els models de predicció numèrica. Tanmateix les dades en [[infraroig]] (IR) es poden fer servir perquè donen informació de la temperatura en la part alta dels núvols.ref[[NOAA]] [http://www.goes.noaa.gov/ECIR4.html Goes Eastern US Sector Infrared Image.] Retrieved on 2008-05-25./ref També es pot seguir els moviment de núvols individuals per a obtenir informació de la [[direcció del vent]]. Tant els satèl·lits d’òrbita polar com els geosincrònics proporcionen sondatges de la temperatura i la humitat a través de l’atmosfera.ref[[Met Office]] [http://webarchive.nationalarchives.gov.uk/20070705213142/http://www.metoffice.gov.uk/research/nwp/satellite/ Satellite applications.] Retrieved on 2008-05-25./ref En comparació amb dades similars de les radiosondes, el satèl·lit té l’avantatge d’una cobertura global, però tanmanteix la informació és menys acurada.refTony Reale. [http://cimss.ssec.wisc.edu/itwg/itsc/itsc12/presentations/1a4_T.Reale.ppt ATOVS Sounding Products (ITSVC-12).] Retrieved on 2008-05-25./ref
+
+Els [[Radar meteorològic|radars meteorològics]] proporcionen informació sobre on hi ha precipitació i sobre la seva intensitat, que es pot fer servir per estimar la precipitació acumulada en el temps.refAndrew Treloar and Peter Brookhouse. [http://www.csu.edu.au/special/bushfire99/papers/treloar/ The use of accumulated rainfall maps from weather radar systems to assist wildfire detection reconnaissance.] Retrieved on 2008-05-25./ref Addicionalment, si es fa servir un radar d’impulsos Doppler es pot determinar la velocitat i direcció del vent.refUniversity of Washington. [http://www.artsci.washington.edu/news/WinterSpring03/Forecast.htm An improving forecast.] Retrieved on 2007-04-15./ref
+
+[[Fitxer:2005-09-22-10PM_CDT_Hurricane_Rita_3_day_path.png|right|thumb|Huracà Rita, les prediccions poden salvar vides]]
+
+=== Anàlisi de les dades ===
+
+Durant el procés d’[[assimilació de dades]] la informació obtinguda per les observacions es fa servir en conjunció amb els pronòstics més recents dels models numèrics. Això produeix una representació en tres dimensions de les diferents variables meteorològiques, que s’anomena anàlisi meteorològica i estima l’estat de l’atmosfera en un instant determinat.ref[[UCAR]]. [http://www.mmm.ucar.edu/wrf/WG4/wrfvar/wrfvar-tutorial.htm The WRF Variational Data Assimilation System (WRF-Var).] Retrieved on 2008-05-25./ref
+
+===Predicció numèrica ===
+{{Principal|Model numèric de predicció meteorològica}}
+Els models de predicció meteorològica numèrica són [[Simulació d'ordinador|simulacions d’ordinador]] de l’atmosfera. Prenen l’anàlisi al punt de partida i determinen l'evolució de l’estat de l’atmosfera al llarg del temps fent servir la [[física]] i la [[dinàmica de fluids]]. Resoldre les complicades equacions que regeixen els canvis en l’estat d’un [[fluid]] al llarg del temps requerix l’ús de superordinadors. Les dades de sortida del model proporcionen la base del pronòstic meteorològic.refUnited Kingdom Met Office. [http://webarchive.nationalarchives.gov.uk/20070108141901/http://www.metoffice.gov.uk/research/nwp/index.html Numerical weather prediction.] Retrieved on 2007-02-16./ref
+
+=== Dades de sortida després de processar-les ===
+
+Les dades de sortida sense elaborar sovint es modifiquen abans de ser presentades com a pronòstic. Això es pot fer en forma de tècniques estadístiques per eliminar biaixos coneguts al model o per ajustament, tenint en compte el consens amb altres pronòstics numèrics.refDaniel Andersson. [http://www.diva-portal.org/his/abstract.xsql?dbid=312 Improved accuracy of surrogate models using output postprocessing.] Retrieved on 2008-05-25./ref El model estadístic MOS és una tècnica per interpretar dades de sortida dels models numèrics i representa una guia en llocs específics. Aquesta guia es presenta en forma de codi numèric i als Estats Units es por obtenir de gairebé totes les seves estacions meteorològiques. 
+
+==Tècniques==
+===Persistència===
+El mètode més simple de pronòstic del temps es basa en conèixer les condicions d’avui per prediure les de demà. Aquest pot ser un sistema adequat si la situació meteorològica és estable com passa en l’[[estació seca]] dels tròpics. Aquest mètode de pronòstic depèn en gran manera d’un patró estancat de temps meteorològic. Pot ser útil en un pronòstic a curt termini.refUniversity of Illinois at Urbana-Champaign. [http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/fcst/mth/prst.rxml Persistence Forecasting: Today equals Tomorrow.] Retrieved on 2007-02-16./ref
+
+===Ús del baròmetre===
+Fer servir la pressió baromètrica i la tendència de la pressió (el canvi de la pressió al llarg del temps) és una tècnica de predicció usada des del segle XIX.ref[[USA Today]]. [http://www.usatoday.com/weather/wbarocx.htm Understanding air pressure.] Retrieved on 2008-05-25./ref Com més gran sigui el canvi de la pressió, més important serà el canvi del temps que es pot esperar. Si la pressió baixa ràpidament vol dir que s’acosta un sistema de baixes pressions i hi ha una gran probabilitat de pluja. L’establiment d’un sistema d’altes pressions està associat amb la millora de les condicions meteorològiques, com són els cels clars.refWeather Doctor. [http://www.islandnet.com/~see/weather/eyes/barometer3.htm Applying The Barometer To Weather Watching.] Retrieved on 2008-05-25./ref
+
+===Mirant al cel===
+[[Fitxer:marestail.jpg|frame|right|Condicions d’humitat a gran altitud indiquen assenyalen arribada de temps humit.]]
+Junt amb la tendència de la pressió fer servir les condicions del cel és un dels paràmetres més importants, especialment en zones muntanyoses. L’engruiximent de la capa de núvols o l’envaïment de núvols més alts és indicatiu de [[pluja]] propera. La boira matinera pot indicar bones condicions (temps no plujós) ja que les condicions de pluja estan precedides per vent o núvols que fan que no es formi la [[boira]]. L’aproximació d’una línia de tempesta pot indicar l’aproximació d’un [[front fred]]. El cel sense núvols indica bon temps a curt termini.refMark Moore. [http://www.nwac.us/education_resources/Field_forecasting.pdf Field Forecasting - A Short Summary.] Retrieved on 2008-05-25./ref 
+
+===Pronòstic a 6 hores===
+El pronòstic en les properes 6 hores (més conegut en anglès com a '''nowcasting''')refGlossary of Meteorology. [http://amsglossary.allenpress.com/glossary/search?p=1query=nowcastsubmit=Search Nowcast.] Retrieved on 2008-05-25./ref pot ser raonablement acurat. 
+
+===Ús de models de predicció===
+[[Fitxer:NAM 500 MB.PNG|right|250px|thumb|Un exemple de predicció numèrica a 500 [[millibar|mbar]]]]
+
+En el passat el pronosticador humà generava tot el pronòstic sobre les observacions disponibles.ref[[NASA]]. [http://earthobservatory.nasa.gov/Library/WxForecasting/wx2.html Weather Forecasting Through the Ages.] Retrieved on 2008-05-25./ref Actualment les dades humanes estan confinades a la tria d’un model basat en diversos paràmetres.ref name=KlausKlaus Weickmann, Jeff Whitaker, Andres Roubicek and Catherine Smith. [http://www.cdc.noaa.gov/spotlight/12012001/ The Use of Ensemble Forecasts to Produce Improved Medium Range (3-15nbsp;days) Weather Forecasts.] Retrieved on 2007-02-16./ref Fent servir un consens de models de predicció, com també un conjunt de membres de diversos models, pot ajudar a reduir l’error del pronòstic.ref name=TBKTodd Kimberlain. [http://www.hpc.ncep.noaa.gov/research/TropicalTalk.ppt Tropical cyclone motion and intensity talk (June 2007).] Retrieved on 2007-07-21./ref Però, malgrat que l’error sigui petit, en un sistema són possibles grans errors en un model determinat.refRichard J. Pasch, Mike Fiorino, and [[Chris Landsea]]. [http://www.emc.ncep.noaa.gov/research/NCEP-EMCModelReview2006/TPC-NCEP2006.ppt TPC/NHC’S Review of the NCEP Production Suite for 2006.] Retrieved on 2008-05-05./ref Els models han de ser comprensibles per l’usuari.refRoebber P. J. and Bosart L. F. [http://cat.inist.fr/?aModele=afficheNcpsidt=2512901 The complex relationship between forecast skill and forecast value : A real-world analysis.] Retrieved on 2008-05-25./ref
+
+===Tècniques d’analogia===
+La tècnica d’analogia és un sistema complex de pronòstic i requereix recordar una situació meteorològica anterior que s’espera que s'assembli a la futura. El que fa aquesta tècnica difícil és que rarament hi ha una analogia perfecta per un esdeveniment meteorològic del futur.ref[http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/fcst/mth/oth.rxml Other Forecasting Methods: climatology, analogue and numerical weather prediction.] Retrieved on 2006-02-16./ref És util per observar la pluja al llarg del temps sobre els oceans,refKenneth C. Allen. [http://stinet.dtic.mil/oai/oai?verb=getRecordmetadataPrefix=htmlidentifier=ADP006190 Pattern Recognition Techniques Applied to the NASA-ACTS Order-Wire Problem.] Retrieved on 2007-02-16./ref com també les quantitats de precipitació i la seva distribució en el futur. En pronòstic a mitjà termini es fa servir una tècnica similar (anomenada teleconnexions).refWeather Associates, Inc. [http://www.weatherassociates.com/courses.htm The Role of Teleconnections  Ensemble Forecasting in Extended- to Medium-Range Forecasting.] Retrieved on 2007-02-16./ref Un exemple de teleconnexions es fa servir utilitzant els fenòmens relacionats amb el Niño [[ENSO]].refThinkquest.org. [http://library.thinkquest.org/20901/teleconnections.htm Teleconnections: Linking El Niño with Other Places.] Retrieved on 2007-02-16./ref
+* Model d’analogia – Model basat en similituds entre el sitema en estudi i altres sistemes o processos.
+* Model analític – Model basat en mètodes clàssics com el càlcul i l’àlgebra per resoldre sèries d’equacions.
+* Model conceptual – Una representació simplificada del sistema que s’examina.
+* Model continu – Fa servir simulació contínua, oposat al model de l’esdeveniment simple.
+* Model determinístic – Produeix la mateixa sortida de dades per una dada d’entrada sense considerar el risc o l’incertesa.
+* Model empíric – Model representat per un procés simplificat basat en les observacions, mesuraments o experiència pràctica més que no pas en uns principis o teoria.
+* Model explícit – Un model numèric que fa servir valors de paràmetres o variables desconegudes com a primer pas d’algorismes computacionals.
+* Model implícit – Un model numèric que fa servir valors de paràmetres o variables desconegudes al final d’algorismes computacionals.
+* Model equilibrat de massa – Basat en la conservació de la massa i l’equilibri de les dades d’entrada i sortida.
+* Model numèric – Model que fa servir el mètode numèric per resoldre equacions.
+* Model unidimensional – Model que inclou només una dimensió espaial.
+* Model pseudodeterminístic – Model semidistribuït.
+* Model estocàstico-matemàtic – Model que inclou elements estadístics.
+* Model bidimensional – Model que inclou dues dimensions espaials.
+
+== Estats del temps atmosfèric ==
+
+* [[Sol|Clar]]
+* Escassa nuvolositat
+* Nuvolositat parcial
+* Majoritàriament ennuvolat
+* [[Núvol|Ennuvolat]]
+* [[Plugim]]
+* [[Ruixat]]
+* [[Pluja]]
+* Pluja intensa
+* [[Precipitació (meteorologia)|Precipitacions]]
+* [[Tempesta]] 
+* Ruixats de [[neu]]
+* Ruixats d'[[aiguaneu]]
+* [[Neu|Nevades]]
+* [[Vent]] (25 kmh, 40 kmhr, 60 kmh, 80 kmh, 100 kmh i més de 100 kmh.)
+* [[Boira]]
+* [[Calima]]
+* [[Broma (temps)|Broma]]
+* [[Boirina]]
+
+==Usos públics==
+[[Fitxer:Newspaper weather forecast - today and tomorrow.svg|frame|thumb|right|Exemple de pronòstic a dos dies]] La majoria dels usuars dels pronòstics són membres del públic en general. Les tempestes poden donar vents forts i llamps perillosos, potencialment mortals,refUniversity of Illinois at Urbana-Champaign. [http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/svr/dngr/light.rxml Lightning.] Retrieved on 2007-02-16./ref i pedregades nocives. Les grans pluges o nevades porten problemes al trànsit i el comerç,ref[[Associated Press]]. [http://www.msnbc.msn.com/id/17063535/ Upstate N.Y. residents dig out from heavy snow.] Retrieved on 2008-05-25./ref com també inundacions.refNational Flood Insurance Program. [http://en.wikipedia.org/w/index.php?title=Weather_forecastingaction=editsection=13 Flood Risk Scenarios: Flash Flood.] Retrieved on 2008-05-25./ref Les [[Onada de calor|calorades]] i les [[Fredorada|fredorades]] poden danyar les infraestructures i les [[secada|secades]] poden causar molts danys en la vegetació.
+
+Diversos organismes oficials fan servir agències per donar pronòstics, alertes i avisos al públic per tal de protegir les vides i propietats i matenir els seus interessos comercials. Cal tenir en compte a qui va dirigida la informació meteorològica.refNational Weather Service. [http://www.nws.noaa.gov/admin.php About NOAA's National Weather Service.] Retrieved on 2007-02-16./ref Tradicionalment els diaris, la televisió i la ràdio han estat els principals informadors al públic general. El paper d’[[internet]] és més recent.refCanadian Heritage. [http://www.canadianheritage.gc.ca/progs/ac-ca/progs/ri-bpi/pubs/2005_02/4_e.cfm Primary Sources of Local Information.] Retrieved on 2008-05-26./ref
+
+=== Trànsit aeri ===
+[[Fitxer:Plume from eruption of Chaiten volcano, Chile.jpg|thumb|right|Núvol de fum de l’erupció de 2008 del volcà Chaitén des de la Patagònia]]
+L’aviació és molt sensible a la meteorologia: per exemple la boira pot impedir les maniobres d'aterratge o enlairament.ref[[Government Printing Office]]. [http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr;sid=199eb678c4c22b4202e5809c99045c7c;rgn=div7;view=text;node=14%3A2.0.1.3.10.2.5;idno=14;cc=ecfr Title 14: Aeronautics and Space.] Retrieved on 2008-05-26./ref La turbulència i el gel a les ales dels avions són riscos importants.refAircraft Owners and Pilots Association. [http://www.aopa.org/asf/publications/sa11.pdf Aircraft Icing.] Retrieved on 2008-05-26./ref Les tempestes són perilloses per la turbulència que originen,ref[[National Weather Service]] Forecast Office Dodge City, Kansas. [http://www.crh.noaa.gov/ddc/research/bore/HPCtalk.ppt Aviation Hazards They Didn’t Tell You About.] Retrieved on 2008-05-26./ref el gel i la pedregada provoquen danys als aparells quan volen.ref[[Bureau of Meteorology]]. [http://www.caem.wmo.int/_pdf/thunderstorms/thunderstorms_02_effects.pdf Aviation Hazards: Thunderstorms and Deep Convection.] Retrieved on 2008-05-26./ref La cendra dels volcans és també un problema important, ja que els motors poden perdre energia.ref[http://www.usgs.gov/tech-transfer/factsheets/7.html Volcanic Ash Aviation Hazard.] Retrieved on 2008-05-26./ref Els avions tracten d’aprofitar l’energia del [[corrent en jet]].refNed Rozell. [http://www.gi.alaska.edu/ScienceForum/ASF17/1727.html Amazing flying machines allow time travel.] Retrieved on 2008-05-08./ref Abans d’enlairar-se els avions han de saber les condicions meteorològiques cap a la seva destinació.ref[[National Weather Service]]. [http://www.weather.gov/om/brochures/pilot.htm A Pilot's Guide to Aviation Weather Services.] Retrieved on 2008-05-26./ref 
+
+===En el mar===
+L’ús comercial i recreatiu de les vies marítimes pot quedar significativament limitat per la direcció del vent i la seva velocitat, la periodicitat i alçada de les [[Onada|onades]], les [[Marea|marees]] i la precipitació. Aquests factors poden influenciar la seguretat del trànsit marítim. Conseqüentment, s’han establert una varietat de codis transmesos per ràdio, per exemple el pronòstic [[MAFOR]].refGreat Lakes and Seaway Shipping. [http://www.boatnerd.com/facts-figures/mafor.htm MAFOR Weather Code.] Retrieved on 2008-05-27./ref Es poden rebre els pronòstics a través de [[RTTY]], [[Navtex]] i [[Radiofax]].
+
+===Agricultura===
+Els agricultors confien en els pronòstic per decidir la feina que faran. Per exemple per produir el [[fenc]] necessiten que l'[[herba]] es talli i s'assequi sobre el terreny amb un temps sec, ja que si no és així es pot podrir. Molts dies de sequedat, en canvi, poden perjudicar, entre altres, el rendiment del [[cotó ]] i els [[cereals]].refBlair Fannin. [http://southwestfarmpress.com/news/061406-Texas-weather/ Dry weather conditions continue for Texas.] Retrieved on 2008-05-26./ref En el cas del moresc que ha granat malament encara es pot aprofitar per [[ensitjar]] tota la planta.refDr. Terry Mader. [http://beef.unl.edu/stories/200004030.shtml Drought Corn Silage.] Retrieved on 2008-05-26./ref Les [[gelades]], fins i tot les lleugeres, afecten especialment els fruits recent formats dels arbres fruiters.refKathryn C. Taylor. [http://pubs.caes.uga.edu/caespubs/pubcd/C877.htm Peach Orchard Establishment and Young Tree Care.] Retrieved on 2008-05-26./ref En el cas dels [[cítric]]s, pel fet de madurar els fruits en l’estació freda, una temperatura d’uns -2,5nbsp;°C espatlla irreversiblement els fruits.ref[[Associated Press]]. [http://query.nytimes.com/gst/fullpage.html?res=9D0CE5DB1E30F937A25752C0A967958260 After Freeze, Counting Losses to Orange Crop.] Retrieved on 2008-05-26./ref Amb un pronòstic adequat els agricultors són a temps de prendre mesures per evitar els efectes de la gelada o la gelada mateixa, com són engegar torres ventiladores que desfacin la capa d’[[inversió tèrmica]] o regar per aspersió per fer una capa de gel sobre els arbres que protegeixi la vegetació i eviti que la temperatura davalli més enllà del llindar de congelació.
+=== Forestal===
+
+En el món forestal els pronòstics de vent, precipitació i humitat serveixen per la prevenció o evitar els [[Incendi forestal|incendis forestals]]. Especialment perillosa és la situació meteorològica d’altes temperatures i molt baixa humitat relativa. S’han elaborat diversos índexs com l’''[[Índex meteorològic d’incendi forestal]]'' i l’''[[Índex Haines]]'', per a predir les zones amb més risc d’incendi forestal natural o bé per acció humana. També són predictibles les condicions ideals per l’atac de plagues d’insectes forestals.
+
+===Companyies de serveis===
+[[Fitxer:Air handling unit.JPG|thumb|right|Unitat portàtil d’aire condicionat.]]
+Les companyies d’electricitat i de gas confien en els pronòstics per anticipar-se als pics de la demanda. Per això fan servir els [[graus dia]] (de calor o de fred). Aquesta quantitat està basada en mitjanes de temperatura i el llindar que s’estableixi.ref[[Climate Prediction Center]]. [http://www.cpc.noaa.gov/products/analysis_monitoring/cdus/degree_days/ddayexp.shtml Degree Day Explanation.] Retrieved on 2008-05-25./ref Fins i tot gràcies als pronòstics aquestes companyies poden estalviar a l'hora de comprar el combustible.
+===Sector privat===
+Les companyies privades cada vegada més paguen pels pronòstics meteorològics per incrementar els seus beneficis o evitar grans pèrdues.refCSIRO. [http://www.csiro.au/science/pps9c.html#1 Providing specialized weather forecasts.] Retrieved on 2008-05-25./ref Per exemple les cadenes de supermercats poden canviar els seus estocs anticipadament segons els canvis de consum per motius meteorològics. En el mercat de futur també es fan servir els pronòstics meteorològics, especialment en els agrícoles, més sensibles a l’oratge.refStephen Jewson and Rodrigo Caballero. [http://search.ssrn.com/sol3/papers.cfm?abstract_id=405780 The Use of Weather Forecasts in the Pricing of Weather Derivatives.] Retrieved on 2008-05-25./ref
+
+===Aplicacions militars===
+[[Fitxer:Npmoc.gif|thumb|right|Emblema de JTWC (Centre de vigilància dels tifons)]]
+En molts exèrcits hi ha serveis meteorològics militars amb un aspecte estratègic. Per exemple, ja durant la [[Segona Guerra Mundial]] els alemanys van destruir estacions meteorològiques aliades en llocs tan remots com les illes [[Svalbard]] de l’Àrtic però de gran importància estratègica. Els pronòstic meteorològics militars actuals proporcionen en temps real informació abans dels vols i en ple vol i informació per la protecció de les instal·lacions militars. Els pronòstics navals informen de les condicions marítimes. Els estats Units tenen un servei (JTWC) de vigilància de ciclons de l'oceaPacífic i l’Indic.ref[[Joint Typhoon Warning Center]]. [http://metocph.nmci.navy.mil/jtwc/menu/JTWC_mission.html Joint Typhoon Warning Center Mission Statement.] Retrieved on 2008-05-27./ref
+
+==Referències==
+{{Referències|2}}
+
+== Vegeu també ==
+* [[Benet Viñes]], meteoròleg, va fer el primer pronòstic de cicló formulat científicament del món. Va enunciar les Lleis Viñes sobre huracans.
+* [[Centre Europeu de Prediccions Meteorològiques a Mitjà Termini]]
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.meteo.cat Servei Meteorològic de Catalunya] (SMC - meteo.cat)
+* [http://www.lagrande.weatherchecker.us LGDWS - La Grande Weather Service]
+* [http://www.meteocentrale.ch Meteocentrale] weather forecast in English, German, French and Italian
+* [http://www.floodwarn.co.uk Severe weather and flood forecasts ]
+* [http://www.wmo.int The World Meteorological Organization]
+* [http://www.ecmwf.int/ European Centre for Medium Range Weather Forecasting (ECMWF)]
+* [http://www.bom.gov.au Australian Bureau of Meteorology]
+* [http://www.meteo.be/ Royal Meteorological Institute of Belgium]
+* [http://weatheroffice.ec.gc.ca/canada_e.html Environment Canada Weather Office]
+* [http://www.fmi.fi/en/index.html Finnish Meteorological Institute]
+* [http://www.meteofrance.com/FR/index.jsp French National Meteorological Service]
+* [http://www.imd.gov.in Indian Meteorological Department(IMD)]
+* [http://www.ncmrwf.gov.in National Centre for Medium Range Weather Forecast (NCMRWF)]
+* [http://www.tropmet.res.in Indian Institute of Tropical Meteorology (IITM)]
+* [http://www.narl.gov.in National Atmospheric Research Laboratory (NARL)]
+* [http://www.pakmet.com.pk Pakistan Meteorological Department]
+* [http://www.meteo.gov.gr The Hellenic National Meteorological Service (Greece)]
+* [http://www.hko.gov.hk/ Hong Kong Observatory]
+* [http://www.met.ie/ Met Éireann (Ireland)]
+* [http://www.meteoam.it/ Italian Air Force (Aeronautica Militare) Meteorological Service]
+* [http://web.kma.go.kr/eng/index.jsp Korea Meteorological Administration]
+* [http://www.metservice.com New Zealand MetService]
+* [https://archive.is/20120526015935/www.un.org/peace/africa/Diamond.html South African Weather Service]
+* [http://www.meteoswiss.ch/en/index.shtml Meteo Suisse (Swiss Weather Agency)] {{en}}
+* [http://www.metoffice.gov.uk/ The Met Office of the UK]
+* [http://www.yr.no/place/Europa/ yr.no (a joint online weather service from the Norwegian Meteorological Institute (met.no) and the Norwegian Broadcasting Corporation (NRK))]
+
+{{ORDENA:Pronostic Meteorologic}}	!--ORDENA generat per bot--
+{{Autoritat}}
+{{Enllaç AB|en}}
+
+[[Categoria:Meteorologia]]</text>
+      <sha1>k8a0zycwjji5zfrmz47nz2fgnqrbidr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

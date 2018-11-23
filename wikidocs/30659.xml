@@ -1,0 +1,182 @@
+<page>
+    <title>Drenthe</title>
+    <ns>0</ns>
+    <id>30659</id>
+    <revision>
+      <id>13780296</id>
+      <parentid>13617622</parentid>
+      <timestamp>2014-07-10T20:43:59Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{vegeu|la província neerlandesa|Royston Drenthe}}
+
+{{Infobox_Dutch_Province |
+dname = Provincie Drenthe |
+common_name = Drenthe |
+image_flag = Flag Drenthe.svg |
+image_coat = Drenthe wapen.svg|
+location_image = Drenthe-Position.png |
+capital = [[Assen]] |
+commissioner = [[A.L. (Relus) ter Beek]] |
+religion_year = 1999 |
+religion = [[Protestant]] 35%br /[[Catòlica]] 8% |
+area_land = 2.642 |
+area_water = 38 |
+area_rank = 7a |
+population_year = 2005 |
+population = 483.173 |
+population_rank = 10a |
+density = 183 |
+density_rank = 12a |
+inclusion = 1796 |
+anthem = [[Mijn Drenthe]] |
+ISO = DR |
+website = www.drenthe.nl |
+}}'''Drenthe''' és una província dels [[Països Baixos]], la capital de la qual és [[Assen]]. Està situada al nord-est del país, al sud de [[Província de Groningen|Groningen]], a l'est de [[Província de Frísia|Frísia]] i al nord d'[[Overijssel]]. A llevant fa frontera amb [[Baixa Saxònia]] ([[Alemanya]]). El seu nom es diu que prové de * thrija-hantja tres terres. 
+
+L'any 2004 tenia 482.415 habitants, que repartits a una superfície de 2.757 km² representaven una densitat de 173 hab/km², netament inferior a la mitjana estatal, tot pal·lesant el caràcter rural de la província.
+
+== Història ==
+Drenthe, a diferència de moltes altres parts dels Països Baixos, ha estat una àrea rural poc poblada des de temps medievals. A excepció d'alguna indústria a [[Assen]] i [[Emmen]], les terres de Drenthe s'utilitzen principalment per a l'agricultura.
+
+Drenthe ha estat poblada des de la prehistòria. S'hi ha trobat estris de la [[glaciació de Riss]] (fa 150.000 anys), que es consideren entre els més antics trobats als Països Baixos. De fet, va ser una de les zones més densament poblades dels Països Baixos fins a l'[[edat de bronze]]. La prova més tangible d'això són els [[dòlmen]]s (''hunebedden'') construïts voltant del 3500 aC, 53 dels 54 dòlmens als Països Baixos es troben a Drenthe, concentrats al nord-est de la província.
+
+Drenthe va ser esmentada per primera vegada en un document de l'any [[820]] com a ''Pago Treanth'' (districte Drenthe). En els arxius de Het Drents Archief s'esmenta el ''comtat de Drenthe de 1024 a 1025.
+
+Després d'una llarga submissió als bisbes d'[[Utrecht]], Drenthe va quedar sota el control de [[Carles V del Sacre Imperi Romanogermànic|Carles V]] al [[segle XVI]]. Quan es va proclamar la República de les Set [[Províncies Unides]], Drenthe es va convertir en part d'ella, encara que no va obtenir la categoria de província fins a l'[[1 de gener]] de 1796.
+
+Poc abans de l'esclat de la [[Segona Guerra Mundial]] el Govern neerlandès construí un campament prop de la ciutat de [[Westerbork]] ([[Midden-Drenthe]]) per donar cabuda als refugiats jueus alemanys. Irònicament, durant la Segona Guerra Mundial, els ocupants alemanys van utilitzar el campament (que van anomenar [[Camp de concentració de Westerbork|KZ Westerbork]]) com un Durchgangslager. Molts jueus neerlandesos, [[sinte]], [[gitanos|roma]], combatents de la resistència i adversaris polítics van ser empresonats abans de ser transferits a altres camps a [[Alemanya]] i [[Polònia]]. [[Anne Frank]] va ser deportada a l'últim tren de [[Camp de concentració de Westerbork|Westerbork]].
+
+== Municipis ==
+{| BORDER=0 cellpadding=10
+|-----
+|
+# [[Aa en Hunze]]
+# [[Assen]]
+# [[Borger-Odoorn]]
+# [[Coevorden]]
+# [[Emmen]]
+# [[Hoogeveen]]
+| ol start=7
+li[[Meppel]]
+li[[Midden-Drenthe]]
+li[[Noordenveld]]
+li[[Tynaarlo]]
+li[[Westerveld]]
+li[[De Wolden]]
+/ol
+|
+imagemap
+Fitxer:DrentheNumbered.png|right|Municipis a Drenthe
+
+poly 105 76 130 66 141 82 145 84 143 88 131 95 121 104 111 99 [[Borger-Odoorn]]
+poly 151 100 148 142 123 139 123 131 119 124 121 116 121 106 134 97 143 91 [[Emmen]]
+poly 93 135 94 125 89 127 89 123 87 123 96 110 101 105 105 95 114 102 121 104 118 112 119 117 117 121 120 130 122 136 108 139 105 143 103 139 [[Coevorden]]
+poly 81 139 79 136 73 133 71 132 70 129 67 129 67 119 64 116 68 116 70 109 77 115 83 118 86 123 95 127 94 134 [[Hoogeveen]]
+poly 47 129 39 129 38 124 49 116 52 110 63 113 69 110 65 117 63 127 70 130 71 134 82 136 77 140 80 148 72 145 66 145 62 148 52 134 48 137 [[De Wolden]]
+poly 25 121 31 117 35 122 40 122 38 129 46 131 46 138 41 133 34 135 30 130 28 121 [[Meppel]]
+poly 27 97 37 92 43 82 53 86 58 82 55 88 58 92 65 92 66 98 71 100 69 113 65 111 59 114 55 110 50 110 38 122 33 115 39 112 [[Westerveld]]
+poly 65 69 74 64 72 72 77 80 80 75 87 82 99 85 99 93 106 95 99 107 96 107 87 126 85 120 83 117 77 117 76 111 71 110 72 101 68 98 69 91 62 90 56 85 60 83 [[Midden-Drenthe]]
+poly 109 43 117 53 130 65 104 73 104 86 107 94 100 92 100 87 89 82 84 75 97 58 94 54 99 50 95 47 101 49 106 49 [[Aa en Hunze]]
+poly 75 57 81 61 82 52 87 52 87 57 92 61 85 74 81 75 77 79 72 70 76 67 [[Assen]]
+poly 74 22 91 41 102 39 102 37 109 45 101 51 97 48 94 55 92 61 89 51 83 51 78 60 75 55 77 47 73 43 74 39 80 37 [[Tynaarlo]]
+poly 65 68 58 57 58 49 51 46 55 46 57 42 60 34 64 26 68 25 69 21 73 22 79 36 71 38 71 43 76 49 75 64 [[Noordenveld]]
+
+desc bottom-left
+/imagemap
+|} 
+
+== Política ==
+El consell provincial (''Provinciale Staten'') té 51 escons, i és dirigit per un comissari de la Reina, actualment Anneke Haarsma (en funcions). Mentre que el Consell Provincial és elegit pels habitants, el Comissari és nomenat per la [[Monarquia dels Països Baixos|Reina]] i el [[primer ministre dels Països Baixos|govern dels Països Baixos]]. Els afers quotidians de la província són atesos pels ''Gedeputeerde Staten'', també encapçalats pel Comissionat; els seus membres (''gedeputeerden'') es pot comparar amb els ministres.
+
+{| class=wikitable style=float:left; margin-right:2em;
+!colspan=5|Composició dels Estats el 2003 i el 2007
+|-
+||||2003||2003||2007||2007
+|-
+|'''Partit'''||''' %'''||'''Escons'''||''' %'''||'''Escons'''
+|-
+|PvdA||ALIGN=right|36,5||ALIGN=right|19||ALIGN=right|27,2||ALIGN=right|13
+|-
+|CDA||ALIGN=right|23,9||ALIGN=right|12||ALIGN=right|21,2||ALIGN=right|10
+|-
+|VVD||ALIGN=right|18,0||ALIGN=right|9||ALIGN=right|16,7||ALIGN=right|8
+|-
+|SP||ALIGN=right|-||ALIGN=right|-||ALIGN=right|12,3||ALIGN=right|5
+|-
+|GroenLinks||ALIGN=right|6,7||ALIGN=right|4||ALIGN=right|4,7||ALIGN=right|2
+|-
+|ChristenUnie||ALIGN=right|4,6||ALIGN=right|2||ALIGN=right|7,6||ALIGN=right|3
+|-
+|D66||ALIGN=right|3,7||ALIGN=right|2||ALIGN=right|1,9||ALIGN=right|-
+|-
+|Partit pels Animals||ALIGN=right|-||ALIGN=right|-||ALIGN=right|1,9||ALIGN=right|-
+|-
+|SGP||ALIGN=right|0,3||ALIGN=right|-||ALIGN=right|0,3||ALIGN=right|-
+|-
+|OPD '''*'''||ALIGN=right|2,1||ALIGN=right|1||ALIGN=right|1,4||ALIGN=right|-
+|-
+|LPF'''**'''||ALIGN=right|2,1||ALIGN=right|1||ALIGN=right|-||ALIGN=right|-
+|-
+|Partit del Nord||ALIGN=right|-||ALIGN=right|-||ALIGN=right|1,1||ALIGN=right|-
+|-
+|Drents Belang / DOP '''***'''||ALIGN=right|2,0||ALIGN=right|1||ALIGN=right|0,7||ALIGN=right|-
+|-
+|Actief Drenthe||ALIGN=right|-||ALIGN=right|-||ALIGN=right|1,9||ALIGN=right|-
+|-
+|''Total''||ALIGN=right|''56,1''||ALIGN=right|''51''||ALIGN=right|''51,2''||ALIGN=right|''41''
+|}
+
+{| class=wikitable style=float:left;
+!colspan=3|'''Eleccions generals de 2006'''
+|-
+|'''Partit'''||'''%'''||'''+/- (2003)'''
+|-
+|[[Partit del Treball (Països Baixos)|PvdA]]||ALIGN=right|30,7||ALIGN=right|- 7,1
+|-
+|[[Crida Demòcrata Cristiana|CDA]]||ALIGN=right|22,5||ALIGN=right|- 2,3
+|-
+|[[Partit Socialista (Països Baixos)|SP]]||ALIGN=right|15,9||ALIGN=right|+ 10,8
+|-
+|[[Partit Popular per la Llibertat i la Democràcia|VVD]]||ALIGN=right|14,3||ALIGN=right|- 2,5
+|-
+|[[Unió Cristiana (Països Baixos)|ChristenUnie]]||ALIGN=right|5,1||ALIGN=right|+ 2,2
+|-
+|[[GroenLinks]]||ALIGN=right|3,8||ALIGN=right|- 0,3
+|-
+|[[Partit per la Llibertat (Països Baixos)|PVV]]||ALIGN=right|4,0||ALIGN=right|-
+|-
+|[[Partit pels Animals|PvdD]]||ALIGN=right|1,4||ALIGN=right|+ 1,0
+|-
+|[[Demòcrates 66|D66]]||ALIGN=right|1,3||ALIGN=right|- 2,1
+|-
+|[[Partit Polític Reformat|SGP]]||ALIGN=right|0,3||ALIGN=right|+ 0,0
+|-
+|[[Llista Pim Fortuyn|LPF]]||ALIGN=right|0,2||ALIGN=right|- 3,6
+|-
+|''Total''||ALIGN=right|''83,0''||ALIGN=right|''+ 0,0''
+|}
+br clear=left /
+'''*''' OPD: Onafhankelijke Partij Drenthe (Partit Independent de Drenthe)br /
+'''**''' LPF-fractie hernoemd tot OSD (Onafhankelijke Statenfractie Drenthe)br /
+'''***''' DOP: Drentse Ouderen Partij (Partit dels Pensionistes de Drenthe)
+
+== Enllaços externs ==
+{{Commonscat|Drenthe}}
+
+* {{oficial|http://www.drenthe.nl}}
+ 
+{{Províncies dels Països Baixos}}
+
+{{coord|52.86|6.63|region:NL-DR_type:adm1st(490698)|format=dms|display=title}}
+{{Autoritat}}
+[[Categoria:Drenthe| ]]</text>
+      <sha1>fbisq344qko29fhtqw2ui8u89ab3kfu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

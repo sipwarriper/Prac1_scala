@@ -1,0 +1,124 @@
+<page>
+    <title>Espoleta de proximitat</title>
+    <ns>0</ns>
+    <id>872114</id>
+    <revision>
+      <id>13912029</id>
+      <parentid>13648106</parentid>
+      <timestamp>2014-08-03T15:59:10Z</timestamp>
+      <contributor>
+        <username>CommonsDelinker</username>
+        <id>3845</id>
+      </contributor>
+      <minor></minor>
+      <comment>Substitució de A01-021A.GIF per A01-021A.png.</comment>
+      <text>{{2L|data=febrer de 2013}}
+[[Fitxer:MK53 fuze.jpg|300px|right|Espoleta de proximitat MK53 remoguda d'una munició en els 1950s]]
+Una '''espoleta de proximitat''' (també anomenada '''espoleta VT''') és una [[espoleta]] dissenyada per fer detonar un dispositiu [[explosiu]] automàticament quan la distància és menor que la predeterminada en la seva programació o quan el blanc passa a través d'un determinat pla.
+
+El concepte va ser establert per investigadors britànics sent desenvolupat pel [[físic]] [[Merle Vaig tenir|Merle A. Vaig tenir]] al [[Applied Physics Lab]] (APL) de [[The Johns Hopkins University]]. Aquesta espoleta és una de les innovacions més importants de la [[Segona Guerra Mundial]]. L'adveniment d'aquesta espoleta de proximitat va ajudar enormement a la victòria aliada en la Segona Guerra Mundial.
+
+== Història ==
+=== Mecanismes previs ===
+Abans de la invenció de l'espoleta, la detonació s'aconseguia per contacte directe, per [[cronòmetre]] o [[altímetre]]. Tots ells detían desavantatges. La probabilitat d'un impacte directe era petita; posar un cronòmetre odependía d'un càlcul molt acabat que poques vegades corresponia a la realitat. Amb l'espoleta de proximitat, de l'únic que preocupava el tirador era de col·locar el [[projectil]] o míssil en una trajectòria que, en algun moment, passés a prop del blanc. Això no era tasca simple, però bastant més que els mètodes anteriorment existents.
+
+L'ús de cronòmetres per produir [[ràfega d'aire|ràfegues]] contra blancs terrestres requereix observadors que proveeixin informació. Això no és pràctic en moltes situacions i alenteix la presa de decisions. Les espoletes de proximitat unides a determinades armes com [[Munició|artilleria]] i [[morter]]s són resolts amb una sèrie de paràmetres prefixats (per exemple 2, 4 o 10 metres) sobre el sòl, els quals poden ser fixats per les tripulacions abans del tret.
+
+=== Suggeriment ===
+L'espoleta de radiofreqüència va ser proposada per l'Establiment de la Defensa Aèria britànica en un memo de maig de 1940, de William A. S. Butement, Edward S. Shire, i Amherst F.H. Thompson.ref Name=Proceedings{{ref-llibre |autor = Brenner, James W.|títol = The Proximity fuze '' Whose Brainchild? ''|editorial = United States Naval Institute Proceedings|data = September 1968}}/ref Un circuit de [[placa de proves]] va ser construït pels inventors i el concepte va ser provat en un laboratori movent una placa d'estany a diferents distàncies. Proves de camp primerenques van connectar a un disparador [[tiratrón]] que operava en una càmera muntada en una torre la qual fotografiava avions que passaven per determinar la funció espoleta. Espoletes prototips van ser construïts al juny de 1940, i instal·lats en '' projectils no rotatoris (nom codi britànic per als [[Coet de combustible sòlid|coets de combustible sòlid]] '' disparats a blancs suspesos d'un [[globus aerostàtic]].ref name = Proceedings/
+=== Lliurament dels experiments als Estats Units ===
+Els detalls d'aquests experiments van ser lliurats al [[Laboratori d'Investigació Naval dels Estats Units]] i al [[Comitè d'Investigació de la Defensa Nacional]] (National Defense Research Committee NDRC) per la [[Missió Tizard]] al setembre, 1940, sobre la base d'un acord informal entre [[Winston Churchill]] i [[Franklin D. Roosevelt]] per intercanviar informació militar d'importància potencial.ref Name=Proceedings/
+=== Experiments nord-americans ===
+Després de la recepció dels detalls britànics, els experiments van ser èxit duplicats per Richard B. Roberts, Henry H. Porter, i Robert B. Brod sota la direcció del president de la secció T del NDRC [[Merle Vaig tenir]].ref Name=Proceedings/ [[Lloyd Berkner]] de l'equip de Vaig tenir disseny un dispositiu millorat utilitzant [[Vàlvula termoiònica|tubs]] per a transmissió/recepció. Al desembre de 1940, Vaig tenir va convidar a [[Harry Diamond (enginyer)|Harry Diamond]] i Wilbur S. Hinman, Jr, l'[[Institut Nacional d'Estàndards i Tecnologia]] (National Bureau of Standards NBS) per investigar l'espoleta millorada de Berkner.ref Name=Proceedings/ l'equip NBS construir sis dispositius els que van ser instal·lats a bombes de caiguda lliure les que van ser provades amb èxit en l'aigua el [[6 de maig]] de [[1941]].ref name=Proceedings/
+
+=== Falles ===
+Treballs paral·lels del NDRC es van enfocar en espoletes antiaéreas.Problemas majors van ser falles microfòniques i de tubs atribuïts a la vibració i acceleració dels projectils d'artilleria.
+=== Proves ===
+L'espoleta T-3 va tenir un èxit d'un 52% contra blancs a l'aigua quan va ser provada al gener de 1942. La [[Marina dels Estats Units]] va acceptar la taxa de fallades i el [[USS Cleveland (CL-55)]] va provar munició amb espoletes de proximitat contra [[Vehicle aeri no tripulat|blancs volants ràdio guiats]] a la [[Badia de Chesapeake]] a l'agost de 1942. Les proves van ser tan exitoses que tots els blancs estaven destruïts abans que acabessin les proves.
+=== Inici de la producció ===
+Les espoletes de proximitat van entrar ràpidament en cadena de producció.ref Name=Proceedings/ Una planta [[General Electric]] que feia [[Arbre de Nadal|llums per a arbres de Nadal]] a [[Cleveland (Ohio)]] va ser modificada per produir tubs, i les espoletes van acoblades a les plantes de General Electric [[Schenectady]], [[Nova York|New York]] i [[Bridgeport (Connecticut)]]ref{{ref-llibre 
+ |cognom = Miller
+ |nom = John Anderson
+ |títol = Men and Volts at War
+ |editorial = McGraw-Hill Book Company
+ |data = 1947
+ | lloc = New York
+ |pàgines = 150
+}}/ref
+
+=== Vannevar Bush ===
+[[Vannevar Bush]], cap de l'[[Oficina d'Investigació Científica i Desenvolupament]] (''Office of Scientific Research and Development'', OSRD) '' durant aquesta guerra, va acreditar a l'espoleta de proximitat tres grans èxits:.
+ref name=pieces
+{{ref-llibre 
+ |cognom = Bush
+ |nom = Vannevar
+ |títol = Pieces of the Action
+ |editorial = William Morrow and Company, inc.
+ |data = 1970
+ | lloc = New York
+ |pàgines = 366
+}}Pp 106-112 /ref
+# Va ser una important defensa davant dels atacs dels [[Kamikaze]] al [[Oceà Pacífic]]. Bush va estimar un incrementar d'un 700% de l'efectivitat de l'[[artilleria antiaèria]] de 5 polzades amb aquesta innovacióref name=pieces P109 /ref
+# Va ser part important de les bateries antiaèries controlades per radar que finalment neutralitzar a les [[Fieseler Fi 103 Flak Zielgerät 76 (FZG-76)|bombes volants V-1]] a [[Anglaterra]].ref name = pieces/
+# Va ser lliurada per a l'ús terrestre just abans de la [[Batalla de les Ardenes]]. Delme les divisions alemanyes a camp ras. Els alemanys se sentien segurs perquè el mal temps no permetia una bona observació de l'artilleria i amb els antics sistemes no es podia a punta adequadament. L'[[General Patton]] va dir que la introducció de l'espoleta de proximitat requeria una re-adequació de tota la tàctica de guerra terrestre.ref name=autogenerated1 p112 /ref
+
+== Tipus de detecció ==
+Hi ha diferents tipus de detectors:
+* Detecció de [[Radiofreqüència]]
+* Detecció [[òptica]]
+* Detecció [[acústica]]
+* Detecció [[magnètica]]
+* Detecció de [[pressió]]
+=== Detecció de radiofreqüència ===
+{{AP|Radiofreqüència}}
+La detecció per radiofreqüència és el principal detector de les municions i és per antonomàsia el mecanisme de les espoletes de proximitat. El dispositiu està descrit en la [[patent]] de la [[Segona Guerra Mundial]]ref{{citation|inventor-last = Kyle|inventor-first = John W|title = Ràdio Proximity fuze|issue-date = 1950.12.04|accessdate = 2008.07.13|patent-number = 3152547|country-code = US|url = http://www.google.com/patents?id=ygNzAAAAEBAJ}}/ref i treballa de la manera següent:
+{{Cita|La munició conté un micro-[[transmissor]] que utilitza el cos del projectil com [[antena]] i emet una ona contínua d'aproximadament 180-220 MHz Mentre la munició s'acosta a un objecte, un patró d'interferència es crea. Aquest patró es modifica amb l'encongiment de la distància: cada meitat de distància d'ona en distància (una meitat de longitud d'ona per a aquest paràmetre és de 0.7 metres), el transmissor s'encén o s'apaga en ressonància. Això causa una petita oscil·lació del poder irradiat i conseqüentment l'oscil·lador lliura una energia a 200-800 Hz, de distància [[Efecte Doppler|Doppler]]. Aquest senyal és enviada a través d'un [[Filtre passa banda]], amplificat, i dispara una detonació quan excedeix l'amplitud.}} 
+
+=== Detecció òptica ===
+La [[detecció òptica]] va ser desenvolupada en 1935, i patentada al Regne Unit el 1936, per un inventor suec, probablement [[Edward W. Brandt]], usant un [[petoscopio]].ref Aparell fotoelèctric que detecta moviments de persones i objectes /ref va ser primerament provada com un dispositiu detonador de bombes instal·lat a bombes, com a part del concepte del [[Ministeri de l'Aire del Regne Unit]] '' Bombes per bombarders (bombs on bombers) ''. Va ser considerat (im, ás tard patentat per Brandt) per a l'ús amb míssils antiaeris. Era usat quan un [[Toro (geometria)|lent toroïdal]], que concentrava tota la llum fora d'un pla perpendicular a l'eix principal de l'míssil en una [[cel fotoelèctrica]]. Quan aquest corrent canviava en certa quantitat cada cert interval, l'explosió era disparada.
+ 
+Alguns [[míssil aire-aire|míssils aire-aire]] fan ús de [[làser]]. Projecten prims feixos de llum làser perpendiculars al vol del míssil. Quan el míssil creua al blanc la llum làser es desvia a l'espai. No obstant això, si el míssil passa de la seva blanc alguna de l'energia que colpeja reflecteix cap enrere on detectors perceben el làser reflectit disparant la detonació del cap bèl·lica.
+
+=== Detecció acústica ===
+{{AP|Acústica}}
+La detecció acústica s'aconsegueix posant un [[micròfon]] al [[míssil]]. La freqüència característica d'un motor d'avió és filtrada i dispara la detonació. Aquest experiment va ser provat amb experiments britànics amb bombes, míssils antiaeris, i munició de ràfega (prop 1939). Més tard seria aplicat en els míssils alemanys antiaeris, els quals estaven en desenvolupament quan la guerra va acabar.
+
+Els britànics van usar un [[micròfon piezoelèctric]] i un dispositiu [[piezoelèctric]] per a disparar un [[relé]] que detonava el projectil o la bomba.
+
+La [[Mina marina]] pot utilitzar l'acústic, amb dispositius computacionals que li permeten diferències les diferents firmes acústiques de diferents tipus d'embarcacions. 
+
+=== Detecció magnètica ===
+{{AP|Magnetisme}}
+La detecció magnètica es pot aplicar només a grans masses de ferro magnètic com vaixells. S'usa en mines i torpedes. Espoletes d'aquest tipus poden ser enganyats per [[desmagnetització]]ref[http://diccionario.reverso.net/informatica-ingles-espanol/degaussing Degaussing desmagnetització Diccionari]/ref usant cascos no metàl·lics per als vaixells (especialment [[dragaminas (vaixell)|barreminas]]) o per anells de [[Inducció electromagnètica|inducció magnètica]] ajustats a vaixells o [[boia]]s altes.
+
+=== Detecció de pressió ===
+Algunes [[mina marina|mines navals]] poden sentir l'onada de pressió quan un vaixell passa per sobre.
+
+== El significat real de VT ==
+La denominació VT es diu que correspon a variable time{{et|anglès|variable time|temps variable}}. Les municions amb espoletes estaven preparades per detonar en un cert temps després d'haver disparat, i una incorrecta estimació del temps havia de fer que esclatés abans o després. L'espoleta VT explotaria a un temps més proper a la realitat. No obstant això el terme VT va ser encunyat simplement perquè la secció V de l'[[Bureau of Ordnance]] (BuOrd) a càrrec li va col·locar la lletra T. La idea d'un temps variable (variable time) va ser una feliç coincidència que va proporcionar una pantalla de fum aliada en la Segona Guerra per amagar la veritat sobre la seva mecanisme.ref Ian Hogg. '' British and American Artillery of WW2 ''. /ref
+
+gallerycenter
+Image: MSPO2007-35-01.jpg|Munició de [[Morter (arma)|morter]] [[High Explosive|HE]] 120 mm amb espoleta de proximitat
+Image: A01-021A.png|Munició de morter 120mm HE amb espoleta [[M734]]
+Image: MSPO2007-37-01.jpg|Munició de morter de 60mm HE amb espoleta de proximitat
+File: PD and Proximity fuze.jpg|Munició d'artilleria de 155mm amb selector per proximitat o punt.
+center//gallery
+
+== Notes ==
+{{Referències|2}}
+
+==Bibliografia ==
+* Ralph B Baldwin '' The Deadly fuze '' Jane's, 1980. ISBN 0-354-01243-6
+
+== Enllaços externs ==
+* [http://www.smecc.org/radio_proximity_fuzes.htm The Radio Proximity fuze - A survey]
+* [http://www.microworks.net/pacific/equipment/vt_fuze.htm The Proximity (Variable-Time) fuze]
+* [http://www.smecc.org/pfuze.htm Proximity fuze History]
+* [http://www.jhuapl.edu/aboutapl/heritage/default.asp The Johns Hopkins University Applied Physics Laboratory 11100 Johns Hopkins Road, Laurel, Maryland 20723 • 240-228-5000 (Washington, DC, àrea) • 443 -778-5000 (Baltimore area) © 2009]
+
+[[Categoria:Armes explosives]]</text>
+      <sha1>k4el57z3wqwlhgr1gotke4nqwk4t8p8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

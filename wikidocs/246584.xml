@@ -1,0 +1,66 @@
+<page>
+    <title>Norbert Wiener</title>
+    <ns>0</ns>
+    <id>246584</id>
+    <revision>
+      <id>13840967</id>
+      <parentid>13068486</parentid>
+      <timestamp>2014-07-16T06:06:38Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:Norbert wiener.jpg|right|thumb|Norbert Wiener]]
+'''Norbert Wiener''' (Columbia, [[Missouri]], [[EUA]] [[26 de novembre]] de [[1894]] - [[Estocolm]], [[Suècia]] [[18 de març]] de [[1964]]) és un dels [[científic]]s més brillants i influents del [[segle XX]]. És el pare indiscutible de la [[cibernètica]], i, com a tal, un dels pares de la [[informàtica]] o [[computació]].
+
+== Biografia ==
+
+Nasqué en una família jueva als Estats Units, i ben aviat es revelà com un infant prodigi. De petit, estudià sobretot a casa, sota la tutel·la del seu pare, Leo Wiener, immigrant i professor de llengües eslaves a la [[Universitat Harvard]]. Als dos anys ja sabia llegir i escriure. Als 11 ingressà a la [[Tufts|Universitat de Tufts]]. Acabà la carrera de matemàtiques quan en tenia 14. Passà a Harvard, on estudià zoologia, i d'allí, als 15 anys, se n'anà a la [[Cornell|Universitat de Cornell]] on feu la carrera de filosofia. Tornà a Harvard als 18 anys, i allí obtingué el seu doctorat en aquesta disciplina.
+
+D'allí se n'anà a Anglaterra, a la [[Cambridge|Universitat de Cambridge]], on conegué i treballà amb [[Bertrand Russell]] i [[G. H. Hardy]]. Des del 1914 estigué a Goettinguen, Alemanya, on coincidí amb [[David Hilbert]] i amb [[Edmund Landau]]. En 1915 tornà als Estats Units. El 1926 anà un altre cop a Europa, amb una beca [[Guggenheim]] i es casà amb Margaret Engemann. Estigué altre cop a Goettingen i a Cambridge amb en Hardy.
+
+Tornà als Estats Units, i durant la Segona Guerra Mundial, des de [[Maryland]], treballà en els esquemes de l'artilleria antiaérea britànica, intentant preveure els patrons de vol de l'aviació alemanya. Després s'establí a Nova Anglaterra. Romangué al [[MIT]] (Massachusetts Institute of Technology) la resta de la seva vida acadèmica, des d'on publicà els seus resultats més importants,. El 1933 obtingué el [[Premi Bocher]], de la [[American Mathematical Society]].
+
+Morí a Estocolm, al curs d'una visita científica, el 1964.
+
+La seva vida ha estat resumida, explicada i comentada per ell mateix en dos volums autobiogràfics: ''Ex prodigi'' i ''Soc matemàtic''. 
+
+== Obra ==
+Del seu treball d'estratègia militar nasqué la idea de la ''Teoria del control i la comunicació'' que ell anomenà ''cibernètica'', del greg ''kibernos'', timó (d'una nau) i ''kibernetikos'', timoner. De fet, el terme sorgí d'un fenomen que ell estudià força: En els antics vaixells de vapor, i encara avui en els més modestos, al timó, la pala que va sota la superficie de l'aigua i que determina la direcció del vaixell, hi ha dues vàlvules de vapor que, quan el moviment de les aigües el desplacen, obren una d'aquestes vàlvules, la seva pressió disminueix, i el timó torna a la seva posició inicial i correcte. D'aquests mecanismes, força corrents a una munió d'estris autorreglats, a la seva època, féu un estudi innovador, i anomemà aquest artefacte [[feedback]], retroalimentació. És a dir l'enginy s'assabenta que ha estat alterat i ho corregeix de manera automàtica.
+
+A cops passava, però, que les vàlvules funcionaven malament, s'obrien massa, i el timó anava més enllà de la posició correcta. S'entornava, també massa però, i el timó anava enrere i es tornava a passar, una mica més lluny. Així, el timó no trobava l'estabilitat i començava a oscil·lar cada cop més ràpid i més lluny, fins que es trencava.
+
+Aquest fenomen l'apassionà. I trobà el símil en algunes conductes humanes. El [[clonus]], és a dir la vibració inesperada d'algun muscle del cos durant una estona, és, va establir, una reacció absolutament equivalent a la del timó. Per acabar-ho de corroborar, es desplaçà la Ciutat de Mèxic, on vivia i treballava l'insigne Dr. [[Arturo Rosembluth]], neuròleg de fama mundial, que treballava a l'[[Instituto Nacional de Cardiología]]. Vingué moltes vegades a Mèxic, enamorat del país i de la seva gent, i també, com de pas, per trobar-se amb en Rosenbluth. Fou el científic mexicà qui li parlà d'un tipus de sífilis que afectava el sistema neurològic. Quan el malalt volia agafar un objecte sobre la taula, la seva mà començava a oscil·lar, primer a poc a poc i després més ràpid, amb frenètics i amples moviments a dreta i a esquerra. 
+
+Wierner s'adonà, de seguida, que es tractava del mateix fenomen del timó dels vaixells. Els moviments dels humans també treballaven amb ''feedback'''. No hi va haver ja cap dubte, tots els sistemes, mecànics vius i socials, únicament funcionen de manera estable quan el ''feedback'' compleix de manera eficient la seva funció. Havien nascut la cibernètica, la robòtica i, en bona mesura, la informàtica.
+
+Establí dues classes de ''feedback''. El positiu, quan una alteració petita és augmentada, i el negatiu, quan l'acció inicial és contrarestada. L'exemple clàssic és el de frenar un automòbil, amb ''feedback'' positiu, doncs l'inercia fa que, en principi, el conductor freni més, i el d'accelerar-lo, amb ''feedback'' negatiu, doncs en aquest cas la inèrcia cap enrere el fa prémer menys l'accelerador. L'estabilitat dels sistemes és garantida, en la majoria dels casos, pel ''feedback'' negatiu.
+
+Quan una persona està dreta i quieta, és gràcies a milers de petites correccions, de ''feedback'' negatiu, per segon. Una estàtua equivalent i sense suports, per exemple, cauria desseguida.
+
+== Escrits principals ==
+''(es refereixen únicament les publicacions originals en anglès)''
+* '''1914''', A simplification in the logic of relations in Jean van Heijenoort, 1967. From Frege to Godel: A Source Book in Mathematical Logic, 1879-1931. Harvard Univ. Press: 224-27.
+* '''1930''', Extrapolation, Interpolation and Smoothing of Stationary Time Series with Engineering Applications. MIT Press. (no fou publicat fins a 1939; l'edició de 1942 fou anomenda El perill groc per la dificultat del text i al color de la coberta del llibre).
+* '''1948''', Cybernetics: Or the Control and Communication in the Animal and the Machine. Cambridge,'' MA: MIT Press''.
+* '''1950''', The Human Use of Human Beings. ''Da Capo Press''.
+* '''1953'''. Ex-Prodigy: My Childhood and Youth. ''MIT Press''.
+* '''1956'''. I am a Mathematician. ''MIT Press''.
+* '''1966''', (''pòstum'') Nonlinear Problems in Random Theory. ''MIT Press.''
+* '''1966''', (''pòstum'') Generalized Harmonic Analysis and Tauberian Theorems. ''MIT Press''.
+* '''1966''', (''pòstum'') God  Golem, Inc.: A Comment on Certain Points Where Cybernetics Impinges on Religion. ''MIT Press''.
+* '''1988''', (''pòstum'') The Fourier Integral and Certain of its Applications. ''Cambridge University Press''.
+* '''1994''', (''pòstum'') Invention: The Care and Feeding of Ideas.'' MIT Press''.
+{{Autoritat}}
+
+{{ORDENA:Wiener, Norbert}}
+[[Categoria:Informàtics estatunidencs]]
+[[Categoria:Matemàtics estatunidencs]]
+[[Categoria:Persones de Missouri]]</text>
+      <sha1>k1dxebk6kxjp9pnnjwedyuomuv2z7oz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

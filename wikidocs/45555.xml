@@ -1,0 +1,278 @@
+<page>
+    <title>Matriu (matemàtiques)</title>
+    <ns>0</ns>
+    <id>45555</id>
+    <revision>
+      <id>13866537</id>
+      <parentid>13661690</parentid>
+      <timestamp>2014-07-19T09:21:18Z</timestamp>
+      <contributor>
+        <username>Ferran Mir</username>
+        <id>22617</id>
+      </contributor>
+      <minor></minor>
+      <comment>/* Història */</comment>
+      <text>En [[matemàtiques]], una '''matriu''' és una taula rectangular de [[nombre]]s o, més generalment, d'elements d'una [[estructura algebraica]] de forma d'[[anell (matemàtiques)|anell]]. En aquest article, els valors per les matrius són [[nombre real|reals]] o [[nombre complex|complexos]] a menys que es digui el contrari.
+
+Les matrius són útils per registrar dades que depenen en dues categories i per mantenir control sobre els coeficients dels [[sistema d'equacions lineals|sistemes d'equacions lineals]] i [[transformacions lineals]].
+
+Pel desenvolupament i les aplicacions de les matrius, vegeu [[teoria de matrius]].
+
+
+== Història ==
+
+L'estudi de les matrius és molt antic. Els [[quadre llatí|quadres llatins]] i els [[quadre màgic|quadres màgics]] han estat estudiats des de temps prehistòrics.
+
+Un [[quadrat màgic]], de 3 per 3, es registra en la [[literatura xinesa]] cap a l'any [[Dècada del 650 aC|650 aC]].ref name=Swaney Swaney, Mark. [http://www.arthurmag.com/magpie/?p=449 History of Magic Squares]. /ref
+
+És llarga la història de l'ús de les matrius per resoldre [[Equació lineal|equacions lineals]]. Un important text matemàtic [[Xina|xinès]] que prové de l'any [[300 aC]] al [[200 aC]], ''[[Els nou capítols de les arts matemàtiques]]'' (九章算术) (''Jiu Zhang Suan Shu''), és el primer exemple conegut d'ús del mètode de matrius per resoldre un [[Sistema lineal d'equacions|sistema d'equacions simultànies]].ref {{cita llibre | autor = Shen Kangshen et al. (ed.) | títol = Nine Chapters of the Mathematical Art, Companion and Commentary | editorial = Oxford University Press | any = 1999}} cited by ({{cita llibre | títol = Linear Algebra with Applications | autor = Otto Bretscher | editorial = Prentice-Hall | any = 2005 | edició = 3rd ed. | pàgines = 1}} /ref En el capítol setè, ''Ni molt ni poc'', el concepte de [[Determinant (matemàtiques)|determinant]] va aparèixer per primera vegada, dos mil anys abans de la seva publicació pel matemàtic [[Japó|japonès]] [[Takakazu Seki|Seki Kowa]] el [[1683]] i pel matemàtic [[Alemanya|alemany]] [[Gottfried Leibniz]] el [[1693]].
+
+Els quadrats màgics també eren coneguts pels matemàtics [[Món àrab|àrabs]], possiblement des de començaments del [[segle VII]], que al seu torn van poder prendre'ls dels matemàtics i astrònoms de l'[[Índia]], juntament amb altres aspectes de la matemàtica [[combinatòria]]. Tot això suggereix que la idea va provenir de [[Xina]]. Els primers quadrats màgics d'ordre 5 i 6 van aparèixer a [[Bagdad]] al [[983]], a la''Enciclopèdia de la Germandat de Puresa''(''Rasa'il Ihkwan al-Safa'' ).ref name=Swaney/
+
+Les matrius tenen una llarga història d'aplicació en la solució d'[[equació lineal|equacions lineals]]. En [[Gottfried Leibniz]], un dels dos fundadors del càlcul, va desenvolupar la seva teoria dels [[determinant (matemàtiques)|determinants]] el [[1693]]. En [[Gabriel Cramer]] va desenvolupar encara més la teoria, presentant la [[regla de Cramer]] el [[1750]]. En [[Carl Friedrich Gauss]] i en [[Wilhelm Jordan]] van desenvolupar l'[[eliminació de Gauss-Jordan]] durant la primera dècada del segle XIX.
+
+El terme matriu va ser encunyat el [[1848]] per [[J. J. Sylvester]]. [[George Cayley]], [[William Rowan Hamilton]], [[Hermann Grassman]], [[Ferdinand Georg Frobenius]] i [[John von Neumann]] són alguns dels matemàtics famosos que han treballat en teoria de matrius.
+
+[[Olga Taussky Todd]] (1906-1995) va començar a usar la teoria de matrius mentre investigava un fenomen aerodinàmic de súper-oscil·lació, durant la [[Segona Guerra Mundial]].
+
+== Definicions i notacions ==
+
+Les línies horitzontals en una matriu s'anomenen '''files''' i les línies verticals reben el nom de '''columnes'''. Una matriu amb ''m'' files i ''n'' columnes s'anomena una matriu de ''m''-per-''n'' (o una matriu ''m''×''n'') i ''m'' i ''n'' són les seves '''dimensions'''. Si ''m''=''n'', és a dir, si la matriu té dimensions ''n''×''n'', direm que la matriu és quadrada d''''ordre''' n.
+
+El valor d'una matriu ''A'' que es troba en la ''i''-ena fila i en la ''j''-ena columna s'anomena el valor ''i,j'' o el (''i'',''j'')-è valor d{{'}}''A''. Això s'escriu ''A''subi,j/sub o ''A''[''i,j''].
+
+Hom escriu sovint mathA:=(a_{i,j})_{m \times n}/math per definir una matriu ''A'' de ''m''×''n'' dimensions amb cada valor a la matriu ''A''[''i,j''] anomenat matha_{i,j}\!/math per tots els 1≤''i''≤''m'' i 1≤''j''≤''n''.
+
+== Exemple ==
+
+La matriu ''A''
+
+:mathA:=(a_{i,j})=\begin{pmatrix}
+1  2  3 \\
+1  2  7 \\
+4  9  2 \\
+6  1  5 \end{pmatrix}/math
+
+és una matriu de 4×3 elements. L'element ''A''[2,3] o ''a''sub2,3/sub és igual a 7.
+
+Les matrius tenen una altra notació, utilitzant claudàtors (notació normalment utilitzada a Amèrica del nord). Per exemple:
+
+: math\mathbf{A} = \begin{bmatrix}
+
+1  2  3 \\
+1  2  7 \\
+4  9  2 \\
+6  1  5 \end{bmatrix}/math
+
+== Suma, resta i producte de matrius ==
+=== Suma ===
+{{principal|Suma de matrius}}
+
+Si tenim dues matrius ''m''-per-''n'' '''A''' i '''B''', es defineix la seva '''suma''' ''A + B'' com la matriu ''m''-per-''n'' computada per mitjà de l'addició d'elements corresponents, per exemple, (''A + B'')[''i, j''] = ''A''[''i, j''] + ''B''[''i, j'']. Per exemple
+
+:math
+ \begin{pmatrix}
+ 1  3  2 \\
+ 1  0  0 \\
+ 1  2  2
+ \end{pmatrix}
++
+ \begin{pmatrix}
+ 0  0  5 \\
+ 7  5  0 \\
+ 2  1  1
+ \end{pmatrix}
+=
+ \begin{pmatrix}
+ 1+0  3+0  2+5 \\
+ 1+7  0+5  0+0 \\
+ 1+2  2+1  2+1
+ \end{pmatrix}
+=
+ \begin{pmatrix}
+ 1  3  7 \\
+ 8  5  0 \\
+ 3  3  3
+ \end{pmatrix}
+/math
+
+Una altra noció, molt menys usada, de la suma de matrius és la [[suma directa (matrius)|suma directa]].
+
+=== Diferència ===
+{{principal|Resta de matrius}}
+
+=== Multiplicació escalar ===
+Si es dóna una matriu '''A''' i un nombre '''c''', hom pot definir la '''multiplicació escalar''' o '''multiplicació per escalars''' ''cA'' fent 
+(''cA'')[''i'', ''j''] = ''cA''[''i'', ''j''].
+O sigui, la multiplicació d'una matriu per un escalar (un nombre) és la matriu resultant de multiplicar els seus components per aquest escalar. Per exemple:
+
+:math2
+ \begin{pmatrix}
+ 1  8  -3 \\
+ 4  -2  5
+ \end{pmatrix}
+=
+ \begin{pmatrix}
+ 2\times 1  2\times 8  2\times -3 \\
+ 2\times 4  2\times -2  2\times 5
+ \end{pmatrix}
+=
+ \begin{pmatrix}
+ 2  16  -6 \\
+ 8  -4  10
+ \end{pmatrix}
+/math
+
+La suma de matrius i el producte per escalars converteixen el conjunt M (''m'', ''n'', '''R''') de totes les matrius ''m''-per-''n'' amb valors reals en un [[espai vectorial]] real de dimensió varm/varvarn/var. 
+
+Això és cert també en general per qualsevol cos: el conjunt M (''m'', ''n'', '''K'''), on '''K''' és un [[cos (matemàtiques)|cos]] amb la suma de matrius i el producte per un escalar de '''K''' és un espai vectorial de dimensió varm/varvarn/var sobre '''K''' (per exemple, les matrius complexes formen un espai vectorial complex).
+
+=== Multiplicació ===
+{{principal|Multiplicació de matrius}}
+[[Fitxer: Matrix multiplication diagram.svg | thumb | 250px | Els resultats en les posicions marcades depenen de les [[Vector fila|files]] i [[Vector columna|columnes]] dels seus respectius colors.]]
+
+La '''multiplicació''' o '''producte''' de dues matrius només està ben definida si el nombre de columnes de la primera matriu és el mateix que el nombre de files de la segona. Si ''A'' és una matriu ''m''-per-''n'' (''m'' files, ''n'' columnes) i ''B'' és una matriu ''n''-per-''p'' (''n'' files, ''m'' columnes), aleshores el '''producte''' ''AB'' és la matriu ''m''-per-''p''(''m'' files, ''p'' columnes''), donat per 
+
+:(''AB'')[''i'', ''j''] = ''A''[''i'', 1] * ''B''[1, ''j''] + ''A''[''i'', 2] * ''B''[2, ''j''] + ... + ''A''[''i'', ''n''] * ''B''[''n'', ''j''] per cada parella ''i'' i ''j''. 
+
+O sigui, l'element ''i'',''j'' de la matriu producte serà la suma de les multiplicacions de cada element de la fila ''i'' de la primera pel corresponent element de la columna ''j'' de la segona. Per exemple:
+:math
+ \begin{pmatrix}
+ 1  0  2 \\
+ -1  3  1 \\
+ \end{pmatrix}
+\times
+ \begin{pmatrix}
+ 3  1 \\
+ 2  1 \\
+ 1  0
+ \end{pmatrix}
+=
+ \begin{pmatrix}
+ (1 \times 3 + 0 \times 2 + 2 \times 1)  (1 \times 1 + 0 \times 1 + 2 \times 0) \\
+ (-1 \times 3 + 3 \times 2 + 1 \times 1)  (-1 \times 1 + 3 \times 1 + 1 \times 0) \\
+ \end{pmatrix}
+=
+ \begin{pmatrix}
+ 5  1 \\
+ 4  2 \\
+ \end{pmatrix}
+/math
+
+Aquesta multiplicació té les propietats següents:
+* (varA/varvarB/var)''C'' = ''A''(varB/varvarC/var) per totes les matrius '''A''' ''k''-per-''m'', matrius '''B''' ''m''-per-''n'' i matrius '''C''' ''n''-per-''p'' (qualitat associativa).
+
+* (''A+B'')''C'' = ''AC'' + ''BC'' per totes les matrius '''A''' i '''B''' ''m''-per-''n'' i matrius '''C''' ''n''-per-''k'' (qualitat distributiva).
+
+* ''C''(''A + B'') = ''CA'' + ''CB'' per totes les matrius '''A''' i '''B''' ''m''-per-''n'' i les matrius '''C''' ''k''-per-''m'' (qualitat distributiva).
+
+És important remarcar que la [[Propietat commutativa]] no s'aplica generalment; per tant, donant unes matrius A i B i el seu producte definit, aleshores és quasi sempre AB ≠ BA.
+
+* Hom diu que les matrius A, B ''commuten'' si AB = BA (A, B són necessàriament quadrades). 
+* Hom diu que les matrius A, B ''anticommuten'' si AB = -BA. Aquestes matrius (necessàriament quadrades) tenen una gran importància en les [[representació|representacions]] d'[[àlgebra de Lie]] i en [[representacions de l'àlgebra de Clifford]].
+
+== Transformacions lineals, rang i transposició ==
+
+Les matrius poden representar convenientment les [[transformació lineal|transformacions lineals]] perquè la multiplicació de matrius correspon netament a la composició d'aplicacions lineals, com es descriurà després. Aquesta propietat fa que siguin molt utilitzades en computació.
+
+Aquí i en la continuació hom identifica '''R'''sup''n''/sup amb el conjunt de files o matrius ''n''-per-1.
+
+Per cada aplicació lineal ''f'' : '''R'''sup''n''/sup → '''R'''sup''m''/sup hi ha una matriu única ''m''-per-''n'' tal que ''f''(''x'') = varA/varvarx/var per totes les ''x'' en '''R'''sup''n''/sup.
+
+Diem que la matriu '''A''' representa l'aplicació lineal ''f''.
+Ara, si la matriu '''B''' ''k''-per-''m'' representa una altra aplicació lineal ''g'' : '''R'''sup''m''/sup → '''R'''sup''k''/sup, aleshores l'aplicació lineal ''g'' o ''f'' és representada per varB/varvarA/var. D'això prové la ja mencionada qualitat associativa de la multiplicació de matrius.
+
+El [[rang d'una matriu]] '''A''' és la [[dimensió Hamel|dimensió]] de la [[imatge (matemàtiques)|imatge]] de l'aplicació lineal representada per '''A''': això és el mateix que la dimensió de l'espai generat per les files d''''A''', i també el mateix que la dimensió de l'espai generat per les columnes d''''A'''.
+
+La [[transposada]] d'una matriu '''A''' ''m''-per-''n'' és la matriu '''A''' suptr/sup ''n''-per-''m'' (també escrita a vegades '''A'''supT/sup o supt/sup'''A'''), extreta convertint les files en columnes i les columnes en files, o sigui ''A''suptr/sup[''i'', ''j''] = ''A''[''j'', ''i''] per tots els índexs ''i'' i ''j''. Si '''A''' descriu una aplicació lineal respecte a dues bases, aleshores la matriu '''A''' suptr/sup descriu la transposada de l'aplicació lineal respecte a les bases duals, vegeu [[espai dual]].
+
+Tenim (''A + B'')suptr/sup = ''A''suptr/sup + ''B''suptr/sup i (''AB'')suptr/sup = ''B''suptr/sup * ''A''suptr/sup.
+
+== Matrius quadrades i definicions ==
+
+Una '''matriu quadrada''' és una matriu que té el mateix nombre de files que de columnes. El conjunt de totes les matrius quadrades ''n''-per-''n'', junt amb la suma de matrius i el producte de matrius és un [[anell (matemàtiques)|anell]]. A menys que ''n'' = 1, aquest anell no té la [[propietat commutativa]].
+
+M(''n'', '''R'''), l'anell de matrius quadrades reals, és una [[àlgebra associativa]] real unitària. M(''n'', '''C'''), l'anell de matrius quadrades complexes, és una àlgebra associativa complexa unitària.
+
+La '''matriu unitària''' o '''[[matriu d'identitat]]''' ''Isubn/sub'', amb elements a la diagonal principal disposats en 1 i tots els altres elements disposats a 0, satisfà ''MIsubn/sub=M'' i ''Isubn/subN=N'' per qualsevol matriu '''M''' ''m''-per-''n'' o matriu '''N''' ''n''-per-''k''. Per exemple, si ''n'' = 3:
+:math
+ I_3 =
+ \begin{pmatrix}
+ 1  0  0 \\
+ 0  1  0 \\
+ 0  0  1
+ \end{pmatrix}
+/math
+La matriu d'identitat és l'element d'identitat en l'anell de matrius quadrades.
+
+Els elements invertibles en aquest anell s'anomenen '''[[matriu invertible|matrius invertibles]]''' o '''matrius regulars''' (o '''matrius no singulars'''). Una matriu '''A''' ''n''-per-''n'' és invertible si i només si existeix una matriu '''B''' tal que
+:'''AB''' = Isub''n''/sub i '''BA''' = Isub''n''/sub.
+En aquest cas, '''B''' és la '''matriu inversa''' d''''A''', denotada per '''A'''sup−1/sup. El conjunt de totes les matrius invertibles ''n''-per-''n'' forma un [[grup (matemàtiques)|grup]] (específicament un [[grup de Lie]]) sota la multiplicació de matrius, el [[grup lineal general]].
+
+Si λ és un nombre i '''v''' és un vector no-zero tal que '''Av''' = λ'''v''', aleshores hom anomena '''v''' un [[vector propi]] (''eigenvector'' en anglès) d''''a''' i λ el [[valor propi]] (''eigenvalue'' en anglès) associat. (''Eigen'' significa propi en alemany). El nombre λ és un valor propi d''''A''' si i només si '''A'''−λ''I''sub''n''/sub no és invertible, que passa si i només si ''p''sub'''A'''/sub(λ) = 0. Aquí ''p''sub'''A'''/sub(''x'') és el [[polinomi característic]] d''''A'''. Aquest és un polinomi de grau ''n'' i per tant té ''n'' arrels complexes (comptant les arrels múltiples segons la seva multiplicitat). En aquest sentit, cada matriu quadrada té ''n'' valors propis complexos.
+
+El [[determinant (matemàtiques)|determinant]] d'una matriu quadrada '''A''' és el producte dels seus valors propis (comptant cadascú segons la seva multiplicitat), però també es pot definir per mitjà de la ''[[fórmula de Leibniz]]''. Les matrius invertibles són precisament aquelles amb un determinant no-zero, o sigui amb valors propis tots no-zero.
+
+L'algorisme d'[[eliminació de Gauss-Jordan]] és de vital importància: hom el pot utilitzar per computar determinants, rangs i els inversos de matrius i per solucionar [[sistema d'equacions lineals|sistemes d'equacions lineals]].
+
+La [[traça]] d'una matriu quadrada és la suma de les entrades a la [[diagonal principal]], que és igual a la suma dels seus [[vap|valors propis]] (comptant cadascú segons la seva multiplicitat).
+
+Hom defineix [[matriu exponencial|l'exponencial]] de qualsevol matriu quadrada real o complexa, usant [[sèrie de potències]].
+
+== Tipus especials de matrius ==
+
+En moltes àrees de les matemàtiques apareixen matrius amb una certa estructura. Uns quants exemples importants són
+
+* les [[Matriu simètrica|matrius simètriques]] són tal que els elements simètrics a la ''diagonal principal'' (des de dalt a l'esquerra cap avall a la dreta) són iguals, és a dir asubi,j/sub=asubj,i/sub. 
+* les [[Matriu antisimètrica|matrius antisimètriques]] són tal que els elements simètrics a la ''diagonal principal'' són el negatiu un de l'altra, és a dir asubi,j/sub= - asubj,i/sub. En una matriu antisimètrica, tots els elements diagonals són 0, és a dir, asubi,i/sub=0. 
+* les [[Matriu hermítica|matrius hermítiques]] complexes són tal que els elements simètrics a la diagonal són els [[conjugat complex|conjugats complexos]] un de l'altre, és a dir asubi,j/sub=a*subj,i/sub, on '*' significa la conjugació complexa.
+* les [[matriu ortogonal|matrius ortogonals]] són aquelles matrius quadrades reals invertibles que compleixen la relació: mathA^T = A^{-1}/math.
+* les [[Matriu Toeplitz|matrius de Toeplitz]] tenen elements comuns en llurs diagonals, és a dir, asubi,j/sub=asubi+1,j+1/sub.
+* les [[Matriu Stocàstica|matrius estocàstiques]] són matrius quadrades les columnes de les quals són [[vector de probabilitat|vectors de probabilitat]]; hom les utilitza per definir les [[cadena Markov|cadenes de Markov]].
+* una [[matriu quadrada]] ''A'' d'ordre ''n'' és '''singular''' si el seu [[Determinant (matemàtiques)|determinant]] és zero. En aquest cas, es diu que aquesta matriu no té [[matriu invertible|inversa]].
+
+Per una llista més exhaustiva vegeu [[llista de matrius]].
+
+== Les matrius en l'[[àlgebra abstracta]] ==
+{{AP|Àlgebra abstracta}}
+Si comencem amb un [[anell (matemàtiques)|anell]] [[ℝ]], podem considerar el conjunt math\mathcal M_{m\times n}(\mathbb R)/math de totes les matrius ''m''-per-''n'' amb entrades en ℝ. La suma i el producte d'aquestes matrius es poden definir com en el cas de matrius complexes o reals (vegeu [[#Suma, resta i producte de matrius|amunt]]). El conjunt math\mathcal M_{n\times n}(\mathbb R)/math de totes les matrius quadrades ''n''-per-''n'' en ℝ és un anell pel seu propi dret, isomòrfic a l'[[anell d'endomorfismes]] de [[mòdul (matemàtiques)|mòdul]] esquerre ℝsup''n''/sup.
+
+De manera similar, si les entrades es prenen d'un [[semianell]] '''S''', la suma i el producte de matrius es poden definir encara com usual. El conjunt de totes les matrius quadrades ''n''×''n'' en '''S''' és un semianell en si. Cal recordar que els algorismes ràpids de multiplicació de matrius com l'[[algorisme de Strassen]] normalment s'apliquen només a matrius sobre anells i no funcionen per matrius sobre semianells que no són anells.
+
+Si ℝ és un anell commutatiu, aleshores math\mathcal M_{n\times n}(\mathbb R)/math és una [[àlgebra associativa]] unitària sobre ℝ. Aleshores també és significatiu definir el [[determinant (matemàtiques)|determinant]] de les matrius quadrades usant la ''[[fórmula de Leibniz]]''; una matriu és invertible [[si i només si]] el seu determinant és invertible en ℝ.
+
+Tot el que es diu en aquests articles sobre les matrius reals o [[ℂ|complexes]] roman correcte per les matrius sobre un [[cos (matemàtiques)|cos]] arbitrari.
+
+Les matrius sobre un [[anell polinòmic]] són importants en l'estudi de la [[teoria del control]].
+
+== Les matrius a la computació ==
+Les matrius són utilitzades àmpliament en computació, per la seva facilitat i lleugeresa per manipular informació. En aquest context, són la millor manera per representar un [[graf]], i són molt utilitzades en l'[[càlcul numèric]].
+
+== Vegeu també ==
+
+* [[Matriu invertible]]
+* [[Teoria de matrius]]
+* [[Producte Kronecker]]
+* [[Teorema de Rouché-Frobënius]]
+
+== Referències ==
+references /
+
+== Enllaços externs ==
+{{Commonscat}}
+
+
+* [http://www.bluebit.gr/matrix-calculator/default.aspx Calculadores de matrius: calculadores dinàmiques en línia] Calculadores de matrius: calculadores dinàmiques en línia]
+
+{{Enllaç AB|en}}
+{{Enllaç AB|zh}}
+{{Enllaç AD|pl}}
+{{Enllaç AD|ur}}
+
+
+[[Categoria:Matrius| ]]</text>
+      <sha1>6wq6ch6kkhxuj1zqe4m6v8zou30irx2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

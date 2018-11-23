@@ -1,0 +1,116 @@
+<page>
+    <title>Atanasoff Berry Computer</title>
+    <ns>0</ns>
+    <id>710650</id>
+    <revision>
+      <id>13294236</id>
+      <parentid>12525651</parentid>
+      <timestamp>2014-04-29T09:22:56Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espai sobrant</comment>
+      <text>[[Fitxer:Atanasoff-Berry Computer at Durhum Center.jpg|thumb|250 px|right|L'Atanasoff Berry Computer al centre Durhum.]]
+L{{'}}'''Atanasoff Berry Computer''' (o també ''' ABC''') fou el primer computador electrònic i digital automàtic. Va ser construït pel [[John Vincent Atanasoff|Dr. John Vincent Atanasoff]] amb l'ajuda de [[Clifford Edward Berry]] entre 1937 i 1942 a l'Iowa State University, que llavors rebia el nom d'Iowa State College. 
+
+== Innovacions de l'ABC ==
+
+Aquesta màquina, decididament revolucionària, va aportar diverses innovacions en el camp de la computació: un [[codi binari|sistema binari]] per a l'aritmètica, memòria regenerativa i distinció entre la memòria i les funcions de càlcul. De vegades s'utilitza el seu acrònim ABC, per denominar aquest ordinador. L'ABC va ser el primer computador modern en utilitzar aritmètica en binari i usar [[circuit elèctric|circuits electrònics]], que avui en dia s'utilitzen a tots els computadors. En binari s'utilitzen dos símbols, 0 i 1, per representar valors numèrics. Més específicament, el binari és una notació matemàtica en base dos. A causa de la seva relació directa amb els circuits electrònics, el sistema binari s'usa internament a gairebé tots els ordinadors actuals. Aquest ordinador va ser el primer a implementar tres conceptes claus presents als ordinadors moderns:
+
+# Ús del sistema binari per representar tots els números i dades.
+# Realització de totes les operacions usant l'electrònica en lloc de rodes
+# La computació estava separada del sistema d'emmagatzematge o memòria.
+
+A més usava memòria regenerativa, de la mateixa manera que la [[DRAM]] dels ordinadors actuals. No era un computador d'emmagatzemament, que la distingeix de les màquines més tardanes i d'ús general com l'[[ENIAC]] (1949), l'[[EDVAC]] (1949), els dissenys de la Universitat de Manchester o els que [[Alan Turing]] va realitzar en el 'National Physical Laboratory'.
+
+== Desenvolupament ==
+
+L'ABC va ser construït al soterrani de l'Iowa State University, que llavors es deia 'Iowa State College'. El procés va durar dos anys degut de la falta de finançament. El finançament inicial va ser aportat pel departament d'agronomia. La resta del finançament va anar a càrrec de la 'Research Corporation of America', a [[Nova York]]. La primera demostració del prototip, que sumava o restava dos registres de vint-i-cinc bits usant un bit de transport, es va realitzar el novembre de 1939. La màquina pesava més de 320 kg. Contenia aproximadament 1.6 km de cable, 280 tubs de buit i ocupava com una taula de despatx. 
+
+Estava dissenyat per solucionar [[Sistema d'equacions lineals|sistemes d'equacions lineals]] amb 29 incògnites. Aquest tipus de problema era molt típic en la [[física]] i [[enginyeria]] d'aquella època. Al sistema se li presentaven dues equacions lineals amb 29 incògnites i una constant, i eliminava una de les variables. El procés es repetia amb la resta d'equacions, resultat un sistema d'equacions amb una variable menys. El procés es repetia de nou per eliminar una altra variable. El sistema presentava un error cada 100.000 càlculs, que a la pràctica l'impedia de resoldre els sistema d'equacions. Vista en retrospectiva, una solució, que es podria haver adoptat amb la tecnologia disponible en aquella època, seria afegir un bit de paritat a cada número quan era escrit. El problema no es va resoldre perquè Atanasoff va abandonar la universitat per col·laborar amb l'exèrcit durant la [[Segona Guerra Mundial]].
+
+== Arquitectura ==
+
+[[Fitxer:Atanasoff Berry Computer.gif||right|Diagrama de l'ABC amb alguns dels seus components]]
+
+=== Plafó de Control ===
+
+Nombrosos controls manuals proporcionen a l'usuari la capacitat de programar operacions a la màquina. La secció de control està constituïda per una barreja de transmissors electromecànics i [[Vàlvula de buit|vàlvules de buit]] electròniques.
+
+=== Representació numèrica ===
+
+L'ABC es va dissenyar per resoldre problemes d'[[àlgebra lineal]] amb una alta precisió i velocitat. El requisit d'alta velocitat va conduir a l'ús de l'emmagatzematge electrònic i la commutació, ja que els mètodes mecànics de les calculadores existents en aquella època eren centenars de vegades més lents que els mètodes electrònics. L'alta precisió requerida va eliminar l'ús dels mètodes analògics, que es limiten a dos o tres dígits decimals d'exactitud. Atanasoff va determinar que una màquina binària seria més veloç, eficient i simple que una màquina decimal que procurés imitar l'aritmètica acadèmica en base deu. Va ser el primer a reconèixer el valor de les representacions binàries dels números, que ell anomenava abacus elements. Malgrat algunes temptatives en el disseny de calculadores numèriques electròniques no binàries, tota la història de la computació s'ha basat en el funcionament en manera binària en el nivell més baix del maquinari. Els traductors de decimal a binari van ser agregats a l'ABC per facilitar l'entrada inicial i la sortida final de les dades.
+
+Atanasoff es va decidir per una representació basada en cinquanta bits de mantissa més un bit de signe. Aquesta representació proporciona una exactitud de quinze decimals. Mig segle després del disseny i construcció de l'ABC el comitè de l'Ieee va estandarditzar un format de representació de nombres basat en un bit de signe, cinquanta-dos bits de mantissa i onze bits d'exponent. Per tant podem considerar l'ABC com una computadora de doble precisió, amb una representació dels nombres excepcionalment similar a la de les arquitectures actuals.
+
+=== Memòria Principal ===
+
+L'ABC usava emmagatzemament dinàmic per a la seva memòria principal. Igual com les memòries [[RAM]] actuals, requeria d'un període de refresc per recordar el seu estat binari. Atanasoff va considerar l'ús de diferents tecnologies per a la construcció de la memòria principal tals com a memòria magnètica, vàlvules de buit i [[Condensador|condensadors]] per guardar cada bit de memòria. Finalment la relació entre el cost per bit i el rendiment el va fer decidir-se per l'ús de condensadors. 
+
+La memòria principal estava formada pels tambors CA (Counter Abaci) i KA (Keyboard Abaci.) Els tambors CA i KA són idèntics. Disposen de trenta-dues bandes al llarg de la longitud del tambor. Cada banda disposa de seixanta posicions físiques, de les quals cinquanta contenen condensadors muntats radialment al voltant del tambor. Cada condensador emmagatzema un bit i cada banda és un element del vector. Les dues bandes addicionals són recanvis en cas que un condensador falli.
+
+Els termes counter i keyboard són reminiscències dels conceptes originals de les màquines sumadores mecàniques, en les quals una unitat sumadora controla el total acumulat, i els valors introduïts a través del teclat o keyboard són sumats o restats a aquesta quantitat. En l'actualitat, la memòria dinàmica basada en condensadors impresos sobre xips de silici continua oferint la millor relació entre cost i rendiment. Aquesta memòria era organitzada en dos bancs de trenta-dues paraules cada un. Com cada paraula necessitava de cinquanta bits de mantissa més un de seguiment, la capacitat total d'emmagatzemament era de tres mil dos-cents seixanta-quatre bits. Els bancs eren usats com registres per la unitat aritmètica. Cada banc de registres es trobava en un cilindre diferent.
+
+=== Aritmètica paral·lela ===
+
+En termes moderns, l'ABC es pot descriure com un processador [[Vector (programació)|vectorial]] de sèries de bits. Un vector de trenta elements és processat en paral·lel. Cada element és una paraula de cinquanta bits que és processada seqüencialment. L'operació bàsica de l'ABC era una multiplicació paral·lela. En cada cicle de rellotge d'un segon la computadora podia realitzar trenta sumes o restes simultànies, per la qual cosa és considerat com el primer computador vectorial. La multiplicació es basava en un algorisme de suma desplaçament que avançava per les files de la matriu del sistema d'equacions sumant cada fila a la següent. Per completar una operació se'n requerien setze cicles d'un segon cada un. Tenint en compte que els vectors o matrius d'entrada estaven compostos per trenta paraules, la velocitat de còmput de l'ABC era de seixanta operacions, trenta operacions de suma més unes altres trenta de desplaçament, en setze segons, o el que són el mateix 3.75 operacions/segon. Els elements de l'arquitectura encarregats de realitzar les sumes i restes eren els ASMs (Add-Subtract Mechanisms.) Aquests mecanismes, que eren totalment electrònics, rebien dos bits i un transport d'entrada i tornaven el bit de resultat i el transport de sortida.
+
+=== Tambor d'estat (Carry Drum) ===
+
+Manté l'estat actual del bit del vector quan aquest s'està processant. Hi ha un bit d'estat (carry bit) per cada element del vector, és a dir, trenta bits d'estat.
+
+=== Tambor de temporització (Timing Drum) ===
+
+Aquest element de l'arquitectura és l'encarregat de generar diversos senyals de control. El temps que es tarda a recórrer les deu posicions físiques sense condensador dels tambors de memòria s'utilitza per a tasques de control.
+
+=== Tambor de conversió (Conversion Drum) ===
+
+Funciona com una [[Memòria ROM|ROM]] que conté les representacions binàries dels nombres decimals. El tambor de conversió s'utilitza durant l'entrada de les dades (de base 10 a base 2) i sortida de dades (base 2 a base 10.)
+
+=== Memòria secundària ===
+
+Està formada per un gravador i un lector de targetes en base dos (Base-2 Reader and Punch. ) Les computadores antigues s'associen als lectors de targetes mecànics i a les cintes de paper perforades. Tanmateix el disseny de l'ABC va ésser molt avançat a la seva època en cada un dels aspectes de la seva arquitectura. La memòria secundària utilitzava mitjans elèctrics per llegir i escriure les dades. El mitjà d'enregistrament eren targetes, però els forats es feien elèctricament mitjançant un llamp de cinc mil volts. Després eren llegits usant un voltatge molt inferior i a una velocitat molt superior als seixanta bits per segon que proporcionaven els mitjans mecànics de la seva època.
+
+El disseny paral·lel d'aquest dispositiu permetia que tires de trenta bits fossin llegides i escrites simultàniament. La velocitat de transferència era de mil vuit-cents bits per segon. Aquesta velocitat és superior a la que empraven els computadors personals de principis dels vuitanta per llegir cintes de casset, i va ser considerada suficient per satisfer les necessitats de càlcul de l'ABC. El disseny dels antics computadors permetia que els nombres fossin llegits, processats i escrits simultàniament. En l'actualitat les operacions d'entrada/sortida s'encavalquen amb el procés de la [[CPU]].
+
+=== Perifèrics d'entrada i sortida de dades ===
+
+El lector de base deu s'utilitza per a introduir les dades. Per a l'esmentada entrada de dades s'empren targetes en base-10 de vuitanta columnes estàndard d'[[IBM]]. Es llegeix de forma paral·lela un banc de cinc coeficients. Els quinze dígits que componen els coeficients es llegeixen seqüencialment començant amb el més significatiu. Les dades de sortida es mostren a través d'un display en base 10 de quinze dígits.
+
+=== Sincronització del sistema ===
+
+Tots els tambors del sistema exceptuant el d'estat (carry drum) giren a seixanta revolucions per minut, és a dir, fan una volta en un segon. En cada revolució es realitza una operació de vector. Com cada tambor té seixanta possibles posicions de memòria, la velocitat màxima de transferència és de seixanta bits per segon. Si llegim seixanta bits per rotació, el tambor d'estat haurà de rotar a 3600 Rpm. A la pràctica és preferible no assolir aquestes velocitats, i realment rota a 900 Rpm. Hi ha quatre contactes per cada bit d'estat connectats a un condensador.
+
+== La lluita per la patent ==
+
+Presper Eckert i John Mauchly van ser els primers en patentar un computador digital, l'[[ENIAC]]. Mauchly va examinar l'enginy d'[[Atanasoff]] i [[Berry]] el juny de 1941, i es pensa que aquesta visita va influir en el seu treball posterior. En el judici de Sperry Rand contra Honeywell es va revocar la patent de l'ENIAC en ser considerat una derivació de l'ABC. El judici va començar el 1967 i el veredicte es va dictaminar el 19 d'octubre de 1973. No hi va haver apel·lació. La visita que Mauchly va realitzar a Atanasoff va ser la base del veredicte. Atanasoff va ser generós en dir, hi ha crèdit suficient per a tots en la invenció i desenvolupament del computador digital. Eckert i Mauchly han estat considerats històricament els pares del computador modern, encara que historiadors i experts estan d'acord ara que l'ABC fou el primer. Atanasoff va ser àmpliament reconegut en vida. El 13 de novembre de 1990 va ser guardonat amb la 'National Medal of Technology' pel president George H. W. Bush, en una cerimònia celebrada a la Casa Blanca.
+
+== Destrucció de la màquina. Rèplica moderna ==
+
+L'ABC va ser finalment desmuntat quan la universitat va convertir el soterrani en el qual es trobava en laboratoris. La major part de les seves peces van ser eliminades. El 1997, un grup d'investigadors de l''Ames Laboratory', situat en el campus de l''Iowa State', va finalitzar la construcció d'una rèplica de la computadora, amb un cost de 350.000 dòlars. Aquesta rèplica va dissipar favorablement qualsevol dubte sobre si l'ABC podia desenvolupar les funcions per a les quals va ser dissenyat. El nou ABC està en exposició permanent al vestíbul del 'Durham Center for Computation and Communication' a l''Iowa State University'.
+
+== Referències ==
+
+Anthony Ralston and Edwin SR. Reilly (ed), ''Encyclopedia of Computer Science, 3 rd Ed.'' 1993, Van Nostrand Reinhold, New York Isbn 0-442-27679-6
+
+[[Clark R. Mollenhoff]], ''Atanasoff: Forgotten Father of the Computer'', 1988, Isbn 0-8138-0032-3
+
+
+== Vegeu també ==
+* [[John Atanasoff]]
+* [[Clifford Berry]]
+* [[ENIAC]]
+
+== Enllaços externs ==
+* [http://www.cs.iastate.edu/jva/jva-archive.shtml Lloc de naixement de l'Abc]
+* [http://www.scl.ameslab.gov/Abc/ Reconstrucció de l'ABC]
+* [http://www.scl.ameslab.gov/Projects/Abc/Trial.html Judici per la patent de l'ENIAC]
+
+[[Categoria:Ordinadors]]</text>
+      <sha1>f5ug53dozty9sb0onr4fkzd4iszha6k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

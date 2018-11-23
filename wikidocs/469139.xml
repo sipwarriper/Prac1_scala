@@ -1,0 +1,160 @@
+<page>
+    <title>Partit Comunista d'Àustria</title>
+    <ns>0</ns>
+    <id>469139</id>
+    <revision>
+      <id>13839673</id>
+      <parentid>12276511</parentid>
+      <timestamp>2014-07-16T02:41:19Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Partit polític|
+ color = red|
+ nom = Kommunistische Partei Österreichs|
+ símbol = [[Fitxer:Kommunistische Partei Österreichs Logo.svg|150px|Partit Comunista d#039;Àustria]]|
+ definició = Partit polític austríac|
+ president = [[Melina Klaus]], [[Mirko Messner]] ||
+ secretari general = |
+ ideologia = [[Eurocomunisme]] |
+ partit europeu = [[Partit de l'Esquerra Europea]] |
+ fundació = [[1918]]|
+ desaparició = |
+ publicació = Volksstimmen |
+ parlament = |
+ seu = 	Drechslergasse 42br /A-1140 [[Viena]] |
+ web = http://www.kpoe.at |}}
+'''Partit Comunista d'Àustria''' ([[alemany]] ''Kommunistische Partei Österreichs'', KPÖ) és un [[partit polític]] [[comunisme|comunista]] d'[[Àustria]] fundat el [[1918]], un dels partits comunistes més antics d'Europa. Va estar prohibit entre [[1933]] i [[1945]], durant la dominació alemanya d'Àustria, en la qual va tenir un important paper en la resistència austríaca contra el [[nazisme]] i el [[feixisme]]. Van aconseguir tenir un ministre en el primer govern austríac després de la [[Segona Guerra Mundial]]. 
+
+El partit publica el periòdic ''Volksstimmen'' (anteriorment ''Volksstimme''; veu del poble), i participa activament a les eleccions. No obstant això, no ha tingut representació en el parlament federal des de [[1959]]. Després de la pèrdua del seu últim representant en un parlament estatal, a [[Estíria]] el [[1970]], es va convertir en un moviment amb una importància política limitada. A les eleccions al Consell Nacional, el [[eleccions legislatives austríaques de 2002|22 de novembre de 2002]], només va obtenir un 0.56% dels vots (27.568 d'un total de 4.909.645) per sota del 4% mínim per a obtenir escons. No obstant això, va obtenir un excepcional 20% dels vots a les eleccions municipals de [[Graz]] en [[2003]], i en [[2005]] va tornar a tenir representació en un parlament estatal després de 35 anys després d'aconseguir el 6.3% dels vots a Estíria, després que [[Ernest Kaltenegger]] assolís un gran èxit en aquestes eleccions. 
+
+== Eleccions recents ==
+{|class=wikitable align=center
+ |----- bgcolor=#DDDDDD
+ ! colspan=3| Resultats electorals
+ |-
+ ! align=center | Any
+ ! align=center | Elecció
+ ! align=center | Percentatge de vots
+ |-
+ | align=center | [[Eleccions legislatives austríaques de 2006|2006]]
+ | align=center | Àustria
+ | align=center | 1.01% (+ 0.45%)
+ |-
+ | align=center | 2005
+ | align=center | Viena
+ | align=center | 1.47% (+ 0.83%)
+ |-
+ | align=center | 2005
+ | align=center | Estíria
+ | align=center | 6.32% (+ 5.31%)
+ |-
+ | align=center | [[Eleccions europees de 2004|2004]]
+ | align=center | Europa
+ | align=center | 0.78% (+-?)
+ |-
+ | align=center | 2004
+ | align=center | Caríntia
+ | align=center | 0.6% (+-?)
+ |-
+ | align=center | 2003
+ | align=center | Alta Àustria
+ | align=center | 0.80% (+-?)
+ |-
+ | align=center | 2003
+ | align=center | Baixa Austria
+ | align=center | 0.77% (+-?)
+ |-
+ | align=center | 2004
+ | align=center | Tirol
+ | align=center | 0.70% (+-?)
+ |-
+ | align=center | [[Eleccions legislatives austríaques de 2002|2002]]
+ | align=center | Àustria
+ | align=center | 0.56% (+ 0.08)
+ |}
+
+== Secretaris generals del Partit ==
+timeline
+ImageSize = width:650 height:500
+PlotArea = width:600 height:450 left:50 bottom:50
+Legend = columns:3 left:50 top:25 columnwidth:50
+
+DateFormat = yyyy
+Period = from:1945 till:2009
+TimeAxis = orientation:vertical
+ScaleMajor = unit:year increment:4 start:1945
+
+# there is no automatic collision detection,
+# so shift texts up or down manually to avoid overlap
+
+Colors=
+ id:KPÖ value:rgb(0.625,0,0) legend:KPÖ
+ id:SPÖ value:red legend:SPÖ
+ id:ÖVP value:gray(0.25) legend:ÖVP
+
+Define $dx = 25 # shift text to right side of bar
+Define $dy = -4 # adjust height
+
+PlotData=
+
+ bar:CP color:red width:25 mark:(line,white) align:left fontsize:S
+
+ from:1945 till:1965 shift:($dx,$dy) color:KPÖ text:[[Johann Koplenig]] (des de 1927)
+ from:1965 till:1990 shift:($dx,$dy) color:KPÖ text:[[Franz Muhri]]
+ from:1990 till:1991 shift:($dx,$dy) color:KPÖ text:[[Walter Silbermayr]], [[Susanne Sohn]] 
+ from:1991 till:1994 shift:($dx,$dy) color:KPÖ text:[[Otto Bruckner]], [[Margitta Kaltenegger]], [[Julius Mende]]
+ from:1994 till:2006 shift:($dx,$dy) color:KPÖ text:[[Walter Baier]]
+ from:2006 till:end shift:($dx,$dy) color:KPÖ text:[[Melina Klaus]], [[Mirko Messner]]
+
+
+ bar:Govern. color:red width:26 mark:(line,white) align:left fontsize:7
+
+ from:1945 till:1946 shift:($dx,-2) color:SPÖ text:[[Karl Renner|Renner]]
+ from:1946 till:1949 shift:($dx,$dy) color:ÖVP text:[[Leopold Figl|Figl]] I
+ from:1949 till:1952 shift:($dx,$dy) color:ÖVP text:Figl II
+ from:1952 till:1953 shift:($dx,$dy) color:ÖVP text:Figl III
+ from:1953 till:1956 shift:($dx,$dy) color:ÖVP text:[[Julius Raab|Raab]] I
+ from:1956 till:1959 shift:($dx,$dy) color:ÖVP text:Raab II
+ from:1959 till:1960 shift:($dx,$dy) color:ÖVP text:Raab III
+ from:1960 till:1961 shift:($dx,-2) color:ÖVP text:Raab IV
+ from:1961 till:1963 shift:($dx,$dy) color:ÖVP text:[[Alfons Gorbach|Gorbach]] I
+ from:1963 till:1964 shift:($dx,$dy) color:ÖVP text:Gorbach II
+ from:1964 till:1966 shift:($dx,$dy) color:ÖVP text:[[Josef Klaus|Klaus]] I
+ from:1966 till:1970 shift:($dx,$dy) color:ÖVP text:Klaus II
+ from:1970 till:1971 shift:($dx,$dy) color:SPÖ text:[[Bruno Kreisky|Kreisky]] I
+ from:1971 till:1975 shift:($dx,$dy) color:SPÖ text:Kreisky II
+ from:1975 till:1979 shift:($dx,$dy) color:SPÖ text:Kreisky III
+ from:1979 till:1983 shift:($dx,$dy) color:SPÖ text:Kreisky IV
+ from:1983 till:1986 shift:($dx,$dy) color:SPÖ text:[[Fred Sinowatz|Sinowatz]]
+ from:1986 till:1987 shift:($dx,$dy) color:SPÖ text:[[Franz Vranitzky|Vranitzky]] I
+ from:1987 till:1990 shift:($dx,$dy) color:SPÖ text:Vranitzky II
+ from:1990 till:1994 shift:($dx,$dy) color:SPÖ text:Vranitzky III
+ from:1994 till:1996 shift:($dx,$dy) color:SPÖ text:Vranitzky IV
+ from:1996 till:1997 shift:($dx,$dy) color:SPÖ text:Vranitzky V
+ from:1997 till:2000 shift:($dx,$dy) color:SPÖ text:[[Viktor Klima|Klima]]
+ from:2000 till:2003 shift:($dx,$dy) color:ÖVP text:[[Wolfgang Schüssel|Schüssel]] I
+ from:2003 till:2007 shift:($dx,$dy) color:ÖVP text:Schüssel II
+ from:2007 till:2008 shift:($dx,$dy) color:SPÖ text:Gusenbauer
+ from:2008 till:end shift:($dx,$dy) color:SPÖ text:Faymann
+/timeline
+
+== Enllaç extern ==
+{{Commonscat|Communist Party of Austria}}
+[http://www.kpoe.at/ Pàgina oficial del KPÖ]
+
+{{PartitspoliticsAustria}}
+{{Autoritat}}
+
+{{ORDENA:Partit Comunista D'Austria}}	!--ORDENA generat per bot--
+[[Categoria:Partits polítics d'Àustria]]
+[[Categoria:Partits comunistes europeus]]
+[[Categoria:Antifeixisme]]</text>
+      <sha1>5g6ykpunqxehlmygblumre2p7o5esrw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

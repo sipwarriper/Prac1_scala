@@ -1,0 +1,187 @@
+<page>
+    <title>Day of Defeat: Source</title>
+    <ns>0</ns>
+    <id>166857</id>
+    <revision>
+      <id>13535488</id>
+      <parentid>12792458</parentid>
+      <timestamp>2014-06-07T10:43:47Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: de recolzat en  de recolzar en</comment>
+      <text>{| class=infobox bordered style=width: 22em; font-size: 95%; text-align: left; cellpadding=2
+! colspan=2 style=text-align: center; font-size: larger; background-color: #eeeeee; | ''Day Of Defeat: Source''
+|-
+! style=background-color: #eeeeee; | ''[[Creador de videojoc|Desenvolupador]]''
+| [[Valve Software]]
+|-
+! style=background-color: #eeeeee; |''Publicador''
+| style=width:14em | Per [[Steam]] (no és cap empresa)
+|-
+! style=background-color: #eeeeee; | ''Dates de llançaments''
+| [[Fitxer:Map projection-Eckert IV.png|22px|A tot el món]] [[26 de setembre]] de [[2005]]
+{{Bandera|EUA}} [[28 de setembre]] de [[2005]] (Windows)
+|-
+! style=background-color: #eeeeee; |''[[Gènere de videojoc|Gènere]]''
+| [[Acció en primera persona]]
+|-
+! style=background-color: #eeeeee; |''Modes de joc''
+| [[Multijugador]]
+|-
+! style=background-color: #eeeeee; |''[[Consola de joc|Plataforma]]''
+| [[Ordinador]]
+|-
+! style=background-color: #eeeeee; |''[[Motor de videojoc]]''
+| [[Source]]
+|-
+! style=background-color: #eeeeee; |''Requisits''
+| [[CPU]] 1,2 GHZ, [[Memòria Ram]] 256 MB, [[Disc dur]] 4,5 GB
+|-
+! style=background-color: #eeeeee; |''Dispositius d'entrada''
+| [[Teclat d'ordinador|Teclat]], [[Ratolí (informàtica)|Ratolí]], [[Internet]]
+|-
+! style=background-color: #eeeeee; |''Classificació''
+|[[Entertainment Software Rating Board|ESRB]]: Mature 17+ br / [[PEGI]]:17+
+|-
+! style=background-color: #eeeeee; |''[[Lloc web]]''
+| [http://www.steampowered.com Steampowered] {{en}}
+|}
+
+'''Day of Defeat: Source''' és la nova versió del [[Day of Defeat]], el [[mod (videojoc)|mod]] pel [[Half-Life]] sobre els combats a la batalla europea durant la [[Segona Guerra Mundial]]. Es mou amb l'aclamat [[Motor Source]], de [[Valve]], que li aporta molt realisme, millors gràfics i sons, i per sobre de tot físiques. Està basat en el joc en equip (team-play) en escenaris històrics de la Segona Guerra Mundial.
+
+== Llançament ==
+DoD:S va ser llançat el [[26 de setembre]] de [[2005]], per la plataforma de venda, distribució i llançament [[Steam]], de [[Valve]]. En poc temps va ser un èxit i es va propagar pels servidors d'Internet. Tenia molts bugs que van ser arreglats en les següents setmanes; per exemple un bug pel qual els jugadors es pegaven i no es podien moure fins que un d'ells es tombés. 
+
+== Contingut ==
+div class=toccolours style=width:256px; float:right; margin-left: 1em;
+p align=center'''Versions'''/p
+*Alpha 6.8 - 06. Novembre del 2000
+*Beta 1.0 - 12. Gener del 2001
+*Beta 1.1 - 14. Febrer del 2001
+*Beta 1.2 - 05. Abril del 2001 (?)
+*Beta 1.3 - 01. Juliol del 2001
+*Beta 2.0 - 06. Febrer del 2002
+*Beta 2.1 - 10. Maig del 2002
+*Beta 2.2 - (?)
+*Beta 2.3 - (?)
+*Beta 3.0 - 11. Juliol del 2002
+*Beta 3.1 - 08. Agost del 2002
+*Versió 1.0 - 01. Maig del 2003
+*Versió 1.1 - 14. Novembre 2003, en [[Steam (Software)|Steam]] 
+*Versió 1.2 - 19. Maig del 2004 
+*Versió 1.3 - 04. Juliol del 2004
+*Versió 1.3b - 29. Novembre del 2004
+*''DoD:Source'' - 26. Setembre del 2005
+/div
+Quan va ser llançat, el paquet incloïa quatre mapes: dod_anzio, dod_avalanche, dod_donner i dod_flash. Amb el pas dels mesos, han anat sortint nous mapes per part de Valve, amb noves modalitats de joc; un d'ells, dod_#argentan, va ser afegit a l'actualització del 30 novembre de 2005, i ràpidament es va fer popular entre els jugadors. El 26 de gener de 2006 es va afegir un [[remake]] del mapa dod_kalt, adaptació del DoD, augmentant així el nombre de mapes a 6. L'esment merescut tenen els vídeos que ha tret Valve per promocionar els seus últims mapes, en els quals, amb seqüències del joc, han realitzat 3 vídeos que gens han d'envejar a una pel·lícula i que es poden trobar en cercadors de vídeo amb els títols de Prelude to Victory, Jagd o Satisfer. És d'agrair també que hagi persones que es dediquin a realitzar mapes ''custom'' per al Day of Defeat. Algunes són adaptacions de mapes del DoD antic. Uns altres, invencions totalment noves i de gran [[jugabilitat]]. Tots amb la mateixa finalitat, aconseguir que el jugador es passi hores divertint-se.
+
+== Tecnologies utilitzades ==
+Day of Defeat: Source va ser el primer videojoc a implementar l'efecte de [[High Dynamic Range]] (HDR) (després utilitzat pel Counter-Strike: Source, Half-Life 2: Lost Coast, i Half-Life 2: Episode One). Valve va incloure també altres efectes després del seu llançament amb l'objectiu de fer lluir el joc més com una pel·lícula de la [[Segona Guerra Mundial]]. Aquests sons: [[motion blur]], depth of field ([[profunditat de camp]]), gra de pel·lícula i correcció de color. 
+
+== [[Jugabilitat]] ==
+En unir-se al servidor, el jugador tria un equip per jugar-hi encara siguin els aliats de la Segona Guerra Mundial o la Wehrmacht (Forces Aliades Germanes). Després d'això, ha de triar una classe; les disponibles són: Fussiler, Assalt, Reforç, Franctirador, Metrallador o Coet. Alguns servidors poden limitar el nombre de jugadors de cada classe, usualment per a prevenir l'abús de franctiradors o metralladors; també alguns servidors tenen l'opció d'elecció aleatòria de classes. Una vegada que es té la classe, el jugador comença en un punt predeterminat del mapa, i ha de barallar pel control dels objectius. Si mor, per a tornar a batalla ha d'esperar a la pròxima onada de reforços, que pren entre 5 i 15 segons depenent del mapa i la quantitat de jugadors que hi ha. Qualsevol company d'equip que mor amb ell sofreix la mateixa destinació i ha d'esperar també. El jugador també té la possibilitat de canviar de classe i inclusivament d'equip mentre espera els reforços. És possible fer-ho mentre s'està viu, però fer-ho augmenta el compte de morts del jugador. 
+
+Comparat amb altres [[FPS]], ''Day of Defeat: Source'' permet al jugador només una petita quantitat de vida; el que fa que en ser arribat per un sol tir resulti en la mort. En ser disparat en el cap amb qualsevol arma causa la mort. És per això que els jugadors han de cobrir-se entre si i utilitzar el treball en equip per a arribar a la victòria. 
+
+Totes les armes del joc tenen límits fets dintre de la realitat. Per exemple les metralladores pesants han de ser plantades abans d'utilitzar-les o es perd totalment el control de l'arma, el coet ha de recolzar en el muscle abans de disparar (el jugador es mou més lent i és més vulnerable en aquest període), el franctirador perd precisió sinó utilitza la mira telescòpica, i a les granades cal treure-li la clau de seguretat abans de llançar-les. Cuinar una granada per més de 5 segons causarà que exploti a la mà del jugador, matant-se ell mateix i qualsevol que estigui al seu al voltant, incloent els seus aliats si el servidor té activat el foc amic. 
+
+== Modes de joc ==
+
+Fins al moment hi ha dos modes de joc al Day of Defeat: Source. Aquests són control de territori i detonació. 
+
+'''Control de territori''' 
+
+L'objectiu en un mapa d'aquesta modalitat és mantenir cada punt estratègic, marcat per banderes a cada lloc. Aquests punts són capturats per una certa quantitat de jugadors (normalment un o dos) que s'hi situen per una certa quantitat de temps evitant que algun jugador enemic estigui en aquesta àrea. Si l'enemic ho fa, el procés de captura s'atura fins que aquest surti. Una vegada que la captura es completa, la bandera canviarà al color de l'equip que l'obtingui. La zona es manté, però l'equip enemic pot obtenir-la fent exactament el mateix. Mentre es manté la bandera, amb el temps, l'equip que manté la bandera suma punts. Capturar tots els punts, o capturar altres objectius designats que no específicament han de ser banderes, constitueix la captura total del mapa, o full, el que conseqüentment reinicia la ronda i atorga una important suma de punts per a l'equip guanyador. 
+
+'''Detonació''' 
+
+L'objectiu en un mapa de detonació de ''Day of Defeat: Source'' és detonar dos explosius a cada objectiu enemic (normalment tancs i altres vehicles). En alguns mapes s'ha de fer alhora que es defensa els propis objectius, mentre que en uns altres s'ha de defensar o atacar però no els dos alhora. En aquesta últim mode es compta amb un temps límit per a produir les detonacions, passat el qual l'equip defensor obté la victòria.
+
+=== Classes i armes ===
+[[Fitxer:DoDS Class Selection.jpg|thumb|El menú de selecció d'armes]]
+div align=center
+{| class=wikitable style=text-align:center; align=center
+|-
+! Classe
+! Exèrcit dels Estats Units
+! Wehrmacht
+|-
+! Fussiler
+| [[M1 Garand rifle|M1 Garand]]br /[[granada de rifle|x2 granades de rifle]]br /[[ganivet|M1918 ganivet]]
+| [[Karabiner 98k|Mauser Karabiner 98 Kurz]]br /[[granada de rifle|x2 granades de rifle]]br /Pala
+|-
+! Assalt
+| [[Thompson submachine gun|M1A1 Thompson]] (amb puny)br /[[M1911 pistola Colt|Colt M1911A1]]br /[[Granada de mà|MkIIA1 granada de fragmentació]]br /[[granada de fum|M18 granada de fum]]
+| [[MP40|Maschinenpistole 40]] (amb puny)br /[[Walther P38]]br /[[Model 24 granada|Stielhandgranate 24]]br /[[Model 24 granada|Stielhandgranate 24 Fum]]
+|-
+! Reforç
+| [[M1918 Browning Automatic Rifle|M1918A2 Browning Automatic Rifle]]br /[[Granada de mà|x2 MkIIA1 granades de fragmentació]]br /[[ganivet|M1918 ganivet]]
+| [[Sturmgewehr 44]]br /[[Model 24 granada|x2 Stielhandgranaten 24]]br /Pala
+|-
+! Franctirador
+| [[M1903 Springfield rifle|Springfield M1903A4]]br /[[M1911 pistola Colt|Colt M1911A1]]br /[[ganivet|M1918 ganivet]]
+| [[Karabiner 98k|Mauser Karabiner 98 Kurz]] (amb punt de mira)br /[[Walther P38]]br /Pala
+|-
+! Metrallador
+| [[M1919 Browning machine gun|Browning M1919A6]]br /[[M1911 pistola Colt|Colt M1911A1]]br /[[ganivet|M1918 ganivet]]
+| [[MG42|Maschinengewehr 42]]br /[[Walther P38]]br /Pala
+|-
+! Coet
+| [[Bazuca|M9A1 Bazuca]]br /[[M1 carabina|M1 Carbine]]br /[[ganivet|M1918 ganivet]]
+| [[Panzerschreck|Panzerschreck RPzB 54]]br /[[Mauser C96|Mauser M1932 C96]] (totalment automàtic)br /Pala
+|}
+div align=left
+
+== Canvis i millores pel que fa a ''Day of Defeat'' v1.3 ==
+
+''Day of Defeat: Source'' té canvis menors respecte a la jugabilitat de ''Day of Defeat''. La majoria dels canvis són visuals o aquells realitzats per a promoure el joc en equip.
+
+=== Equipament especialitzat ===
+Aquesta nova versió de [[Day Of Defeat]] ha canviat respecte a l'equipament de cada classe buscant equiparar avantatges i desavantatges a cadascuna d'elles. El més clar exemple és el de la classe de fussiler. Al ''Day of Defeat'' original, els fussilers estaven equipats amb pistola i tenien també la possibilitat de colpejar amb la culata. El que els donava una bona quantitat de variants en enfrontar-se a l'enemic podent-lo fer a distància o combat cos a cos. Al ''Day of Defeat: Source'', el fussiler no carrega arma secundària, i en lloc del cop de culata ara té la possibilitat d'usar la mira de l'arma. També, en lloc de granades de fragmentació normals, aquesta classe està equipada amb dues granades de rifle. Aquestes granades es carreguen a la punta del rifle el que permet llançar-les amb molta major velocitat, distància i precisió que les granades de mà; i el seu desavantatge és que en carregar la granada pren una considerable part de temps el que en alguns casos pot causar la mort. És per això que el jugador que trii aquesta classe ha de prioritzar el combat a distància i evitar el contacte proper amb l'enemic. Canvis similars es van produir en altres classes; això redueix en gran mida la possibilitat que una classe sigui la dominant (i per tant la més usada) en el joc. 
+
+=== Físiques en temps real ===
+Des de la creació del motor Source, Valve l'ha implementat en els seus videojocs més recents, el primer d'ells va ser [[Counter Strike: Source]]. Com tots ells, compten amb el suport d'una nova i molt millor versió del motor de físiques [[Havok]]. 
+
+Dintre del joc, el motor atorga al jugador la possibilitat de modificar l'entorn que l'envolta per a obtenir una posició més favorable, com es faria en una guerra real. Moure mobles per a tapar una porta, o girar una taula per a usar-la com suport per a la metralladora pesant són solament un exemple de com el jugador pot obtenir avantatge d'aquest motor. Inclusivament el casc vola i surt acomiadat davant una explosió propera, o serveix de protecció d'un tir en el cap, per a després caure al pis i que rodi el més realista possible. Així també el cos dels soldats té moviments summament reals. 
+
+=== Simulació d'àudio dinàmica ===
+
+''Day of Defeat: Source'' introdueix un sistema d'àudio que va ser utilitzat solament per NPC's a ''[[Half-Life 2]]''. ''Day of Defeat: Source'' és el primer que va jugar Source multijugador en utilitzar aquest sistema d'àudio. Cada so vària depenent de la distància o objectes o parets que el puguin disminuir, els quals són processats i després enviats al jugador. 
+
+== Videojoc Online ==
+
+Day of Defeat: Source és un [[videojoc]] multijugador online, per tant el seu contingut varia lleugerament a cada servidor, incloent mapes personalitzats i canvis administratius, el Mani admin plugin és un dels més populars. Com en molts altres videojocs en línia, ''Day of Defeat: Source'' atrau als jugadors a la formació del seu [[clan]]. Existeixen lligues en les quals clans experts competeixen entre si, aquests clans solen posseir el seu servidor propi, que utilitzen de manera privada. Molts altres servidors són públics, per tant accessible per a tots aquell que posseeixin el joc. 
+
+'''Lligues''' 
+
+Al Day of Defeat: Source, existeixen lligues especials en les quals es competeix. Una de les més conegudes és la CAL, o Cyberathlete Amateur League (Lliga de Ciberatletes Novells). CAL és la divisió de novells de CPL, o Cyberathlete Professional League (Lliga de Ciberatletes Professionals). ''Day of Defeat: Source'' és encara un joc jove en matèria de lligues, especialment comparat amb altres jocs de la popularitat de Counter-Strike i Quake III. No obstant això, la bona venda del joc sumada al traspàs de jugadors des del DoD original a aquesta nova versió estan fent que la comunitat dodera creixi aviat. Igualment important és ressaltar la feina dels diferents servidors públics. Existeixen una gran quantitat de servidors de moltes nacionalitats diferents.
+
+== Enllaços externs ==
+Llocs oficials (en anglès):
+*[http://www.dayofdefeat.com/ web oficial del videojoc]
+*[http://dayofdefeat.com/stats/ estadístiques oficials]
+*[http://www.valvesoftware.com/ pàgina web de Valve Software]
+*[http://www.steampowered.com/ lloc web oficial d'Steam]
+*[http://www.caleague.com/ Cyberathlete Amateur Division]
+*[http://www.thecpl.com/ Cyberathlete Professional Division]
+Llocs no oficials (en anglès):
+*[http://www.dodirectory.com/ ''Day of Defeat'' fitxers] - Pàgina amb mapes autoconfigurats i més 
+*[http://www.fpsbanana.com/games/10 FPS Banana] - Molts fitxers per modificar l'apariència del DoD:S com també mapes ''custom''.
+
+
+{{ORDENA:Day Of Defeat: Source}}	!--ORDENA generat per bot--
+{{Enllaç AB|en}}
+{{Enllaç AB|pl}}
+
+[[Categoria:Valve Corporation]]
+[[Categoria:Videojocs d'acció en primera persona]]
+
+[[de:Day of Defeat#Day of Defeat: Source]]</text>
+      <sha1>3vqdorb554c8ygus97q91u8zjpri9gw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

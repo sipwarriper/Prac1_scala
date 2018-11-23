@@ -1,0 +1,126 @@
+<page>
+    <title>Consolidated PBY Catalina</title>
+    <ns>0</ns>
+    <id>1115862</id>
+    <revision>
+      <id>13775773</id>
+      <parentid>13696792</parentid>
+      <timestamp>2014-07-10T01:46:04Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Consolidated PBY Catalina]]</comment>
+      <text>{{Fitxa d'aeronau
+ |nom = PBY Catalina
+ |tipus = Hidroavió de patrulla martítima
+ |fabricant = {{EUA}} [[Consolidated Aircraft]]
+ |imatge = Fitxer:PBY Catalina landing.jpg
+ |peu de foto = PBY-5 aterrant
+ |dissenyador = Isaac M. Laddon
+ |primer vol = [[28 de març]] de [[1935]]
+ |introduït = octubre de 1936
+ |retirat = gener de 1957
+ |estat = 
+ |usuari = {{EUA}} [[United States Navy]]
+ |altres usuaris = 
+ |producció = 1936–1945
+ |unitats construides = 3.305 (3.281 als EUA,refLegg 2002, p. 285./ref 24 a l'URSSrefLegg, David. [http://groups.yahoo.com/group/PBY/message/41469 PBY: A retrospective on PBY bows.] ''Yahoo groups: PBY Catalina / Canso''. Retrieved: 30 March 2013./ref)
+ |cost unitari = 90.000 dòlars del 1935
+ |variants amb el seu propi article = 
+}}
+
+El '''Consolidated PBY Catalina''' va ser un [[hidroavió]] militar dissenyat als [[Estats Units d'Amèrica]] per [[Consolidated Aircraft]] la dècada de 1930. Va ser un dels hidroavions més utilitzats durant la [[Segona Guerra Mundial]], tant amb els Estats Units com amb diverses marines dels aliats.
+
+==Variants==
+===Variants per la Marina dels Estats Units===
+{| class=wikitable
+! style=text-align: left; width: 4em; border-bottom: 2px solid #aaa; | Model
+! style=text-align: left; border-bottom: 2px solid #aaa; | Període de producció i distincions
+! style=text-align: center; border-bottom: 2px solid #aaa; | Quantitat
+|-
+| valign=top | PBY-1
+| valign=top | Setembre 1936 a juny de 1937 br/ Model original de producció.
+| valign=top style=text-align: center; | 60
+|-
+| valign=top  | PBY-2
+| valign=top | Maig 1937 a febrer de 1938 br/ Petits canvis a l'estructura de la cua, reforços estructurals.
+| valign=top style =text-align: center; | 50
+|-
+| valign=top | PBY-3
+| valign=top | Novembre 1936 a agost de 1938 br/ Motors de major potència.
+| valign=top style=text-align: center; | 66
+|-
+| valign=top | PBY-4
+| valign=top | Maig 1938 a juny de 1939 br/ Motors de major potència, cons a les [[hèlix]]s, cobertes bombades de vidre acrílic a les obertures laterals posteriors (alguns models del final de la sèrie).
+| valign=top style=background: #efefef; text-align: center; | 32
+|-
+| valign=top | PBY-5
+| valign=top | Setembre 1940 a juliol de 1943 br/ Motors de major potència (utilitzant combustible de major octanatge), es deixen d'instal·lar cons d'hèlix, metralladores laterals estandarditzades. Durant aquesta sèrie s'introdueixen els tancs de combustible auto-segellants.
+| valign=top style=text-align: center; | 684
+|-
+| valign=top | PBY-5A
+| valign=top| Octubre 1941 a gener de 1945 br/ Model amfibi ja que incorpora un [[tren d'aterratge]] tipus tricicle i d'accionament hidràulic. S'introdueix una metralladora i artiller de cua, posició de defensa de proa millorada amb una [[torreta]] amb 2 metralladores de calibre .30 polzades. També millora el blindatge i els dipòsits auto-segellants.ref name=janesBridgeman 1946, p. 218./ref
+| valign=top style=background: #efefef; text-align: center; | 802
+|-
+| valign=top | PBY-6A
+| valign=top | Gener 1945 a maig de 1945 br/Incorpora canvis del PBN-1 Nomad,ref name=janes/ incloent un estabilitzador vertical més gran, ala reforçada per millora la capacitat de càrrega, nou sistema elèctric, torreta de proa millora i [[radar]] ubicat sobre la cabina de vol.
+| valign=top style=text-align: center; | 175
+|}
+
+==Especificacions (PBY-5A)==
+[[File:PBY-6A BuAer 3 side view.jpg|thumb|300px|Diagrama amb les projeccions del PBY Catalina.]]
+{{especificacions aeronau
+|ref=''Encyclopedia of World Air Power''refGunston, Bill, ed. ''Encyclopedia of World Air Power.'' London: Aerospace Publishing Ltd, 1981. ISBN 0-517-53754-0./ref ''Jane's Fighting Aircraft of World War II''ref name=janes/ ''Handbook of Erection and Maintenance Instructions for Navy Model PBY-5 and PBY-5A Airplanes''.ref''Handbook of Erection and Maintenance Instructions for Navy Model PBY-5 and PBY-5A Airplanes''./ref ''and'' Quest for PerformancerefLoftin, L.K. Jr. [http://www.hq.nasa.gov/pao/History/SP-468/cover.htm Quest for Performance: The Evolution of Modern Aircraft.] ''NASA SP-468.'' Retrieved: 18 June 2010./ref
+|plane or copter?=plane
+|jet or prop?=prop
+|crew=10 — pilot, copilot, navegador,  enginyer de vol, operador de ràdio, operador de radar, artiller de proa, 2 artillers laterals, artiller ventral
+|span main=31,70 m
+|length main=19,46 m
+|height main=6,15 m
+|area main=130 m²
+|empty weight main=9.485 kg
+|max takeoff weight main=16.066 kg
+|engine (prop)=[[Pratt  Whitney R-1830]]-92 Twin Wasp
+|type of prop=[[motor radial]]
+|number of props=2
+|power main=1.200 CV
+|power alt=895 kW cadascun
+|max speed main=314 km/h
+|cruise speed main=201 km/h
+|climb rate main=5,1 m/s
+|ceiling main=4.000 m
+|range main=4.030 km
+|loading main=123,6 kg/m²
+|power/mass main=0,056 kW/kg
+|armament=
+:2 [[metralladora M2 Browning|metralladores M2]] de calibre 12,7 mm als muntatges defensius laterals.
+:3 [[metralladora|metralladre]] M1919 Browning de calibre 7,62 mm, dues en la [[torreta]] de proa i una en una portella ventral
+: Fins a 1.814 kg de [[bomba (arma)|bombes]], [[càrrega de profunditat|càrregues de profunditat]]) o [[torpede]]s.
+}}
+
+==Referències==
+{{referències}}
+
+== Bibliografia ==
+*Legg, David. ''Consolidated PBY Catalina: The Peacetime Record''. Annapolis, Maryland: US Naval Institute Press, 2002. ISBN 1-55750-245-5.
+
+==Enllaços externs==
+{{Projectes germans|commons=PBY Catalina}}
+*[http://www.scribd.com/doc/69424602 (1945) AN 01-5M-3 Handbook of Structural Repair for Navy Models PBY-5, PBY-5A, PBY-6A Army Model OA-10 Airplanes]
+*[http://www.catalinaaircrafttrust.com/ Catalina Aircraft Trust]
+*[http://books.google.com/books?id=xdYDAAAAMBAJpg=PA19dq=Popular+Mechanics+February+1943+New+Magic+From+Test+Tubeshl=enei=4W6QTNzUDtH2nAeJvPm0DAsa=Xoi=book_resultct=book-thumbnailresnum=2ved=0CDMQ6wEwAQ#v=onepageqf=true ''Popular Mechanics'', February 1943, '' Here Comes The Cats ''] Article detallat sobre el PBY Catalina
+*[http://www.catalina.org.nz/index.htm Pàgina sobre els Catalina de Nova Zelanda]
+*[http://www.daveswarbirds.com/blackcat/ Black Cats: PBY Catalina de la U.S. Navy en combat al Pacífic durant la Segona Guerra Mundial]
+*[http://zingo.typepad.com/couleur_alentejo/2006/03/naissance_dun_p.html {{Fr}} ''Naissance d'un PBY 6A Catalina Calypso'' (Bateig del PBY 6A Catalina ''Calypso'')]
+*[http://www.catalina.org.uk The Catalina Society (Plane Sailing) al REgne Unit]
+*[http://www.michaelprophet.com/News_articles/PBY_CAT.html Imatges d'hidroavions Catalina]
+
+
+[[Categoria:Avions militars dels Estats Units]]</text>
+      <sha1>5lcv0s819vsr6e7of5n7oymv4x86wgp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

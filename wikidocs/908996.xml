@@ -1,0 +1,278 @@
+<page>
+    <title>Glosa (llengua auxiliar)</title>
+    <ns>0</ns>
+    <id>908996</id>
+    <revision>
+      <id>13651149</id>
+      <parentid>13551711</parentid>
+      <timestamp>2014-06-23T12:26:59Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>'''Glosa''' és una [[llengua auxiliar]] internacional basada en la llengua auxiliar [[Interglossa]]. Fou desenvolupada per Ron Clark i Wendy Ashby, si bé inicialment va comptar amb una certa col·laboració de [[Lancelot Hogben]], creador d'Interglossa. Glosa és una [[llengua aïllant]], lliure de [[flexió gramatical]], de manera que cada paraula té una forma original invariable. Les funcions gramaticals són realitzades per una sèrie de paraules especials, o bé per una certa co-ordinació de les paraules ([[sintaxi]]).
+
+==Història==
+La llengua auxiliar Glosa està basada en la llengua [[Interglossa]]ref name=HogbenHogben, Lancelot (1943). . [https://sites.google.com/site/interglossa1943/home ''Interglossa. A draft of an auxiliary for a democratic world order, being an attempt to apply semantic principles to language design''] Harmondsworth, Middlesex, Eng. / New York: Penguin Books. OCLC 1265553./ref dissenyada pel científic [[Lancelot Hogben]] durant la [[Segona Guerra Mundial]]. El manual fou publicat l'any 1943 com ''un esborrany d'una llengua auxiliar'' (del títol original, ''Interglossa: A draft of an auxiliary'').
+
+Ron Clark va descobrir el manual d'Interglossa sobre l'any 1960.ref name=GEOGlosa Education Organisation (GEO) (2006). History behind Glosa. [http://www.glosa.org/en/history.pdf (pdf) ], p. 7./ref Va reunir-se amb Hogben amb la intenció de reformar el llenguatge, i facilitar el seu ús en totes les formes possibles de comunicació. Wendy Ashby va unir-se al projecte l'any 1972. Quan Hogben va morir el 1975, la majoria de canvis ja havien sigut discutits. Hogben i Clark havien acordat que el llenguatge hauria d'escriure's de manera [[fonètica]] (això és: cada lletra representant un sol so). Aquest principi implicava que els dígrafs CH, TH i PH ara s'escriurien K (o C), T i F.
+
+Finalment alguns canvis addicionals foren introduïts per Ron Clark i Wendy Ashby, que aleshores van donar al llenguatge el nou nom ''Glosa'' (''llengua'' en grec), i així van fundar una nova llengua auxiliar.,ref name=GEO / p. 7.
+
+Fins al 1979 aproximadament, Ashby i Clark van comprovar l’ús pràctic de Glosa amb voluntaris. Durant aquest període, el vocabulari i alguns detalls sobre formació de frases foren revisats. Finalment van publicar un primer diccionari de Glosa.
+
+Des de 1987, l’organització de caritat GEO (''Glosa Education Organisation'') ha promogut l’ensenyament de Glosa com a segona llengua en escoles de tot el món. La pàgina web oficial de GEO fou establerta per Paul O. Bartlett l’any 1996, i en el present és administrada per Marcel Springer.
+
+===Història incompleta===
+En la història que relata la web oficial de Glosa,ref name=GEO / no hi ha informació sobre quines reformes foren consensuades amb Hogben, i quines no. S’afirma que després de la defunció de Hogben “''alguns canvis trivials foren introduïts''”, però no s’especifiquen.
+Mentre la Interglossa de Hogben estava explícitament basada en la llengua auxiliar [[Basic English]], Glosa tendeix a funcionar com l’anglès normal. Principalment: mentre Interglossa funciona amb un nombre reduït de verbs essencials (fins a 20), que Hogben anomena “verboides” o “operadors verbals”, Glosa funciona sense aquesta classe especial de paraules. Així la qüestió torna a ser si aquest canvi forma part dels acords inicials Clark-Hogben, o més aviat dels canvis posteriors de Clark i Ashby.
+
+==Alfabet i fonologia==
+center
+{|class=wikitable style=text-align:center; table-layout:fixed
+|- 	 
+| colspan=29 | Lletres [[majúscules]]
+|-
+|width=1%| [[A]] ||width=1%| [[B]] ||width=1%| [[C]] ||width=1%| [[D]] ||width=1%| [[E]] ||width=1%| [[F]] ||width=1%| [[G]] ||width=1%| [[H]] ||width=1%| [[I]] ||width=1%| [[J]] ||width=1%| [[K]] ||width=1%| [[L]] ||width=1%| [[M]] ||width=1%| [[N]] ||width=1%| [[O]] ||width=1%| [[P]] ||width=1%| [[Q]] ||width=1%| [[R]] ||width=1%| [[S]] ||width=1%| [[T]] ||width=1%| [[U]] ||width=1%| [[V]] ||width=1%| [[W]] ||width=1%| [[X]] ||width=1%| [[Z]] ||width=1%| SC 
+|- 	
+| colspan=29 | [[Minúscules]]
+|-
+|a||b||c||d||e||f||g||h||i||j||k||l||m||n||o||p||q||r||s||t||u||v||w||x||z||sc
+|- 	
+| colspan=29 | [[Fonemes]] de l'[[alfabet fonètic internacional]]
+|-
+|a||b||tʃ||d||e||f||g||[h]||i||j||k||l||m||n||o||p||qsupw/sup||r||s||t||u||v||w||ks||z||ʃ
+|}
+/center
+
+==Sintaxi==
+A Glosa, les paraules conserven sempre una forma original, independentment de la seva funció en la frase. Així, la mateixa paraula pot funcionar com a [[verb]], [[substantiu]], [[adjectiu]] o [[preposició]]. Les funcions [[gramàtica|gramaticals]] són realitzades per un nombre limitat de paraules especials, o bé per una certa co-ordinació de les paraules (sintaxi). La seqüència Subjecte + Verb (+ Objecte) és la manera general d’expressar la frase. Les partícules de temps i els adverbis precedeixen als verbs. De fet la majoria de paraules poden actuar com a verbs, si estan clarament ubicades després del subjecte i/o abans de l’objecte. Els adjectius generalment precedeixen als substantius.
+
+Habitualment es compara Glosa a dos idiomes naturals que són analítics en diferents graus, el [[xinès]] i l’anglès:
+
+{{cita|Glosa is interesting among conlangs in that it is a completely analytic language: there are no inflections for noun plurals, verb tenses, genders, and what-not. Somewhat as in English, a word may be used as more than one part of speech.
+
+[''Traducció:'' ] Glosa és interessant entre les llengües construïdes en el fet de ser completament analítica: no hi ha flexions per a noms plurals, temps verbals, gèneres, etc. Un poc com en anglès, una paraula pot ser usada com a diverses parts del discurs.|Paul Bartlett. Critiques of individual planned languages.refBartlett, Paul O. [http://www.panix.com/~bartlett/ial.html «Critiques of individual planned languages» ]. Actualitzat: 30-11-2005./ref}}
+
+==Lèxic==
+Si bé la llengua Glosa s’escriu amb l’[[alfabet llatí]] modern, el lèxic es compon de paraules [[llengua llatina|llatines]] i [[grec|gregues]].
+
+En principi, les paraules gregues s’adopten en la forma de la transcripció llatina tradicional. Però hi ha certes simplificacions, ja que es suprimeixen les dobles consonants (excepte la moderna SC /ʃ/). Les regles de pronunciació són relativament simples i regulars: hi ha tres consonants especials (Q /qsupw/sup/, X /ks/, H /h/ o muda); i hi ha dos vocals que ocasionalment adopten valor consonàntic abans d’una altra vocal (I /j/, U /w/).
+
+En general, les paraules d’origen llatí adopten una certa vocal final característica, si bé hi ha excepcions.
+center
+{| class=wikitable style=text-align:center
+! colspan=3 | '''Paraules d’origen llatí'''
+|-
+! Desinència llatina || Final en Glosa || Exemple
+|-
+| -a, -ae || -a || aqa (''aigua'')
+|-
+| -us, -i || -us || katus (''gat'')
+|-
+| -um, -i || -a || ova (''ou'')
+|-
+| -is, -is || -i || pani (''pa'')
+|-
+| -o, -onis || -o || natio (''nació'')
+|-
+| -us, -us || -u || manu (''mà'')
+|-
+| -o, -are || -a || vora (''menjar'')
+|-
+| -o, -ere || -e || bibe (''beure'')
+|-
+| -io, -ire || -i || veni (''venir'')
+|-
+|}
+
+{| class=wikitable style=text-align:center
+! colspan=3 | '''Paraules d’origen grec'''
+|-
+! Desinència grega || Final en Glosa || Exemple
+|-
+| -α, -ης || -a || glosa (''llengua'')
+|-
+| -α, -ατος || -a || soma (''cos'')
+|-
+| -ος, -ου || -o || bio (''vida'')
+|-
+| -ιος, -ίου || -i || heli (''sol'')
+|-
+| -ον, -ου || -a || zoa (''animal'')
+|-
+| -ω, -ειν || -o || grafo (''escriure'')
+|-
+|}
+/center
+
+==Accent i flexió vocal==
+Com a norma general, l’[[accent prosòdic|accent]] sona sobre la vocal immediatament anterior a l'última consonant.
+Com en espanyol i altres llengües, generalment sona una espècie d’inflexió tonal ascendent davant d’una [[coma (puntuació)|coma]], [[punt i coma]], o [[signe d’interrogació]]. I sona una espècie d’inflexió tonal descendent abans d’un [[punt (signe)|punt]].
+
+==Puntuació==
+:El [[punt (signe)|punt]] acaba la frase. Igualment el [[signe d’interrogació]], [[?]], i el [[signe d’exclamació]], [[!]].
+:El [[punt i coma]] separa la frase subordinada de la principal.
+:La [[coma (puntuació)|coma]] separa els elements d’una llista.
+
+==Pronoms personals==
+:mi (''jo, -me''), tu (''tu, -te''), vi (''vosaltres, -vos''), an[''dro''] (''ell, -lo''), fe[''mina''] (''ella, -la''), it (''això, allò, -ho, -lo''), pe[''rsona''] (''un, algú''), na (''nosaltres, -nos''), mu[''lti''] (''ells, -los''), se (''un mateix'').
+
+==Tipus de paraules==
+Glosa conté dos grups principals de paraules:
+
+:Partícules: un nombre reduït de paraules que realitzen funcions bàsiques referides a relacions entre conceptes. Es tracta bàsicament de preposicions i conjuncions, tals com: de (''de''), e (''i''), pre (''abans, abans de''), supra (''a sobre, a sobre de''), sub (''a sota, a sota de''), etc.
+
+:Noms: paraules cada una de les quals pot representar una cosa concreta, i/o acció, i/o qualitat abstracta. Cada paraula pot tenir múltiples significats, segons com s’utilitzen en una frase (com a substantiu, com a adjectiu, com a verb, etc.) per exemple: ''oku'' pot significar: ''ull'', ''ocular'', ''òptic'', ''ullar'', ''mirar'', etc.
+
+A Glosa s’utilitzen gran nombre de paraules compostes, per a reduir al mínim la càrrega de paraules bàsiques a memoritzar. Algunes paraules tenen una versió abreujada per a facilitar aquest procés.
+*stude (''estudiar, estudi'') + pe[rsona] (''persona'') = stude-pe (''persona que estudia, estudiant'').
+*stude + do[mi] (''casa; domèstic'') = stude-do (''casa d’estudi, escola, biblioteca, etc.'')
+*pato (''patologia, malalt'') + do[mi] = pato-do (''casa de malalts, hospital'').
+
+==Adjectius==
+Generalment els adjectius precedeixen a la paraula que qualifiquen. Així mateix succeeix amb els nombres cardinals i amb els pronoms possessius.
+* Mi fu lekto u boni bibli. = Jo llegiré un bon llibre.
+* Mi fu lekto bi bibli. = Jo llegiré dos llibres.
+* Mi fu lekto mi bibli. = Jo llegiré el meu llibre.
+La principal excepció, la formen els nombres ordinals:
+* Mi fu lekto bibli bi. = Jo llegiré el llibre número dos, el segon llibre.
+
+==Partícules gramaticals==
+El diccionari principal de Glosa Glosa Inter-reti Diktionaria (bilingüe anglès-Glosa  Glosa-anglès),)refW. Ashby, P. Bartlett, R. Clark, C. Ganson, R. Gaskell, N. Hempshall, G. Miller, W. Patterson, K. Smith, M. Springer. Glosa Inter-reti Diktionaria. Glosa Internet Dictionary. [http://www.glosa.org/gid/gid.pdf (pdf) ] Actualitzat: 5-11-2009./ref aporta una llista de partícules essencials, sobre nombre, temps verbals, veu passiva, interrogació, comparació, i pronom relatiu. En la pàgina web de Glosa es troba una llista similar.
+
+center
+{| class=wikitable style=text-align:center
+! colspan=4 |
+|-
+| '''u(n)''' || un, una; el, la || '''u''' bibli || un llibre, el llibre
+|-
+| '''plu''' || diversos, -es; els, les || '''plu''' bibli || diversos llibres, els llibres
+|-
+| '''pa''' || (en el passat) || Fe '''pa''' vora. || Ella va menjar.
+|-
+| '''fu''' || (en el futur) || Fe '''fu''' vora. || Ella menjarà.
+|-
+| '''du''' || (durant aquest moment) || Fe '''du''' vora. || Ella està menjant.
+|-
+| '''du pa''' || (durant el passat) || Fe '''du pa''' vora. || Ella estava menjant.
+|-
+| '''nu''' || ara || Fe '''nu''' vora. || Ella ara menja.
+|-
+| '''nu pa''' || (fa un moment) || Mi '''nu pa''' vide fe. || La vaig veure fa un moment; Acabo de veure-la.
+|-
+| '''nu fu''' || (dintre d'un moment) || Mi '''nu fu''' vide fe.''' || La veuré dintre d'un moment; Estic a punt de veure-la.
+|-
+| '''pa fu''' || (des del passat en el futur) || Mi '''pa fu''' vora. || Jo anava a menjar.
+|-
+| '''fu pa''' || (en el futur, acció passada) || Mi '''fu pa''' akti id. || Jo hauré fet això.
+|-
+| '''si''' || si (condicional) || '''si''' fe vide an || si ella el veu.
+|-
+| '''sio''' || (en tal cas) || Mi ne '''sio''' ki. || En tal cas, jo no vaig; Jo no aniria.
+|-
+| '''ne''' || no || Fe '''ne''' pote vide id. || Ella no pot veure això.
+|-
+| '''qo-ra … ?''' || Quina cosa?; ¿Què? || Tu pa vide '''qo-ra'''? || Què has vist?
+|-
+| '''qe … ?''' || Que …? (qüestió de sí o no) || '''Qe''' tu pa vide? || (Que) has vist?
+|-
+| '''… qe?''' || … no es així? (qüestió de sí o no) || Tu pa vide id, '''qe?''' || Has vist això, no?
+|-
+| '''qo-ka …?''' || Per quina causa?; Per què? || '''Qo-ka''' tu akti id? || Per què fas això?
+|-
+| '''qo-te …?''' || Amb quina intenció?; ¿Per a què? || '''Qo-te''' tu akti id? || Per a què fas això?
+|-
+| '''qi …''' || que (pronom relatiu) || u gina ''', qi …''' || la dona, que …
+|-
+| '''gene''' || és … (veu passiva) || Id '''gene''' vide || Això és vist; Això es veu
+|-
+| '''ge-''' || que és … (participi passiu) || '''ge-'''vide || vist
+|-
+| '''no(n)-''' || in- (oposat) || '''non-'''alti || baix (no-alt)
+|-
+| '''se''' || si || lava '''se''' || rentar-se
+|-
+| '''auto''' || (un) mateix || Mi '''auto''' pa vide id. || Jo mateix vaig veure això.
+|-
+| '''iso …''' || tan(t) …; igual de … || '''iso''' mega de … || tan gran com …; igual de gran que …
+|-
+| '''ma …''' || més … || '''ma''' termo de … || més calent que …
+|-
+| '''maxi''' || (el/la) més; màxim || u '''maxi''' termo || el/la més calent
+|-
+| '''mei …''' || menys … || '''mei''' termo de … || menys calent que …
+|-
+| '''mini''' || (el/la) menys; mínim || u '''mini''' termo || el/la menys calent
+|-
+|}
+/center
+
+==Text de mostra==
+El [[Parenostre]]:
+
+{|class=wikitable
+|-
+|'''Versió en Glosa:'''
+|'''Text en grec:'''
+|'''Versió en català''' (amb [[doxologia]] final):
+|-valign=top
+|
+Na parenta in urani: br
+na volu; tu nima gene revero, br
+tu krati veni, br
+e tu tende gene akti, br
+epi geo homo in urani. br
+na volu; tu don a na nu-di na di-pani, br
+e tu pardo na plu mali akti, br
+metro na pardo mu; qi akti mali de na. br
+E na volu; tu ne dirige na a plu mali ofere, br
+sed tu libe na ab mali. br
+Ka tu tena u krati, u dina, e un eu-famo, br
+pan tem. br
+Amen.
+|
+Πάτερ ημών ο εν τοις ουρανοίς,br
+αγιασθήτω το όνομά Σου,br
+ελθέτω η Βασιλεία σου,br
+γενηθήτω το θέλημά σουbr
+ως εν ουρανώ και επί της γης.br
+Τον άρτον ημών τον επιούσιον δος ημίν σήμερον,br
+και άφες ημίν τα οφειλήματα ημών,br
+ως και ημείς αφίεμεν τοις οφειλέταις ημών.br
+Και μη εισενέγκης ημάς εις πειρασμόν,br
+αλλά ρύσαι ημάς από του πονηρού.br
+Ότι σου εστί η βασιλεία και η δύναμις και η δόξαbr 
+εις τους αιώνας.br
+Αμήν.
+|
+Pare nostre, que esteu en el cel:br
+Sigui santificat el vostre nom;br
+Vingui a nosaltres el vostre regne.br
+Faci's la vostra voluntat,br
+així a la terra com es fa en el cel.br
+El nostre pa de cada dia, doneu-nos, Senyor.br
+I perdoneu les nostres culpes,br
+així com nosaltres perdonem els nostres deutors;br
+I no permeteu que nosaltres caiguem en la temptació,br
+ans deslliureu-nos de qualsevol mal.br
+[Car vostre és el regne, el poder i la glòria,br
+per sempre.br
+Amén.
+|}
+
+==Referències==
+{{referències}}
+
+==Enllaços externs==
+* http://www.glosa.org/index.html
+* http://tech.groups.yahoo.com/group/glosalist/messages
+
+[[Categoria:Llengües artificials]]</text>
+      <sha1>l48wnfwnxoyvsnxoilpf5vqrqvbkpzc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

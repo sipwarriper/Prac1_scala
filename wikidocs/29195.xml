@@ -1,0 +1,174 @@
+<page>
+    <title>Làser</title>
+    <ns>0</ns>
+    <id>29195</id>
+    <revision>
+      <id>13813756</id>
+      <parentid>13517664</parentid>
+      <timestamp>2014-07-13T17:31:27Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{MF|data=febrer de 2014}} 
+{{FR|data=febrer de 2014}} 
+[[Fitxer:Przestrzen wolnosci harfa laserowa.jpg|thumb|300px|Làsers en un espectacle musical.]]
+El '''làser''' ([[acrònim]] anglès de ''Light Amplification by Stimulated Emission of Radiation'' «amplificació de llum per emissió estimulada de radiació») és una [[font de llum]] que utilitza un efecte quàntic, l'[[emissió estimulada]], per emetre un raig de llum [[coherència òptica|coherent]] i normalment d'alta monocromaticitat i direccionalitat. Aquestes propietats el diferencien d'altres fonts de llum habituals, que emeten sempre llum incoherent o de molt baixa coherència. El primer làser funcional va ser un làser de robí, creat per [[Theodore H. Maiman]] el [[1960]] en el [[laboratori Hughes]] de [[Malibú]], [[Califòrnia]], i des de llavors ha conegut un desenvolupament extraordinari, i s'ha introduït en nombroses aplicacions, des dels lectors de [[CD (disc)|CD]] o lectors de [[codi de barres]] fins a sofisticats experiments de recerca en física. Per extensió, la llum emesa per un làser s'anomena '''llum làser'''.
+
+== Principi de funcionament ==
+[[Fitxer:Esquema_HeNe_%28catala%29.PNG|thumb|right|350px|Esquema bàsic d'un làser (d'He-Ne). S'hi poden observar els elements bàsics: la cavitat ressonant amb els miralls i el medi actiu.]]
+Tot làser es basa en dos fenòmens físics que es produeixen gràcies a dos elements que el formen: un és el procés d'[[emissió estimulada]] que té lloc a l'anomenat '''[[medi actiu]]''' (el medi que provoca l'emissió làser) i l'altre el procés d'amplificació i interferència que té lloc a la '''[[cavitat ressonant]]'''.
+
+Quan un [[fotó]] interacciona amb un [[àtom]] es poden produir dos fenòmens: l'absorció o l'emissió estimulada. En el primer cas el fotó és absorbit per l'àtom i aquest augmenta la seva energia (un [[electró]] puja a un nivell energètic superior). En el segon cas l'àtom disminueix la seva energia (un [[electró]] baixa a un nivell energètic inferior) i emet un fotó d'[[energia]], [[longitud d'ona]], direcció i [[Fase (ona)|fase]] idèntiques a les del fotó incident, de manera que abans de la interacció teníem un fotó i després en tenim dos d'idèntics. En el medi actiu del làser s'aconsegueix, jugant hàbilment amb els nivells electrònics dels àtoms, que el procés d'emissió estimulada superi el procés d'absorció; aquesta situació s'anomena ''inversió de població'', és a dir, hi ha més àtoms en estats excitats que en estats de menor energia, de manera que si inicialment partim d'un sol fotó, després de passar a través del medi actiu n'haurem obtingut una quantitat considerable. Per aconseguir la inversió de població cal subministrar energia al medi actiu, procés que s'anomena ''bombament'' i s'aconsegueix amb una descàrrega elèctrica o llum (un flaix, un altre làser, etc.). 
+ 
+En aquest punt és on entra en joc la cavitat ressonant o [[interferòmetre]]. Aquesta consisteix, en la majoria de tipus més simples de làsers, simplement en dos miralls col·locats als extrems del medi actiu; un d'aquests miralls és perfectament reflector i l'altre deixa passar una certa quantitat de llum, aquesta part de la llum és precisament la que surt del làser, la que es pot veure i utilitzar. La importància dels miralls rau en el fet que si no hi hagués miralls el feix de llum que s'està amplificant només passaria una vegada per l'interior del medi actiu; en canvi, col·locant els miralls es confina el feix de llum i està obligat a realitzar un camí d'anada i tornada entre els miralls; a cada pas pel medi actiu el feix s'amplifica cada vegada més gràcies a l'emissió estimulada. Jugant hàbilment amb la distància entre miralls i la seva reflectivitat s'aconsegueix l'equilibri entre l'amplificació del feix i la pèrdua d'energia a través del mirall (la llum útil aprofitable que emet). El procés d'emissió làser pot resumir-se amb l'esquema que es presenta a continuació:
+# El bombament excita àtoms i ens crea inversió de població: més àtoms en estats excitats que en estats de menor energia.
+# Els àtoms retornen a un estat inferior d'energia per [[emissió espontània]], emetent fotons de qualsevol fase i en qualsevol direcció. La majoria d'aquests fotons es perden sense més efecte.
+# Algun dels fotons emesos surt aleatòriament en la direcció de l'eix de la cavitat ressonant i queda confinat pels miralls, viatjant endavant i endarrere per la cavitat.
+# En aquest viatge provoca l'[[emissió estimulada]] de nous fotons en interaccionar amb els àtoms del medi actiu (que recordem segueix en inversió de població a causa del bombament).
+# Les característiques de l'emissió estimulada ens asseguren que els nous fotons seran idèntics (en freqüència, en fase i en direcció) a l'original.
+# Els nous fotons s'afegeixen al procés iniciat pel primer fotó al pas 3.
+# La quantitat de fotons generada creix exponencialment fins que el ritme de creació s'equilibra amb les pèrdues de llum a través d'un dels miralls (la llum làser que surt de l'aparell i que podem aprofitar).
+# L'emissió espontània (aleatòria i omnidireccional) segueix tenint lloc, però és menyspreable comparada amb l'estimulada.
+
+=== Característiques de la llum làser ===
+Per la pròpia naturalesa del procés d'emissió de la llum (l'emissió estimulada), aquesta és d'una gran coherència (és a dir, totes les ones electromagnètiques emeses estan en fase). D'altra banda, el feix dins la cavitat i el feix que surt, si no es condueixen per [[guia d'ones|guies d'ones]] (com una [[fibra òptica]]), acostumen a ser feixos anomenats [[feix gaussià|gaussians]] (és a dir, la intensitat de llum des del centre del feix cap als seus extrems té forma de campana de Gauss) i tenen una divergència normalment molt petita (són molt col·limats, és a dir, «s'obren» molt poc); cal remarcar que no és possible crear un feix perfectament col·limat a causa de la difracció. Per exemple, un feix d'un [[làser d'heli-neó]] habitual divergeix fins a un diàmetre de 1,6 km a una distància de 350.000 km (aproximadament la distància de la Terra a la Lluna); en canvi, el feix d'un [[làser de semiconductor]] divergeix molt ràpidament en un angle considerable (fins a 50°).
+
+En general els làsers emeten llum molt monocromàtica, però alguns tipus de làsers, com els [[làser de colorants|làsers de colorants]] i alguns [[làser d'estat sòlid|làsers d'estat sòlid]] produeixen llum en un ampli espectre de longituds d'ona; això els fa ideals per a generar polsos de llum extremadament curts, que actualment han assolit l'ordre d'un femtosegon (10sup-15/sup segons). La monocromaticitat, malgrat ser habitual en molts làsers, no n'és una característica definitòria. També cal remarcar que, tot i que els làsers més habituals emeten [[llum visible]], també existeixen làsers d'[[infraroigs]] i d'[[ultraviolats]].
+
+=== Mode continu i mode polsat ===
+La intensitat de sortida del làser pot ser contínua (anomenada CW, ''continous wave'') o polsada, mitjançant tècniques com la [[commutació Q]] (''Q-switching''), la [[sincronització de modes]] (''mode-locking'') o la [[commutació de guany]] (''gain switching''). Per a una mateixa energia del làser, el funcionament polsat permet obtenir potències molt més elevades (recordem que la potència és energia dividida per temps, de manera que amb temps molt petits es poden assolir potències molt altes). Actualment, s'aconsegueixen polsos extremadament curts, de l'ordre del [[femtosegon]] (10sup-15/sup s).
+
+== Història i desenvolupament ==
+La base del làser, l'[[emissió estimulada]], fou establerta per [[Albert Einstein]] l'any 1926, quan derivà les equacions bàsiques per als processos d'interacció radiació-matèria (l'absorció, l'emissió estimulada i l'emissió espontània). Nogensmenys, la idea de combinar aquest procés amb una cavitat que l'amplifiqués no arribà fins després de la Segona Guerra Mundial.
+
+El [[1953]], [[Charles H. Townes]] i els estudiants James P. Gordon i Herbert J. Zeiger van produir el primer [[màser]], un aparell equivalent al làser però per produir microones i no llum visible. Aquest màser, però, no podia emetre radiació de forma continuada. Al mateix temps, [[Nikolai Bàssov]] i [[Aleksandr Mikhàilovitx Prókhorov]] solucionaren els problemes de l'emissió contínua i aconseguiren crear un estat d'inversió de població permanent. Townes, Bàssov i Prókhorov guanyaren el [[Premi Nobel]] el [[1964]]. A finals dels anys 1950 es començà a passar de les microones cap al visible, per intentar construir l'equivalent del màser per a la llum visible: el «màser òptic». El mateix Townes i [[Arthur Leonard Schawlow]], al mateix temps que l'equip soviètic de Bàssov estudiaren diverses aplicacions de nous nivells electrònics dels àtoms i nous dissenys de cavitats ressonants.
+
+Finalment, el primer làser funcional el dissenyà i construí el [[1960]] [[Theodore H. Maiman]] als laboratoris de recerca Hughes, a [[Malibú]], [[Califòrnia]], avançant-se als equips de Townes a la [[Universitat de Columbia]] i de Schawlow als laboratoris Bell. Maiman dissenyà un cristall de [[robí]] amb un bombament per flaix per produir una emissió làser vermella de 694 nm. Aquest làser, però, només podia funcionar en règim polsat. Més endavant, l'iranià Ali Javan, juntament amb William Bennet i Donald Herriot, construí el primer làser de gas utilitzant [[heli]] i [[neó]].
+
+La idea de làsers de semiconductors fou proposada per Bàssov i Javan, i el primer [[díode làser]] el construí Robert N. Hall el [[1962]]. El làser de Hall estava format per un díode d'arsenur de gal·li i alumini i emetia a 850 nm (en l'[[infraroig]] proper). Poc després apareixien els primers làsers de semiconductors d'emissió en el visible. Inicialment tots aquests làsers de semiconductors funcionaven en règim polsat; no fou fins al 1970 que aparegueren els primers en emissió contínua.
+
+La primera aplicació quotidiana dels làsers fou per a lectors de codis de barres, iniciada el [[1974]]. Posteriorment els lectors de [[CD (disc)|CD]], introduïts el [[1982]], foren els primers dispositius amb làser que es convertiren en un aparell domèstic a gran escala.
+
+=== Desenvolupaments recents ===
+El [[1992]] es va aconseguir per primera vegada l'emissió làser sense mantenir el medi actiu en condicions d'inversió de població, en un gas de [[sodi]], i una altra vegada el [[1995]] en un gas de [[rubidi]], per diversos equips de recerca internacionals. Això s'aconseguí utilitzant un màser extern per provocar transparència òptica en el medi introduint i interferint, de manera destructiva, transicions electròniques fonamentals entre dos estats, de manera que s'anul·lés la probabilitat d'absorció per als electrons fonamentals.
+
+Els objectius actuals en la tecnologia i recerca del làser passen per obtenir noves freqüències d'emissió (especialment a freqüències petites, com el blau, el violat i fins i tot l'[[ultraviolat]]), aconseguir polsos ultracurts, obtenir potències més elevades, tant en règim polsat com continu, i millorar l'eficiència (és a dir el quocient entre l'energia obtinguda i la subministrada a l'aparell).
+
+== Tipus de làsers ==
+[[Fitxer:Laser_DSC09088.JPG|thumb|right|275px|Un làser d'He-Ne. El gas està contingut al cilindre central, però la resplendor és produïda per la descàrrega elèctrica del bombament, ''no'' és el feix làser, que és de color vermell i es pot veure sobre la pantalla blanca i sobre la lent.br /{{mida|1=''Laboratori Kastler-Brossel. Universitat París VI.''}}]]Actualment existeix una gran diversitat de tipus de làsers, que es classifiquen bàsicament segons el tipus de medi actiu utilitzat. Els diferents medis actius permeten obtenir diferents longituds d'ona de la llum emesa, diferents amplades de banda, diferents potències o diferents graus de monocromaticitat, entre altres característiques. Els tipus més importants són els següents:
+
+* '''Làsers de gas''': el medi actiu és un gas. Molt habituals, com el làser d'He-Ne o el d'argó, presents en espectacles i discoteques. També el làser de COsub2/sub, que pot arribar a grans potències.
+** [[Làser d'heli-neó]] (543 nm i 633 nm)
+** [[Làser d'argó]] (458 nm, 488 nm o 514,5 nm)
+** [[Làser de diòxid de carboni]] (9,6 µm i 10,6 µm) fins a 100 kW, utilitzat en soldadura i metal·lúrgia.
+** [[Làser TEA]] (llum [[ultraviolat|ultraviolada]], 337,1 nm)
+** Làser de nitrogen
+** [[Làser de monòxid de carboni]], necessiten refrigeració, fins a 500 kW.
+
+* '''Làsers químics''': el medi actiu es bomba amb l'energia obtinguda de reaccions químiques.
+** Làser de iodur d'oxigen (1.315 nm)
+** [[Làser de fluorur d'hidrogen]] (2.700-2.900 nm)
+** Làser de fluorur de deuteri (3.800 nm)
+
+* '''[[Làser d'estat sòlid|Làsers d'estat sòlid]]''': el medi actiu es un sòlid. El primer làser construït, el de rubí, era d'aquest tipus.
+** Làser YAG [[Dopatge (semiconductor)|dopat]] amb [[neodimi]] o [[làser Nd:YAG|Nd:YAG]] (1.064 nm, es pot doblar en freqüència per donar 532 nm)
+** Làsers dopat amb [[iterbi]], com Yb:YAG, Yb:KGW, Yb:KYW, Yb:SYS, Yb:BOYS o Yb:CaF2 (al voltant de 1.020-1.050 nm) el Yb:YAG pot assolir altes potències en polsos ultracurts.
+** Làser YAG dopat amb [[erbi]] (1.645 nm i 2.940 nm)
+** Làser YAG dopat amb [[tuli]] (2.015 nm)
+** Làser YAG dopat amb [[holmi]] (2.097 nm) molt usat en medicina.
+** Làser de [[safir]] dopat amb [[titani]] o [[làser de titani-safir|làser de Ti:safir]], molt sintonitzable i usat en [[espectroscòpia]].
+** Làser de fibra dopat amb [[erbi]], a partir de [[fibra òptica|fibres òptiques]] i usat en telecomunicacions.
+
+* '''Làsers de semiconductor''': utilitzen les transicions electròniques en un [[díode]] semiconductor. Són els més abundants, s'utilitzen en els lectors de [[CD (disc)|CD]] i [[DVD]], lectors de [[codi de barres|codis de barres]], etc.
+** [[Díode làser|Diodes làser]] (entre 405 nm i 1.550 nm)
+** Làsers de cavitat externa.
+** [[VCSEL]] o làsers d'emissió vertical, la tecnologia encara està en fase de desenvolupament.
+** VECSEL, VCSEL de cavitat externa
+** Làsers de cascada quàntica
+
+* '''Làsers d'excímers''': làsers de gas que utilitzen molècules en estats excitats: Fsub2/sub (157 nm), ArF (193 nm), KrCl (222 nm), KrF (248 nm), XeCl (308 nm) i XeF (351 nm)
+
+* '''Làsers de colorants''': Utilitzen un colorant orgànic com a medi actiu, molt sintonitzables. Alguns són: [[Rodamina 6G]], [[fluoresceïna]], [[coumarina]], [[estilbè]], [[umbel·liferona]], [[tetracè]] o [[verd de malaquita]].
+
+* '''[[Làser d'electrons lliures]] (FEL)''': Utilitzen la [[radiació de frenada]] (''bremsstrahlung'') dels electrons, confinats amb camps magnètics.
+{{traducció imatge}}
+[[Fitxer:Laser spectral lines.png|thumb|center|450px|[[Longitud d'ona|Longituds d'ona]] (en [[micròmetre (unitat)|micròmetres]]) de diferents tipus de làsers.]]
+
+== Aplicacions dels làsers ==
+En el moment de la seva invenció, el 1960, els làsers es consideraven «una solució que buscava un problema». Des de llavors, s'han tornat omnipresents, trobant utilitat en milers d'aplicacions altament variades i en tots els àmbits de la societat moderna, incloent-hi l'electrònica de consum, la tecnologia de la informació, la recerca, la medicina, la indústria, l'aplicació de la llei i les aplicacions militars. S'han considerat com un dels desenvolupaments tecnològics més influents del [[segle XX]].
+
+Els beneficis dels làsers en diverses aplicacions provenen de les seves propietats com la gran [[coherència òptica|coherència]], l'alta monocromaticitat o la capacitat d'assolir potències extremadament altes. Per exemple, un raig làser altament coherent es pot focalitzar fins al seu límit de [[difracció]], que a longituds d'ona del visibles correspon a només uns pocs centenars de [[nanòmetre]]s. Aquesta propietat permet que un làser enregistri gigabytes d'informació en els orificis microscòpics d'un [[DVD]]. També permet que un làser de potència modesta es pugui focalitzar a intensitats molt altes i ser utilitzat per tallar, cremar o fins i tot vaporitzar materials. Per exemple, un làser de granat d'alumini i itri dopat amb [[neodimi]] ([[làser Nd:YAG|Nd:YAG]]) amb duplicació de freqüència, que emet llum a 532 nm (verd) amb una potència de 10 W, és teòricament capaç d'aconseguir una intensitat de megavats per centímetre quadrat.
+
+Algunes de les aplicacions més habituals dels làsers són:
+* Lectura i gravació en suports òptics digitals ([[CD (disc)|CD]], [[DVD]], Làser Disc, etc.)
+* Lectura de codis (de barres, matricials, etc.)
+* Mesura de distàncies ([[telemetria]])
+* Mesura de velocitats
+* Medicina ([[cirurgia]], [[oftalmologia]], [[dermatologia]])
+* Tractament de materials (tall, soldadura, etc.)
+* Impressió: plaques [[òfset]], etc.
+* Telecomunicacions per [[fibra òptica]]
+* Caracterització de materials
+* [[Fusió nuclear]]
+* [[Holografia]]
+* Espectacles «so i llum»
+* Transmissió entre satèl·lits
+* Refredament de plasmes
+* [[Espectroscòpia]] làser
+
+=== Classes de protecció ===
+Els làsers es classifiquen a partir de la [[longitud d'ona]] i la [[Potència física|potència]] màxima en quatre classes i algunes subclasses des de la dècada de [[anys 70|1970]]. Les classificacions tenien com a propòsit categoritzar els làsers d'acord amb la seva capacitat de causar danys a les persones exposades.
+
+* '''Classe I''': Teòricament segur, dany ocular impossible. Això es pot deure a la baixa potència (el dany ocular és impossible fins i tot després d'hores d'exposició) o bé degut a un mecanisme que impedeix obrir el contenidor del làser sense abans apagar-lo automàticament (per exemple en reproductors de [[CD (disc)|CD]]).
+
+* '''Classe II''': El parpelleig de l'ull humà com a acte reflex impedeix el dany ocular, a menys que la persona miri directament i deliberadament cap al feix lumínic. La potència arriba a 1 [[watt|mW]]. Aquesta classe és exclusiva per a làsers de llum visible. Alguns punters làser pertanyen a aquesta categoria.
+
+* '''Classe IIa''': Una regió a la part de menys potència de la classe II, on el làser requereix 1000 [[segon]]s d'exposició directa i contínua per a produir cremades a la [[retina]]. Els escànners de codis de barres presents als supermercats es classifiquen dins d'aquesta subclasse.
+
+* '''Classe IIIa''': Els làsers pertanyents a aquesta classe són perillosos amb instruments òptics que modifiquin el diàmetre del feix. Potència de 1 a 5 mW. Molts punters làser pertanyen a aquesta categoria.
+
+* '''Classe IIIb''': Poden causar danys si el feix entra directament a l'ull o si es reflecteix directament en direcció a l'ull. Aquesta consideració és aplicable als làsers amb potència entre 5 i 500 mW. El reflex difús no es considera perillós i el làser normalment no pot iniciar un foc.
+
+* '''Classe IV''': Altament perillosos, fins i tot el fet de mirar indirectament el feix de llum pot causar danys oculars o a la pell. Els làsers que pertanyen a aquesta classe tenen una potència superior als 500 mW o bé produeixen pulsacions intenses de llum. Aquestes s'apliquen a làsers per a tallar i a làsers quirúrgics; poden causar danys fins i tot sense ser ampliats per l'òptica de l'ull. Els reflexos difosos del feix de llum poden ser perillosos per a la pell i per als ulls.
+
+Les potències de làser mencionades són valors típics; la classificació també depèn de l'amplitud d'ona i de si el làser és pulsatiu o continu. A més un làser de qualsevol potència es pot classificar com a «Producte Làser Classe I» si la radiació del làser no és accessible a través de l'ús convencional.
+
+En realitat, fins i tot els làsers de baixa potència (amb només uns pocs mil·livats de potència de sortida) poden ser perillosos per a la visió humana. A les longituds d'ona visibles, que la [[còrnia]] i la lent poden focalitzar bé, la coherència i poca divergència del làser impliquen que un feix làser pugui ser focalitzat per l'ull en un punt extremadament petit sobre la [[retina]], provocant cremades localitzades i danys permanents en qüestió de segons, o fins i tot menys.
+
+== Articles relacionats==
+* [[Fotocoagulació retiniana]]
+* [[Taula d'aire]]
+
+== Bibliografia==
+* Siegman, Anthony E. (1986). ''Lasers'', University Science Books {{en}} ISBN 0-935702-11-3
+* Sifvast, William T. (1996). ''Laser Fundamentals'', Cambridge University Press{{en}} ISBN 0-521-55617-1
+* Svelto, Orazio (1998). ''Principles of Lasers'', 4a ed., Springer{{en}} ISBN 0-306-45748-2
+* Townes, C. H. (1999). ''How the Laser Happened: Adventures of a Scientist'', Oxford University Press{{en}} 
+* Bova, B. (2004). ''Historia de la luz'', Espasa Calpe{{es}} 
+* Tur, J.; Martínez, M. R. (1987). ''Tecnología y práctica del láser'', Marcombo–Boixareu. {{es}} 
+* Orriols, Gaspar (2002). «Làsers i fotònica», a ''Física de la quotidianitat'', Caixa de Sabadell {{ca}} ISBN 84-95166-42-9
+
+== Enllaços externs ==
+{{commonscat|Lasers}}
+* [http://www.repairfaq.org/sam/lasersam.htm ''Sam's Laser FAQ''], preguntes i respostes sobre el làser. {{en}}
+* [http://www.rp-photonics.com/encyclopedia.html ''Encyclopedia of laser physics and technology'']. {{en}}
+* [http://science.howstuffworks.com/laser.htm Com funcionen els làsers?]. Explicació divulgativa a [http://www.howstuffworks.com How Stuff Works?] {{en}}
+* [http://www.technology.niagarac.on.ca/courses/batp9301/ ''Fundamentals of Light Sources and Lasers''] un curs introductori sobre làsers. {{en}}
+
+{{Enllaç AB|ru}}
+{{Autoritat}}
+{{Enllaç AD|af}}
+{{Enllaç AD|bar}}
+{{Enllaç AD|mk}}
+
+
+{{ORDENA:Laser}}	!--ORDENA generat per bot--
+[[Categoria:Làsers| ]]</text>
+      <sha1>g829lovrr4ttdwhznuhx5hb5clpe8g3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

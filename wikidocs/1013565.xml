@@ -1,0 +1,80 @@
+<page>
+    <title>Ernst Zermelo</title>
+    <ns>0</ns>
+    <id>1013565</id>
+    <revision>
+      <id>13201435</id>
+      <parentid>12849698</parentid>
+      <timestamp>2014-04-09T23:45:25Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: com [[ZFC  com a [[ZFC</comment>
+      <text>{{Infobox scientist
+|name              = Ernst Zermelo
+|image             = Ernst Zermelo.jpeg
+|image_size        =
+|caption           = Ernst Zermelo a Freiburg (1953)
+|birth_date        = {{birth date|1871|7|27|df=y}}
+|birth_place       = [[Berlín]], [[alemanya]]
+|death_date        = {{death date and age|1953|5|21|1871|7|27|df=y}}
+|death_place       = [[Freiburg im Breisgau]], [[alemanya]]
+|nationality       = [[alemanya]]
+|fields            = [[Matemàtiques|matematiques]]
+|workplaces        = [[Universitat de Zuric]]
+|alma_mater        = [[Universitat de Berlin]]
+|doctoral_advisor  = 
+|doctoral_students = 
+|known_for         =
+|awards            =
+}}
+
+'''Ernst Friedrich Ferdinand Zermelo''' ([[Berlín]] Juliol 27 de [[1871]] - 21 de maig de [[1953]]) fou un [[Matemàtica|matemàtic]]  i [[filòsof]] [[Alemanya |Alemany]]. Principalment és conegut pel seu treball en la teoria de conjunts.
+
+== Vida ==
+Va cursar els seus estudis secundaris en el'' Luisenstädtisches Gymnasium'' de Berlín d'on va tornar a [[1889]]. Després va estudiar [[matemàtiques]], [[física]] i [[filosofia]] a les universitats de [[Berlín]], [[Halle]] i [[Freiburg]]. Va finalitzar el seu doctorat en [[1894]] i va ser premiat per la [[Universitat de Berlín]] per la seva dissertació sobre el [[càlcul de variacions]] ('' Untersuchungen zur Variationsrechnung'').
+
+Zermelo va romandre a la [[Universitat de Berlín]], on va ser nomenat ajudant de [[Max Planck | Planck]] i sota la seva guia va començar a estudiar [[hidrodinàmica]].
+
+El [[1897]] va marxar a la [[Universitat de Göttingen]], que en aquell moment era el centre més important per a la investigació matemàtica en el món, on va completar la seva tesi en [[1899]].
+
+El [[1900]], en la conferència del [[Congrés Internacional de Matemàtics]] a [[París]], [[David Hilbert]] va desafiar a la comunitat matemàtica amb els famosos [[Problemes de Hilbert]], una llista de 23 problemes fonamentals no resolts, que els matemàtics havien d'atacar durant el segle entrant. El primer d'aquests problemes, un problema de [[teoria de conjunts]], era la [[hipòtesi del continu]] creat per [[Georg Cantor | Cantor]] en [[1878]].
+
+Zermelo va començar a treballar en els problemes de teoria de conjunts i en [[1902]] va publicar el seu primer treball sobre l'addició de [[Nombres infinits | cardinals transfinits]]. En [[1904]], va donar amb èxit el primer pas suggerit per Hilbert per a la hipòtesi del continu, quan va provar el [[teorema del bon ordre]] (cada conjunt pot estar ben ordenat). Aquest resultat li va atorgar fama a Zermelo, que va ser nomenat a Göttingen, al desembre de [[1905]]. La seva prova del teorema del bon ordre, que es basava en el [[axioma d'elecció]], no va ser acceptat per tots els matemàtics, en part perquè la teoria de conjunts mancava d'una [[axiomatització]] en aquest temps. En [[1908]], Zermelo va aconseguir una prova que va tenir una acollida més àmplia.
+
+En [[1905]] va començar a axiomatizar la teoria de conjunts, en [[1908]] va publicar els seus resultats tot i haver fallat en provar la consistència del sistema axiomàtic.
+
+Cal destacar que, en [[1922]], [[Adolf Fraenkel]] i [[Thoralf Skolem]] en forma independent van perfeccionar el sistema axiomàtic de Zermelo. El sistema resultant, conegut ara com a [[ZFC|axiomes de Zermelo-Fraenkel]], amb deu axiomes, és el més usat per a la teoria axiomàtica de conjunts.
+
+En [[1910]] Zermelo va deixar Göttingen quan va obtenir un nomenament a la càtedra de matemàtiques a la [[Universitat de Zuric]], a la qual va renunciar a [[1916]].
+
+Va obtenir una càtedra honorària a [[Freiburg im Breisgau]] en [[1926]] però va renunciar-hi en [[1935]] per la seva desaprovació al règim de [[Hitler]]. En finalitzar la [[Segona Guerra Mundial]] sol·licitar que li fos restaurada la seva posició honorària a Freiburg, la qual cosa es va concretar en [[1946]].
+
+Zermelo va morir a [[Freiburg im Breisgau]], Alemanya.
+
+== Referències ==
+
+* Ernst Zermelo,'' Collected Works / Gesammelte Werke'', Vo. I, Springer, Berlín, 2010, aprox. 665 pp, ISBN 978-3-540-79383-0; Vol II, Springer, Berlín, 2011, ISBN 978-3-540-70855-1. Editor principal, Heinz Dieter Ebbinghaus; editors associats: Akihiro Kanamori, Craig G. Fraser, Enzo de Pellegrin (Traductor).
+
+* Heinz-Dieter Ebbinghaus, [http://cesfia.org.pe/analitica/3/Zalamea.pdf'' Ernst Zermelo: An approach to his life an work'']. En cooperació amb Volker Peckhaus, Springer, Nova York, 2007, xiv + 356 pp, ISBN 978-3-540-49551-2
+
+== Vegeu també ==
+* [[Axiomes de Zermelo-Fraenkel]]
+
+==Enllaços Externs ==
+
+* [http://hrz.upb.de/~apeck1/zermelo/id9.htm Bibliogràfica Científica] per Ernst Zermelo, en Alemany.
+
+{{autoritat}}
+
+{{ORDENA:Zermelo, Ernst}}
+
+[[Categoria:Matemàtics alemanys]]
+[[Categoria:Filòsofs alemanys]]</text>
+      <sha1>ex7leu5xkcxrhexicy6jf1a4fjjssku</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

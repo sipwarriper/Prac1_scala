@@ -1,0 +1,171 @@
+<page>
+    <title>6L6</title>
+    <ns>0</ns>
+    <id>964916</id>
+    <revision>
+      <id>13627405</id>
+      <parentid>13627055</parentid>
+      <timestamp>2014-06-22T12:50:05Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: l'ànode . El  l'ànode. El</comment>
+      <text>{{2L|data=febrer de 2013}}
+{{Infotaula
+| Name = {{subst: PAGENAME }}
+| bodystyle = width:30em;
+| name = 
+| title = 6L6
+| titlestyle = background:#ccf; 
+| avobe =
+| avobestyle =
+
+| imagestyle=
+| captionstyle=
+
+| image = [[fitxer: 6L6tubespair.jpg|300 pix]]
+| caption = Parella de 6L6 : br/ '''Esquerra''': Model de [[General Electric]] dels anys 60 br/ '''Dreta''': Model de producció actual de la factoria '''Sveltana'''.
+
+|headerstyle =background:#ccf;
+|labelstyle =width:70%
+|datastyle = 
+
+|header1 = 
+|label1 = 
+|data1 = 
+|header2 = 
+|label2 = Classificació :
+|data2 = Tètrode de feix dirigit
+|header3 = 
+|label3 = Nombre de terminals :
+|data3 = Vuit.
+|header4 = 
+|label4 = Base: 
+|data4 =Octal
+|header5 = 
+|label5 = Usos més comuns : 
+|data5 = Amplificadors de senyal elèctric.
+|header6 = 
+|label6 = 
+|data6 = 
+|header7 = Característiques màximes de funcionament.
+|label7 = 
+|data7 =
+|header8 =
+|label8 = Voltatge filaments escalfadors:
+|data8 = 6,3 V.
+|header9 = 
+|label9 = Consum de corrent Fil. escalf:
+|data9 = 900 mAmp.
+|header10 = 
+|label10 = Voltatge de ànode ( Placa ) màxim :
+|data10 = 400 V.
+|header11 = 
+|label11 = Voltatge màxim a l'ànode sense corrent :
+|data11 = 
+|header12 =
+|label12 =Potencia màxima d'ànode : 
+|data12 = 22 Watt.
+|header13 =
+|label13 = Voltatge màxim reixa #2 :
+|data13 = 300 V.
+|header14 = 
+|label14 =Potencia màxima reixa #2 :
+|data14 = 2,8 Watts
+|header15 = 
+|label15 = Màxim voltatge positiu càtode-Fil:
+|data15 = 200 V pic
+|header16 =
+|label16 =Màxim voltatge negatiu càtode-Fil:
+|data16 = 200 V pic
+|header17 =
+|label17 =Impedància màxima del circuit a reixa #1 bias-automàtic :
+|data17 = 0,1 M Ohm.
+|header18 =
+|label18 = Impedància màxima del circuit a reixa #1 bias-fixe :
+|data18 = 0,5 M Ohm.
+|header20 =
+|belowstyle =
+|below = 
+}}
+
+La vàlvula ''' 6L6 ''' és una vàlvula introduïda per [[Radio Corporation of America|RCA]] el juliol de 1936. En aquesta època [[Philips]] ja havia desenvolupat i fabricat els pèntodes de potència, que estaven reemplaçant ràpidament els triodos de potència per la seva gran eficiència. El disseny de tètrodes de feixos dirigits de la 6L6 permetre a RCA evitar la patent del pèntode de Philips.
+
+== Història ==
+La 6L6 és una descendent de les Vàlvules de Harries desenvolupada per un enginyer britànic anomenat J. Owen Harries i comercialitzades per l'empresa Hivac Co Ltd el 1935. Harries és considerat com el primer enginyer que va descobrir l'efecte de la distància crítica, que maximitzava l'eficiència d'un [[tètrode]] de potència amb només posar la seva ànode a una distància múltiple de la distància entre la reixa de pantalla i el càtode. Aquest disseny també va minimitzar la interferència de l'emissió secundària dels electrons desglossats de l'ànode.
+
+Els enginyers Cabot Bull i Sidney Rodda millorar el disseny de Harries amb un parell de plaques de feix, connectades al càtode, que dirigia als electrons en dues àrees estretes i també actuava com la reixa supressora per redireccionar alguns electrons de l'emissió secundària a l'ànode. El disseny del tètrodes de feixos dirigits també va ser escollit per evitar la patent del gegant [[Philips]] que tenia sobre el [[pèntode]] a Europa. A causa d'això molts dissenys van eliminar el plec del tètrodes en les parts baixes de les corbes dels tètrodes, que ha vegades causava que l'amplificador amb el tètrodes es tornés inestable, l'empresa Marconi-Osram Valve comercialitzar una família de vàlvules amb l'etiqueta KT, que significa ''' K ''' inkless ''' T ''' etrode.
+
+A causa que els enginyers de MOV (Marconi-Osram Valve) no veien que els tètrodes KT serien produïts a gran escala, van llicenciar el disseny a RCA. Això va demostrar ser una mala decisió de l'empresa MOV. RCA va tenir un enorme èxit amb la 6L6, que reemplaçament l'ús de triodos de potència en els amplificadors públics rapidíssimament. S'han trobat tantes aplicacions per a la 6L6 que una llista completa d'ella seria impossible d'escriure. MOV introduir la seva versió, la [[KT66]], un any després.
+
+La primera versió de RCA tenia una funda de metall en lloc de vidre, sent una de les primeres vàlvules de base octal, que la majoria tenien funda de metall. Altres versions futures, incloent la 6L6G, 6L6GA, 6L6GB, 5881, 5932, 7027, i la versió final: la 6L6GC, tenen la funda feta de vidre, que feia que l'ànode es refredés més fàcilment. El voltatge i potència de la sèrie de les 6L6 van ser gradualment augmentant afegint millores com una base de micanol, plats més petits, fils de les reixetes més fines, aletes per refredar les reixetes, i un revestiment especial per a les plaques. La versió original de metall tenia 19W de dissipació de placa, mentre que la 6L6GC té una dissipació de 30W.
+
+== Variacions ==
+Altres variacions primerenques van ser vàlvules de transmissió com la 807 (1937)) amb un filament de 6,3 V i una equivalent de 12,6 V, la 1625. La més petita [[6V6]] (1937), les diverses versions KT fetes a Europa, i una gran quantitat de vàlvules d'àudio i amplificadores de RF. Una de les aplicacions de després de la Segona Guerra Mundial va ser en el disseny de l'etapa de sortida horitzontal dels televisors, començat amb la 6BG6G (1946), una 807 modificada. Les vàlvules de potència de línies no van ser reemplaçades per transistors fins ben entrats els anys 70.
+
+Altres usos per aquesta vàlvula poden ser més simples: La 6L6GC se segueix fabricant i fent servir, principalment en amplificadors de guitarra. La fabricació continua a Rússia (dues fàbriques), Xina (dues fàbriques) i a Eslovàquia. (El 2006, la fàbrica de Ei a Sèrbia va deixar de fabricar més vàlvules) La vàlvula 6L6 té un cicle de vida més gran que qualsevol altre dispositiu electrònic, sent utilitzada més de 70 anys.
+
+== Vegeu també ==
+* [[6V6]]
+* [[KT66]]
+* [[KT88]]
+* [[EL34]]
+* [[EL84]]
+* [[6DQ6B]]
+* [[EL504]]
+* [[ENIAC]]
+
+== Referències ==
+*{{citar llibre
+|cognom = Stokes
+|nom = John
+|títol = 70 years of ràdio tubes and Valves
+|editorial = Vestal Press
+|lloc = NY
+|any = 1982
+|pàgines = 71-72
+}}
+*{{citar llibre
+|cognom = throw
+|nom = Keith
+|títol = History of the British ràdio valve to 1940
+|editorial = MMA International
+|any = 1982
+|pàgines = 59
+}}
+*{{citar ref
+|títol = History of the 6L6
+|nom = Eric
+|cognom = Barbour
+|publicació = Vacuum Tube Valley
+|nombre = 4
+|any = 1996
+|pàgines = 3
+}}
+*{{citar ref
+|cognom = Schade
+|nom = O. H.
+|títol = Beam Power Tubes
+|publicació = Proceedings of the IRE
+|mes = February
+|any = 1938
+|doi = 10.1109/JRPROC.1938.228286
+|volum = 26
+|nombre = 2
+|pàgines = 137
+}}
+references/
+
+== Enllaços externs ==
+* [http://tdsl.duncanamps.com/show.php?des=6L6 Especificacions de la 6L6]
+
+{{Tubs de buit}}
+
+[[Categoria:Tubs de buit]]</text>
+      <sha1>r0wvwhfdreh8vz0hugqdn6v6mr4bsci</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

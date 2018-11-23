@@ -1,0 +1,335 @@
+<page>
+    <title>Messerschmitt Bf 109</title>
+    <ns>0</ns>
+    <id>608172</id>
+    <revision>
+      <id>13839117</id>
+      <parentid>13787280</parentid>
+      <timestamp>2014-07-16T01:13:43Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Fitxa d'aeronau
+ |nom                = Bf 109
+ |tipus               = [[Avió de caça|Caça]]
+ |fabricant             = [[Messerschmitt|Bayerische Flugzeugwerke]]br /[[Messerschmitt]]
+ |imatge              = Fitxer:Me109 G-6 D-FMBB 1.jpg|250px
+ |peu de foto            = Un Messerschmitt Bf 109G-6 restaurat
+ |dissenyador            = [[Willy Messerschmitt]]
+ |primer vol            = 29 de maig de 1935
+ |introduït             = 1937
+ |retirat              = 1945, [[Luftwaffe]]br / 1952, [[Força Aèria Iugoslava]] br /1954, [[Força Aèria Finesa]]br / 1965, [[Força Aèria Espanyola]]
+ |estat               = 
+ |usuari              = [[Fitxer:Balkenkreuz.svg|23px|Wehrmacht]] [[Luftwaffe]] br [[Fitxer:Roundel of the Hungarian Air Force (1942-1945).svg|23px|Força aèria hongaresa]] [[Força Aèria Hongaresa]] br /[[Fitxer:Aviazione Nazionale Repubblicana Air Force roundel.svg|23px|Forţele Aeriene Regale ale României]] [[Aeronautica Nazionale Repubblicana]]br /[[Fitxer:Roundel of the Romanian Air Force, 1941-1944.svg|23px|Forţele Aeriene Regale ale României]] [[Forţele Aeriene Regale ale României]]
+ |altres usuaris          = 
+ |producció             = 
+ |unitats construides        = 33,984ref name=ReferenceB/
+ |cost unitari           = 42.900,- [[Reichsmarks|RM]] br /(G-6, Erla-Werke, 1943)
+ |variants amb el seu propi article = [[Avia S-199|Avia S-99/S-199]]br /[[Hispano Aviacion Ha 1112]]
+}}
+
+El '''[[Messerschmitt]] Bf 109''' va ser un [[avió de caça]] [[Alemanya Nazi|alemany]] de la [[Segona Guerra Mundial]], dissenyat per [[Willy Messerschmitt]] a inicis dels anys 1930, quan era dissenyador en cap de la [[Bayerische Flugzeugwerke]] (d'ací que el seu prefix sigui Bf). Va ser un dels primers caces realment moderns de la seva època, incloent-hi característiques com una construcció [[monocasc]] totalment [[metall|metàl·lica]], una [[carlinga]] tancada i [[tren d'aterratge]] retràctil. Després d'haver passat pel seu baptisme de foc a la [[Guerra Civil Espanyola]], el Bf 109 va estar en servei fins al naixement de l'era dels [[avió a reacció|reactors]] al final de la [[Segona Guerra Mundial]], sent durant tot aquest temps l'espina dorsal de la força de caces de la [[Luftwaffe]].ref name=Nowarra 1993, p. 189Nowarra 1993, p. 189./ref Amb un [[motor de combustió interna|motor de pistons en V]] invertit, el Bf 109 va ser complementat, però mai completament substituït en servei, pel [[Focke-Wulf Fw 190]] de [[Motor de combustió interna|motor radial]] a partir de [[1941]]
+
+Originàriament concebut com a [[interceptor]], posteriorment va ser desenvolupat per a complir amb múltiples tasques, actuant com a [[caça d'escorta|escorta de bombarders]], [[caçabombarder]], [[caça diürn]], [[caça nocturn|nocturn i tothora]], [[destructor de bombarders]], [[avió d'atac a terra]], i com a [[reconeixement aeri|avió de reconeixement]]. Va ser subministrat a diversos estats de menor importància de l'[[Potències de l'Eix|Eix]] durant la Segona Guerra Mundial, i serví en diversos països durant molts anys després de la guerra. El Bf 109 va ser l'avió militar més fabricat de la Segona Guerra Mundial, amb 30.573 exemplars construïts durant la guerra, i l'avió de caça més fabricat de la història, amb un total de 33.984 unitats produïdes fins a l'abril de 1945.ref name=ReferenceBU.S. Strategic Bombing Survey, Aircraft Division Industry Report, Exhibit I - German Airplane Programs vs Actual Production./refref name=Nowarra 1993, p. 189/ 
+
+El Bf 109 va ser pilotat pels 3 [[As de l'aviació|asos de l'aviació]] alemanys amb més victòries a la Segona Guerra Mundial, [[Erich Hartmann]], [[Gerhard Barkhorn]] i [[Günther Rall]], que van aconseguir unes 928 victòries entre ells mentre pilotaven amb la [[Jagdgeschwader 52|''Jagdgeschwader'' 52]], principalment al [[Front Oriental de la Segona Guerra Mundial|Front Oriental]], així com per [[Hans-Joachim Marseille]], l'as principal a la [[campanya del nord d'Àfrica]].ref name=NAace[http://luftwaffe.cz/western.html Luftwaffe Aces of the Western Front.] ''luftwaffe.cz''. Retrieved: 2 January 2010./ref També va ser pilotat pel major as no alemany, [[Ilmari Juutilainen]], així com per diversos pilots d'èxit més, en particular de [[Finlàndia]], [[Regne de Romania|Romania]], [[Croàcia]] i [[Hongria]]. Mitjançant un desenvolupament constant de l'aparell, va continuar sent competitiu fins amb el darrer caça dels [[Aliats de la Segona Guerra Mundial|Aliats]] fins al final de la guerra i, al mateix temps, mostrà els límits del que podia assolir-se amb caces propulsats am motors de pistó.ref name=Radinger and Otto 1999, pp. 35–37Radinger and Otto 1999, pp. 35–37./ref
+
+== Disseny i desenvolupament ==
+Durant 1933, el ''Technisches Amt'' (C-Amt), el departament tècnic del RLM, va concloure una sèrie de projectes de recerca per al futur del combat aeri. El resultat dels estudis van ser 4 esborranys sobre com hauria de ser el futur avió:ref name=Zobel and Mathmann 1995, p. 3Zobel and Mathmann 1995, p. 3./ref
+* ''Rüstungsflugzeug I'' per a un bombarder mitjà de múltiples seients
+* ''Rüstungsflugzeug II'' per a un bombarder tàctic
+* ''Rüstungsflugzeug III'' per a un caça d'un únic tripulant
+* ''Rüstungsflugzeug IV'' per a un caça pesant de 2 tripulants
+[[Fitxer:Me109 clip.ogg|thumb|right|Un Bf 109 en vol]]
+El ''Rüstungsflugzeug III'' havia de ser un interceptor, destinat a substituir als biplans [[Arado Ar 64]] i [[Heinkel He 51]], llavors en servei. Dos mesos després que el nou govern [[Partit Nazi|nacional socialista]] pugés al poder el [[30 de gener]] de [[1933]], el RLM publicà els requeriments tàctics per a un caça monotripulat al document L.A. 1432/33.ref name=Ritger 2006, p. 6Ritger 2006, p. 6./ref
+
+El caça havia de tenir una velocitat màxima de 400 km/h a 6.000 metres, que hauria de mantenir durant 20 minuts, estant enlairat un total de 90 minuts. L'alçada crítica de 6.000 metres havia d'assolir-se en no més de 17 minuts, i el caça havia de tenir un sostre operatiu de 10.000 metres.ref name=Ritger 2006, p. 6/ El motor havia de ser el nou [[Junkers Jumo 210]] de 522nbsp;kW (700nbsp;hp). Havia d'anar armat amb un canó MG C 30 de 20 mm disparant a través del motor o, alternativament, amb dues [[metralladora MG 17|metralladores MG 17]] de 7,92 mm, o un [[canó MG FF]] de 20 mm amb dues MG17 de 7,92 mm.refKobel and Mathmann 1997, p. 3./ref Una altra especificació era que havia de mantenir una càrrega a les ales per sota dels 100 kg/msup2/sup. L'assaig seria per avaluar-lo basant-se en la velocitat de nivell del caça, la taxa d'enlairament i la maniobrabilitat, en aquest ordre.ref name=Ritger 2006, p. 6/
+
+De fet, les especificacions del R-III no estaven previstes al T-Amt: a inicis de 1933, tant [[Heinkel]] com [[Arado Flugzeugwerke|Arado]] havien enviat de manera privada dissenys per a un caça monoplaça, i el T-Amt simplement va agafar les millors característiques de tots dos i els hi va tornar, convidant també al projecte a [[Focke-Wulf]].
+
+S'ha suggerit la possibilitat que Willy Messerschmitt no va ser convidat en un inici a participar en la competició degut a l'animositat personal entre ell i el director del RLM, [[Erhard Milch]], {{#tag:ref|Hans Hackman, amic personal de Milch, va morir provant el prototipus del transport lleuger [[Messerschmitt M20]], avió que demostrà ser un desastre a la ''[[Lufthansa]]'' use.|group=nb}} però, investigacions recents han indicat que no va ser el cas, i que totes tres empreses (Arado, Heinkel i BFW) van rebre simultàniament el contracte de desenvolupament amb els requeriments del L.A. 1432/33, al febrer de 1934.ref name=Ritger 2006, p. 6/ Una quarta empresa, Focke Wulf, va rebre una còpia del contracte al setembre de 1939.ref name=Ritger 2006, p. 6/ El motor havia de ser el [[Junkers Jumo 210]], però hauria de poder-se modificar pel més potent però menys desenvolupat [[Daimler-Benz DB 600]].refBeaman and Campbell 1980, p. 13./ref Se'ls demanà que lliuressin 3 prototipus per ser provats a finals de 1934.
+
+=== Prototipus ===
+El treball de disseny del que seria el Bf 109 començà al març de 1934, només 3 mesos després de rebre el contracte de desenvolupament, sota el projecte de P.1034. La maqueta bàsica es completa al maig de 1934, i una maqueta encara més detallada es preparà pel gener de 1935. El disseny va rebre la designació del RLM Bf 109.ref name=Ritger 2006, p. 6/
+
+El primer prototipus (''Versuchsflugzeug 1'' o ''V1''), sota el registre civil '''D-IABI''', va ser completat al maig de 1935, però els motors alemanys encara no estaven a punt. Per tal de poder fer volar els dissenys del RIII, el RLM adquirí 4 motors [[Rolls-Royce Kestrel]] VI, dient a Rolls-Royce que el era [[Heinkel He 70]] ''Blitz'' per a una prova de motors. {{#tag:ref|Aquest avió va ser instrumental per provar el Roll-Royce PV-12, que esdevindria el [[Rolls-Royce Merlin]]|group=nb}} Messerschmitt rebé 2 d'aquests motors, i començà adaptant els suports del V1 per usar el motor V-12. Aquest treball es completà a l'agost, i el V1 completà els seus vols de prova al setembre de 1935. Llavors, l'avió va ser enviat al centre de proves de la Luftwaffe a [[Aeroport de Rechlin-Lärz|Rechlin]] per prendre part en el concurs de dissenys.
+
+A finals d'estiu, els motors Jumo van començar a estar disponibles, i el V2 va ser completats amb el motor Jumo 210A de 600 hp a l'octubre de 1935. El va seguir el V3, sent el primer a portar canons incorporats, però no hi havia cap Jumo 210 més disponible i això va fer retardar el vol del V3 fins al maig de 1936.
+
+=== El concurs ===
+Després que les proves d'acceptació es completessin a Rechlin, els prototips van ser traslladats a [[Travemünde]] per a provar-los entre ells. Els participants de les proves van ser el [[Arado Ar 80]] V3, el [[Focke-Wulf Fw 159]] V3, el [[Heinkel He 112]] V4 i el Bf 109 V2. El primer a arribar va ser el He 112, a inicis de febrer de 1946, mentre que la resta de prototips arribaren a inicis de març.
+
+Com que la majoria dels pilots de caça de la Luftwaffe estaven habituats als [[biplà|biplans]] amb cabines obertes, una baixa càrrega de vent, unes [[força-g|forces-g]] lleugeres i eren senzills de pilotar, es mostraren molt crítics vers al Bf 109 en un inic. Però ben aviat passà al capdavant de la competició, mentre que el Arado i el Focke-Wulf, que estaven com a reserves en cas que els favorits fallessin, es demostraren com a desfasats. El Arado Ar 80, amb la seva ala de gavina (substituïda per una ala recta i afilada al V3), i amb un tren d'aterratge [[carenat (aviació)|carenat]] tenia un sobrepés i poca potència, i el disseny va ser abandonat després que es construïssin 3 prototips. El [[Focke-Wulf Fw 159|Fw 159]], amb les [[ala de parasol|ales de parasol]] sempre va ser considerat pel personal de ''Erprobungsstelle (E-Stelle)'' a Travemünde com un model de compromís entre un biplà i un monoplà d'ala baixa amb una aerodinàmica més eficient. Tot i que tenia algunes característiques avançades, va fer servir un xassís nou que demostrà ser poc fiable.refGreen 1980, pp. 18–21./ref
+
+Inicialment, el Bf 109 va ser vist amb suspicàcia pels pilots de proves de E-Stelle a causa del seu angle de terra, que oferia molt poca visió del terra al davant; les escotilles laterals, que no podien obrir-se en vol, així com pels [[slats]] automàtic del frontal de les ales, que s'obriren sense advertir-ho durant les acrobàcies. També estaven preocupats pel pes de càrrega de les ales.refGreen 1980, p. 14./ref
+
+[[File:Bundesarchiv Bild 101I-337-0036-02A, Im Westen, Feldflugplatz mit Me 109.jpg|thumb|right|Bf 109 E-3 del ''[[JG 53]]'', cap a 1939/1940]]
+El Heinkel He 112, basat en el ''Blitz'', era el favorit dels caps de la Luftwaffe. Comparat amb el Bf 109, també era més econòmic.refCaidin 1968/ref Els aspectes positius del He 112 incloïen l'ample de via i la força del tren d'aterratge, una visibilitat considerablement millor des de la cabina i un ala més baixa que permetia aterrar més fàcilment. Per contra, el He 112 era estructuralment més complicat, amb un 18% més de pes que el Bf 109, i ben aviat va ser evident que el gruix de l'ala, que s'estenia 12,6 metres amb una àrea de 23,2msup2/sup al primer prototipus (V1) era un desavantatge clar per a un caça lleuger, disminuint la maniobrabilitat i la taxa de gir. A casa del fuselatge més petit i lleuger, el Bf 109 era 30 km/h més ràpid que el He 112 a nivell de vol i superior en les pujades i baixades. Com a resultat, el He 112 V4 que va ser emprat per les proves tenia noves ales, que feien 11,5 metres de longitud i 21,6 msup2/sup d'àrea. A més, el V4 tenia una carlinga lliscant d'una sola peça i un motor Jumo 210Da més potent, amb un sistema d'escapament modificat. Però aquestes millores no havien estat completament provades i el He 112 V4 no va poder ser mostrat d'acord a les normes de la Comissió d'Acceptació, donant avantatge al Bf 109. Així doncs, la Comissió fallà en favor del Bf 109 perquè durant les proves dels pilots sobre les capacitats del Bf 109 en una sèrie de girs, salts, picats i girs tancats, en les que el pilot sempre va tenir un control absolut de l'avió.refGreen 1980, pp. 15–17./ref
+
+Al març, la RLM s'assabentà que el [[Supermarine Spitfire|Spitfire]] britànic entrava a les línies de producció; necessitant-se urgentment un resultat del concurs per tal que el guanyador comencés a ser produït. El 12 de març, publicaren un document que esbossava els resultats del concurs, amb el resultat que s'ordenava a Heinkel que redissenyés radicalment el He 112, ordenant que el Bf 109 comencés a fabricar-se.refFeist 1993, p. 14./ref El Messerschmitt 109 va debutar públicament als [[Jocs Olímpics d'estiu de 1936|Jocs Olímpics de Berlin'36]], quan va volar el prototipus V1.ref name=Nowarra 1993, p. 190Nowarra 1993, p. 190./ref
+
+=== Característiques del disseny ===
+Igual que l'anterior Bf 108, el nou disseny es basava en el principi de la construcció lleugera de pes de Messerschmitt, que estava dirigida essencialment a reduir el nombre de peces de l'avió sempre que fos possible. Exemples d'això es poden trobar en l'ús de dos suports llargs i complexos que van ser instal·lats al servidor de seguretat principal del motor; aquests suports incorporaven els suports del motor més baix i el punt del pivot del tren d'aterratge en una sola unitat. Un llarg suport soldat al servidor de seguretat portava el pal principal dels punts de recollida, i carregaven la major part de les càrregues de les ales. Els dissenys contemporanis solien tenir en compte aquestes estructures principals de càrrega muntades en parts diferents del fuselatge, amb les càrregues distribuïdes per l'estructura principal mitjançant una sèrie de punts forts. En concentrar les càrregues sobre el servidor principal de la mampara, l'estructura principal del Bf 109 era relativament lleugera i senzilla.refCross and Scarborough 1976, pp. 56–66./ref
+
+Un avantatge d'aquest disseny era que el tren d'aterratge principal, que es retractava en un angle de 85º, estava adjunt al fuselatge, fent possible eliminar completament les ales pel servei sense necessitat d'equips addicionals per donar suport al fuselatge. També volia dir que l'estructura de les ales podia ser simplificada al no haver de suportar el pes de l'avió i no haver de suportar les càrregues de l'aterratge i l'enlairament. Malgrat això, havia un inconvenient, que era que el tren d'aterratge posterior tenia una roda estreta, fent que l'avió fos inestable mentre que es trobava a terra. Per incrementar l'estabilitat les cames van ser esteses cap a l'exterior, creant un altre problema en les càrregues de l'enlairament i l'aterratge sent transferides a un angle superior per les cames.ref name=Cross and Scarborough, pp. 60–61/ 
+
+El petit timó del Bf 109 també era relativament ineficaç per controlar els moviments creats per l'estela de l'hèlix durant la primera part de la carrera d'enlairament, i aquesta deriva cap als costats creaven càrregues desproporcionades al costat de la roda. Si les forces imposades eren prou grans, els punts de pivotació es trencaven i el tren d'aterratge es venia a baix cap a l'exterior.ref name=Cross and Scarborough, pp. 60–61Cross and Scarborough 1976, pp. 60–61./ref Els pilots experimentats deien que era fàcil de controlar, però alguns dels més inexperts es van perdre en l'enlairament.ref name=hannu /
+
+A causa del seu gran angle de terra causat per les llargues cames, la visibilitat pel pilot, especialment la frontal, era molt pobre, un problema exacerbat per l'escotilla lateral. Això volia dir que els pilots sovint havien de portar l'avió de manera sinuosa durant les maniobres a terra, que s'accentuava sobre les cames esteses del tren d'aterratge. Els accidents a terra eren, malgrat tot, més un problema dels pilots novells, especialment durant les darreres etapes de la guerra, quan els pilots van rebre menys entrenament abans de ser enviats a les unitats operatives.ref name=hannuHannu Valtonen — Messerschmitt Bf 109 ja saksan sotatalous{{Page number}}/ref Fins i tot els pilots més experimentats, especialment quan estaven molt cansats, van tenir aquest problema. La major part dels pilots finesos van dir que aquesta oscil·lació era fàcil de controlar, però alguns dels menys experimentats van perdre avions.ref name=hannu / Aproximadament un 10% dels Bf 109 van perdre's en accidents durant l'enlairament o l'aterratge, 1.500 dels quals van tenir lloc entre 1939 i 1941.ref name=Boyne 1994, p. 30Boyne 1994, p. 30./ref La instal·lació d'un fix d'altura a la roda de cua en alguns dels darrers G-10 i 14 i a la sèrie K va ajudar a alleujar en gran mesura el problema.refRadinger and Otto 1999, p. 36./ref
+[[File:Bundesarchiv Bild 146-1980-005-05, Flügel einer Messerschmitt Me 109.jpg|thumb|right|[[Slats]] automàtics a un Bf 109. Mitjançant l'ús de dispositius d'alta sustentació, les qualitats de maneig dels Bf 109 milloraren considerablement.]]
+Des de l'inici del disseny es va prioritzar que hi hagués un accés senzill al motor, a les armes del fuselatge i a altres sistemes mentre que estiguessin operatius als aeròdroms avançats. Amb aquest objectiu tota la coberta del motor estava feta amb grans panells, fàcilment desmuntables, que eren subjectats mitjançant passadors. Un gran panell sota la secció central de l'ala podia ser retirar per accedir al tanc de combustible principal, que estava situat sota el pis de la cabina i parcialment darrere de la mampara posterior. Altres panells menors donaven un accés senzill als sistemes de refrigeració i a l'equipament elèctric. El motor estava situat sobre dues cames en voladís des de la mampara, amb forma de Y i fets en aliatge de magnesi. Cadascuna de les cames estava assegurada mitjançant dos passadors sota el voladís. Totes les connexions de les canonades principals tenien un codi de colors i estaven agrupades en un sol lloc, sempre que era possible, i l'equip elèctric estava connectat a les caixes de connexió muntades sobre el voladís. Tot el motor podia ser retirat o substituït en qüestió de minuts.ref name=Cross and Scarborough, pp. 60–61/
+
+Un altre exemple d'aquest disseny va ser l'ús d'un únic llum de situació situat a la punta de l'ala, formant una D rígida en forma de caixa de torsió. La majoria dels avions de l'època empraven dos travessers, prop de les puntes frontals i posteriors de les ales, però la caixa D era molt més dura, i eliminava la necessitat del pal posterior. El perfil de l'ala va ser la NACA 2R1 14,2 a l'arrel i NACA 2R1 11,35 a la punta,refLednicer, David. [http://www.ae.illinois.edu/m-selig/ads/aircraft.html ''The Incomplete Guide to Airfoil Usage''.] Champaign, Illinois: UIUC Applied Aerodynamics Group, 2010. Retrieved: 18 May 2011./ref amb un gruix de corda proporció de 14,2% en l'arrel i l'11,35% a la punta.
+
+Una altra important diferència amb dissenys de la competència va ser la major càrrega alar. Mentre que el contracte d'I-IV va demanar una càrrega alar de menys de 100 kg / m sup2/sup, Messerschmitt creia que això era poc raonable. Amb una càrrega d'ala baixa i els motors disponibles, el caçador acabaria per ser més lent que al que havia de perseguir.
+Un caça era dissenyat principalment per a l'alta velocitat de vol. Una àrea de l'ala més petita era l'òptima per a l'assoliment d'alta velocitat, però de baixa velocitat de vol patiria, mentre que amb l'ala més petita que requeriria un major flux d'aire per generar sustentació suficient per mantenir el vol. Per compensar això, el Bf 109 incloïa avançats dispositius d'alta sustentació a les ales, incloent-hi de forma automàtica d'obertura de dels llistons d'avantguarda, i pels canvis bruscs en combat, flaps al vora de sortida. Els llistons augmentaven la sustentació de l'ala considerablement quan es desplegaven,ref{{format ref}} http://www.centennialofflight.gov/essay/Theories_of_Flight/Devices/TH17G2.htm/ref millorant en gran mesura la maniobrabilitat horitzontal de l'aeronau, ja que diversos veterans de la Luftwaffe, com [[Erwin Leykauf]], ho testificaren.ref{{format ref}} http://www.virtualpilots.fi/feature/articles/109myths//ref Messerschmitt també incloïa alerons caiguts, augmentant així l'àrea de solapa eficaç (i més tard les aletes del radiador també). Quan s'implementaren aquests dispositius de manera efectiva, augmentà el coeficient de les ales de l'elevació.ref[http://www.centennialofflight.gov/essay/Theories_of_Flight/Devices/TH17.htm Aerodynamic Devices.] ''centennialofflight.gov'', 2003. Retrieved: 3 November 2009./ref
+Els caces amb motors refrigerats per líquid són vulnerables als impactes en el sistema de refrigeració. Per aquesta raó, als darrers Bf 109 F, G i K els dos models de radiadors de refrigeració estaven equipats amb un sistema de tall. Si un radiador es tancava, era possible volar amb el segon, o volar almenys durant cinc minuts amb tots dos tancats.refErsätzteiliste Bf 109G, pp. 117–118./refref name=Prien and Rodeike 1995, p. 169Prien and Rodeike 1995, p. 169./refrefErsätzteiliste Bf 109K, Rumpfwerk, Baugruppe 209.728./refref name= Drabkin p. 74.Drabkin 2007, p. 74./ref El 1943, l'Oberfeldwebel [[Edmund Rossmann]] es va perdre i va caure darrere de les línies soviètiques. Va estar d'acord a mostrar als soviètics com funcionava l'avió. El tècnic d'ametralladores soviètic Víctor M. Sinaiski recordar:
+
+{{cita|''El Messer era un avió molt ben dissenyat. En primer lloc, tenia un motor d'un tipus invertit, de manera que no podia ser eliminat des de baix. També hi havia dos radiadors d'aigua amb un sistema de tall: .. Si un radiador falla es pot volar amb el segon o tancar els dos i volar almenys cinc minuts. A més, el pilot està protegit per un blindatge a la part posterior, i el dipòsit de combustible també estava darrere de l'armadura. Els nostres avions tenen tancs de combustible al centre de les seves ales: .. és per això que els nostres pilot es cremen. Què més m'agrada del Messer? És molt automàtic i per tant fàcil de volar. També s'empra un regulador de camp elèctric, que els nostres avions no tenen. El nostre sistema d'hèlix, de pas hidràulic variable, que fa impossible el canvi de to sense el motor en marxa. Si, Déu no ho vulgui, s'apaga el motor al màxim, és impossible fer girar l'hèlix i és molt difícil d'arrencar el motor. Finalment, el comptador de munició alemanya va ser també una gran cosa. ref name= Drabkin p. 74.Drabkin 2007, p. 74./ref}}
+
+=== Armament i canons de góndola ===
+[[Image:Messerschmitt Bf 109E.jpg|thumb|Un Bf 109E armat amb un canó, mostrant les instal·lacions de les MG FF de 20mm a l'ala.]]
+Provant la creença de Messerschmitt en un monoplà de poc pes i poca resistència, l'armament va situar-se al fuselatge: dues metralladores sincronitzades, com en un caça biblà com el [[Albatros D.Va]], situades a la capota, disparant per damunt del motor i disparant enmig l'hèlix. Com a alternativa, un canó que disparava per un tub d'explosió enmig de les bancades dels cilindres del motor.ref name=Zobel and Mathmann 1995, p. 3/ Aquesta també va ser l'armament elegit en alguns caces francesos, com el [[Dewoitine D.520]].refCross and Scarborough 1976, p. 74./ref D'acord al geni del Professor Messerschmitt, això mantenia les ales primes i sense càrregues.
+
+Quan el 1937 es descobrí que la [[Royal Air Force|RAF]] estava planejant bateries de 8 canons pels seus nous caces monoplans (el [[Hawker Hurricane]] i el [[Supermarine Spitfire]]), va fer-se evident que el Bf 109 necessitaria més armament. Es va dissenyar una nova ala per tal de portar metralladores i, posteriorment, configuracions per un canó MG FF de 20mm. El problema era que quan va voler afegir-se armament, l'únic lloc on podia posar-se era a les ales, entre la roda i els slats, i només hi havia lloc per a una sola arma, ja fos una [[metralladora MG 17]] de 7,92mm o un [[canó MG FF|canó MG FF o MG FF/M]] de 20mm.ref name=Cross and Scarborough 1976, p. 15./
+
+La primera versió del Bf 109 que tenia armes a les ales va ser el C-1, que tenia una MG 17 a cada ala. Per evitar redissenyar l'ala per acomodar grans diposits de munició i les escotilles d'accés, s'ideà un nou canal de munició pel qual una cinta contínua de 500 projectils s'alimentava per rampes des de la punta de l'ala, al voltant d'un corró i després per tota la longitud de l'ala, cap endavant i per sota de l'arma, fins a l'arrel de l'ala on anava per un altre corró fins a l'arma.ref name=Cross and Scarborough 1976, p. 15./
+
+Els canons de les armes van ser situats en uns tubs de gran diàmetre situats entre el pal i la vora davantera. Aquests tubs es refrigeraven mitjançant una canalització al voltant del canó i la recambra, amb una ranura a la part posterior de l'ala. La instal·lació era molt estreta car aquestes parts del mecanisme de tancament de les MG 17 estava en una obertura creada a l'estructura del flap de l'ala.ref name=Cross and Scarborough 1976, p. 15.Cross and Scarborough 1976, p. 15./ref
+
+El MG FF, més llarg i pesat, va haver de ser muntat a una badia exterior de l'ala. Es va fer un gran forat a través del pal que permetia que el canó fos equipat amb un alimentador de munició per davant per davant del pal, mentre que el bloc de tancament es projectava cap enrere a través de la biga. Un tambor de munició de 60 projectils va situar-se a un espai més proper a l'arrel de l'ala, causant una protuberància a la part inferior. Es va incorporar una petita escotilla a l'embalum per permetre l'accés per canviar el tambor. Es podia retirar tota l'arma mitjançant l'eliminació d'un panell de la part davantera.ref name=Cross and Scarborough 1976, p. 15./
+
+[[Image:Bundesarchiv Bild 101I-487-3066-04, Flugzeug Messerschmitt Me 109.jpg|thumb|right|Personal de terra de la Luftwaffe (els homes negres) posicionant un Bf 109 G-6 equipat amb el canó Rüstsatz VI sota l'ala. [[JG 2]], França, tardor de 1943]]
+
+A partir de la sèrie 109F els canons ja no van estar dins de les ales (una excepció notable va ser el Bf 109 F-2 d'[[Adolf Galland]], que tenia un MG FF/M de 200mm instal·lat a la part interior de l'ala). Només alguns dels models projectats de les sèries 109K, com el K-6, van ser dissenyats per portat canons [[canó MK 108|MK 108]] de 30mm a les ales.refPrien and Rodeike 1995, p. 177./ref
+
+En lloc d'armament a l'interior de l'ala, una potència de foc addicional va ser proporcionada mitjançant dos [[canó MG 151|canons MG 151/20]] de 20mm instal·lats sota les ales, a les beines de les armes. Encara que aquest armament addicional incrementava la potència del caça com a destructor de bombarders, tenia un efecte advers en les seves qualitats de maneig, reduint la seva competència en els combats caça contra caça i accentuant la tendència del caça a oscil·lar pendularment durant el vol.refGreen 1980, p. 88./ref Les beines de les armes, sense munició, pesaven 135 kg,ref name=Randinger and Otto 1999, p. 21Randinger and Otto 1999, p. 21./ref i tenien entre 135 i 145 projectils per canó.ref name=Randinger and Otto 1999, p. 21/
+
+El pes total, incloent-hi la munició, era de 215kg.ref name=Randinger and Otto 1999, p. 21/ La instal·lació de les beines de munició sota les ales era una tasca simple que podia ser ràpidament realitzada per les unitats d'armers, i imposà una reducció de velocitat de només 8km/h.ref name=Randinger and Otto 1999, p. 21/ En comparació, el pes d'instal·lar un armament semblant de dos canons MG 151/20 de 20mm dins de les ales del FW 190A-4/U8 va ser de 130kg, sense munició.refHahn 1963, p. 35./ref
+
+=== Designació i sobrenoms ===
+Originàriament, el ''[[Reichsluftfahrtministerium]]'' (''Ministeri d'Aviació Alemany'', RLM) el designà com a '''Bf 109''', car el seu disseny provenia de la ''[[Bayerische Flugzeugwerke]]'' (literalment, la ''Fàbrica Aeronàutica Bavaresa'').
+
+Però l'empresa va passar a anomenar-se [[Messerschmitt AG]] després de juliol de 1938, quan [[Erhard Milch]] va permetre finalment a [[Willy Messerschmitt]] a adquirir l'empresa. Subseqüentment, tots els avions Messerschmitt que van crear-se després de la data, com el [[Messerschmitt Me 210|Me 210]], portaven la designació Me. Malgrat alguns reglaments del RLM, documents de durant la guerra de Messerschmitt AG, RLM i la ''Luftwaffe'', continuaven emprant totes dues designacions, sovint fins i tot en la mateixa plana.ref[http://109lair.hobbyvista.com/articles/bf-me/bf-me.htm Lynn Ritger, The 109 Lair: Bf or Me 109? Which is correct?] ''hobbyvista.com''. Retrieved: 3 January 2010./ref Tots els dissenys i plànols són descrits com a Bf 109 en les planxes d'identificació,refPrien and Rodeike 1995, pp. 167–176./ref incloent els models finals K-4, amb l'excepció de l'avió inicialment construït per Erla Flugzeugwerke, que a vegades portava el segell '''Me 109'''. 
+
+El Bf 109 va tenir diversos malnoms atorgats tant pels seus operadors com pels seus adversaris, generalment derivats a partir del nom del fabricant (''Messer, Mersu, Messzer'' etc.) o de l'aparença exterior de l'avió: la variant G-6 va rebre el nom de ''Die Beule'' (''La protuberància'') pel personal de la Luftwaffe, a causa de les cobertes de les metralladores [[Metralladora MG 131|MG 131]] de 13mm, mentre que els pilots soviètics l'anomenaven el prim per la seva aparença (comparat amb el [[Focke-Wulf Fw 190|Fw 190]], més robust). Els noms Anton, Bertha, Caesar, Dora, Emil, Friedrich, Gustav i Kurfürst eren derivats de la lletra de la designació oficial de la variant (per exemple, Bf 109G – 'Gustav'), basat en l'alfabet fonètic alemany emprat durant la II Guerra Mundial; una pràctica comuna en altres dissenys alemanys.ref[http://www.feldgrau.com/alphabet.html German phonetic alphabet of World War II.] ''feldgrau.com''. Retrieved: 2 January 2010./ref
+
+=== Rècords de vols ===
+Poc després del seu debut públic, tres Bf 109B van prendre part al juliol de 1937 al Flugmeeting de [[Zürich]]. Sota el comandament del Major Seidemann, van guanyar en diverses categories: Primer Premi en una cursa de velocitat de 202km, Primer Premi en la categoria Classe A en el ''Alpenrundflug'' internacional d'avions militars, i també la victòria al ''Patrouillenflug'' internacional.refHeinz J. Nowarra, ''Die deutsche Luftrüstung 1933-1945'', Koblenz 1985/ref
+
+L'11 de novembre de 1937, el Bf 109 V13, pilotat pel pilot en cap de Messerschmitt, Dr. Hermann Wurster, volà amb un motor DB 601R de 1650 hp establint un nou rècord de velocitat per a avions amb motors de pistó amb una marca de 610,55 km/h, guanyant el títol per a Alemanya per primer cop. Convertit dun Bf 109D, el V13• portava un motor especial DB 601R que podia arribar als 1650 hp per curts períodes.refFeist 1993, p. 21./refref name=Nowarra 1993, p. 193Nowarra 1993, p. 193./ref{{#tag:ref|World Speed Records and other aviation records were and still are set by the ''Fédération Aéronautique Internationale'' (FAI). A record needs to be set over a recognised course at a set altitude to be valid. The Bf 109 and 209s came under the category CLASS C, GROUP 1d[http://www.fai.org/news_archives/fai/cat_world_records.asp FAI record (current).] ''fai.org''. Retrieved: 29 April 2008.|group=nb}} 
+
+Heikel, després de veure rebutjat el [[He 112]], començà a treballar amb el [[He 100]]. El 6 de juny de 1938, el He 100 V3, pilotat per [[Ernst Udet]], establí un nou rècord de 634,7 km/h, i el 30 de març de 1939, el pilot de proves Hans Dieterle superà aquest rècord, establint una marca de 746,61 km amb el He 100 V8. Messerschmitt recuperà el lideratge ben aviat en aquesta cursa: el 26 d'abril de 1939, el ''Flugkapitän'' [[Fritz Wendel]], volant amb el [[Messerschmitt Me 209|Me 209 V1]], situà la marca en 755,14 km/h. Aquest era un avió de competició que tenia ben poc en comú amb el Bf 109, amb un motor BD 601ARJ que produïa fins a 1.550 hp, però capaç d'arribar fins als 2.300. Per motius de propaganda, l'avió va ser nomenat Bf 109R, suggerint que es tractava d'una nova versió del caça. Aquest rècord es va mantenir fins al 1969.ref name=Feist 1993, p. 22Feist 1993, p. 22./ref
+
+== Variants ==
+{{principal|Variants del Messerschmitt Bf 109 }}
+
+Quan es dissenyà el primer Bf 109 al 1934 per l'equip format per [[Willy Messerschmitt]] i [[Robert Lusser]],refGreen 1980, p.7./ref el seu paper principal era un interceptador d'alta velocitat i bombarder de curt radi.refCross and Swanborough 1972, pp. 7–8./ref El 109 també estava dissenyat per tenir avantatge sobre les aerodinàmiques més avançades d'aquell temps, així com les estructures tècniques del cos eren estaven avançades als seus contemporanis.refGreen 1980, p. 8./ref Durant els anys de la ''[[Blitzkrieg]]'', el 109 era l'únic caça monomotor de la Luftwaffe, fins a l'aparició del [[Fw 190]].
+
+El 109 seguí fabricant-se des de 1937 i fins a 1945, amb diverses variants i sub-variants; els primers motors eren els Daimler-Benz [[DB 601]] i [[DB 605]], amb el Junkers [[Jumo 210]] per la majoria de variants de la preguerra. El model del Bf 109 més fabricat va ser la sèrie 109-G; i més d'un terç de totes les variants eren la sèrie G-6, amb unes 12.000 unitats fabricades des del març de 1943.refPrien and Rodeike 1996, pp. 99–100, 113–114./ref
+
+Els primers models de les sèries A, B, C i D portaven els motors 670-700 PS Junkers, sèrie [[Jumo 210]], relativament de baixa potència. Diversos prototipus d'aquests avions van ser modificats per poder usar el motor DB 600, més potent.refGreen 1980, pp. 29–34, 41./ref
+
+El primer gran redisseny va ser la sèrie E, incloent-hi la variant naval del Bf 109E i el Bf 109T (T de ''Träger'', o remolcador d'avions). El Bf 109E, o Emil introduí una sèrie de canvis estructurals per tal d'acomodar el motor 1.100 PS Daimler-Benz [[DB 601]], més pesat però més potent; així com un armament més pesat i augmentava la capacitat de combustible. Les darreres variants del E introduïen una raqueta al fuselatge per les bombes o per un tanc extra de combustible, i usava el motor DB 601N.refGreen 1980, pp. 41–45, 63–64, 76–81, 82–83./ref El 109E entrà en servei amb la [[Legió Còndor]] durant la darrera fase de la [[Guerra Civil Espanyola]] i va ser la variant principal usada durant l'inici de la [[II Guerra Mundial]] fins a mitjans de 1941, quan el 109F el substituí en el paper de caça a la Luftwaffe.refGreen 1980, pp. 38-39, 80./ref Vuit 109E van fabricar-se el 1946 a [[Suïssa]] per la Dornier-Werke, usant la llicència de construcció. Un novè va construir-se usant peces de recanvi.refGreen 1980, p. 78./ref
+
+El segon gran redisseny durant 1939-40 donà naixement a la sèrie F. El Friedrich tenia un redisseny complet de les ales, el sistema de refrigeració i l'aerodinàmica del fuselatge, i portava el motor 1,175 PS DB 601N (F-1, F-2) o el 1,350 PS DB 601E (F-3, F-4). Considerat per molts el punt d'inflexió del desenvolupament del Bf 109, la sèrie F abandonava el canó de l'ala i concentrava tot l'armament en el fusetatge frontal; dues metralladores a dalt i un únic canó de 15 ó 20mm sota el motor. Aquesta configuració va emprar-se en totes les variants següents. Diversos Bf 109F van emprar-se en les darreres etapes de la [[Batalla d'Anglaterra]] el 1940, però realment va entrar en servei durant la primera meitat de 1941, substituint el Bf109E.refPrien and Rodeike 1996, pp. 9-25./ref
+
+La sèrie G (Gustav) va entrar a mitjans de 1942, amb les seves variants inicials (de la G-1 a la G-4) que diferien només en petits detalls del Bf 109F, principalment al portar el motor 1475 [[PS]] [[Daimler-Benz DB 605|DB 605]] més potent. Van construir-se variants estranyament numerades com els caces de gran altitud amb una cabina pressuritzada; i les variants parells eren no-presuritzades, destinades als caça-bombarders. També existien variats amb un gran radi d'acció destinats al [[reconeixement fotogràfic]]. Les darreres sèries G (de la G-5 a la G-14) van ser fabricades amb un munt de variants, amb armament millorat i provisió de recanvis pre-empaquetats, coneguts com a ''Umrüst-Bausätze'', normalment contractats a i que rebien el sufix /U. Aquests ''kits'', coneguts com a ''Rüstsätze'' també estaven disponibles per a les sèries G, però no es modificà la denominació dels avions. A inicis de 1944 els requeriments tàctics resultaren en l'addició d'un compressor d'aigua per injecció [[MW-50]] d'alt rendiment, augmentant la potència del motor a 1.800-2.000 PS (1.775-1.973 HP). A inicis de 1944 diversos G-2s, G-3s, G-4s i G-6s van ser convertits en avions d'entrenament biplaces, coneguts com a G-12. La cabina del instructor va situar-se darrere la cabina original, i ambdues anaven cobertes per una tendal allargat de vidre.refPrien and Rodeike 1996, pp. 56–165./ref
+
+La darrera versió del Bf 108 va ser la sèrie K o ''' 'Kurfürst' ''', amb un motor DB 605D amb un màxim de 2.000 CV (1.973 hp). Encara que externament era semblant als darrers models de la sèrie Bf 109G, es van realitzar un gran nombre de canvis interns i millores aerodinàmiques que comportaren la millora de la seva eficàcia i corregia els defectes existents, fent que mantingués la competitivitat amb els darrers caces Aliats i soviètics.ref name=Radinger and Otto 1999, pp. 35–37/refPrien and Rodeike 1996, pp. 166-174./ref
+
+Després de la guerra, el Bf 109 va construir-se a [[Txecoslovàquia]] sota la denominació [[Avia S-199|Avia S-99 i S-199]]; i a [[Espanya]], com els [[Hispano Aviacion Ha 1112|Hispano Aviación Ha 1109 i 1112]]refGreen 1980, pp. 131–138./ref
+
+== Producció ==
+En total, es van produir 33.984 unitats del Bf 109.ref name=ReferenceB/ La producció en temps de guerra (setembre de 1939 a maig de 1945) va ser de 30.573 unitats. La producció de caces va totalitzar el 47% de tota la producció aeronàutica alemanya, d'aquests, un 57% dels caces fabricats per Alemanya eren Bf 109s.ref name=The Fighting Me 109Feist 1993, p. 45./ref Abans de la guerra, entre 1936 i agost de 1939, es fabricaren 2.193 Bf 109 A-E.
+
+Uns 865 derivats del Bf 109G van ser fabricats després de la guerra sota llicència com el [[Avia S-199|Avia S-99  S-199s]] txecoslovac, abandonant-se la fabricació el 1948.ref name=Nowarra 1993, p. 189Nowarra 1993, p. 189./ref La producció del [[Hispano Aviación HA-1112|Hispano Aviación HA-1109 i del HA-1112 ''Buchon''s]] espanyols acabà el 1958.ref name=Nowarra 1993, p. 189/
+
+Producció de caces Messerschmitt Bf 109 fighters, 1936–1945.refU.S. Strategic Bombing Survey, Aircraft Division Industry Report. Exhibit I - German Airplane Programs vs Actual Production./ref
+[[Fitxer:Bundesarchiv Bild 101I-638-4221-06, Produktion von Messerschmitt Me 109.jpg|thumb|right| Bf 109G-6s a una fàbrica aeronàutica alemanya]]
+
+{| class=wikitable sortable style=font-size: 9pt; text-align:center
+! Fàbrica, localització !! Fins a 1939 !! 1939 !! 1940 !! 1941 !! 1942 !! 1943 !! 1944 !! 1945* !! Totals*
+|-
+| Messerschmitt, [[Regensburg]] || || || || 203 || 486 || 2.164 || 6.329 || 1.241 || 10.423 
+|-
+| Arado, [[Warnemünde]] || || || || 370 || || || || || 370
+|-
+| Erla, [[Leipzig]] || || || || 683 || 875 || 2.015 || 4.472 || 1.018 || 9.063
+|-
+| Fieseler, [[Kassel]] || || || || 155 || || || || || 155
+|-
+| W.N.F., [[Wiener Neustadt]] || || || || 836 || 1,297 || 2.200 || 3.081 || 541 || 7,892
+|-
+| Győri Wagon- és Gépgyár, [[Győr]] || || || || || || 39 || 270 || || 309
+|-
+| Ago, [[Oschersleben]] || || || || 381 || || || || || 381
+|-
+| Totals || 1.860 || 1.540 || 1.868 || 2.628 || 2.658 || 6.418 || 14.152 || 2.800 || 33.984
+|}
+
+nowiki*/nowiki La producció no s'aturà fins a marc de 1945.
+
+== Història operativa ==
+{{principal|Història operativa del Messerschmitt Bf 109 }}
+Els primes Bf 109A van entrar en servei durant la [[Guerra Civil Espanyola]]. Al setembre de 1939, el Bf 109 esdevingué el caça principal de la Luftwaffe per la II Guerra Mundial, substituint als caces biplans, sent instrumental per guanyar la superioritat aèria de la [[Wehrmacht]] durant la [[Blitzkrieg]]. Durant la [[Batalla d'Anglaterra]] va haver de realitzar nous papers, principalment el de caça d'escorta, un paper per al qual no estava dissenyat, a més de ser àmpliament usat com a [[caçabombarder]] i com a [[reconeixement aeri|avió de reconeixement]]. Malgrat els resultats diversos sobre Anglaterra, amb la introducció del millorat Bf 109F, a la primavera de 1941 tornà a demostrar ser un caça efectiu durant la [[Invasió de Iugoslàvia]], la [[Batalla de Creta]], la [[Operació Barbarroja|invasió de la Unió Soviètica]] i durant el [[Setge de Malta (II Guerra Mundial|Setge de Malta]].
+
+El 1942 comença a ser parcialment substituït pel nou caça alemany, el [[FV 190]] al Front Occidental, tot i que continuà servint en multitud de papers al [[Front Oriental de la Segona Guerra Mundial|Front Oriental]], en la [[defensa del Reich]] i al [[Teatre d'Operacions de la Mediterrània]] amb l'[[Afrikakorps]]. A més, va ser subministrat a diversos aliats de l'Eix, com [[Història militar de Finlàndia durant la Segona Guerra Mundial|Finlàndia]], [[Hongria durant la Segona Guerra Mundial|Hongria]], [[Regne de Romania|Romania]], Bulgària, [[Estat Independent de Croàcia|Croàcia]] i Eslovàquia.
+
+El Bf 109 va aconseguir més victòries aèries que cap altra avió. Cent cinc pilots de Bf 109 (potser 109) van obtenir 100 ó més victòries aèries. Tretze d'ells en van aconseguir més de 200, i dos van superar les 300. En conjunt, aquest grup aconseguí unes 15.000 victòries.refFeist 1993, p. 50./ref L'estatus oficial d'as es concedia a qualsevol pilot que aconseguís 5 ó més victòries. Aplicant aquest paràmetre als pilots de la Luftwaffe, uns 2.500 pilots van aconseguir aquest estatus.refFeist 1993, p. 51./ref Contra els soviètics, els Bf 109G finesos van reclamar una taxa de victòries de 25:1 a favor dels finesos.ref name=Neulen p. 217.Neulen 2000, p. 217./ref
+
+Alguns Bf 109 van seguir en servei diversos anys després de la guerra. Els 109 hongaresos van ser destruïts a Alemanya per les seves pròpies tripulacions el 6 de maig de 1945; Romania usà els seus Bf 109 fins al 1955. La Força Aèria Finesa no va retirar els seus Bf 109G fins al 1954. En canvi, els Hispanos espanyols van durar més temps, arribant a servir fins als 1960s. Van aparèixer en diverses pel·lícules (principalment a ''[[Battle of Britain (pel·lícula)|The Battle of Britain]]'') actuant com a Bf 109. Els suïssos els van usar fins a la dècada de 1950.
+
+== Operadors ==
+; [[Fitxer:Flag of Nazi Germany (1933-1945).svg|border|23px|Alemanya nazi]] [[Tercer Reich|Alemanya]]
+La [[Luftwaffe]] va ser el principal operador del Bf 109.
+; [[Fitxer:Flag of Bulgaria.svg|border|23px|Bulgària]] [[Regne de Bulgària|Bulgària]]
+La [[Força Aèria Búlgara]] operà 19 ''E-3'' y 145 ''G-2/-6/-10''.
+;[[Fitxer:Flag of Croatia Ustasa.svg|border|23px|Estat Independent de Croàcia]] [[Estat Independent de Croàcia|Croàcia]]
+La [[Força Aèria de l'Estat Independent de Croàcia]] operà prop de 50 Bf 109 en diverses versions, incloent-hi les ''E-4, F-2, G-2/-6/-10'' i ''K''.
+; [[Fitxer:Flag of First Slovak Republic 1939-1945.svg|border|23px|Eslovàquia]] [[República d'Eslovàquia (1939-1945)|Eslovàquia]]
+La ''[[Slovenské vzdušné zbrane]]'' operà 16 ''E-3'', 14 ''E-7'' y 30 ''G-6''.br /La [[Força Aèria Insurgent Eslovaca]] operà 3 ''G-6''.
+; [[Fitxer:Flag of Spain under Franco 1938 1945.svg|23px|Bàndol franquista]] [[Franquisme|Espanya]]
+L'[[Exèrcit de l'Aire Espanyol]] operà alguns, també va rebre alguns del tipus B antics. Els membres de l'[[Esquadrilla Blava]] van pilotar (del JG-27 sota el comandament de la [[Luftflotte 2]] fins a l'abril de 1943), ''G-4'' i ''G-6'' (destacats al JG-51 sota el comandament de la [[Luftflotte 4]], fins al juny de 1944). Després de la [[Segona Guerra Mundial|guerra]], es fabricà a Espanya el model [[Hispano Aviación HA-1112]] derivat del Bf 109.
+; [[Fitxer:Flag of Finland.svg|border|23px|Finlàndia]] [[Història militar de Finlàndia durant la Segona Guerra Mundial|Finlàndia]]
+La [[Força Aèria Finesa]] operà 162 avions en total, 48 G-2, 111 G-6 i 3 G-8.
+; [[Fitxer:Flag of Hungary (1920–1946).svg|border|23px|Hongria]] [[Regne d'Hongria (1920-1946)|Hongria]]
+La [[Reial Força Aèria Hongaresa]] operà 3 avions en total, ''D-1'', 50 ''E-3/-4'', 66 ''F-4'' i uns 490 ''G-2/-4/-6/-8/-10/-14''.
+; [[Fitxer:Flag of Israel.svg|border|23px|Israel]] [[Israel]]
+La [[Força Aèria Israelí]] operà el model derivat [[Avia S-199]], procedent de Txecoslovàquia. Tot i que van aconseguir 8 victòries aèries per a Israel, Egipte i Síria reivindiquen 4 victòries de S-199 i un de probable.ref{{format ref}} http://www.acig.org/artman/publish/article_255.shtml List of Israeli Air-to-Air Victories 1948-1966/ref
+; [[Fitxer:Flag of Italy (1861-1946).svg|border|23px|Itàlia]] [[Regne d'Itàlia (1861-1946)|Itàlia]]
+La [[Regia Aeronautica]] operà alguns ''F-4'' y ''G-6'', G-10, G-14
+; [[Fitxer:Flag of the Kingdom of Yugoslavia.svg|border|23px|Regne de Iugoslàvia]] [[Regne de Iugoslàvia|Iugoslàvia]]
+La [[Reial Força Aèria Iugoslava]] operà 73 avions de les variants ''E-3''.br / La [[Força Aèria de la República Federal Socialista de Iugoslàvia]] operà alguns Bf 109G provinents de l'[[Estat Independent de Croàcia]] i de Bulgària.
+; [[Fitxer:War_flag_of_the_Italian_Social_Republic.svg|border|23px|República Social Italiana]] [[República Social Italiana]]
+La [[Aeronautica Nazionale Repubblicana]] operà 300 ''G-6/-10/-14'' i 2 ''G-12'', també va rebre 3 ''K-4''.
+; [[Fitxer:Flag of Romania.svg|border|23px|Romania]] [[Regne de Romania|Romania]]
+La [[Reial Força Aèria Romanesa]] operà 69 ''E-7'' i 135 ''G-2/-6/-8''.
+; [[Fitxer:Flag of Switzerland.svg|border|23px|Suïssa]] [[Suïssa]]
+La [[Força Aèria Suïssa]] operà 10 ''D-1'' i 89 de les variants ''E-3'', 2 ''F-4'' i 12 ''G-2''.
+; [[Fitxer:Flag of Czechoslovakia.svg|border|23px|Txecoslovàquia]] [[Txecoslovàquia]]
+La [[Força Aèria Txecoslovaca]] operà avions capturats i continuà fabricant avions Messerschmitt Bf 109G després de la guerra sota el nom de [[Avia S-99]].
+
+== Especificacions (Bf 109 G-6/R6) ==
+[[Fitxer:Bf109G 3Seiten neu.jpg|right|300px|Diagrama del projecte del Bf 109 G-6.]]
+: '''Característiques principals'''refGreen, William and Gordon Swanborough. ''The Great Book of Fighters''. St. Paul, Minnesota: MBI Publishing, 2001. ISBN 0-7603-1194-3./ref
+* Dimensions:
+** Ala: 9,92 m
+** Superfície de les ales: 16m²
+** Llargada: 8,94 m
+** Alçada: 2,59 m
+* Pes:
+** Buit: 2.600 kg
+* Motor: 
+** Model: 1 [[Daimler-Benz DB 605]]AM (modificat per emprar MW-50)
+** Potència: 1.475 hp
+** Hèlix: tripala de paso variable VDM9-12159A
+* Propietats:
+** Velocitat màxima: 623 km/h a 7.000 msnm
+** Autonomia: 550 km
+** Abast màxim amb el màxim de combustible: 1.148 km
+** Sostre de servei: 11.750 m
+* Armes: 
+** Metralladores: 
+*** 2× Rheinmetall-Borsig [[MG-131]] de 13 mm (sobre el motor)
+*** 2× Rheinmetall-Borsig [[MG-151]]/20 de 20 mm (a les ales)
+** Canons: 
+*** 1× [[MG 151|MG 151/20]] de 20 mm.
+*** Opcionalment 1× [[MK 108]] 30 mm (G-6/U4).
+** Bombes: 
+*** 1× 250 kg
+*** 4× 50 kg
+** Coets: 2× WGr 21
+** Altres: 1 tanc extern de 300l 
+* Aviònica:
+** Sistema IFF FuG-25a
+** Radiocomunicació FuG 16
+* Tripulació: 1
+
+== Veieu També ==
+
+* [[L'Aviació durant la Guerra Civil Espanyola]]
+
+== Referències ==
+=== Notes a peu de pàgina ===
+{{Referències|group=nb}}
+=== Citacions ===
+{{Referències|2}}
+
+== Bibliografia ==
+{{Commonscat|Messerschmitt Bf 109}}
+
+{{refbegin}}
+* Beaman, John R. Jr. and Jerry L. Campbell. ''Messerschmitt Bf 109 in action, Part 1''. Carrollton, Texas: Squadron/Signal Publications, 1980. ISBN 0-89747-106-7.
+* Boyne, Walter J. ''Clash of Wings.'' New York: Simon  Schuster, 1994. ISBN 0-684-83915-6.
+* Burke, Stephen. ''Without Wings: The Story of Hitler's Aircraft Carrier''. Oxford, UK: Trafford Publishing, 2007. ISBN 1-42512-216-7.
+* Caidin, Martin. ''Me 109 - Willy Messerschmitt's Peerless Fighter'' (Ballantine's illustrated history of World War II. Weapons book no. 4). New York: Ballantine Books, USA, 1968. ISBN 0-345-01691-2.
+* Caldwell, Donald L. ''JG 26: Top Guns of the Luftwaffe''. New York: Ballantine Books, 1991. ISBN 0-8041-1050-6.
+* Craig, James F. ''The Messerschmitt Bf.109''. New York: Arco Publishing Company, 1968.
+* Cross, Roy and Gerald Scarborough. ''Messerschmitt Bf 109, Versions B-E''. London: Patrick Stevens, 1976. ISBN 0-85059-106-6.
+* ''Dimensione Cielo: Caccia Assalto 3, Aerei Italiani nella 2a Guerra Mondiale'' (in Italian). Roma: Edizioni Bizzarri, 1972.
+* Ebert, Hans A., Johann B. Kaiser and Klaus Peters. ''Willy Messerschmitt: Pioneer of Aviation'' (The History of German Aviation Design). Atglen, PA: Schiffer Books, 2000. ISBN 0-7643-0727-4.
+* Feist, Uwe. ''The Fighting Me 109''. London: Arms and Armour Press, 1993, ISBN 1-85409-209-X.
+* Fernández-Sommerau, Marco. ''Messerschmitt Bf 109 Recognition Manual''. Hersham, Surrey, UK: Classic Publications, 2004. ISBN 1-903223-27-X.
+* Glancey, Jonathan. ''Spitfire: The Illustrated Biography''. London: Atlantic Books, 2006. ISBN 978-1-84354-528-6.
+* Green, William. ''Messerschmitt Bf 109: The Augsburg Eagle; A Documentary History''. London: Macdonald and Jane's Publishing Group Ltd., 1980. ISBN 0-7106-0005-4.
+* Griehl, Manfred. ''Das geheime Typenbuch der deutschen Luftwaffe: Geheime Kommandosache 8531/44 gKdos'' (in German). Friedberg, Germany: Podzun-Pallas Verlag, 2004. ISBN 978-3790907759.
+* Hitchcock, Thomas H. ''Messerschmitt 'O-Nine' Gallery''. Chicago: Monogram Aviation Publications, 1973. ISBN 978-0914144007.
+* Hooton, Edward R. ''Blitzkrieg in the West, 1939 -1940 (Luftwaffe at War: 2)''. Hersham, Surrey, UK: Midland Publishing, 2007. ISBN 978-1-85780-272-6.
+* Kobel, Franz and Jakob Maria Mathmann. ''Bf 109''. Atglen, PA: Schiffer Publishing, 1997. ISBN 0-88740-919-9.
+* Mankau, Heinz and Peter Petrick.'' Messerschmitt Bf 110, Me 210, Me 410''. Raumfahrt, Germany: Aviatic Verlag, 2001. ISBN 3-92550-562-8.
+* Marshall, Francis L. ''Messerschmitt Bf 109T Die Jäger der Graf Zeppelin''. Gilching, Germany: Marshall-Verlag, 2002. ISBN 3-0000-8220-4. 
+* Marshall, Francis L. ''Sea Eagles - The Messerschmitt Bf 109T''. Walton on Thames, Surrey, UK: Air Research Publications, 1994. ISBN 1-871187-230. 
+* Mason, Francis K. ''Messerschmitt Bf 109B, C, D, E in Luftwaffe  Foreign service.'' London, UK: Osprey Publishing Limited, 1973. ISBN 0-85045-152-3.
+* Massimello, Giovanni and Giorgio Apostolo. ''Italian Aces of World War Two''. Oxford/New York, Osprey Publishing, 2000. ISBN 978-1-84176-078-0.
+* Mermet, Jean-Claude. ''Messerschmitt Bf 109 G-1 through K-4. Engines and Fittings.'' Marnaz, France: Jean Claude Mermet SA, 1999.
+* Messerschmitt AG. ''Messerschmitt Bf 109G; technisch Kompendium, Handbücher, Ersatztelliste, Bewaffnung Bedienungsvorschrift/Fl, Bordfunkanlage, Lehrbildreihe; 1942/1944. [Elektronische Resource] (Reprint)'' Ludwigsburg, Germany: Luftfahrt-Archiv, 2006. ISBN 3-939847-13-5. 
+* Messerschmitt AG. ''Messerschmitt Bf 109K; technisch Kompendium, Handbüch, Ersatztelliste, Rep.-Answeisung, Bewaffnung Bedienungsvorschrift; 1943-1944. [Elektronische Resource] (Reprint).'' Ludwigsburg, Germany: Luftfahrt-Archiv, 2006. ISBN 3-939847-14-3.
+* Morgan, Eric B and Edward Shacklady. ''Spitfire: The History.'' Stamford: Key Books Ltd, 2000. ISBN 0-946219-48-6.
+* Neulen, Hans Werner. ''In the Skies of Europe.'' Ramsbury, Marlborough, UK: The Crowood Press, 2000. ISBN 1-86126-799-1.
+* Nowarra, Heinz. ''Die Deutsche Luftrustung 1933-1945, Band 3: Flugzeugtypen Henschel - Messerschmitt''. Koblenz, Germany: Bernard  Graefe, 1993. ISBN 3-7637-5467-9.
+* Osché, Philippe (translated by Patrick Laureau). ''The Messerschmitt Bf 109 in Swiss Service''. Boulogne sur Mer, France: Lela Presse, 1996. ISBN 2-91401-731-6.
+* Prien, Jochen and Peter Rodeike. ''Messerschmitt Bf 109 F, G  K Series – An Illustrated Study''. Atglen, PA: Schiffer Publishing Ltd., 1995. ISBN 0-88740-424-3.
+* Price, Alfred. ''Spitfire Mk. I/II Aces (Osprey's Aircraft of the Aces)''. London: Osprey, 1996. ISBN 84-8372-207-0.
+* Punka, György. ''A Messzer: Bf 109s in the Royal Hungarian Honvéd Air Force''. Budapest, Hungary: OMIKK, 1995. ISBN 963-593-208-1.
+* Radinger, Willy and Walter Schick. ''Messerschmitt Me 109 (Alle Varianten: vion Bf (Me) 109A bis Me 109E)''. Oberhaching, Germany: Aviatic Verlag GmbH, 1997. ISBN 3-925505-32-6.
+* Radinger, Willy and Wolgang Otto. ''Messerschmitt Bf 109 F-K – Development, testing, production''. Atglen, PA: Schiffer Publishing Ltd., 1999. ISBN 0-7643-1023-2.
+* Rimmell, Ray. ''ME 109: Messerschmitt Bf 109E''. Chipping Ongar, Essex, UK: Linewrights Ltd., 1986. ISBN 0-946958-18-1.
+* Ritger, Lynn. ''Meserschmitt Bf 109 Prototype to 'E' Variants.'' Bedford, UK: SAM Publications, 2006. ISBN 978-0955185809.
+* Savic, D. and B. Ciglic. ''Croatian Aces of World War II (Osprey Aircraft of the Aces 49)''. Oxford, UK: Oxford, 2002. ISBN 1-84176-435-3.
+* Scutts, Jerry. ''Bf 109 Aces of North Africa and the Mediterranean''. Oxford: Osprey Publishing, 1994. ISBN 1-85532-448-2, ISBN 978-1-85532-448-0.
+* Shores, C., B. Cull and N. Malizia. ''Air War for Yugoslavia, Greece  Crete – 1940-41''. London: Grub Street, 1987. ISBN 0-948817-07-0.
+* Starr, Chris. Developing Power: Daimler-Benz and the Messerschmitt Bf 109. ''Aeroplane'' magazine, Volume 33, No. 5, Issue No 385, May 2005. London: IPC Media Ltd.
+* Stenman, Kari and Kalevi Keskinen. ''Finnish Aces of World War 2 (Osprey Aircraft of the Aces 23)''. London: Osprey Publishing Limited, 1998. ISBN 1-85532-783-X.
+* Taylor, John W.R. Messerschmitt Bf 109. ''Combat Aircraft of the World from 1909 to the present''. New York: G.P. Putnam's Sons, 1969. ISBN 0-425-03633-2.
+* Thompson, J. Steve with Peter. C Smith. ‘’Air Combat Manoeuvres’’. Hersham, Surrey, UK: Ian Allan Publishing, 2008. ISBN 978-1-903223-98-7. 
+* U.S. Army Air Force. ''German Aircraft and Armament: Informational Intelligence, Summary No. 44-32, October 1944 (Informational Intelligence Summary)''. New York: Brassey's Inc., 2000 (first edition 1944). ISBN 1-57488-291-0.
+* Valtonen, Hannu. ''Messerschmitt Bf 109 ja saksan sotatalous (Messerschmitt Bf 109 and the German War Economy).'' Helsinki, Finland: Keski-Suomen Ilmailumuseo (Central Finnish Aviation Museum), 1999. ISBN 978-9-51956-887-4. 
+* Vogt, Harald. ''Messerschmitt Bf 109 G/K Rüstsatze. Flugzeug Profile 21''. Illertissen, Flugzeug Publikations GmbH. 
+* Wagner, Ray and Heinz Nowarra. ''German Combat Planes: A Comprehensive Survey and History of the Development of German Military Aircraft from 1914 to 1945''. New York: Doubleday, 1971.
+* Weal, John. ''Bf 109 Aces of the Russian Front''. Oxford: Osprey, 2001. ISBN 978-1-8417-6084-1. 
+* Weal, John. ''BF 109D/E Aces 1939-41''. Oxford: Osprey, 1996. ISBN 978-1-85532-487-9.
+* Weal, John. ''Bf 109F/G/K Aces of the Western Front''. Oxford: Osprey, 2000. ISBN 978-1-8-5532-905-8.
+* Winchester, Jim. Messerschmitt Bf 109. ''Aircraft of World War II: The Aviation Factfile''. Kent, UK: Grange Books plc, 2004. ISBN 1-84013-639-1.
+* Beale, Nick, Ferdinando D'Amico and Gabriele Valentini. ''Air War Italy: Axis Air Forces from Liberation of Rome to the Surrender''. Shrewsbury, UK: Airlife, 1996. ISBN 1-85310-252-0.
+* Bergström, Christer. ''Barbarossa - The Air Battle: July-December 1941''. London: Chevron/Ian Allen, 2007. ISBN 978-1-85780-270-2.
+* Bergström, Christer and Martin Pegg. ''Jagdwaffe:The War in Russia, January-October 1942.'' Luftwaffe Colours, Volume 3 Section 4. London: Classic Colours Publications, 2003. ISBN 1-903223-23-7.
+{{refend}}
+
+{{Denominacions dels avions del RLM}}
+{{Autoritat}}
+{{Enllaç AB|ru}}
+{{Enllaç AB|sv}}
+{{Enllaç AD|sl}}
+{{Enllaç AD|sv}}
+
+[[Categoria:Avions alemanys de la Segona Guerra Mundial]]
+[[Categoria:Caces]]</text>
+      <sha1>0vp2gvq79rrakxxy5rax53f2l4ydimt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

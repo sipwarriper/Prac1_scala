@@ -1,0 +1,82 @@
+<page>
+    <title>Escala de Torí</title>
+    <ns>0</ns>
+    <id>64685</id>
+    <revision>
+      <id>13416846</id>
+      <parentid>12056167</parentid>
+      <timestamp>2014-05-23T17:38:29Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: Aquests aconteixements es  Aquests esdeveniments es</comment>
+      <text>[[Fitxer:Torino scale big ca.png|300px|thumb|Escala de Torí, amb les seves categories.]]
+L''''Escala de Torí''' és un mètode de classificació del perill d'impacte associat a objectes de tipus NEO (''Near Earth Objects'', [[objectes pròxims a la Terra]]) com per exemple [[asteroides]] i [[cometa|cometes]]. Va ser creada com a instrument d'ús d'[[astrònoms]] i el públic per conèixer ràpidament la perillositat d'un eventual impacte contra [[Terra|el nostre planeta]], combinant la probabilitat estadística i el potencial derivat de l'[[energia cinètica]] que procedeix del mateix impacte. L'[[Escala de Palerm]] de perill tècnic d'impacte (en anglès, ''Palermo Technical Impact Hazard Scale'') és semblant, però més tècnica i complexa.
+
+== Característiques generals ==
+L'Escala de Torí usa una escala de valors de 0 a 10. Un objecte 0 vol dir que aquest té una possibilitat de col·lidir amb la Terra quasi nul·la, o amb efectes com els de la pols espacial normal, és a dir, massa petit per penetrar l'[[atmosfera terrestre|atmosfera]] i arribar a la [[Terra]] sense desintegrar-se. Un valor 10 indica una col·lisió segura, amb efectes a gran escala, com sembrar la destrucció total a la Terra. Només s'expressa en [[nombres enters]], no s'usen valors [[fraccionari]]s o [[nombre decimal|decimals]] en aquesta escala.
+
+S'assigna un valor de 0 a 10 a un objecte tenint en compte la probabilitat de la seva col·lisió i la seva [[energia cinètica]] (expressada en [[megatona|megatones]] de [[Trinitrotoluè|TNT]]). Sobre les megatones, i per posar un exemple, la [[bomba atòmica]] llançada sobre [[Hiroshima]], durant la [[Segona Guerra Mundial]], tenia aproximadament una potència de 13 [[quilotona|kilotones]] de TNT; és a dir, que una megatona de TNT equival a unes 77 bombes atòmiques de Hiroshima.
+
+== Història ==
+L'Escala de Torí va ser creada pel professor [[Richard P. Binzel]], del Departament de la Terra, l'Atmosfera, i les Ciències Planetàries del [[Massachusetts Institute of Technology]] (Institut Tecnològic de Massachussetts) també conegut popularment com el MIT. La primera versió, anomenada '''Índex de perillositat d'objectes NEO''' (en anglès, ''A Near-Earth Object Hazard Index''), va ser presentada a la conferència de les [[Nacions Unides]] de l'any [[1995]], i fou publicada per Binzel en les actes de la conferència (''Annals of the New York Academy of Sciences'', volum 822, 1997).
+
+Una versió revisada de l'Índex de perillositat va ser presentada al juny de [[1999]] en la conferència internacional sobre NEO (''Near Earth Objects'', [[objectes pròxims a la Terra]]) feta a [[Torí]] (''Torino''), [[Itàlia]]. Els participants de la conferència votaren per adoptar la versió revisada, que amb el nou nom d'Escala de Torí reconeixia l'esperit de cooperació internacional, que es mostrà en la conferència, per entendre els perills globals que poden causar els NEO. El [[2005]] es presentà una versió lleugerament modificada per permetre comunicar millor al públic el grau de perill.
+
+== Escala de Torí actual ==
+L'Escala de Torí actual usa l'escala següent de colors (cada un amb un sentit descriptiu): [[blanc]], [[verd]], [[groc]], [[taronja]], [[vermell]]. 
+{| class=bellataula
+!bgcolor=white colspan=2|PERILL NUL (blanc)
+|-bgcolor=white
+|0.||La possibilitat de col·lisió és zero, o tan baixa que és pràcticament zero. S'aplica a objectes petits, com meteors, o cossos celestes que es desintegren al seu pas per l'atmosfera, o que rarament cauen a la Terra en forma de meteorit, i només excepcionalment poden causar danys d'alguna mena.
+|-style=background-color: #32cd32
+!colspan=2|NORMAL (verd)
+|-style=background-color: #8EFF8E
+|1.||Les observacions ocasionals poden descobrir el pas prop de la Terra d'objectes que tenen un cert perill de col·lisió. Els càlculs i anàlisis realitzats mostren que les probabilitats de col·lisió són extremadament baixes i no mereixen molta atenció i preocupació entre la gent. Amb quasi tota probabilitat, les noves observacions que es facin faran que se li reassigni un nivell 0. 
+|-bgcolor=yellow
+!colspan=2|MEREIXEDORS D'ATENCIÓ PER PART DELS ASTRÒNOMS (groc)
+|-bgcolor=#FFFF7F
+|2.||Col·lisió mols improbable d'un objecte que porta una trajectòria d'aproximació a la Terra. Mereix l'atenció dels astrònoms, però no hi ha motiu de preocupació per part de la població, ja que el risc és molt improbable. Les noves observacions poden reassignar-li un nivell de risc 0.
+|-bgcolor=#FFFF7F
+|3.||Encontre pròxim, mereixedor d'atenció per part dels astrònoms. Els càlculs indiquen una probabilitat de col·lisió de fins a un 1%, capaç de causar destrucció a nivell local. Molt probablement, les noves i més precises observacions el recondueixin a un nivell 0. Serà necessari l'atenció del públic i de les autoritats, sobretot si el possible encontre està a menys de 10 anys de distància. 
+|-bgcolor=#FFFF7F
+|4.||Encontre pròxim, mereixedor d'atenció per part dels astrònoms. Els càlculs indiquen una probabilitat de col·lisió de més d'un 1%, capaç de causar destrucció a nivell regional. Molt probablement, les noves i més precises observacions el recondueixin a un nivell 0. Serà necessari l'atenció del públic i de les autoritats, sobretot si el possible encontre està a menys de 10 anys de distància. 
+|-bgcolor=orange
+!colspan=2|ESDEVENIMENTS PREOCUPANTS (taronja)
+|-bgcolor=#FFC966
+|5.||Encontre pròxim amb un objecte que suposa una amenaça seriosa, però encara incerta, de devastació regional. Una especial atenció per part dels astrònoms és necessària per determinar si existeix o no la possibilitat d'una topada. Si la col·lisió està prevista per abans de 10 anys, s'han de considerar mesures governamentals d'urgència.
+|-bgcolor=#FFC966
+|6.||Encontre pròxim amb un objecte que suposa una amenaça seriosa, però encara incerta, de devastació regional. Una especial atenció per part dels astrònoms és necessària per determinar si existeix o no la possibilitat d'una topada. Si la col·lisió està prevista per abans de 30 anys, s'han de considerar mesures governamentals d'urgència.
+|-bgcolor=#FFC966
+|7.||Encontre molt pròxim a un gran objecte, que si ocorregués en el mateix segle, seria una amenaça sense precedents, però encara incerta, de catàstrofe global. En aquests casos, s'han de planificar mesures internacionals, i especialment la necessitat de determinar ràpidament i amb la major certesa possible si la col·lisió tindrà lloc o no.
+|- style=background-color: red; color: black;
+!colspan=2|COL·LISIÓ SEGURA (vermell)
+|- style=background-color:#FF5E5E; color: white;
+|8.||La col·lisió és segura, i amb capacitat per causar destrucció localitzada si impacta en terra, o un tsunami si impacta al mar. Aquests esdeveniments es presenten de mitjana entre una vegada cada 50 anys i una vegada cada diversos milers d'anys.
+|- style=background-color: #FF5E5E; color: white;
+|9.||La col·lisió és segura, i amb capacitat per causar destrucció regional si impacta en terra, o un tsunami devastador si impacta al mar. Aquests aconteixements es presenten de mitjana entre una vegada cada 10.000 anys i una vegada cada 100.000 anys.
+|- style=background-color: #FF5E5E; color: white;
+|10.||La col·lisió és segura, i amb capacitat per causar una catàstrofe climàtica global que pugui amenaçar el futur de la civilització tal com la coneixem, impacti on impacti, sigui en terra ferma o en la mar. Aquests esdeveniments es presenten de mitjana una vegada cada 100.000 anys, o menys freqüentment.
+|}
+
+== Objectes d'alt risc ==
+El rècord de classificació més alta en l'escala el posseeix [[(99942) Apophis]], un [[asteroide]] de 320 metres de diàmetre. El [[23 de desembre]] de [[2004]], el programa de la [[NASA]] dedicat als asteroides amb potencial risc d'impacte va categoritzar Apophis (conegut llavors pel seu nom provisional 2004 MNsub4/sub) en el nivell 2, que posteriorment va ser augmentat a nivell 4, per ser rebaixat després a nivell 1 i, finalment, a nivell 0. Apophis s'aproximarà molt a la [[Terra]] el [[13 d'abril]] de [[2029]], encara que no té possibilitats considerables de col·lisió. En aquell moment serà suficientment desviat per l'atracció gravitacional de la Terra, fent impossible predir amb certesa la trajectòria que agafarà posteriorment i la distància a la que passarà de la Terra en els encontres dels anys [[2036]] i [[2069]]. Abans d'Apophis, cap NEO havia tingut mai un nivell superior a 1, després d'ell, només l'asteroide [[2004 VD17|2004 VDsub17/sub]] va aconseguir el nivell 2 durant uns mesos del [[2006]]. Actualment, hi ha aproximadament 100 objectes categoritzats a l'Escala de Torí, gairebé tots amb nivell 0.
+
+Degut a l'exagerada cobertura mediàtica d'asteroides com el [[2003 QQ47|2003 QQsub47/sub]], els astrònoms començaren a treballar en una Escala de Torí reformada i publicada en el 2005 (la que apareix en la secció anterior), a fi de generar menys falses alarmes susceptibles de reduir la confiança del públic en les alertes justificades. Una altra alternativa podria ser l'[[Escala de Palerm]].
+
+== Enllaços externs ==
+* [http://neo.jpl.nasa.gov/torino_scale1.html L'Escala de Torí (Pàgina de la NASA)] {{en}}
+* [http://www.astroseti.org/vernew.php?codigo=1699 Pàgina sobre objectes NEO i la seva recerca] {{es}}
+* [http://neo.jpl.nasa.gov/risk/ Llista actualitzada d'objectes que suposen un perill d'impacte per a la Terra. (Pàgina de la NASA)] {{en}}
+
+
+{{ORDENA:Escala De Tori}}	!--ORDENA generat per bot--
+[[Categoria:Sistema solar]]
+[[Categoria:Escales|Tori]]</text>
+      <sha1>l2lv2b2c2jnqro9ev8u22iwz32tpk9r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

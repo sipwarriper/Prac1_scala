@@ -1,0 +1,63 @@
+<page>
+    <title>Piezoelectricitat</title>
+    <ns>0</ns>
+    <id>50440</id>
+    <revision>
+      <id>13596210</id>
+      <parentid>13574961</parentid>
+      <timestamp>2014-06-14T21:02:16Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: d'Estats Units</comment>
+      <text>La '''piezoelectricitat''' és la capacitat de certs [[cristall|cristalls]] de generar una [[diferència de potencial]] quan se'ls sotmet a una deformació mecànica. La paraula deriva del grec ''piezein'', que significa «esprémer» o «estrènyer». L'efecte piezoelèctric és reversible: els cristalls piezoelèctrics es poden deformar quan se'ls aplica una diferència de potencial externa; la deformació resultant és, però, molt petita, d'aproximadament un 0,1% de les dimensions originals. El [[1880]], els germans [[Pierre Curie]] i Jacques Curie prediren i demostraren la piezoelectricitat en diversos cristalls, entre els quals la [[turmalina]], el [[quars]] i el [[topazi]]. L'efecte invers fou predit per Lippmann el [[1881]] i els germans Curie acosneguiren observar-lo experimentalment poc després.
+
+[[Fitxer:Piezoelectric_pickup1.jpg|thumb|right|250px|[[Sensor piezoelèctric]] en una [[guitarra]] clàssica. ]]
+
+A més dels materials citats abans, molts altres exhibeixen aquest efecte. Es poden citar els cristalls semblants al quars, com la [[sal de La Rocelle]], la [[berlinita]] (AlPO{{mida|1=sub4/sub}}) i l'ortofosfat de gali (GaPO{{mida|1=sub4/sub}}), els materials ceràmics amb [[perovskita]] o estructures [[tungstè]]-[[bronze]] 
+(BaTiO{{mida|1=sub3/sub}}, 
+KNbO{{mida|1=sub3/sub}}, 
+LiNbO{{mida|1=sub3/sub}}, 
+LiTaO{{mida|1=sub3/sub}}, 
+BiFeO{{mida|1=sub3/sub}}, 
+Na{{mida|1=subx/sub}}WO{{mida|1=sub3/sub}}, 
+Ba{{mida|1=sub2/sub}}NaNb{{mida|1=sub5/sub}}O{{mida|1=sub5/sub}}, 
+Pb{{mida|1=sub2/sub}}KNb{{mida|1=sub5/sub}}O{{mida|1=sub15/sub}}).
+Els [[polímer]]s com la goma, la [[llana]], el [[cabell]] i la [[seda]] exhibeixen una lleugera piezoelectricitat. Per altra banda, el polímer fluorur de [[polivinilidè]], [[PVDF]], presenta una piezoelectricitat considerablement més gran que la del quars.
+
+Poden distingir-se també dos grups de materials: els que posseeixen caràcter piezoelèctric de forma natural (quars, turmalina...) i els anomenats ferroelèctrics, que presenten propietats piezoelèctriques després de ser sotmesos a una polarització (tantalat de liti, nitrat de liti, bernilita en forma de materials monocristal·lins i ceràmiques o polímers polars sota forma de microcristalls orientats).
+
+==Història de la piezoelectricitat==
+El primer cop que es va observar el fenomen piezoelèctric va ser el [[1880]] pels germans francesos [[Pierre Curie|Pierre i Jacques Curie]], quan estudiaven la compressió del [[quars]]. Ells dos van descobrir l'[[efecte piezoelèctric directe]], en adonar-se que, en comprimir el quars, es generava una diferència de potencial entre les cares del cristall.
+
+Tanmateix, els dos germans no van predir l'[[efecte piezoelèctric invers]], que va ser deduït de forma matemàtica a partir dels principis fonamentals de la termodinàmica pel físic luxemburguès [[Gabriel Lippmann]], i confirmat de forma immediata pels germans Curie.
+
+Tanmateix, durant les següents dècades la piezoelectricitat va romandre com una simple curiositat de laboratori sense cap aplicació, tot i que es va seguir investigant dins del camp fins al punt culminant de la publicació de l'alemany [[Woldemar Voigt]] del seu [[Lehrbuch der Kristallphysik]] (Manual de la Física dels Cristalls) el 1910.
+No fou fins al 1917, en el context de la [[Primera Guerra Mundial]], quan es va trobar una aplicació pràctica per a tal efecte. Aquest fou el [[sònar]], desenvolupat a [[França]] per [[Paul Langevin]] i el seu equip. Aquest invent feia servir les propietats del quars, primer llançant una ona d'alta freqüència amb un [[transductor]] format pel ja citat cristall de quars, situat entre dues plaques metàl·liques, i un [[hidròfon]] per detectar l'eco rebut. Calculant el temps que trigava a retornar l'eco de l'ona emesa, es podia calcular la distància a la qual un es trobava de l'objecte amb què havia topat l'ona.
+
+L'èxit del sònar com a aplicació pràctica de l'efecte piezoelèctric va fer que durant les dècades següents es fes un gran salt quantitatiu i qualitatiu en la investigació en aquest camp. Es van desenvolupar nous [[materials piezoelèctrics]], i es va incloure aquesta tecnologia als [[gramòfon|gramòfons]], fent-los més barats i accessibles; en la investigació de materials, per mesurar la [[viscositat]] i [[elasticitat]] de sòlids i fluids; en [[reflectòmetre|reflectòmetres]] que permetien trobar falles estructurals en metalls i pedres, millorant la seguretat estructural, per citar només alguns exemples.
+
+Durant la [[Segona Guerra Mundial]], grups de recerca de [[Rússia]], [[Japó]] i [[Estats Units]] van descobrir i desenvolupar els [[materials piezoelèctrics sintètics]], anomenats ferroelèctrics, que tenien propietats piezoelèctriques molt més elevades que els materials naturals. Això va dur al desenvolupament de materials tals com el [[titanat de bari]] i d'altres similars amb propietats específiques per a aplicacions particulars.
+
+Als Estats Units les companyies mantenien un cert secretisme al voltant del desenvolupament de materials i dispositius piezoelèctrics, degut als inicis del camp dins del sector militar i a l'interès per assegurar-se les noves [[patent|patents]]. Malgrat els avanços que es van dur a terme, però, el mercat americà no va créixer en consonància degut a la manca de noves aplicacions pràctiques, fet que va ressentir fortament la [[indústria piezoelèctrica]] en aquest país.
+
+Per contra, el flux d'informació entre fabricants fou molt fluid al Japó, i la competència existent va fer avançar molt la tecnologia i obrir nous mercats. Els esforços nipons van aconseguir crear materials competitius amb els americans a nivell d'especificacions, amb el plus afegit de no estar subjectes a les cares restriccions de les patents dels Estats Units. Entre els èxits japonesos més destacables s'hi poden trobar [[filtres piezoceràmics]] per ràdios i televisions, [[transductors d'àudio]] que es podien connectar directament a [[circuit electrònic|circuits electrònics]] i l'[[encenedor piezoelèctric]], d'aplicació en petits [[motor d'ignició|motors d'ignició]] i en encenedors de butxaca.
+
+Avui en dia, els materials piezoelèctrics són d'aplicació pràctica en moltes situacions de la vida quotidiana, així com en els sectors industrial, d'investigació i militar.
+
+==Vegeu també==
+* [[Micròfon piezoelèctric]]
+* [[Altaveu piezoelèctric]]
+
+{{Commonscat}}
+
+{{Esborrany d'electromagnetisme}}
+
+[[Categoria:Electromagnetisme]]</text>
+      <sha1>6gwrmo5yelib3cmaptm1wekthgbwujr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,264 @@
+<page>
+    <title>Energia nuclear</title>
+    <ns>0</ns>
+    <id>158162</id>
+    <revision>
+      <id>13809587</id>
+      <parentid>13594461</parentid>
+      <timestamp>2014-07-13T09:10:50Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:Little boy.jpg|thumb|Una maqueta de la carcasa de la bomba nuclear ''[[Little Boy]]''.]]
+L''''energia nuclear''' és l'[[energia]] de lligam que uneix les partícules que formen el [[Nucli atòmic|nucli]] dels [[àtom]]s de cada [[element químic]] i que s'obté en modificar aquests nuclis per mitjà de certes reaccions nuclears. Una [[reacció nuclear]] és aquella en que el [[nucli atòmic]] d'un element resulta modificat, ja sigui alterant-se els seus nivells d'energia, passant a esdevenir un [[isòtop]] diferent, dividint-se en dos o més fragments ([[Fissió nuclear|fissió]]), o bé unint-se a un segon nucli ([[Fusió nuclear|fusió]]). Alguns d'aquests processos es donen espontàniament a la natura en alguns nuclis, i de vegades poden provocar-se mitjançant tècniques com ara el bombardeig de neutrons. La principal característica d'aquesta [[font d'energia]] és l'alta quantitat d'energia que pot alliberar per unitat de [[massa]] del [[combustible]] utilitzat en comparació amb qualsevol altra emprada per l'[[ésser humà]].
+
+[[Fitxer:Ikata Nuclear Powerplant.JPG|thumb|right|[[Central nuclear]] de [[Ikata]], amb tres [[reactor nuclear|reactors]] [[PWR|d'aigua a pressió]]. La refrigeració es realitza usant aigua de l'oceà, que s'hi aboca calenta.]]
+[[Fitxer:Susquehanna steam electric station.jpg|thumb|right|Central nuclear Susquehanna, amb dos reactors [[BWR|d'aigua bullint]]. La refrigeració es realitza en circuit tancat.]]
+
+Hi ha dues formes diferents d'obtenir energia nuclear: la [[fissió nuclear]], en la qual un nucli atòmic es trenca en dos o més fragments (emetent també neutrons, fotons i d'altres partícules), i la [[fusió nuclear]], en la qual dos nuclis atòmics s'uneixen per a donar lloc a un de més pesant (acompanyada també de l'emissió de [[radiació]]). Una altra tècnica, emprada en aplicacions autònomes de llarga durada i significatiu consum elèctric, és la utilització de [[Generador termoelèctric per radioisòtops|generadors termoelèctrics de radioisòtops]] (GTR, o en anglès RTG), en els que mitjançant l'[[efecte Seebeck]] s'aprofita la calor generada per una font radioactiva per produir [[electricitat]]. Aquests [[generador]]s també reben popularment el nom de piles atòmiques.
+
+En una [[central nuclear]], l'energia nuclear alliberada es manifesta en forma d'[[energia cinètica]] de les partícules emeses i de [[radiació electromagnètica]], que generen [[calor]]. Aquesta [[energia tèrmica]] pot transformar-se en [[energia mecànica]] mitjançant [[Màquina tèrmica|màquines tèrmiques]], com ara les [[turbines de vapor]]. L'energia mecànica pot transformar-se en [[energia elèctrica|elèctrica]] ([[electricitat]]) per a la seva distribució a la [[xarxa elèctrica]], o bé pot ésser emprada directament en el [[transport]], com per exemple a vaixells i [[Submarí nuclear|submarins]] de propulsió nuclear.
+
+== Fonaments físics ==
+{{principal|Física nuclear}}
+[[Fitxer:Isotopes and half-life.PNG|esquerra|thumb|Gràfic d'isòtops. A l'eix d'abscisses es representa el nombre de protons (Z) mentre que en l'eix d'ordenades el nombre de neutrons (N). Els isòtops marcats en vermell són aquells que poden considerar estables.]]
+
+[[James Chadwick]] va descobrir el [[neutró]] el [[1933]], any que es pot considerar com l'inici de la física nuclear moderna.refSettle, Frank (2005). [http://www.chemcases.com/nuclear/nc-01.htm Nuclear Chemistry. Discovery of the Neutron (1932)], ''General Chemistry Case Estudies'', a ''chemcases.com''. Consultat el 08-04-2008. (en anglès)/ref El model d'[[àtom]] proposat per [[Niels Bohr]] consisteix en un nucli central format per partícules que concentren la pràctica majoria de la massa de l'àtom ([[neutrons]] i [[protons]]), envoltat per diverses capes de partícules carregades, gairebé sense massa ([[electrons]]). Mentre que la grandària de l'àtom resulta ser d'aproximadament l'[[àngstrom]] (10sup-10/sup [[metre|m]]), el nucli pot mesurar en [[Femtòmetre|fermis]] (10sup-15/sup [[metre|m]]); o sigui, el nucli és 100.000 vegades menor que l'àtom. 
+
+Tots els àtoms neutres, és a dir, sense càrrega elèctrica, tenen el mateix nombre d'electrons que de protons. Un [[element químic]] es pot identificar de manera inequívoca pel nombre de protons que posseeix el nucli. Aquest nombre s'anomena [[nombre atòmic]] (Z). El nombre de neutrons (N) per a un mateix element, però, pot variar. Per a valors baixos de Z aquest nombre tendeix a ser molt semblant al de potons, però en augmentar Z es necessiten més neutrons per mantenir l'estabilitat del nucli. Als àtoms als quals només els distingeix el nombre de neutrons en el seu nucli (en definitiva, la seva massa), se'ls anomena [[isòtop]]s. La [[massa atòmica]] d'un isòtop ve donada per A = Z + N u, on s'indica el nombre de protons més el de neutrons que té al seu nucli.
+
+Per anomenar un isòtop se sol utilitzar la lletra que indica l'element químic, amb un superíndex que és la massa atòmica i un subíndex que és el nombre atòmic (per exemple, l'isòtop 238 de l'[[urani]] s'escriuria (math{}_{92}^{238}\!U/math).
+
+=== El nucli atòmic===
+{{principal|Nucli atòmic}}
+
+Els neutrons i protons que formen els nuclis tenen una massa aproximada d'1 u, estant el protó carregat elèctricament amb càrrega positiva +1, mentre que el neutró no té càrrega elèctrica. Tenint en compte únicament l'existència de les forces electromagnètica i gravitatòria, el nucli seria inestable, fent impossible l'existència de la matèria. Per aquest motiu (ja que és obvi que la matèria existeix) va ser necessari afegir als models una tercera força: la força forta (avui en dia força nuclear forta residual). Aquesta força havia de tenir com a característiques, entre d'altres, que era atractiva a distàncies molt curtes (només a l'interior dels nuclis), sent repulsiva a distàncies més curtes (de la mida d'un nucleó), que era central en cert rang de distàncies, que depenia de l'espín i que no depenia del tipus de nucleó (neutrons o protons) sobre el qual actuava. El 1935, Hideki Yukawa va donar una primera solució a aquesta nova força establint la hipòtesi de l'existència d'una nova partícula: el mesó. El més lleuger dels fondes, el pioner, és el responsable de la major part del potencial entre nucleó de llarg abast (1 fm). El potencial de Yukawa (potencial OPEP) que descriu adequadament aquesta part de la força forta es pot escriure de la següent manera:
+mathV(r)= \frac {g_{\pi}^2 \cdot (m_{\pi}\cdot c^2)^3}{3 (M \cdot c^2)^2 \cdot {\hbar}^2} \cdot \left [ s_1 \cdot s_2 + S_{12} 1+ \frac{3R}{r} + \frac{3R^2}{r^2} \right ] \cdot \frac {e^{- \frac {r}{R}}}{\frac{r}{R}}/math
+
+Altres experiments que es van realitzar sobre els nuclis van indicar que la seva forma devia ser aproximadament esfèrica de radi mathR = 1,5 \cdot A^{1/3}/math fm, sent A la massa atòmica, és a dir, la suma de neutrons i protons. Això exigeix a més que la densitat dels nuclis sigui la mateixa (mathV \alpha R^3 \alpha A/math, és a dir el volum és proporcional a A. Com la densitat es troba dividint la massa pel volum math\rho = \frac{A}{V} = cte/math). Aquesta característica va portar a l'equiparació dels nuclis amb un líquid, i per tant al model de la gota líquida, fonamental en la comprensió de la fissió dels nuclis.
+[[Fitxer:Binding energy curve - common isotopes.svg|thumb|left|300px|Energia de lligadura mitjana per nucleó dels iguals elements atòmics en funció de la seva massa atòmica]]
+
+La massa d'un nucli, però, no és exactament de la suma dels seus nucleó. Tal com va demostrar [[Albert Einstein]], l'energia que manté units a aquests nucleó s'observa com una diferència en la massa del nucli, de manera que aquesta diferència ve donada per l'equació mathE=m \cdot c^2/math. Així, pesant els diferents àtoms d'una banda, i els seus components de l'altra, pot determinar l'energia mitjana per nucleó que manté units als diferents nuclis.
+
+A la gràfica es pot contemplar com els nuclis molt lleugers tenen menys energia de lligadura que els que són una mica més pesants (la part esquerra de la gràfica). Aquesta característica és la base de l'alliberament de l'energia en la fusió. I al contrari, a la part de la dreta es veu que els molt pesants tenen menor energia de lligadura que els que són una mica més lleugers. Aquesta és la base de l'emissió d'energia per fissió. Com es veu, és molt més gran la diferència en la part de l'esquerra (fusió) que a la de la dreta (fissió).
+
+=== Fissió o trencament d'un nucli atòmic===
+{{principal|Fissió nuclear}}
+[[Fitxer:Fission product-en.svg|thumb|right|Distribució típica de les masses dels productes de fissió. La gràfica representa el cas de l'urani 235.]]
+
+[[Enrico Fermi]], després del descobriment del neutró, va realitzar una sèrie d'experiments en els quals bombardejada diferents nuclis amb aquestes noves partícules. En aquests experiments va observar que quan utilitzava neutrons d'energies baixes, de vegades el neutró era absorbit emetent fotons.
+
+Per esbrinar el comportament d'aquesta reacció va repetir l'experiment sistemàticament en tots els elements de la taula periòdica. Així va descobrir nous elements radioactius, però en arribar al urani va obtenir resultats diferents. Lise Meitner, Otto Hahn i Fritz Strassmann van aconseguir explicar el nou fenomen en suposar que el nucli d'urani al capturar el neutró es va escindir en dues parts de masses aproximadament iguals. De fet van detectar bari, de massa aproximadament la meitat que la de l'urani. Posteriorment es va esbrinar que aquesta escissió (o fissió) no es donava en tots els isòtops de l'urani, sinó només en el 235U. I més tard encara es va saber que aquesta escissió podia donar lloc a molts elements diferents, la distribució d'aparició és molt típica (semblant a la doble geperuda d'un camell).
+[[Fitxer:Nuclear fission.svg|thumb|left|Esquema del fenomen de la fissió de l'sup235/supU. Un neutró de baixa velocitat (tèrmic) impacta en un nucli d'urani desestabilitzador. Aquest es divideix en dues parts i a més emet una mitjana de 2,5 neutrons per fissió.]]
+
+A la fissió d'un nucli d'urani, no només apareixen dos nuclis més lleugers resultat de la divisió del d'urani, sinó que a més s'emeten 2 o 3 (amb una mitjana de 2,5 en el cas del sup235/supU) neutrons a una alta velocitat (energia). Com l'urani és un nucli pesant no es compleix la relació N = Z (igual nombre de protons que de neutrons) que sí que es compleix per als elements més lleugers, per tant, els productes de la fissió tenen un excés de neutrons. Aquest excés de neutrons fa inestables (radioactius) a aquests productes de fissió, que assoleixen l'estabilitat al desintegrar els neutrons excedents per desintegració beta generalment. La fissió de l'235U pot produir-se en més de 40 formes diferents, originant per tant més de 80 productes de fissió diferents, que al seu torn es desintegren formant cadenes de desintegració, per la qual cosa finalment apareixen prop de 200 elements a partir de la fissió de l'urani.
+
+L'energia despresa en la fissió de cada nucli de sup235/supU és d'una mitjana de 200 MeV. Els minerals explotats per a l'extracció de l'urani solen posseir continguts de voltant d'1 gram d'urani per kg de mineral (la pechblenda per exemple). Com el contingut de sup235/supU en l'urani natural és d'un 0,7%, s'obté que per cada kg de mineral extret tindríem math1,8 \cdot 10^{19}/math àtoms de sup235/supU. Si fissió tots aquests àtoms (1 gram d'urani) obtindríem una energia alliberada de math3,6 \cdot 10^{27} eV = 5,8 \cdot 10^{8} J/math per gram. En comparació, per la combustió d'1 kg de carbó de la millor qualitat (antracita) s'obté una energia d'uns math4 \cdot 10^{7} J/math, és a dir, es necessiten més de 10 tones d'antracita (el tipus de carbó amb més poder calorífic) per obtenir la mateixa energia continguda en 1 kg d'urani natural.
+
+L'aparició dels 2,5 neutrons per cada fissió possibilita la idea de dur a terme una reacció en cadena, si s'aconsegueix fer que d'aquests 2,5 almenys un neutró aconsegueixi fissió un nou nucli d'urani. La idea de la reacció en cadena és habitual en altres processos químics. Els neutrons emesos per la fissió no són útils immediatament, sinó que cal frens (moderats) fins a una velocitat adequada. Això s'aconsegueix envoltant els àtoms per un altre element amb un Z petit, com per exemple hidrogen, carboni o liti, material anomenat moderador.
+
+Altres àtoms que poden fissió amb [[neutrons lents]] són el sup235/supU o el sup239/supPu. No obstant això també és possible la fissió amb neutrons ràpids (d'energies altes), com per exemple el sup238/supU (140 vegades més abundant que el sup235/supU) o el 232Th (400 vegades més abundant que el sup235/supU).
+
+La teoria elemental de la fissió la proporcionaren Bohr i Wheeler, utilitzant un model segons el qual els nuclis dels àtoms es comporten com gotes líquides.
+
+La fissió es pot aconseguir també mitjançant partícules alfa, protons o deuterons.
+
+=== Fusió de dos o més nuclis atòmics===
+{{principal|Fusió nuclear}}
+[[Fitxer:Deuterium-tritium_fusion.svg|thumb|right|Procés de fusió entre un nucli de [[deuteri]] i un de [[triti]]. És l'opció més adequada per a ser duta a terme en un reactor nuclear de fusió.]]
+Així com la fissió és un fenomen que apareix en l'escorça terrestre de manera natural (si bé amb una freqüència petita), la fusió és absolutament artificial en el nostre entorn. Tanmateix, aquesta energia té avantatges respecte a la fissió. D'una banda el combustible és abundant i fàcil d'aconseguir, i per altra, els seus productes són elements estables i lleugers.
+
+A la fusió, al contrari que en la fissió on es divideixen els nuclis, la reacció consisteix en la unió de dos o més nuclis lleugers. Aquesta unió dóna lloc a un nucli més pesant que els utilitzats inicialment ja neutrons. La fusió es va aconseguir fins i tot abans de comprendre completament les condicions que es necessitaven, limitant-se a aconseguir condicions extremes de pressió i temperatura utilitzant una bomba de fissió. Però no és fins que Lawson defineix uns criteris de temps, densitat i temperatura mínims quan es comença a comprendre el funcionament de la fusió.ref name=Lawson[http://www.jet.efda.org/pages/publications/yop/dec05-aere-gpr1807.pdf Condicions de Lawson per a construir un reactor de fusió útil] {{pdf}}/ref
+
+Encara que en les estrelles la fusió es dóna entre una varietat d'elements químics, l'element amb el que és més senzill aconseguir és l'hidrogen. L'hidrogen té tres isòtops: l'hidrogen comú (math{}_1^1\!H/math), el deuteri (math{}_1^2\!H/math) i el triti (math{}_1^3\!H/math). Això és així perquè la fusió requereix que es venci la repulsió electrostàtica que experimenten els nuclis en unir-se, per la qual cosa a menor càrrega elèctrica, més baixa serà aquesta. A més, a major quantitat de neutrons, més pesant serà el nucli resultant (més amunt estarem a la gràfica de les energies de lligadura), amb el que més gran serà l'energia alliberada en la reacció.
+
+Una reacció particularment interessant és la fusió de deuteri i triti:
+math{}_1^2\!H + {}_1^3\!H \rightarrow {}_2^4\!He + n + 17,6 MeV/math
+
+En aquesta reacció s'alliberen 17,6 MeV per fusió, més que a la resta de combinacions amb isòtops d'hidrogen. A més, aquesta reacció proporciona un neutró molt energètic que es pot aprofitar per generar combustible addicional per reaccions posteriors de fusió, utilitzant liti, per exemple. L'energia alliberada per gram amb aquesta reacció és gairebé 1.000 vegades més gran que l'assolida en la fissió d'1 gram d'urani natural (unes 7 vegades superior si fos un gram de 235U pur).
+
+Per vèncer la repulsió electrostàtica, és necessari que els nuclis a fusionar assoleixin una energia cinètica d'aproximadament 10 keV. Aquesta energia s'obté mitjançant un intens escalfament (igual que en les estrelles, on s'assoleixen temperatures de 108 K), que implica un moviment dels àtoms igual d'intens. A més d'aquesta velocitat per vèncer la repulsió electrostàtica, la probabilitat que es produeixi la fusió ha de ser elevada perquè la reacció succeeixi. Això implica que s'han de posseir suficients àtoms amb energia suficient durant un temps mínim. El criteri de Lawson defineix que el producte entre la densitat de nuclis amb aquesta energia pel temps durant el qual han de romandre en aquest estat ha de ser mathn \cdot \tau = 10^{14} s \cdot nucleos \cdot cm^{-3}/math.
+
+Els dos mètodes en desenvolupament per aprofitar de manera útil l'energia despresa en aquesta reacció són el confinament magnètic i el confinament inercial (amb fotons que provenen de làser o partícules que provenen d'acceleradors).
+
+===Radioactivitat===
+{{AP|Radioactivitat}}
+
+[[Fitxer:Microsievert.jpg|thumb|Efectes en els humans]]
+La [[radioactivitat]] és un procés al qual certs àtoms amb [[Nucli atòmic|nuclis atòmics]] [[estabilitat del nucli atòmic|inestables]] es transformen espontàniament en [[nucleid]]s diferents perdent [[energia]] en forma de raigs de [[Partícula subatòmica|partícules]], de vegades acompanyats de raigs d'[[Radiació electromagnètica|ones electromagnètiques]], per tal d'assolir uns nuclis atòmics més estables i de menor [[massa]], ja que al procés perden part d'ella per [[desintegració]], que pot ser [[desintegració alfa]] o [[desintegració beta]], segons les partícules que emetin ([[radiació alfa]] o [[radiació beta|beta]] respectivament). Els raigs emesos es consideren [[radiacions ionitzants]] i la seva absorció en organismes es mesura en [[Sievert]]s. La irradiació d'aquests a un organisme viu comporta efectes entre poc negatius i nefastos per a la seva salut, depenent de la quantitat de radioactivitat rebuda, del nombre d'exposicions i de la durada d'aquestes. 
+
+====Desintegració alfa ====
+{{principal|Desintegració alfa|Radiactivitat alfa}}
+[[Fitxer:Alpha Decay.svg|thumb|right|Representació de l'emissió d'una partícula alfa per un nucli]]
+La [[desintegració alfa]] és una forma de fissió en la qual un nucli d'un àtom gran emet una [[partícula alfa]] i energia, típicament 5 M[[electró volt|eV]]. Una partícula alfa és un nucli d'[[heli]], constituït per dos protons i dos neutrons. En la seva emissió el nucli canvia, per la qual cosa l'[[element químic]] que pateix aquest tipus de desintegració es transforma en un altre de diferent, corresponent al que té dos protons menys, és a dir al que té un [[nombre atòmic]] inferior en dues unitats. El [[nombre màssic]] del nucleid resultant tindrà quatre (2 protons + 2 neutrons) unitats menys que el de partida. Una reacció [[radiactivitat natural|natural]] típica és la següent:
+
+math
+{}^2{}^{38}_{92}\hbox{U}\;\to\;{}^2{}^{34}_{90}\hbox{Th}\;+\;\alpha
+/math
+
+En la que un àtom de sup238/supU es transforma en un altre sup234/supTh.
+
+El 1928, George Gamow va donar una explicació teòrica a l'emissió d'aquestes partícules. Per això va suposar que la partícula alfa convivia a l'interior del nucli amb la resta dels nucleons, d'una forma gairebé independent. Per [[efecte túnel]] en algunes ocasions aquestes partícules superen el pou de potencial que crea el nucli, separant d'ell a una [[velocitat]] d'un 5% la [[velocitat de la llum]]. L'emissió de partícules alfa és la [[radiactivitat alfa]], un tipus de [[radiactivitat]].
+
+==== Desintegració beta ====
+{{principal|Desintegració beta|Radiactivitat beta}}
+[[Fitxer:Beta-minus Decay.svg|thumb|right|Representació d'una partícula beta emesa per un nucli]]
+Hi ha dues maneres de [[desintegració beta]]. En el tipus βsup−/sup la [[força feble]] converteix un neutró (''n''sup0/sup) en un protó (''p''sup+/sup) i al mateix temps emet un [[electró]] (''e''sup−/sup) i un antineutrí (math\bar{\nu}_e/math):
+: mathn^0 \rightarrow p^+ + e^- + \bar{\nu}_e/math.
+
+En el tipus βsup+/sup un protó es transforma en un neutró emetent un [[positró]] (''e''sup+/sup) i un [[neutrí]] (math\nu_e/math):
+: mathp^+ \rightarrow n^0 + e^+ + \nu_e/math.
+
+Tanmateix, aquest últim manera no es presenta de forma aïllada, sinó que necessita una aportació d'energia de l'exterior aplicada artificialment.
+
+La desintegració beta, en modificar el nombre de neutrons i el nombre de protons del nucli de l'àtom, fa que augmenti (cas βsup-/sup) o disminueixi (cas βsup+/sup) en 1 el seu [[nombre atòmic]] i passi a ser un altre [[element químic]]. Per exemple, en la desintegració βsup-/sup l'element es transforma en un altre amb un protó (i un electró) més. Així en la desintegració de l'sup137/supCs per βsup−/sup apareix sup137/supBa. L'emissió de partícules beta és la [[radiactivitat beta]], un tipus de [[radiactivitat]].
+
+== Quantificació de l'energia nuclear de lligan a cada àtom ==
+
+El físic Carl Friedrich von Weizsäcker va confeccionar una equació de l'energia nuclear de lligam per a cada nucli segons el nombre de [[protons]] (Z), de [[neutrons]] (N) i de [[nucleons]] (A), suma de protons i neutrons, que conté. L'equació és semi[[empírica]] ja quela seva estructura té un raonament basat en les diferents interaccions entre els nucleons (protons i neutrons) mentre que els coeficients de cada terme són una estimació a partir de les dades [[experiment]]als de diferents nuclis.
+
+mathE/A=a -b/A^{1/3} -c Z^2/A^{4/3} -d (N-Z)^2/A^2 \pm e/A^{7/4}/math
+
+* El terme matha/math respon a l'energia de volum
+* El terme math-b/A^{1/3}/math respon a la [[tensió superficial]]
+* El terme math-c Z^2/A^{4/3}/math respon a la [[Atracció electrostàtica|repulsió electrostàtica]] de [[Coulomb]]
+* El terme math-d (N-Z)^2/A^2/math respon a la [[simetria]] neutrons/protons
+* El terme math\pm e/A^{7/4}/math respon a la paritat (+ per valors [[parell]]s, - per a [[senar]]s)
+
+A partir d'aquesta equació es pot deduir que l'energia per nucleó és més òptima per al [[ferro]], de forma que si donem la suficient energia d'activació (col·lisió de nuclis lleugers, bombardeig amb neutrons de nuclis pesants) tant els nuclis més lleugers com més pesants poden patir reaccions nuclears que els portin cap a l'estructura nuclear del ferro. De fet, a les [[estrella (astronomia)|estrelles]] es produeixen reaccions de fusió des de nuclis lleugers cap al ferro. Una vegada que tots els nuclis són de ferro, si la massa a l'estrella supera el [[límit de Chandrasekhar]] aquesta pot transformar-se amb el col·lapse gravitacional en una [[estrella de neutrons]] o en un [[forat negre]], després de patir una explosió de [[supernova]] en el seu col·lapse.
+
+[[Fitxer:Binding energy curve - common isotopes.svg|400px|center|Energia de lligam per nucleó]]
+
+== Aplicacions ==
+{{AP|Tecnologia nuclear}}
+{{imatge múltiple
+ |alineació= right
+ |direcció= horizontal
+ |capçalera= 
+ 
+ |imatge1= AtomicEffects-p10a.jpg
+ | alt1 = Murs 2
+ |peu1= Fotografia de Nagasaki abans de l'atac nuclear.
+ |amplada1= 220
+
+ |imatge2= AtomicEffects-p10b.jpg
+ | alt2 = Murs 2
+ |peu2= Fotografia de Nagasaki després del bombardeig.
+ |amplada2= 220
+}}
+
+Les [[Bomba atòmica|bombes nuclears]] es fonamenten en una reacció de fissió explosiva i es van emprar per primera vegada en [[Hiroshima]] i [[Nagasaki]], durant la [[Segona Guerra Mundial]]. Les bombes termonuclears són més potents i es fonamenten en reaccions de fusió d'hidrogen activades per una reacció prèvia de fissió. La [[bomba del Tsar]] és, fins ara, la bomba més gran i poderosa que ha esclatat. 
+
+La fissió nuclear de l'[[urani]] a un [[reactor nuclear]] és la principal aplicació pràctica civil de l'energia nuclear. S'empra en centenars de [[central nuclear|centrals nuclears]] a països com [[França]], [[Japó]], [[Estats Units]], [[Alemanya]], [[Suècia]], [[Espanya]], [[Xina]], [[Rússia]], [[Corea del Nord]], [[Pakistan]] o l'[[Índia]].
+
+L'ús pacífic o civil de la fusió en un [[reactor nuclear]] està en fase d'investigació i hi ha dubtes sobre la seva [[viabilitat tècnica]] i [[viabilitat econòmica|econòmica]].
+
+=== Bombes nuclears ===
+{{principal|Bomba nuclear}} 
+[[Fitxer:Sumiteru Taniguchi back.jpg|thumb|right|Supervivent de l'atac amb una bomba nuclear a Nagasaki.]]
+
+Hi ha dues formes bàsiques d'utilitzar l'energia nuclear despresa per reaccions nuclears en cadena amb el fi d'obtenir [[arma nuclear|armes nuclears]]: la fissió, que dóna la [[bomba atòmica]], i la fusió, obtenint la [[bomba d'hidrogen|bomba H]], molt més perillosa.
+
+==== Armament nuclear de fissió ====
+{{AP|Bomba atòmica}}
+[[Fitxer:Fission bomb assembly methods.svg|thumb|Mètodes utilitzats per crear una massa crítica de l'element físsil emprat en la bomba de fissió.]] 
+
+Existeixen dos tipus bàsics de [[Bomba atòmica|bombes de fissió]]: utilitzant [[urani enriquit]] o utilitzant [[plutoni]]. Ambdós tipus es fonamenten en una [[Reacció en cadena|reacció de fissió en cadena]]. El rang de potència d'aquestes [[Bomba (arma)|bombes]] se situa entre aproximadament l'equivalent a una [[Tona (unitat)|tona]] de [[trinitrotoluè]] fins als 500.000 kilotones. El 16 de juliol de 1945 es va produir la primera [[explosió]] d'una bomba de fissió, La Prova [[Trinity]]. El 1949 va haver el primer assaig reeixit d'una bomba de fissió per la [[Unió Soviètica]]. [[Estats Units]] ha estat l'únic país que les ha utilitzat per a matar persones, emprant-les en els [[bombardejos atòmics de Hiroshima i Nagasaki]]) al final de la [[Segona Guerra Mundial]]. 
+
+Perquè aquest tipus de bombes funcionin és necessari utilitzar una quantitat en [[massa]] de [[combustible]] utilitzat superior a una determinada, la massa crítica. Suposant una riquesa en l'element del 100%, això seria teòricament 52 kg de sup235/supU, o 10 kg de sup239/supPu. Per al seu funcionament es creen dos o més parts subcrítiques que s'uneixen mitjançant un [[explosiu]] [[químic]] de manera que se superi la massa crítica. Per tant per a aconseguir fer una bomba nuclear primer cal generar suficient quantitat de l'element físil - [[urani]] enriquit o plutoni pur - i [[disseny]]ar la bomba de tal manera que el material que la forma no sigui destruït per la primera explosió abans d'assolir la criticitat. 
+
+==== Armament nuclear de fusió ====
+{{AP|Bomba d'hidrogen}}
+[[Fitxer:Types of nuclear testing.svg|thumb|Les bombes nuclears es proven a les illes Bikini, Nevada, etc. S'hi fan testos atmosfèrics (1), sota terra (2), a les capes altes de l'atmosfera (3) i sota el mar (4).]]
+A partir de 1949 es va desenvolupar una segona generació de bombes nuclears que utilitzaven la [[fusió nuclear]] en comptes de la fissió. És la va anomenar [[bomba termonuclear]], bomba H o bomba d'hidrogen. Aquest tipus de bomba és llençada per a tests experimentals i oficialment no contra cap objectiu humà. 
+
+L'anomenat disseny Teller-Ullam separa les dues explosions en dues fases. Aquest tipus de bombes poden ser milers de vegades més potents que les de fissió. En teoria no hi ha un límit a la [[potència física]] d'aquestes bombes, sent la de major potència explotada la bomba del Zar, d'una potència superior als 50 megatones. Les bombes d'hidrogen utilitzen una bomba primària de fissió que genera les condicions de [[pressió]] i [[temperatura]] necessàries per començar la reacció de fusió de nuclis d'[[hidrogen]]. Com que els únics productes radioactius que generen aquestes bombes són els produïts en l'explosió primària de fissió, pel que a vegades se l'ha anomenat bomba nuclear neta. 
+
+L'extrem d'aquesta característica són les anomenades bombes de neutrons o bombes N, que minimitzen la bomba de fissió primària, assolint un mínim de productes de fissió. Aquestes bombes a més es van dissenyar de tal manera que la major quantitat d'energia alliberada sigui en forma de neutrons, amb la qual cosa la seva potència explosiva és la desena part que una bomba de fissió. Van ser concebudes com [[armes]] anti-[[tanc]], ja que al penetrar els neutrons a l'interior dels mateixos, [[maten]] als seus [[persona|ocupants]] per les [[Radioactivitat|radiacions]].
+
+=== Generació d'electricitat ===
+{{AP|Central nuclear}}
+[[Fitxer:Nuclear power plant-pressurized water reactor-PWR.png|thumb|Esquema de funcionament d'una central nuclear amb reactor PWR.]]
+Probablement, l'aplicació pràctica civil més coneguda de l'energia nuclear és la generació d'[[electricitat]]. Per a això s'utilitzen centrals en les quals, com a les [[Centrals tèrmiques|tèrmiques]], s'obté calor a partir d'un [[combustible]]. En el cas de les [[centrals nuclears]], en comptes de cremar el combustible el que es fa és trencar els nuclis atòmics d'aquest per mitjà de [[reaccions nuclears en cadena]]. Això comporta afegir una enorme quantitat d'[[energia]] inicial, per a començar les [[Reaccions nuclears|reaccions]], però després es compensa per l'energia nuclear que s'obté, que es transforma en calor. El funcionament bàsic d'una central nuclear difereix a més del d'una [[central tèrmica]] ([[combustibles fòssils]]) en altres aspectes col·laterals, sobretot de seguretat:
+* Es necessiten moltes més mesures de seguretat i control molt més estrictes.ref[http://www.gen-4.org/PDFs/GenIVRoadmap.pdf Fòrum Internacional sobre la Generació IV.] {{pdf}}(en anglès)/ref 
+* La quantitat de combustible necessari anualment en aquestes instal·lacions és diversos ordres de magnitud inferior al que requereixen les tèrmiques convencionals, tot i que també és molt menys abundant a la natura. Les reserves d'urani i les de petroli s'espera que s'acabin al mateix temps, dintre d'uns quaranta anys si el consum d'aquests és com l'actual.
+* Les emissions directes de [[diòxid de carboni]] i [[NOx]] en la generació d'electricitat, principals gasos d'[[efecte hivernacle]] d'origen humà, són nul·les. En canvi, indirectament, com per exemple en processos secundaris com l'obtenció de combustible i construcció d'instal·lacions, sí que es produeixen grans quantitats d'aquestes i altres emissions [[Contaminants atmosfèrics|atmosfèriques contaminants]].ref[http://nuclearinfo.net/Nuclearpower/WebHomeGreenhouseEmissionsOfNuclearPower Greenhouse Emissions of Nuclear Power] nuclearinfo.net (en anglès)/ref
+* Les centrals nuclears generen a més [[residus radioactius]], molt més perillosos i amb els quals no se sap encara que fer. Actualment es guarden en bidons que s'enterren sota terra o al mar. La [[contaminació radioactiva|contaminació nuclear]] és la més nociva de totes.
+* Les centrals nuclears, especialment les de [[combustible MOX]], al contrari que les altres formes de fabricació d'electricitat, contribueixen a la [[central nuclear#Proliferació nuclear|proliferació nuclear]].
+
+==== Central nuclear de fissió ====
+{{AP|Reactor nuclear de fissió}}
+[[Fitxer:Cofrentes nuclear power plant - General view.JPG|thumb|Central nuclear a Cofrentes]]
+[[Fitxer:AKWs Europa.png|thumb|Centrals nuclears a Europa, la majoria estan construïdes i gestionades per la francesa Areva]]
+[[Fitxer:Centrales nucleares España.png|thumb|Centrals nuclears a Espanya]]
+
+El 20 de desembre de 1951 es va aconseguir generar electricitat amb un [[reactor nuclear]] estatunidenc de 100 k[[Watt|W]] no connectat a la [[xarxa elèctrica]]. En 1954 per primer cop es va connectar a la xarxa elèctrica una central nuclear, la russa Obninsk, que generava 5.000 kW i tenia un 17% de [[rendiment tèrmic]]. El primer reactor de fissió comercial va ser el Calder Hall a Sellafield, que es va connectar a la xarxa elèctrica el 1956. El 25 de març de 1957 es va crear la [[Comunitat Europea de l'Energia Atòmica]] (EURATOM), el mateix dia que es va crear la [[Comunitat Econòmica Europea]], entre Bèlgica, França, Alemanya, Itàlia, Luxemburg i els Països Baixos. Aquell mateix any es va crear l'[[Organisme Internacional d'Energia Atòmica]] (OIEA). Ambdós organismes amb la missió, entre d'altres, d'impulsar l'ús [[pacífic]] de l'energia nuclear. El seu desenvolupament va experimentar a partir d'aquest moment un gran creixement a França. Al seu creixement al Japó va influir la [[crisi del petroli]] de 1973, ja que la seva dependència en el petroli per a la generació elèctrica era molt marcada (73% en aquells anys, el 2008 generava un 30% d'[[energia primària]] amb reactors de fissió).[cita requerida] El 1979 l'[[accident de Three Mile Island]] va provocar una procupació molt considerable de l'opinió pública pel que fa a les mesures de control i de seguretat a les centrals nuclears, que va augmentar el 1986 amb l'[[accident de Txernòbil]] en un [[reactor RBMK]] i en 2011 amb l'[[Accident nuclear de Fukushima I|accident de Fukushima]].
+
+Hi ha 30 països al [[món]] que tenen centrals nuclears. Aproximadament el 15% de l'energia elèctrica generada en el món es produeix a partir d'energia nuclear. En 2006 es van generar 2,7 milions de M[[Watt-hora|Wh]] d'[[energia]] nuclear al món. A 2007 hi havia 439 centrals nuclears en tot el món. La [[potència física]] instal·lada el 2007 va ser de 370.721 M[[Watt|W]] elèctrics. En 2008 hi havia 35 centrals en construcció, plans per construir 91 centrals noves (99.095 MWe) i altres 228 propostes (198.995 MWe).[cita requerida] La majoria dels reactors al món són dels anomenats [[PWR]] (per les seves sigles en anglès), que utilitzen [[aigua]] a alta [[pressió]] com a moderador dels [[neutrons]] i urani enriquit (entre el 3% i el 5%) com a combustible.
+
+A [[Espanya]] es va construir la primera central nuclear, la [[central nuclear José Cabrera]], en 1965. Actualment s'hi troben en funcionament vuit centrals nuclears: Santa María de Garoña, [[Almaraz]], [[Central nuclear d'Ascó|Ascó]], [[Cofrentes]], [[Central nuclear de Vandellòs II|Vandellós II]] i [[Trillo]]. Es van paralitzar o no van entrar en funcionament, un cop finalitzades, a causa de la moratòria nuclear les centrals de Lemóniz, Valdecaballeros, Trillo II, Escatrón, Santillán, Regodola i Sayago. Es troben desmantellades o en procés de [[Desmantellament d'una central nuclear|desmantellament]] Vandellós I i José Cabrera.
+
+L'any 2002 a Espanya es van produir 63.016 G[[Watt-hora|Wh]] d'energia elèctrica en centrals nuclears, corresponents al 33'9% de l'energia elèctrica anual produïda a l'Estat.
+
+==== Central nuclear de fusió ====
+{{AP|Reactor nuclear de fusió}}
+La fusió es planteja com una opció més neta que la fissió, encara que també es basa en la [[radiactivitat]]. No obstant això encara és un projecte teòric no comercialitzat ni viable tècnicament. La principal dificultat trobada, entre moltes altres de disseny i materials, consisteix en la manera de restringir la matèria en estat de plasma fins a arribar a les condicions imposades pels criteris de Lawson, ja que no hi ha materials capaços de suportar les temperatures imposades.
+
+Només es duen a terme reaccions de fusió de forma controlada en els diferents laboratoris, amb balanços d'energia negatius. S'investiga en centrals de producció elèctrica com l'[[ITER]] o el NIF. Als experiments de l'ITER participen entre d'altres Japó i la Unió Europea, mentre que al NIF investiga Estats Units.
+
+== Tractament de residus nuclears ==
+{{AP|Residu nuclear|Transmutació}}
+[[Fitxer:WIPP-04.jpeg|thumb|Els residus d'alta activitat s'enterren sota terra per sempre]]
+
+Totes les formes de generació d'energia nuclear generen [[central nuclear#Impacte ambiental|residus de diversos tipus]]. Els que són propis únicament de processos nuclears són els [[residus radioactius|residus nuclears]], que són [[Radiactivitat|radioactius]]. Aquests residus es classifiquen segons la seva perillositat en residus d'alta, de mitja, de baixa i de molt baixa activitat. Els residus radioactius es tracten de manera diferent de tots els altres i és il·legal llençar-los a papereres ni contenidors no específics per a ells. A Espanya la gestió de residus radioactius està al càrrec de l'empresa pública Empresa Nacional de Residuos SA (ENRESA). A Europa existeix un consorci europeu d'investigació i gestió de residus radioactius que s'anomena ''Cassiopée''.
+
+== Seguretat nuclear ==
+{{AP|Contaminació nuclear|enverinament per radiació|toxicitat nuclear|accident nuclear}}
+[[Fitxer:Slotin criticality drawing.jpg|esquerra|thumb|Croquis per al càlcul de la dosi de radiacions rebuda per cada persona a l'accident nuclear que va ocórrer el [[1946]] al laboratori nacional de [[Los Alamos]], al qual va morir una persona.]]
+
+La [[seguretat nuclear]] és el conjunt d'accions que cerquen prevenir els possibles accidents nuclears civils i limitar-ne les seves conseqüències. També preveu la seguretat activa i passiva de les persones i el medi ambient a les instal·lacions, transport i emmagatzement de productes nuclears durant el seu ús quotidià. L'Organisme Internacional de l'Energía Atòmica ([[OIEA]]) és un organisme de les [[Nacions Unides]] que, entre altres coses, ha establit un seguit de normes de seguretat nuclear. A Espanya l'entitat encarregada de vetllar per la seguretat nuclear i la protecció radiològica és el [[Consell de Seguretat Nuclear]] (CSN).
+
+L'[[escala internacional d'accidents nuclears|escala INES]] mesura la gravetat d'un accident nuclear. Els successos de nivell 1 a 3 es qualifiquen d'incidents, mentre que els de 4 a 7, que impliquen possibles morts i que la cadena alimentària de la zona quedi afectada, són accidents. La freqüència de dany del nucli és un terme usat a l'avaluació estadística de [[Risc|riscos]] que indica la [[probabilitat]] que un accident produeixi alguna mena de dany a l'interior (l'anomenat nucli del reactor) d'un [[reactor nuclear]]. Algunes fonts consideren que el dany al nucli i la [[fusió del nucli]] del reactor són el mateix. Un estudi de a Comissió Europea el 2003 diu que les freqüències de dany al nucli de 5·10sup15/sup per reactor nuclear i any són un resultat habitual, com hi ha uns 500 reactors al món això indicaria que estima que es produeixi un [[accident nuclear]] greu cada quaranta anys aproximadament.
+
+== Regulació nuclear==
+[[Fitxer:IAEABoardOfGovernors.JPG|thumb|Gobernadors de l'[[OIEA]]]]
+La regulació nuclear es pot dividir en els següents quatre grans grups: funcions dels reguladors nacionals, residus nuclears, seguretat nuclear i [[protecció radiològica]]. En alguns països existeixen organismes nacionals que produeixen documentació dedicada a aquests camps, dos exemples en són la HPA anglesa (antigament NRPB) i el CEA francès. A Espanya el Consell de Seguretat Nuclear ([[CSN]]) és la institució, independent de l'administració estatal i amb patrimoni propi, creada amb la finalitat de vetllar per la seguretat nuclear i la protecció radiològica de les persones i del medi ambient. El CSN també fa recomanacions tècniques sobre seguretat a les instal·lacions als governs central i autonòmics concernits, i és l'entitat responsable de redactar les lleis relacionades l'energia nuclear. Desde 1984 a Espanya el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas ([[CIEMAT]]) substitueix l'antiga Junta de Energía Nuclear (JEN), centralitzant la formació, recerca i desenvolupament no només de l'energia nuclear - com feia el JEN- sinó també de la resta de fonts d'[[energia primària]]. El CIEMAT és membre consultor del CSN. Els organismes internacionals que desenvolupen les bases per a la legislació que afecten [[Països Catalans]] són [[EURATOM]] a nivell europeu i l'[[OIEA]] al món.
+
+== Vegeu també ==
+{{Portal|Energia}}
+* [[Activitat d'una substància radioactiva]]
+* [[Energia d'enllaç]]
+
+== Referències==
+{{Referències|2}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.cccb.org/ppc/txernobil Hi havia una vegada Txernòbil] - Primera exposició sobre la major catàstrofe industrial de la història de la humanitat.[[CCCB]] {{ca}}
+* [http://www.thewatt.com/modules.php?name=Newsnew_topic=13 Notícies relacionades amb l'energia nuclear] (en anglès)
+* [http://blogs.jornal.cat/sophia-blasco/blog/335/centrals-nuclears-algunes-veritats-incomodes Centrals Nuclears, algunes veritats incòmodes] {{ca}}
+* [http://www.energia-nuclear.net/ca/energia_nuclear.html Energia nuclear] Pàgina dedicada a l'energia nuclear per al públic en general. {{ca}}
+* [http://www.tv3.cat/videos/393479 Entrevista] de [[Mònica Terribas]] al professor [[Antoni Lloret i Orriols]] dins del programa La nit al dia, a TV3, amb motiu de la fuita radioactiva del mes de novembre de 2007 a Ascó. {{ca}}
+* [http://www.tv3.cat/videos/2808490/Antoni-Lloret-fisic-nuclear Entrevista] al professor [[Antoni Lloret i Orriols]] dins del programa Àgora, al Canal 33, amb motiu de la polèmica sobre la futura ubicació del cementiri de residus nuclears. {{ca}}
+
+{{1000 Tecnologia}}
+{{Autoritat}}
+{{Enllaç AB|es}}
+{{Enllaç AB|fi}}
+{{Enllaç AB|id}}
+{{Enllaç AB|zh}}
+
+{{ORDENA:Energia Nuclear}}
+[[Categoria:Energia nuclear| ]]
+
+[[bg:Ядрена енергия]]
+[[nv:Łéétsoh bee atsiniltłʼish álʼį́į́h]]</text>
+      <sha1>fpdlyoq3bv735ilcbqqjdp7nh4vlljl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

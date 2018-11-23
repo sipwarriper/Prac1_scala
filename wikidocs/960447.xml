@@ -1,0 +1,175 @@
+<page>
+    <title>Dessulfuració de gasos</title>
+    <ns>0</ns>
+    <id>960447</id>
+    <revision>
+      <id>13623648</id>
+      <parentid>13569592</parentid>
+      <timestamp>2014-06-21T17:30:35Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció: tipografia graus</comment>
+      <text>La dessulfuració de gasos de combustió (FGD) és una tècnica utilitzada per eliminar el [[diòxid de sofre]] (SOsub2/sub) que prové de la [[combustió]] de [[combustibles fòssils]] (com carbó o petroli) en centrals elèctriques, que són la major font de SOsub2/sub atmosfèric. Aquest és un gas que provoca contaminació atmosfèrica: participa en l'[[efecte ]]hivernacle i en la [[pluja àcida]] quan reacciona amb l'aigua en atmosferes humides.
+
+
+==Mètodes==
+
+El SOsub2/sub està sent eliminat del gasos de combustió degut a les estrictes regulacions ambientals. Els mètodes més utilitzats són:
+
+*Dessulfuració de gasos per via humida amb un absorbent alcalí, generalment pedra calcaria o [[calç]] o aigua de mar. 
+*Dessulfuració semiseca (Spray-dry scrubbing): utilitzant absorbents similars.
+*Dessulfuració humida amb d'[[àcid sulfúric]] on es recupera el sofre en forma d'àcid sulfúric comercial de qualitat. 
+*Dessulfuració de gasos de combustió SNOX que elimina el diòxid de sofre, [[òxids de nitrogen]] i partícules dels gasos de combustió.
+*Dessulfuració de gasos per via seca, sistema d'injecció d'absorbent sec.
+
+
+==Història==
+
+Els mètodes d'eliminació del diòxid de sofre en els gasos de combustió s'estan estudiant des de fa més de 150 anys. Les primeres idees es van establir a Anglaterra al voltant de l'any 1850.
+
+Amb la construcció de grans instal·lacions d'energia a Anglaterra en la dècada de 1920, els problemes associats a grans volums de SOsub2/sub va començar a ser preocupant. El problema de les emissions de SOsub2/sub no va rebre gaire atenció fins a l'any 1929 quan la [[Cambra dels Lords]] va demandar a un terratinent per danys i perjudicis a la seva terra per emissions de SOsub2/sub. Poc després, es va llençar una campanya contra la construcció de plantes energètiques dins de Londres. Aquesta protesta va donar lloc a la imposició de controls d'emissions SOsub2/sub en totes les plantes energètiques.ref name=BiondoBiondo, S.J. and Marten,J.C., ''A History of Flue Gas Desulphurization Systems Since 1850'', Journal of the Air Pollution Control Association, Vol. 27, No. 10, pp 948–961, October 1977./ref
+
+La primera unitat principal de FGD es va instal·lar l'any 1931 en el Battersea Power Station, propietat de London Power Company. El 1935, un sistema de FGD similar es va instal·lar a la central elèctrica de Swansea. El tercer sistema important de FGD es va instal·lar el 1938 a la central elèctrica de Fullham. Aquestes tres instal·lacions de FGD van ser abandonades durant la Segona Guerra Mundial. A partir de la dècada del 1970, van tornar a aparèixer grans unitats de dessulfuració majoritàriament al Japó i als Estats Units.ref name=Biondo/
+
+A partir del Juny de 1973, ja hi havia 42 unitats de dessulfuració en funcionament, 36 al Japó i 6 als EUA, amb una capacitat de 5MW a 250MW.ref name=BeychokBeychok, Milton R., ''Coping With SOsub2/sub'', Chemical Engineering/Deskbook Issue, October 21, 1974/ref
+
+En aquell temps, a Espanya no existia cap instal·lació de dessulfuració de gasos de combustió, ja que les tecnologies de dessulfuració eren poc conegudes. 
+
+Als voltants de l'any 2000 les unitats de dessulfuració ja s'utilitzaven a 27 països i hi havia 678 unitats amb una capacitat total d'uns 229 GW. Al voltant del 45% de la capacitat FGD va ser als EUA, el 24% a Alemanya, l'11% al Japó, i el 20% en altres països. Aproximadament el 79% de les unitats, que representen aproximadament 199 gigawatts de capacitat, utilitzant dessulfuració per via humida amb calç o pedra calcària. Al voltant del 18% (o 25 gigawatts) va utilitzar dessulfuració semiseca (spray-dry scrubbing) o sistemes de dessulfuració per via seca.
+
+==Principis bàsics de FGD==
+
+
+La majoria de sistemes FGD tenen dues etapes: una és l'eliminació de les cendres del voltant i l'altre l'eliminació del SOsub2/sub. S'ha intentat fer aquests dos processos en una sola etapa però s'han observat problemes greus de manteniment i baixa eficàcia d'eliminació. 
+
+En els sistemes de dessulfuració per via humida, el gas de combustió normalment passa primer a través d'un dispositiu d'extracció de cendres (com un precipitador electrostàtic o un depurador humit) i després per l'absorbent de SOsub2/sub. En aquests sistemes el gas de combustió quan surt de l'absorbidor està saturat d'aigua i encara conté SOsub2/sub. Aquests gasos són molt corrosius per altres part de l'equip com ventiladors, conductes i xemeneies. Aquesta corrosió es minimitza mitjançant dos mètodes diferents:
+
+*Escalfament de gasos per sobre del punt de rosada.
+*Elecció de materials de construcció i condicions de disseny que permetin als equips suportar condicions corrosives. 
+
+Els dos mètodes són costosos i els enginyers determinen el mètode a utilitzar en funció del lloc de treball. 
+En els sistemes de dessulfuració per via seca, primer es va reaccionar el SOsub2/sub amb l'absorbent i després el gas de combustió passa a través d'un dispositiu de control de partícules.
+
+
+==Processos químics==
+
+
+===Formació d'àcid sulfúric===
+
+
+Els combustibles fòssils com el [[carbó]] o el [[petroli]] contenen una part significativa de [[sofre]]. Quan es cremen, el 95% o més del sofre es converteix en [[diòxid de sofre]] SOsub2/sub en condicions normals de temperatura i [[oxigen]] (present en els gasos de combustió). 
+
+Quan els gasos de combustió però, tenen un excés d'oxigen, el SOsub2/sub s'oxida a [[triòxid de sofre]] SOsub3/sub. A part de l'oxigen la temperatura també és un factor important per a la formació del SOsub3/sub. Al voltant dels 800nbsp;°C la reacció es veu afavorida. Aquest gas també es pot formar en processos catalítics de combustibles per metalls. 
+
+Aquest SOsub2/sub forma una boira d'[[àcid sulfúric]] (Hsub2/subSOsub4/sub) en contacte amb l'atmosfera humida i que és molt difícil d'eliminar. Aquest àcid sulfúric forma una boira de color blavós que apareix dissipada en els gasos de combustió. Generalment però, només l'1% del SOsub2/sub es converteix en SOsub3/sub.
+
+
+
+===Dessulfuració amb un sòlid o solució bàsica===
+
+
+El SOsub2/sub és un gas àcid i per tant, els [[reactiu]]s típics utilitzats per eliminar-lo dels gasos de combustió són alcalins. 
+
+La primera reacció que té lloc en la dessulfuració per via humida amb CaCOsub3/sub ([[pedra calcària]]) produeix CaSOsub3/sub ([[sulfit de calci]]) com a producte i és la següent:
+
+
+:{{chem|CaCO|3}} (sòlid) + {{chem|SO|2}} (gas) → {{chem|CaSO|3}} (sòlid) + COsub2/sub (gas)
+
+
+Quan la dessulfuració per via humida es realitza amb Ca(OH)sub2/sub ([[calç]]) també es produeix CaSOsub3/sub (sulfit de calci) i la reacció és la següent:
+
+
+:Ca(OH)sub2/sub (sòlid) + SOsub2/sub (gas) → CaSOsub3/sub (sòlid) + Hsub2/subO (líquid)
+
+
+Quan la dessulfuració per via humida es realitza amb Mg(OH)sub2/sub ([[hidròxid de magnesi]]), es produeix MgSOsub3/sub (sulfit de magnesi) segons la reacció:
+
+
+:Mg(OH)sub2/sub (sòlid) + SOsub2/sub (gas) → MgSOsub3/sub (solid) + Hsub2/subO (líquid)
+
+
+En alguns dissenys, seguidament es procedeix a realitzar una [[oxidació]] forçada per compensar el cost de la dessulfuració i produir CaSOsub4/sub.2Hsub2/subO (guix) oxidant el CaSOsub3/sub (sulfit de calci). Aquest producte es comercialitza. La reacció és la següent:
+
+
+:CaSOsub3/sub (sòlid) + Hsub2/subO (líquid) + ½Osub2/sub (gas) → CaSOsub4/sub (sòlid) + Hsub2/subO
+
+
+L'aigua de mar és un alcalí natural i també s'utilitza per a la dessulfuració de gasos. El SO2 s'absorbeix en l'aigua i quan s'agrega oxigen es formen ions [[sulfat]] SO4- i ions [[hidroni]] H+. L'acidesa produïda es veu compensada pels [[carbonat]]s que conté l'aigua de mar i reaccionen per produint CO2 ([[diòxid de carboni]]) i aigua. Les reaccions són les següents:
+
+
+:SOsub2/sub (gas) + Hsub2/subO + ½Osub2/sub (gas)→ SOsub4/subsup2-/sup (solid) + 2Hsup+/sup
+
+:HCOsub3/subsup-/sup + Hsup+/sup → Hsub2/subO + COsub2/sub (gas)
+
+==Rentadors de gasos utilitzats en FGD==
+[[File:Flue gas desulfurization unit EN.svg|thumb|300px|disseny esquemàtic d'un rentador en FGD]]
+
+Per promoure al màxim l'àrea superficial gas-líquid i el temps de residència, s'han dissenyat i utilitzat diversos rentadors de gasos com torres d'aspersió o venturis. La utilització de rentadors simples com les torres d'aspersió és molt habitual en FGD perquè evita problemes de connexió o d'[[erosió]].
+
+La torre pot ser vertical o horitzontal i els gasos de combustió poden fruir en el mateix sentit, a contracorrent o a través respecte al líquid. Les que funcionen a contracorrent són poc freqüents perquè tenen tendència a obstruir-se amb les partícules de [[calç]] o[[ pedra calcària]] utilitzades. 
+
+El principal inconvenient de les torres d'aspersió és que requereixen una proporció líquid-gas elevada per eliminar el SOsub2/sub comparat amb altres dissenys. 
+
+==Reactius utilitzats==
+
+Per eliminar el SOsub2/sub s'utilitzen reactius alcalins i els més importants són la calç Ca(OH)sub2/sub i l'hidròxid i l'hidròxid de sodi Na(OH)sub2/sub ([[sosa càustica]]).
+
+La calç s'utilitza normalment quan el SOsub2/sub prové de la combustió de grans dimensions de [[carbó]] o en calderes de [[gasoil]] que es troben en les plantes productores d'energia, ja que és molt més barata que la sosa càustica. El problema és que s'obté una mescla en lloc d'una dissolució i això fa que l'equip utilitzat sigui més complex. Les torres d'absorció s'utilitzen en aquests casos. 
+
+La mescla de [[sulfit de calci]] (CaSOsub3/sub) s'elimina oxidant-lo per produir [[sulfat de calci ]]CaSOsub4/sub.2Hsub2/subO ([[guix]]) que es pot comercialitzar per ser utilitzant en la indústria de productes de construcció. 
+
+La sosa càustica es limita a dessulfurar els gasos produïts en les combustions de quantitats més petites perquè és més cara que la calç. Té l'avantatge que forma una solució aquosa i no una suspensió i per tant, és més fàcil d'operar. Es produeix una solució de [[sulfit]] o bisulfit (en funció del pH) de sodi o [[sulfat de sodi]] que han de ser eliminats. Això no és un problema i sovint s'utilitzen com a fonts d'altres productes químics formant part d'un cicle de recuperació. 
+
+==Oxidació en fase gas seguit d'una reacció amb amoníac==
+
+LA IAEA (Agència d'Energia Atòmica Internacional) va proposar una nova tecnologia de dessulfuració de gasosref[http://www-tc.iaea.org/tcweb/publications/factsheets/sheet16p.pdf IAEA Factsheet] about pilot plant in Poland./ref que consisteix a [[irradiar]] els gasos de combustió amb un feix d'electrons al mateix temps que s'addiciona NHsub3/sub ([[amoníac]]) als gasos. 
+
+La planta d'energia Chengdu a la Xina va posar en marxa una unitat de dessulfuració de gasos d'aquest tipus de 100 MW el 1998. La planta d'energia Pomorzany a Polònia també va posar en marxa una unitat de mida similar el 2003 que elimina òxids de sofre i nitrogen. Ambdues plantes operen amb èxit.ref name=Wu[http://www.fnca.jp/english/eb/country_img/china.pdf ''Electron beam application in gas waste treatment in China''] by Haifeng Wu, INET Tsinghua University, Beijing, China./refref name =IAEA[http://www.iaea.org/Publications/Reports/Anrep2003/physical.pdf Section of IAEA 2003 Annual Report]/ref However, the accelerator design principles and manufacturing quality need further improvement for continuous operation in industrial conditions.ref[http://www.ichtj.waw.pl/ichtj/nukleon/back/full/vol50_2005/v50s3p17f.pdf ''Application of ionizing radiation to environmental protection''] by A.G. Chmielewski, Warsaw University of Technology, Poland./refNo obstant això, el disseny de l'accelerador i la qualitat de fabricació es necessita millorar encara més per a un funcionament continu en condicions industrials.
+
+==Mètodes alternatius==
+
+
+Una alternativa a la dessulfuració de gasos després de la [[combustió]] és eliminar el sofre del combustible abans o durant la combustió.
+
+L'[[hidrodessulfuració]] de combustible s'ha utilitzat per tractar els olis combustibles abans del seu ús.
+Altres mètodes afegeixen calç al combustible durant la combustió. La calç reacciona amb el SOsub2/subper format sulfats els quals la major part es converteixen en cendra. 
+
+El Thiopaq és un mètode biològic alternatiu recentment desenvolupat que combina la purificació del gas amb la recuperació de [[sofre]]. Els [[microorganisme]]s d'un [[bioreactor]] oxiden el sulfur a sofre elemental. Aquest sofre es recupera al final d'un procés per futurs usos, com per exemple, per a productes agrícoles. La seguretat és el major avantatge d'aquest mètode el qual es porta a terme a pressió atmosfèrica i temperatura ambient. 
+
+Aquest mètode ha estat desenvolupat per Paqell (fusió de les empreses Shell Global Solutions i Paques).ref name=Paqell[http://paqell.com/thiopaq/process-description/ THIOPAQ Oil  Gas process description and flow diagram] – official Paqell website/ref
+
+==Vegeu també==
+* [[Emissions de gasos]]
+* [[Hidrodessulfuració]]
+* [[Pluja àcida]]
+* [[Diòxid de sofre]]
+
+==Referències==
+
+{{Referències}}
+
+
+==Enllaços externs==
+
+* Schematic of [http://www.mhi.co.jp/en/products/detail/desulfurization_unit.html desulfurization plant]
+*[http://www.babcock.com/library/pdf/BR-1666.pdf 5000 MW FGD Plant] (includes a detailed [[process flow diagram]])
+*New innovative design using [http://www.owr.ehnr.state.nc.us/ref/16/15870.pdf Gas Suspension Absorption]
+*[http://www.epa.gov/ttn/catc/dir1/ffdg.pdf Flue Gas Desulfurization Fact Sheet]
+*[http://www.lentjes.de/LENTJES/index.php?id=175L=1 Description of Lentjes seawater process]
+*[http://www.unece.org/ie/se/pp/coal/alstom.pdf Alstom presentation to UN-ECE on air pollution control] (includes [[process flow diagram]] for dry, wet and seawater FGD)
+*[http://www.sodimate-inc.com/Flue-Gas-treatment.aspx Flue Gas Treatment] article including the removal of hydrogen chloride, sulphur trioxide, and other heavy metal particles such as mercury.
+*[http://www.icac.com Institute of Clean Air Companies] – national trade association representing emissions control manufacturers
+*[http://www.landinst.com/combustion/products/info/lancom-200-monitor-flue-additive-performance-oilcoal-fired-boilers Lancom 200] Sulphuric Acid Dewpoint Measurement
+
+{{ORDENA:Dessulfuracio De Gasos}}
+
+[[Categoria:Contaminació atmosfèrica]]
+[[Categoria:Química ambiental]]</text>
+      <sha1>h7ad0py35hlk65z1jti3v0vb4519lnk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

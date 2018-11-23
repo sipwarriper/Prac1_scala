@@ -1,0 +1,89 @@
+<page>
+    <title>BioShock</title>
+    <ns>0</ns>
+    <id>613235</id>
+    <revision>
+      <id>13806876</id>
+      <parentid>13245385</parentid>
+      <timestamp>2014-07-12T22:41:04Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Infobox VG
+| title = BioShock
+|image = [[Fitxer:BioShock cover.jpg|250px|Caràtula del BioShock]]
+|caption = Caràtula del BioShock
+| developer = [[Irrational Games]]br /[[2K Marin]] (PlayStation 3)br /[[Feral Interactive]] (Mac OS X)ref{{ref-web| url=http://www.tuaw.com/2009/09/24/bioshock-for-mac-on-october-7th|títol=Bioshock for Mac on October 7|consulta=[[12 de novembre]] del [[2009]]|data=[[24 de setembre]] del [[2009]]}}/ref
+| publisher = [[2K Games]]
+| designer = Paul Hellquist
+| writer = [[Ken Levine]]
+| composer = [[Garry Schyman]]
+| series = ''[[BioShock (saga)|BioShock]]''
+| engine = [[Unreal Engine#Unreal Engine 2.5|Unreal Engine 2.5]];ref name=engine{{ref-web|url=http://www.gamebanshee.com/reviews/96980-bioshock-2.html|títol=BioShock 2 Review|data=2010-02-27|consulta=2010-03-02|editor=GameBanshee|citació=BioShock 2 uses the same engine as BioShock, a modified version of Unreal Engine 2.5...}}/ref [[Havok Physics]]
+| version = 1.1 ([[4 de desembre]] del [[2007]])ref{{ref-web| url=http://www.2kgames.com/bioshock/support/ |títol=BioShock Supportnbsp;– BioShock v1.1 PC Patch Available |consulta=[[12 de febrer]] del [[2008]]|data=[[4 de desembre]] del [[2007]]|editor=[[2K Games]]}}/ref
+| released = '''Microsoft Windows, Xbox 360'''br /{{vgrelease|NA=[[21 d'agost]] del [[2007]]ref name=IGN1{{ref-web|url=http://au.games.ign.com/articles/812/812621p1.html|títol=BioShock Demo Now Available on Xbox LIVE|consulta=2007-10-15|nom=Alexis|cognom=Dunham|data=[[13 d'agost]] del [[2007]]|editor=IGN}}/ref|PAL=[[24 d'agost]] del [[2007]]ref name=IGN1 /ref{{ref-web|url=http://www.gamespot.com/xbox360/action/bioshock/similar.html?mode=versions |títol=BioShock for Xbox 1080 Release Summary |consulta=[[11 de març]] del [[2008]]|obra=[[GameSpot]] |editor=[[CNET Networks]]}}/refref{{ref-web|url=http://www.gamespot.com/pc/action/bioshock/similar.html?mode=versions |títol=BioShock for PC Release Summary |consulta=[[11 de març]] del [[2008]]|obra=[[GameSpot]] |editor=[[CNET Networks]]}}/ref}}
+'''PlayStation 3'''br /{{vgrelease|PAL=[[17 d'octubre]] del [[2008]]}} {{vgrelease|NA=[[21 d'octubre]] del [[2008]]}}
+'''Mac''' br / {{vgrelease|NA=[[10 d'octubre]] del [[2009]]}}
+| genre = [[Videojoc de tirs]], [[Videojoc d'acció i aventures]], [[survival horror]]ref{{format ref}} http://www.msnbc.msn.com/id/20379604//ref
+| modes = [[Un jugador]]
+| ratings = {{vgratings|ESRB=M|OFLCA=MA15+ref{{ref-web|url=http://www.classification.gov.au/special.html?n=46p=156sTitle=BioShocksMediaFilm=1sMediaPublications=1sMediaGames=1sDateFromM=1sDateFromY=1970sDateToM=11sDateToY=2007record=220870|títol=BIOSHOCK Game (Multi Platform)nbsp;– OFLC rating|data=[[30 de maig]] del [[2007]]|consulta=[[7 d'octubre]] del [[2007]]|editor=Australian Classification Board}}/ref|BBFC=18ref{{ref-web| url=http://www.bbfc.co.uk/website/Classified.nsf/0/FDBF2382D56E446980257317005AD21D?OpenDocument |títol=BBFC Rating Page |consulta=[[31 de juliol]] del [[2007]]|data=[[13 de juliol]] del [[2007]]|editor=British Board of Film Classification}}/ref|PEGI=18+ref{{ref-web|url=http://www.pegi.info/en/index/global_id/505/?searchString=BioShock|títol=PEGI Pan European Game Information - Advanced Search|consulta=2009-07-07|editor=PEGI}}/ref|OFLCZ=R15+|USK=18 (cut)}}
+| platforms = [[Microsoft Windows]], [[Xbox 360]],ref name=BioFAQ{{ref-web|url=http://www.bioshock-online.com/faq/#platform|títol=BioShock FAQnbsp;– what platforms is BioShock being released on?|consulta=2008-07-30|editor=Through the Looking Glass}}/ref [[PlayStation 3]], [[Mac OS X]]ref{{ref-web|cognom=Holt |nom=Chris |url=http://www.macworld.com/article/138126/2009/01/bioshock.html |títol=Expo Notes: Feral’s big secret #124; Games #124; Game Room |editor=Macworld |data= |llengua=anglès|consulta=[[9 de novembre]] del [[2009]]}}/ref
+| media = [[DVD-DL]], [[descarrega]],ref{{ref-web| url = http://storefront.steampowered.com/v/index.php?area=gameAppId=7670 steampowered.com |títol= BioShock on Steam |consulta= 2007-11-10 |editor= [[Steam (content delivery)|Steam]]}}/ref [[Blu-ray Disc]]
+| requirements = [[#Development|See Development section for requirements matrix]]
+| input = [[Teclat (informàtica)|teclat]] i [[Ratolí (informàtica)|ratolí]], [[comandament de joc]]
+}}'''''BioShock''''' és un videojoc desenvolupat per [[2K Games]] i dissenyat per [[Ken Levine]] per a les plataformes [[Microsoft Windows|PC]], [[Xbox 360]] i posteriorment per a [[Playstation 3]]. Publicat el [[21 d'agost]] de [[2007]] per a les dues primeres plataformes, va ser traspassat a la Playstation 3 el [[17 d'octubre]] de [[2008]]. 
+
+L'acció transcorre en una ciutat submergida al mig de l'atlàntic l'any [[1960]], on el jugador, en Jack, es precipita després d'un accident d'avió. Jack s'endinsa a les entranyes de Rapture, la caòtica i decadent ciutat, d'on intentarà escapar com sigui, matant o evitant les nombroses criatures i màquines que habiten la terrorífica metròpoli. 
+
+El joc ha rebut excel·lents notes a multitud de revistes i webs especialitzades.
+
+== Jugabilitat ==
+
+''BioShock'' és un joc d'acció en primera persona en el qual es mesclen diversos gèneres com sigil, exploració, rol, puzle, terror... També, acotant més, es pot classificar dintre de jocs d'acció en primera persona ''arcade'', ja que no té un caire massa tàctic, tot i que el joc permet de planejar mètodes de supressió per diverses vies i col·locar trampes, cosa que evita convertir-lo en un joc repetitiu. L'element del terror és molt abundant també, les situacions que poden provocar espants o mantenen en tensió el jugador són usuals (veus a la llunyania imatges macabres, la ciutat decadent, la immersió que provoca el joc en general...).
+
+A banda de les nombroses armes ([[metralladores]], [[escopetes]], [[pistoles]], [[fusell (arma)|fusells]], [[arpons]]...) en Jack també disposarà d'una àmplia galeria de plàsmids, unes millores genètiques que són capaces de redissenyar una part del [[codi genètic]] i que ofereixen una immensa gamma de millores com ara electrocutar, incinerar, congelar, confondre, tenir més salut... Aquests plàsmids existeixen gràcies al comerç de l'ADAM, un líquid (semblant a les [[cèl·lules mare]]) que pot crear tota classe de [[cèl·lules]]. Per aconseguir l'ADAM en un principi es caçaven uns llimacs marins (d'uns 15cm i negres) que l'aconseguien de forma natural en absorbir sang d'un hoste, però ràpidament es va veure que aquest sistema era insuficient per l'elevada demanda de la ciutat així que es van implantar els llimacs al cos d'unes nenes creant una [[simbiosi]] que feia més productius els llimacs gràcies a la recol·lecció que les denominades ''Little Sisters'' feien. 
+
+Així doncs hi ha dues maneres d'aconseguir l'ADAM: matant la ''Little Sister'' en arrencar els llimacs del seu cos sense cap cura, aconseguint així molt d'ADAM; o utilitzar un sistema alternatiu, creat per la pròpia inventora del programa ''Little Sister'', que evita la mort de la nena i permet extreure el [[llimac]] aconseguint menys ADAM. Per accedir a les ''Little Sister'', ja sigui per una cosa o per l'altra, primer cal matar el seu ''Big Daddy'' una persona blindada amb una [[escafandra]] que ha estat creada únicament per protegir les Little Sisters d'atacs aliens. Com podem veure, l'ús i l'extracció de l'ADAM planteja un dilema moral que pot canviar el curs de l'aventura, i que també va ser la causa de la decadència de ''Rapture''.
+
+==Argument==
+
+[[Fitxer:Bioshock-rapture.jpg|thumbnail|300px|esquerra|Entrada a la ciutat submergida de Rapture, d'[[Art déco|estil déco]].]]
+
+Tot comença quan l'avió, on viatja Jack, cau provocant la mort de tots els seus passatgers excepte Jack. Llavors descendeix, per un far pròxim al lloc de l'incident, a Rapture, la ciutat submergida lliure de llei, religió i govern fundada pel visionari ''Andrew Ryan''. En arribar a Rapture uns humans mutants anomenats ''Splicers'' ataquen a Jack, però gràcies a l'ajuda d'Atlas, un misteriós habitant de Rapture, aconsegueix salvar-se. Atlas explica la seva situació, intenta sortir de Rapture amb la seva família però no pot, i li demana col·laboració a Jack; ell accepta i Atlas li explica que l'única forma de sobreviure a Rapture és recombinant-se genèticament amb uns elements anomenats plasmids, en fer-ho per primer cop Jack cau atordit i veu per primer cop un ''Big Daddy'' i una ''Little Sister'' en la seva busca d'ADAM. Mentrestant, Ryan el fundador de Rapture, creient que en Jack és un agent d'una nació de la superfície, utilitza sistemes els automatitzats de Rapture i els Splicers, els humans folls controlats mitjançant feromones, per matar-lo. Sentint les paraules d'Atlas, la Dra. Tenenbaum intercepta Jack i l'insta a salvar les Little Sisters, donant-li un plàsmid que elimina als llimacs implantats a les Little Sister i permet que en comptes d'arrancar el llimac, matant les nenes, utilitzi el plàsmid i les salvi. Atlas diu que la seva dona i el seu fill han estat amagats en un submarí i Jack es dirigeix cap a ella. Igual que Jack, Atlas aconsegueix arribar a la badia on es troba la seva família, però Ryan destrueix el submarí amb la família d'Atlas a dins, enfurismat li demana a Jack que mati a Andrew Ryan. 
+
+Finalment, després de realitzar tasques com el salvament d'un bosc artificial (que feia de pulmó a Rapture) i ajudar a un artista foll construir la seva escultura, Jack s'enfronta a Andrew Ryan al seu despatx, on aquest últim està, tranquil·lament, jugant a golf. Ryan revela una veritat que ell ha reconstruït. Jack va néixer en realitat a Rapture (i no a la superfície com li van fer creure) fa tot just dos anys, modificat genèticament per créixer ràpid. Jack en realitat és el fill bastard d'Andrew Ryan per un romanç amb Jasmine Jolene, una ballarina. Quan va quedar embarassada de Jack, Jolene en la necessitat desesperada de diners, va vendre el seu embrió que li van extirpar quirúrgicament i la va vendre al millor postor. Ella no se n'havia adonat que era Frank Fontaine, un magnat despòtic de Rapture, qui havia comprat el seu fill. Ryan també revela a Jack que, després que Fontaine comprès el seu embrió, Fontaine el va redissenyar per obeir les ordres que vénen precedides per la frase específica: Seria tan amable ...?. Un cop preparat Jack va ser enviat a la superfície quan va començar la guerra per posar-lo fora de l'abast de Ryan. Quan el conflicte entre Fontaine i Ryan va arribar a un punt mort, Jack va ser enviat a bord d'un vol amb un paquet i va fer servir el seu contingut, un revòlver, per segrestar i estavellar l'avió prop del far, que li permetia tornar a Rapture com una eina de Fontaine. Com que era el fill de Jack Ryan, podria utilitzar la xarxa de batisferes de Rapture lliurement, que havia estat bloquejada per tothom excepte per a aquells dins de estadi genètic de Ryan. Finalment Jack Ryan, sota ordres del mateix Andrew Ryan, mata al seu pare que ha elegit morir com un home lliure. Jack s'adonà massa tard que Atlas l'havia estat utilitzant. Atles es revelà llavors com a Fontaine, que va fingir la seva mort per deixar confús a Ryan i prendre el control de la ciutat. Llavors Fontaine pren el control de Rapture deixant a Jack a la mercè dels sistemes de seguretat que acaba d'activar. La Dr. Tenenbaum i el seu petit refugi acullen a Jack Ryan, havent-lo ajudat a escapar de Fonatine per conductes de ventilació, tot i que finalment queda inconscient.
+
+{{quote box|quote=Sóc Andrew Ryan i estic a aquí per a preguntar-te una cosa:br /Un home no té dret a la suor del seu front?br /br /No, diu l'home de Washington; pertany als pobres.br /No, diu l'home del Vaticà; pertany a Déu.br /No, diu l'home de Moscou; pertany a tothom.br /br /Jo vaig refusar aquestes respostes!br / En canvi, vaig optar per una cosa diferent.br / Vaig triar l'impossible. Vaig triar...br /br /'''''Rapture.'''''br /br /Una ciutat on l'artista no havia de témer el censor.br /On el científic no estava limitat per la nímia moral dels menors.br /Un lloc, on el gran no estaria contingut pel petit.br /I, amb la suor del teu front,br /Rapture pot ser també la teva ciutat!|source=nbsp; Andrew Ryan|size=250px|align=right}}
+
+Quan Jack es desperta, la Dr. Tenenbaum ja ha desactivat algunes de les seves respostes condicionades (com la frase: Seria tan amable...?) i l'ajuda a trencar la resta de respostes condicionades que el podrien haver matat. Quan es fa evident a Fontaine que està perdent el control de Jack, Fontaine li revela que Tenenbaum era una jueva que havia sobreviscut a la Segona Guerra Mundial com una víctima de l'Holocaust i a la batalla a Rapture, insinuant que ella té previst trair-lo un cop Jack hagi mata a Fontaine. Amb l'ajuda de les Little Sister, Jack és capaç de localitzar Fontaine. Fontaine, a veure's acorralat, s'injecta amb una gran quantitat d'ADAM i es converteix en un monstre inhumà. Jack lluita Fontaine, i permet a les Little Sisters extreure tot l'ADAM de Fontaine, matant-lo. 
+
+==Finals==
+Tres finals són possibles depenent de la forma en què el jugador interacciona amb les Little Sister, tots narrats per la Dra. Tenenbaum. Si el jugador no mata a les Little Sisters o només a una, al final ens mostra a cinc Little Sister que tornen a la superfície amb Jack i viuen una vida plena al seu càrrec, incloent el seu graduat a la universitat, casar-se i tenir fills, que acaba en un to entranyable, amb un ancià Jack envoltat en el seu llit de mort per les cinc Little Sister ja adultes. 
+Si el jugador cull les bavoses (i amb això mata les Little Sisters) totalment o parcialment, el joc acaba amb un Jack bestial que mana a les Little Sisters i ocupa el lloc de Fontaine a Rapture, suposadament mata a tots els que se li oposen i obté el seu ADAM, posteriorment es veu com els seus sequaços ataquen a un submarí nuclear americà deixant entreveure que Jack intentarà atacar el món exterior això és narrat per una Dra. Tenenbaum enfadada i irada per com actua Jack. Si el jugador va matar a més d'una Little Sister, però no prou per obtenir el final anterior, el final és visualment idèntic al segon, encara que el to de la veu de Tenenbaum és trist, en lloc d'enfadat i hi ha petits canvis diàleg.
+
+==Articles relacionats==
+* [[BioShock Infinite]]
+
+==Referències==
+{{amaga}}
+{{Autoritat}}
+{{Enllaç AD|en}}
+{{Enllaç AD|ko}}
+{{Enllaç AD|pt}}
+{{Enllaç AD|sl}}
+
+
+[[Categoria:Videojocs per a Windows]]
+[[Categoria:Videojocs per a PlayStation 3]]
+[[Categoria:Videojocs per a Mac OS]]
+[[Categoria:Videojocs del 2007]]
+[[Categoria:Videojocs d'acció en primera persona]]
+[[Categoria:Videojocs per a Xbox 360]]</text>
+      <sha1>t9zywedutbgmcp5e1z1ygfx9fpndgat</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

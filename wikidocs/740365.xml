@@ -1,0 +1,66 @@
+<page>
+    <title>Astrocompass</title>
+    <ns>0</ns>
+    <id>740365</id>
+    <revision>
+      <id>13892944</id>
+      <parentid>13875788</parentid>
+      <timestamp>2014-07-26T21:54:33Z</timestamp>
+      <contributor>
+        <username>EVA2.0 (bot)</username>
+        <id>167473</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text  (- han sigut + han estat)</comment>
+      <text>[[Fitxer:Astrocompass_mk_II.jpg|thumb|300px|right|Astrocompass mk. II]]
+Un '''astrocompass ''' és un [[instrument de navegació]] per determinar l'exacta direcció del [[nord]] geogràfic mitjançant la posició d'un astre, sempre que es conegui l'hora local (mitjançant un [[rellotge]]).
+
+Hi ha certes circumstàncies en qué la [[brúixola]] magnètica i [[girocompàs]] no són fiables. La més òbvia és en les [[regions polars]], on la força exercida sobre l'agulla d'una brúixola magnètica és gairebé vertical i el [[girocompás]] es torna inestable a causa de la rotació de la [[Terra]]. Les brúixoles magnètiques són també particularment sensibles als camps magnètics, com ara els produïts pels bucs dels [[vaixell]]s, per alguns vehicles de metall o per certs equipaments (estructures metàl·liques). Abans de l'arribada d'ajudes electròniques a la navegació, com ara el [[Sistema de posicionament global|GPS]] la manera més fiable per determinar el nord, en aquestes circumstàncies extremes era a través de la utilització d'un '''astrocompass'''.
+
+== Principi d'ús ==
+L'eix de rotació de la Terra es manté immòbil durant tot l'any, a tots els efectes. Per tant, coneixent l'[[hora local]] i la posició geogràfica (és a dir [[latitud]] i [[longitud]]), que s'ajusten en els [[limb]]s de l'instrument. Un ''astrocompass'' pot ser alineat amb qualsevol objecte astronòmic amb una posició coneguda i treure'n una lectura molt precisa.
+
+En la seva forma més bàsica, un ''astrocompass'' està compost d'una placa base marcada amb els 360 punts de la brúixola, amb un mecanisme conegut com a ''tambor equatorial''. En aquest tambor és un conjunt d'ajust [[Vista (dispositiu)|llocs d'interès]] i una escala de [[declinació (astronomia)|declinació]]. Les versions més avançades poden tenir incorporat un [[cronòmetre marí|cronòmetre]] o la configuració per defecte per a astres, com ara el [[Sol]].
+
+Per utilitzar l'astrocompass, primer cal anivellar la placa base amb l'horitzó i després apuntar aproximadament allà on l'usuari creu que hi ha el nord. Cal llavors inclinar el tambor equatorial en relació amb aquesta base d'acord amb la latitud local. Els llocs d'interès s'ajusta la [[pínula]] d'acord amb l'[[angle horari]] local i la declinació del cos astronòmic que s'està utilitzant. Una vegada s'han fet tots aquests ajustaments, queda simplement fer girar l'''astrocompass'' fins que el cos astronòmic sigui visible a travers de la [[pínula]]: llavors es pot llegir el ''rumb'' sobre les divisions de la placa base. 
+
+Per poder seguir aquest procediment, un ''astrocompass'' exigeix als seus usuaris estar en possessió d'un [[almanac nàutic]] o unes [[taules astronòmiques]] similars, un dels seus principals desavantatges.
+
+== Usos històrics ==
+L'astrocompass només va començar a ser útil després de la invenció del [[cronòmetre nàutic]], sense el qual és gairebé inútil per a la navegació. Fins i tot aleshores, va tenir un ús limitat, comparat primer amb el compàs magnètic i, a continuació amb el [[girocompàs]], que són preferits en gairebé tots els casos. 
+
+L'[[exploració polar]] va ser un dels camps en què l'astrocompass va veure la majoria del seu ús, per les raons descrites més amuntt. També han estat utilitzats al llarg de la història en altres climes per comprovar la veracitat d'altres tipus de [[brúixola]]: van ser d'utilitat, per exemple, en la[[Campanya del nord d'Àfrica]] de la [[Segona Guerra Mundial]].
+
+El [[GPS]] i altres formes similars de [[navegació electrònica]] han fet que l'astrocompass hagi quedat funcionalment [[obsolet]] en qualsevol lloc, excepte:
+* Per a calibrar brúixoles, tant magnètiques com giroscòpiques
+* Per a les zones molt a prop dels pols, on la cobertura del GPS no està disponible i no hi ha actualment ajudes electròniques a la navegació.
+
+== Funcionament ==
+El funcionament és el següent:
+# Obtenir l'hora local (per mitjà d'un [[rellotge]])
+# Ajustar la latitud
+# Ajustar (a la [[alidada]]) el [[L.H.A.]] de l'astre per a aquest dia obtinguda per mitjà de taules o un programa d'ordinador
+# Apuntar la pínnula cap a l'astre ([[sol]] o [[lluna]])
+# Lectura del rumb en limb graduat
+
+== Vegeu també ==
+* [[Brúixola solar]]
+* [[Direcció del nord amb un rellotge]]
+
+== Referències ==
+* {{en}} ''How it Works, Part 6'' ''Marshall Cavendish Limited 1974''
+
+== Enllaços externs ==
+* Brúixola solar on-line http://www.rodrigogil.com/relojdesol.php 
+
+
+{{Instruments nàutics}}
+
+{{ORDENA:Bruixola Solar}}
+
+[[Categoria:Instruments de navegació astronòmica]]</text>
+      <sha1>1hz5l7ea6xlt19y4nr5lwd5n3ojtrvf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

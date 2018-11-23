@@ -1,0 +1,245 @@
+<page>
+    <title>Telescopi Lovell</title>
+    <ns>0</ns>
+    <id>1044085</id>
+    <revision>
+      <id>13775587</id>
+      <parentid>13566339</parentid>
+      <timestamp>2014-07-10T01:15:28Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Lovell Telescope]]</comment>
+      <text>{{Infotaula telescopi
+|nom = Telescopi Lovell
+|imatge = [[Fitxer:Lovell Telescope 5.jpg|250px|El Telescopi Lovell de 76,2nbsp;m]]
+|peu = El Telescopi Lovell de 76,2nbsp;m
+|organització = [[Observatori de Jodrell Bank]]
+|localització = [[Cheshire]], Regne Unit
+|coordenades = {{coord|53|14|13.2|N|2|18|25.74|W|display=inline,title}}
+|altitud = 
+|clima =
+|longitud_ona = Fins a ~5 GHz
+|construcció = 1952–1957
+|primera_llum = 2 d'agost de 1957ref name=story_158_177aLovell, ''Story of Jodrell Bank'', p. 158, plus the image at the bottom of p177a/ref
+|pàgina_web = [http://www.jodrellbank.manchester.ac.uk/ www.jodrellbank.manchester.ac.uk]
+|tipus = [[Telescopi reflector]] [[paraboloide]]
+|diàmetre = 76,2nbsp;mref name=stats{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/facts.html |títol=Jodrell Bank Observatorynbsp;— Facts and Figures |consulta=2007-05-28}}/ref
+|resolució_angular = 
+|àrea  = 4560nbsp;m²ref name=stats /
+|distància_focal = 22,9nbsp;mref name=stats /
+|muntura = [[Muntura altazimutal|Altazimutal]]
+}}
+El '''Telescopi Lovell''' ({{IPAc-en|icon|ˈ|l|ʌ|v|əl}}) és un [[radiotelescopi]] a l'[[Observatori de Jodrell Bank]], a prop de [[Goostrey]], [[Cheshire]] al nord-oest d'[[Anglaterra]]. Quan es va construir el 1955, fou el radiotelescopi en plat dirigible més gran del món amb 76,2nbsp;m de diàmetre;ref{{ref-notícia| url=http://news.bbc.co.uk/onthisday/hi/dates/stories/march/14/newsid_2566000/2566961.stm |títol=On This Day - 14 March 1960: Radio telescope makes space history |editorial=BBC News |consulta=2007-05-11 |data= 14 març 1960}}/ref
+ara és el tercer més gran, després del telescopi de [[Telescopi de Green Bank|Green Bank]] a [[Virgínia de l'Oest]], [[EUA]], i el d'[[Effelsberg]] a l'[[Alemanya]].ref name=spaceref_resurface{{ref-web| url=http://www.spaceref.com/news/viewpr.html?pid=9732 |títol=The Lovell Telescope presents a new face to the Universe |consulta=2007-05-11}}/ref
+Era conegut originalment com el telescopi de 250 peus o el Radiotelescopi de Jodrell Bank, abans d'esdevenir com a '''Telescopi Mark I''' pel 1961 quan els propers telescopis (el [[Mark II (radiotelescopi)|Mark II]], [[Mark III (radiotelescopi)|III]] i IV) fossin discutits.ref name=jb_telescopesLovell, ''The Jodrell Bank Telescopes''/ref El seu nom es va canviar a ''Telescopi Lovell'' el 1987 després de [[Bernard Lovell]],ref name=bbc_surface_reopened{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/2981167.stm |títol=Lovell Radio Telescope refurbished |editorial=BBC News |data= 28 abril 2003 |consulta=2007-04-05}}/ref i de convertir-se en un [[Monument classificat (Regne Unit)|edifici llistat]] de Grau I el 1988.ref name=listed{{ref-web| url=http://www.culture.gov.uk/Reference_library/Press_notices/archive_2003/dcms37_2003.htm |títol=Once Wilson's White Heat, Now History: Tessa Blackstone Lists Bt Tower |consulta=2007-05-28 |urlarxiu= http://web.archive.org/web/20070205185146/http://www.culture.gov.uk/Reference_library/Press_notices/archive_2003/dcms37_2003.htm |dataarxiu= 2007-02-05}}/refref name=images{{ref-web| url=http://www.imagesofengland.org.uk/details/default.aspx?pid=1id=413530 |títol=Images of England |editor=[[English Heritage]] |consulta=2007-07-17}}/ref El telescopi forma part de la xarxa de radiotelescopis [[MERLIN]] i [[European VLBI Network]].
+
+Tant en [[Bernard Lovell]] com en [[Charles Husband]] van ser nomenats cavallers pel seu paper en la creació del telescopi.ref name=jodrellbank_history{{ref-web| url=http://www.jb.man.ac.uk/booklet/History.html |títol=Jodrell Banknbsp;— History |consulta=2007-06-10}}/ref En el setembre de 2006, el telescopi va guanyar la competició en línia de la BBC per trobar el Paratge Més Inusual del Regne Unit.ref name=bbc_unsung{{ref-notícia| url = http://news.bbc.co.uk/2/hi/uk_news/magazine/5314172.stm |títol= Aye to the telescope|autor=Finlo Rohrer |editorial= BBC News |data= 5 setembre 2006}}/ref En el 2007 va complir el 50è aniversari.
+
+Si l'aire és prou clar, el telescopi Mark I es pot veure en edificis de gran alçada a [[Manchester]] com el [[Beetham Tower, Manchester|Beetham Tower]], i des de llocs tan llunyans com [[Penins]], [[Winter Hill (Lancashire)|Winter Hill]] a [[Lancashire]], [[Snowdonia]], [[Castell de Beeston]] a [[Cheshire]], i [[Peak District]]. També pot ser vist des de l'àrea del restaurant de la Terminal 1 i les sales de sortida de l'[[Aeroport de Manchester]].
+
+== Construcció ==
+=== Concepció i construcció del Mark I ===
+[[Bernard Lovell]] va construir el [[Telescopi Transit]] a Jodrell Bank a finals de la [[dècada de 1940]]. Va ser un radiotelescopi de 66 m de diàmetre que només pot apuntar directament cap amunt, el següent pas lògic era construir un telescopi que podia girar cap a tot arreu del cel perquè més fonts podrien ser observades, així com per a més temps d'integració. Encara que el telescopi Transit havia estat dissenyat i construït pels astrònoms que el van utilitzar, un telescopi completament orientable hauria de ser professionalment dissenyat i construït, el primer repte va ser trobar un enginyer disposat a fer la feina. Això va recaure amb [[Charles Husband]], que Lovell va conèixer el 8 de setembre de 1949.ref name=story_28Lovell, ''Story of Jodrell Bank'', p. 28/refref name=astronomer_195Lovell, ''Astronomer by Chance'', p. 195/ref
+
+[[Fitxer:Jodrell bank construction 2.jpg|thumb|right|El Mark 1 en construcció. br {{mida|1=Crèdit: Jodrell Bank.}}]]
+Van ser comprats a baix preu, dos [[arma naval BL 15 inch Mk I|armes navals de 38 cm]] giratoris amb rodament; aquestes provenien dels cuirassats de la [[Segona Guerra Mundial]], el ''[[HMS Revenge (06)|HMS Revenge]]'' i el ''[[HMS Royal Sovereign (05)|Royal Sovereign]]'', que estaven avariats en aquell temps. Els rodaments es van convertir en els dos coixinets rotadors principals de l'altitud del telescopi, amb les parts escaients del telescopi, dissenyades posteriorment.ref name=story_29Lovell, ''Story of Jodrell Bank'', p. 29/ref En Husband va presentar els primers esborranys d'aquest radiotelescopi completament dirigible en el 1950. Després d'alguns retocs, aquests plans van ser detallats en un Llibre blau,ref name=bluebook{{ref-llibre | nom=Bernard | cognom=Lovell | enllaçautor=Bernard Lovell | títol=Blue Book | any=1950 | url=http://www.jb.man.ac.uk/public/archive/BlueBook/ | isbn=0-312-32249-6}} (the proposal document for the Lovell Telescope)/ref que va ser presentat al [[DSIR]] el 20 de març de 1951;ref name=story_35Lovell, ''Story of Jodrell Bank'', p. 35/ref the proposal was approved in March 1952.ref name=astronomer_222Lovell, ''Astronomer by Chance'', p. 222/ref
+
+La construcció va començar el 3 de setembre de 1952.ref name=story_44Lovell, ''Story of Jodrell Bank'', p. 44/ref Les bases per al telescopi es van completar el 21 de maig de 1953 després d'haver estat enfonsat 27 metres sota terra.ref name=story_47Lovell, ''Story of Jodrell Bank'', p. 47/refref name=astronomer_225Lovell, ''Astronomer by Chance'', p. 225/ref A continuació, es va haver d'esperar fins a mitjans de març de 1954 per obtenir les línies de ferrocarril de doble acabat per la seva precisió requerida.ref name=story_65aLovell, ''Story of Jodrell Bank'', p. 65a (caption of lower photograph)/refref name=astronomer_232Lovell, ''Astronomer by Chance'', p. 232/ref El pivot central va ser instal·lat al seu lloc l'11 de maig de 1954,ref name=story_80aLovell, ''Story of Jodrell Bank'', p. 80a (caption of upper photograph)/ref i el [[bogi]] final a mitjans de l'abril de 1955.ref name=story_71Lovell, ''Story of Jodrell Bank'', p. 71/ref
+
+[[Fitxer:Jodrell bank construction.jpg|thumb|right|El Mark 1 en construcció. br {{mida|1=Crèdit: Jodrell Bank.}}]]
+El bol del telescopi originalment tindria una superfície de malla de filferro per observar a longituds d'ona entre 1 i 10 metres;ref name=jbo_lovell_construction{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/build.html |títol=JBOnbsp;— Construction |consulta=2007-05-28}}/ref això es va modificar a una superfície d'acer de manera que el telescopi pogués observar a 21nbsp;cm [[línia d'hidrogen]], que va ser descobert en el 1951.ref name=jbo_building{{ref-web| url=http://www.jb.man.ac.uk/public/story/mk1.html |títol=The 250 ft Mk I Radio Telescopenbsp;— The building of the world's first giant radio telescope. |editor=[[Jodrell Bank Observatory]] |consulta=2006-11-23}}/ref També, en el febrer de 1954, Lovell i el [[Ministeri de l'Aire]] es van reunir per veure si hi havia fons disponibles per millorar la precisió de l'antena de manera que es podria utilitzar en longituds d'ona de centímetres, per a la investigació en aquestes longituds d'ona per al Ministeri, així com altres propòsits. Encara el finançament no es va realitzar finalment per part del Ministeri de l'Aire, el procés de planificació havia progressat prou que es va poder finalitzar aquesta millora de totes maneres.ref name=astronomer_236Lovell, ''Astronomer by Chance'', pp. 235-236/ref
+
+El telescopi va ser construït de manera que el bol pogués ser completament invertit. Originalment, es pretenia utilitzar una torre mòbil a la base del telescopi per canviar els receptors en el focus.ref name=story_88Lovell, ''Story of Jodrell Bank'', p88/ref No obstant això, la torre mòbil mai va ser construïda, a causa de les restriccions de finançament i el fet que gran part de l'equip receptor es col·loca a la base del telescopi en lloc del focus.ref name=story_88Story of Jodrell Bank, p88/ref En canvi, els receptors van ser muntats en llargs tubs d'acer de 15 metres, que s'insereix, per un cabrestant a la part superior de la torre aeria mentre el bol s'inverteix. Els cables dels receptors, es mouen per l'interior d'aquest tub, que després podria ser connectats quan el telescopi apunta al [[zenit]]. L'equip associat al receptor podria llavors ser col·locat ja sigui en el petit laboratori balancejat directament sota la superfície; en les habitacions de la part superior de les dues torres, a les bigues de base, o en l'edifici de control.ref name=lovell_natureLovell (1957)/ref
+
+El telescopi es va moure per primera vegada el 3 de febrer de 1957: per una polzada.ref name=story_155Lovell, ''Story of Jodrell Bank'', p. 155/ref Es va moure azimutalment per primer cop el 12 de juny de 1957;ref name=story_157Lovell, ''Story of Jodrell Bank'', p. 157/ref the bowl was tilted under power for the first time on 20 June 1957.ref name=story_157/ A finals de juliol, es va completar la superfície del plat,ref name=astronomer_250Lovell, ''Astronomer by Chance'', p. 250/ref i la [[primera llum (astronomia)|primera llum]] va ser el 2 d'agost de 1957; el telescopi va fer una exploració a través de la [[Via Làctia]] a 160nbsp;MHz, amb el bol en el zenit.ref name=story_158_177a/ El telescopi es va controlar per primer cop des de la sala de control el 9 d'octubre de 1957,ref name=story_193Lovell, ''Story of Jodrell Bank'', p. 193/refref name=astronomer_260Lovell, ''Astronomer by Chance'', p. 260/ref per un [[Computador analògic|ordinador analògic]] dissenyat per a això.ref name=jbo_building /
+
+Hi havia grans excessos de costos amb la construcció del telescopi, principalment a causa del cost creixent abruptament de l'acer en el moment en què el telescopi es va construir. La concessió original per a la construcció del telescopi va arribar en forma conjunta a partir de la [[Nuffield Foundation]] i el govern, en £335,000.ref name=astronomer_222/ El govern va augmentar la seva participació en el finançament de manera sovint; la resta dels diners provenient de donacions privades. La part final del deute de la construcció del telescopi, £50,000, va ser cobrit per [[Lord Nuffield]] i el [[Nuffield Foundation]] el 25 de maig de 1960refStory of Jodrell Bank, p. 244/ref (degut en part als principis del telescopi, un paper molt públic en el seguiment de les sondes espacials; vegeu més endavant), i l'observatori Jodrell Bank es va canviar el seu nom a la Nuffield Radio Astronomy Laboratories. El cost total definitiu del telescopi va ser de £700,000.ref name=piper_story_95Piper, ''Story of Jodrell Bank'', p. 95/ref
+
+=== Millores com a Mark IA ===
+Poc després que el telescopi fou completatoriginalment, en Lovell i en Husband van començar a contemplar la idea d'actualitzar el telescopi de manera que tingués una superfície més precisa, i controlat per un ordinador digital. Els plans per a aquesta actualització van ser creats per Husband and Co., i es van presentar en Lovell a l'abril de 1964.ref name=jbtelescope_60Lovell, ''Jodrell Bank Telescopes'', pp. 60–61/ref Els seus plans es va fer més urgents quan van ser descobertes les esquerdes de fatiga en el sistema d'accionament d'elevació el setembre de 1967. El telescopi va ser previst només per tenir una vida útil operacional de 10 anys, i en Husband havia estat advertint sobre la decadència del telescopi des del 1963. L'aparició d'esquerdes per fatiga va ser el primer dels problemes que amenaçaven de detenir el treball del telescopi; que havia estat deixat en el seu lloc, llavors el sistema d'elevació podria haver fallat i potser encallat.ref name=jbtelescope_65Lovell, ''Jodrell Bank Telescopes'', pp. 65-66/ref El telescopi va ser reparat i actualitzat, per tant, va esdevenir com a Mark IA; les £400,000 de fons per fer això va ser anunciat el 8 de juliol de 1968 per la [[Science and Engineering Research Council|SRC]] per millorar i reparar el telescopi al Mark IA.ref name=jbtelescopes_68Lovell, ''Jodrell Bank Telescopes'', p. 68/refref name=zenith_237Out of the Zenith, p. 237/ref L'actualització es va portar a terme en tres fases, la fase 1 que va durar entre setembre de 1968 i febrer de 1969,ref name=jbtelescopes_phase1Lovell, ''Jodrell Bank Telescopes'', pp. 75-81/ref la fase 2 entre setembre i novembre de 1969,ref name=jbtelescopes_phase2Lovell, ''Jodrell Bank Telescopes'', pp. 81-83/ref i la fase 3 entre l'agost de 1970 i el novembre de 1971.ref name=jbtelescopes_phase3Lovell, ''Jodrell Bank Telescopes'', pp. 83-94/ref
+
+La primera fase va portar l'afegiment d'una via de ferrocarril interior, que va ser dissenyat per suportar un terç del pes del telescopi.ref name=jbtelescopes_phase1 /ref name=jbo_mk1a{{ref-web|títol=The MKIA Radio Telescope | url=http://www.jb.man.ac.uk/public/story/mk1a.html |editor=[[Jodrell Bank Observatory]] |consulta=2006-11-21}}/ref La via de ferrocarril exterior, que havia estat decaient i s'enfonsava en els anys anteriors, es va reparar en la segona fase. També, es van afegir quatre [[bogi]]es en la via interior, juntament amb la seva estructura d'acer, i els bogies existents a la pista exterior es van revisar.ref name=jbtelescopes_phase2 /ref name=jbo_mk1a /
+
+En la tercera fase es van realitzar els majors canvis; es va construir una superfície de bol nova i més precisa al davant de la superfície vella, el que contribuïa que el telescopi es pogués utilitzar en longituds d'ona tan petita com a 6nbsp;cm,ref name=jbo_lovell_construction/ i va ser afegida la roda de bicicleta de suport central. Un sistema informàtic de control nou es va posar també en marxa (amb la reutilització de l'ordinador [[Ferranti Argus|Ferranti Argus 104]] del [[Mark II (radiotelescopi)|Mark II]]); les esquerdes per fatiga en els cons que connectaven amb el bol amb les torres van ser reparades i l'antena central va ser allargat i reforçada.ref name=jbtelescopes_phase3 /ref name=jbo_mk1a / Tràgicament, en el gener de 1972, va cedir el polipast que aguantava dos enginyers de l'antena central, causant lesions greus als dos enginyers i provocant la mort d'un d'ells.ref name=jbtelescopes_p91Lovell, ''Jodrell Bank Telescopes'', p. 91/ref
+
+L'actualitació del Mark IA es va completar formalment en el 16 de juliol de 1974, quan el telescopi va ser retornat a la Universitat. A causa de l'augment en el cost de l'acer durant l'actualització, l'import final de l'actualització realitzada va ser de £664,793.07.ref name=jbtelescopes_94Lovell, ''Jodrell Bank Telescopes'', p. 94/ref
+
+[[Fitxer:Lovell telescope upgrade.jpg|thumb|right|El telescopi Lovell a mitja captació.]]
+
+=== Millores i reparacions posteriors ===
+Durant la [[tempesta de gener de 1976]], concretament el dia dos, els vents viatjaven a 140nbsp;km/h que gairebé van destruir el telescopi. Les torres es van inclinar, i un dels coixinets que connecten el plat a les torres van cedir. Després d'una costosa reparació, es van afegir bigues diagonals de reforç a les torres per evitar que això tornés a passar de nou.ref name=jbo_mk1a /
+
+En la dècada de 1990, la superfície del telescopi es va corroir. Entre 2001-2003, el telescopi va ser reparat, augmentant la seva sensibilitat a 5nbsp;GHz per un factor de cinc. Una mètode de perfil [[holografia|hologràfic]] es va utilitzar en la superfície, que va comportar que la superfície funcionés òptimament a longituds d'ona de 5nbsp;cm (comparats als 18nbsp;cm en la superfície vella).ref name=jbo_lovell_future{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/future.html |títol=JBOnbsp;— Lovell Telescopenbsp;— the future (in 2000) |consulta=2007-05-28}}/ref Es va instal·lar un nou sistema d'accionament, que proporciona una precisió molt més gran. Es va instal·lar de nou la via exterior, i la torre central es va enfortir perquè pogués donar un suport més pesat als receptors.ref name=2001_resurface{{ref-web| url=http://www.jb.man.ac.uk/public/story/Lovell.html |títol=The Lovell Telescope Upgrade |editor=[[Jodrell Bank Observatory]] |consulta=2006-11-23 |urlarxiu= http://web.archive.org/web/20061015012705/http://www.jb.man.ac.uk/public/story/Lovell.html |dataarxiu= 15 octubre 2006}}/ref
+
+En el 2007, el telescopi va necessitar una nova roda, ja que la roda antiga s'havia esquerdada; en el 2008 es va repetir amb una altra roda. Aquests són els únics canvis que es van caldre en dues rodes des que el telescopi va començar a funcionar en el 1957.ref name=wheels{{ref-web| url=http://www.jb.man.ac.uk/news/wheelchange/ |títol=Telescope's Tyre Change is Wheel Success |editor=Jodrell Bank Observatory |data= 4 febrer 2008 |consulta=2008-02-07}}/ref
+
+La presència (fins al 2010) de dues parelles reproductores de la fauna silvestre de [[falcó pelegrí|falcons pelegrins]] (que es van instal·lar en cadascuna de les dues torres de suport del telescopi) evita la molèstia de la infestació de [[colúmbids]] (per embrutiment amb excrements, i la seva calor corporal que afecta les lectures dels instruments sensibles) que alguns radiotelescopis pateixen.!-- Information from Jodrell Bank staff --
+
+== Estadístiques ==
+{| class=wikitable
+|-
+| Massa del telescopi:
+| 3200nbsp;tref name=stats /
+|-
+| Massa del plat:
+| 1500nbsp;tref name=stats /
+|-
+| Diàmetre del plat:
+| 76,2nbsp;mref name=stats /
+|-
+| Superfície del plat:
+| 5270nbsp;m²ref name=stats /
+|-
+| Superfície útil del plat:
+| 4560nbsp;m²ref name=stats /
+|-
+| Alçada de l'eix d'elevació:
+| 50,5nbsp;mref name=stats /
+|-
+| Alçada màxima sobre el terra:
+| 89,0nbsp;mref name=stats /
+|-
+| Radi de les rodes de la via:
+| 38,5nbsp;mref name=stats /
+|-
+|Diàmetre exterior del rail:
+| 107,5nbsp;mref name=stats /
+|-
+| Quantitat de pintura per 3 capes del plat:
+| 5300nbsp;Lref name=stats /
+|-
+| Energia de potència azimutal
+| Dos motors elèctrics de 50 [[Cavall de vapor|CV]], un al peu de cada torre.ref name=jbo_lovell_anatomy{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/anatomy.html |títol=JBOnbsp;— Anatomy of the Lovell telescope |consulta=2007-05-28}}/ref
+|-
+| Rati màxim de la unitat
+| 15 graus per minut en azimutalbr /10 graus per minut en l'elevació.ref name=jbo_lovell_anatomy /
+|}
+
+gallery
+File:Lovell Telescope 1.jpg|Vista lateral
+File:Lovell Telescope 2.jpg|Plat del telescopi
+File:Lovell Telescope 4.jpg|Estructura de suport
+File:Lovell Telescope Rear.jpg|Vista posterior
+File:Aa jodrelbank work 00.jpg|Reparacions als suports del radiotelescopi de Jodrell Bank, 12 d'agost de 2010
+/gallery
+
+== Seguiment de sondes ==
+=== Spútnik i satèl·lits artificials ===
+[[Fitxer:Sputnik asm.jpg|thumb|Una maqueta del [[Spútnik 1]].]]
+El telescopi va començar a funcionar l'estiu del 1957, just a temps per al llançament del [[Spútnik 1]], el primer satèl·lit artificial del món. Mentre que les transmissions des de l'Spútnik per si mateix podia ser fàcilment recollides per una [[ràdio]] domèstica, el Telescopi Lovell era l'únic telescopi capaç de rastrejar el coet de l'Spútnik per radar; primer va ser localitzatjust abans de la mitjanit del 12 d'octubre de 1957.ref name=story_196Lovell, ''Story of Jodrell Bank'', p. 196/refref name=astronomer_262Lovell, ''Astronomer by Chance'', p. 262/ref També va localitzar el coet transportador del [[Spútnik 2]] just després de la mitjanit del 16 de novembre de 1957.ref name=story_197Lovell, ''Story of Jodrell Bank'', p. 197/ref
+
+El telescopi també ha participat en alguns dels primeres missions de satèl·lit. En el febrer i març de 1963, el telescopi va transmetre senyals a través de la Lluna i l'[[satèl·lit Echo|Echo II]], un satèl·lit globus de la [[NASA]] a 750nbsp;km d'altitud, a l'Observatori de Zimenki en l'[[URSS]]. També es van transmetre algunes senyals des dels EUA cap a l'URSS a través de Jodrell Bank.ref name=zenith_221Out of the Zenith, chapter 15/ref
+
+=== La cursa de la Lluna ===
+[[Fitxer:Pioneer-5.jpg|thumb|El [[Pioneer 5]] muntat en el seu llançador [[Thor (vehicle de llançament)|Thor Able]].]]
+El Telescopi Lovell va ser utilitzat per fer un seguiment tant de sondes [[Unió Soviètica|soviètiques]] com [[Estats Units|americanes]] adreçades a la [[Lluna]] a finals de la [[dècada de 1950]] i principis de la [[dècada de 1960]]. Quant a les sondes espacials nord-americanes, el telescopi va seguir el [[Pioneer 1]] des de l'11 al 13 de novembre de 1958,ref name=story_212Lovell, ''Story of Jodrell Bank'', p. 212/refref name=astronomer_269Lovell, ''Astronomer by Chance'', p. 269/ref El [[Pioneer 3]] en el desembre de 1958,ref name=earlyprobetracking{{ref-web| url=http://www.jb.man.ac.uk/public/story/tracking/ |títol=Jodrell Bank's role in early space tracking activities |consulta=2007-06-10}}/ref i el [[Pioneer 4]] en el març de 1959.ref name=time_pioneer_4{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,937005,00.html |títol=U.S. Planet |editorial=[[Time Magazine]] |data= 16 març 1959 |consulta=2007-04-09}}/ref El telescopi va seguir el [[Pioneer 5]] entre l'11 de març i el 26 de juny de 1960, i també va ser utilitzat per enviar ordres a la sonda, incloent la de separar la sonda del seu coet portador i l'activació del transmissor més potent quan la sonda va ser a 12,9 milions de km de distància. També, es van rebre dades del Pioneer 5, i va ser l'únic telescopi al món capaç de fer-ho en aquell moment.refLovell, ''Story of Jodrell Bank'', p. xii, pp. 239-244br /Lovell, ''Astronomer by Chance'', p. 272br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,894817,00.html |títol=Voice in Space |editorial=Time Magazine |data= 21 març 1960 |consulta=2007-04-09}}br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,827621,00.html |títol=Big Voice from Space |editorial=[[Time Magazine]] |data= 23 maig 1960 |consulta=2007-04-09}}/ref L'última senyal rebuda de la sonda a una distància de 36,2 milions de quilòmetres el 26 de juny de 1960.ref name=earlyprobetracking /
+
+El telescopi també van fer un seguiment de les sondes soviètiques lunars, incloent el [[Lunik II]] del 13 al 14 de setembre de 1959 fins a xocar contra la Lluna; això va demostrar al telescopi la mesura de l'efecte de la gravetat de la lluna sobre la sonda,refLovell, ''Story of Jodrell Bank'', pp. 231-236 and caption on bottom photo of page 209abr /Piper, ''Story of Jodrell Bank'', p. 42br /Lovell, ''Astronomer by Chance'', pp. 269-271br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,869244,00.html |títol=Moon Blow |editorial=[[Time Magazine]] |data= 21 setembre 1959 |consulta=2007-04-09}}br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,811308,00.html |títol=Trail of the Lunik |editorial=[[Time Magazine]] |data= 28 setembre 1959 |consulta=2007-04-09}}/ref i el [[Luna 3]] prop del 4 d'octubre de 1959.refLovell, ''Story of Jodrell Bank'', pp. 236-238br /Lovell, ''Astronomer by Chance'', p. 271br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,864046,00.html |títol=Lunik III |editorial=[[Time Magazine]] |data= 12 octubre 1959}}br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,869300,00.html |títol=First to the Far Side |editorial=[[Time Magazine]] |data= 19 octubre 1959 |consulta=2007-04-08}}/ref A més a més, el telescopi va seguir el [[Luna 9]] el febrer de 1966, la primera nau espacial en fer un aterratge suau a la [[Lluna]]. El telescopi l'escoltava en la seva transmissió [[Fax|facsímil]] de fotografies sobre la superfície de la Lluna. Les fotos van ser enviades a la premsa britànica, la transmissió dels quals va ser modificat en el format internacional per a la transmissió d'imatges, probablement intencionalment per augmentar les possibilitats de recepció, i va ser publicat abans que els soviètics fessin públiques les fotografies.refLovell, ''Story of Jodrell Bank'', p. 250br /{{ref-notícia| url=http://news.bbc.co.uk/onthisday/hi/dates/stories/february/3/newsid_4063000/4063471.stm |títol=On This Day - 3 February 1966: Soviets land probe on Moon |editorial=BBC News |consulta=2007-04-09 |data= 3 febrer 1966}}br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,842468,00.html |títol=The Lunar Landscape |editorial=[[Time Magazine]] |data= 11 febrer 1966 |consulta=2007-04-07}}/ref
+
+El telescopi va seguir el [[Luna 10]], un satèl·lit rus situat en òrbita al voltant de la Lluna, l'abril de 1966,ref name=time_luna10{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,835362,00.html |títol=Bringing Credit to Jodrell Bank |editorial=[[Time Magazine]] |data= 15 abril 1966 |consulta=2007-04-06}}/ref i el [[Zond 5]] el setembre de 1968, una sonda russa que es va llançar cap a la lluna i encerclant-la abans de tornar cap a la Terra.ref name=time_zond5{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,902336,00.html |títol=Russia's Race to the Moon |editorial=[[Time Magazine]] |data= 27 setembre 1968 |consulta=2007-04-09}}/ref El telescopi no va rastrejar l'[[Apollo 11]], ja que va realitzar el seguiment del [[Luna 15]] el juliol de 1969. No obstant això, un telescopi de 15 m a Jodrell Bank va ser utilitzat alhora per fer un seguiment de l'[[Apollo 11]].ref name=time_luna_15{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,901106,00.html |títol=Scoopy, Snoopy or Sour Grapes? |editorial=[[Time Magazine]] |data= 25 juliol 1969 |consulta=2007-04-09}}/refref name=jbtelescopes_82Lovell, ''Jodrell Bank Telescopes'', p. 82/ref
+
+=== Sondes a Venus ===
+El telescopi possiblement va detectar senyals del [[Venera 1]], un satèl·lit rus en ruta cap a Venus, el 19–20 de maig de 1961. No obstant això, no va ser possible confirmar l'origen dels senyals.ref name=piper_story_43Piper, ''Story of Jodrell Bank'', pp. 43-44/ref Un any més tard, el desembre de 1962, el telescopi va seguir i rebre dades del [[Mariner 2]].refPiper, ''Story of Jodrell Bank'', p. 44br /{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,940164,00.html |títol=Venus Probed |editorial=[[Time Magazine]] |data=21 desembre 1962 |consulta=2007-04-09}}/ref El 18 d'octubre de 1967, el telescopi va seguir i rebre senyals del [[Venera 4]], una sonda russa cap a Venus.ref name=bbc_venera_4{{ref-notícia| url=http://news.bbc.co.uk/onthisday/hi/dates/stories/october/18/newsid_4082000/4082373.stm |títol=On This Day - 18 October 1967: Soviets glimpse beneath clouds of Venus |editorial=BBC News |consulta=2007-05-09 |data= 18 octubre 1967}}/ref
+
+=== Sondes a Mart ===
+El telescopi va seguir el [[Mars 1]] durant el 1962-3,ref name=earlyprobetracking / com també el [[Mars 2]] i [[Mars 3]] el 1971 (enmig de l'actualització del telescopi com a Mark IA).ref name=jbtelescopes_88Lovell, ''Jodrell Bank Telescopes'', p. 88/ref En els últims anys, també havia buscat diverses sondes marcianes perdudes, incloent la [[Mars Observer]] de la [[NASA]] el 1993,ref name=bbc_unsung/ la [[Mars Polar Lander]] el 2000,ref{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/626952.stm |títol=Earth turns its ears to Mars |editorial=BBC News |data= 2 octubre 2000 |consulta=2007-04-09}}br /{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/629443.stm |títol=Quiet please, we're listening to Mars |editorial=BBC News |data= 3 febrer 2000 |consulta=2007-04-05}}br /{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/635229.stm |títol=Mars lander search goes on |editorial=BBC News |data= 8 febrer 2000 |consulta=2007-04-05}}/ref
+i el mòdul de descens [[Beagle 2]] a Mart el 2003. No obstant això, no va tenir èxit en la seva localització.
+
+=== Alertes d'ICBM ===
+Com a mesura provisional, mentre s'estava formant la [[RAF Fylingdales]], el telescopi va estar treballant pel Projecte Verify (també conegut per les paraules claus Lothario i Changlin) entre l'abril de 1962 i setembre de 1963. Durant les alertes estratègiques, es va haver de connectar 'un transmissor de pols, un receptor i equip visual' per escanejar suposades zones russes de llançament dels llançaments de [[ICBM]]s i/o [[IRBM]]s.ref name=astronomer_322Lovell, ''Astronomer by Chance'', p. 322/refref name=spinardiSpinardi, 2006/ref Durant la [[Crisi dels míssils de Cuba]] a l'octubre de 1962, el telescopi es va convertir discretament per al [[Teló d'acer]] per advertir a pocs minuts dels míssils que podrien haver estat llançats.ref name=bbc_dish_day{{ref-notícia| url=http://www.bbc.co.uk/radio4/science/dishoftheday.shtml |títol=Dish of the Day |editorial=[[BBC Radio 4]] |data= 13 juny 2003 |consulta=2007-04-09}}/ref
+
+== Observacions científiques ==
+Quan es va proposar la construcció del telescopi, es van consensuar tot una sèrie d'objectius per a les seves observacions. Aquestes s'inclouen:ref name=bluebook /
+* Sondejos d'emissions de ràdio galàctics i extragalàctics
+* Observacions del sol
+* Els ressons dels planetes
+* Investigació de les deteccions de meteors
+* Observacions del [[Gegenschein]]
+* Estudis sobre [[Aurora polar|aurores]]
+* Deteccions de les reflexions de ràdio de la ionització dels [[raigs còsmics]] en l'atmosfera
+
+No obstant això, les observacions reals realitzades amb el telescopi difereixen d'aquests objectius originals, i es descriuen en les següents seccions.
+
+=== Sistema solar ===
+A la tardor de 1958, el telescopi es va utilitzar per rebotar Holes a la Lluna per comprovar una demostració de la tercera [[Llista de les lectures de Reith|lectura de Reith]] de Lovell.ref name=zenith_212Out of the Zenith, p212/ref El telescopi també es va utilitzar per rebre missatges que rebotaven a la Lluna (un [[rebot lunar]]) com a part del 50è aniversari del festival ''First Move''.ref name=firstmovefestival_moonbounce{{ref-web| url=http://www.jb.man.ac.uk/public/im/eme.html |títol=EME to the Lovell Telescope |nom=Ian |cognom=Morrison |data= 17 juny 2007 |consulta=2007-06-21}}/ref L'abril de 1961, es va aconseguir un ressò de radar de Venus utilitzant el telescopi mentre el planeta es trobava en una aproximació propera, confirmant els mesuraments de la distància del planeta realitzats pels telescopis d'Amèrica.ref name=zenith_197Lovell, ''Out of the Zenith'', pp. 197-198/refref name=astronomer_277Lovell, ''Astronomer by Chance'', pp. 277-280/ref
+
+=== Línia d'hidrogen de 21cm ===
+{{vegeu també|Línia d'hidrogen}}
+La línia de 21nbsp;cm d'hidrogen va ser descoberta durant la construcció del telescopi; que va ser posteriorment redissenyat perquè pugui observar en aquesta freqüència. Amb aquesta línia d'emissió, es poden observar, els núvols d'hidrogen, tant en la galàxia de la Via Làctia com en altres galàxies; per exemple, el telescope va descobrir un gran núvol al voltant de les galàxies [[Messier 81|M81]] i [[Messier 82|M82]]. El moviment d'aquests núvols, sigui apropant-se o allunyant-se de la Terra, es dedueix de la línia espectral de [[desplaçament cap al roig]] o cap al [[Desplaçament cap al blau|blau]], permetent la mesura de la velocitat del núvol. Això proporciona una prova de la dinàmica interna de les galàxies, i també pot proporcionar una mesura de l'[[expansió mètrica de l’espai|expansió mètrica]] de l'univers.ref name=jbo_gas{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/aungas.html |títol=JBOnbsp;— Gas |editor=[[Jodrell Bank Observatory]] |consulta=2007-06-01 |urlarxiu= http://web.archive.org/web/20020818201154/http://www.jb.man.ac.uk/tech/lovell/aungas.html |dataarxiu= 2002-08-18}}/ref
+
+=== Màsers ===
+{{vegeu també|Màser astrofísic}}
+El 1963, el telescopi va descobrir emissions de [[Grup hidroxil|hidroxil]] (OH) de [[Formació estel·lar|regions de formació estel·lar]] i les estrelles gegants; els primers [[màser]]s astronòmics.ref name=jbo_milestones{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/mile.html |títol=JBOnbsp;— Milestones |consulta=2007-05-28}}/ref Els màsers d'OH emeten en quatre freqüències al voltant de 18nbsp;cm, que són fàcilment observables en el telescopi. Com a part del [[MERLIN]], el telescopi s'utilitza regularment per a la construcció de mapes de regions màser.ref name=jbo_gas /
+
+=== Púlsars ===
+[[Fitxer:J0737-3039 still1 large.jpg|thumb|200px|Impressió artística del púlsar doble, [[PSR J0737-3039]].]]
+{{vegeu també|Púlsar}}
+En el 1968, el telescopi va observar les coordenades del llavors recentment descobert [[púlsar]], confirmant la seva existència i la investigació de la mesura de dispersió.ref name=zenith_130Lovell, ''Out of the Zenith'', pp. 130-135/ref També va ser utilitzat per fer la primera detecció de la polarització de la radiació del púlsar.ref name=time_pulsar2{{ref-notícia| url=http://www.time.com/time/magazine/article/0,9171,838333,00.html |títol=Taking the Pulse of Pulsars |editorial=[[Time Magazine]] |data= 26 abril 1968 |consulta=2007-04-09}}/ref Això va marcar l'inici d'una important tasca investigadora sobre una gran quantitat de púlsars a Jodrell, que encara està en curs.ref name=astronomer_293Lovell, ''Astronomer by Chance'', pp. 293-297/refEn els 30 anys que van seguir al descobriment dels púlsars, el telescopi va descobrir més de 100 nous púlsars (i els astrònoms de Jodrell Bank han descobert al voltant del 2/3 del nombre total usant el Lovell i altres telescopis). Uns 300 púlsars són regularment observats utilitzant el Lovell, o amb un plat proper de 13 metres.ref name=jbo_stars /
+
+El telescopi va veure's involucrat en el descobriment dels púlsars de mil·lisegons,ref name=jbo_stars{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/aunstar.html |títol=JBOnbsp;— Stars |editor=[[Jodrell Bank Observatory]] |consulta=2007-06-01}}/ref i també va descobrir el primer púlsar en un cúmul globular en el 1986ref name=jbo_milestones /—un púlsar de mil·lisegons al cúmul globular de [[Messier 28]]. En el setembre de 2006, es van anunciar els resultats de tres anys d'observació d'un doble púlsar, el [[PSR J0737-3039]], amb el telescopi Lovell, con també amb els telescopis de [[Observatori Parkes|Parkes]] i de [[Telescopi de Green Bank|Green Bank]],— confirmant que la [[teoria de la relativitat general]] és exacta fins al 99,5%.ref{{ref-web| url=http://www.jb.man.ac.uk/news/einstein/ |títol=General Relativity survives gruelling pulsar testnbsp;—Einstein at least 99.95% right! |editor=[[Jodrell Bank Observatory]] |consulta=2007-06-10}}/ref
+
+=== Lent gravitatòria ===
+[[Fitxer:Gravitational lens-full.jpg|thumb|right|Una il·lustració d'una [[lent gravitatòria]].]]
+{{vegeu també|Lent gravitatòria}}
+Entre el 1972 i 1973, el telescopi va ser utilitzat per un estudi detallat de les fonts de ràdio en una àrea limitada del cel … fins al límit de sensibilitat de l'instrument. Entre els objectes catalogats hi va ser la primera [[lent gravitatòria]], que es va confirmar òpticament en el 1979ref name=astronomer_297Lovell, ''Astronomer by Chance'', pp. 297-301/ref després de trobar que la seva posició coincidia amb un parell de febles estrelles blaves mitjançant l'ús del Mark I com un interferòmetre amb la [[Mark II (radiotelescopi)|Mark II]].ref name=jbo_galaxies{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/aungxi.html |títol=JBOnbsp;— Galaxies |editor=[[Jodrell Bank Observatory]] |consulta=2007-06-01 |urlarxiu= http://web.archive.org/web/20020419230419/http://www.jb.man.ac.uk/tech/lovell/aungxi.html |dataarxiu= 2002-04-19}}/ref El telescopi també va estar implicat en la detecció del primer [[anell d'Einstein]] el 1998, conjuntament amb les observacions fetes amb el [[telescopi espacial Hubble]].ref{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/71518.stm |títol=Astronomers see cosmic mirage |editorial=BBC News |data= 1 abril 1998 |consulta=2007-04-09}}/ref
+
+=== Quàsars i interferometria ===
+{{vegeu també|Quàsar|Interferòmetre astronòmic}}
+La investigació primerenca en la grandària i la naturalesa dels [[quàsar]]s va impulsar el desenvolupament de les tècniques d'interferometria en la dècada de 1950; el telescopi Lovell tenia avantatge per la seva gran àrea col·lectora, el que significa que els mesuraments d'alta sensibilitat del interferòmetre es pot realitzar amb relativa rapidesa. Com a resultat, el telescopi va ajudar en gran mesura en el descobriment dels [[quàsar]]s.ref name=jodrellbank_history /
+
+La interferometria a Jodrell Bank va ser iniciada abans que es construís el telescopi Lovell, utilitzant el [[Telescopi Transit]] amb una matriu quadrada 35 metres per determinar la mida de les emissions de ràdio de [[nebulosa|nebuloses]].ref name=zenith_19Out of the Zenith, pp. 19-20/ref Un cop es va completar el telescopi Lovell, el col·lector apaïssat va ser col·locat en un suport orientable i el parell s'utilitza com a interferòmetre de seguiment per ràdio. Això es va usar llavors per determinar la forma en 2D dels quàsars al cel.ref name=zenith_42_mnrasOut of the Zenith, pp. 42-45.br /Rowson (1963)/ref A l'estiu de 1961, va ser construït un telescopi paraboloide de 8 metres de diàmetre (estava fet de tubs d'alumini i es va muntar en l'estructura giratòria d'un vell radar de defensa). Això es va utilitzar després com a interferòmetre dirigible juntament amb el Mark I, amb una resolució de 0,3 segons d'arc, per determinar la mida d'alguns quàsars d'alt espectre de desplaçament cap al roig (z~0,86).ref name=zenith_46Out of the Zenith, pp. 46-48/ref
+
+Un cop va ser construït el telescopi [[Mark II (radiotelescopi)|Mark II]], també es va utilitzar com a interferòmetre amb el telescopi Lovell.ref name=jb_telescopes/ Té una base de 425 m (el que significa que es pot sintetitzar un telescopi amb 425 m de diàmetre), fet que suposa una resolució d'uns 0,5 [[minut d'arc|minuts d'arc]]. Aquest parell telescopi es van utilitzar per dur a terme estudis, i per determinar les posicions dels objectes de ràdio febles.ref name=interferometer{{ref-web| url=http://www.jb.man.ac.uk/tech/lovell/interfer.html |títol=Interferometers |editor=[[Jodrell Bank Observatory]] |consulta=2007-06-01 |urlarxiu= http://web.archive.org/web/20040628145207/http://www.jb.man.ac.uk/tech/lovell/interfer.html |dataarxiu= 2004-06-28}}/ref També, un dels motius de la construcció del [[Mark III (radiotelescopi)|Mark III]] era utilitzar com a interferòmetre amb la Mark I per dur a terme un estudi de les fonts de ràdio.ref name=zenith_73aOut of the Zenith, pp. 73-77/ref
+
+El telescopi va participar en el primer experiment d'interferòmetre transatlàntic el 1968, amb altres telescopis que són els que estan a [[Ràdio Observatori d'Algonquin|Algonquin]] i [[Penticton]] al Canadà.ref name=zenith_67Lovell, ''Out of the Zenith'', pp. 67-68/ref Va ser utilitzat per primera vegada com a interferòmetre amb el radiotelescopi d'[[Arecibo]] el 1969.ref name=jbo_milestones/
+
+En el 1980, va ser utilitzat com a part de la nova xarxa [[MERLIN]]ref name=jbo_milestones / amb una sèrie de petits telescopis de ràdio controlats des de Jodrell Bank. Amb les línies de base de fins a 217nbsp;km, això va permetre una resolució al voltant de 0,05 minuts d'arc.ref name=interferometer / Una versió actualitzada d'aquest es va convertir en un centre nacional el 1992.ref name=jbo_milestones / També s'ha utilitzat en [[interferometria de Molt Llarga Base]], amb telescopis de tot Europa (la [[European VLBI Network]]), proporcionant una resolució del voltant de 0,001 [[segon d'arc|segons d'arc]]. Al voltant de la meitat del temps d'observació del telescopi està ara dedicat a fer interferometria amb altres telescopis.ref name=interferometer / Està previst que el telescopi funcioni com a part d'un interferòmetre amb els radiotelescopis satèl·lit orbitadors com el [[Radioastron]] (Rússia) i [[VLBI Space Observatory Programme]] (Japó), proporcionant línies de base encara més grans i de majors resolucions.ref name=interferometer / !-- NB: need to find out what happened here; VSOP already flew and ended. Has Radioastron flown yet? [[User:Mike Peel]] --
+
+=== Altres observacions importants ===
+El telescopi va ser utilitzat com a instrument de seguiment per a possibles deteccions del [[SETI]] realitzats a [[Arecibo]] entre el 1998 i a finals del 2003.ref name=bbc_seti{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/52489.stm |títol=Scientists listen intently for ET |editorial=BBC News |data= 1 febrer 1998 |consulta=2007-04-09}}/refref name=bbc_seti2{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/300916.stm |títol=Alien hunters back on track |editorial=BBC News |data= 23 març 1999 |consulta=2007-04-09}}/ref No es van detectar senyals.ref name=bbc_seti_nosignal{{ref-notícia| url=http://news.bbc.co.uk/1/hi/sci/tech/3567729.stm |títol=Radio search for ET draws a blank |editorial=BBC News |data= 25 març 2004 |consulta=2007-04-09}}/ref El febrer de 2005, els astrònoms que utilitzaven el Telescopi Lovell van descobrir la galàxia [[VIRGOHI21]] que sembla estar composta gairebé enterament de [[matèria fosca]].ref name=darkgalaxy{{ref-web| url=http://www.jb.man.ac.uk/news/darkgalaxy/ |títol=Seeing the invisiblenbsp;— first dark galaxy discovered? |editor=Jodrell Bank Observatory press release |data= 23 febrer 2005 |consulta=2007-05-29}}/ref
+
+== Cultura popular ==
+[[Fitxer:Jodrell Bank Mark I.jpg|thumb|right|Un model del telescopi Mark I al Museu de la Ciència, Londres]]
+* Es va realitzar el 1961 un model del telescopi a escala 1:200, s'exposa al [[Museu de la Ciència de Londres|Museu de la Ciència]], [[Londres]].ref{{ref-web| url=http://www.sciencemuseum.org.uk/objects/astronomy/1961-159.aspx |títol=Scale model of Jodrell Bank Radio Telescope, 1961 |editor=Science Museum |consulta=2008-11-09}}/ref
+* En el 1962, es va mencionar el telescopi en una novel·la de ciència-ficció anomenada ''[[A for Andromeda]]'', per [[Fred Hoyle]] i [[John Elliot]].ref name=subsub{{ref-web| url=http://thequietus.com/articles/01418-doves-interview-the-romance-of-the-telescope |títol=Doves Interview: The Romance Of The Telescope |nom=John |cognom=Doran |data= 2 abril 2009 |consulta= 18 abril 2009}}/ref
+* L'actriu [[Sophie Aldred]] va retratar la [[company (Doctor Who)|companya]] del [[Setè Doctor]] com a [[Ace (Doctor Who)|Ace McShane]], d'empeus tant en la superestructura com en el plat en l'especial educatiu [[Llista d'episodis de Doctor Who|Search Out Science: Search Out Space]] del ''[[Doctor Who]]'' en el 1990.refSearch Out Science: Search Out Space special thanks credits./ref
+* En el 1992, el telescopi va aparèixer a la portada del [[senzill]] Space Face de [[Sub Sub]].ref name=subsub/
+* El telescopi també va fer una breu aparició en la [[The Hitchhiker's Guide to the Galaxy (pel·lícula)|versió de cinema]] de ''[[Guia galàctica per a autostopistes]]'' el 2005.ref name=h2g2{{ref-web| url=http://www.jb.man.ac.uk/news/h2g2/ |títol=Scientists bid to save the Earth in latest Hollywood blockbuster |editor=Jodrell Bank Observatory press release |consulta=2007-05-29}}/ref
+* Dos grups de música han gravat [[videoclip]]s musicals en el bol del telescopi: [[D Ream|D:Ream]] en el 1995 (Party Up the World) i [[Placebo (grup)|Placebo]] en el 2003 ([[The Bitter End (cançó)|The Bitter End]]).
+* La [[Royal Mail]] va triar per representar el telescopi com la J de Jodrell Bank en la seva sèrie segells alfabètics;ref{{ref-web|url=http://www.bbc.co.uk/news/in-pictures-15238575 |títol=In pictures: Royal Mail's alphabetical landmark stamps |autor= |data= 11 octubre 2011 |obra= |editor=BBC News }}/ref també s'ha il·lustrat anteriorment en segells de [[Haití]], [[Hongria]], [[Illa de l'Ascensió]], [[Barbuda]], [[Liechtenstein]] i [[Tanzània]].ref{{ref-web| url=http://www.ianridpath.com/stamps/jodrell.htm |títol=Jodrell Bank radio telescope |consulta= 1 novembre 2011}}/ref
+
+== Notes i referències ==
+{{referències|2}}
+
+=== Llibres ===
+{{Projectes germans|commons=Jodrell Bank}}
+* {{ref-llibre | cognom=Lovell | nom=Bernard | any=1968 | títol=The Story of Jodrell Bank | editorial=Oxford University Press | isbn=0-19-217619-6}}
+* {{ref-llibre | cognom=Lovell | nom=Bernard | any=1973 | títol=Out of the Zenith: Jodrell Bank 1957-1970 | editorial=Oxford University Press | isbn=0-19-217624-2}}
+* {{ref-llibre|nom=Bernard | cognom=Lovell | títol=The Jodrell Bank Telescopes | editorial=Oxford University Press | any=1985 | isbn = 0-19-858178-5}}
+* {{ref-llibre | cognom=Lovell | nom=Bernard | any=1990| títol=Astronomer by Chance | editorial=Macmillan | lloc=London | isbn=0-333-55195-8}}
+* {{ref-llibre | cognom=Piper | nom=Roger | títol=The Story of Jodrell Bank | edició=Carousel | isbn=0-552-54028-5 | editorial=Carousel | lloc=London}}
+
+=== Articles periodístics ===
+* {{ref-publicació|cognom=Lovell |nom=Bernard |enllaçautor=Bernard Lovell |any=1957 | doi= 10.1038/180060a0 |títol=The Jodrell Bank Radio Telescope |publicació=[[Nature (journal)|Nature]] |volum=180 |exemplar=4576 |pàgines=60–62|bibcode = 1957Natur.180...60L }}
+* {{ref-publicació|títol=High resolution observations with a tracking radio interferometer |nom=B. |cognom=Rowson |publicació=[[MNRAS]] |any=1963 |volum=125 |pàgina=177 | bibcode=1963MNRAS.125..177R}}
+* {{ref-publicació|cognom=Spinardi |nom= G. |any=2006 | url=http://taylorandfrancis.metapress.com/content/l42u321vt25j3317/ |títol=Science, Technology, and the Cold War: The Military Uses of the Jodrell Bank Radio Telescope |publicació=Cold War History |volum=6 |mes=August |pàgines=279–300 | doi=10.1080/14682740600795428 |exemplar=3}}
+
+== Enllaços externs ==
+{{portal|Astronomia}}
+* [http://www.jb.man.ac.uk/tech/lovell/ El lloc web del Telescopi Lovell]
+* [http://www.gresham.ac.uk/event.asp?PageId=45EventId=669 '50 Anys del Telescopi Lovell'], lectura pel Professor Ian Morison al [[Gresham College]], 5 de desembre de 2007 (disponible per a baixada gratuïta d'àudio, vídeo i text).
+
+{{Enllaç AB|en}}
+
+
+[[Categoria:Telescopis|Lovell]]
+[[Categoria:Edificis d'Anglaterra]]
+[[Categoria:Radiotelescopis]]</text>
+      <sha1>1g2zk7g3k25l421fccptqi5zxjhcvjr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

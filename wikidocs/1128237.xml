@@ -1,0 +1,192 @@
+<page>
+    <title>UAV</title>
+    <ns>0</ns>
+    <id>1128237</id>
+    <revision>
+      <id>13830548</id>
+      <parentid>13527653</parentid>
+      <timestamp>2014-07-15T07:35:44Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>Un '''vehicle aeri no tripulat''' o '''UAV''', sigles de l'anglès ''Unmanned Aerial Vehicle'', és un tipus d'[[aeronau]], sense persones a bord, dissenyat per complir tasques de caràcter civil o militar controlat per un humà a distància o amb un cert grau d'autonomia. N'hi ha de molts tipus, formes i tenen un gran ventall d'aplicacions, però generalment són usats en tasques repetitives, de transport o de treball en entorns bruts o perillosos on els humans no podrien fer la feina amb seguretat.ref name=Aircraft/ref name=Design/
+
+[[Fitxer:NASA’s Global Hawk 2009-10-23.jpg|thumbnail|Un vehicle aeri no tripulat [[Northrop Grumman]] [[RQ-4 Global Hawk]], de la [[NASA]], volant.|300px]]
+
+Els UAV són la versió aèria dels vehicles terrestres no tripulats o [[UGV]]'s, (Unmanned Ground Vehicle), i dels vehicles marins o submarins no tripulats, [[USV]]'s (Unmanned Surface Vehicle) i [[UUV]]'s (Unmanned Underwater Vehicle), respectivament.
+
+Popularment sovint s'anomena '''drones'''ref name=UAV Systems/ als UAV's, tècnicament no són el mateix ja que el drone és un tipus concret de vehicle aeri no tripulat, autònom o semi-autònom.ref{{TERMCAT |id= drone|nom=Drone |consulta= 19/03/2014}}/ref Acadèmica i militarment el terme ''UAV'' és el predominant, i des de la [[Força Aèria dels Estats Units d'Amèrica]] s'intenta minimitzar el terme ''drone'' com a denominador dels UAV's militars perquè dóna la sensació que són vehicles completament autònoms, quan realment són controlats per humans.ref name=Drones{{ref-web |url=http://www.tv3.cat/videos/4490072/La-guerra-dels-drones |títol=La guerra dels drones |consulta=15/10/2013 |obra= [[Antoni Bassas]] |editor=[[TV3]] |data=05/03/2013 |llengua=català}}/ref
+
+L'any 2011 les despeses globals en UAV's eren de 5.900 M$ l'any, xifra que creix a bon ritme. Segons l'estudi de l'empresa consultora Teal Group s'espera que aquesta xifra es dobli durant aquesta dècada.ref name=Market{{ref-web |url=http://eijournal.com/uncategorized/uav-market-set-for-10-years |títol=UAV Market Set for 10 Years of Growth |consulta=16/10/2013 |obra= |editor=Earthwide Communications, LLC |data=2011 |llengua=anglès}}/ref
+
+== Història ==
+
+Restringint els UAV's a vehicles que volen per [[aerodinàmica]] i alguna mena de control, el primer vehicle aeri no tripulat el va dissenyar l'[[anglès]] Douglas Archibald l'any [[1883]]. Archibald va muntar un [[anemòmetre]] a un [[Estel (màquina)|estel]] per mesurar la velocitat del [[vent]] a alçades de fins a 360 m. L'any [[1887]] va incorporar [[Càmera fotogràfica|càmeres]] als estels, desenvolupant el primer UAV de reconeixement.
+
+[[Fitxer:Kettering-bug-1.jpeg|thumbnail|Un dels primers vehicles aeris no tripulats, el [[Kettering Bug]], l'any 1918.]]
+
+El 1898, a la [[Guerra hispano-estatunidenca|Guerra de Cuba]], el [[periodista]] i fotògraf William Abner Eddy va fer centenars de fotografies de les flotes i tropes amb estels, que hauria estat un dels primers usos militars dels vehicles aeris no tripulats. 
+
+Però no va ser fins a la [[Primera Guerra Mundial]] que els vehicles aeris no tripulats van esdevenir sistemes reconeguts. Charles F. Kettering, inventor i enginyer elèctric estatunidenc, va desenvolupar un [[biplà]] pel Cos de Senyals de l'Exèrcit. Va tardar 3 anys a desenvolupar-lo i va rebre el nom ''Kettering Aerial Torpedo'', més conegut com a ''[[Kettering Bug]]'' o avió ''Bug''. Aquest giny, mitjançant un [[giroscopi]], mantenia el rumb i, gràcies a uns tècnics que calculaven el llançament, l'avió volava fins l'objectiu triat on s'encastava explotant. Aquest primer vehicle aeri no tripulat podia volar vora 120 km, a 80 km/h, i carregar 80 kg d'[[explosiu]]s.ref name=UAV Systems/ Aquest UAV, tot i ser produït en massa, va arribar tard per participar a la [[Gran Guerra]] i només es va provar els mesos següents.
+
+L'any 1917, Elmer Ambrose Sperry, amb la col·laboració de Glenn Curtis, va desenvolupar un UAV per la [[Marina dels Estats Units d'Amèrica|Marina dels EUA]], semblant al Kettering Bug però inferior en la majoria d'aspectes, que es va anomenar ''Sperry-Curtis Aerial Torpedo''. Tot i realitzar alguns vols reeixits, l'invent mai va ser produït a gran escala.
+
+[[Fitxer:Curtiss N2C-2 NAF drone 1938-39.jpg|thumbnail|Un blanc aeri no tripulat Curtiss N2C-2 NAF, de la [[Marina dels EUA]], de l'any 1938-39. A la fotografia s'hi pot veure el [[tren d'aterratge]] de tres rodes, dissenyat per poder aterrar sense pilot.]]
+
+Durant el [[període d'entreguerres]] la influència de les aeronaus en el camp de batalla terrestre i naval va ser objecte de discussió. En aquesta situació els vehicles aeris no tripulats van trobar un altre rol, el de blancs. Per estudiar l'efectivitat de l'armament i entrenar els artillers i pilots es va reconduir i focalitzar l'ús dels UAV's al de servir d'objectius dels soldats. Per exemple, en el cas naval, la [[Royal Air Force|British Royal Air Force]] i la [[Royal Navy]] estudiaven la capacitat d'un avió d'enfonsar un [[vaixell de guerra]]. Alguns creien que no seria possible enfonsar un vaixell armat amb peces antiaèries. L'any [[1933]] el Regne Unit va fer un experiment per esbrinar-ho; per sorpresa de tothom, però, un blanc aeri no tripulat va sobrevolar 40 cops un vaixell de guerra armat amb els canons antiaeris més moderns sense rebre cap dany. Aquesta informació, descoberta paral·lelament al [[Regne Unit]], els [[Estats Units d'Amèrica]] i el [[Japó]], va resultar crucial per formular una doctrina de guerra aèria moderna. També va resultar fonamental aquest coneixement per la producció dels [[portaavions]], que van preveure que serien els vaixells clau dels futurs conflictes. 
+
+Entre [[1918]] i [[1939]] pràcticament totes les potències van intentar desenvolupar algun tipus de vehicle aeri no tripulat, però gairabé totes les iniciatives van estar encaminades a l'ús dels UAV's com a blancs.
+
+Durant la Segona Guerra Mundial els vehicles aeris no tripulats de bombardeig van tornar a aparèixer com a part dels arsenals dels [[Estats Units d'Amèrica|Estats Units]] i de l'[[Alemanya nazi]]. Els primers van desenvolupar l'''assault drone'' o ''TDN-1'', aquest UAV incorporava una càmera de [[televisió]] per a ser guiat, via [[ones de ràdio|ràdio]], amb més precisió des de l'avió tripulat que el controlava. Uns 140 models d'aquest UAV van ser enviats a la [[Guerra del Pacífic]] on van tenir un raonable èxit contra els japonesos. Els EUA també van manipular diferents [[bombarders]] normals per convertir-los en no tripulats i fer-los servir com a bomba tant al front occidental com l'oriental de la guerra.
+
+Per la banda alemanya, es va desenvolupar la famosa [[bomba volant V-1]], un vehicle aeri no tripulat dissenyat per castigar la rereguarda [[Aliats de la Segona Guerra Mundial|aliada]]. A més a més de les bombes V-1, Alemanya va intentar dissenyar vehicles que combinessin la precisió dels avions tripulats amb la seguretat dels UAV's. Per fer-ho es van produir diversos models de vehicle aeri no tripulat que anaven enganxats a un avió convencional, com el [[Junkers Ju 88]] o el [[Messerschmitt Bf 108]], i que, arribat al punt de llançament, es desacoblaven i atacaven sols. Aquests dissenys no van ser gaire reeixits, no per culpa de la tecnologia sinó de la dificultat de les operacions encomanades.ref name=Aircraft/ 
+
+[[Fitxer:QH-50 DD-692 1967.jpg|thumbnail|Fotografia de l'any [[1967]] d'un dels primers UAV's de rotor, el QH-50 DASH, a bord del [[destructor]] USS Allen M. Sumner (DD-692).]]
+
+Després de la guerra, les aplicacions dels UAV's es van diversificar. La millora de les càmeres fotogràfiques i dels sistemes de navegació, que durant la Segona Guerra Mundial no podien competir contra un pilot experimentat, va permetre l'aparició dels vehicles aeris no tripulats de reconeixement. Un dels primers UAV's de postguerra amb aquest rol fou l'anomenat ''Radioplane Q-1'', que equipat amb un [[turboreactor]] podia operar durant 60 minuts. Una altra aplicació pels vehicles aeris no tripulats va ser la d'esquer de radar. Durant la [[Guerra del Vietnam]] una de les principals amenaces per l'aviació estatunidenca eren els [[míssils terra-aire]] que eren dirigits mitjançant [[radar]]s. Una solució al perill que representaven fou la creació d'uns esquers que imitaven el senyal dels avions i feien gastar els míssils inútilment. Un exemple d'aquest tipus d'UAV és el McDonnell ADM-20 Quail. A principis de la dècada dels 60, amb la popularització dels [[helicòpter]]s també van aparèixer els vehicles aeris no tripulats de rotor. Un exemple d'aquest tipus d'UAV és el QH-50 DASH, un vehicle aeri no tripulat antisubmarí que es va usar entre els anys 60/70 i del qual se'n van produir 700 unitats.
+
+Gradualment, aquesta diversificació dels UAV's es va anar ampliant fins a la gran varietat de vehicles aeris no tripulats actuals. En els darrers anys també s'ha de destacar l'aparició de vehicles aeris no tripulats per aplicacions civils.
+
+== Classificació ==
+
+Generalment els UAV's són categoritzats segons la capacitat de càrrega o la mida de l'aeronau. Tot i així, es poden classificar de moltes maneres i les definicions canvien constantment a mesura que la tecnologia avança. Una de les divisions més generalitzada, de llarga autonomia a poca, és la següent:ref name=Design/
+
+{| class=wikitable
+! Designació !! Característiques
+|-
+|HALE
+| Sigles de l'anglès ''High altitude long endurance'', gran alçada i llarga autonomia, poden volar a més de 15.000 m d'alçada durant més de 24 hores. Solen ser UAV's militars operats des de bases terrestres molt llunyanes.
+|-
+|MALE
+|Sigles de l'anglès ''Medium altitude long endurance'', alçada mitjana i llarga autonomia, volen entre els 5.000 i els 15.000 metres d'alçada amb una autonomia de, més o menys, 24 hores.
+|-
+|TUAV
+|Sigles de l'anglès ''Medium Range or Tactical UAV'', es categoritzen segons el seu abast màxim, que oscil·la entre els 100 i 300 km. Aquests vehicles aeris no tripulats ja són més petits i solen funcionar amb sistemes més senzills.
+|-
+|Close-Range UAV
+|Són vehicles aeris no tripulats petits i fàcils de transportar. Tenen un abast inferior o igual als 100 km i, probablement, són dels més usats en qualsevol tipus d'aplicació.
+|-
+|MUAV o Mini UAV
+|Són UAV's classificats a partir d'una certa massa, encara no definida, però segurament inferior als 20 kg. Capaços de ser llançats per una persona i operats a distàncies menors als 30 km, també són vehicles aeris no tripulats molt usats tant per aplicacions civils com militars.
+|-
+|MAV o Micro UAV
+|Els MAV's es van definir, originalment, com a UAV's amb una [[envergadura]] inferior als 150 mm. Són vehicles aeris no tripulats pensats per operar a entorns urbans, particularment a prop d'edificis, i han de volar lentament. Generalment són llançats per una persona.
+|-
+|NAV o Nano Air Vehicles
+|Són vehicles aeris no tripulats teòrics i que haurien de fer-se servir en conjunt valent-se de la [[intel·ligència d'eixam]].
+|}
+
+== Elements d'un UAV ==
+
+Els UAVs se solen dividir en 6 grans elements:ref name=Aircraft/
+# Sistema de control i comandament
+# [[Aeronau]]
+# Comunicacions
+# [[Càrrega útil]]
+# Sistemes de llançament i recuperació
+# Factor humà
+
+Tot i així, com que els UAVs són aparells molt complexos, es poden dividir en més parts.ref name=Design/
+
+[[Fitxer:39 Squadron Reaper Pilot at Creech Air Force Base MOD 45150446.jpg|300px|thumbnail|dreta|Estació de control terrestre d'un [[Reaper MQ-9]] amb un operador de la [[Royal Air Force|RAF]] dirigint-lo.]]
+
+=== Sistema de control i comandament ===
+
+Un dels sistemes de control més bàsics i comuns de qualsevol vehicle aeri no tripulat és el [[pilot automàtic]], que permet a l'UAV volar sense haver d'estar en tot moment controlat per un operador. A més a més, alguns dels UAVs més moderns disposen d'algun sistema de processament a bord que permeten complir parts de la missió automàticament. Tot i cada vegada disposen de més autonomia generalment, per les maniobres més complexes com aterrar, enlairar-se o complir la missió, es continua necessitant un operador humà.ref name=Aircraft/
+
+Per a la interacció entre el vehicle aeri no tripulat i l'operador que dirigeix la missió, normalment es fa servir una ''estació de control'' a terra o a bord de l'aeronau. L'estació de control és l'element que controla el vehicle aeri no tripulat i serveix d'interfície home-màquina. En anglès l'estació de control s'anomena ''Control Station'' (CS) i a les estacions de control terrestres o d'abord se les anomena ''Ground Control Station'' (GCS) o ''Ship Control Station'' (SCS), respectivament.ref name=Design/
+
+Mitjançant l'estació de control, els operadors envien les ordres a l'aeronau amb el sistema de comunicacions i dirigeixen la missió. Al mateix temps, l'aeronau envia informació ([[vídeo]], [[fotografies]], geolocalització...) a l'estació de control per ajudar als operadors a entendre la situació de l'UAV. Generalment l'estació de control té dues consoles, una pel pilot i l'altre per l'operador de la [[càrrega útil]].ref name=MA{{ref-web|url=http://www.militaryaerospace.com/articles/2010/06/ground-control-stations.html |títol=Ground control stations for unmanned aerial vehicles (UAVs) are becoming networking-hub cockpits on the ground for U.S. unmanned forces |consulta=05/11/2013 |obra= John McHale|editor= PennWell Corporation |data=18/06/2010 |llengua=anglès}}/ref L'estació de control, sovint, també es comunica amb altres sistemes externs per rebre informació addicional o per informar de les dades obtingudes pel vehicle aeri no tripulat.
+
+=== L'aeronau ===
+
+[[Fitxer:Quadrocopter Multicopter DJI-S800 on-air credit Alexander Glinz.jpg|300px|thumbnail|dreta|Els UAV civils solen ser d'enlairament i aterratge vertical ([[VTOL]]) perquè maniobren fàcilment. En concret, els multirotors, porten una càmera com a càrrega útil i es fan servir molt per gravar paisatges, esdeveniments esportius o culturals...]]
+
+L'aeronau és el vehicle que conté tots els aparells de l'UAV. Hi ha molts tipus d'aeronau i sovint s'engloben en dos grans categories:ref name=Aircraft/
+
+* Aeronaus d'ala fixa
+* Aeronaus d'enlairament vertical
+
+El tipus i mida del vehicle aeri està determinat pel tipus de missió que ha de complir l'UAV. La principal tasca de l'aeronau és la de transportar la càrrega útil fins al punt d'aplicació, a més a més dels sistemes necessaris per funcionar: comunicacions, control d'estabilització, generadors d'electricitat...ref name=Design/
+
+=== Comunicacions ===
+
+Les comunicacions, o ''data link'', són el conjunt de sistemes que transmeten i reben la informació necessària pel funcionament de l'UAV. En aquest apartat s'ha de tenir en compte el mitjà per on es transmetran les dades, el tipus d'antena que s'usarà a l'UAV o a l'estació de control...
+
+En qüestió de les dades que s'envien, s'han de tenir en compte dos aspectes: l'[[ample de banda]] (bandwidth) i el rati de transmissió de dades (data rate). L'ample de banda és la freqüència a la que s'envien les dades, que pot ser més alta o més baixa, i que pot estar regulada per llei. El rati de transmissió de dades és la quantitat de dades transferides per segon pel canal de comunicacions i es mesura en [[byte]]s per segon.ref name=Design/
+
+[[Fitxer:KZO start kundus.gif|300px|thumbnail|dreta|Animació del llançament d'un UAV Rheinmetall KZO des d'un [[camió]] a [[Kunduz]], mitjançant un sistema de propulsió per [[coet]].]]
+
+=== Càrrega útil ===
+
+La [[càrrega útil]] són els aparells que es volen transportar i que serveixen per complir les missions. La càrrega útil, en anglès ''Payload'', varia segons les necessitats de la missió i pot anar des d'una càmera fixa d'uns 200g fins a un sistema de [[radar]] de més de 1000 kg. La majoria dels UAV's combina diferents sensors per obtenir dades més completes.ref name=Design/
+
+=== Sistemes de llançament i recuperació ===
+
+Els sistemes de llançament i recuperació dels UAVs poden arribar a ser parts molt complicades. La importància d'enlairar-se i aterrar correctament és fonamental ja que són maniobres complexes i que podrien malmetre tot el vehicle aeri no tripulat. 
+
+Generalment els mètodes de llançament de l'aeronau es poden classificar en tres tipus, cadascun amb la seva pròpia manera de recuperar-lo:
+# Enlairament i aterratge horitzontal o HTOL (de l'anglès ''Horizontal Take-Off and Landing'') o [[CTOL]]. Amb un [[tren d'aterratge]] aquest tipus d'UAV fa servir una [[pista d'aterratge|superfície preparada]] per les maniobres d'enlairament i aterratge.
+# Catapulta o llançament propulsat per coet. Quan l'UAV no disposa de capacitat de vol vertical o quan no hi ha un terreny habilitat per volar es poden fer servir sistemes que impulsen el vehicle aeri no tripulat durant els primers moments del vol. Es poden fer servir molts tipus de llançadores, des d'una persona que l'impulsa a mà fins a catapultes ([[CATO]]) carregades amb un [[camió]] o coets ([[JATO/RATO]]).
+# Enlairament i aterratge vertical o [[VTOL]] (de l'anglès ''Vertical Take-Off and Landing''). Són aeronaus que no necessiten cap tipus de [[pista d'aterratge]] perquè el seu disseny permet un enlairament i aterratge vertical.ref name=Design/
+
+Tot i així, n'hi ha de menys generalitzats que també s'usen com l'STOL, [[CATOBAR]]...
+
+=== Factor humà ===
+
+Un element molt important dels vehicles aeris no tripulats és el factor humà. En la gran majoria d'UAVs es necessita una persona o més per dirigir la missió.
+
+En un futur es preveu que l'element humà serà cada vegada menys important i que, de mica en mica, els UAVs necessitaran menys interacció amb les persones per poder funcionar.ref name=Aircraft/
+
+== Referències ==
+
+{{Referències|2|refs=
+ref name=UAV Systems{{ref-llibre
+ | cognom = Gerin Fahlstrom, James Gleason
+ | nom = Paul, Thomas
+ | títol = Introduction to UAV systems - 4th ed.
+ | editorial = Wiley
+ | any = 2012
+ | isbn = 978-1-119-97866-4
+ | citació = }}/ref
+ref name=Design{{ref-llibre
+ | cognom = Austin
+ | nom = Reg
+ | títol = Unmanned aircraft systems: UAVS design, development and deployment
+ | editorial = Wiley
+ | any = 2010
+ | isbn = 978-0-470-05819-0
+ | citació = }}/ref
+ref name=Aircraft{{ref-llibre
+ | cognom = 
+ | nom = Diversos autors
+ | títol = Introduction to Unmanned Aircraft Systems
+ | editorial = CRC Press / Taylor  Francis Group
+ | any = 2012
+ | isbn = 978-1-4398-3521-0
+ | citació = }}/ref
+}}
+
+== Vegeu també ==
+* [[Robot]]
+* [[Enginyeria aeronàutica]]
+* [[Enginyeria automàtica]]
+
+== Enllaços externs ==
+{{Commonscat|Unmanned aerial vehicles}}
+* [http://bitsquevolen.eetac.upc.edu/?p=1549 Unmaned Aerial Vehicle: Què són i per a què serveixen] {{ca}}
+* [http://www20.gencat.cat/portal/site/territori/menuitem.bd76c203a0da08645f13ae92b0c0e1a0/?vgnextoid=5c1bc3be04fbb210VgnVCM1000008d0c1e0aRCRDvgnextchannel=5c1bc3be04fbb210VgnVCM1000008d0c1e0aRCRDvgnextfmt=detall2contentid=3a948d13e46ed210VgnVCM1000008d0c1e0aRCRDnewLang=ca_ES Primeres proves amb un sistema aeri no tripulat per detectar persones perdudes a la muntanya ] {{ca}}
+* [http://www.youtube.com/watch?v=IF-dNxtroNU Vídeo a Youtube: The Stream : The future of drone technology] {{en}}
+* [http://diydrones.com/ Comunitat amateur de muntatge d'UAV.] {{en}}
+{{Autoritat}}
+[[Categoria:Robòtica]]
+[[Categoria:Telecomandament]]
+[[Categoria:Aeronaus]]</text>
+      <sha1>qnscda4p9vizbmgci9qelpclpum5jhz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

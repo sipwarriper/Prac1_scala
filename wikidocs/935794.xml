@@ -1,0 +1,150 @@
+<page>
+    <title>Spline</title>
+    <ns>0</ns>
+    <id>935794</id>
+    <revision>
+      <id>13607690</id>
+      <parentid>13471424</parentid>
+      <timestamp>2014-06-17T22:01:05Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: i despres en  i després en</comment>
+      <text>[[Fitxer:Quadratic spline six segments.svg|thumb|Un spline quadràtic compost per sis segments polinòmics. Entre el punt 0 i el punt 1 una recta. Entre apuntar amb 1 i el punt 2 una paràbola amb segona derivada = 4. Entre el punt 2 i el punt 3 una paràbola amb segona derivada = -2. Entre el punt 3 i el punt 4 una recta. Entre punt 4 i el punt 5 una paràbola amb segona derivada = 6. Entre el punt 5 i el punt 6 una recta.]]
+
+[[Fitxer:Qspline.svg|thumb|Un spline cúbic compost per set segments polinòmics.]]
+
+[[Fitxer:Qspline_dd.svg|thumb|La derivada segona del spline cúbic de dalt.]]
+
+En [[matemàtiques]], un '''spline''' és una [[Funció matemàtica|funció]] polinòmica [[funció definida a trossos|definida a trossos]] que interpola una sèrie de punts de forma que cada tros és un polinomi de grau ''n'' i a cada punt les derivades dels dos trossos que hi connecten tenen iguals les seves derivades fins a l'ordre ''n-1''. En problemes d'[[interpolació]], la [[interpolació per splines]] es preferix sovint a la [[interpolació polinòmica]] perquè produeix resultats similars, fins i tot quan es fan servir polinomis de grau baix, mentre que evita el [[fenomen de Runge]] que apareix quan s'empren polnomis de graus alts
+
+En [[infografia]] els splines són corbes emprades amb freqüència a causa de la simplicitat de la seva construcció, la facilitat i precisió en que es poden avaluar les funcions que els defineixen, i la seva capacitat d'aproximar formes complexes amb les tècniques d'[[ajust de corbes]] i de disseny interactiu de corbes.
+
+El terme spline ve dels [[regle flexible|regles flexibles]] emprats pels [[Construcció naval|constructors de vaixells]] i els [[dissenyador industrial|dissenyadors industrials]] per dibuixar corbes.
+
+Els splines que es fan servir més són els '''splines cúbics''', és a dir d'ordre 3 en particular els [[B-spline]]s 3 i els [[splines de Bézier]] cúbics. Són comuns, en particular, en [[interpolació per splines]] que simula la funció del [[regle flexible]].
+
+== Definició ==
+Un spline és una [[Funció matemàtica|funció]] [[nombre real|real]] [[polinomi|polinòmica]] [[funció definida a trossos|definida a trossos]]
+
+:mathS: [a,b]\to \mathbb{R}/math
+
+en un interval [''a'',''b'' ] compost de ''k'' subintervals [[conjunts disjunts|disjunts]] ordenats math[t_{i-1}, t_i] /math amb
+
+:matha = t_0  t_1  \cdots  t_{k-1}  t_k = b/math.
+
+La restricció de ''S'' a un interval ''i'' és un polinomi br
+:mathP_i: [t_{i-1}, t_i] \to \mathbb{R}/math,
+
+de manera que br
+:mathS(t) = P_1 (t) \mbox{, } t_0 \le t  t_1,/math
+:mathS(t) = P_2 (t) \mbox{, } t_1 \le t  t_2,/math
+:::math\vdots/math
+:mathS(t) = P_k (t) \mbox{, } t_{k-1} \le t \le t_k./math
+
+L'ordre més alt dels polinomis math P_i (t)/math es diu que és l{{'}}'''ordre del spline''' ''S''. Si tots els subintervals són de la mateixa llargada, el spline s'anomena '''uniforme''' i '''no-uniforme''' altrament.
+
+La idea és escollir els polinomis d'una manera que garanteix suavitat suficient de ''S''. Específicament, per un spline d'ordre n, a ''S'' sel li imposa que sigui contínuament diferenciable fins a l'ordre n-1 en els punts interiors matht_i/math: per a tot mathi=1, \dots, k-1 /math i tot mathj \quad 0 \le j \le n-1/math,
+:mathP_i^{(j)} (t_i) = P_{i+1}^{(j)} (t_i)/math.
+
+== Obtenció d'un Spline Cúbic que interpola entre punts ==
+
+Aquest és un dels usos més importants dels splines. L'algoritme per fer-ho es donarà a l'article [[Interpolació per splines]]
+
+== Exemples ==
+
+[[File:Irwin Hall spline.svg|thumb|L'spline d'Irwin-Hall en forma acampanada]]
+
+[[File:Irwin Hall spline dd.svg|thumb|La derivada segona del spline de dalt]]
+
+Un exemple simple d'un spline quadràtic (un spline del grau 2) és
+
+:math
+S(t) = \begin{cases}
+(t+1)^2-1  -2 \le t  0\\
+1-(t-1)^2  0 \le t \le 2
+\end{cases}
+/math
+
+per al qual mathS'(0)=2/math.
+
+Un exemple simple d'un spline cúbic és
+
+:mathS(t) = \left|t\right|^3 /math
+
+on
+
+:math
+S(t) = \begin{cases}
+t^3  t \ge 0\\
+-t^3  t  0
+\end{cases}
+/math
+
+i
+
+:mathS(0)' =\ 0/math
+
+Un exemple d'utilitzar un s plinecúbic spline per crear una corba amb forma de campana són els polinomis d'Irwin-Hall:
+
+:math
+f_X(x)= \begin{cases}
+\frac{1}{4}(x+2)^3  -2\le x \le -1\\
+\frac{1}{4}\left(3|x|^3 - 6x^2 +4 \right) -1\le x \le 1\\
+\frac{1}{4}(2-x)^3  1\le x \le 2
+\end{cases}
+/math
+
+== Història ==
+Abans que s'utilitzessin ordinadors, els càlculs numèrics es feien a mà. S'utilitzaven funcions com la [[funció esglaonada|funció escalonada]] però es preferien generalment polinomis. Amb l'adveniment d'ordinadors, els splines primer varen reemplaçar als polinomis en la interpolació, i després en la construcció de formes llises i flexibles en gràfics informàtics.refEpperson, History of Splines, ''Na Digest'', volums 98, núm. 26, 1998. /ref
+
+S'accepta comunament que la primera referència matemàtica als splines és l'article 1946 de Schoenberg,refSchoenberg, Contributions to the problem of approximation of equidistant data by analytic functions, ''Quart. Appl. Math''., volums 4, pàg. 45-99 i 112-141, 1946./ref que és probablement el primer lloc on la paraula spline és utilitzada en la connexió amb, aproximació polinòmica a bocins contínuament derivable. Tanmateix, aquestes idees tenen les seves arrels a la indústria de construcció naval i aeronàutica. En el prefaci a (Bartels et al., 1987),refBartels, Beatty, and Barsky, ''An Introduction to Splines for Use in Computer Graphics and Geometric Modeling'', 1987./ref [[Robin Forrest]] descriu el [[lofting]], una tècnica utilitzada a la indústria aeronàutica britànica durant la [[Segona Guerra Mundial]] per construir plantilles per a avions fent passar bandes de fusta primes (anomenades [[regle flexible|splines]]) a través dels punts fixats al terra d'unes grans sales de disseny, una tècnica presa en préstec del disseny de vaixells. Durant anys la pràctica de disseny de vaixells havia fet servir models per fer el disseny a petita escala. Llavors el disseny final es dibuixava en paper de gràfics i els punts clau de la trama es redibuixaven en paper de gràfic més gran a escala real. Les regles flexibles proporcionaven una interpolació dels punts clau a corbes llises. Les regles flexibles es mantenien a lloc en punts discrets i entre aquests punts implicava aplicar formes de mínima energia de deformació. Segons Forrest, una possible motivació per obtenir un model matemàtic per a aquest procés era la pèrdua potencial dels components de disseny crítics per a una aeronau sencera si la sala de disseny fos colpida per una bomba enemiga. Això va donar lloc al conic lofting, que utilitzava seccions còniques per imitar la posició de la corba entre els punts. El conic lofting es va canviar pel que anomenem splines als primers anys de la dècada del 1960 basats en el treball de J. C. [[Ferguson]]refFerguson, James C, ''Multi-variable curve interpolation'', J. ACM, volums 11, núm. 2, pàg. 221-228, abr. de 1964./ref a [[Boeing]] i (una mica més tard) per [[M. A. Sabin]] a la [[British Aircraft Corporation]].
+
+L'ús de splines per al disseny de xassís d'automòbils sembla que te uns quants començaments independents. [[Citroën]] reclama l'honor a favor de [[Paul de Casteljau]], [[Renault]] el reclama per [[Pierre Bézier]], i [[General Motors]] per [[Birkhoff]],refBirkhoff, Fluid dynamics, reactor computations, and surface representation, a: Steve Nash (ed.), ''A History of Scientific Computation'', 1990./ref [[Garabedian]], i [[Carl R. de Boor]] a (vegeu Birkhoff i de Boor, 1965),refBirkhoff i de Boor, Piecewise polynomial interpolation and approximation, en: H. L. Garabedian (ed.), ''Proc. Simposi de General Motors de 1964'', pàg. 164-190. Elsevier, Nova York i Amsterdam, 1965/ref tots pels treballs fets al començament de la dècada del 1960 o finals de la del 1950. Pel capbaix un dels articles de de Casteljau es va publicar, però no es va difondre àmpliament, el 1959. El treball de De Boor a [[General Motors]] va resultar en un cert nombre d'articles que es varen publicar durant els primers anys de la dècada del 1960, incloent-hi part del treball fonamental en [[B-splines]].refDavis, B-splines and Geometric design, ''SIAM News'', vol. 29, no. 5, 1997./ref
+
+També s'hi estava treballant a Pratt  Whitney Aircraft, on treballaven dos dels autors de (Ahlberg et al., 1967)refAhlberg, Nilson, and Walsh, ''The Theory of Splines and Their Applications'', 1967./ref- el primer tractat dels splines de l'extensió d'un llibre -, i la [[David Taylor Model Basin]] de Feodor Theilheimer. El treball a [[General Motors]] es detalla de manera esplèndida a (Birkhoff, 1990) i (Young, 1997).refYoung, Garrett Birkhoff and applied mathematics, ''Notices of the AMS'', vol. 44, no. 11, pp. 1446–1449, 1997./ref Davis (1997) resumeix part d'aquest material.
+
+== Referències ==
+{{Referències}}
+
+== Lectures d'ampliació ==
+* {{ref-llibre|cognom = Stoer |cognom2 = Bulirsch|títol = Introduction to Numerical Analysis|editorial = Springer Science+Business Media|pàgines = 93–106|isbn = 0387904204}}
+* {{Ref-llibre|cognom = Chapra|nom = Canale|títol = Numerical Methods for Engineers|edició =5a ed.}}
+
+== Enllaços externs ==
+{{commons category|Splines}}
+
+=== Teoria ===
+* [http://math.fullerton.edu/mathews/n2003/CubicSplinesMod.html Cúbic Splines Mòdul] prof. [[Universitat Estatal De Califòrnia]] John H. Mathews, FULLERTON
+* [http://www.cs.clemson.edu/~dhouse/courses/405/notes/splines.pdf Spline Corbes], el prof. henri de Donald Casa [[Clemson University]]
+* [http://ibiblio.org/e-notes/Splines/Intro.htm An Interactive Introduction to Splines], ibiblio.org
+* [http://codeplea.com/introduction-to-splines Introduction to Splines], codeplea.com
+
+=== Funcions en Excel ===
+* [http://newtonexcelbach.wordpress.com/2009/07/02/cubic-splines/ Codi obert en Excel. Funció definida per l'usuari de spline cubic]
+* [http://www.srs1software.com/download.htm#spline Srs1 Cúbic Spline per Excel·lir] - Funció lliure en Excel de la funció spline cúbic (amb utilitat per incrustar el codi de la funció spline a qualsevol treball)
+
+=== Eines en línia ===
+* [http://www.akiti.ca/CubicSpline.html Utilitat d'interpolació d'splines cúbics en línia]
+* [http://www.vias.org/simulations/simusoft_spline.html Learning by Simulations] Simulació interactiva de diversos cúbics. 
+* [http://demonstrations.wolfram.com/SymmetricalSplineCurves/ Simètric Spline Corbes], una animació de [[Theodore Gray]], a [[The Wolfram Demonstrations Project]] DE WOLFRAMI, 2007.
+
+=== Codi informàtic ===
+* [http://numericalmethods.eng.usf.edu/topics/spline_method.html Notes, PPT, Mathcad, Maple, Mathematica, Matlab], ''Holistic Numerical Methods Institute''
+* [http://w3.pppl.gov/ntcc/PSPLINE/ various routines], NTCC
+* [http://www.sintef.no/sisl Sisl: Opensource C-library for NURBS], SINTEF
+* [http://www.codeproject.com/KB/graphics/ClosedBezierSpline.aspx Closed Bezier Spline, C#, WPF], Oleg V. Polikarpotchkin
+* [http://www.codeproject.com/KB/graphics/BezierSpline.aspx Bezier Spline from 2D Points, C#, WPF], Oleg V. Polikarpotchkin
+
+[[Categoria:Corbes]]
+[[Categoria:Infografia]]
+[[Categoria:Algorismes]]
+[[Categoria:Anàlisi numèrica]]
+[[Categoria:Processament de senyals digitals]]</text>
+      <sha1>2hyfb0jzljc6k5fca2gnojs41dqr58i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

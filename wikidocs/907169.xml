@@ -1,0 +1,121 @@
+<page>
+    <title>Micromotor</title>
+    <ns>0</ns>
+    <id>907169</id>
+    <revision>
+      <id>13927323</id>
+      <parentid>13282715</parentid>
+      <timestamp>2014-08-09T10:24:15Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: referencies</comment>
+      <text>{{Infotaula motor aeronau
+|nom = Micromotor
+|fabricant = Varis
+|imatge = Miniature two-stroke diesel engine 1960.JPG
+|peu = Vista d'un micromotor dièsel de 2 temps
+|dissenyador = Varis
+|any = 
+|tipus = Pistó alternatiu
+|aplicacions = Maquetes d'avions
+|unitats = 
+|cost = 
+|variants  = 
+}}{{Infotaula motor de pistons
+| cicle = Dièsel 2 temps
+| combustible= diverses mescles
+| cilindres= 1 ( Normalment )
+| disposició= 
+| diàmetre= 
+| cursa= 
+| cilindrada= 1 – 10 [[cm³]] o més
+| compressió= 
+| alimentació= Carburador
+| refrigeració= Per aire
+| lubricació= Mescla carburant – [[oli de ricí]]
+| reducció= No
+| potència= d'1/4 CV cap amunt
+| potència-rpm= entre 8.000 – 40.000
+| parell= 
+| parell-rpm=
+| pes en sec= 
+}}
+Un '''Micromotor''' serveix per enlairar avions d'[[aeromodelisme]], que no són avions de joguet, ja que molts reprodueixen a [[Escala (proporció)|escala]] petita les situacions de vol d'un avió de veritat.
+
+== Història ==
+Per fer volar avions d'escales o maquetes d'aviació, en principi es feien servir bandes elàstiques, que una vegada retorçades, al retornar al seu estat de repòs feien girar l'hèlix que proporcionava l'impuls per ajudar a emprendre el vol al model.
+Amb l'arribada del [[motor de combustió interna]], i més amb el perfeccionament del [[Motor Diesel|cicle dièsel]], van començar a sorgir motors tèrmics adequats per aquest vol. Avui en dia, quasi tots els motors d'aeromodelisme, de pistó, fan servir aquest cicle.
+Això no vol dir que es facin servir altres motors tèrmics, o d'altres classes, per aquest menester, per models de velocitat, es fan servir [[Motor de reacció|motors de reacció]], sobretot [[pulsoreactor|pulsoreactors]] i coets.ref{{MotorAZ|1307-1322}}/ref
+
+== Tipus ==
+Normalment s'utilitzen els motors de cicle dièsel dos temps, i no més d'aquests ja n'hi ha de dos tipus:
+* '''Dièsel pur''', normalment de petita cilindrada, fins a 2 cm³, que utilitzen un combustible a base d'1/3 de petroli, 1/3 oli de ricí, 1/3 [[Èter|d'èter]], s'hi pot afegir, en poca quantitat, [[Poppers|nitrit d'amil]]. És el motor de vol circular. Aquest combustible, degut a la volatilitat de l'èter, no dura gens, i s'ha de gastar el mateix dia o el següent com a més tard.
+[[Fitxer:Teedee051RC.jpg|thumb|Exemple de motor glow amb silenciador]]
+* '''Glow''', és un dièsel que porta una [[bugia d'encesa|bugia]] d'incandescència, que necessita ser alimentada amb una bateria en engegar el motor. És el model més utilitzat, sobretot en models radio controlats. Quant al combustible és una mescla similar a l'anterior, en curses de velocitat, està establerta la mescla de 20 % ricí i 80 % de [[metanol]], dura uns quinze dies.
+
+També s'han de tenir en compte els següents tipus :
+* '''”Vintage”''', els primers motors fets per aquesta activitat. Funcionant en el cicle Otto dos temps, amb encès per bugia i ruptor. A partir de  [[1913]], van anar reduint la cilindrada, i el verdader esclat es va produir en [[1930]] al ser produïts en petites sèries, als [[Estats Units]], amb marques com Atwood i els seus Cyclone i  Wasp, els Ohlsson, Anderson, Bunch, després de la [[Segona Guerra Mundial]] aparegueren marques com  Fox, McCoy, Cox, K-B.ref{{MotorAZ|1308}}/ref
+* '''CO2''', són petits [[Motor pneumàtic|motors pneumàtics]], moguts per petits cartutxos d'[[Diòxid de carboni|anhídrid carbònic]] o altres cartutxos similars.
+* '''Ducted Fan''', és un motor glow, que mou una hèlix multi-pala, tot ell encabit dins d'un tub que conté també el dipòsit de combustible, és molt utilitzat per maquetes de reactors.
+* '''Wankel''' i d'altres de pistó especials, el [[motor wankel]], també és utilitzat per aeromodelisme, més concretament el comercialitza la casa japonesa OS sota la marca ''Graupner''.ref[http://www.graupner.de/en/service/search.aspx?usterms=wankel Motor wankel OS Grapner {{en}}] Visitada el 28/07/2011/ref Per altra banda hi ha diversos i curiosos dissenys de motors de pistó comercialitzats de més d'un cilindre i amb cicle de 4 temps, en destaquem dos model americans, un concretament el Aero 35 R/C,ref[http://www.rojobcn.com/technic/avion/aero35rc.htm Característiques del Aero 35 R/C]Visitada el 29/07/2011/ref  i l'altre de  de la casa RCV engines Ltd., aquest últim de 4 temps i amb la particularitat de que la camisa del pistó és l'eix del hèlix.ref[http://www.rcvengines.com/rcv120sp.htm Característiques del RCV120-SP {{en}}] Visitada el 28/07/2011/ref
+* '''Motors a escala''', són verdaderes obres d'art, ja que reprodueixen, a escala reduïda motors aeronàutics reals, i funcionen, normalment estan efectuats per verdaders apassionats de la mecànica, i base de moltes hores de treball d'artesania.
+* '''[[Pulsoreactor|Pulsoreactors]]''', és el reactor més utilitzat en aeromodelisme, per ser el més senzill. Fan molt soroll, però s'aconsegueixen fàcilment els 200 Km/h.ref[http://www.dynafog.com/other/dynajet/index.htm Dyna-jet Red-Head de Dyna-fog {{en}}] Visitada el 28/07/2011/ref
+* '''[[Turboreactor|Turboreactors]]''', són turboreactors en miniatura però més senzills, tenen el compressor, i la turbina, normalment d'una etapa, i alguns funcionen amb [[propà]], i la seva arrancada sol ser per aire comprimit. Són comercialitzats per diverses cases com JPX, ATM, Turbomix, Sophie precisión, GWM. Cal destacar les cases espanyoles '''Artés''' de Barcelonaref[http://nestorch.freeservers.com/kj66.html Artés KJ-66] Visitada el 28/07/2011/ref i '''Aerodisa''' de Madrid.ref[http://www.aerodisa.com/motores.html Petits motors Aerodisa] Visitada el 28/07/2011/ref
+[[Fitxer:Jetex closer.jpg|thumb|Aspecte d'un motor “Jetex”]]
+* '''[[Motor de coet|Coets Jetex]]''',ref[http://jetex.org/cja/motors.html Pàgina oficial de la marca Jetex {{en}}] visitada el 29/07/2011/ref són motors coet, que consistien en una càpsula tancada per una tapa subjectada per una mena de clip, el seu combustible són unes pastilles de combustible sòlid de combustió dolça (suau). S'utilitzen, sobretot, per enlairar models de planadors, també es fan servir per una modalitat anomenada ''”Rocketry”'', que consisteix a enlairar coets (en anglès ''Rocket'')ref[http://www.rocketrytoday.com Pàgina de Rocketry avui {{en}}] Visitada el 29/07/2011/ref
+[[Fitxer:Brushless-Motor-DUM60.jpg|thumb|Motor elèctric “Brushless”, muntat en un “Tablas” (en argot d'aeromodelisme, el que té el fuselatge fet d'un tauló)]]
+* '''[[Motor elèctric|Elèctric]]''', com el seu nom indica, són micromotors especialment dissenyats per aquest fet, normalment són molt lleugers, i s'utilitzen per enlairar [[Planador|planadors]], i avui en dia per aparells de [[Comandament a distància|ràdio control]].ref[http://www.aeromodelnet.com.ar/electrico.html Motors elèctrics d'aeromodelisme] Visitat el 29/07/2011/ref Hi ha dos grans tipus de motor elèctric per aquest menester: els d'escombretes i els sense, o ''Brushless''.
+
+== Descripció del motor  dièsel ==
+[[Fitxer:Model Aircraft Engines.JPG|center|thumb|500px|Col·lecció de micromotors, a dalt en la cantonada dreta, hi ha un motor wankel]]
+Són motors de construcció molt senzilla, i molt ben ajustats, ja que normalment no porten anells de compressió (anells que asseguren l'estanquitat del pistó), normalment fan l'admissió per el [[cigonyal]], a través d'una vàlvula rotativa. Al [[càrter]], entre l'hèlix i el cilindre, hi ha el senzill [[carburador]], que consisteix en un [[Efecte Venturi|tub de venturi]] travessat per el injector de combustible, regulat per una agulla. En els motors glow, just després, hi ha una vàlvula de control de gasos a modes de papallona d'accelerador, ja que aquests, sí que poden regular la velocitat de gir.
+
+Els dièsel purs no poden regular la velocitat, i una vegada aconseguit arrancar, es regula l'agulla del carburador i el contra pistó superior per aconseguir la marxa “rodona”. En els glow també es regula l'agulla, es desendolla la bateria de la bugia, i a volar fins que s'acabi el combustible del dipòsit, cosa que sol succeir al cap d'uns 5 minuts.
+
+Una altra diferencia entre els dos tipus de motor és l'escapament, ja que mentre que els purs sol ser lliure, en els glow sol portar silenciós. No obstant això, en curses de velocitat, se sol aplicar un [[Tub d'escapament|“tubarro”]] (nom en argot motociclista d'un tipus de tub d'escapament) ressonador, construït en seccions còniques i cilíndriques, de determinades dimensions, que aconsegueixen augmentar considerablement el règim de gir.ref{{MotorAZ|1309}}/ref
+
+== Micromotors espanyols ==
+* Aerodisa – Models AED 310, AED 312, AED 410 i AED 414
+* Artés Jet microturbines – Model KJ-66
+* Fernando Batlló – Models Byra 1c.c, Byra 1,5c.c, Byra 2,5c.c F, Byra 2,5c.c MkI,Byra 2,5c.c MkII,Byra 2,5c.c MkIII, Byra 4,5c.c
+* Jesús Artés Model Gepardo 2.5 G
+* Josep Pros – Models LLAMA-1 D Serie1, LLAMA-2 D Serie1,   LLAMA-2 D Serie2,  LLAMA-4 G Serie1,  LLAMAD-5,  LLAM SG-3 ESPECIAL Serie 2,  LLAM SG-3 R/C Serie 1,  LLAM SG-3 V/C Serie 1.
+* PARES HERMANOS 2.5 F
+* Alberto Parra Models PARRA 2.5 ACC COMBAT,  PARRA 2.5 ACC D R/C,  PARRA 2.5 ACC R/C N,  PARRA 2.5 D,  PARRA 2.5 D Gold Edition,  PARRA 2.5 G
+* PAYA fábrica de juguetes – Motor PAYA 2c.c D Aereo
+* Protomec - PROTOZOM 3.5 G R/C
+* Valls Models Valls 0.5 c.c. D, Valls 9.6 SP Glow
+
+== Vegeu també ==
+* [[Aeromodelisme]]
+* [[Motor de combustió interna]]
+* [[Motor de reacció]]
+* [[Motor elèctric]]
+* [[Llista de motors d'aviació fabricats a Espanya]]
+
+== Referències ==
+* Aquesta informació en la majoria s'ha recollit de la pagina web de José Manuel Rojoref[http://www.rojobcn.com/indexmotores.htm Pàgina de José Manuel Rojo]/ref
+{{Referències|2}}
+
+== Bibliografia ==
+*  {{MotorAZ}}
+
+== Enllaços externs ==
+* [http://www.rojobcn.com/indexmotores.htm Pàgina de la col·lecció de José Manuel Rojo amb precioses fotografies, i característiques tècniques de motors d'aeromodelisme] Visitada el 29/07/2011
+* Vídeos de motors d'aeromodelisme a You Tube:
+** [http://www.youtube.com/watch?v=rT4ytQXPL4Y| Rodatge d'un motor motor glow]
+** [http://www.youtube.com/watch?v=FEVLLbgNRBkNR=1| Desmuntatge d'un motor glow]
+** [http://www.youtube.com/watch?v=yWmCY9cICSEfeature=related| Proves d'un motor wankel]
+** [http://www.youtube.com/watch?v=qmbnzCV4vUcNR=1| Vol d'un pulsoreactor]
+** [http://www.youtube.com/watch?v=FEVLLbgNRBkNR=1| Micró-Turbina d'aeromodelisme, mostra peces]
+** [http://www.youtube.com/watch?v=FEVLLbgNRBkNR=1| Vols de proves d'un curiós hidroavió, propulsat per un motor elèctric]
+
+[[Categoria:Motors d'aviació]]</text>
+      <sha1>4lbb1nvc66jq0svhhb4adbou6wew0u8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

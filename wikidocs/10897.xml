@@ -1,0 +1,205 @@
+<page>
+    <title>Aeronau</title>
+    <ns>0</ns>
+    <id>10897</id>
+    <revision>
+      <id>13834523</id>
+      <parentid>13767060</parentid>
+      <timestamp>2014-07-15T15:35:57Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció de format: aC, dC</comment>
+      <text>[[Fitxer:A320_Vueling.jpg|thumb|250px|[[Airbus A320]] en vol, el primer model d'avió amb comandaments electrònics ''[[fly-by-wire]]''.]]
+Una '''aeronau''' és un [[vehicle]] dissenyat per desplaçar-se per l'[[aire]] per a transportar mercaderies i/o persones. Són exemples d'aeronau els [[globus]], [[Avió|avions]] o [[helicòpter]]s. S'han de distingir les aeronaus dels objectes que no s'ajuden de l'atmosfera per a volar, és a dir, totes les aeronaus depenen de l'existència d'alguna mena d'atmosfera per a generar una [[sustentació]] prou gran com per suportar el seu propi pes. És per això que la majoria de [[coet]]s o [[míssil]]s no es consideren aeronaus.ref name=OACI1 {{ref-llibre|autor = Organització d'Aviació Civil Internacional|capítol = 1. Definiciones y reglamento general relativo al otorgamiento de licencias. Punto 1.1.- Definiciones|títol = Anexo 1 al Convenio sobre Aviación Civil Internacional - Licencias al personal|any = juli de 2006 (desena edició)|editorial = Montréal: Organització d'Aviació Civil Internacional - Document Sales Unit }}/ref L'activitat humana que envolta l'avió s'anomena [[aviació]]. Les aeronaus tripulades són controlades per un [[pilot]]. Els vehicles no tripulats s'anomenen sovint [[UAV]]s (de l'anglès '''U'''nmanned '''A'''erial '''V'''ehicles).
+
+== Classificació pel mètode de sustentació ==
+=== Aeronaus més lleugeres que l'aire (aeròstats) ===
+[[Fitxer:2006 Ojiya balloon festival 011.jpg|thumb|right|Un globus d'aire calent en vol.]]
+El [[aeròstat]]s volen, ja que la densitat de l'aparell és menor que la de l'[[aire]], provocant així un efecte de sustentació similar a l'[[empenyiment]] d'un cos submergit a qualsevol altre fluid (vegeu el [[principi d'Arquimedes]]). Floten de la mateixa manera que els [[vaixell]]s a l'aigua, tanmateix, a diferència de l'aigua, la densitat de l'aire no és homogènia disminuint a mesura que s'ascendeix. La força sustentadora ''L'' d'un aeròstat de volum ''V'' ple d'un [[gas]] de [[densitat]] ρ' menor que la densitat ρ de l'aire a l'altitud de vol ve donada per:
+
+:math\, \! L = g (\rho - \rho') V/math
+
+on ''g'' és l'acceleració de la [[gravetat]].
+
+Els aeròstats estan formats per un dipòsit més gran que la cabina que sustenta. Aquest dipòsit s'emplena d'un gas més lleuger que l'aire atmosfèric, com per exemple [[hidrogen]], [[heli]] o aire calent. Si a la massa d'aire contingut s'afegeix la massa de la cabina, resulta que han de sumar la mateixa massa que la de l'aire que l'aeròstat ha desplaçat. Les dues configuracions més habituals d'aeròstats són les següents:
+
+* El [[globus aerostàtic]] és un vehicle sense cap mena de propulsió, que es desplaça gràcies a la incidència del vent sobre la gran bossa de gas de què disposen. Durant el vol i amb cap altra mena d'interacció dinàmica, el control de la trajectòria del globus no pot controlar-se a voluntat. La pràctica habitual amb aquestes aeronaus és la de canviar d'altitud per a cercar els corrents d'aire amb les direccions i intensitats més propícies. El pilot pot controlar l'altitud escalfant l'aire (disminuint la densitat de l'aire del dipòsit) o soltant càrrega o llast (disminuint el pes que ha de sustentar l'aire menys dens del dipòsit).ref name=AOPA{{ref-web|url=http://www.aopa.org/letsgoflying/dream/takeflight/types.html |títol=Let's Go Flying Types of Flying |autor=Aircraft Owners and Pilots Association (AOPA) |consulta=2009-06-14}}/ref
+
+* [[dirigible]], és una aeronau més lleugera que l'aire. Un exemple famós de dirigible és el [[zepelí]], una aeronau dirigible caracteritzada per ésser sustentada per un conjunt de bosses de gas amb una coberta [[aerodinàmica]] i amb una góndola rígida. Alguns accidents amb aquest tipus d'aeronaus com el del [[LZ 129 Hindenburg]], que es cremà en un accident provocant una tragèdia, van fer que els zepelins caigueren en desús. Hi havia altres tipus de dirigibles no rígids es caracteritzaven per unes bosses de gas moderadament aerodinàmiques amb estabilitzadors a la part del darrere. Com a gas sustentador dels dirigibles, generalment es fa servir heli. Aquest gas es tanca en una càmera de dimensions suficientment grans per a permetre la sustentació de l'aparell.
+
+=== Aeronaus més pesants que l'aire (aerodines) ===
+[[Fitxer:Zepper-BK_117-C2-(EC145)-SchweizerischeRettungsflugwacht.jpg|right|thumb|Helicòpter de salvament Eurocopter EC-145.]]
+La sustentació de les [[aerodina|aerodines]] es genera aprofitant l'efecte sustentador produït per perfils aerodinàmics instal·lats al vehicle. Es fan servir diferents configuracions d'[[Ala (aeronàutica)|ales]] enfrontades a un vent relatiu amb una velocitat i direcció adequada per produir la sustentació. Aquesta sustentació pot ser contribuïda també per la sustentació que prové directament de l'empenyiment dels gasos de sortida d'un motor amb una certa inclinació amb la línia de l'horitzó. Les aeronaus [[VTOL]] són un cas d'aeronaus a les que aquest empenyiment s'aprofita majoritàriament, mentre se s'enlaira en vertical, mitjançant [[tovera|toveres]] dirigibles a voluntat.
+
+El més comú és el disseny d'aeronaus amb la sustentació de les ales de què disposa, ja es troben fixes o rotatives. Per a volar, l'ala ha de moure's en direcció contrària a un corrent d'aire incident en relació al moviment de l'aeronau; el pas de l'aire al voltant de la geometria d'un perfil d'ala fa que a la part superior l'aire travesse amb més velocitat que a la inferior, i que el corrent es deflecteixi en certa mesura. Això genera una pressió repartida a l'ala de manera que l'empeny cap a dalt.
+
+La consecució d'un vent relatiu als perfils aerodinàmics suficient per enlairar-se és deguda al moviment dels perfils o ales dins d'una massa d'aire. Segons les configuracions d'ales, les aerodines s'anomenen:
+* [[Avió|Avions]], quan volen gràcies a la pròpia capacitat de mantenir una velocitat de moviment, fent que el vent relatiu a les ales fixes de què disposa sigui prou per a aguantar-se en la sustentació que generen. El seu precedent històric foren les [[Milotxa|milotxes]], que foren inventades a la [[Xina]] al voltant de l'any 500 aC i que van servir per fer investigacions prèvies als pioners de l'[[aviació]] abans de disposar d'instal·lacions adequades per fer assajos.
+* [[Girodina|Girodines]], quan volen gràcies a la sustentació d'unes ales rotatives que conformen una [[hèlix]]. Aquest és el cas dels [[helicòpter]]s i dels [[autogir]]s. Tenen una maniobrabilitat extrema, no requereixen una pista tan llarga com les aeronaus convencionals, encara que la seua velocitat i capacitat de càrrega està limitada.
+* [[Ornitòpter]]s, que volarien fent servir la reacció de batre unes superfícies sostenidores, dotades d'un moviment de batuda imitant als ocells. Es tracta d'una aplicació purament experimental.
+
+== Classificació per propulsió ==
+[[Fitxer:Governableparachute.jpg|right|thumb|Dibuix d'un dels planadors experimentals de Cayley.]]
+El mètode de propulsió és clau per a aconseguir els objectius d'una determinada aeronau. La tecnologia ha posat a l'abast dels dissenyadors d'aeronaus diferents maneres de donar potència al vehicle, que s'han adaptat a les més diverses configuracions aeronàutiques. Des del primer vol propulsat efectuat pels [[germans Wright]] amb un motor de 25 hp i de només 81 kg de pes fins als més potents motors de [[turbina de gas]] s'ha passat per múltiples configuracions.ref{{cite press release |last= Maclin |first= Harvey |coauthors=Krause, Fred |title=Propulsion technology for future commercial aircraft |year= 2003|publisher=AIAA/ICAS International Air and Space Symposium and Exposition: The Next 100 Y|location= Dayton |date=14-17 July 2003 }}/ref
+
+=== Aeronaus sense planta de potència ===
+Les aeronaus més pesants que l'aire, com per exemple [[Planador]]s, [[parapent]]s i [[Ala delta|ales delta]], volen gràcies a la sustentació de les ales sense cap planta de potència instal·lada, aprofitant els corrents d'aire i la pròpia [[energia potencial]]. Aquestos vehicles poden enlairar-se gràcies al desplaçament del vehicle a grans altures, o empentant-les mitjançant altres vehicles, com per exemple altres aeronaus. Perquè els planadors mantinguen la velocitat i sustentació, han de descendir en relació a l'aire, que no implica necessàriament 
+un descens en relació a terra. Alguns planadors poden guanyar altura gràcies als corrents tèrmiques. El primer exemple de planador controlable fou dissenyat per l'anglès [[George Cayley]], pioner de l'[[aviació]] que podria considerar-se el primer enginyer aeronàutic.ref{{ref-llibre |cognom= Dee |nom= Richard |enllaçautor= Richard Dee |títol= The Man who Discovered Flight: George Cayley and the First Airplane |any= 2007|editorial= McClelland and Stewart|lloc= Toronto |isbn= 978-0771029714 }}/ref En aquesta categoria també entren els globus i les milotxes.
+
+=== Amb planta de potència ===
+Es poden distingir diferents tipus:
+* Aeronaus d'hèlix, amb diferents configuracions de planta de potència
+* Avions de reacció
+* Helicòpters
+* Dirigibles
+
+== Usos de les aeronaus ==
+[[Fitxer:AirTractor_402.jpg|thumb|[[Avioneta]] fumigadora en plena operació]]
+=== Ús Civil ===
+Estan incloses en aquesta categoria aeronaus que fan vols regulars i puntuals de transport de càrrega i passatgers, incloent-hi també altres usos més puntuals com la vigilància, el rescat, l'entrenament o l'ús recreatiu.
+
+Degut a la combinació de necessitats i d'aparells que les poden cobrir, és convenient donar una llista segons la funcionalitat, ja que els casos particulars dels usos s'han de tractar un a un, resultant una llista prou heterogènia, ja que a banda dels anteriors s'aprofiten per a: fotografia aèria, filmacions, retransmissions, publicitat, control i informació del trànsit, treballs agrícoles, recerca pesquera, i d'altres no llistats abans.
+
+[[Fitxer:Spanair_-_airbus_A321.JPG|thumb|[[Avió comercial]] [[Airbus A321]] de Spanair en moviments a peu de pista]]
+==== Vols d'aerolínia programats ====
+{{article principal|Aerolínia}}
+Referida als vols d'aeronaus que cobreixen principalment el transport de passatgers o de càrrega, estant al mateix temps dividida segons l'ús que se'n faça, ja que en alguns casos es transporta només passatgers o només càrrega o correu.
+
+Els vols d'aerolínies poden cobrir diferents abasts, des de ciutats al mateix país, fins a llargs vols intercontinentals, segons els tipus d'avió de què disposen, essent les de cos ample les que es fan servir pels llargs abasts.ref name=Pavcnik{{ref-web|títol=Trade disputes in the commercial aircraft dispute|url=http://www.clt.astate.edu/randyk/trade/external%20stuff/boeingvairbus.pdf|autor=Pavcnik, N.}}/ref Les aerolínies normalment fan servir aeronaus pròpies o cedides per tal de donar servei als clients i poden formar part d'aliances o acords amb altres aerolínies.
+
+Es tracta d'una activitat molt àmplia que dedica una gran part dels seus esforços d'operació al manteniment dels serveis aeris: força de treball, combustible, avions, distribució i logística, servei de restauració, motors, recanvis i parts, assegurament d'[[aviació]], gestió d'operacions en terra, etc.
+
+La presència de la base d'activitats de la companyia concentrada a un [[centre de connexió]] (aeroport connector) concret dóna avantatges econòmics al fer servir aquest emplaçament com a focus preferit pels seus vols programats, ja que en certa manera es guanya control sobre l'oferta de vols des d'un aeroport determinat, resultant així una maniobra de màrqueting que permet absorbir més viatgers que els competidors en termes relatius.ref name=airlineMonitor{{ref-web|url=http://libraryonline.erau.edu/online-full-text/books-online/Airlines101.pdf|títol=Airlines 101. A primer for dummies|autor=The Airline Monitor|pàgina=17}}/ref
+
+==== Avions d'entrenament ====
+{{AP|Avió d'entrenament}}
+L'ús d'aeronaus per tal d'entrenar pilots és una necessitat per tal d'aconseguir professionals experimentats que piloten els aparells.
+
+Se solen fer servir petits avions monomotor d'hèlix com per exemple els [[Cessna]] 172.ref name=AOPA/ En aquest cas es fan servir avions semblants a les aeronaus d'ús recreatiu, a causa de la seua senzillesa i al seu preu més assequible. De fet és factible alquilar-ne per entrenar-se o amb fins recreatius.
+
+==== Vols en globus ====
+{{article principal|Aeròstat}}
+
+Es fan servir aeronaus més lleugeres que l'aire per transportar passatgers en vols recreatius. Aquestos aparells s'ajuden d'un compartiment en forma de banasta per tal d'allotjar els passatgers, el pilot, els equips de comunicació i els subministraments necessaris per mantenir unes adequades condicions de l'aire que dóna sustentació a l'aeronau. Aquesta [[cistella]] és subjectada a la bossa principal d'aire gràcies a tirants resistents al pes que carreguen.ref name=Baulis{{ref-web|autor=Baulis, N.|url=http://www.tip.sas.upenn.edu/curriculum/units/2008/04/08.04.07.pdf|títol=Science Through Science Fiction in a Hot Air Balloon}}/ref
+
+==== Vols de planador ====
+{{article principal|Planador}}
+[[Fitxer:Astir_und_LS_4.JPG|thumb|Dos planadors a una pista d'aterratge, cal notar la forma esvelta del disseny i la llargària de les ales]]
+Se sol fer ús de planadors amb fins recreatius i els solen fer servir aficionats a aquesta modalitat de vol. Per tal d'engegar el vol cal que el planador se situe a una [[altura (magnitud)|altura]] suficient, ja que depèn de la seua [[energia potencial]] inicial i d'altres mitjans naturals per fer el vol. El pilot no només se serveix de les variacions d'altura per tal de guanyar [[velocitat]], també s'aprofiten els corrents atmosfèrics i tèrmiques i el grau d'aquest aprofitament depèn de l'habilitat i l'experiència del pilot, que troba aquestos corrents i pot recórrer d'un lloc a un altre aprofitant-se de les fonts emanadores de corrents. La pràctica que se segueix en trobar un corrent consisteix a volar en espiral per tal d'agafar altura. Els vols amb aquestes aeronaus poden tenir una durada considerable, ja que amb l'aprofitament dels corrents poden fer-se grans distàncies.ref name=AOPA/ En la pràctica aquestes aeronaus són remolcades per una altra amb motor fins al punt de partida o bé es llancen des de grans altures per tal d'iniciar el vol.
+
+Els dissenys emprats a aquestes aeronaus són molt esvelts i disposen d'ales molt llargues i d'una superfície alar molt elevada en relació a la càrrega que suporten. L'objectiu dels dissenys és obtenir una elevada relació de sustentació respecte a la resistència que generen math{L/D}/math. D'aquesta manera, als dissenys es poden arribar a relacions de 43:1ref name=USASoaring
+{{ref-web|títol=Sailplanes  Gliders|
+url=http://www.ssa.org/UsTeam/adobe%20pdf/pr%20pdf/BR%20Sailplanes%20V3%2004.pdf|autor=USA Soaring Team
+}}
+/ref o fins i tot 60:1ref name=USCFC
+{{ref-web|títol=2003 Schweizer 1-26 Championship Sailplane Contest Held In Dayton, Ohio, As Part Of The Centennial Of Flight Celebration |
+url=http://www.centennialofflight.gov/user/news_releases/press_sailplane.htm|autor=U.S. Centennial of Flight Commission|any=2003}}
+/ref pels més lleugers i aerodinàmics. Una referència històrica és que l'avió dels Germans Wright tenia una relació math{L/D}/math igual a 3.9:1 com a valor de disseny.ref name=Kochersberger
+{{ref-web|
+url=http://www.centennialofflight.gov/wbh/wr_experience/1901/pdfs/1901.pdf|títol=An Evaluation of the Wright 1901 Glider Using Full Scale Wind Tunnel Data|autor=Kochersberger, K.; Sandusky, R.|editor=AIAA}}
+/ref
+
+==== Vols acrobàtics ====
+Es tracta d'una modalitat de vol que consisteix a fer acrobàcies amb les aeronaus dissenyades per a tal efecte. Normalment aquestes aeronaus tenen unes característiques de resistència especials en la seua [[estructura]], ja que en aquestes pràctiques se solen assolir alts nivells d'acceleració (se solen mesurar en múltiples de g). Els aficionats a aquesta modalitat solen practicar-la com a repte únic que depèn de la precisió que es tinga com a pilot. Algunes escoles de vol donen classes amb instructors qualificats.ref name=AOPA/
+
+==== Hidroavions ====
+{{article principal|Hidroavió}}
+Per a operacions amb petites aeronaus a prop del [[mar]], pot ser útil l'ús d'avions capaços d'envolar-se i amarar fent servir la pròpia superfície de l'aigua. Aquestos ports es poden trobar a grans llacs o bé al mar.
+
+Per a fer-les surar sobre l'aigua, aquestes aeronaus s'equipen amb flotadors [[amfibis]], que disposen de rodes amb capacitat de retreure's i així s'adapten a tot tipus de pistes d'aterratge.ref name=AOPA/
+
+==== Vols amb ultralleuger ====
+{{article principal|Aviació ultralleugera}}
+S'anomenen ultralleugers a les aeronaus amb un límit de pes de quatre-cents quilograms segons legislació vigentref name=RDUltralleuger
+{{ref-web|url=http://www.seguridadaerea.es/AESA/LANG_CASTELLANO/_INFORMACION/NORMATIVA/LEGISLACION/DISPOSICIONES_COMPLEMENTARIAS/1999/rd_1591_99.htm|títol=Real decret 1591/1999}}/ref
+ref name=DUltralleuger
+{{ref-web|url=http://www10.gencat.net/ptop/AppJava/cat/arees/mobilitat/infotransports/normativa/aeri/ultralleugers/decret1621994.jsp |títol=Decret 162/1994}}
+/ref i de{{què}} amb un disseny molt simple de l'estructura, feta de tubs metàl·lics d'algun [[aliatge]] lleuger i amb opció d'ésser equipades amb una planta de potència.
+
+La forma pot ser tan simple com la d'una cometa triangular o bé la d'una aeronau carenada i instrumentada. De fet es distingeixen senzillament pel nombre de [[seient]]s, o per si es tracta simplement de paracaigudes o parapents ja siguen motoritzats o no motoritzats.ref name=AOPA/
+
+==== Ús d'helicòpters ====
+{{article principal|Helicòpter}}
+[[Fitxer:Traumaheli_op_de_Dam.JPG|thumb|Helicòpter de l'equip mèdic mòbil neerlandès en servei d'emergència]]
+Els helicòpters són aeronaus molt emprades als vols civils a causa de la seua versatilitat. La capacitat d'enlairar-se en vertical els fa molt apropiats per prendre pistes curtes o espais reduïts com per exemple terrats per tal d'enlairar-se. És normal fer servir helicòpters per part dels serveis públics a les ciutats, per a tasques de vigilància o [[Incendi|emergències de foc]] o ferits. En el cas especial de les emergències són útils per ser capaços d'arribar als llocs on efectuar les tasques de salvament, fins i tot si s'han produït catàstrofes que n'impedeixen l'accés.ref name=Sanderson{{ref-web|
+url=http://www.rotor.com/membership/rotor/rotorpdf/spring%2030.pdf|títol=Emergency Helicopter Landing Facilities|autor=Sanderson,B.}}/ref Es poden fer servir també en casos d'emergències quan cal una visió aèria de situacions complicades i dels moviments de la gent, podent també transportar experts i equipament al lloc designat.ref name=bbkbund{{ref-web|títol=Flyer Civil Protection Helicopter|url=http://www.bbk.bund.de/nn_1047878/SharedDocs/Publikationen/EN/booklets__leaflets/Flyer__Civil-Protection-Helicopter,templateId=raw,property=publicationFile.pdf/Flyer_Civil-Protection-Helicopter.pdf|autor= BBK}}/ref
+
+És especialment importat tenir en compte les alteracions que es poden causar a l'ambient amb l'ús aeronaus d'aquest tipus, sobretot als enlairaments, on s'alça pols i contaminació i se sotmet a càrregues el lloc d'aterratge. És especialment crític als hospitals, on se sol situar la pista d'aterratge al terrat, lloc també se solen situar les entrades de ventilació.
+
+==== Lluita contra plagues agrícoles ====
+En el cas agrícola, l'aeronau és un aparell clau en la lluita contra fortes plagues, com és el cas de la [[llagosta (insecte)|llagosta]].ref name=Miralles/ Té l'inconvenient de què les maniobres de petits avions per fumigar tenen un risc major que altres tipus de vol.
+
+=== Ús militar ===
+[[Fitxer:P-51 F-15.jpg|250px|right|thumb|Un [[F-15 Eagle]] i un [[P-51 Mustang]] volant en parella. Ambdós avions són exemples d'aeronaus dissenyades per a usos militars.]]
+El nombre d'aeronaus d'ús militar és petit, quan es compara amb el gran nombre d'aeronaus civils. Estan incloses en aquesta categoria, caces, helicòpters i altres avions dissenyats per l'exèrcit, bé es tracte d'adaptacions dels civils amb petites modificacions o bé quan es fan dissenys específics per transportar càrrega i soldats o entrenar pilots.
+
+====Caces====
+{{Principal|Caça (aviació)}}
+El [[Caça (aviació)|caces]] són un tipus d'avions que serveixen pel combat aire-aire amb altres aeronaus, la qual cosa el diferència del [[bombarder]], que tracta de fixar objectius fixos al sòl. Encara que tècnicament el terme caça s'hauria d'emprar per als avions dedicats a la superioritat aèria,ref name=DIEC_Caça{{ref-web|títol=Entrada 'caça' al DIEC|url=http://dlc.iec.cat/results.asp?txtEntrada=ca%E7aOperEntrada=0|capítol=Cinquena accepció}}/ref se sovint trobar-se que s'anomenen també caces als avions multipropòsit que també tenen habilitats d'atac a terra. La seva mida és relativament petita i el seu disseny prioritza la velocitat, l'agilitat, l'armament i els sistemes que s'incorporen per tal de fixar i perseguir blancs.
+
+==== Bombarders ====
+{{Principal|Bombarder}}
+Es tracta d'aeronaus militars dissenyades per atacar objectius soltant una càrrega de bombes al seu damunt. Es caracteritzen per la seua autonomia, la gran capacitat de càrrega i també pel suport necessari en l'àmbit de la navegació i l'autoprotecció.
+
+==== Usos mixtos ====
+La logística militar ha fet que es valore i s'haja desenvolupat l'ús mixt d'avions que juguen amb diferents rols alhora. Es tracta d'avions que són capaços per exemple de bombardejar i als quals se'ls han fixat també restriccions per fer-los útils per al combat aire-aire.
+
+==== Reconeixement ====
+Es fan servir avions d'aquest tipus per al reconeixement i exploració de terreny amb l'objectiu de guanyar informació. De vegades es fan servir per servir d'escolta o per rastrejar a zones on s'esdevenen actes importants.
+
+==== Abastiment en vol ====
+{{Article principal|Re-proveïment en vol}} 
+També anomenat reabastiment o re-proveïment, es tracta d'un ús d'aeronaus militars especials, que tracten de transferir càrrega de combustible durant el vol, per tal de re-omplir el dipòsit sense que l'aeronau en plena missió haja de prendre terra. La correcta planificació del reabastiment en vol a les missions és útil, ja que es pot tenir en compte una major càrrega d'equipament o de personal per a l'enlairament que no es faria si s'hagués de fer la missió amb el combustible de partida. Això és afavorit per una banda pel reompliment del combustible perdut per guanyar altura i preparació del reabastiment, i per l'altra, es pot augmentar la càrrega de l'avió, ja que una vegada es troba a l'aire ha desaparegut la major restricció de pes, que aplica en enlairar-se l'aeronau amb una màxima càrrega admissible per tal de no sortir-se'n de la pista. L'abastiment en vol es planteja també com a instrument per mantenir a l'aire les aeronaus no tripulades que es dediquen a la vigilància de territoris.ref name=Bowers{{ref-web|títol=Estimation algorithm for autonomous aerial refueling using a vision based relative navigation system|url=http://txspace.tamu.edu/bitstream/handle/1969.1/2700/etd-tamu-2005B-AERO-Bowers.pdf?sequence=1|pàgina=14|autor=Bowers, R.E.}}/ref
+
+==== Transport ====
+{{AP|Avió de transport}}
+[[Fitxer:C-130_Hercules_2.jpg|thumb|L'[[Hèrcules C-130]] és ben conegut en el camp de la logística militar.]]
+Es tracta d'avions que serveixen com a instrument per a l'enviament de subministraments o personal. Es podrien distingir entre activitats estratègiques i tàctiques, segons la missió que desenvolupen. Es parlarà de moviments estratègics d'aeronaus de càrrega quan es facen abastiments de materials a grans distàncies per tal de guarnir i proveïr de vitualles als emplaçaments militars o bé es parla de tàctica quan la precisió en temps i espai de la missió siga crítica per la consecució d'aquesta. De fet és destacable l'ús d'helicòpters i altres aeronaus de transport per al transport tàctic en contraposició als enormes ''turbofans'' o ''turboprops'' que es fan servir al transport estratègic.
+
+== Història ==
+[[Fitxer:Landon-IcarusandDaedalus.jpg|thumb|Dèdal empentant a volar a [[Ícar]]]]
+Els primers dissenys fets per inventors que foren seguits per les proves de vol dels aventurers de l'[[aviació]] no tenien un coneixement massa profund de les propietats sustentadores de les geometries dels cossos a l'aire. Només comptaven amb les observacions de les aus i consideraven l'energia muscular com l'únic mitjà per donar potència a les aeronaus. A l'altra banda hi són les conegudes llegendes de l'antiguitat, [[Dèdal]], Abaris, Archytas que són l'expressió del desig de l'home de volar. 
+
+Hi ha constància de vols de planador a Al-Andalus, durant la renaixença amb la [[dinastia omeia]] a l'[[emirat de Còrdova]]. En aquest context l'inventor [[Abbas Ibn Firnas]], va fer servir ales entelades amb estructura de fusta amb èxit l'any 875,ref name=Lienhard{{ref-web|url=http://www.uh.edu/engines/epi1910.htm |títol=No. 1910: 'Abbas Ibn Firnas |autor=Lienhard, J.H. |consulta=2009-06-12}}/ref per llançar-se del minaret de la [[Mesquita de Còrdova]].ref name=theIndependent{{ref-web|títol=How islamic inventors changed the world|url=http://www4.ncsu.edu/~jwosbor2/articles/islamic_inventions.pdf|autor=The Independent On-line}}/ref El resultat d'aquesta prova es considera un èxit, llevat pel fet del mal aterratge que va patir, per no proveir-se d'una manera de cessar la sustentació al final del vol.ref name=Lienhard/
+
+[[Fitxer:Wing Da Vinci.gif|thumb|Primer disseny d'aeronau de Leonardo da Vinci que fa servir potència humana per propulsar-la.]]
+Ja a la renaixença, es troben les propostes de [[Leonardo da Vinci]], el pintor, escultor, arquitecte i enginyer, que no només va fer dissenys sobre paper i la construcció d'un paracaigudes operatiu, va anar més enllà i va considerar la idea de construir un aparell per tal de propulsar un parell amb ales, trobant-ne prou dissenys als seus blocs de notes.ref name=Chanute{{ref-web|url=http://invention.psychology.msstate.edu/i/Chanute/library/Prog_Wings_Nov1891.html |títol=Progress in Flying Machines |autor=Chanute, O. |any=1891 |consulta=2009-06-12}}/ref
+
+Aquests i d'altres precursors de l'[[aviació]] pràctica i dels dissenys donen lloc a que s'intensificaren els esforços per dissenyar i fer vols en la pràctica cap al final de l'[[edat moderna]]. En aquest moment, els esforços es focalitzen en la consecució de vols i de dissenys aprofitables, per una banda, en globus i per l'altra en planadors i dissenys preliminars d'hèlix rotatives per tal de propulsar o donar sustentació.
+
+[[Fitxer:Henson-Willliam_02.jpg|thumb|Projecte de l'avió [[Aerial Steam Carriage]] Stringfellow-Henson, en un dibuix conceptual que donava la visió del negoci de transport que volien engegar]]
+En el camp del vol tripulat, és l'esdeveniment protagonitzat pels [[Germans Montgolfier]] a [[1783]], es tracta del primer vol tripulat amb Globus, amb 219 kilos de pes.ref name=Miralles{{ref-web|títol=Avions |editor=Perspectiva ambiental|url=http://www.ecoterra.org/data/pa22.pdf|autor=Miralles, J.; Romero, J.}}/ref Aquest esdeveniment, marca el punt de sortida de les possibilitats del viatge per l'aire. Als dissenys d'aeronaus més pesants es poden observar els dissenys de Besnier, Bacqueville, Bourcart i Dandrieux en la creació de màquines propulsades per l'home i per altra banda i continuant les idees de fer servir una mena de tornassol per sustentar-se a l'aire per part de Leonardo Da Vinci, el problema va ser estudiat pel matemàtic [[Alexis-Jean-Pierre Paucton|J.P. Paucton]] a [[1768]] i abordat en la pràctica per primera vegada amb els experiments de [[Christian de Launoy]] i el seu mecànic Bienvenu a [[1784]]. Calia esperar doncs que totes dos tècniques, la dels planadors i la de la propulsió progressaren fins a tenir operatiu un avió segons la definició.ref name=Chanute/
+
+Aquesta idea d'obtenir la força sustentadora de l'aire de manera contínua amb l'ús d'una ala fixa, en comptes de les ales batents sovint emprades per dissenyadors d'ornitòpters o de les rotatives dels dissenys derivats del tornassol de Da Vinci, no es va prendre fins a [[1842]] amb un avió que disposava d'ales i d'una hèlix, el qual es va dissenyar i amb el que es van fer experiments. Encara que els avions foren els últims aparells amb els quals s'experimentà en la cronologia de l'[[aviació]], són ara l'aparell amb més èxit al present. A [[1848]] [[John Stringfellow]] juntament amb l'enginyer [[William Samuel Henson|W.S. Henson]] va fer experiments per tal de construir un avió que feia servir una màquina de vapor com a planta de potència. Aquest avió, patentat a [[1842]] seria l'instrument principal per aconseguir un negoci de transport que es llançaria i s'aniria promocionant mentre les proves amb la màquina anigueren progressant amb èxit. Tècnicament es tractava d'un avió amb superficies fixes fet amb una estructura de barres rígida i entelada. A la part inferior d'aquesta estructura sustentadora s'hi situà un cotxe que contenia un [[motor de vapor]], els subministraments i els passatgers. L'aparell seria propulsat per un parell de [[rodet]]s, que actuarien sobre l'aire de la mateixa manera que un [[molí]]. Al darrere hi hauria una cua, també entelada i feta de barres estructurals, amb forma triangular i amb la capacitat d'actuar augmentant o disminuint l'àrea segons els desitjos del pilot que també podia variar-ne l'angle per descendir o augmentar altura. També es disposava de timó de direcció i d'una vela per estabilitzar la direcció. Se suposava que l'aparell hauria de romandre inclinat per mantenir la sustentació necessària i de la mateixa manera, tots els enlairaments s'haurien de fer amb pistes inclinades, començant el vol des de la sortida de la pista a seua part superior. Aquest projecte va fracassar, ja que no es disposava d'una estructura prou estable com per mantenir un vol, qualsevol pertorbació trencava l'estabilitat i resultava perillós enlairar-se.ref name=Chanute/
+
+Similars dissenys i proves van demostrar la viabilitat de l'avió com a aeronau amb el vol controla dels [[Germans Wright]], de manera que es donà pas a l'època dels pioners de l'[[aviació]] en un intent continu d'aconseguir un vol controlat, sustentat i amb motor de manera estable el 17 de desembre de 1903.
+
+Una altra fita de començaments del segle XX fou la consecució de vol de girodines i de l'explotació dels seus avantatges. Amb l'autogir de [[Juan de la Cierva]] a 1919 s'aconseguí acurtar les pistes necessàries per enlairar-se i aterrar.ref name=Lienhard2{{ref-web|url=http://www.uh.edu/engines/epi1794.htm |títol=No. 1794: Autogiro |autor=Lienhard, J.H. |consulta=2009-06-12}}/ref Fou aprofitant-ne els hites tècnics resolts per aquest tipus d'aeronaus que s'aconseguí el primer helicòpter pràctic i controlable cap a 1936, el [[Focke-Wulf Fw 61]] que era capaç de demostrar capacitat per a l'[[autorrotació]].ref name=Leishman{{ref-web|url=http://itlims.meil.pw.edu.pl/zsis/pomoce/SSR/A_History_of_Helicopter_Flight.pdf |títol=A history of helicopter flight |autor=Leishman J.G. |consulta=2009-06-12 |editor=University of Maryland}}/ref
+
+Els posterior avanços en aquesta tècnica s'aconseguiren en paral·lel a les carreres de desenvolupament d'aeronaus dutes a terme a la Primera i Segona Guerra Mundial i després a la Guerra Freda, principalment amb la inversió dels governs enfrontats. La dinàmica general en el camp de l'[[aviació]] ha estat la de transferir les [[tecnologia|tecnologies]] adquirides a aquestes curses armamentístiques i els aparells sobrants per a l'ús i la investigació civil.ref name=Motiwalla{{ref-web|títol=The History  Development of Corporate  Business Aviation|url=http://www.paramountbusinessjets.com/docs/AviationWritingCompetition2009/TheHistoryAndDevelopmentOfCorporateBusinessAviation.pdf|autor=Motiwalla, A.|any=2009}}/ref
+
+Ja a l'època present es troba el desenvolupament i explotació d'aeronaus sense tripulació [[UAV]] i de les necessitats d'augment de l'eficiència de les aeronaus de transport civil a causa dels costos creixents del petroli de 2003 a 2008.
+
+== Vegeu també ==
+* [[Cronologia de l'aviació]]
+* [[Nau espacial]]: Per oposició a les aeronaus, les naus espacials volen fora de l'atmosfera de la [[Terra]].
+* [[Avió espacial]]
+* [[Enginyeria aeronàutica]]
+
+== Referències==
+{{Referències|2}}
+
+{{Projectes germans|commons=Aircraft}}
+
+{{1000 Tecnologia}}
+
+{{Autoritat}}
+[[Categoria:Aeronaus|Aeronaus]]</text>
+      <sha1>qq5ccb5bzc8zvocmzezjblceixmrv4d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

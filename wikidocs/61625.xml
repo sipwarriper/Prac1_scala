@@ -1,0 +1,49 @@
+<page>
+    <title>Enginyeria inversa</title>
+    <ns>0</ns>
+    <id>61625</id>
+    <revision>
+      <id>14062490</id>
+      <parentid>14062470</parentid>
+      <timestamp>2014-09-21T22:55:49Z</timestamp>
+      <contributor>
+        <username>Bestiasonica</username>
+        <id>3164</id>
+      </contributor>
+      <minor></minor>
+      <text>L''''enginyeria inversa''' és el procés d'analitzar quelcom en detall (un accessori mecànic, un component elèctric, [[programari]] informàtic, etc.) amb la fi de determinar com està fet, què el fa funcionar i com ha estat fabricat, amb la intenció de construir un nou enginy o aplicació que faci exactament el mateix que el dispositiu examinat, però sense copiar res de l'original.
+
+Aquest mètode és denominat enginyeria inversa perquè inverteix el procés natural de l'enginyeria, que consisteix a utilitzar dades tècniques i plantejar idees per a aconseguir un resultat final adequat. En l'enginyeria inversa es parteix d'un producte acabat per a indagar sobre el seu funcionament intern.
+
+==Tipus i aplicacions==
+L''''enginyeria inversa''' és sovint utilitzada en l'àmbit [[militar]] amb l'objectiu de copiar la [[tecnologia]] d'altres nacions; dispositius, informació o parts d'enginys que han estat obtinguts als camps de batalla per soldats o per operacions de la [[intel·ligència militar]]. Va ser molt utilitzada durant la [[Segona Guerra Mundial]] i la [[Guerra Freda]].
+
+Per a components mecànics, les tècniques modernes en enginyeria inversa inclouen [[escanejat]] làser — l'ús de rajos làser per a escanejar la superfície de peces de qualsevol forma física per a crear una imatge precisa de la superfície de la peça. Aquest procés crea una sèrie de talls que, un cop combinats, poden representar la superfície de l'objecte en una simulació per ordinador, o, utilitzant una [[impressora 3D]], es pot crear una rèplica física de l'objecte.
+
+L'enginyeria inversa sobre sistemes de [[maquinari]] o [[programari]] que es fa per a millorar interoperabilitats (per exemple, per a suportar formats d'arxiu o perifèrics de [[maquinari]] indocumentats), és considerada legal, tot i que els propietaris de patents no hi estan d'acord normalment i rebutgen qualsevol forma d'enginyeria inversa sobre els seus productes.
+
+Altres objectius de l'enginyeria inversa inclouen auditories de seguretat, eliminació de la protecció contra còpia (''cracking''), evitar restriccions d'accés presents normalment en l'[[electrònica de consum]], personalització de sistemes interns (com sistemes d'administració de motors de vehicle), activació de característiques addicionals en [[maquinari]] de baix cost (com en determinades targetes gràfiques), o fins i tot mera satisfacció de la curiositat.
+
+L'enginyeria inversa també és utilitzada per empreses per a examinar productes de la competència. És emprada per a analitzar, per exemple, com funciona un producte de la competència, què fa, qui ho manufactura, de quins components consisteix, estimar costs, identificar potencials infraccions de patents, etc.
+
+Finalment, l'enginyeria inversa és emprada sovint perquè la documentació d'un dispositiu particular s'ha perdut (o mai ha sigut escrita), i la persona que el va construir ja no treballa a la companyia. Els [[circuit integrat|circuits integrats]] han sigut dissenyats normalment en sistemes propietaris i ja obsolets, la qual cosa significa que l'única manera d'incorporar funcionalitat sobre nova tecnologia és emprant l'enginyeria inversa al [[Circuit integrat|xip]] existent i després redissenyar-lo.
+
+==Enginyeria inversa de programari==
+Aquest procés és sovint anomenat ''Enginyeria de codi invers''. Com a exemple, la [[decompilació]] dels binaris per a la [[plataforma Java]] pot dur-se a terme utilitzant [http://www.ARGOuml.org ARGOuml.org]. Un cas famós d'enginyeria inversa és el que es va portar a terme creant la primera BIOS no implementada per [[International Business Machines|IBM]], creada per la indústria de[[IBM PC compatible|PCs Clònics]].
+
+El [[programari Samba]], que permet als sistemes amb [[sistema operatiu]] diferent de [[Microsoft Windows]] compartir arxius amb aquests, és un exemple clàssic d'enginyeria inversa sobre programari, ja que el [[projecte Samba]] ha tingut d'aplicar aquest mètode per a conèixer informació no publicada sobre com funciona el sistema de compartició d'arxius de Windows, per a poder emular-lo en ordinadors amb altres sistemes operatius. El projecte [[WINE]] fa el mateix per a l'[[API]] de Windows, i [[OpenOffice.org]] també ho fa amb els formats d'arxiu de [[Microsoft Office]].
+
+La enginyera inversa de programari es pot dur a terme utilitzant diferents mètodes. Els tres mètodes principals són:
+
+#Anàlisi mitjançant l'observació de l'intercanvi d'informació, molt usat en enginyeria invers de protocols, que implica utilitzar [[Analitzador de busos]] i [[sniffer]] de paquets, per exemple per a escoltar dins un [[Bus (informàtica)|bus]] d'ordinador o en una [[xarxa d'ordinadors]], revelant el tràfic de dades que hi passa. El comportament al bus o a la xarxa pot ser analitzat per a produir una implementació independent que replica el comportament de la xarxa. Això és especialment bo per a fer enginyeria inversa de [[driver]]s de dispositius. De vegades l'enginyeria inversa en alguns sistemes troba una gran ajuda en eines deliberadament introduïdes pel fabricant, ja que pot ajudar-lo a millorar la seguretat del dispositiu fabricat.
+#[[Desassemblatge]] utilitzant un [[desassemblador]], on el [[llenguatge màquina]] del programa és llegit i traduït a [[llenguatge d'assemblador]]. Aquesta tècnica funciona en qualsevol programa però pot portar força temps, especialment per algú no avesat al llenguatge d'assemblador.
+#[[Descompilació]] utilitzant un [[descompilador]], un procés que intenta, amb resultats variables, recrear el [[codi font]] en algun [[llenguatge d'alt nivell]] per a un programa només disponible en [[codi binari]] o en [[bytecode]].
+
+{{Commonscat}}
+
+[[Categoria:Enginyeria]]</text>
+      <sha1>rkfvt13jp5ltf9cbayk853552xjw06r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,127 @@
+<page>
+    <title>Kaiten</title>
+    <ns>0</ns>
+    <id>1000222</id>
+    <revision>
+      <id>13774751</id>
+      <parentid>13655759</parentid>
+      <timestamp>2014-07-09T23:18:00Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Commonscat}} que enllaça amb [[commons:category:Kaiten]]</comment>
+      <text>{{2L|data=febrer de 2013}}
+{{Fitxa de vaixell
+|nom = '' Kaiten '' br/ 回 天
+|imatge = Kaiten Type 1 Yushukan.jpg
+|títol = '' Kaiten '' Tipus 1 exposat al [[santuari Yasukuni]].
+|mida = 300px
+|banderes ={{bandera|Imperi del Japó|naval|mida = 48px}}
+|drassana =
+|autorització = 1944
+|tipus = Torpede humà suïcida
+|període servei = 1944-1945
+|unitats concloses = Al voltant de 390
+|desplaçament =
+|desplazamiento_inmersión = 8,2 tonesref La dada sobre el desplaçament en immersió ha estat extret de '' Midget Submarines of the Second World War '', atès que la dada referida en '' Submarines of the Imperial Japanese Navy 1904-1945 '' (18, 6 tones) és sens dubte excessiu. /ref
+|eslora = 14,7 metres
+|mànega = 1 metre
+|armament = 1.542 [[kg]] d'alt explosiu
+|propulsió = Motor d'oxigen i querosè, 2 hèlixs coaxials contrarrotativas
+|potencia_inmersión = 550 [[hp]]
+|velocidad_inmersión = 30 [[nus (unitat)|nusos]]
+|profunditat =
+|autonomia = 78 quilòmetres a 12 nusos
+|tripulació = 1
+|notes = Dades extretes '' Submarines of the Imperial Japanese Navy 1904-1945 ''.
+}}
+
+Els {{nihongo|''' '' Kaiten ''' ''|回 天}} van ser una sèrie de [[torpede humà|torpedes humans]] suïcides que va emprar l'[[Armada Imperial Japonesa]] durant les acaballes de la [[Segona Guerra Mundial]].
+
+== Desenvolupament ==
+Els '' Kaiten '' van ser una iniciativa de dos joves oficials navals, tots dos pilots de [[minisubmarí]] s, que van idear durant 1942 la creació d'un torpede tripulat prenent com a base l'excel·lent [[torpede Tipus 93]] llavors en servei. El disseny va estar llest al gener de 1943, i després ser-los requerit un sistema d'escapament per al pilot, es va autoritzar la creació d'un prototip al febrer de 1944. Al juny d'aquest any, ia causa de les pèrdues navals japoneses en les Mariannes, es va donar total prioritat al projecte. Per augmentar el secret sobre aquest, el terme per referir-se als '' Kaiten '' era '' Accessori metàl·lic Maru 6 ''.ref Carpenter, p. 137. /ref
+
+== Disseny ==
+Bàsicament, un '' Kaiten '' era un torpede Tipus 93 al que se li afegia un casc eixamplat on ubicar un pilot, tancs de llast per permetre la immersió i dipòsits d'aire comprimit. El pilot disposava d'un periscopi, però no tenia ràdio o [[sonar]]. Els '' Kaiten '' podien ser desplegats des d'unitats de superfície, però l'habitual era emprar un submarí nodrissa. El pilot podia abordar el '' Kaiten '' des del submarí en immersió a través d'un accés preparat a aquest efecte, i mantenir-se en comunicació telefònica per rebre dades de l'objectiu fins al moment de ser alliberat. Els primers exemplars del Tipus 1 només tenien una escotilla d'accés, de manera que els pilots havien d'abordar-los des unitats de superfície o bé en un submarí emergit. Per facilitar el desplegament en combat, es va afegir l'accés a través d'una segona escotilla, a la part inferior.
+
+Hi va haver cinc tipus diferents de '' Kaiten ''. El Tipus 1 va ser del que més unitats es van construir, 330. El Tipus 2 emprava un innovador motor de [[peròxid d'hidrogen]] i [[querosè]], però la dificultat en desenvolupar aquests motors va limitar la seva fabricació a unes poques unitats. Del Tipus 3 hi va haver un únic exemplar experimental amb motor d'[[oxigen]] i querosè, mentre que del Tipus 4, que emprava un nou motor alimentat com el del Tipus 3, es van construir 50 unitats. Finalment, el Tipus 10 consistia en un [[torpede Tipus 92]] amb una secció central afegida en la qual se situava el pilot. A causa del seu motor elèctric, el rendiment era molt inferior comparat al de la resta de '' Kaiten ''.
+
+[[Fitxer: Kaiten torpedo type 1 schematic-1.svg|300px||thumb|'' Kaiten '' Tipus 1.]]
+[[Fitxer: Kaiten torpedo type 2 schematic-1.svg|300px||thumb|'' Kaiten '' Tipus 2.]]
+[[Fitxer: Kaiten torpedo type 4 schematic-1.svg|300px||thumb|'' Kaiten '' Tipus 4.]]
+[[Fitxer: Kaiten torpedo type 10 schematic-1.svg|300px||thumb|'' Kaiten '' Tipus 10.]]
+
+== Historial de servei ==
+L'èxit dels '' Kaiten '' va ser escàs, tenint l'enfonsament d'un destructor d'escorta,ref Stille, p. 36. /ref el [[USS Underhill (DE-682)|USS '' Underhill '']], com el seu principal èxit. No només no van infligir excessives pèrdues, sinó que els submarins nodrissa que els desplegaven van patir considerables baixes.ref Stille, p. 47. /ref
+
+== Referències ==
+{{referències|2}}
+
+== Bibliografia ==
+*{{citar llibre
+|cognom = Carpenter
+|nom = Dorr
+|coautors = Polmar, Norman
+|títol = Submarines of the Imperial Japanese Navy 1904-1945
+|data =
+|any = 1986
+|editorial = Conway Maritime Press Ltd
+|lloc = Londres
+|llengua = anglès
+|isbn = 0 85177 396 6
+|pàgines = 137-138
+|capítol = Human Torpedoes
+}}
+*{{citar llibre
+|cognom = Stille
+|nom = Mark
+|títol = Imperial Japanese Navy Submarines 1941-45
+|data =
+|any = 2007
+|editorial = Osprey Publishing Ltd
+|lloc = Oxford
+|llengua = anglès
+|isbn = 978 1 84603 090 1
+|pàgines = 47
+}}
+*{{citar llibre
+|cognom = Kemp
+|nom = Paul
+|títol = Midget Submarines of the Second World War
+|data =
+|any = 1999
+|editorial = Caxton Editions
+|lloc = Londres
+|llengua = anglès
+|isbn = 1 84067 521 7
+|pàgines = 54
+|capítol = The Japanese '' Kaiten ''
+}}
+*{{citar ref
+|cognom = Hackett
+|nom = Bob
+|any = 2001-2010
+|url = http://combinedfleet.com/ships/kaiten
+|títol = Kaiten Special Attack Submarine
+|obra = CombinedFleet.com
+|llengua = anglès
+}}
+
+== Enllaços externs ==
+{{Commonscat}}
+{{Commons|}}
+* [http://wgordon.web.wesleyan.edu/kamikaze/museums/kaiten/Kaiten Memorial Museum] (en anglès)
+
+== Nota == 
+references/ 
+
+[[Categoria:Submarins]]
+[[Categoria:Kamikazes]]
+[[Categoria:Segona Guerra Mundial]]</text>
+      <sha1>qquiaqx5zetgdv1by2bce8r4bx064g1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

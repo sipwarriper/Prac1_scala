@@ -1,0 +1,279 @@
+<page>
+    <title>Intoxicació alimentària</title>
+    <ns>0</ns>
+    <id>702911</id>
+    <revision>
+      <id>13845892</id>
+      <parentid>13629210</parentid>
+      <timestamp>2014-07-16T12:42:54Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>Una '''intoxicació alimentària''' és una [[malaltia]] transmissible, sovint una [[malaltia infecciosa]] i accidental, que es desenvolupa després d'haver ingerit [[aliment]]s sòlids o líquids contaminats per agents patògens que poden ser [[bacteri]]s, [[virus]], [[paràsit]]s o [[Prió|prions]]. També es considera intoxicació alimentària les provocades per laingestió de productes no comestibles tòxics (intoxicacions medicamentoses, [[metall pesant|metalls pesants]], enverinaments per [[bolet]]s, productes químics etc.). Una intoxicació alimentària pot també ser el resultat d'una gran absorció d'un aliment. A [[Catalunya]] una '''intoxicació alimentària col·lectiva''' és una [[malaltia de declaració obligatòria]]. L'acció de monitorar els aliments per assegurar-se que no provocaran una malaltia transmesa per via alimentària es coneix com [[seguretat alimentària]].
+
+==Signes i símptomes==
+En les intoxicacions alimentàries de causa vírica o bacteriana els [[símptoma|símptomes]] típicament comencen d'algunes hores a alguns dies després del consum i depenent de l'agent involucrat, poden incloure un o més dels següents: [[nàusea]], [[dolor abdominal]], [[vòmit]], [[diarrea]], [[gastroenteritis]], [[febre]], [[mal de cap]] o [[cansament]].
+
+En la majoria dels casos el cos és capaç de recuperar-se després d'un malestar agut, Tanmateix les intoxicacions alimentàries poden donar lloc a problemes permanents de salut o fin i tot la mort, especialment en gent amb alt risc, incloent-hi nadons, gent jove, dones embarassades ( i els seus fetus), gent vella, gent malalta i altres amb el sistema immune afeblit. 
+
+les intoxicacions degudes a infeccions de ''[[Campylobacter]], [[Yersinia]], [[Salmonella]]'' o ''[[Shigella]]'' és una causa principal per a contraure [[artritis reactiva]], que típicament ocorre després de una a tres setmanes de malaltia diarreica. De forma similar les persones amb malaltia que afecta el [[fetge]] són especialment susceptibles a les infeccions de ''[[Vibrio vulnificus]],'' que es poden trobar a les [[ostra|ostres]] o [[cranc]]s.
+
+L'enverinament amb [[tetrodotoxina]] per peixos dels esculls i altres animals es manifesten ràpidament amb [[parestèsia]] (sensació anormal dels sentits) i [[dispnea]] (dificultat respiratòria), i sovint és mortal.
+
+==Causes==
+[[Fitxer:Foodinfridgetext.jpg|thumb|Aliments mal emmagatzemats al frigorífic]]
+Sovint les causes de la intoxicació provenen d’una deficient preparació o emmagatzemament dels aliments. Cal seguir bones pràctiques higièniques per a reduir les oportunitats de contraure aquestes malalties. Rentar-se bé les mans és important. També les toxines del medi ambient causen la malaltia. 
+
+Altres causants són quan els aliments contenen [[plaguicida|plaguicides]], [[medecina|medecines]] i substàncies naturals [[tòxic|tòxiques]] com [[bolet verinós|bolets verinosos]] o [[tetrodotoxina]].
+
+===Bacteris===
+Els [[bacteri]]s són una cauusa comuna d’intoxicació alimentària. Al [[Regne Unit]] durant l’any  2000 estaven implicats : ''[[Campylobacter jejuni]]'' 77.3%, ''[[Salmonella]]'' 20.9%, ''[[Escherichia coli O157:H7]]'' 1,4%, i tots els altres menys del  0.1%.ref[http://www.food.gov.uk/science/sciencetopics/microbiology/58736 Food Standards Agency]/ref
+Normalment cal de 12 a 72 hores o més, perquè es presentin símptomes bacterians. 
+Bacteris patògens molt comuns són:
+* ''[[Campylobacter|Campylobacter jejuni]]'' que poden portar secundàriament a la [[Síndrome Guillain–Barré ]] i la [[periodontitis]]ref name=cazp{{cite journal
+| last = Humphrey
+| first = Tom ''et al.''
+| authorlink =
+| coauthors =
+| title = Campylobacters as zoonotic pathogens: A food production perspective internet
+| journal = International Journal of Food Microbiology
+| volume = 117
+| issue = 3
+| publisher =
+| doi = 10.1016/j.ijfoodmicro.2007.01.006
+| year = 2007
+| url = http://www.sciencedirect.com/science?_ob=ArticleURL_udi=B6T7K-4N0PPRG-1_user=10_coverDate=07%2F15%2F2007_rdoc=1_fmt=_orig=search_sort=dview=c_acct=C000050221_version=1_urlVersion=0_userid=10md5=74b7c07635a1873ca815b3139b56d2e0
+| pages = 237
+| pmid = 17368847
+| last2 = O'Brien
+| first2 = S
+| last3 = Madsen
+| first3 = M}}
+/ref
+* ''[[Clostridium perfringens]]'', el germen de la cafeteriaref name=USDA
+{{cite web
+| title = Foodborne Illness: What Consumers
+Need to Know
+| last = USDA
+| first =
+| authorlink =
+| coauthors =
+| accessdate = 2008
+| url = http://www.fsis.usda.gov/Fact_Sheets/Foodborne_Illness_What_Consumers_Need_to_Know/index.asp
+| publisher = }}
+/ref
+* ''[[Salmonella]]'' spp. – la seva infecció ''[[S. typhimurium]]'' és causada pel consum d’ous no ben cuits o per altres patògensref name=aoostpt
+{{cite web
+| last = Tribe
+| first = Ingrid G. ''et al.''
+| authorlink =
+| coauthors =
+| title = An outbreak of Salmonella typhimurium phage type 135 infection linked to the consumption of raw shell eggs in an aged care facility internet
+| publisher =
+| accessdate = 29 d'agost de 2008
+| url = http://www.health.gov.au/internet/main/Publishing.nsf/Content/cda-pubs-cdi-2002-cdi2601-cdi2601h.htm}}
+/refref name=sisaa
+{{cite web
+| last = Centers for Disease Control and Prevention
+| first =
+| authorlink =
+| coauthors =
+| title = Salmonella Infection (salmonellosis) and Animals internet
+| publisher =
+| accessdate = 12 d'agost de 2007
+| url = http://www.cdc.gov/healthypets/diseases/salmonellosis.htm}}
+/refref name=rcfp
+{{cite web
+| last = Doyle
+| first = M. P.
+| authorlink =
+| coauthors = M. C. Erickson
+| title = Reducing the carriage of foodborne pathogens in livestock and poultry internet
+| publisher =
+| accessdate = 12 d'agost de 2007
+| url = http://www.poultryscience.org/ps/paperpdfs/06/p0660960.pdf|format=PDF}}
+/ref[[Fitxer:SalmonellaNIAID.jpg|right|200px|thumb|''Salmonella'']]
+* ''[[Escherichia coli O157:H7]]'' enterohemorràgica (EHEC) que causa [[síndrome hemolítico-urèmic]]
+
+Altres bacteris patògens comuns són:
+* ''[[Bacillus cereus]]''
+* ''[[Escherichia coli]]'', altres propietats virulentes d'escherichia coli, com les enteroinvasives  (EIEC), enteropatogèniqus (EPEC), enterotoxigèniques (ETEC), enteroagregatives  (EAEC o EAgEC)
+* ''[[Listeria monocytogenes]]''
+* ''[[Shigella]]'' spp.
+* ''[[Staphylococcus aureus]]''
+* ''[[Streptococcus]]''
+* ''[[Vibrio cholerae]]'', incloent-hi O1 i no-O1
+* ''[[Vibrio parahaemolyticus]]''
+* ''[[Vibrio vulnificus]]''
+* ''[[Yersinia enterocolitica]]'' i ''[[Yersinia pseudotuberculosis]]''
+
+'''Agents bacterians menys comuns són:
+* ''[[Brucella]]'' spp.
+* ''[[Actinobacteria|Corynebacterium ulcerans]]''
+* ''[[Coxiella burnetii]]'' causant de la [[Febre Q]].
+* ''[[Plesiomonas shigelloides]]''
+
+====Exotoxines====
+Les exotoxines són productes d'excreció de les cèl·lules dels bacteris i poden provocar malalties encara que els microbis ja hagin mort. Els símptomes típicament apareixen després d’1 a 6 hores. 
+* ''[[Clostridium botulinum]]'' causant del mortal [[botulisme]]. 
+* ''[[Clostridium perfringens]]''
+* ''[[Staphylococcus aureus]]''
+* ''[[Bacillus cereus]]''
+
+Per exemple ''[[Staphylococcus aureus]]'' produeix una toxina que causa vòmits intensos. En el cas del [[botulisme]] el bacteri implicat és ''[[Clostridium botulinum]]'' en créixer en aliments enllaunats mal fabricats. 
+''[[Pseudoalteromonas tetraodonis]]'', certes espècies de ''[[Pseudomonas]]'' i ''[[Vibrio]],'' i alguns altres bacteris, produeixen la mortal [[tetrodotoxina]].
+
+=== Micotoxines micotoxicosis alimentàries===
+El terme '''micotoxicosis alimentàries ''' es refereix a l'efecte d’enverinament per [[micotoxina]] a través del menjar.  Per exemple el 1960, al Regne Unit, 100.000 gall d'indis moriren per haver consumit cacauets contminats amb [[aflatoxina]] i a la Unió Soviètica durant la Segona Guerra Mundial 5.000 persones moriren per haver consumit Aleukia tòxica alimentària (ALA).ref name=fam{{cite web| last = E. Mount| first = Michael| authorlink =| coauthors =| title = Fungi and Mycotoxins internet| publisher =| accessdate = 11 d'agost de 2007
+| url = http://www.vetmed.ucdavis.edu/PHR/PHR250/2007/25007Myc.pdf|format=PDF}}
+/ref
+Les micotoxines alimentàries comunes inclouen:
+* Aflatoxines originades per ''[[Aspergillus parasiticus]]'' i ''[[Aspergillus flavus]].'' Es troben en fruits secs i altres fruits oleaginosos  Les formes d’aflatoxines són B1, B2, G1, i G2, i poden conduir a la [[necrosi]], [[cirrosi]], i [[carcinoma]].ref name=afltx{{cite web| last = Center for Food Safety  Applied Nutrition| title = Aflatoxins internet | accessdate = 12 d'agost de 2007| url = http://www.fda.gov/Food/FoodSafety/FoodborneIllness/FoodborneIllnessFoodbornePathogensNaturalToxins/BadBugBook/ucm071020.htm}}
+/ref
+ref name=gtlmg{{cite web| last = Food and Agriculture Organization of the United Nations| title = GASGA Technical Leaflet - 3 Mycotoxins in Grain internet| publisher =| accessdate = 12 d'agost de 2007| url = http://www.fao.org/Wairdocs/X5008E/X5008e01.htm}}
+/ref 
+Als Estats Units són acceptables nivells d'aflatoxines menors de 20 μg/kg, excepte for per Aflatoxina M1 en la llet amb menys de 0,5 μg/kg.ref name=cfh{{cite web| last = World Health Organization| title = Chapter 2 Foodborne Hazards in ''Basic Food Safety for Health Workers'' internet| accessdate = 12 d'agost de 2007 
+| url = http://www.who.int/entity/foodsafety/publications/capacity/en/2.pdf|format=PDF}}
+/ref 
+El document oficial és disponible al lloc web de la [[Food and Drug Administration|FDA]].ref name=sec683100{{cite web| last = Food and Drug Administration | title = Sec. 683.100 Action Levels for Aflatoxins in Animal Feeds (CPG 7126.33) internet| accessdate = 13 d'agost de 2007 | url = http://www.fda.gov/ora/compliance_ref/cpg/cpgvet/cpg683-100.html}}/ref
+ref name=mfcvmp{{cite web| last = Henry| first = Michael H.| title = Mycotoxins in Feeds: CVM’s Perspective internet| accessdate = 13 d'agost de 2007| url = http://www.fda.gov/cvm/fdaaustintx823.htm}}/ref
+* Les altertoxines – les origina el fong [[Alternaria]] spp. n’hi pot haver al [[sorgo]], blat i tomàquets.ref name=atwdw
+{{cite web| last =  Webley| first =  D. J. ''et al.''| title = Alternaria toxins in weather-damaged wheat and sorghum in the 1995-1996 Australian harvest internet| accessdate = 13 d'agost de 2007| url = http://www.publish.csiro.au/paper/A97005.htm}}
+/refref name=amwwc{{cite web| last =  Li| first =  Feng-qin | coauthors = Takumi Yoshizawa | title = Alternaria Mycotoxins in Weathered Wheat from China internet | accessdate = 13 d'agost de 2007 | url = http://pubs.acs.org/cgi-bin/abstract.cgi/jafcau/2000/48/i07/abs/jf0000171.html}}
+/refref name=sbtp{{cite web| last =  da Motta| first =  Silvana| authorlink =| coauthors = Lucia M. Valente Soares
+| title = Survey of Brazilian tomato products for alternariol, alternariol monomethyl ether, tenuazonic acid and cyclopiazonic acid internet| publisher =| accessdate = 13 d'agost de 2007| url = http://www.informaworld.com/smpp/content~content=a713810863~db=all}}
+/ref Seembla que hi pot haver contaminació creuada de les toxines sobretot en magatzem.ref name=pamaa
+{{cite web
+| last =  Li
+| first =  F. Q. ''et al.''
+| authorlink =
+| coauthors =
+| title =  Production of Alternaria Mycotoxins by Alternaria alternata Isolated from Weather-Damaged Wheat internet
+| publisher =
+| accessdate = 13 d'agost de 2007
+| url = http://www.ingentaconnect.com/content/iafp/jfp/2001/00000064/00000004/art00025}}
+/ref
+* Citrinina
+* Citreoviridina
+* [[Àcid ciclopiazònic]]
+* [[Citocalasina]]
+* [[Ergotamina]] / [[Ergopeptina]]
+* [[Fumonisina]] – pel fong [[Fusarium moniliforme]], i la sevas [[Fumonisina B1]] en humans pot causar càncer esofàgic.ref name=ftihah
+{{cite web
+| last = Marasas| first = Walter F. O.| title = Fumonisins: Their implications for human and animal health internet| accessdate = 12 August 2007| url = http://www3.interscience.wiley.com/cgi-bin/abstract/112640083/ABSTRACT?CRETRY=1SRETRY=0}}
+/refref name=off{{cite web| last = Soriano| first = J.M.| authorlink =| coauthors = S. Dragacci| title = Occurrence of fumonisins in foods internet| publisher =| accessdate = 12 d'agost de 2007| url = http://www.sciencedirect.com/science?_ob=ArticleURL_udi=B6T6V-4D636PW-1_user=10_coverDate=01%2F01%2F2004_rdoc=1_fmt=_orig=search_sort=dview=c_acct=C000050221_version=1_urlVersion=0_userid=10md5=4a033a232e75e4ebf3ee269c06744491}}/ref
+Nivell de toxines regulades per la FDA i la Unió Europea.ref name=CVMF{{cite web| last = Food and Drug Administration| first =
+| authorlink =| coauthors =| title = CVM and Fumonisins internet| publisher =| accessdate = 13 d'agost de 2007| url = http://www.fda.gov/cvm/fumonisin.htm}}/ref
+ref name=mcmmp{{cite web| last = Food Standards Agency| first =| authorlink =| coauthors =| title = More contaminated maize meal products withdrawn from sale internet| publisher =| accessdate = 12 d'agost de 2007| url = http://www.food.gov.uk/news/newsarchive/2003/sep/moremaize}}/ref
+* Àcid fusàric
+* Fusarocromanona
+* [[Àcid Kojic]]
+* Alcaloide Lolitrem
+* Moniliformina
+* Àcid 3-Nitropropiònic 
+* Nivalenol
+* [[Ocratoxina]] – A Austràlia el límit és 1nbsp;µg/kg,ref name=2atds
+{{cite web| last = Food Standards Australia New Zealand| title =  20th Australian Total Diet Survey – Part B internet| accessdate = 13 d'agost de 2007| url = http://www.foodstandards.gov.au/newsroom/publications/20thaustraliantotaldietsurveyjanuary2003/20thaustraliantotaldietsurveyfullreport/partb20thatds/partbmetals.cfm}}/ref
+a la Unió Europea es restringeix OTA a 5nbsp;µg/kg en cereals, 3nbsp;µg/kg en productes processats i 10nbsp;µg/kg en panses de raïm.ref name=wrmff{{cite web| last = FAO FOOD AND NUTRITION PAPER 81| first =| authorlink =| coauthors =| title =  Worldwide regulations for mycotoxins in food and feed in 2003 internet| publisher =| accessdate = 13 d'agost de 2007| url = http://www.fao.org/docrep/007/y5499e/y5499e0f.htm}}/ref
+* Oosporeine
+* [[Patulina]] –.ref name=wrmff{{cite web| last = FAO FOOD AND NUTRITION PAPER 81| first =| authorlink =| coauthors =| title =  Worldwide regulations for mycotoxins in food and feed in 2003 internet| publisher =| accessdate = 13 d'agost de 2007| url = http://www.fao.org/docrep/007/y5499e/y5499e0f.htm}}/ref
+ref name=pajajc{{cite web| last = Food and Drug Administration| first =| authorlink =| coauthors =| title =  Patulin in Apple Juice, Apple Juice Concentrates and Apple Juice Products internet| publisher =| accessdate = 16 d'agost de 2007| url = http://vm.cfsan.fda.gov/~dms/patubckg.html}}/ref
+* Phomopsins
+* Sporidesmin A
+* [[Sterigmatocystin]]
+* Micotoxines tremorgèniques.ref name=gaftm
+{{cite web| last = Sabater-Vilar| first = M. | title =   Genotoxicity Assessment of Five Tremorgenic Mycotoxins (Fumitremorgen B, Paxilline, Penitrem A, Verruculogen, and Verrucosidin) Produced by Molds Isolated from Fermented Meats internet| accessdate = 16 d'agost de 2007| url = http://www.ingentaconnect.com/content/iafp/jfp/2003/00000066/00000011/art00023}}/ref
+* [[Tricotcena]] – provinents de Cephalosporium, [[Fusarium]], Myrothecium, [[Stachybotrys]] i [[Trichoderma]]. T.ref name=ofst{{cite web
+| last = Adejumo| first = Timothy O. | title = Occurrence of Fusarium species and trichothecenes in Nigerian maize internet
+| publisher =  Elsevier | accessdate = 12 d'agost de 2007| url = http://www.sciencedirect.com/science?_ob=ArticleURL_udi=B6T7K-4N5CX4H-3_user=10_coverDate=05%2F30%2F2007_rdoc=1_fmt=_orig=search_sort=dview=c_acct=C000050221_version=1_urlVersion=0_userid=10md5=d02d1b28456dfbef669d57692ac28244}}/ref
+ref name=snhe{{cite web| last = Mazur| first = Lynnette J. | coauthors = Janice Kim | title = Spectrum of Noninfectious Health Effects From Molds internet | publisher =  American Academy of Pediatrics | accessdate = 12 d'agost de 2007 | url = http://pediatrics.aappublications.org/cgi/content/full/118/6/e1909}}/ref 
+Quatre tricotecenes, T-2 toxin, HT-2 toxin, diacetoxyscirpenol (DAS) i [[deoxynivalenol]] (DON) s’han trobat en animals i humans.ref name=tthm{{cite web| last = Froquet| first = R. | coauthors =''et al.'' | title = Trichothecene toxicity on human megakaryocyte progenitors (CFU-MK) internet | publisher =  SAGE Publications | accessdate = 12 d'agost de 2007 | url = http://het.sagepub.com/cgi/content/abstract/20/2/84}}/ref
+ref name=csytt{{cite web| last = Joffe| first = A. Z.| authorlink =| coauthors = B. Yagen| title = Comparative study of the yield of T-2 toxic produced by Fusarium poae, F. sporotrichioides and F. sporotrichioides var. tricinctum strains from different sources internet
+| publisher =  SAGE Publications | accessdate = 12 d'agost de 2007 | url = http://het.sagepub.com/cgi/content/abstract/20/2/84}}/ref
+ref name=fis{{cite web| last =  Hay| first =  Rod J. | coauthors = B. Yagen | title = Fusarium infections of the skin internet | accessdate = 12 d'agost de 2007 | url = http://www.co-infectiousdiseases.com/pt/re/coinfdis/abstract.00001432-200704000-00002.htm;jsessionid=G2JGL27MSRdb4TS82LyckCgxLH2zJLX3ynBfjz5kjMyfh4WpVkLg!1152499061!181195629!8091!-1}}/ref 
+In 1993, the [[Food and Drug Administration|FDA]] issued a document for the content limits of DON in food and animal feed at an advisory level.ref name=gifda{{cite web| last = Food and Drug Administration | title = Guidance for Industry and FDA - Letter to State Agricultural Directors, State Feed Control Officials, and Food, Feed, and Grain Trade Organizations internet | accessdate = 13 August 2007 | url = http://www.cfsan.fda.gov/~dms/graingui.html}}/ref 
+L'any 2003, es publica als EUA una [[patent]] que és molt prometedora per als granjers per a produir cultiu resistent als tricotecens.ref name=trtp{{cite web| last = Hohn| first = Thomas M. | title =  Trichothecene-resistant transgenic plants internet | accessdate = 13 d'agost de 2007 | url = http://www.patentstorm.us/patents/6646184.html}} /ref
+* [[Zearalenone]]
+* Zearalenols
+
+====Altres patògens====
+Moltes intoxicacions alimentàries són mal conegudes. Aproximadament el 60 per cent aón de fonts desconegudes. 
+* ''[[Aeromonas hydrophila]]'', ''Aeromonas caviae'', ''Aeromonas sobria''
+
+===Virus===
+Les infeccions [[Virus|virals]] segurament representen un terç dels casos. Als Estats Units els virus del grup Norwalk representen un 50% de les infeccions víriques alimentàries. Les infeccions per virus tenen un període d’incubació d’entre 1 i 3 dies.   
+* [[Enterovirus]]
+* [[Hepatitis A]]  El virus es troba quan hi ha contaminació fecal.ref name=ivcma{{cite web | last = Dubois | first = Eric | coauthors =''et al.'' | title = Intra-laboratory validation of a concentration method adapted for the enumeration of infectious F-specific RNA coliphage, enterovirus, and hepatitis A virus from inoculated leaves of salad vegetables spt on from mexican migrant workers. internet| accessdate = 11 d'agost de 2007 | url = http://www.sciencedirect.com/science?_ob=ArticleURL_udi=B6T7K-4HYMVXK-4_user=10_coverDate=04%2F25%2F2006_rdoc=1_fmt=_orig=search_sort=dview=c_acct=C000050221_version=1_urlVersion=0_userid=10md5=29d010eafc89179a9a66fd24a4b44e21}}/ref
+ref name=imqsf{{cite web | last = Schmidt | first = Heather Martin | title = Improving the microbilological quality and safety of fresh-cut tomatoes by low dose dlectron beam irradiation - Master thesis internet | accessdate = 11 d'agost de 2007 | url = http://txspace.tamu.edu/bitstream/1969.1/2767/1/etd-tamu-2004B-FSTC-Schmidt.pdf|format=PDF}}/ref
+* [[Hepatitis E]]
+* [[Norovirus]]
+* [[Rotavirus]]
+[[Fitxer:Rotavirus.jpg|right|200px|thumb|Rotavirus]]
+
+===Paràsits===
+la majoria causen [[zoonosis]].
+*[[Platyhelminta]]:
+** ''[[Diphyllobothrium]]'' sp.
+** ''Nanophyetus'' sp.
+** ''[[Taenia saginata]]''
+** ''[[Taenia solium]]'' 
+** ''[[Fasciola hepatica]]''
+* [[Nematode]]s:
+** ''[[Anisakis]]'' sp.
+** ''[[Ascaris lumbricoides]]''
+** ''[[Eustrongylides]]'' sp.
+** ''[[Trichinosis|Trichinella spiralis]]''
+** ''[[Trichuris trichiura]]''
+*[[Protozoa]]:
+** ''[[Acanthamoeba]]'' i altres [[amoeba]] de vida lliure
+** ''[[Cryptosporidiosis|Cryptosporidium parvum]]''
+** ''[[Cyclospora cayetanensis]]''
+** ''[[Entamoeba histolytica]]''
+** ''[[Giardia lamblia]]''[[Fitxer:Giardia lamblia.jpg|right|200px|thumb|Imatge de [[Microscopi electrònic de rastreig|SEM]] d'una cèl·lula de ''Giardia lamblia'' ]]
+** ''Sarcocystis hominis''
+** ''Sarcocystis suihominis''
+** ''[[Toxoplasma gondii]]''
+
+===Toxines naturals===
+* [[Alcaloide]]s
+* Enverinament per [[Ciguatera]]
+* [[Grayanotoxina]] (intoxicació per la [[mel]] )
+* Toxines de bolets verinosos
+* [[Fitohaemaglutinina]] (desapareicx en bullir)
+* Alcaloides de [[Pirrolizidina]]
+* Toxines del [[musclo]] 
+* [[Escombrotoxina]]
+* [[Tetrodotoxina]] ([[Peix fugu]] )
+
+Algunes plantes medicinals però tòxiques segons la dosi. 
+* [[Didalera]] 
+* [[Conium]].
+
+===Altres agents patògenss===
+* [[Prió]], (malaltia deCreutzfeldt-Jakob)
+
+== Transmissió ==
+Els assalariats malalts que manipulen els aliments són una de les fonts més importants de transmissió per via alimentària. Algunes malalties freqüents són transmeses als aliments per l'aigua que en aquest cas serà el vector. Entre elles hi ha les [[infecció|infeccions]] provocades per  les ''[[Shigella]]'', l’''[[hepatitis A]]'' i els paràsits com ''[[Giardia lamblia]]'' i ''[[Cryptosporidiosis|Cryptosporidium parvum]]''.
+
+== Notes i referències ==
+{{Referències|2}}
+
+== Enllaços externs ==
+* [http://www.who.int/mediacentre/factsheets/fs124/fr/ Maladies émergentes transmises par les aliments], [[Organització Mundial de la Salut]], Aide-mémoire N°124, révisé janvier 2002 
+* [http://www.who.int/mediacentre/factsheets/fs237/fr/ Salubrité des aliments et maladies d'origine alimentaire], [[Organització Mundial de la Salut]], Aide-mémoire N°237, révisé janvier 2002 
+* [http://www.invs.sante.fr/publications/2004/inf_origine_alimentaire/grilleLecture.pdf Rapport abrégé de l'INVS/Afssa] ({{pdf}}, 5p, 60 Ko)
+* [http://www.invs.sante.fr/surveillance/tiac/publications.htm Pages du site InVS sur les TIAC]
+* [http://www.invs.sante.fr/publications/2004/inf_origine_alimentaire/inf_origine_alimentaire.pdf Rapport complet de l'INVS/Afssa] ({{pdf}}, 192p, 660 Ko)
+* [http://fcorpet.free.fr/Denis/CoursHidaoaHaccpHygieneSecuriteQualiteAliments.html Cours sur les TIAC], poly 28 p. illustrées, prof. Corpet, École nationale vétérinaire de Toulouse 2006.
+* [http://www.mapaq.gouv.qc.ca/NR/rdonlyres/D1AB08A8-D971-4224-B917-C6BFCE998D32/C6BFCE998D32/0/BilanAnnuel20052006vitrine.pdf Bilan annuel Toxi-infections alimentaires et Plaintes au Canada, du 1 avril 2005 au 31 mars 2006]
+{{Autoritat}}
+
+[[Categoria:Intoxicacions alimentàries| ]]</text>
+      <sha1>qjmezxl8od5z28fuvll5dgat77uc9by</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

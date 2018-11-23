@@ -4,7 +4,7 @@
 		module="similitud_entre_documents-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181118141317"
+		publication="20181123123746"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

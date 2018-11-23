@@ -1,0 +1,53 @@
+<page>
+    <title>Instrument nàutic</title>
+    <ns>0</ns>
+    <id>577321</id>
+    <revision>
+      <id>13338236</id>
+      <parentid>13231025</parentid>
+      <timestamp>2014-05-06T16:43:48Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>Un '''instrument nàutic''' o de '''navegació''' és una eina usada en el pilotatge de [[embarcació|naus]]. La finalitat del pilotatge o [[navegació]] és determinar la posició present així com el [[rumb]] i [[velocitat]] òptims per arribar al punt de destinació. Entre les eines utilitzades al llarg de la història pels pilots nàutics hi ha:
+
+* [[Almanac nàutic]] sabent l'hora exacta serveix per poder determinar la posició geomètrica d'un astre, Això és necessari per al càlcul de la longitud geogràfica.
+* [[Anullo]] o anell, instrument utilitzat per mesurar l'altura del sol sobre l'horitzó.
+* [[Astrolabi]] utilitzat per mesurar l'altura dels astres sobre l'horitzó. Va ser inventat pels antics grecs però es va perdre a Europa fins que va ser reintroduït a la península Ibèrica pels àrabs al segle XI. Dos segles després es feia servir a tota Europa arribant al seu apogeu al segle XV després del qual va ser gradualment substituït pel [[quadrant de Davis]] i després pel [[Sextant (instrument de mesura)|sextant]].
+* [[Brúixola|Brúixola magnètica]] per determinar el rumb magnètic.
+* [[Carta nàutica|Cartes nàutiques]] que són mapes o plànols a escala de les zones en què el vaixell navega
+* [[Compàs de marcacions]] serveix per determinar [[Marcatge (Nàutica)|marcacions]] magnètiques d'objectes observats
+* [[Compàs de puntes]] per mesurar distàncies.
+* [[Corredora]] i [[ampolleta (nàutica)|ampolleta]] utilitzats per determinar la velocitat de la nau amb relació a l'aigua. Avui han caigut en desús en ser reemplaçats per la corredissa electrònica.
+* [[Cronòmetre nàutic]] utilitzat per determinar l'hora amb gran precisió la qual cosa és necessari per a la determinació de la longitud geogràfica.
+* Instruments i eines de càlcul per a la realització dels necessaris càlculs matemàtics. Avui dia han estat substituïts per calculadores i ordinadors digitals però tradicionalment es feien servir taules (trigonomètriques, de logaritmes, etc.), [[Regla de càlcul]], etc.
+* [[Kamal]] senzill instrument d'origen àrab que servia per mesurar l'altura dels astres sobre l'horitzó. Consistia en una tauleta perforada en el seu centre amb un forat per on passava un cordill nuat que l'observador subjectava entre les dents.
+* [[Llapis]], [[goma d'esborrar]] i altres instruments de [[dibuix]].
+* [[Nocturlabi]] es feia servir per determinar l'hora mitjançant l'observació de les estrelles.
+* [[Quadrant (nàutica)|Quadrant]], senzill instrument utilitzat per mesurar l'altura d'un astre sobre l'horitzó. Va ser desplaçat per altres instruments més moderns.
+* [[Quadrant de Davis]] utilitzat per mesurar l'altura d'un astre sobre l'horitzó. Reemplaçar a la ballesta i va ser substituït al seu torn pel sextant.
+* [[Regles paral·lels]] utilitzats per a traçar paral·leles sobre la carta.
+* [[Sextant (instrument de mesura)|Sextant]] és el més modern dels instruments òptics utilitzats per determinar l'alçada d'un astre sobre l'horitzó. L'octant és essencialment el mateix instrument amb la sola diferència de l'arc que cobreix. El sextant va fer obsolets tots els instruments usats anteriorment per determinar l'alçada dels astres.
+* [[Sonda nàutica]] per determinar la profunditat i naturalesa del fons. Consistia en un cap a l'extrem anava un pes de plom amb una cavitat a la part inferior en la qual es posava sèu perquè en tocar fons es pegués una mostra. Aquest tipus de sonda ha caigut en desús substituït per la sonda electrònica.
+* [[Taxímetre (nàutica)|Taxímetre]], cercle azimutals que serveix per determinar la [[demora nàutica]] d'objectes observats
+* [[Vara de Jacob]] senzill instrument en forma de creu que servia per mesurar l'altura dels astres sobre l'horitzó.
+
+Aquests instruments eren els tradicionals fins a gairebé finals del segle XX. Després de la [[Segona Guerra Mundial]] van començar a aparèixer instruments electrònics que van suposar un canvi radical en les tècniques de pilotatge i navegació. A més dels ja citats corredissa i sonda electròniques van aparèixer
+* [[Radar]], serveix per determinar la demora i distància d'un objecte. Funciona mitjançant l'emissió de polsos de microones i la recepció dels ecos reflectits pel blanc.
+* Sistemes electrònics d'ajuda a la navegació com el [[Decca]] i el [[LORAN]] que permeten que un vaixell equipat amb un receptor adequat pogués determinar la seva posició mitjançant la recepció d'ones electromagnètiques emeses des d'estacions terrestres.
+* Sistemes electrònics d'ajuda a la navegació com el [[Sistema de posicionament global]] i el [[Glonass]] que permeten que un vaixell equipat amb un receptor adequat pugui determinar la seva posició mitjançant la recepció d'ones electromagnètiques emeses des de diversos satèl·lits situats en òrbita terrestre baixa.
+
+
+{{Instruments nàutics}}
+
+{{esborrany de nàutica}}
+
+[[Categoria:Instruments nàutics| ]]</text>
+      <sha1>df1lz1n4rm4n6a09jjrmwu9x99wgl6r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

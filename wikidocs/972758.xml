@@ -1,0 +1,66 @@
+<page>
+    <title>Síndrome de descompressió</title>
+    <ns>0</ns>
+    <id>972758</id>
+    <revision>
+      <id>14045994</id>
+      <parentid>14042305</parentid>
+      <timestamp>2014-09-15T14:03:05Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot estandarditza i catalanitza referències, catalanitza dates i fa altres canvis menors</comment>
+      <text>{{2L|data=febrer de 2013}}
+{{Fitxa de malaltia
+
+|Nom ={{PAGENAME}}
+|Image = Decompression chamber.jpg 
+|Caption = cambra de descompressió
+|CIE-10 = T70.3
+|CIE-O =
+|CIE-9 = 993.3
+| ICD 10 =T70.3 
+| ICD9 =993.3 
+|Medline =
+|MedlinePlus =
+|DiseasesDB = 3491
+|ER =
+|Sinònims =
+}}
+[[Fitxer:Buhlmann ZH16a Nitrogen compartment half times.png|thumb|240px|Taula de descompressió]]
+[[Fitxer:Tissue half times.png|thumb|300px|Canvi de la concentració del gas dissolt al llarg del temps]]
+[[Fitxer:Partial pressures in tissues.png|thumb|240px|Comparació de les pressions parcials a l'aire atmosfèric i en dissolució en teixits corporals a pressió atmosfèrica normal, mostrant-se el dèficit de saturació als teixits degut a processos metabòlics]]
+La ''' síndrome de descompressió ''' és el terme emprat per denominar la [[malaltia]] aguda coneguda en [[medicina]] com [[embòlia]] gasosa produïda per una disminució brusca de la [[pressió atmosfèrica]]. Aquesta [[malaltia]] es caracteritza per l'aparició de petites bombolles i inflamació a nivell [[subcutani]], però el símptoma inequívoc és l'aparició d'un fortíssim dolor, que afecta diverses parts del cos. Certes regions corporals poden sofrir [[paràlisi]] ​​transitòria i a vegades es produeixen lesions permanents i fins i tot la mort.ref name=FernándezOrdas1994{{ref-llibre|autor=Bernardo Marín Fernández|coautors=I. Alvarez Ordas|títol=Introducción a la medicina y ciencias del deporte|url=http://books.google.com/books?id=RhLzrAche8ECpg=PA267|consulta= 18 març 2012|data= 1 gener 1994|editorial=Universidad de Oviedo|isbn=978-84-7468-821-4|pàgines=267–}}/refref name=Díaz2000{{ref-llibre|autor=Francisco Verjano Díaz|títol=El hombre subacuático: manual de fisiología y riesgos del buceo|url=http://books.google.com/books?id=LuQYZaY3b6wCpg=PA115|consulta= 18 març 2012|data= abril 2000|editorial=Ediciones Díaz de Santos|isbn=978-84-7978-396-9|pàgines=115–}}/ref
+
+Aquesta síndrome de descompressió també és coneguda com a malaltia dels bussos, accident disbàric o malaltia disbàrica.
+
+== Història ==
+
+La primera vegada que es va observar aquest procés va ser el 1839, i aviat va ser conegut entre els [[bus (professió)|bus]] si els treballadors que havien de romandre durant [[períodes]] perllongats en càmeres d'[[aire comprimit]]. Els [[símptoma|símptomes]] apareixien quan tornaven a les condicions atmosfèriques habituals. L'única mesura [[terapèutica]] que es coneixia consistia a retornar a la víctima a una [[càmera]] d'alta [[pressió]], i iniciar la [[descompressió]] de manera lenta i progressiva. S'ignorava la causa dels símptomes. Durant la [[Segona Guerra Mundial]], l'[[evolució tecnològica|evolució]] de l'[[aeronàutica]] va permetre que els [[avió|avions]] aconseguissin més de 9.000 m en 6 minuts; a aquesta [[altitud]], la pressió atmosfèrica és inferior a un terç de la pressió atmosfèrica a [[nivell]] del [[Mar]]. Una [[despressurització]] tan brusca conduïa amb freqüència a l'aparició d'un [[síndrome]] de descompressió en el [[pilot]].
+
+== Estudis de la malaltia ==
+
+Amb aquest motiu es va començar a estudiar en profunditat el mecanisme de la [[malaltia]]: un descens brusc de la pressió de l'[[aire]] produeix una disminució de la [[solubilitat]] dels [[gas]]s en solució, i per tant els gasos dissolts retornen a l'estat gasós dins del corrent sanguini, formant bombolles de gas. Aquestes bombolles de gas alliberades dins del corrent sanguini poden obstruir alguns dels gots terminals ([[arterioles]]), interrompent l'aportació sanguínia a les terminacions nervioses, desencadenant-així els símptomes que es produeixen a conseqüència de quadres [[isquèmia|isquèmics]] ([[infart]] s) en diferents zones, [[cervell|cerebrals]], [[os|òssies]], [[renal]] s, etc .. El [[oxigen]] i el [[diòxid de carboni]] tornen al seu estat soluble dins de la [[sang]] amb [[rapidesa]], però els gasos inerts romanen en estat gasós i per tant són el principal responsable. 
+
+Es pot prevenir l'aparició d'aquesta malaltia fent que el pilot respiri oxigen pur no només durant el vol, sinó també abans del mateix. D'aquesta manera s'elimina el nitrogen de la circulació.
+
+Perquè es presenti aquesta malaltia en els bussos, aquests han de respirar una barreja gasosa que contingui un o més gasos inerts (per exemple: nitrogen, heli, hidrogen), i han de romandre un temps ia una profunditat determinada perquè es produeixi una saturació considerable de gas inert en els teixits. En aquestes condicions és imprescindible realitzar durant l'ascens parades estàtiques pel bus per eliminar el sobrant de gas inert que s'acumula en els teixits. Si s'ometen aquestes parades es produirà una sobresaturació excessiva de gas inert que pot aconseguir el punt crític de sobresaturació a partir del qual el gas canvia d'estat i forma bombolles. Aquestes bombolles que poden ser intravasculars i/o extravasculars són les responsables del quadre simptomàtic de la malaltia descompressiva.
+{{ORDENA:Sindrome De Descompressio}}
+
+== Nota ==
+references/
+
+==Vegeu també==
+*[[Descompressió descontrolada]]
+
+{{Enllaç AB|en}}
+{{Enllaç AB|sr}}
+
+[[Categoria:Síndromes|Descompressió, Síndrome de]]
+[[Categoria:Submarinisme]]</text>
+      <sha1>gwttrvnc0y7m55o3eug1y27t0sfmqds</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

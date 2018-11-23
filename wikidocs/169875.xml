@@ -1,0 +1,122 @@
+<page>
+    <title>Racing White Daring Molenbeek</title>
+    <ns>0</ns>
+    <id>169875</id>
+    <revision>
+      <id>13196683</id>
+      <parentid>13040983</parentid>
+      <timestamp>2014-04-09T17:33:55Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: en els seu  en el seu</comment>
+      <text>{{Equips 
+| nom = RWDM 
+| nom complet = Racing White Daring Molenbeek 
+| any de fundació = [[1973]] 
+| estadi = [[Estadi Edmond Machtens]], br / [[Molenbeek-Saint-Jean]], [[Bèlgica]] 
+| capacitat = 2.500 espectadors 
+| president = Eric De Prins (2002)
+| entrenador = Emilio Ferrera (2002) 
+| lliga = 2a divisió belga 
+| temporada = 2002-03 
+| posició = 
+| web oficial = http://www.rwdm.be/ 
+| pattern_la1=|pattern_b1=|pattern_ra1=
+| leftarm1=C00000|body1=C00000|rightarm1=C00000|shorts1=000000|socks1=FFFFFF
+| pattern_la2=|pattern_b2=|pattern_ra2=
+| leftarm2=FFFFFF|body2=FFFFFF|rightarm2=FFFFFF|shorts2=FFFFFF|socks2=FFFFFF
+}}
+El '''Racing White Daring Molenbeek (RWD Molenbeek)''' fou un club de [[futbol]] de [[Bèlgica]], de la municipalitat de [[Molenbeek-Saint-Jean]], [[Regió de Brussel·les-Capital]].
+
+== Història ==
+El club fou el resultat nombroses fusions de diversos clubs al llarg de la història. Els clubs dels quals nasqué foren:
+
+=== Racing Club de Bruxelles ===
+Aquest club es creà a [[Koekelberg]] el [[1890]], com un club d'[[atletisme]]. El [[1894]] es creà la seccióo de futbol amb el nom de Racing Football Club. Un any més tard ingressà a l'Associació Belga amb el nom de Racing Club de Bruxelles. Abans de la [[Primera Guerra Mundial]] fou un dels clubs més destacats del país, guanyant 6 lligues i 1 copa. El [[1925]] baixà a segona divisió i inicià un període de declivi que el portà l'any [[1963]] a fusionar-se amb el ''White Star'' per formar el ''Royal Racing White''.
+
+=== White Star AC ===
+El White Star fou fundat el [[1909]] per estudiants. No fou un club punter al país i mai guanyà cap títol important. La seva millor època fou entre [[1934]] i [[1947]] en què participà a primera divisió. L'any [[1963]] es fusionà amb el ''RC Bruxelles'' per formar el ''Royal Racing White''.
+
+=== Royal Racing White ===
+El [[1963]], resultat de la fusió de ''White Star'' i ''Racing Club de Bruxelles'' nasqué el Royal Racing White. Jugà a primera divisió entre [[1965]] i [[1973]] i el seu estadi era l'estadi Fallon. Com a màxim èxit assolí una final de la copa belga. L'any [[1973]] es fusionà amb el ''Daring Club'' per formar el ''RDWM''.
+
+=== Daring Club de Bruxelles ===
+El Daring Club de Bruxelles es fundà el [[1895]] impulsat per un grup d'estudiants. Fou el segon club en afiliar-se a l'Associació Belga de Futbol. El [[1899]] fou expulsat del seu camp de joc i per evitar el problema decidí fusionar-se amb el ''Brussels FC'' esdevenint Daring Brussels FC. El [[1902]] es fusionà amb dos nous clubs, lnowiki'/nowiki''Union Sportive Molenbeekoise'' i lnowiki'/nowiki''Skill FC'' i retornà al seu nom original. Fou un dels clubs més destacats abans de la [[Segona Guerra Mundial]], establint gran rivalitat amb el [[Royale Union Saint-Gilloise]]. El [[1920]] inaugurà el seu estadi a [[Molenbeek-Saint-Jean]]. En total guanyà cinc lligues belgues. L'any [[1950]] es reanomenà Royal Daring Club de Bruxelles i vint anys més tard Royal Daring Club Molenbeek. L'any [[1973]] es fusionà amb el ''Racing White'' per formar el ''RDWM''.
+
+=== Racing White Daring Molenbeek ===
+El RWDM nasqué fusió de ''Racing White'' i ''Daring Club de Bruxelles'' el [[1973]]. El Racing aportà un equip sòlid, mentre que el Daring aportà l'estadi i un públic fidel. Els seus majors èxits foren la lliga belga de [[1975]] i unes semifinals de la [[Copa de la UEFA]] el [[1977]]. Començà a patir problemes econòmics el [[1984]] que el portaren a la fallida econòmica el [[2002]] i la seva desaparició. L'estadi del club fou ocupat pel ''K.F.C. Strombeek'' (de prop de Brussel·les) que esdevingué [[F.C. Molenbeek Brussels Strombeek]].
+
+Després de la desaparició, el [[2002]], en el seu lloc els aficionats crearen una nova entitat anomenada ''Racing Whitestar Daring Molenbeek'' amb la intenció de reviure el nou club. 
+
+timeline
+ImageSize = width:600 height:auto barincrement:25
+PlotArea = left:10 right:20 top:10 bottom:30
+AlignBars = justify
+Period = from:1890 till:2015
+ScaleMajor = unit:year increment:10 start:1890
+AlignBars = justify
+TimeAxis = orientation:horizontal
+
+Colors =
+ id:RacingCB value:white
+ id:DaringCB value:claret
+ id:WhiteStar value:red
+ id:RacingWhite value:red
+ id:RWDM value:red
+ id:Brussels value:white
+ id:Strombeek value:white
+ id:canvas value:gray(0.9)
+
+BackgroundColors = canvas:canvas
+
+BarData=
+ Bar:RacingCB
+ Bar:RacingWhite
+ Bar:WhiteStar
+ Bar:RWDM
+ Bar:DaringCB
+ Bar:Brussels
+ Bar:Strombeek
+
+PlotData=
+ fontsize:S align:center width:18 mark:(line,black) 
+ bar:RacingCB color:RacingCB from:1891 till:1963 text:[[Racing Club de Bruxelles]] 
+ bar:DaringCB color:DaringCB from:1895 till:1973 text:[[Daring Club de Bruxelles]]
+ bar:WhiteStar color:WhiteStar from:1909 till:1963 text:[[White Star AC]]
+ bar:Strombeek color:Strombeek from:1932 till:2002 text:[[KFC Strombeek]]
+ bar:RacingWhite color:RacingWhite from:1963 till:1973 text:[[Racing White]]
+ bar:RWDM color:RWDM from:1973 till:2002 text:[[RWDM]]
+ bar:Brussels color:Brussels from:2002 till:2007 text:[[FC Brussels]]
+LineData=
+ at:1963 color:black frompos:118
+ at:1973 color:black frompos:74 tillpos:153
+ at:2002 color:black frompos:30 tillpos:114
+/timeline
+
+== Palmarès ==
+=== Racing Club de Bruxelles ===
+* [[Jupiler League|Lliga belga]] (6): 1896-97, 1899-00, 1900-01, 1901-02, 1902-03, 1907-08
+* [[Copa de Bèlgica de futbol|Copa de Bèlgica]] (1): 1912
+
+=== Daring Club de Bruxelles ===
+* [[Jupiler League|Lliga belga]] (5): 1911-12, 1913-14, 1920-21, 1935-36, 1936-37
+* [[Copa de Bèlgica de futbol|Copa de Bèlgica]] (1): 1934-35
+
+=== Racing White Daring Molenbeek ===
+* [[Jupiler League|Lliga belga]] (1): 1975
+
+== Enllaços externs ==
+* [http://www.bxlboys.be/ www.bxlboys.be] {{fr}}{{nl}} 
+* [http://www.rwdm.be/ www.rwdm.be] {{fr}}{{nl}} 
+* [http://www.fcbrussels.net www.fcbrussels.net - go to Histoire] {{fr}} 
+
+[[Categoria:Clubs de futbol belgues]]
+[[Categoria:Regió de Brussel·les-Capital]]</text>
+      <sha1>j1aw3fv2wykassbysgw2k3u0bm1q6fp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,146 @@
+<page>
+    <title>Bloc d'un sol ús</title>
+    <ns>0</ns>
+    <id>988090</id>
+    <revision>
+      <id>13639734</id>
+      <parentid>13628070</parentid>
+      <timestamp>2014-06-23T00:41:43Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>{{2L|data=febrer de 2013}}
+[[Fitxer: OneTimePadExcerpt.agr.jpg|thumb|290px|Extracte d'una llibreta d'un sol ús.]]
+En [[criptografia]], el ''' bloc d'un sol ús ''', o ''' quadern d'un sol ús ''' (de l'anglès '' one-time pad ''), és un tipus d'[[algorisme]] de [[xifratge (criptografia)|xifratge]] pel qual el [[text en clar]] es combina amb una clau aleatòria o '' «llibreta» '' igual de llarga que el text en clar i que només s'utilitza una vegada. Va ser inventat el [[1917]]. Si la clau és veritablement aleatòria, mai es reutilitza i, per descomptat, es manté en secret, es pot demostrar que el mètode de la llibreta d'un sol ús és irrompible. Un del seu sinònims pot ser ''' quadern '''.
+
+La part del nom relativa a la «llibreta» procedeix de les implementacions inicials en les quals la clau es distribuïa en forma de llibreta de paper, de manera que la pàgina podia trencar-se i destruir després del seu ús. Per facilitar l'ocultació, de vegades la llibreta era físicament molt petita.ref{{citar llibre|url = http://www.ranum.com/security/computer_security/papers/otp-faq|títol = One-Time- Pad (Vernam s Cipher) Frequently Asked Questions|consulta = 2006.05.12}}Veure-les. /ref
+
+La llibreta d'un sol ús prové del ''' xifratge de Vernam ''', que rep el seu nom de [[Gilbert Vernam]], un dels seus inventors. El sistema de Vernam era un xifratge que combinava un missatge amb una clau que es llegia d'un bucle de cinta de paper. En la seva forma original, el sistema de Vernam no era irrompible perquè la clau es podia reutilitzar. L'ús únic vi una mica després, quan [[Joseph Mauborgne]] va reconèixer que si la cinta de la clau era completament aleatòria, s'incrementaria la dificultat [[criptoanàlisi|criptoanalítica]]. Alguns autors empren el terme «xifratge de Vernam» com a sinònim de «llibreta d'un sol ús», mentre que altres l'utilitzen per a qualsevol [[xifratge de flux]] additiu, incloent els basats en un [[generador de nombres pseudoaleatoris]] criptogràficament segur; sota el farem servir en aquest últim sentit.ref name=kahn David Kahn, 1967. '' The Codebreakers ''. Macmillan, ISBN 0-684-83130-9. /ref
+
+== Secret ==
+Al principi es reconeixia que la llibreta d'un sol ús de Vernam-Mauborgne era molt difícil de trencar, però el seu estatus especial va ser descobert per [[Claude Shannon]] uns 25 anys després. Usant elements de la [[teoria de la informació]], va demostrar que la llibreta d'un sol ús tenia una propietat que ell va cridar '' secret perfecte '': és a dir, el text xifratge no proporciona absolutament cap [[informació]] sobre el [[text en clar]]. Per tant, la probabilitat '' [[a priori]] '' d'un missatge en clar '' M '' és igual que la probabilitat '' [[coneixement empíric|a posteriori]] '' d'un missatge en clar '' M '' donat el corresponent text xifratge. I de fet tots els textos en clar són igualment probables. Això és una poderosa noció de dificultat criptoanalítica.ref Claude Shannon, 1949. «Communication Theory of secrecy Systems». '' Bell System Technical Journal '' ''' 28, 4 ''': 656-715. /ref
+
+Malgrat la demostració de Shannon, la llibreta d'un sol ús té en la pràctica serioses desavantatges:
+
+* Requereix llibretes d'un sol ús perfectament aleatòries
+* La generació i intercanvi de les llibretes d'un sol ús ha de ser segura, i la llibreta ha de ser almenys tan llarga com el missatge
+* Només cal un tractament acurat per assegurar-se que sempre romandran en secret per a qualsevol adversari, i cal desfer-se'n correctament per evitar qualsevol reutilització parcial o completa-d'aquí el un sol ús».
+
+Aquestes dificultats d'implementació han provocat casos en què s'han trencat alguns sistemes de llibreta d'un sol ús, i són tan seriosos que han evitat que la llibreta d'un sol ús hagi estat adoptada com una eina generalitzada de seguretat informàtica.
+
+En particular, l'ús únic és absolutament necessari. Si una llibreta d'un sol ús s'utilitza tan sols dues vegades, unes senzilles operacions matemàtiques poden reduir-la a un xifratge de clau correguda. Si ambdós textos en clar estan en [[llenguatge natural]] (per exemple, en anglès o en rus), encara que tots dos siguin secrets, hi ha moltes possibilitats que siguin recuperats amb criptoanàlisi, possiblement amb algunes ambigüitats. Per descomptat, del missatge més llarg dels dos només es podrà recuperar la part que solape amb el missatge més curt, a més, potser, d'una mica més completant una paraula o frase. L'explotació més famosa d'aquesta vulnerabilitat és el [[Projecte Venona|projecte VENONA]].ref Name=nsa{{cita llibre|url = http://www.nsa.gov/venona/index.cfm|títol = NSA Pàgina del Venona}}/ref
+
+La llibreta d'un sol ús no proporciona cap mecanisme per assegurar la integritat del missatge, i en teoria un [[Atac Man-in-the-middle|atacant en el medi]] que conegui el missatge exacte que s'està enviant podria substituir fàcilment part o tot el missatge amb un text de la seva elecció que sigui de la mateixa longitud. Es poden usar les tècniques estàndard per evitar això, com un [[Message authentication code|codi d'autenticació de missatge]], però manquen de la prova de seguretat de què gaudeixen les llibretes d'un sol ús.
+
+== Història ==
+=== Desenvolupament tècnic ===
+La història de la llibreta d'un sol ús està marcada per quatre descobriments separats però molt relacionats.
+
+El primer sistema de llibreta d'un sol ús era elèctric. el [[1917]], [[Gilbert Vernam]] (de [[AT  T]]) va inventar i posteriorment va patentar un xifratge basat en la tecnologia de [[teletip]]. Cada caràcter del missatge es combinava elèctricament amb un caràcter d'una clau en cinta de paper. El capità [[Joseph Mauborgne]] (més tard capità de l'[[exèrcit dels Estats Units]] i després cap del [[Signal Corps]]) es va adonar que la seqüència de la clau podia ser completament aleatòria i que, en aquest cas, la criptoanàlisi seria més difícil. Junts van inventar el primer sistema de cinta d'un sol ús.ref Name=kahn/
+
+El segon desenvolupament va ser el sistema de llibreta de paper. Els diplomàtics portaven molt temps amb [[codi]] si xifratges per a la confidencialitat i per minimitzar les despeses en [[telègraf]]. En el cas dels codis, les paraules i les frases es convertien en grups de nombres (normalment 4 o 5 dígits) utilitzant un llibre de codis de tipus diccionari. Per més seguretat, podien combinar-se nombres secrets (normalment amb summa modular) amb cada grup codificat abans de la transmissió, i els números secrets es canviaven periòdicament (això es deia supercifrado). A principi dels [[dècada del 1920|anys 20]], tres criptógrafos alemanys, Werner Kunze, Rudolf Schauffler i Erich Langlotz, que es dedicaven a trencar sistemes així, es van adonar que mai podrien trencar-se si s'usava un nombre additiu separat, escollit a l'atzar, per a cada grup codificat. Tenien llibretes de paper duplicades amb línies de grups de nombres aleatoris. Cada pàgina tenia un número de sèrie i vuit línies. Cada línia tenia sis nombres de 5 dígits. Una pàgina s'usava com a full de treball per codificar un missatge i després es destruïa. El número de sèrie de la pàgina s'enviava amb el missatge codificat. El destinatari faria el procediment al revés i després destruiria la seva còpia de la pàgina. El Ministeri d'Afers Exteriors alemany va posar en funcionament aquest sistema el [[1923]].ref Name=kahn/
+
+== Exemple ==
+Suposem que Alicia vol enviar el missatge 'HOLA' a Roberto. Suposem també que prèviament, d'alguna manera, s'han produït dues llibretes de paper que contenen idèntiques seqüències de lletres aleatòries i que s'han enviat per via segura a ambdós. Alicia tria la pàgina apropiada sense utilitzar de la llibreta. Normalment la manera de fer això es decideix a priori, per exemple «fer servir el full número 12 el Dia del Treballador», o «utilitzar el següent full disponible per al següent missatge». El material de la fulla seleccionada és la '' clau '' per aquest missatge. Totes les lletres de la llibreta es combinaran d'una defecte amb una lletra del missatge. És comú, encara que no obligatori, assignar a cada lletra un valor numèric: per exemple, A és 0, B és 1, i així fins a la «Z», que és 25. En aquest exemple, la tècnica és combinar la clau i el missatge usant la [[aritmètica modular|suma modular]]. Es fa la suma mòdul 26 (si es comptabilitza la A com 0, sent per tant Z = 25) dels valors numèrics de les lletres corresponents al missatge i la clau. Si la clau comença per:
+
+ X M C K
+
+i el missatge és «HOLA», llavors el xifratge es faria de la següent manera:
+
+ 24 (X) 12 (M) 2 (C) 10 (K) clau
++7 (H) 15 (O) 11 (L) 0 (A) missatge
+ = 31 27 13 oct clau+missatge
+ = 5 (F) 1 (B) 13 (N) 10 (K) Resultat (mod 26) = text xifratge
+
+Noteu que quan el nombre és major que 25, llavors, per [[aritmètica modular]], el valor resultant queda truncat.
+
+El text xifratge que caldria enviar-li a Roberto seria llavors «FBNK». Per obtenir el [[text en clar]], Roberto utilitza la pàgina clau corresponent i realitza el mateix procés, però al revés. Ara, la clau és '' restada '' del text xifratge, de nou usant aritmètica modular:
+
+ 26 26 26 26 valor 26
++5 (F) 1 (B) 13 (N) 10 (K) text xifratge
+ - 24 (X) 12 (M) 2 (C) 10 (K) clau
+ = 7 15 37 26 26+text xifratge - clau
+ = 7 (H) 15 (O) 11 (L) 0 (A) resultat (mod 26) = text desxifratge
+
+Noteu que a tot valor se li suma prèviament 26, i al final s'aplica igualment el mòdul 26.
+
+Així, Roberto recupera el text en clar d'Alicia, el missatge vital «HOLA». Tant Alicia com Roberto destrueixen la fulla amb la clau immediatament després del seu ús, prevenint així la seva reutilització i un atac contra el xifratge que seria trivial en essència. La [[KGB]] enviava amb freqüència als seus [[espionatge|agents]] llibretes d'un sol ús impreses en minúscules fulles de «paper flash»-paper convertit químicament en [[nitrocel·lulosa]], que crema gairebé instantàniament i no deixa cendres.
+
+La llibreta d'un sol ús clàssica de l'espionatge (que solia consistir en veritables llibretes de paper-sovint minúscules per a la seva fàcil ocultació-, un llapis afilat i l'ús d'algun [[càlcul mental]]) es pot implementar en forma de programari fent ús de fitxers de dades com a entrada (text en clar), sortida (text xifratge) i clau (la seqüència aleatòria requerida). Sovint s'utilitza l'operació [[XOR]] per combinar el text en clar amb la clau, i és especialment atractiva en computació, ja que normalment és una instrucció màquina nativa i per tant és molt ràpida. No obstant això, no és trivial assegurar que la clau és realment aleatòria, que només s'utilitza una vegada, que mai acaba en mans d'adversaris i que queda completament destruïda després de la seva ocupació. Les parts auxiliars d'una implementació de la llibreta d'un sol ús per programari presenten veritables desafiaments: el maneig/transmissió segur del text en clar, claus veritablement aleatòries i l'ús únic de la clau.
+
+== Seguretat ==
+Les llibretes d'un sol ús són segures des del punt de vista de la teoria de la informació, en el sentit que el missatge xifratge no li proporciona a un [[criptoanalista]] cap informació sobre el missatge original. Això és una poderosa noció de seguretat, desenvolupada per primera vegada durant la Segona Guerra Mundial per [[Claude Shannon]] i demostrada matemàticament per Shannon en la mateixa època. Els seus resultats van ser publicats en el '' Bell Labs Technical Journal '' el 1949. Les llibretes d'un sol ús, utilitzades adequadament, són segures en aquest sentit fins i tot contra adversaris amb poder computacional infinit. Per seguir amb l'exemple de dalt, suposem que Eva intercepta el text xifratge d'Alicia: «FBNK». Si Eva disposés d'una potència computacional infinita, trobaria ràpidament que la clau «XMCK» produiria el text en clar «HOLA», però també trobaria que la clau «FCJR» produiria el text en clar «AHIR», un missatge igualment plausible:
+ 26 26 26 26 valor 26
++5 (F) 1 (B) 13 (N) 10 (K) text xifratge
+ - 5 (F) 2 (C) 9 (J) 18 (R) possible clau
+ = 26 25 30 18 26+text xifratge - possible clau
+ = 0 (A) 25 (I) 4 (E) 18 (R) resultat (mod 26) = possible text desxifratge
+De fet, és possible «desxifrar» qualsevol missatge amb el mateix nombre de caràcters a partir del text xifratge simplement usant una clau diferent, i no existeix cap informació en el text xifratge que li permeti a Eva escollir entre les possibles lectures del text xifratge.
+
+La majoria dels algorismes de xifratge convencionals, tant simètrics com asimètrics, utilitzen patrons complexos de substitució i transposició. En el cas del millor algorisme que s'usa en l'actualitat, no se sap si existeix un procediment criptoanalítico que pugui revertir (o revertir parcialment) aquestes transformacions sense conèixer la frase de pas utilitzada durant el xifratge.
+
+En termes pràctics, per al millor d'ells no es coneix un procediment així, encara que potser existeixen algorismes computacionals que puguin fer-ho en un temps 'raonable'. Un dels principals problemes sense resoldre en teoria de la computabilitat està relacionat amb aquest problema, si [[Temps polinòmic|P = NP]], llavors seria almenys possible que es puguin trobar algorismes així, i segurament es buscarien amb més afany que avui en dia. I encara que es demostri que no, alguns criptosistemes actuals encara podrien trencar-se. No obstant això, la llibreta d'un sol ús no seria menys segura si es demostrés que P = NP. En l'actualitat es creu que P ≠ NP, i per tant és dubtós que aquesta qüestió tingui rellevància pràctica per la criptoanàlisi o per al disseny d'algorismes de xifratge.
+
+== Atacs ==
+Encara que les llibretes d'un sol ús són demostrablement segures si es generen i utilitzen adequadament, un petit error pot possibilitar una criptoanàlisi reeixida:
+
+* el [[1944]] - [[1945]], la Signal Security Agency de l'exèrcit dels EUA va aconseguir resoldre un sistema de llibreta d'un sol ús utilitzat pel Ministeri d'Afers Exteriors alemany per al seu tràfic d'alt nivell, de nom en clau GEE (Erskine, 2001). El GEE era insegur perquè les llibretes no eren completament aleatòries - la màquina emprada per generar les llibretes produïa una sortida predictible.
+
+* el [[1945]], EUA va descobrir que els missatges [[Canberra]] - [[Moscou]] s'estaven xifrant primer mitjançant un llibre de codis i després a base d'una llibreta d'un sol ús. No obstant això, la llibreta d'un sol ús era la mateixa que utilitzava Moscou per als missatges [[Washington DC]]-Moscou. Combinat amb el fet que alguns missatges Canberra-Moscou incloïen documents governamentals britànics que eren coneguts, això va permetre que es trenquessin alguns dels missatges xifratges.
+
+* Les agències d'espionatge [[Unió Soviètica|soviètiques]] empraven llibretes d'un sol ús per assegurar les comunicacions amb els agents i els controladors dels agents. L'anàlisi va demostrar que aquestes llibretes les generaven persones utilitzant màquines d'escriure. Aquest mètode, per descomptat, no és «veritablement» aleatori, ja que implica que certes seqüències de tecles convenients siguin més probables que altres, encara que va demostrar ser efectiu en general. Sense còpies de les claus usades, només oferien esperances de criptoanàlisis alguns defectes en el mètode de generació o la reutilització de les claus. A principis dels 40, la intel·ligència nord-americana i britànica va aconseguir trencar part del tràfic de llibreta d'un sol ús cap [[Moscou]] durant la Segona Guerra Mundial, com a resultat de certs errors comesos en generar i distribuir les claus.
+
+== Requisits per a una veritable aleatorietat ==
+Per explicar la llibreta d'ús únic és necessari distingir entre dues nocions de seguretat. La primera és la seguretat teòrica del sistema de llibreta d'ús únic demostrada per Shannon. La segona és la seguretat oferta pels xifratges més punters (per exemple, el [[Advanced Encryption Standard|AES]]) dissenyats amb els principis apresos durant la llarga història del trencament de codis i subjectes al testeig intensiu en un procés d'estandardització, bé en públic o per un servei de seguretat de primera classe (''' seguretat empírica '''). La primera està demostrada matemàticament i està subjecta a la disponibilitat pràctica dels nombres aleatoris. La segona no està demostrada però rep la confiança de la majoria dels governs per protegir els seus secrets més vitals.
+
+=== Mètodes que poden oferir seguretat empírica però no tenen seguretat de Shannon ===
+Si la clau la genera un programa determinista, llavors no és aleatòria ni es pot afirmar que el sistema de xifratge ofereixi la seguretat teòrica de la llibreta d'un sol ús. Es diu [[xifratge de flux]]. Generalment aquests utilitzen una clau petita que s'usa com a llavor per a un flux [[pseudoaleatorio]] llarg, que després es combina amb el missatge emprant algun mecanisme com els de la llibreta d'un sol ús (per exemple, XOR). Els xifratges en flux poden ser segurs en la pràctica, però no poden ser absolutament segurs en el mateix sentit demostrable de la llibreta d'un sol ús.
+
+Els [[FISH (criptografia)|xifratges Fish]] usats per l'exèrcit alemany en la Segona Guerra Mundial van resultar ser xifratges en flux insegurs, no útils llibretes d'un sol ús automatitzades com pretenien els seus dissenyadors. [[Bletchley Park]] trencava un d'ells regularment, la màquina de [[Codi Lorenz|xifratge de Lorenz]].
+
+No obstant això, si s'utilitza un famós [[generador de nombres pseudo-aleatoris criptogràficament segur|generador de nombres pseudoaleatoris criptogràficament segur]] modern, pot formar la base d'un xifratge en flux empíricament segur. Hi ha molts dissenys bé provats en el domini públic, que varien des de la simplicitat del [[RC4]] a l'ús d'un [[xifratge en bloc]] com l'AES en mode comptador. Semblaria que hi ha pocs motius per inventar nous xifratges en flux, però es pensa des de fa temps que la NSA i les agències similars empren un esforç considerable en els xifratges en flux per als seus clients governamentals.
+
+=== Mètodes que no ofereixen seguretat empírica ni seguretat de Shannon ===
+La similitud entre els xifratges en flux i les llibretes d'un sol ús porta sovint al fet que els criptogràficament incauts inventin xifratges en flux insegurs sota la creença falsa d'haver desenvolupat una versió pràctica de la llibreta d'un sol ús. Una versió especialment insegura són els [[Generador de números aleatoris|generadors de nombres aleatoris]] que es distribueixen en molts (potser la majoria) de les biblioteques accessòries dels llenguatges de programació o en forma de trucades al [[sistema operatiu]]. Normalment produeixen seqüències que passen alguna (o moltes) proves d'[[estadística]], però no obstant això són trencables per tècniques criptoanalíticas. Durant un temps, l'ANSI C estàndard restringia la sortida de la rutina de nombres aleatoris del llenguatge C a un enter de precisió simple, 16 bits per a la majoria de les implementacions, donant 32768 valors diferents abans de repetir. Això és completament insegur i fàcilment trencable per [[força bruta]] (per situar-nos, només cal saber que un ordinador d'1 GHz que tard 10.000 cicles de rellotge en comprovar un [[offset]] del cicle RNG (un nombre ridículament gran) trigaria menys d'un terç de segon a comprovar tots els offsets possibles). Els generadors de nombres aleatoris estàndard no serveixen per a propòsits criptogràfics, concretament per a la llibreta d'un sol ús. En particular, el relativament recent algorisme [[tornado de Mersenne]], admirat àmpliament, encara que és prou «aleatori» per a la majoria dels usos de simulació o investigació, millor que la majoria dels generadors del seu mateix tipus, i també bastant ràpid, no s'ha d'utilitzar per generar claus de llibreta d'un sol ús. L'algorisme és determinista i no va ser dissenyat per a la seguretat criptogràfica.
+
+A més, els valors coneguts públicament com els dígits finals dels temps de les curses de [[marató]], els preus de tancament de valors de borsa, per molt poc coneguts que siguin, les temperatures o pressions atmosfèriques diàries, etc., Encara que aparentment aleatoris, són predictibles-després que es produeixi el fet. De fet, tampoc poden usar-se seqüències veritablement aleatòries que hagin estat publicades, ja que si s'identifiquen són predictibles. Un exemple és la publicació d'una taula d'un milió de nombres aleatoris per la Rand Corp en 1950; ha passat tots els tests estadístics d'aleatorietat fins ara, i es creu que és veritablement aleatòria. Però, en haver-se publicat, és completament predictible. També ho són els dígits de pi, i, [[Nombre auri|fi]] i altres nombres irracionals o transcendents; pot que les seqüències siguin aleatòries (una qüestió oberta, en realitat), però són completament predictibles.
+
+=== Aconseguir la seguretat de Shannon ===
+Per aconseguir la seguretat de Shannon es necessita una font de dades aleatòries perfectament impredictibles. Una base teòrica per a l'existència física de la impredecibilidad és la [[mecànica quàntica]]. Les seves afirmacions de impredictibilitat estan subjectes a la comprovació experimental. '' Veure: '' [[Experiments de Bell]]. Una altra base és la teoria dels [[sistema dinàmic|sistemes dinàmics]] inestables i la [[teoria del caos]]. Aquestes teories suggereixen que fins i tot en el món determinista de la [[mecànica newtoniana]], els sistemes reals evolucionen de maneres que no es poden predir en la pràctica perquè faria falta conèixer les condicions inicials amb una precisió que [[creixement exponencial|creix exponencialment]] amb el temps.
+
+Perquè es puguin usar en una llibreta d'un sol ús, les dades han de mostrar una aleatorietat perfecta. A la pràctica, la majoria de les fonts mostren alguna imperfecció o desviació. La qualitat de l'aleatorietat es mesura per [[Entropia (informació)|entropia]]. Un bit perfectament aleatori té una entropia un. Una idea procedent de Von Neumann és utilitzar un algorisme per combinar diversos bits aleatòriament imperfectes, amb una entropia menor que un, per produir un bit amb entropia igual a un. Aquest procés es diu ''' destil·lació d'entropia ''' o ''' blanquejament de Von Neumann ''', i permet generar en la pràctica dades aleatòries adequats per al seu ús en una llibreta d'un sol ús. El blanquejament de Von Neumann consisteix en el següent:ref{{citar llibre|url = http://www.cryptography.com/resources/whitepapers/VIA_rng.pdf|títol = Evaluation of VIA C3 Nehemiah Random Number Generator|autor = Cryptography Research, Inc|any = February 27, 2003|format = PDF|consulta = 2006.05.12}}/ref
+{|Class = wikitable
+! Bits d'entrada !! Sortida
+|-
+|00||Sense sortida
+|-
+|01||Tornar bit «1»
+|-
+|10||Tornar bit «0»
+|-
+|11||Sense sortida
+|}
+
+En [[Linux]] (i altres sistemes tipus [[Unix]]), el generador de nombres aleatoris del nucli, [[/dev/random]], utilitza el soroll ambiental per generar dades aleatòries i és millor que molts dissenys basats en trucades al sistema. Intenta estimar la quantitat d'entropia que recull i es bloqueja si el fons d'entropia s'esgota. Pretén ser, i es pensa que realment és, millor que molts generadors semblants, i si és així, està molt a prop de ser satisfactòriament aleatori. Però aquest procés és lent en sistemes que tenen poques fonts de soroll utilitzables. No obstant això, pot alimentar-se amb entropia addicional llegint d'un dispositiu generador de soroll.
+
+Linux també proporciona/dev/urandom, que empra un algorisme determinista per generar les dades quan no hi ha soroll ambiental disponible. Existeixen dissenys millorats, com el [[Yarrow|algorisme de Yarrow]]. Les claus de llibreta d'un sol ús generades amb aquest mètode (és a dir, amb generadors de nombres aleatoris deterministes) no tenen la seguretat teòrica d'una llibreta d'un sol ús. Yarrow ofereix almenys tanta força com un xifratge en bloc basat en el [[Triple DES]].
+
+Si un ordinador que s'utilitza per generar llibretes d'un sol ús queda compromesa per un [[virus informàtic]] o altres [[malware]] s, o per un adversari que aconsegueixi accés físic, el programari pot ser modificat perquè transmeti els dades o generi dades aparentment aleatoris que en realitat són predictibles. Una forma de reduir aquest risc és generar llibretes en una màquina que mai estigui connectada a una xarxa informàtica i que preferiblement no s'utilitzi per a cap altra tasca. Si es recullen les dades en dispositius d'emmagatzematge nous i verges (per exemple, un [[disquet]] o un [[CD-R]]), s'elimina una altra font d'infecció de malware. Si es produiran llibretes de paper, és millor que la impressora també sigui dedicada. Una opció pot ser emprar un ordinador portàtil antic per generar les llibretes, esborrat i reinstal·lat amb una còpia fiable d'un [[sistema operatiu]] de [[codi obert]], com Linux o [[BSD]]. La seva petita grandària permetria guardar fàcilment en una caixa forta quan no estigui en funcionament.
+
+== Referències ==
+{{referències|2}}
+
+
+{{ORDENA:Bloc D'Un Sol Us}}	!--ORDENA generat per bot--
+
+[[Categoria:Algorismes criptogràfics]]
+[[Categoria:Espionatge]]
+[[Categoria:Seguretat informàtica]]</text>
+      <sha1>kixgczmpqhvdyuptsy38s2rfd1q9ejm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

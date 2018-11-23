@@ -1,0 +1,139 @@
+<page>
+    <title>Day of Defeat</title>
+    <ns>0</ns>
+    <id>165264</id>
+    <revision>
+      <id>13064139</id>
+      <parentid>12849603</parentid>
+      <timestamp>2014-03-16T10:23:55Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: aixi  així</comment>
+      <text>{{millorar traducció|data=febrer de 2013}}
+
+{{Infotaula videojoc| title = Day of Defeat
+|developer = [[Valve Software]]
+|publisher = [[Activision]]
+|designer = [[Dod Team]]
+|engine = [[Motor Source|Source]]
+|released = [[7 de juliol]] de [[2004]]
+|genre = [[Acció en primera persona]]
+|modes = [[Videojoc multijugador|Multijugador]] ([[Videojoc cooperatiu|cooperatiu]])
+|qualificació = 16+
+|platforms = [[Microsoft Windows]]
+|media = [[CD/DVD]], [[Via Steam]]
+|requirements = [[CPU]] 1.2 GHZ, [[Memòria Ram]] 256 MB, [[Disc Dur]] 4.5 GB
+|input = [[Teclat d'ordinador|Teclat]], [[Ratolí (informàtica)|Ratolí]], [[Internet]]
+}}
+
+'''Day of Defeat''' ('''DoD''') és un [[videojoc]] multijugador per equips d'acció en primera persona ambientat en el front occidental d'Europa durant la [[Segona Guerra Mundial]]. 
+
+== Joc ==
+ 
+''Day of Defeat'' recrea les batalles d'infanteria entre els dos bàndols més importants en la [[Segona Guerra Mundial]]: l'Eix ([[nazisme|l'Alemanya nazi]]) i els Aliats ([[Estats Units|els Estats Units]] i [[Imperi Britànic|l'Imperi Britànic]]). La finalitat del joc és completar diversos objectius als diferents tipus de mapes.
+
+Un cop dins del [[servidor]], els jugadors escullen el seu bàndol i la classe del personatge. La classe determina les armes que duen i la seva aparença.
+
+Cada ronda comença amb els dos equips simultàniament en les seves respectives zones de ''respawn'' (regeneració). Una ronda acaba quan un equip completa tots els objectius preestablerts pel tipus de mapa.
+
+Les morts del jugador es converteixen en reforços que es proveïxen segons un temporitzador. Els reforços s'originen al [[respawn]] del seu equip. El temporitzador de reforços varia generalment entre 8 i 25 segons, segons el servidor.
+
+Com molts altres mods de Half-Life, Day of Defeat mostra estadístiques de cada jugador incloent-hi ''enemics abatuts'', ''morts pròpies'' i ''objectius per equip'', així com ''ping'', ''classe' triada i el ''sobrenom''.
+
+El joc acaba quan el temps límit seleccionat expira, l'equip que hagi arribat a més objectius serà el guanyador sense importar els enemics abatuts o les seves pròpies morts. També pot donar-se el cas d'un empat si cap equip aconsegueix els objectius o la puntuació per equip és igual a cada bàndol. Es mostra un tauló amb les puntuacions finals i el servidor canvia de mapa.
+
+== Objectius ==
+
+Els mapes de ''Day of Defeat'' no sempre tenen els mateixos objectius per a ambdós equips. Es destaquen tres tipus d'objectius:
+
+* Captura de bandera. Els jugadors poden capturar una bandera situant-se prop d'ella durant un temps variable. Algunes banderes necessiten més d'un jugador per a ser capturades. Les banderes es mostren sense capturar (color gris), capturades per l'Eix (en vermell) o capturades pels Aliats (en verd). En general les banderes poden ser recapturades, però certs mapes no permeten que una bandera ja capturada sigui recapturada.
+
+* Destruir l'objectiu. Els jugadors han de destruir un objectiu col·locant una bomba. Les bombes s'obtenen en la zona de regeneració, encara que també poden ser recuperades dels cossos de companys morts. Per a col·locar la bomba el jugador ha de situar-se en la zona prevista durant un temps. Les bombes poden ser desactivades i sempre causen una gran explosió.
+
+* Capturar l'objectiu. Es tracta d'una variació de captura de bandera, però l'objectiu en comptes de ser una bandera és altre objecte, com un camió, un avió o un edifici. 
+
+== Història ==
+div class=toccolours style=width:280px; float:right; margin-left: 1em;
+p align=center'''Cronologia''' (incompleta)/p
+* Beta 1.0 ([[12 de gener]] [[2001]])
+* Beta 1.1 ([[14 de febrer]] [[2001]])
+* Beta 1.2 ([[5 d'abril]] [[2001]] ?)
+* Beta 1.3 ([[1 de juliol]] [[2001]])
+* Beta 2.0 ([[13 d'octubre]] [[2001]] ?)
+* Beta 2.1 ([[10 de maig]] [[2002]])
+* Beta 3.0 ([[11 de juliol]] [[2002]])
+* Beta 3.1 ([[8 d'agost]] [[2002]])
+* Versió 1.0 ([[1 de maig]] [[2003]])
+* Versió 1.1 ([[14 de novembre]] [[2003]], primer llançament a la plataforma [[Steam]]) 
+* Versió 1.2 ([[19 de maig]] [[2004]]) 
+* Versió 1.3 ([[7 de juliol]] [[2004]])
+/div
+
+Day of Defeat va començar com un [[mod (videojocs)|mod]] de Half-Life el 2001. Més tard, el grup DoD (nom dels desenvolupadors del videojoc) van ser comprats per Valve i van crear una versió independent publicada per [[Activision]]. La versió 1.0 va ser llançada oficialment al maig de 2003. La versió 1.1 es va llançar el 14 de novembre utilitzant el sistema [[Steam]].
+
+Amb el llançament inicial del joc (on només es podia triar les classes d'infanteria de suport, sergent, soldat i franctirador), la velocitat del personatge depenia de la classe. Els soldats eren els més veloços, i la infanteria de suport els més lents. Els sergents tenien una velocitat mitja.
+
+Això es va considerar completament irreal, perquè si els desenvolupadors es basaven en el pes de l'armament per a la velocitat (que era la suposició general abans de la sortida de la Beta 2.0), els suboficials de cada bàndol (el sergent major nord-americà i el unteroffizier alemany) haurien de moure's a diferents velocitats, ja que la metralladora Thompson és més pesant que el MP40, i el BAR.
+
+Amb la sortida de la Beta 2.0, es va poder veure l'eliminació de la diferència de velocitat i una expansió de classes de personatge. Aquesta versió va afegir el sergent de primera (Staff Sergeant) amb la carabina M1 per als Aliats. Els alemanys tenien ara dues versions de l'arma dels Fallschirmjäger, el FG 42 (un amb bípode i l'altre amb mira telescòpica), i el rifle de franctirador va ser substituït per un Karabiner 98k.
+
+A més, cada bàndol va rebre metralladores, la .30 per als aliats, i per als alemanys, la MG42, el que va afegir un nou element tàctic al joc. Es van fer diversos canvis perquè el joc fora més realista, com eliminar la possibilitat de saltar i disparar. Es van introduir la possibilitat de copejar amb la culata en algunes armes, i poder situar-se de genolls o tombat per a millorar la punteria.
+
+En la Beta 3.0 es va afegir un nou sistema de joc, els mapes ''para_'', amb un funcionament per rondes similar al Counter-Strike, on no hi ha objectius, sinó que s'ha d'eliminar al bàndol contrari, que va provocar cert rebuig, fins a arribar a ser eliminat en la versió 1.0. Addicionalment, una nova classe, el sergent aliat va ser creada, que duia l'arma M3 Grease Gun.
+
+En el llançament de la versió 1.0 es va incloure bastants característiques noves que no van ser ben rebudes d'una banda dels jugadors veterans, però que d'altra banda convidava als nous jugadors (especialment del Counter-Strike). El joc era menys realista però més divertit: s'eliminava per defecte el foc amic, es va afegir un mapa per a poder veure als membres del grup i les magranes, la recàrrega de munició era automàtica i s'afegia un símbol damunt dels caps dels jugadors per a distingir entre aliats i enemics.
+
+== Armes ==
+
+Day of Defeat presenta l'armament històric utilitzat en la [[Segona Guerra Mundial]]: M1 Garand, M1 Carbine, metralladora Thompson, M3 Grease Gun, Springfield 1903, BAR, metralladora del calibre .30, Bazooka, Karabiner 98k, Karabiner 43, MP40, Sturmgewehr 44, FG 42, MG34, MG42, Panzerschreck, Llig-Enfield, Sten, Bren i el PIAT.
+
+La classe del soldat determina quines armes utilitzarà en un principi el jugador. A més a més, cada jugador porta una pistola: M1911 per als nord-americans i britànics, una Luger para els alemanys i el revòlver Webley para els britànics. També un ganivet o pala. Algunes classes duen també granades.
+
+Els jugadors poden llençar la seva arma principal per a agafar una altra que hagin deixat els soldats morts o hagin llançat altres jugadors, per la qual cosa no és estrany veure jugadors aliats amb armes de l'Eix i viceversa.
+
+== Mapes ==
+Els mapes del Day of Defeat reuneixen escenaris de batalles històriques de la [[Segona Guerra Mundial]]. Els escenaris de control de zona requereixen que els jugadors capturin banderes en punts importants del mapa. Els mapes basats en objectius fan combatre als jugadors pels objectius de la missió, com un pont o artilleria. Per aconseguir aquests objectius els jugadors han d'utilitzar sovint càrregues de TNT. Hi ha altres possibles objectius com recuperar documents secrets i retornar-los a l'instant d'inici.
+
+Els mapes oficials inclouen escenaris com Omaha Beach durant la Batalla de Normandía, el combat als carrers de Salern durant l'Operació Avalanche o una missió en planejador per destruir una antena de ràdio i un canó de 88 mm.
+
+A més dels mapes oficials, existeixen els mapes ''custom'' creats per dissenyadors independents.
+
+== Bots ==
+Encara que Day of Defeat és principalment un joc multijugador, es pot jugar fora de línia utilitzant bots, contrincants controlats per l'ordinador. Dos dels bots més populars són SturmBOT i ShrikeBot.
+
+== Day of Defeat: Source ==
+{{principal|Day of Defeat: Source}}
+''Day of Defeat: Source'' és la següent versió del joc, una actualització utilitzant el motor Source del Half-Life 2, que va aparèixer el 26 de setembre de 2005. A més dels canvis gràfics, es van realitzar canvis significatius en el sistema de joc.
+
+== Vegeu també ==
+* [[Half-Life]]
+* [[Steam]]
+* [[Valve Software]]
+
+== Enllaços externs ==
+
+=== Oficials ===
+* [http://www.dayofdefeat.com/ Web oficial de '''Day of Defeat'''] (en anglès)
+* [http://www.valvesoftware.com/ Web oficial de [[Valve]]] (en anglès)
+* [http://www.steampowered.com/ Web oficial de Steam] (en anglès)
+
+=== Comunitats ===
+* [http://www.dodnetwork.com/ Day of Defeat Network, DoD: Source] (en anglès)
+* [http://www.planethalflife.com/dod/ Planet Half-Life: Day of Defeat] (en anglès)
+* [http://www.dodrules.net/ DoD.Rules: Day of Defeat Web] (en castellà)
+
+
+{{ORDENA:Day Of Defeat}}	!--ORDENA generat per bot--
+
+[[Categoria:Valve Corporation]]
+[[Categoria:Videojocs per a Windows]]
+[[Categoria:Videojocs d'Activision]]
+[[Categoria:Videojocs del 2004]]</text>
+      <sha1>8wy6z5sxu74w8s2xqzxnfttwxkpzb61</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,225 @@
+<page>
+    <title>Intel·ligència artificial</title>
+    <ns>0</ns>
+    <id>1535</id>
+    <revision>
+      <id>13930694</id>
+      <parentid>13809329</parentid>
+      <timestamp>2014-08-10T15:57:37Z</timestamp>
+      <contributor>
+        <username>Bestiasonica</username>
+        <id>3164</id>
+      </contributor>
+      <minor></minor>
+      <text>La '''intel·ligència artificial''' ('''IA''') és una part de la [[informàtica]], dedicada al desenvolupament d'[[algorisme]]s que permet a una màquina (habitualment un [[ordinador|computador]]) prendre decisions intel·ligents o, si més no, comportar-se com si tingués una [[intel·ligència]] semblant a la humana.
+
+Determinar si un ordinador realment es comporta de manera intel·ligent és complex. Hi ha moltes definicions de què és exactament la intel·ligència artificial. La més estesa és la de [[John McCarthy]] ([[1995]]), que afirma que ''és fer que una màquina es comporti d'una manera que seria considerada intel·ligent en un humà.''
+
+Es considera l'avi de la intel·ligència artificial al britànic [[Alan Turing]] que, al llarg de la [[Segona Guerra Mundial]] i sota els auspicis del servei d'intel·ligència britànic, va començar a fonamentar les bases del que avui coneixem com a intel·ligència artificial.
+
+Existeixen diferents tipus de [[coneixement]] i mitjans de representació del coneixement. El qual pot ser carregat en l'agent pel seu dissenyador o pot ser après pel mateix agent utilitzant tècniques d'[[aprenentatge]].
+
+També es distingeixen diversos tipus de processos vàlids per obtenir resultats racionals, que determinen el tipus d'[[agent intel·ligent]]. De més simples a més complexos, els cinc principals tipus de processos són:
+
+* Execució d'una resposta per defecte per cada entrada (anàlogues a actes reflexos en éssers vius).
+* Recerca de l'estat requerit en el conjunt dels estats produïts per les accions possibles.
+* [[Algorismes genètics]] (Anàleg al procés d'evolució de les cadenes d'ADN).
+* [[Xarxes neuronals|Xarxes neuronals artificials]] (Anàleg al funcionament físic del cervell d'animals i humans).
+* [[Raonament]] mitjançant una [[Lògica formal]] (Anàleg al pensament abstracte humà).
+
+També existeixen diferents tipus de percepcions i accions, poden ser obtingudes i produïdes, respectivament per sensors físics i sensors mecànics en màquines, polsos elèctrics o òptics en computadores, tant com per entrades i sortides de bits d'un programari i el seu entorn programari.
+
+Diversos exemples es troben en l'àrea de [[teoria de control|control de sistemes]], [[planificació automàtica]], l'habilitat de respondre a diagnòstics i a consultes dels consumidors, [[reconeixement d'escriptura]], [[reconeixement de la parla]] i [[reconeixement de patrons]]. Els sistemes d'intel·ligència artificial actualment són part de la rutina en camps com [[economia]], [[medicina]], [[enginyeria]] i la [[milícia]], i s'ha usat en gran varietat d'aplicacions de [[programari]], jocs d'estratègia com [[escacs]] d'ordinador i altres [[videojocs]].
+
+== Història ==
+
+La intel·ligència artificial sorgeix definitivament a partir d'alguns treballs publicats en la dècada de 1940 que no van tenir gran repercussió, però a partir de l'influent treball en [[1950]] de [[Alan Turing]], [[Matemàtica|matemàtic]] [[Regne Unit|britànic]], s'obre una nova disciplina de les ciències de la informació.
+
+Si bé les idees fonamentals es remunten a la [[lògica]] i [[algorismes]] dels grecs, i a les [[matemàtiques]] dels àrabs, diversos segles abans de Crist, el concepte d'obtenir raonament artificial apareix en el segle XIV. A finals del segle XIX s'obtenen [[Lògica formal|lògiques formals]] prou poderoses i a mitjans del segle XX, s'obtenen màquines capaces de fer ús d'aquestes lògiques i algorismes de solució.
+
+En el seu històric article de 1950, Turing va proposar que la pregunta, pot pensar una màquina?» era massa filosòfica per tenir valor i, per fer-lo més concret, va proposar un joc d'imitació. En la prova de Turing intervenen dues persones i un ordinador. Una persona, l'interrogat, s'asseu en una sala i tecleja preguntes a la terminal d'una computadora. Quan apareixen les respostes a la terminal, l'interrogat intenta determinar si van ser fetes per una altra persona o per un ordinador. Si actua de manera intel·ligent, segons Turing és intel·ligent. Turing, va assenyalar que una màquina podria fracassar i encara ser intel·ligent. Tanmateix creia que les màquines podrien superar la prova a finals del segle XX.
+
+De totes maneres aquesta prova no va tenir el valor pràctic que s'esperava, encara que les seves repercussions teòriques són fonamentals. L'enfocament de Turing de veure a la intel·ligència artificial com una imitació del comportament humà no fou tan pràctic al llarg del temps i l'enfocament dominant ha estat el del comportament racional, de manera semblant, en el camp de l'aeronàutica es va deixar de banda l'enfocament de tractar d'imitar els ocells i es va prendre l'enfocament de comprendre les regles d'[[aerodinàmica]]. Encara que per descomptat, l'enfocament del comportament humà i el del pensament humà continuen sent estudiats per les [[Ciència cognitiva|ciències cognitives]] i continuen aportant interessants resultats a la Intel·ligència Artificial, i viceversa.
+
+La ciència no es defineix, sinó que es reconeix. Per l'evolució de la Intel·ligència Artificial les dues forces més importants van ser la [[lògica matemàtica]], la qual es desenvolupa ràpidament a finals del segle XIX, i les noves idees sobre [[computació]] i els avenços en electrònica que van permetre la construcció dels primers computadors en 1940.
+
+També són font de la intel·ligència artificial: la [[filosofia]], la [[neurociència]] i la [[lingüística]]. La lògica matemàtica ha continuant sent una àrea molt activa en la intel·ligència artificial. Fins i tot abans de l'existència dels ordinadors amb els sistemes lògics deductius.
+
+=== Orígens i evolució cronològica ===
+
+Els jocs matemàtics antics, com el de les [[Torres de Hanoi]] (cap al 3000 aC), mostren l'interès per la recerca d'una manera resolutiva, capaç de guanyar amb els mínims moviments possibles.
+
+Prop de [[300 aC]], [[Aristòtil]] va ser el primer a descriure de manera estructurada un conjunt de regles, [[sil·logisme]], que descriuen una part del funcionament de la ment humana i que, al seguir pas a pas, produeixen conclusions racionals a partir de premisses donades.
+
+En [[250 aC]] [[Ctesibi]] d'[[Alexandria]] va construir la primera màquina autocontrolada, un regulador del flux d'aigua que actuava modificant la seva comporta racionalment (correctament) però clarament sense raonament.
+
+En [[1315]], [[Ramon Llull]] va tenir la idea que el raonament podia ser efectuat d'una manera artificial.
+
+En [[1847]] [[George Boole]] va establir la [[lògica proposicional]] (booleana), molt més completa que els sil·logisme d'Aristòtil, però encara una cosa poc potent.
+
+En [[1879]] [[Gottlob Frege]] estén la lògica booleana i obté la [[Lògica de Primer Ordre]] la qual compta amb un major poder d'expressió i és utilitzada universalment en l'actualitat.
+
+En [[1903]] [[Lee De Forest]] inventa el [[Triodos]], també anomenat bulb o [[vàlvula de buit]].
+
+En [[1937]] [[Alan Turing]] va publicar un article de força repercussió sobre els nombres calculables, un article que va establir les bases teòriques per a totes les ciències de computació, i que es pot considerar l'origen oficial de la [[informàtica teòrica]]. En aquest article va introduir el concepte de [[Màquina de Turing]], una entitat matemàtica abstracta que va formalitzar el concepte d'[[algorisme]] i va resultar ser la precursora de les computadores digitals. Podia conceptualment llegir instruccions d'una cinta de paper perforada i executar totes les operacions crítiques d'un computador. L'article va fixar els límits de les ciències de la computació perquè va demostrar que no és possible resoldre problemes amb cap tipus d'ordinador. Amb l'ajuda de la seva màquina, Turing va poder demostrar que hi ha problemes irresolubles, dels quals cap ordinador serà capaç d'obtenir la seva solució, per la qual cosa se'l considera el pare de la [[teoria de la computabilitat]].
+
+En [[1940]] [[Alan Turing]] i el seu equip van construir el primer ordinador electromecànic i en [[1941]] [[Konrad Zuse]] va crear la primera computadora programable i el primer llenguatge de programació d'alt nivell [[Plankalkül]]. Les següent màquines més potents, encara que amb el mateix concepte, van ser l'ABC i [[ENIAC]].
+
+En [[1943]] Warren McCulloch i Walter Pitts van presentar el seu model de neurones artificials, el qual es considera el primer treball del camp d'intel·ligència artificial, tot i que encara no existia el terme.
+
+En [[1950]] Turing va consolidar el camp de la intel·ligència artificial amb el seu article ''Computing Machinery and Intelligence'', en el qual va proposar una prova concreta per determinar si una màquina era intel·ligent o no, la seva famosa [[Prova de Turing]] per la qual cosa se'l considera el pare de la Intel·ligència Artificial. Anys després Turing es va convertir en el adalid que els qui defensaven la possibilitat d'emular el pensament humà a través de la computació i va ser coautor del primer programa per jugar escacs.
+
+En [[1951]] [[William Shockley]] inventa el [[transistor]] d'unió. L'invent va fer possible una nova generació d'ordinadors molt més ràpids i petits.
+
+En [[1956]] es va encunyar el terme intel·ligència artificial a la [[Universitat de Dartmouth]] durant una conferència convocada per McCarthy, a la qual van assistir, entre d'altres, [[Marvin Minsky|Minsky]], [[Allen Newell|Newell]] i [[Herbert Simon|Simon]]. En aquesta conferència es van fer previsions triomfals a deu anys vista que mai no es van complir, cosa que va provocar l'abandonament gairebé total de les investigacions durant quinze anys.
+
+En 1980 la història es va repetir amb el desafiament japonès de la cinquena generació, que va donar lloc a l'auge dels sistemes experts però que no va assolir molts dels seus objectius, pel que aquest camp va patir una nova interrupció en els anys noranta.
+
+En 1987 [[Martin Fischl]] i [[Oscar Firschein]] van descriure els atributs d'un agent intel·ligent. En intentar descriure amb un major àmbit (no només la comunicació) els atributs d'un agent intel·ligent, la IA s'ha expandit a moltes àrees que han creat branques d'investigació enormes i diferenciades. Aquests atributs de l'agent intel·ligent són:
+
+En l'actualitat s'està tan lluny de complir la famosa [[prova de Turing]] com quan es va formular: ''Existirà Intel·ligència Artificial quan no siguem capaços de distingir entre un ésser humà i un programa d'ordinador en una conversa a cegues''.
+
+Com a anècdota, molts dels investigadors sobre IA sostenen que «la intel·ligència és un programa capaç de ser executat independentment de la màquina que l'executeu, ordinador o cervell»:
+
+# Té actituds mentals com ara creences i intencions.
+# Té la capacitat d'obtenir coneixement, és a dir, aprendre.
+# Pot resoldre problemes, fins i tot particionant problemes complexos en altres més simples.
+# Entén. Té la capacitat de crear sentit, si és possible, a idees ambigües o contradictòries.
+# Planifica, prediu conseqüències, avalua alternatives (com en els jocs d'escacs)
+# Coneix els límits de la seves pròpies habilitats i coneixements.
+# Pot distingir malgrat les semblança de les situacions.
+# Pot ser original, creant fins i tot nous conceptes o idees, i fins utilitzant analogies.
+# Es pot generalitzar.
+# Es pot percebre i modelar el món exterior.
+# Es pot entendre i utilitzar el llenguatge i els seus símbols.
+
+Podem llavors dir que la IA posseeix característiques humanes com ara l'aprenentatge, l'adaptació, el raonament, l'autocorrecció, el millorament implícit, i la percepció modular del món. Així, podem parlar ja no només d'un objectiu, sinó de molts, depenent del punt de vista o utilitat que pugui trobar a la IA.
+
+Molts dels investigadors sobre IA sostenen que «la intel·ligència és un programa capaç de ser executat independentment de la màquina que l'executeu, ordinador o cervell».
+
+== Fonaments i filosofia ==
+
+Com passa gairebé sempre en el cas d'una ciència acabada de crear, la intel·ligència artificial aborda tantes qüestions que es poden confondre en un nivell fonamental i conceptual que, adjunt a la ciència, cal fer consideracions des del punt de vista de la [[filosofia]]. Gran part d'aquesta ciència s'ajunta amb temes en la filosofia de la ment, però hi ha certs temes particulars a la intel·ligència artificial. Per exemple:
+
+* En què consisteix la [[intel·ligència]]? Com la reconeixeria en un objecte no [[humà]], si la tingués?
+
+* Quina substància i organització es requereix? És possible que una criatura feta de [[metall]], per exemple, tingui una intel·ligència comparable a la humana?
+
+* Encara que una criatura no orgànica pogués solucionar [[Problema matemàtic|problemes]] de la mateixa manera que un humà, ¿hauria o podria tenir [[consciència (psicologia)|consciència]] i [[emocions]]?
+
+* Suposant que podem fer [[robot]]s amb una intel·ligència comparable a la nostra, hem de fer-ho?
+
+Durant més de 2000nbsp;anys de tradició en filosofia, han anat sorgint diverses teories del raonament i de l'aprenentatge, simultàniament amb el punt de vista que la [[ment]] es redueix al funcionament físic. La [[psicologia]] ofereix eines que permeten la investigació de la ment humana, així com un [[llenguatge]] científic per expressar les teories que es van obtenint. La [[lingüística]] ofereix teories per l'estructura i significat del llenguatge, així com la [[ciència de la computació]], de la qual es prenen les eines que permeten que la Intel·ligència Artificial sigui una realitat.
+
+Va començar amb el naixement de [[Plató]] a [[428 aC]] i amb el que va aprendre de [[Sòcrates]]. La temàtica de la seva obra va ser molt diversa: [[política]], [[matemàtica]], [[física]], [[astronomia]] i diverses branques de la [[filosofia]]. El filòsof [[Hubet Dreyfus]] ([[1979]]) afirma que:
+
+{{cita|Bé podria afirmar que la història de la intel·ligència artificial comença l'any [[450 aC]], quan Plató cita un diàleg en el que [[Sòcrates]] li pregunta a [[Eutidem (filòsof)|Eutidem]] : Voldria saber quina és la característica de la pietat que fa que una acció es pugui considerar com pia ... i així la observi i em serveixi de norma per a jutjar les teves accions i les d'altres.}}
+
+Els filòsofs van delimitar les més importants idees relacionades amb la intel·ligència artificial, però per passar d'allà a una ciència formal era necessari comptar amb una formalització matemàtica en tres àrees principals: la computació, la lògica i la probabilitat. La idea d'expressar un càlcul mitjançant un algorisme formal es remunta a l'època d'[[Muhàmmad ibn Mussa al-Khwarazmí|al-Khwarazmí]], matemàtic àrab del segle IX, amb les obres es van introduir en [[Europa]] els nombres aràbics i l'àlgebra (del seu nom ''al-Khwarazmí'' deriva la paraula [[algorisme]]).
+
+L'home s'ha aplicat a si mateix el nom científic de ''[[Homo sapiens]]'' com una valoració de la transcendència de les nostres habilitats mentals tant per a la nostra vida quotidiana com per al nostre propi sentit d'identitat. Els esforços del camp de la intel·ligència artificial s'enfoquen a aconseguir la compressió d'entitats intel·ligents. Una de les raons del seu estudi és aprendre més de nosaltres mateixos. A diferència de la [[filosofia]] i de la [[psicologia]], que també s'ocupen de la intel·ligència, els esforços de la intel·ligència artificial estan encaminats tant a la construcció d'entitats com a la seva compressió. Una altra raó per la qual s'estudia la intel·ligència artificial és degut al fet que ha estat possible crear sorprenents i diversos productes de transcendència. Ningú podria pronosticar amb tota precisió el que es podria esperar en el futur, és evident que les computadores que posseeixin una intel·ligència a nivell humà tindran repercussions molt importants en la nostra vida diària així com l'esdevenir de la [[civilització]].
+
+El problema que aborda la intel·ligència artificial és un dels més complexos: Com és possible que un diminut i lent [[cervell]], sigui [[biologia|biològic]] o [[electrònic]], tingui capacitat de percebre, comprendre, predir i manipular un món que en mida i complexitat ho supera amb escreix?, però a diferència de la investigació al voltant del desplaçament més gran que la [[velocitat de la llum]] o d'un dispositiu antigravitatori, l'investigador del camp de la intel·ligència artificial compta amb proves contundents que tal recerca és totalment factible.
+
+La intel·ligència artificial permet l'home emular en les màquines el comportament humà, prenent com a base el cervell i el seu funcionament, de manera que es pugui assolir cert raonament.
+
+==Intel·ligència artificial i els sentiments ==
+El concepte d'intel·ligència artificial és encara massa difús. Contextualitzant, i tenint en compte un punt de vista científic, podríem englobar a aquesta ciència com l'encarregada d'imitar una persona, i no el seu cos, sinó imitar al [[cervell]], en totes les seves funcions, existents en l'humà o inventades sobre el desenvolupament d'una [[màquina]] intel·ligent.
+
+A vegades, aplicant la definició d'Intel·ligència Artificial, es pensa en màquines intel·ligents sense [[sentiment]]s, que obstaculitzen trobar la millor solució a un problema donat. Sovint es pensa en màquines artificials capaços de concloure milers de [[premissa|premisses]] a partir d'altres [[premissa|premisses]] donades, sense que cap tipus d'emoció tingui l'opció d'obstaculitzar aquesta tasca.
+
+En aquesta línia, cal saber que ja existeixen sistemes intel·ligents. Capaços de [[presa de decisions|prendre decisions]] encertades.
+
+Encara que, de moment, la majoria dels investigadors en l'àmbit de la Intel·ligència Artificial se centren només en l'aspecte racional, molts d'ells consideren seriosament la possibilitat d'incorporar components emotius com ''indicadors d'estat'', per tal d'augmentar l'eficàcia dels sistemes intel·ligents.
+
+Particularment per als robots mòbils, cal que comptin amb una cosa similar a les emocions amb l'objecte de saber, a cada instant i com a mínim, què fer a continuació.refPinker, 2001, p. 481/ref
+
+En tenir sentiments i, almenys potencialment, motivacions, podran actuar d'acord amb les seves intencions.refMazlish, 1995, p. 318/ref Així, es podria equipar un robot amb dispositius que controlin el seu medi intern; per exemple, que sentin fam en detectar que el seu nivell d'energia està descendint o que sentin por quan aquell estigui massa baix.
+
+Aquest senyal podria interrompre els processos d'alt nivell i obligar el robot a aconseguir el preat element.refJohnson-Laird, 1993, p. 359/ref Fins i tot es podria introduir el dolor o el patiment físic, a fi d'evitar les malaptesa de funcionament com, per exemple, introduir la mà dins d'una cadena d'engranatges o saltar des d'una certa altura, la qual cosa li provocaria danys irreparables.
+
+Això significa que els sistemes intel·ligents han de ser dotats amb mecanismes de [[retroalimentació]] que els permetin tenir coneixement d'estats interns, igual que succeeix amb els humans que disposen de [[propiocepció]], [[interocepció]], [[nocicepció]], etcètera. Això és fonamental tant per prendre decisions com per conservar la seva pròpia integritat i seguretat. La retroalimentació en sistemes està particularment desenvolupada en [[cibernètica]], per exemple en el canvi de direcció i velocitat autònom d'un míssil, utilitzant com a paràmetre la posició a cada instant en relació a l'objectiu que ha d'assolir. Això ha de ser diferenciat del coneixement que un sistema o programa computacional pot tenir dels seus estats interns, per exemple la quantitat de cicles complets en un loop o bucle en sentències tipus ''do ... for'', o la quantitat de memòria disponible per a una operació determinada.
+
+Als sistemes intel·ligents no tenir en compte elements emocionals els permet no oblidar la fita que han d'assolir. En els humans l'oblit de la meta o abandonar les metes per pertorbacions emocionals és un problema que en alguns casos arriba a ser incapacitant. Els sistemes intel·ligents, en combinar una memòria durable, una assignació de metes o ''motivació'', al costat de la presa de decisions i assignació de prioritats basant-se en estats actuals i estats meta, aconsegueixen un comportament en extrem eficient, especialment davant de problemes complexos i perillosos.
+
+En síntesi, allò racional i allò emocional estan de tal manera interrelacionats entre si, que es podria dir que no només no són aspectes contradictoris sinó que són, fins a cert punt, complementaris.
+
+== Escoles de pensament ==
+La IA es divideix en dues escoles de pensament:
+* La intel·ligència artificial convencional
+* la [[intel·ligència computacional]]
+
+=== Intel·ligència artificial convencional ===
+La intel·ligència artificial convencional, intel·ligència artificial simbòlic-deductiva o IA feble es basa en l'anàlisi formal i estadístic del comportament humà davant diferents problemes:
+* [[Raonament basat en casos]]: Ajuda a prendre decisions mentre es resolen certs problemes concrets.
+* [[Sistema expert|Sistemes experts]]: infereix una solució a través del coneixement previ del context en què s'aplica i ocupa de certes regles o relacions.
+* [[Xarxa bayesiana|Xarxes bayesianes]]: Proposa solucions mitjançant inferència estadística.
+* [[Sistemes complexos|Intel·ligència artificial basada en comportaments]]: que tenen autonomia i poden auto-regular i controlar per millorar.
+
+=== Intel·ligència artificial computacional ===
+La intel·ligència computacional (també coneguda com a intel·ligència artificial subsimbólica-inductiva o intel·ligència artificial forta) implica desenvolupament o aprenentatge interactiu (per exemple, modificacions interactives dels paràmetres en sistemes connexió). L'aprenentatge es realitza basant-se en dades empíriques.
+
+== Crítiques ==
+Les principals crítiques a la intel·ligència artificial tenen a veure amb la seva incapacitat d'imitar per complet a un ésser humà. Aquestes crítiques ignoren que cap humà individual té capacitat per a resoldre tot tipus de problemes, i autors com [[Howard Gardner]] han proposat que hi ha [[intel·ligències múltiples]]. Un sistema d'intel·ligència artificial hauria de resoldre problemes. Per tant és fonamental en el seu disseny la delimitació dels tipus de problemes que resoldrà i les estratègies i algoritmes que utilitzarà per trobar la solució.
+
+En els humans la capacitat de resoldre problemes té dos aspectes: els aspectes innats i els aspectes apresos. Els aspectes innats permeten per exemple emmagatzemar i recuperar informació a la [[Memòria (psicologia)|memòria]] i els aspectes apresos el saber resoldre un problema matemàtic mitjançant l'algoritme adequat. De la mateixa manera que un humà ha de disposar d'eines que li permetin solucionar certs problemes, els sistemes artificials han de ser programats de manera que puguin resoldre certs problemes.
+
+Algunes persones consideren que el [[test de Turing]] ja ha estat superat. Hi ha qui al dialogar amb un programa d'intel·ligència artificial per [[xat]] no saben que parlen amb un programa. Altres experiments com l'[[Habitació xinesa]] de [[John Searle]] han mostrat com una màquina pot simular pensament sense haver de tenir, i pot passar molts tests, sense tan sols entendre el que fa. Alguns han criticat això pel fet obvi que la màquina en realitat no està [[pensament|pensant]], sinó actuant basant-se en un programa preestablert. Aquesta crítica es dissol si es considera l'educació dels humans com programes preestablerts, ja que l'educació seria transmetre a un alumne regles, procediments i algorismes per resoldre problemes i prendre decisions.
+
+Un sistema d'intel·ligència artificial té enormes avantatges respecte als humans. Per exemple, la seva capacitat d'emmagatzematge, la seva capacitat per prendre decisions racionals sense prejudicis o emocions que pertorbin el resultat, i la no fixació funcional. La fixació funcional és el problema humà d'acostumar a utilitzar conceptualment un objecte sense poder utilitzar aquest objecte per a una finalitat diferent de l'habitual. Un exemple seria tenir la capacitat d'utilitzar un martell com percussor per clavar, o bé com petjapapers en cas de ser necessari. S'ha aconseguit utilitzar un objecte d'una manera diferent de l'usual o per al qual ha estat creat.
+
+Un dels majors problemes en sistemes d'intel·ligència artificial és la comunicació amb l'usuari. Aquest obstacle és degut al llenguatge i va aparèixer ja en els inicis dels primers [[sistema operatiu|sistemes operatius]] informàtics. La capacitat dels humans per [[comunicació|comunicar]] entre si implica el coneixement del llenguatge que utilitza l'interlocutor. Perquè un humà pugui comunicar-se amb un sistema intel·ligent hi ha dues opcions: o bé l'humà aprèn el llenguatge del sistema com si aprengués a parlar qualsevol altre idioma diferent al nadiu, o bé el sistema té la capacitat d'interpretar el missatge de l'usuari en la llengua que l'usuari utilitza.
+
+Un humà durant tota la seva vida aprèn el vocabulari de la seva llengua nativa i cap humà pot conèixer totes les paraules que existeixen en el seu idioma. Un humà interpreta els missatges malgrat la [[polisèmia]] de les paraules utilitzant el context per resoldre ambigüitats. Tanmateix, ha de conèixer els diferents significats per poder interpretar, i és per això que llenguatges especialitzats i tècnics són coneguts només per experts en les respectives disciplines. Un sistema d'intel·ligència artificial s'enfronta amb el mateix problema, la polisèmia del llenguatge humà, la seva [[sintaxi]] poc estructurada i els [[dialecte]]s entre grups.
+
+Els desenvolupaments en intel·ligència artificial són més grans en els camps disciplinars en els que existeix major consens entre especialistes. Un sistema expert és més probable de ser programat en física o en medicina que en sociologia o en psicologia. Això és degut al problema del consens entre especialistes en la definició dels conceptes involucrats i en els procediments i tècniques a utilitzar. Per exemple, en física hi ha acord sobre el concepte de velocitat i com calcular. Tanmateix, en psicologia es discuteixen els conceptes, l'etiologia, la psicopatologia i com procedir davant cert diagnòstic. Això dificulta la creació de sistemes intel·ligents perquè sempre hi haurà desacord sobre el que s'esperaria que el sistema faci. Malgrat això hi ha grans avenços en el disseny de sistemes experts per al diagnòstic i presa de decisions en l'àmbit mèdic i psiquiàtric.refAdaraga Morales, Zaccagnini Sancho, 1994/ref
+
+== Aplicacions ==
+A la intel·ligència artificial cada dia se li donen més usos i aplicacions. Podem citar, entre d'altres:
+* Lingüística computacional
+* [[Mineria de dades]]
+* Industrials
+* Mèdiques
+* Processament de llenguatge natural (''Natural Language Processing'')
+* [[Robòtica]]
+* Sistemes de suport a la decisió
+* [[Videojoc]]s
+* Prototips informàtics
+* Anàlisi de sistemes dinàmics
+
+== Científics en el camp de la intel·ligència artificial ==
+* [[John McCarthy]]
+* [[Alan Turing]], deixeble de [[John von Neumann]], va dissenyar el [[Test de Turing]] que s'hauria d'utilitzar per comprendre si una màquina lògica és intel·ligent o no.
+
+== Vegeu també ==
+* [[Intel·ligència d'eixam]]
+* [[Robòtica d'eixam]]
+* [[Prosopagnòsia]]
+* [[Màrqueting]]
+* [[Traducció automàtica]]
+* [[Matriu de confusió]]
+* [[Computació afectiva]]
+* [[A.I. Artificial Intelligence]]
+
+== Referències ==
+{{Referències|2}}
+
+== Enllaços externs ==
+{{Commonscat}}
+* [http://www.acia.cat/ ACIA - Associació Catalana d'Intel·ligència Artificial]
+* [http://www.eccai.org/ ECCAI - European Coordinating Committee for Artificial Intelligence]
+* [http://www.eusflat.org/ EUSFLAT - European Society for Fuzzy Logic and Technology]
+
+{{1000 Tecnologia}}
+
+{{Enllaç AB|es}}
+{{Autoritat}}
+{{Enllaç AD|en}}
+{{Enllaç AD|tt}}
+
+[[Categoria:Intel·ligència artificial| ]]</text>
+      <sha1>b9iv7ulckbq0vahks3o0jlg9ckyjkof</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

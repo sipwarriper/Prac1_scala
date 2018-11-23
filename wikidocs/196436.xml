@@ -1,0 +1,241 @@
+<page>
+    <title>Advanced Squad Leader</title>
+    <ns>0</ns>
+    <id>196436</id>
+    <revision>
+      <id>13992373</id>
+      <parentid>13992263</parentid>
+      <timestamp>2014-08-31T18:40:16Z</timestamp>
+      <contributor>
+        <username>Joutbis</username>
+        <id>32106</id>
+      </contributor>
+      <comment>tipus de lletra uniforme</comment>
+      <text>'''''Advanced Squad Leader''''' (ASL) és un [[joc de guerra]] [[tàctica|tàctic]] que simula accions de mida de [[companyia (militar)|companyia]] o [[batalló]] en la [[Segona Guerra Mundial]]. És un sistema de joc detallat per a dos o més jugadors (amb joc solitari també possible). Els seus components inclouen el Llibre de regles d'ASL i diversos jocs anomenats mòduls. Els mòduls d'ASL proveeixen l'equipament estàndard per jugar ASL, incloent [[mapa|mapes]] i [[fitxa|fitxes]]. Els mapes es divideixen en [[hexàgon]]s per gestionar foc i moviment i mostren terreny genèric que pot representar diverses localitzacions històriques. Les peces són fitxes de cartró que mostren [[escamot]]s de [[soldat]]s, dotacions, líders individuals, armes de suport, armament pesat i vehicles.
+
+== Introducció ==
+Dotze mòduls nuclears permeten representar quasi tots els tipus de tropa, vehicles i armes que van veure acció de combat en qualsevol nacionalitat involucrada en la Segona Guerra Mundial. Cada mòdul du de sis a vint situacions recercades que reprodueixen [[batalla|batalles]] històriques. Aquests escenaris s'imprimeixen en paper dur amb especificacions de durada de la partida, configuració dels mapes, peces involucrades, regles especials per a la batalla en particular (com ara la meteorologia) i les condicions de victòria. A més dels escenaris publicats als mòduls, hi ha moltes altres fonts d'escenaris, tant oficials com no oficials. També hi ha un conjunt detallat d'instruccions al Llibre de regles ASL per fer escenaris dissenyats per un mateix (DYO) sobre un sistema de compra de punts.
+
+Les variacions de l'ASL inclouen Deluxe ASL (DASL), un experiment de vida curta per mirar d'unir el joc de guerra de [[miniatura|miniatures]] amb l'ASL; Historical ASL (HASL), que usa els mapes correctes per representar les batalles, normalment en una [[campanya militar|campanya]] on el resultat d'un escenari afecta el desplegament inicial de l'escenari següent; Solitaire ASL (SASL) amb molts canvis de regles per aconseguir [[boira de guerra]] i control sobre els soldats per millorar el joc solitari; i els ASL Starter Kits (ASLSK), una sèrie de paquets introductoris autònoms.
+
+El joc va ser publicat per primer cop per [[Avalon Hill]] en [[1985]] com a successor de l'exitosa sèrie [[Squad Leader]], el joc en què es basa ASL i del qual es van extreure regles i material. Quan la quarta i final entrega de Squad Leader va aparèixer, hi havia quatre llibres de regles existents en paral·lel amb regles molt poc integrades i sovint contradictòries. Per exemple, les tropes dels [[EUA]] tenien un desavantatge en usar els valors de moral per determinar l'habilitat en empènyer [[artilleria]] a través de terrenys amb fang o neu sense que hi hagi cap raó real perquè la moral afecti aquesta activitat. Quedava clar que el sistema havia crescut més del que es podia imaginar quan va començar l'any [[1977]]; grans quantitats de correu molest dirigit a Avalon Hill van convèncer els [[dissenyador de jocs|dissenyadors]] que haurien de perfeccionar les regles.
+
+== ASL ==
+Avalon Hill havia promès primer un nou llibre de regles que aclarís els procediments, eliminés les redundàncies i revisés el sistema de simulació de protecció de blindatges i perforació del blindatge en combat de tancs, anomenat To Hit/To Kill (Per Impactar/Per Matar). En lloc d'això, al moment d'aparèixer, Advanced Squad Leader s'havia convertit en un reemplaçament complet de la sèrie original de jocs SL. Per exemple, l'Squad Leader original tenia dotze tipus diferents de [[tanc]]s i canons d'assalt i cinc tipus de blindatge, de -2 a +2. Ara, ASL tenia peces que mostraven cinquanta-sis tipus diferents de tancs i canons d'assalt... només per als alemanys, amb valors de blindatge de 0 a 26, basats en el gruix real (en centímetres) dels blindatges i en el seu angle d'inclinació. El mòdul ''Beyond Valor'' inclou noranta-nou vehicles alemanys que van de [[semieruga|semierugues]], cotxes blindats i vehicles antiaeris a vehicles sense blindatge.
+
+Alguns fans ban reaccionar negativament a la necessitat de reemplaçar els quatre mòduls que havien comprat. Només els mapes de les primeres sèries van continuar sent compatibles amb el nou joc.
+
+El nou joc demanava almenys dos productes, el [[#Llibre de regles d'ASL|Llibre de regles d'ASL]] i un mòdul inicial, o bé [[Mòduls d'Advanced Squad Leader#Beyond Valor|Beyond Valor]], que conté les fitxes dels exèrcits d'Alemanys, l'URSS i Finlàndia i tots els marcadors necessaris per al joc, o bé [[Mòduls d'Advanced Squad Leader#Paratrooper|Paratrooper]], que conté un nombre limitat de peces-marcadors i tropes paracaigudistes dels EUA i els seus oponents alemanys en les batalles de [[Normandia]]. Qualsevol dels dos mòduls també demanava tenir els taulells originals d'SL per poder jugar els nous escenaris.
+
+El nou joc no incloïa un aprenentatge seqüencial, sinó que demanava llegir i entendre quatre capítols sencers del Llibre de Regles per poder jugar un escenari que tingués artilleria o vehicles. Fins i tot els components més bàsics d'ASL ja no eren introductoris, encara que el mòdul [[Mòduls d'Advanced Squad Leader#Paratrooper|Paratrooper]] pogués fer pensar el contrari. (Això es corregiria el 2004 amb la introducció dels ASL Starter Kits). Avalon Hill va suggerir que qui volgués jugar ASL comencés amb el joc original Squad Leader per guanyar experiència de joc i per això van continuar produint SL i les seves tres extensions. Segurament també hi va influir el fet de necessitar els taulers d'SL per poder jugar a ASL. O sigui que tot i que ASL havia de substituir a SL, durant molts anys va haver-hi molta ambigüitat sobre aquest reemplaçament: el joc original era una manera d'aprendre ASL i era necessari pels mapes.
+
+ASL va ser el primer joc 'avançat' d'Avalon Hill (els altres van ser [[Advanced Civilization]] i [[Advanced Third Reich]]). [[Hasbro]] va comprar els drets dels jocs d'Avalon Hill quan aquesta empresa va plegar i el 15 de gener de [[1999]] [[Multi-Man Publishing]], LLC (MMP) va anunciar una associació exclusiva amb Hasbro, Inc. per desenvolupar, produir i distribuir els jocs i altres productes del sistema de joc Advanced Squad Leader (ASL) d'Avalon Hill. MMP és una empresa de jocs fundada per [[Curt Schilling]] i alguns socis seus per preservar ASL i altres jocs destacats d'Avalon Hill. Multi-Man Publishing va fer força canvis al sistema; la decisió de no reimprimir els jocs inicials de Squad Leader va resultar en la reorganització i la 2a edició de molts mòduls d'ASL per poder incloure els mapes del primer joc, necessaris per jugar els escenaris de molts mòduls.
+
+Tot i l'alt preu i la cara llista de prerequisits per a cada mòdul, el sistema de joc va enganxar i encara es produeixen nous mòduls vint anys més tard del llançament original, una fita sense pairó a la indústria dels [[Jocs de guerra]] de [[Jocs de tauler|tauler]], especialment amb la pèrdua de vendes causada pel creixement dels [[joc]]s per [[videoconsola|videoconsoles]] i per [[ordinador personal|ordinadors personals]]. Una gran comunitat activa d'aficionats a l'ASL continua existint i munta tornejos, webs comunitaris, clubs i [[fanzine]]s. Una gran comunitat de vendes i intercanvis permet als participants vendre i comprar mòduls d'ASL. Es pot jugar a ASL sobre la Internet amb el programa Virtual Advanced Squad Leader (VASL), que fa servir el motor Vassal dissenyat per Rodney Kinney. Es tracta d'una aplicació basada en [[llenguatge de programació|Java]] que permet la gestió en temps real de diversos jugadors i/o observadors que poden manipular representacions gràfiques de mapes i fitxes, incloent tirades aleatòries de daus, comprovar la [[línia de visió|LOS]], consultar les taules de resultats i fer totes les feines administratives necessàries per poder jugar a ASL.
+
+Força desenvolupadors independents continuen publicant mòduls i escenaris d'ASL.
+
+=== Llibre de Regles d'ASL ===
+
+El Llibre de Regles d'ASL va ser revolucionari en el seu disseny, almenys pel que fa a wargames. Estava basat en els manuals d'entrenament militar i estava fet de fulls agafats en un quadern de tres anelles. Cada capítol tenia un codi de color a la part superior de la pàgina amb divisors de capítols de cartró ben acolorits i amb taules i diagrames associats al capítol. Cada cert temps es proporcionaven errates i una sèrie de copons del final del llibre es podien fer servir per aconseguir actualitzacions del llibre. Les errates arribaven en forma de pàgines modificades amb el número de pàgina superindexat per la data dels canvis; les pàgines velles es treien de les anelles i es descartaven. Les dues actualitzacions més grans van ser les de 1987 i 1989 que van canviar moltes pàgines. La primera edició de les regles duia els capítols A, B, C, D, H, J i N. El capítol N era un inventari visual de totes les fitxes incloses a [[Mòduls d'Advanced Squad Leader#Beyond Valor|Beyond Valor]] i alguns mòduls posteriors, però no es va continuar suportant. Alguns dels primers mòduls van incloure les pàgines corresponents del capítol N però d'altres van trigar (les pàgines N del mòdul Paratrooper no van arribar fins al mòdul [[Mòduls d'Advanced Squad Leader#Yanks|Yanks]]. Els mòduls [[Mòduls d'Advanced Squad Leader#ASL Històric|HASL]] no duien pàgines N i tampoc en va dur el mòdul [[Mòduls d'Advanced Squad Leader#Doomed Battalions|Doomed Battalions]]
+
+div align=centercenter
+
+{| border=1 cellspacing=0 cellpadding=2 style=font-size:88%
+|-----
+| align=center colspan=3 | '''Capítols de la primera edició del Llibre de Regles'''
+|-----
+! Capítol 
+! Contingut 
+! Venut com a part de: 
+|-----
+| bgcolor=#F5B0FF | Capítol A 
+| Infanteria i Regles Bàsiques del Joc 
+| Llibre de Regles d'ASL 
+|-----
+| bgcolor=#008000 | Capítol B 
+| Regles de Terreny 
+| Llibre de Regles d'ASL 
+|-----
+| bgcolor=#0080C0 | Capítol C 
+| Artilleria i Suport Artiller de Fora del Taulell 
+| Llibre de Regles d'ASL 
+|-----
+| bgcolor=#808080 | Capítol D 
+| Vehicles 
+| Llibre de Regles d'ASL 
+|-----
+| bgcolor=#80FFFF | Capítol E 
+| Miscel·lània 
+| Yanks! 
+|-----
+| bgcolor=#BE9C83 | Capítol F 
+| Àfrica del Nord 
+| West of Alamein 
+|-----
+| bgcolor=#C2E401 rowspan=2 | Capítol G 
+| rowspan=2 | Teatre del Pacífic 
+| Code of Bushido (pp.1-18) 
+|-----
+| Gung Ho! (pp.18-42) 
+|-----
+| bgcolor=#FED136 rowspan=9 | Chapter H 
+| rowspan=9 | Dissenya el teu escenari 
+| Llibre de Regles d'ASL (pp.1-30) 
+|-----
+| Yanks! (pp31-48) 
+|-----
+| West of Alamein (pp.49-76) 
+|-----
+| Hollow Legions (pp.77-88) 
+|-----
+| Code of Bushido (pp.89-100) 
+|-----
+| Gung Ho! (pp.101-112) 
+|-----
+| Croix de Guerre (pp.113-130) 
+|-----
+| Doomed Battalions (pp.131-142) 
+|-----
+| Armies of Oblivion (pp.143-172) 
+|-----
+| bgcolor=#808080 | Capítol I 
+| bgcolor=#808080 | Campanya 
+| bgcolor=#808080 | Mai publicat 
+|-----
+| bgcolor=#808000 | Capítol J 
+| Deluxe ASL 
+| Llibre de Regles d'ASL 
+|-----
+| bgcolor=#FFFFFF rowspan=3 | Capítol K 
+| rowspan=3 | Manual d'Entrenament d'Squad Leader 
+| Paratrooper (pp.1-24) 
+|-----
+| Pegasus Bridge (pp.25-32) 
+|-----
+| ASL Journal (pp.33-  ) 
+|-----
+| Capítol L 
+| Postal ASL 
+|  
+|-----
+| Capítol M 
+| ASL Analysis 
+|  
+|-----
+| bgcolor=#AC0202 rowspan=7 | Capítol N 
+| rowspan=7 | ASL Armory 
+| Beyond Valor (pp.1-6) 
+|-----
+| Yanks! (pp.7-10) 
+|-----
+| West of Alamein (pp.11-14) 
+|-----
+| Hollow Legions (pp.15-16) 
+|-----
+| Code of Bushido (pp.17-18) 
+|-----
+| Gung Ho! (pp.19-20) 
+|-----
+| Croix de Guerre (pp.21-22) 
+|-----
+| bgcolor=#FF0000 | Capítol O 
+| Red Barricades HASL 
+| Red Barricades 
+|-----
+| rowspan=2 bgcolor=#000000 | span style=color:#FFFFFFCapítol P 
+| rowspan=2 | Kampfgruppe Peiper 
+| KGP I  
+|-----
+| KGP II (actualització de KGP I) 
+|-----
+| bgcolor=#800000 | Capítol Q 
+| Pegasus Bridge 
+| Pegasus Bridge 
+|-----
+| bgcolor=#8080C0 | Capítol R 
+| A Bridge Too Far 
+| A Bridge Too Far 
+|-----
+| bgcolor=#E79DFF | Capítol S 
+| Solitaire ASL 
+| Solitaire ASL 
+|-----
+| bgcolor=#E79DFF | Capítol T 
+| Blood Reef: Tarawa 
+| Blood Reef: Tarawa
+|-----
+| bgcolor=#E79DFF | Capítol v 
+| Valor of the Guards 
+| Valor of the Guards 
+|}
+/center/div
+
+Les regles en si estaven ben estructurades però es van introduir molts procediments al joc que van incrementar-ne la complexitat i el temps de joc (i també la possibilitat de discussions sobre les regles). El disseny de les armes d'infanteria es va reestructurar per evitar tàctiques no realistes i les metralladores i artilleria van rebre cadences de tir variables (és a dir, van tenir l'abilitat de disparar més d'un cop per fase, amb la impossibilitat de predir per endavant quants tirs es tindrien). Els escamots armats amb armes lleugeres ara tenien altres opcions per reflectir diversos armaments, per exemple les armes semiautomàtiques i automàtiques podien simular-se amb les regles per Ruixar Foc (Spraying Fire) o Foc d'Assalt (Assault Fire).
+
+Per sobre de tot, l'ús d'abreviatures i llenguatge estandarditzat va produir una imatge molt tècnica de les regles; aquest tipus de llenguatge es coneix com a legal en contrast amb les regles de tipus conversacional. El debat dels mèrits dels dos tipus d'aproximació a les regles es remunta al llibre de regles de l'Squad Leader original, escrit per John Hill i Don Greenwood. ASL va assentar-se sobre el llenguatge legal, segurament perquè Don Greenwood va ser la força conductora d'ASL quan John Hill va encaminar-se cap a altres projectes.
+
+Una '''2a Edició''' del Llibre de Regles va ser editat per [[Multi-Man Publishing]] l'any 2001, on es combinaven totes les errates prèvies i s'introduïen actualitzacions als capítols A, B, C, D, H (Alemany/Rus) i J així com el capítol E (abans només disponible al mòdul Yanks) i el Capítol K Dies 1-8 (abans només disponible al mòdul [[Mòduls d'Advanced Squad Leader#Paratrooper|Paratrooper]] (Dies 1-6), el mòdul HASL Pegasus Bridge (Dia 7) i l'ASL Journal #2 (Dia 8)).
+
+Totes les regles dels mòduls d'ASL Històric associades amb els Mòduls d'Estudis Històrics i l'ASL Journal es van incorporar al nou Capítol Z.
+
+div align=centercenter
+
+{| border=1 cellspacing=0 cellpadding=2 style=font-size:88%
+|-----
+| align=center colspan=3 bgcolor=#008000 | '''Capítol Z del Llibre de Regles d'MMP''' 
+|-----
+! Pàgines de les regles 
+! Regles per: 
+! Venudes com a part de: 
+|-----
+| align=center | 1-2 
+| align=center | Kakazu Ridge 
+| align=center | ASL Journal 2 
+|-----
+| align=center | 3-20 
+| align=center | Edson's Ridge Mini-CG 
+| align=center | Operation Watchtower 
+|-----
+| align=center | 21-38 
+| align=center | Riley's Road CG 
+| align=center | Operation Veritable 
+|-----
+| align=center | 39 - 57 
+| align=center | Primosole Bridge CG 
+| align=center | ASL Journal 6 
+|}
+/center/div
+
+El capítol N ja no se suporta al Llibre de Regles d'ASL 2a Edició i totes les pàgines del Capítol N s'han eliminat dels mòduls reeditats. El nou llibre de regles inclou material menor no corregit en errates anteriors i fa que posseir la 2a Edició sigui essencial per la compatibilitat amb els nous productes o amb els jugadors que fan servir la 2a Edició. La majoria de canvis a les regles es realitzen a través de la substitució de pàgines. També es fa servir una tipografia major i una maquetació millorada.
+
+=== Elements Únics ===
+
+Potser un dels elements més curiosos del sistema ASL és l'ús dels daus. Tot i que usar dos daus per obtenir una campana de Gauss en els resultats entre 2 i 12 (36 possibles resultats) no és un sistema exclusiu d'ASL, hi ha moltes altres maneres en què s'usen els daus. Un dels daus és de color vermell i quan els dos daus es llancen no només s'usa la suma dels dos daus; per exemple, en un atac fet per una metralladora es creua el resultat dels dos daus amb la potència del foc a la Taula de Foc d'Infanteria (IFT) i si el dau vermell és igual o menor a la Cadença de Foc (ROF) de l'metralladora, llavors aquesta pot continuar disparant. Comparar els valors dels dos daus també crea resultats; per exemple, un resultat de 12 (sis més sis) fa que l'metralladora s'encalli. Si l'atac era fet per un escamot d'infanteria, obtenir el mateix número als dos daus fa que els soldats s'acovardeixin i l'atac tingui menys potència. Si es treuen dos uns (u més u) s'obté un Impacte Crític en els atacs d'artilleria. També, la majoria d'escenaris d'ASL tenen un Número d'Activació del Franctirador (SAN) que activa un atac aleatori d'algun franctirador quan algú treu el número SAN de l'oponent durant qualsevol altra tirada del joc. Així els daus tenen un pes molt important del joc, ja que provoquen molts esdeveniments cada cop que algú els llança.
+
+=== Mòduls d'ASL ===
+
+A continuació hi ha una llista de [[Mòduls d'Advanced Squad Leader]] amb les seves dates de publicació. Hi ha [[Advanced Squad Leader#Prerequisits dels mòduls|prerequisits]] complexos per tots els mòduls a partir de [[Mòduls d'Advanced Squad Leader#Beyond Valor|Beyond Valor]] i [[Mòduls d'Advanced Squad Leader#Paratrooper|Paratrooper]] i les segones edicions han reorganitzat els mapes i els capítols de regles que venien amb cada mòdul. Específicament, ha calgut reeditar els taulers 1 a 4 a causa de la decisió de [[Multi-Man Publishing|MMP]] de no reeditar el joc [[Squad Leader]] original i les seves tres extensions.
+
+* 1—''[[Mòduls d'Advanced Squad Leader#Beyond Valor|Beyond Valor]]'' (1985)
+* 2—''[[Mòduls d'Advanced Squad Leader#Paratrooper|Paratrooper]]'' (1986)
+* 3—''[[Mòduls d'Advanced Squad Leader#Yanks|Yanks]]'' (1987)
+* 4—''[[Mòduls d'Advanced Squad Leader#Partisan|Partisan!]]'' (1987)
+* 5—''[[Mòduls d'Advanced Squad Leader#West of Alamein|West of Alamein]]'' (1988)
+* 5a—''[[Mòduls d'Advanced Squad Leader#For King and Country|For King and Country]]'' (2004)
+* 6—''[[Mòduls d'Advanced Squad Leader#The Last Hurrah|The Last Hurrah]]'' (1988)
+* 7—''[[Mòduls d'Advanced Squad Leader#Hollow Legions|Hollow Legions]]'' (1989)
+* 8—''[[Mòduls d'Advanced Squad Leader#Code of Bushido|Code of Bushido]]'' (1990)
+* 9—''[[Mòduls d'Advanced Squad Leader#Gung Ho!|Gung Ho!]]'' (1991) 
+* 10—''[[Mòduls d'Advanced Squad Leader#Croix de Guerre|Croix de Guerre]]'' (1992)
+* 11—''[[Mòduls d'Advanced Squad Leader#Doomed Battalions|Doomed Battalions]]'' (1998)
+* 12—''[[Mòduls d'Advanced Squad Leader#Armies of Oblivion|Armies of Oblivion]]'' (2006)
+
+L'edició original d'[[Avalon Hill]] del mòdul [[Mòduls d'Advanced Squad Leader#West of Alamein|West of Alamein]] contenia tot l'ordre de batalla Britànic/Commonwealth; les reedicions de [[Multi-Man Publishing|MMP]] n'han reorganitzat el contingut i han dividit WOA en dos mòduls, una 2a Edició de West of Alamein (centrat en mapes i regles del desert) i un nou mòdul [[Mòduls d'Advanced Squad Leader#For King and Country|For King and Country]] amb l'exèrcit britànic.
+
+[[Categoria:Jocs de tauler]]</text>
+      <sha1>90mp4xe232kdk6i0kafajebs5g8bs86</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

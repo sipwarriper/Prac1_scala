@@ -1,0 +1,152 @@
+<page>
+    <title>Creixement econòmic</title>
+    <ns>0</ns>
+    <id>265444</id>
+    <revision>
+      <id>13843114</id>
+      <parentid>12868972</parentid>
+      <timestamp>2014-07-16T09:28:54Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>El '''creixement econòmic''' és un increment en el valor total dels béns i serveis produïts per una economia. És un fenomen de la història recent que sovint es mesura en percentatges. És un fenomen recent perquè la societat romangué immòbil durant molt de temps.
+
+A l'[[edat mitjana]],les fluctuacions [[demografia|demogràfiques]] eren l'únic canvi [[economia|econòmic]]. Es tractava d'una societat estàtica. Això canvià envers la fi del [[segle XVIII]] amb la [[Revolució Industrial]]. Aleshores, el creixement es concentrà a l'oest d'[[Europa]], però actualment es concentra als països coneguts com a BRIC ([[Brasil]], [[Rússia]], [[Índia]] i [[Xina]]), que tenen un ritme de creixement d'un 10%.
+
+Després de la Revolució Industrial, hi hagué la [[Revolució Verda]] ([[dècada del 1940|anys 40]]-[[dècada del 1960|anys 60]]). L'apogeu del creixement al món occidental fou el període conegut com a [[Trenta Gloriosos]] ([[1945]]-[[1973]]), una època durant la qual el creixement mitjà anual era del 5%.
+
+La [[crisi del petroli]] del [[1973]] fou la primera crisi d'aquest tipus. El creixement sempre va acompanyat de [[crisi econòmica|crisis]]. Hi ha tres tipus de crisi econòmica:
+
+* [[crisi alimentària]]
+* [[crisi industrial]]
+* [[crisi financera]]
+
+Una de les crisis més recents, la [[crisi hipotecària del 2007]], fou provocada per una crisi de les entitats de crèdit del [[Regne Unit]] i sobretot els [[Estats Units]]. L'estagnació dels preus de la vivenda, juntament amb la incapacitat de moltes persones de tornar aquests crèdits, causà aquesta crisi. La crisi tingué també conseqüències socials com ara un augment de l'[[atur]].
+
+== Com es mesura el creixement econòmic ==
+{{Cita|El creixement és un augment sostingut durant un o diversos períodes llargs d'un indicador de dimensió.|[[François Perroux]]}}
+El creixement econòmic té dos aspectes:
+
+* un aspecte quantitatiu (que es pot mesurar, sovint per mitjà del [[PIB]])
+* un aspecte qualitatiu (que pren en compte les transformacions estructurals)
+
+El creixement econòmic té lloc al llarg del temps i és un procés majoritàriament irreversible. Es pot mesurar i és acompanyat per fenòmens de transformació econòmica i social. També està acompanyat per una posada en qüestió de les normes de funcionament de la [[societat]].
+
+Les estructures són el conjunt de relacions i de proporcions que defineixen una situació econòmica determinada.
+
+=== Indicadors del creixement econòmic ===
+Aquests són alguns dels indicadors que es fan servir per mesurar el creixement econòmic:
+
+* [[PIB]]: El producte interior brut és la suma de tres factors: el [[valor afegit]] brut, els [[aranzels]] i l'[[IVA|impost sobre el valor afegit]].
+
+* [[Producte Interior Net|PIN]]: El producte interior net pren en compte el [[capital]] tecnològic. Amb el temps, les màquines es desgasten o esdevenen obsoletes i cal substituir-les per mantenir la [[productivitat]]. Aquest procés de substitució s'anomena [[amortització]]. El PIN s'obté restant els costs d'amortització al PIB.
+
+* [[Producte Nacional Brut|PNB]]: El producte nacional brut d'un país pren en compte els ingressos del treball, de les propietats i de les empreses '''nacionals''', independentment del país en què es trobin; i no pren en compte els ingressos del treball, de les propietats i de les empreses '''estrangeres''', encara que es trobin al territori nacional
+
+El creixement econòmic es pot mesurar en valors del moment (corrents) o en valors constants (que n'indiquen l'evolució en volum).
+
+Per mesurar en valors corrents la taxa de creixement d'un país durant un període determinat, s'utilitza la fórmula següent:
+
+:math{\left ( f - c \right ) \over c} = T/math
+
+On '''f''' representa el valor final, '''c''' el valor inicial i '''T''' és el factor de creixement. Per obtenir un percentatge, cal multiplicar el factor de creixement per 100.
+
+:'''Exemple'''
+
+:math{\left ( 2.515.241 - 2.252.213 \right ) \over 2.252.213} = T/math
+
+* El PIB de [[França]] va ser de 2.252.213 milions d'[[USD]] el [[2006]] i de 2.515.241 milions d'[[USD]] el [[2007]].ref[http://www.imf.org/external/pubs/ft/weo/2007/02/weodata/index.aspx Fons Monetari Internacional]/ref
+* Agafem el valor final (PIB del 2007) i li restem el valor inicial (PIB del 2006).
+* Dividim el producte de l'anterior operació entre el valor inicial.
+* El resultat és el producte d'aquesta divisió.
+
+Aplicant la fórmula a la variació interanual del PIB de França, veiem que el seu PIB va augmentar en un factor de '''0,117''', és a dir, un creixement econòmic d'un '''11,7%'''.
+
+=== Correcció de la inflació ===
+El càlcul en valors corrents és inevitablement erroni car no pren en compte la [[inflació]], i crea per tant una [[il·lusió monetària]].
+
+Per eliminar aquesta il·lusió, es fa un càlcul que té en compte l'augment dels preus, anomenat '''correcció de la inflació''':
+
+:[(100 + creixement nominal) / (100 + taxa d'inflació) - 1] * 100 = '''taxa de creixement real'''.
+
+De manera que, en un país en què el creixement nominal fos del 5% i la inflació del 2%:
+
+:[(100 + 5) / (100 + 2) - 1] * 100
+
+La taxa de creixement real seria del '''2,94%'''.
+
+=== Els límits de la mesura ===
+Mesurar el creixement econòmic utilitzant el PIB com a indicador implica certs problemes:
+
+* '''Límits del PIB en si''': Un increment del PIB no implica necessàriament un augment de la producció, i de fet hi ha hagut casos en què el PIB ha augmentat però no la producció. Això es deu a fets com ara la producció no declarada, sobretot quan el PIB es calcula sumant els salaris, els excedents bruts d'explotació i l'[[IVA]]. Així doncs, el PIB és un indicador sensible als fenòmens extra-econòmics.
+
+* '''Problemes d'avaluació del PIB''': Qualsevol indicador depèn d'una valoració, que es fa per mitjà del sistema de preus. Però, en certs casos, els preus es poden allunyar del cost real de producció. A més, la valorització del sistema de preus es fa per mitjà d'informes enviats a les [[empreses]], que han d'omplir-los amb les dades demanades. Quan les empreses desconeixen aquestes dades, cometen errors a l'hora de copiar-les o simplement no tornen els informes, aquests errors afecten l'avaluació del PIB. Així doncs, es tracta d'un indicador que intrínsecament no fiable.
+
+* '''Límits del [[PIB per capita]]''': El PIB per capita pot considerar com a positiu allò que en realitat és negatiu. Per exemple, una epidèmia de [[sida]] que matés la meitat de la població d'un país però que impulsés la producció de [[medicament]]s i les hores de treball dels metges causaria un increment del PIB per habitant.
+
+* '''Les externalitats''': Les externalitats estan relacionades amb el punt anterior. Es tracta de conseqüències de l'activitat econòmica que el [[mercat]] no té en compte. Per exemple, una campanya de vacunació contra la [[grip]] incrementa indirectament el PIB, ja que hi haurà més gent que podrà treballar en lloc de quedar-se malalta a casa, però no es pot valorar amb precisió quant ha augmentat el PIB gràcies a això. D'altra banda, fenòmens com la precarització del treball o la deterioració del [[medi ambient]] també són efectes d'alguns tipus d'activitat econòmica que redueixen la riquesa d'un país, però que no són preses en compte pel PIB.
+
+Trobar una manera eficaç de mesurar aquestes externalitats seria una reforma molt desitjable en economia.
+
+=== Mesures alternatives ===
+==== L'indicador de riquesa ====
+Té els seus orígens en el treball de la [[Banque Nationale]] als anys 70. Un [[desenvolupament sostenible]] és aquell que respon a les necessitats del present sense comprometre la capacitat de les generacions futures a satisfer les seves pròpies necessitats. Això implica una determinada actitud envers el medi ambient, sobretot quant a les [[matèria primera|matèries primeres]]. La Banque Nationale proposa classificar els països en funció del total de capital que posseeix cadascun. N'hi ha tres grups:
+
+* capital natural: l'[[aigua]], la [[fusta]], la [[sòl|terra]] i les matèries primeres en general: no són inesgotables.
+* el capital produït al llarg dels anys anteriors: infraestructures ([[carretera|carreteres]], [[pont]]s, [[edifici]]s...) i màquines.
+* els [[recursos humans]]: el capital humà és representat per la capacitat productiva de cada individu. És un valor calculat segons criteris com ara el nivell d'educació.
+
+A partir d'aquestes dades, la Banque Nationale estima el valor mitjà global dels capitals en:
+
+* 20% de capital natural
+* 16% de capital produït
+* 64% de capital humà
+
+En països com [[Suïssa]], [[França]] o els [[Estats Units]], el capital humà arriba al 80%. En altres, com als països [[Àfrica|africans]], el capital natural constitueix fins a un 50%.
+
+==== L'Índex de Desenvolupament Humà ====
+El Programa de Desenvolupament de les [[Nacions Unides]] intenta mesura el desenvolupament humà basant-se en quatre criteris:
+
+* l'[[esperança de vida]] en néixer
+* la taxa d'[[alfabetització]] dels adults i la taxa d'escolarització dels nens
+* el nombre mitjà d'anys d'estudis
+* el [[PIB real]] (PIB - inflació) per capita, [[paritat de poder adquisitiu|ajustat]]
+
+El PDNU és l'objectiu de moltes crítiques: s'argumenta que el nivell de desenvolupament humà es compon de diversos elements, però per què s'han triat aquests? A més, l'[[Índex de Desenvolupament Humà]] no té en compte les desigualtats de gènere.
+
+Tanmateix, l'IDH té un avantatge: permet mesurar les diferències de desenvolupament entre els rics i els pobres. També permet veure l'evolució d'un país al llarg del temps (per exemple, es pot veure que [[Zàmbia]] ha regredit).
+
+L'ISDH ([[Índex Sexoespecífic del Desenvolupament Humà]]) sí que té en compte les diferències entre gèneres. En molts països, l'ISDH és inferior a l'IDH, a causa de les (a vegades profundes) desigualtats entre homes i dones. Si s'observa la taxa d'escolarització dels països pobres es poden trobar diferències superiors al 35% entre homes i dones.
+
+Els països desenvolupats també mostren diferències de gènere; tanmateix, normalment no és en l'àmbit de l'educació, sinó en l'àmbit dels [[salari]]s mitjans.
+
+== La riquesa dels països i com s'explica ==
+=== Els números del creixement ===
+L'[[economista]] [[Nicholas Kaldor]] presentà la noció del ''fet estilitzat'': un fet típic i significatiu que pren en compte una situació determinada encara que no se la pugui valorar amb precisió. Aquests fets estilitzats permeten observar el creixement des d'una perspectiva històrica.
+
+Madison fou el primer a estudiar el creixement sobre un període molt llarg, marcant dos límits: del [[1400]] a la fi del [[segle XX]]. La riquesa dels habitants d'Europa occidental, Austràlia i Amèrica del Nord es multiplicà per trenta-tres en aquest període.
+
+=== El creixement com a procés desigual ===
+El creixement és un procés que presenta una doble desigualtat: en el temps i en l'espai.
+
+==== La desigualtat en el temps ====
+Es poden distingir tres ruptures: a la fi del [[segle XVIII]], després de la [[Segona Guerra Mundial]] i als [[dècada del 1970|anys setanta]].
+
+* Abans d'acabar el segle XVIII, el creixement era lent i un fenomen essencialment asiàtic. Aquesta lentitud es devia al fet que l'estat tecnològic era estable. El país dominant era la [[Xina]], però els països europeus van atrapar i superar la Xina a finals del segle XVIII.
+* Després de la Segona Guerra Mundial tingueren lloc una revolució agrícola i una d'industrial, que contribuïren a una millora de les condicions de vida a Europa, però que foren acompanyades per crisis econòmiques en tres formes diferents: crisi agrícola, crisi industrial i crisi borsària.
+* Als anys setanta, l'enlairament dels preus del petroli posà fi als [[Trenta Gloriosos]].
+
+== Referències ==
+{{referències}}
+{{Autoritat}}
+
+{{ORDENA:Creixement Economic}}	!--ORDENA generat per bot--
+[[Categoria:Teoria econòmica]]</text>
+      <sha1>00xpzwo4s44xns1bugktoxhycov4cvf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

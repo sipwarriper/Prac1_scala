@@ -1,0 +1,143 @@
+<page>
+    <title>Vàlvula de seient</title>
+    <ns>0</ns>
+    <id>964664</id>
+    <revision>
+      <id>13679596</id>
+      <parentid>13633971</parentid>
+      <timestamp>2014-06-24T15:01:25Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>{{MT|data=febrer de 2013}}
+[[fitxer: poppetvalve.jpg|200px|thumb|Una vàlvula de seient i els seus components (en aquest cas, d'un motor d'explosió) ]]
+La '''vàlvula de seient''' és una [[vàlvula]] que consisteix en un forat, generalment rodó o oval, i un tap cònic, en general en forma de disc, col·locat a l'extrem d'una vareta, també anomenat plançó de la vàlvula. El fill guia a la vàlvula a través d'una [[guia de la vàlvula]]. Serveix tant per regular el pas d'un element com per a la funció de tot o res.
+
+L'element de tancament es recolza sobre un anell de seient, de secció circular. A mesura que l'element de tancament s'aproxima al seient, la secció de pas es redueix i per tant augmenta la pèrdua de càrrega disminuint el cabal. En algunes aplicacions, la diferència de pressió ajuda a tancar la vàlvula, i en una altra ajuda a obrir-la.
+
+Les vàlvules [[Presta]] i [[Schrader]] usades en les rodes inflades amb aire, són un clàssic exemple de vàlvula de seient. Usualment no tenen ressorts, i la vàlvula es manté tancada per la pressió de l'aire dins de la roda, i s'obre en introduir a major pressió per inflar.
+
+== Operació ==
+[[fitxer: 2 Way Button Poppet Valve.jpg|200px|thumb|Vàlvula de seient de dues vies, operada manualment a través del botó superior.]]
+Les vàlvules de seient són de construcció molt robusta i resistent, per a ús industrial en vàlvules de control direccional. En general són molt tolerants amb els contaminants de l'aire (òxid, pols, etc.) Quan s'utilitzen en el servei d'aire comprimit. També es caracteritzen per permetre alts cabals, i una alta velocitat d'operació. Quan s'actua sobre la vàlvula, aquesta s'obre ràpidament, i l'àrea perquè passi el fluid és també gran. Es caracteritzen per posseir una part mòbil, la vàlvula pròpiament dita, la que és usada per controlar el flux d'un fluid o un gas pel cos de la vàlvula.ref Name=lexairinc.com{{citar llibre|url = http://www.lexairinc.com/valves/learning/poppet.html|títol = How Poppet Valves Work|any = 2007|editorial = lexairinc.com|consulta =  }}/ref
+
+La vàlvula es maneja amb un actuador que al seu torn treballa sobre el plançó de la vàlvula, enlairant el disc del seu seient per obrir (en el cas de les vàlvules normalment tancades) i permetre el pas del fluid, o per donar suport al disc en el seient i tancar (en el cas de les vàlvules normalment obertes), i impedir el pas del fluid o gas. El actuador pot estar enviant per un sistema hidràulic, mecànic, manual, o mitjançant un [[electroimant]].ref Name=lexairinc.com/
+
+Quan l'actuador deixa d'aplicar força sobre la vàlvula, un ressort torna la vàlvula pròpiament dita a la seva posició original (en el cas de les vàlvules normalment tancades), fent que el disc de la vàlvula entri en contacte amb el seient, la pressió del fluid dins el cos de la vàlvula ajuda a mantenir-la tancada. En el cas de les vàlvules normalment oberta, la pressió del fluid ajuda al ressort a separar la vàlvula del seient, obrint el pas novament.ref Name=lexairinc.com/
+
+Usualment, les vàlvules incorporen diferents materials sobre les superfícies que segellen el pas dels fluids. El material utilitzat per a aquests segells inclouen diversos tipus de gomes, plàstics o altres polímers exòtics, els quals són seleccionats d'acord amb les condicions en què treballarà la vàlvula, depenent de les pressions de treball, temperatures extremes, compostos químics del gas o fluid que ha de passar a través de la vàlvula, condicions ambientals, etc. En alguns casos, la vàlvula sencera pot estar construïda de materials exòtics en lloc de fer-ho només en segell.ref Name=lexairinc.com/
+
+== Aplicacions ==
+Les vàlvules de seient són usades en molts processos industrials, des controlar el flux de [[combustible]] a [[coet]]s fins per controlar el pas de [[llet]].
+
+La indústria dels semiconductors sovint usa vàlvules de seient ultra-netes com vàlvules d'aïllament.
+
+Algunes de les aplicacions que les utilitzen:
+* Equips per safareigs d'autos
+* Equipaments per a bugaderies
+* Control d'aire i líquids en processos industrials
+* Tractament d'aigües i residus
+* Compressors d'aire
+* Assecadores d'aire industrials
+* Processament de paper i polpa
+* Equips per a cabals alts d'aire, aigua o altres líquids per refredament i processament
+* Indústria tèxtil, per a equips de blanqueig, tenyit i assecat
+* Equips de proves que requereixen actuació ràpida
+* Equipaments de mineria i construcció (supressió de pols)
+* Refrigeració en autobusos, vaixells, equips de construcció i altres equips i maquinària per a autopistes i carreteres
+* Regulació del líquid refrigerant en màquines eines
+* Control de l'intercanviador de calor en ventiladors i refrigeracióref [[Grupo_Compás #Intercanvi tèrmic: vàlvules de titani A182 316Ti, B381 F2, B367 C2, R50400, B348 i 1.4571|Vàlvules de titani en intercanviadors tèrmics]] /ref
+* Control de l'aigua refrigerant en màquines d'emmotllament per injecció
+
+Els usos específics inclouen:
+
+* Les vàlvules de seient de tres vies tenen aplicacions addicionals:
+** Processos que requereixen cicles de rentat-cicles on un líquid fresc és bombejat i després buidat i tornat a omplir amb líquid fresc
+* Aplicacions de pressurització/descàrrega
+* Vàlvules operades per solenoides DIN, equipades amb solenoides assegurances per treballar en ambients perillosos
+
+* Vàlvules d'assentament d'acer inoxidable són dissenyades per a aplicacions sota pressió amb líquids ultra nets i altament corrosius, incloent:
+** Indústries làcties
+** Ompliment, envasat i despatx d'aliments i begudes
+** Processament i despatx de productes químics
+** Cerveseries i destil·leries: aigua, pasteurització, solucions de glicol per a la refrigeració, processos de desgasificació, barreja, carbonatació, etc.
+** Producció de fertilitzants
+** Producció farmacèutica i de cosmètics
+** Equips de rentat d'ampolles i embotellat
+
+== Motors de combustió interna ==
+[[fitxer: Four stroke engine diagram.jpg|thumbnail|right|200px|Components d'un típic [[motor de quatre temps]]: br/ (i) [[arbre de lleves]] d'escapament, br/ (i ) arbre de lleves d'admissió, br/ (s) [[bugia d'encesa|bugia]], br/ (v) vàlvules, br/ (p) [[pistó]], br/ (r) [[biela]], br/ (c) [[cigonyal]], br/ (w) aigua per refrigeració.]]
+Les vàlvules de seient són usades en molts [[motor de pistons|motors de pistons]] per obrir i tancar les llumeneres d'admissió i d'escapament en la [[Culata (motor)|culata]] de cilindres. La vàlvula és usualment un disc pla de metall amb un llarg plançó. La tija és usat per empènyer el disc de metall cap avall i obrir la vàlvula; posseeix un ressort que generalment s'usa per tancar la vàlvula quan no es pressiona el plançó. Les vàlvules desmodrómicas són tancades per un mecanisme que actua sobre el plançó en lloc de fer-ho un ressort, i són usades en alguns motors d'actuacions de carreres i motos d'alta velocitat, eliminant el flotat de vàlvulas que passa a altes [[Revolució per minut|RPM]].
+
+Per determinades aplicacions el plançó de la vàlvula i el disc són d'acers de diferents [[aliatge]]s, o els plançons de les vàlvules són buits i plens de [[sodi]] per millorar el transport i la transferència de [[calor]]. 
+
+El motor normalment opera les vàlvules actuant sobre els plançons amb [[lleva|lleves]] i [[taqués]].
+El perfil i posició de la lleva determina l'obertura de la vàlvula, quan i que tan ràpidament (o lentament) s'obre la vàlvula. Les lleves són normalment col·locades fixes en un [[arbre de lleves]] el qual és engranat amb el [[cigonyal]], girant a la meitat de la velocitat d'aquest, en els motors de quatre temps. En els motors d'altes prestacions (per exemple, les actuacions de [[Ferrari]]), l'arbre de lleves és movible axialment, les lleves varien en alçada, i l'obertura de les vàlvules també canvia, tot en relació amb les [[Revolució per minut|RPM]] del motor. 
+
+Malgrat que és un millor conductor de la calor, la [[Culata (motor)|culata]] d'alumini requereix que el seient de la vàlvula sigui un inserit d'acer, mentre que les culates de fosa de ferro sovint usen un seient integral, formant part de la culata. 
+
+A causa que el plançó de la vàlvula s'estén fins a la cambra de les lleves per a ser lubricat, ha de ser segellat per evitar que passin els gasos provinents del cilindre. Un guàrdia amb llavis de goma eviten que excessives quantitats d'oli entrin en la lumbrera d'admissió, i que des de la lumbrera d'escapament pugin els gasos a la cambra del o els arbres de lleves. Quan aquests guàrdies es gasten, és comú veure fum blavós en la fuita quan pressionem l'accelerador, per exemple en passar els canvis.
+
+=== Posició de les vàlvules ===
+[[fitxer: RR Merlin.JPG|left|thumb|200px|Motor V12 [[Rolls Royce Merlin]], de la [[Segona Guerra Mundial]]. En el bloc de cilindres de la dreta es poden veure l'arbre de lleves, els balancins i l'extrem superior de les vàlvules, amb els seus ressorts. Aquest disseny de fins de la dècada de 1930, posseïa arbre de levas al capdavant, quatre vàlvules per cilindre i turbocompressor amb intercanviador de calor.]]
+En els primers dissenys de motors les vàlvules estaven a l'inrevés, en el bloc de cilindres, i paral·leles a aquests, disposició que es coneix també com vàlvules laterals. Malgrat que aquest disseny és més senzill i barat de construir, té dos grans desavantatges, el tortuós camí seguit per la barreja aire/combustible per entrar al cilindre limita el flux d'aire, i impedeix velocitats superiors a les 2.000-2.500 RPM, i el camí seguit pels gasos d'escapament a través del bloc produeix un sobreescalfament quan el motor treball sota càrrega en forma sostinguda. Aquest disseny va evolucionar en el IOE ([[motor IOE|Escape Sobre Admissió]], per les seves sigles en anglès), on la vàlvula d'admissió estava en el bloc i la d'escapament en la culata, més tard ambdues vàlvules es van col·locar en la culata, disposició que es coneix com vàlvules al capdavant. 
+
+En la majoria dels dissenys, l'arbre de lleves es va mantenir en el bloc de cilindres relativament prop del cigonyal, i les vàlvules són operades a través de [[vareta]] si [[balancí (motor)|balancins]]. Això va donar lloc a importants pèrdues d'energia del motor, però era més simple, especialment en els [[Motor en V|motors en V]] ​​on un sol arbre de lleves pot actuar les vàlvules dels dos bancs de cilindres, per aquesta raó, aquest disseny va persistir més temps en aquesta configuració que en altres.
+
+Dissenys més moderns tenen l'arbre de lleves en la culata de cilindres, pressionant directament el plançó de la vàlvula (de nou a través de taquets), si té només un arbre de lleves, és un motor [[SOHC]] ( Single overhead Camshaft , arbre de lleves simple al capdavant). Sovint hi ha dos arbres de lleves, un per a les vàlvules d'admissió i un altre per les d'escapament, creant un [[DOHC]] ( Dual overhead Camshaft , doble arbre de levas al capdavant). L'arbre de lleves és mogut pel cigonyal, a través de [[engranatge]] s, [[cadena]] o [[corretja dentada]].
+
+[[fitxer: 4-Stroke-Engine.gif |thumb|200px|Esquema animat mostrant el funcionament d'un motor de quatre temps. A dalt, es pot veure el funcionament de les vàlvules.]]
+
+=== Desgast de les vàlvules ===
+En els primers temps de la construcció de motors, les vàlvules eren el major problema. La [[metal·lúrgia]] no era el que és avui dia, i el ràpid obrir i tancar de les vàlvules contra la culata de cilindres producia el seu ràpid desgast. Calia reemplaçar cada dos anys o més, en un procés car i que demanava molt de temps. Afegeix [[tetraetil de plom]] a la gasolina reduïa el problema en alguna mesura, pel fet que es formava una pel·lícula de plom al seient, actuant com a lubricant del metall. En construir els seients de les vàlvules amb una [[aliatge]] millorada d'[[acer]] al [[Acer #Elements aleantes de l'acer i millores obtingudes amb la aleaci.C3.B3n|crom-cobalt]] va fer que aquest problema desaparegués completament i va fer innecessària la gasolina amb plom.
+
+=== Característiques constructives de les vàlvules d'un motor de combustió interna ===
+Com a conseqüència de l'elevada potència específica els òrgans de la distribució estan subjectes a un dur treball, que només poden suportar si els materials emprats per a la seva construcció són elegits oportunament.
+
+Des del punt de vista funcional les vàlvules han de resistir les elevades i repetides sol·licitacions causades pels cops sobre els seients, i mantenir-se sense deformacions també sota l'acció de les altes temperatures a les quals estan sotmeses, la vàlvula d'escapament pot assolir la temperatura de 750 º C.
+
+La vàlvula ha d'estar en condicions de poder transmetre a l'aire oa l'aigua de refrigeració la calor que rep, la dissipació de la calor té lloc a través del contacte entre el fill i el seu guia, i entre el plat i el seu seient. Té, per tant, gran importància el grau de refrigeració de la guia i del seient, així com el seu material. Les vàlvules estan molt millor refrigerades com menor és el seu diàmetre (perquè menor és la superfície exposada als gasos en proporció a la superfície de contacte amb el seient) i com més gran és la longitud de la guia i el diàmetre de la tija (sent majors les superfícies a través de les quals és dissipat la calor). Per això, als efectes de la residència contra les sol·licitacions tèrmiques, les vàlvules d'escapament es fan, en general, de diàmetre menor que les d'aspiració i, en els cilindres de grans dimensions, és preferible disposar dos (o també més) en lloc d'una sola de gran diàmetre.
+
+La temperatura de la vàlvula descendeix en usar una barreja rica i combustibles d'alt calor latent de vaporització, com és ara el [[metanol]]; augmenta, en canvi, en augmentar el nombre de revolucions ia disminuir el grau d'avançament a l'encesa, el valor de la relació de compressió no té influència directa sobre la temperatura.
+
+==== Construcció ====
+[[fitxer: DOHC-Zylinderkopf-Schnitt.jpg|thumb|left|200px|Tall d'una culata de cilindre amb doble arbre de lleves, [[DOHC]]. Es poden veure les lleves, els taqués i les vàlvules amb els seus ressorts.]]
+Per a la construcció de les vàlvules d'escapament s'ha emprat durant un cert temps l'[[Acer #Elements aleantes de l'acer i millores obtingudes amb l'aliatge|acer al tungstè]], del tipus usat per a estris, que té òptimes qualitats de resistència mecànica en calenta, però que tendeix a esquerdar a elevades temperatures: actualment s'usa d'una manera especial l'[[Acer #Elements aleantes de l'acer i millores obtingudes amb l'aliatge|acer al crom-silici]] oportunament tractat. El material que es considera millor des del punt de vista de la resistència a la calor és un [[acer austenític]] amb alta tinença de [[níquel]] - [[crom]], per això no magnètic i insensible als tractaments tèrmics: s'usa especialment per les vàlvules d'aviació, els seients cònics estan sovint revestits de [[estelita]].
+
+Per millorar la transmissió de la calor del plat al fill, les vàlvules d'escapament en aeronàutica són sovint construïdes buides i plenes parcialment de [[sodi]] metàl·lic o de sals de [[liti]] i de [[potassi]], que resulten líquides a la temperatura de funcionament.
+
+Les vàlvules d'aspiració estan generalment construïdes amb acer menys costós (de baix tenor níquel-crom). Per als molls els acers més usats són aquells al [[silici]] - [[manganès]] i el acer suec (especialment per als motors d'[[aviació]]). Des del punt de vista del manteniment les vàlvules han d'estar muntades de manera que resultin fàcilment revisables i permetre també d'una manera fàcil la seva esmerilat i rectificat dels seients quan és necessari restablir una bona estanquitat.
+
+== Màquines de vapor ==
+[[fitxer: PuppetValve.png|thumb|200px|Vàlvula de seient equilibrada, de la Patent USA n. º 339.809. El vapor a alta pressió entra per A i surt per B. La tija D mou el disc C per obrir la vàlvula.]]
+Quan s'usa en aplicacions d'alta pressió, per exemple en vàlvules d'admissió de motors a vapor, la mateixa pressió que ajuda a tancar la vàlvula, també contribueix en forma significativa amb la força requerida per obrir-la. Això va conduir al desenvolupament de la vàlvula balancejada, la qual posseeix dos discos muntats en una tija en comú, en la qual la pressió que exerceix sobre un plat és equilibrada per la pressió que s'exerceix sobre l'altre.ref Jaques Mouchly, Valve and Valve Gear for Locomotive and Other Engines, US Patent 1.824.830, issue Set. 29, 1931/refref Herman G. Mueller, Steam Engine Valve, US Patent 1.983.803, issue Dec 11, 1934. /ref En aquestes vàlvules, la força necessària per obrir-és determinada per la diferència de pressió entre les àrees dels dos discos.
+
+Les vàlvules de seient també es van usar en [[locomotora a vapor|locomotores a vapor]], sovint en conjunt amb la distribució [[Hugo Lentz|Lentz]] o [[Caprotti]]. Entre els exemplars britànics tenim:
+
+* [[LNER classe B12]]
+* [[LNER classe D49]]
+* [[LNER classe P2]]
+* [[LMS Stanier classe 5 4-6-0]]
+* [[BR estàndard classe 5]]
+* [[BR estàndard classe 8|BR estàndard classe 8 71.000 Duc de Gloucester]]. [[Sentinel Waggoner Works]] va usar vàlvules de seient en els seus cotxes i locomotores de vapor. La marxa enrere es va aconseguir són un simple lliscament del sistema de lleves.
+
+== Vegeu també ==
+* [[Avanç i retard de distribució]]
+
+== Referències ==
+{{referències|2}}
+
+
+{{ORDENA:Valvula De Seient}}
+
+[[Categoria:Elements de màquines]]
+[[Categoria:Motors de combustió interna]]
+[[Categoria:Vàlvules]]</text>
+      <sha1>9abfks7lfg02gpsmv4p1yp51j3wc6bn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

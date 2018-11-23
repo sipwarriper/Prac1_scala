@@ -1,0 +1,130 @@
+<page>
+    <title>Míssil terra-aire</title>
+    <ns>0</ns>
+    <id>906372</id>
+    <revision>
+      <id>13864353</id>
+      <parentid>13863185</parentid>
+      <timestamp>2014-07-18T21:06:20Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot estandarditza i catalanitza referències, catalanitza dates i fa altres canvis menors</comment>
+      <text>[[Fitxer:M6 linebacker launching.jpg|thumb|dreta|260px|Míssil [[FIM-92 Stinger|Stinger]] llançat des d'un vehicle blindat.]]
+Un '''míssil terra-aire'''ref{{ref-web| url= http://enciclopedia.cat/enciclop%C3%A8dies/gran-enciclop%C3%A8dia-catalana/EC-GEC-0241408.xml?s.q=m%C3%ADssil+terra+aire#.U8g3IPl_v8Y| editor= [[GEC]]| títol= Terra-aire| consulta= 17 de juliol de 2014}}/ref (abreujat '''​​GTAM''', de l'[[anglès]] ''ground-to-air missile'') o '''míssil superfície-aire''' (abreujat '''SAM''', de l'anglès ''surface to air missile'') és un tipus de [[míssil]] dissenyat per ser llançat des de la superfície terrestre, per una persona ([[Sistema de defensa aèria portàtil|míssil portàtil]]) o una instal·lació (plataforma de míssils) i abatre [[aeronau]]s en vol com ara [[avió|avions]] o [[helicòpter]]s. Es tracta per tant d'un sistema de [[defensa antiaèria]].
+
+Els míssils d'aquest tipus poden ser artefactes molt barats i de fàcil adquisició, ja que són fabricats per multitud de països, i el seu  comerç i tinença incontrolats suposen un perill per a la navegació aèria mundial.
+
+== Característiques d'un míssil terra-aire ==
+[[Fitxer:Mistral-2.jpg|thumb|dreta|250px|[[MBDA Mistral|Mistral]] francès en la seva configuració portàtil.]]
+En principi un míssil terra-aire es compon de:
+* Càrrega de combustible
+* Aletes encaminadores: com que és un enginy volador requereix ales, però a causa de la seva petita mida i gran velocitat, no cal que siguin massa grans
+* Càrrega explosiva
+* Detonant
+* Sistema de guiatge, que pot ser [[infraroig]] (guiant-se per la calor dels motors i els tubs d'escapament de l'objectiu) o per [[radar]] (''il·luminat'' per una estació terrestre)
+
+A més, ha de ser disparat des d'una rampa de llançament (transportada per una persona, vehicle, o fixa a terra) i disposar de sistemes en terra per a la localització del blanc i la designació de l'objectiu: pot ser un simple visor o un sistema complex integrat amb un radar, depenent del tipus de guiatge i de la grandària de l'arma.
+
+== El perill del poder aeri ==
+Tot i que en un primer moment no es van percebre els avantatges de l'aviació,ref name=portaaviones1{{ref-publicació|cognom=Sales|nom=José Miguel|títol=El creuer USS Birmingham, pioner de l'aviació embarcada|publicació=Especial Portaavions - Força Naval|data=2002|exemplar=1|lloc=València|editorial=MC Edicions|issn=1695-3258}}/ref aquesta aviat es va incorporar als exèrcits, per realitzar tasques d'intel·ligència i atac a terra. Ja a la [[Primera Guerra Mundial]], tots els països en conflicte disposaven d'avions en les seves forces armades i aviat va ser una arma separada del tradicional [[exèrcit]] i la [[marina de guerra]].
+
+Va ser durant la [[Segona Guerra Mundial]] quan l'aviació va demostrar tot el seu potencial, per exemple quan va causar milions de lires en pèrdues a l'armada italiana en l'atac de [[Tàrent]], protagonitzat per uns obsolets biplans [[Fairey Swordfish]],ref name=portaaviones2{{ref-publicació|cognom=Gómez Hernández|nom=Enrique |títol=Swordfish sobre Tàrent |publicació=Especial Portaavions - Força Naval|data=2002|exemplar=1|lloc=València|editorial=MC Edicions|issn=1695-3258}}/ref o danyant seriosament la flota del Pacífic dels [[Estats Units]] a [[Atac a Pearl Harbor|Pearl Harbor]] o arrasant ciutats com [[Bombardeig de Dresden|Dresden]].
+
+Després d'aquest conflicte va acabar de confirmar-se la lliçó de ''qui domini el cel dominarà la terra'' i per tant la necessitat d'acabar amb l'aviació enemiga resultava una prioritat per a qualsevol exèrcit. Per això des de molt aviat va començar a utilitzar-se l'[[artilleria antiaèria]], però aquesta no sempre obtenia bons resultats. Els avions necessiten ser aeronaus molt lleugeres i per tant són molt fràgils, però la seva gran velocitat i la seva maniobrabilitat no els fan preses fàcils per a les armes antiaèries; molt menys si aquests avions volen a gran alçada, com els [[Bombarder estratègic|bombarders estratègics]].
+
+El principi que mou els míssils és molt antic. Els [[coet]]s, per exemple, ja els van utilitzar els xinesos el [[1238]] per derrotar els [[tàrtars]] a [[Pein King]]ref name=sabes{{ref-llibre|autor=Diversos|títol= Sabes cuándo ...? |editorial=Susaeta Ediciones|lloc=Madrid|any=1980|isbn=84-305-1167-9}}/ref i els primers míssils com a tal, les [[V-1]] i [[V-2]] alemanyes, volaven amb certa regularitat el [[1944]]. De tota manera, el problema de comptar amb míssils terra-aire era el guiatge de l'arma.
+
+== Evolució dels míssils terra-aire ==
+A finals dels anys cinquanta, la tecnologia de les càmeres infraroges i els [[Guiatge de míssils|sistemes de guiatge]] per infraroigs ja s'havien desenvolupat prou, i van començar a produir-se els primers míssils terra-aire portàtils.ref Name=avion276 José María Saenz, Míssils contra avions, núm. 276 de Avió Revue, Motorpress Ibèrica, [[Madrid]], juny de [[2005]] /ref
+
+=== Míssils guiats per infrarojos ===
+[[Fitxer:Redeye Surface to Air Missile 06.jpg|thumb|dreta|240px|El RedEyes va ser un dels primers míssils portàtils terra-aire.]]
+* Els '''míssils de primera generació''', com el [[FIM-43 Redeye]] nord-americà o el [[SA-7 Grail/Strela]] soviètic, podien destruir o causar seriosos danys a les aeronaus, però tenien l'inconvenient de la seva poca orientació (havien de ser disparats quan l'avió hagués superat l'arma i aquesta veiés literalment la font de calor), a més de desorientar-amb altres emissions de raigs infraroigs relativament properes, fins i tot amb el sol.
+* Els '''míssils de segona generació''', com el famós [[Stinger (míssil)|Stinger]] nord-americà o l'[[SA-8]] soviètic (una millora de l'anterior), ja eren capaços de ser disparats davant del blanc o des d'un lateral, i no es desorientaven amb el sol, però fortes emissions de calor, com ara les [[bengala (contramesura)|bengales]] de [[magnesi]], podien desorientar-los. De tota manera, en la [[Invasió soviètica de l'Afganistan|Guerra de l'Afganistan]] van aconseguir abatre moltes aeronaus entre la flota soviètica destinada a aquest país asiàtic.
+* Els '''míssils de tercera generació''' com el francès [[Mistral (míssil)|Mistral]], l'[[Stinger B]] o el [[9K38 Igla|SA-18]] són capaços d'eludir les contramesures llançades pel blanc.
+* Per la seva part els '' míssils de quarta generació''' encara en fase de prototip a principis del segle XXI, tenen més autonomia que generacions anteriors.
+
+Aquestes armes poden tenir un abast màxim de 6,5 [[km]] i detectar un possible objectiu a 10 km de distància. Es denominen '''sistema MANPADS''' de l'anglès ''Man-Portable Air Defense System'' o sistema de defensa aèria individual.ref{{ref-web| url= http://enciclopedia.cat/enciclop%C3%A8dies/gran-enciclop%C3%A8dia-catalana/EC-GEC-0281500.xml?s.rows=25s.start=125s.q=11+setembre#.U8gz-vl_v8Y| títol= MANPADS|editor= [[GEC]]| consulta= 17 de juliol de 2014}}/ref
+
+=== Míssils guiats per radar ===
+* '''Míssils de primera generació''': Els primers míssils guiats per radar havien de ser disparats d'un en un, ja que el radar havia d'il·luminar el blanc i al mateix temps guiar el míssil i això només podia aconseguir-se amb un o com a màxim amb dos sempre que aquests fossin dirigits contra el mateix blanc.
+* Els '''míssils de segona generació''' eren ja guiats per radars que podien orientar i guiar diverses armes al mateix temps contra blancs diferents.
+* Els '''míssils de tercera generació''' poden ignorar les pertorbacions electromagnètiques emeses pels caces com a defensa, el que s'anomena [[Chaff]], però només fins al naixement dels nous models de guiatge (l'evolució ja no es mesura tant per generacions sinó per anys).
+
+L'avantatge d'aquests míssils respecte dels seus homòlegs guiats per infraroigs rau en la seva major capacitat per localitzar blancs a molta més distància. Per cobrir aquesta major distància aquests enginys solen ser de mida molt més gran, per la seva major càrrega de combustible. Com a desavantatge mostren una major vulnerabilitat (són més voluminosos i no serveixen de res si les instal·lacions de radar han estat inutilitzades) i menys mòbils, ja que han d'anar en el millor dels casos muntats sobre camions, o bé partir d'instal·lacions fixes a terra.
+
+Un exemple de l'eficàcia d'aquestes armes es va demostrar contra els [[estatunidencs]] en la seva campanya de bombardeigs sobre [[Vietnam del Nord]] durant la [[guerra del Vietnam]], coneguda com a [[Operació Linebaker II]]. Enfront dels atacs dels [[B-52]], [[Hanoi]] va disparar més de mil míssils, i va abatre 15 d'aquestes fortaleses volants i en va danyar tres, tot i la gran altitud a la qual volaven.ref name=aviaciónI DDAA, Guia il·lustrada de guerra aèria sobre Vietnam (I) - Tecnologia militar, [[Edicions Orbys]], [[Barcelona]], [[1986]], ISBN 84-7634-711-1 /ref
+
+L'abast d'un míssil guiat per radar pot ser de desenes de quilòmetres, com va ser el cas del disparat contra un [[U-2]], també nord-americà, que realitzava una missió fotogràfica d'espionatge durant la [[Crisi dels míssils de Cuba]] sobre l'illa caribenya. En aquell cas l'arma va arribar a l'avió, tot i la gran altitud a la qual volava, i va matar el pilot.
+
+== Perillosos i incontrolats ==
+[[Fitxer:Arkia B753 4X-BAW.jpg|thumb|dreta|310px|L'atac a un 767 de la línia israeliana Arkia va fer prendre consciència a molts països del perill que suposen els míssils terra-aire fora de control. A la imatge un 757 de la mateixa aerolínia.]]
+Els míssils guiats per radar poden atacar gairebé qualsevol avió, però a causa del seu port, preu i requeriments, no estan a l'abast de qualsevol. En principi, únicament els governs els tenen i per això les seves accions s'han restringit a atacs contra objectius militars o civils presos per militars en tot cas.
+
+En contraposició a això els míssils guiats per infraroigs, especialment els portàtils, han estat adquirits i utilitzats no només per forces armades sinó també per grups terroristes. Així des de [[1983]] fins a [[2005]] s'havien comptabilitzat 35 atacs contra aeronaus comercials amb el resultat de 24 aeronaus abatudes (almenys un 70% d'efectivitat) i uns 500 morts. D'aquestes aeronaus, 6 eren avions comercials de gran capacitat, dels quals dos van rebre danys lleus, dos van patir danys severs sense pèrdua de vides i altres dos van ser abatuts i hi varen morir tots els passatgers. Un dels avions que va aconseguir sobreviure, però va desencadenar les alarmes, va ser un [[Boeing 767]] de la línia aèria israeliana [[Arkia Israel Airlines]] que va ser atacat a l'aeroport de [[Mombasa]] ([[Kenya]]) per [[Al Qaida]] utilitzant un antiquat SA-7. A l'[[Iraq]] un [[Lockheed C-130 Hercules|C-130 Hercules]] de la [[Royal Air Force|RAF]] va resultar abatut el 2005 morint tots els seus ocupants,ref name=avion276/ tot i que investigacions posteriors van obrir també la possibilitat que hagués estat abatut per un canó antiaeri de 20 mm.ref name=avion294 Saenz José María, Sistemes d'autodefensa, núm. 294 de [[Avió Revue]], [[Motospress Ibèrica]], [[Madrid]], desembre de [[2005]] /ref Novament a Somàlia un avió de la companyia ''Unió Africana'' va ser abatut per un míssil d'origen rus el 23 de març de [[2007]] i hi van morir 11 persones.ref name = país[[Agència Efe]], Abaten un avió de Unió Africana, diari [[El País]], [[Grup Prisa]], [[Madrid]], 24 de març de 2007/ref L'atac més recent d'un míssil terra-aire a un avió comercial és el del [[vol 17 de Malaysia Airlines]] a l'est d'[[Ucraïna]], que deixà 295 víctimes mortals.ref{{ref-web|lloc=[[Kíev]]|nom=Ana|cognom=Lázaro|data=18 juliol 2014|consulta=18 juliol 2014|títol=Abatut un avió amb 295 persones a Ucraïna|url=http://www.ara.cat/premium/tema_del_dia/Abatut-avio-persones-Ucraina_0_1177082436.html|editor=[[Diari ARA]]}}/refref{{ref-web|url=http://www.324.cat/noticia/2450373/mon/Un-avio-de-Malaysia-Airlines-amb-298-persones-a-bord-es-abatut-a-la-regio-de-Donetsk|consulta=18 juliol 2014|títol=Un avió de Malaysia Airlines amb 298 persones a bord és abatut a la regió de Donetsk|editor=[[324.cat]]}}/ref
+
+El perill que suposa el descontrol d'aquestes armes ha fet que governs com l'israelià i el nord-americà, fabricants com [[EADS]] i fins i tot línies aèries com [[Lufthansa]] comencin estudis o plans per defensar els seus avions civils d'atacs amb míssils.
+
+L'amenaça és molt real, segons [[José M. Saenz]], ja que hom creu que al món hi pot haver entre 5.000 i 150.000 d'aquests míssils en mans de grups terroristes, si bé la majoria probablement siguin SA-7 soviètics de disseny obsolet però efectiu. D'aquesta forma el grup Al-Qaida n'ha aconseguit i utilitzat diversos, a [[ETA]] li van ser confiscades dues unitats d'origen rus el [[2004]],ref name=elmundo{{ref-web| url=http://www.elmundo.es/elmundo/2004/10/05/espana/1096974884.html| editor= [[El Mundo]]|llengua= castellà| data= 5 d'octubre de 2004|consulta= 17 de juliol de 2014| títol= Cómo funcionan y dónde se pueden comprar los misiles SAM 7}}/ref i la insurgència iraquiana disposa així mateix d'aquests o models més sofisticats. A més 17 països del món els fabriquen.
+
+Aquestes armes són barates d'adquirir, si bé és veritat que un míssil de nova generació pot costar uns 250.000 dòlars, un model antiquat no supera els 500 dòlars per unitat, i es poden adquirir al mercat negre introduïts pels anomenats ''estats irresponsables''.ref name=avion276/
+
+== Defensa antimíssil ==
+[[Fitxer:F-15 vertical deploy.jpg|thumb|220px|dreta|Les [[bengala (contramesura)|bengales]] potser siguin la mesura antimíssil més coneguda, com les llançades per aquest [[F-15]].]]
+La defensa antimíssil no és una cosa molt complicada i es basa a encegar i/o confondre el sistema de guiatge. El difícil és unir en un sol sistema que detecti aviat i correctament l'amenaça, avaluï contramesures i maniobres i presenti tota aquesta informació al pilot o la tripulació d'una forma ràpida, clara i consumint el menor temps possible, perquè el temps és un factor bàsic en la defensa antimíssil.
+
+=== Defensa militar ===
+Els aparells militars es modernitzen gairebé constantment i l'evolució de les defenses ja no es mesura en generacions sinó en anys.ref Name=avion294/
+
+Entre les contramesures més habituals hi ha:
+
+* '''[[Bengala (contramesura)|Bengales]]''': són d'un material inflamable que les fa cremar en abandonar l'aeronau i romanen cremant durant diversos segons i fins i tot minuts.
+* '''Emissors infraroigs''' són fonts de raigs infraroigs substitutius de les bengales on aquestes no es poden utilitzar, com en ciutats i nuclis poblats.
+* '''Detectors LASER''' serveixen per detectar possibles míssils que s'acostin.
+* '''[[Chaff]]''' són emissors de senyals electromagnètics que despisten als radars.
+* '''Sistemes pertorbadors''' equips integrats en l'aparell que distorsionen els senyals dels radars enemics.
+
+Així els israelians van desenvolupar a principis del segle XXI el '''Paws'''. Aquest sistema presenta com a principal innovació alertar sobre amenaces que es dirigeixen no només a la mateixa plataforma, principalment míssils de guia infraroja, sinó també actua contra els guiats per radar. El 2005 ja estava instal·lat en caces bombarders [[F-16]] i [[helicòpter d'atac|helicòpters d'atac]] [[AH-64 Apache]].
+
+Els britànics van idear el [[2003]] el '''sistema HIDAS''' (de l'anglès ''Helicopter Integrated Defensive Aid Suite'') que permet detectar i avaluar si els míssils són d'un tipus o un altre, el grau d'amenaça que suposen i els recursos de què disposa l'aparell per contrarestar-lo.
+
+De tota manera la tendència actual no s'orienta només a millorar les mesures, sinó a unir-les totes amb les detectades per altres aparells i sistemes en una sola xarxa on es coordini la informació i les respostes de forma integrada.
+
+=== Defensa civil ===
+[[Fitxer:Flughafen Frankfurt am Main.JPG|thumb|dreta|250px|A Europa, exceptuant les iniciatives de [[Lufthansa]], poc s'ha fet per defensar els avions civils.]]
+El '''pla israelià''' persegueix dotar tots els avions de les seves tres línies aèries (El aI, Arkia i Isra) de mesures antimíssils instal·lades i desenvolupades per empreses israelianes, com IA (Israel Aircraft), Elta o IMI (Israel Military Industries). Tot i les reticències pel cost de manteniment, el d'instal·lació, els problemes ambientals i la psicosi que la presència d'aquestes mesures pogués provocar, s'ha arribat a l'acord que el govern pagarà la instal·lació i les línies aèries el manteniment.
+
+El '''pla estatunidenc''' el va presentar el 2003 el Departament per a la Seguretat del Territori. Planejava instal·lar mesures de protecció i autodefensa en tots els turboreactors estatunidencs en un termini de dos anys, amb un cost de 120 milions de dòlars. Les empreses seleccionades per a dur-les a terme foren [[BAE System]], [[Northrop Grumman]] i la [[United Airlines]].
+
+En el '''cas europeu''' poc s'ha fet a part de la iniciativa llançada per l'empresa [[Lufthansa]]. L'aerolínia alemanya i la seva filial Lufthansa Technik es proposen dotar de mesures antimíssils a tots els seus avions, a més d'obrir les portes a un possible mercat de protecció per a aviació corporativa i línies aèries. Lufthansa ha demanat els serveis de l'estatunidenca Northrop Grumman, una de les empreses responsables del programa nord-americà. El problema és que el govern dels Estats Units només permet la transferència d'aquesta tecnologia a altres països per a avions familiars o de transport presidencial. Luftansa pretén solucionar aquesta limitació presentant una proposta a l'[[EADS]], segons la qual l'empresa constructora s'ocuparia de la comercialització i venda dels sistemes, mentre Lufthansa Technik instal·laria els equips en les aeronaus.ref name=avion276/
+
+== Propostes de control i no proliferació ==
+[[fitxer: Imagen038.jpg|thumb|right|250px|Amnistia Internacional demana que totes les armes, inclosos els míssils, es controlin i es pugui traçar la seva comercialització.]]
+El 2005 autors com el citat José M. Saenz advocaven per un acord internacional de no proliferació d'aquest tipus d'armes.ref Name=avion276/
+
+Organitzacions com [[Amnistia Internacional]] o [[Oxfam Internacional]] han demanat que se signi un tractat internacional per al control, que no la prohibició, de totes les armes, en concret de les armes petites i lleugeres a la qual pertanyen els míssils guiats per infraroigs. Entre altres mesures es proposa que cada exemplar tingui una marca que l'identifiqui i permeti la seva [[traçabilitat]] per conèixer la seva fabricant, vencedor i intermediari si fos necessari, amb un sistema similar a com són traçats altres productes, com ara els medicaments.
+
+No obstant això i malgrat el suport de la Unió Europea i molts països d'Amèrica i Àfrica, la conferència mundial sobre armes petites, celebrada el juliol de [[2006]], va acabar sense acord a causa del rebuig d'un petit nombre de països com [[Cuba]], [[Índia]], [[Israel]], [[Pakistan]] i sobretot als [[Estats Units]], que va bloquejar de manera sistemàtica dels punts fonamentals per evitar arribar a un acord, segons Amnistia Internacional.ref name = amnistia80  Diversos, Lliurament de la petició Un milió de rostres a Kofi Annan, secretari general de l'ONU, nº 80 d'[[Amnistia Internacional]], [[EDAI]], [[Madrid]], agost de [[2006]], ISSN 1023-8328 /ref
+
+== Vegeu també ==
+* [[Defensa antiaèria]]
+* [[Sistema de defensa aèria portàtil]]
+* [[Guiatge de míssils]]
+
+== Referències ==
+{{amaga|2}}
+
+== Enllaços externs ==
+{{Commonscat|Surface-to-air missiles}}
+
+
+{{ORDENA:Missil Superficie-Aire}}
+
+[[Categoria:Míssils]]</text>
+      <sha1>t85fxbszthgomzzfhgwr5s7b8cgpi0x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

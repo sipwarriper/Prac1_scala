@@ -1,0 +1,182 @@
+<page>
+    <title>Criptoanàlisi</title>
+    <ns>0</ns>
+    <id>40566</id>
+    <revision>
+      <id>13895632</id>
+      <parentid>13856795</parentid>
+      <timestamp>2014-07-27T12:13:43Z</timestamp>
+      <contributor>
+        <username>EVA2.0 (bot)</username>
+        <id>167473</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot: Reemplaçament automàtic de text  (- ha sigut + ha estat)</comment>
+      <text>{{MT|data=febrer de 2013}}
+{{millorar ortografia|data=abril de 2013}}
+La '''criptoanàlisi''' és el conjunt de tècniques utilitzades per desxifrar codis [[encriptació|encriptats]] sense conèixer el sistema emprat per a la codificació. Habitualment implica buscar la [[Clau (criptografia)|clau]] secreta utilitzada. El terme criptoanàlisi també s'utilitza de manera general per referir-se a qualsevol intent de trencar la seguretat d'altres tipus d'[[algorisme]]s i [[Protocol (procediment)|protocols]] criptogràfics. En canvi, el terme no inclou els atacs que no es basin en els punts febles de la criptografia utilitzada a la codificació, com per exemple els atacs que es basin en el [[suborn]], la coacció física, la [[tortura]] o el [[robatori]] (avui dia més efectius que la criptoanàlisi tradicional). Criptoanàlisi (del grec ''kryptós'', amagat i ''analýein'', deslligar) és l'estudi dels mètodes per obtenir el sentit d'una informació [[Criptografia|xifrada]], sense accés a la informació secreta requerida per obtenir aquest sentit normalment. Típicament, això es tradueix en aconseguir la [[Clau (criptografia)|clau secreta]]. En el llenguatge no tècnic, es coneix aquesta pràctica com trencar o forçar el codi, encara que aquesta expressió té un significat específic dins de l'argot tècnic. '''Criptoanàlisi''' també fa referència a qualsevol intent d'esquivar la [[seguretat]] d'altres tipus d'[[Algorisme|algorismes]] i [[Criptografia|protocols criptogràfics]] En general, i no només el [[Criptografia|xifrat]]. Això no obstant, la criptoanàlisi sol excloure atacs que no tinguin com a objectiu primari els punts febles de la [[criptografia]] utilitzada, per exemple, atacs a la seguretat que es basin en el [[suborn]], la [[coerció física]], el [[robatori]], el [[Keylogger|keylogging]] i altres, encara que aquests tipus d'atacs són un risc creixent per a la [[seguretat informàtica]], i s'estan fent gradualment més efectius que la criptoanàlisi tradicional.
+
+Tot i que l'objectiu ha estat sempre el mateix, els mètodes i tècniques de la criptoanàlisi han canviat de manera dràstica al llarg de la història de la criptografia, adaptant-se a la creixent complexitat de la [[criptografia]], passant del llapis i el paper del passat als [[ordinador]]s d'avui, passant per màquines com l'[[Màquina Enigma|Enigma]] de la [[Segona Guerra Mundial]]. Els resultats obtinguts amb la criptoanàlisi també han canviat al llarg del temps, ara ja no és possible tenir un èxit total en trencar una codificació i hi ha una classificació jeràrquica del que constitueix un atac. A mitjans de la dècada del 1970 es va introduir un nou tipus de criptografia: la [[criptografia asimètrica]] basada en una clau pública. Els mètodes que permeten trencar aquest tipus de [[criptosistema]] són radicalment diferents dels anteriors i impliquen la resolució de problemes [[Matemàtiques|matemàtics]] complexos com la [[factorització de nombres sencers]].
+
+
+
+
+
+Encara que l'objectiu ha estat sempre el mateix, els mètodes i tècniques de la criptoanàlisi han canviat dràsticament a través de la [[història de la criptografia]], adaptant-se a una creixent complexitat criptogràfica, que abasta des dels mètodes de llapis i paper del passat, passant per màquines com [[Enigma (màquina)|Enigma]]-utilitzada pels nazis durant la [[Segona Guerra Mundial]] -, fins a arribar als sistemes basats en computadores del present.
+
+Els resultats de la criptoanàlisi han canviat també: ja no és possible tenir un èxit il limitat al trencar un codi, i hi ha una classificació jeràrquica del que constitueix un atac a la pràctica. A mitjans dels anys 70 es va inventar una nova classe de criptografia: la [[criptografia asimètrica]]. Els mètodes utilitzats per trencar aquests sistemes són en general radicalment diferents dels anteriors, i usualment impliquen resoldre un problema acuradament construït en el domini de la [[matemàtica pura]]. L'exemple més conegut és la [[factorització d'enters]].
+
+
+== Història de la criptoanàlisi ==
+
+La criptoanàlisi ha evolucionat conjuntament amb la criptografia, i la competició entre tots dos pot ser rastrejament al llarg de tota la història de la criptografia. Les claus noves es dissenyaven per a reemplaçar els esquemes ja trencats, i noves tècniques de criptoanàlisi es desenvolupaven per obrir les claus millorades. A la pràctica, es considera a totes dues com les dues cares de la mateixa moneda: per crear un sistema criptogràfic segur, cal tenir en compte els descobriments de la criptoanàlisi. De fet, avui en dia se sol convidar a la comunitat científica que tracti de trencar les noves claus criptogràfiques, abans de considerar que un sistema és prou segur per al seu ús.
+
+=== Criptoanàlisi clàssica ===
+[[Fitxer: Al-kindi-cryptanalysis.png|thumb|Primera pàgina de '' Un manuscrit per al desxifrat de missatges criptogràfics '', d'[[Al-Kindi]]]]
+Encara que l'expressió criptoanàlisi és relativament recent (va ser encunyada per [[William F. Friedman]] a [[1920]]), els mètodes per trencar [[codi (criptografia|codis]] i [[Criptografia|xifrats]] són molt més antics. La primera explicació coneguda de la criptoanàlisi es deu al savi àrab del [[segle IX]], [[Al-Kindi|Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi]], en el seu '' Manuscrit per Desxifrar Missatges criptogràfics ''. Aquest tractat inclou una descripció del mètode d'[[anàlisi de freqüències]] (Ibraham, 1992).
+
+L'[[anàlisi de freqüències]] és l'eina bàsica per trencar els [[xifrat clàssica|xifrats clàssics]]. En totes les llengües conegudes, certes lletres de l'alfabet apareixen més sovint que altres, per exemple, en [[Idioma espanyol|espanyol]], les vocals són molt freqüents, ocupant al voltant del 45% del text, sent la E i l'A les que apareixen en més ocasions, mentre que la freqüència sumada de F, Z, J, X, W i K no arriba al 2%. Igualment, es poden reunir estadístiques d'aparició de parells o trios de lletres. L'anàlisi de freqüències revelarà el contingut original si el xifrat utilitzat no és capaç d'amagar aquestes estadístiques. Per exemple, en un [[Xifrat per substitució|xifrat de substitució simple]] (en el qual cada lletra és simplement substituïda per una altra), la lletra més freqüent en el text xifrat seria un candidat probable per representar la lletra E.
+
+L'anàlisi de freqüències es basa tant en el [[coneixement lingüístic]] com en les [[estadístiques]], però en tornar-se cada vegada més complicats els xifrats, les [[matemàtiques]] es van convertir gradualment en l'enfocament predominant en la criptoanàlisi. Aquest canvi va ser particularment evident durant la [[Segona Guerra Mundial]], quan els esforços per trencar els [[codi]]s de [[potències de l'Eix|l'Eix]] van requerir nous nivells de sofisticació matemàtica. Més encara, l'automatització va ser aplicada per primera vegada en la Història a la criptoanàlisi, sota la forma dels dispositius Bomba i [[Colossus]], una de les primeres computadores.
+
+=== Criptoanàlisi moderna ===
+[[Fitxer: Bombe-wh.700px.jpg|thumb|Rèplica d'un dispositiu [[Bombe]] ]]
+Encara que la computació va ser utilitzada amb gran èxit durant la Segona Guerra Mundial, també va fer possible nous mètodes criptogràfics que eren [[ordres de magnitud]] més complexos que els empleats fins a la data. Presa com un tot, la criptografia moderna s'ha tornat molt més impenetrable a l'criptoanalistes que els mètodes de ploma i paper del passat, i sembla que en l'actualitat porten avantatge sobre els mètodes de la pura criptoanàlisi. L'historiador [[David Kahn]] va escriure: '' Són molts els criptosistemes de venda avui per part de centenars de companyies comercials que no poden ser trencats per cap mètode conegut de criptoanàlisi. De fet, en certs sistemes fins i tot un atac de text pla escollit, en què un fragment de text pla seleccionat és comparat amb la seva versió xifrada, no permet conèixer el codi per trencar altres missatges. D'alguna manera, llavors, la criptoanàlisi és morta. Però aquest no és el final de la història. La criptoanàlisi pot estar morta, però, barrejant les meves metàfores, hi ha més d'una manera d'escorxar un gat. '' (Observacions sobre el 50 Aniversari de l'[[Agència de Seguretat Nacional ]], novembre 1 de 2002). Kahn esmenta a continuació les majors possibilitats per a la intercepció, la col locació de dispositius gravadors (''bugging''), els [[atacs de canal lateral]] i la [[Criptografia quàntica|criptogtafía quàntica]] com a substituts dels mètodes tradicionals de la criptoanàlisi.ref{{citar web|url=http://www.fas.org/irp/eprint/kahn.html|títol=Remarks of David Kahn on the National Security Agency's 50th Anniversary!--Títol generat per bot--}}/ref
+
+Kahn podria haver-se precipitat massa en declarar a la criptoanàlisi morta; encara no s'han extingit els xifrats febles. En mitjans acadèmics, es presenten regularment nous dissenys, i també són trencats freqüentment: el [[xifrat per blocs]] [[Madryga]], de [[1984]], va demostrar ser vulnerable a un [[atac amb només text xifrat disponible]] a [[1998]]; [[FEAL|FEAL-4]], proposat com a substitut per l'algorisme estàndard de xifrat de dades [[Data Encryption Standard|DES]] va ser enderrocat per una allau d'atacs de la comunitat acadèmica, molts dels quals no eren del tot realitzables en condicions pràctiques. En la indústria, igualment, els xifrats no estan exempts d'errors: per exemple, els algorismes [[AS/1]], [[AS/2]] i [[CMEA (algorisme)|CMEA]], usats en la indústria de [[telèfon mòbil|telèfons mòbils]], poden ser trencats en hores, minuts o fins i tot en temps real per equip informàtic àmpliament disponible. El 2001, es va demostrar que l'algorisme [[WEP]], utilitzat per protegir xarxes [[WiFi]], és susceptible de ser atacat mitjançant un [[atac de clau relacionada]].
+
+===Resultats de la criptoanàlisi ===
+[[Fitxer: Zimmermann-telegramm-offen.jpg|thumb|El [[Telegrama de Zimmerman]], desxifrat]]
+Els èxits en la criptoanàlisis han influït sens dubte en la Història. La capacitat de llegir els pensaments, suposadament secrets, o els plans d'altres pot ser un avantatge decisiu, i mai amb més raó que en temps de guerra. Per exemple, durant la [[Primera Guerra Mundial]], el desxiframent del [[Telegrama de Zimmerman]] va ser capital per a l'entrada dels [[Estats Units]] a la guerra. A la [[Segona Guerra Mundial]], la criptoanàlisi dels codis alemanys, incloent-hi la [[màquina Enigma]] i el [[codi Lorenz]], ha estat considerat des d'un factor que a penes va escurçar la guerra a alguns mesos a Europa, fins a un element crucial que va determinar el resultat final. Els Estats Units també es van beneficiar de la criptoanàlisi del codi japonès [[PURPLE]] durant la contesa.
+
+Tots els governs han estat conscients des d'antic dels potencials beneficis de la criptoanàlisi per a la [[intel·ligència militar]], tant pel que purament bèl·lic com en el diplomàtic, i han establert amb freqüència organitzacions dedicades en exclusiva al desxifrat de codis d'altres nacions, per exemple [[GCHQ]] i [[NSA]], organitzacions americanes encara molt actives avui dia. El [[2004]], va sorgir la notícia que els Estats Units havien trencat els codis utilitzats per [[Iran]].refhttp://news.bbc.co.uk/1/hi/technology/3804895.stm/ref
+
+== Caracterització dels atacs ==
+Els atacs criptoanalítics varien en potència i en la seva capacitat d'amenaça per als sistemes criptogràfics utilitzats en el món real. Una debilitat certificacional és un atac teòric que resulta improbable d'aplicar en cap situació realista, la majoria dels resultats demostrats en la investigació criptoanalítica moderna són d'aquest tipus. Essencialment, la importància pràctica de l'atac depèn de les respostes donades a les següents preguntes:
+#Què [[coneixement]] i capacitats són necessaris com a requisit?
+#Quanta informació addicional secreta es dedueix de l'atac?
+#Quant esforç es requereix? (és a dir, quin és el grau de [[complexitat computacional]]?)
+
+=== Coneixement previ: escenaris per la criptoanàlisi ===
+La criptoanàlisi pot realitzar sota una sèrie de supòsits sobre el que pot observar-se o descobrir-se sobre el sistema en qüestió abans de realitzar l'atac. Com un punt d'inici bàsic se suposa que, per als propòsits de l'anàlisi, el [[algorisme]] general és conegut; aquesta és la Màxima de Shannon, '' l'enemic coneix el sistema ''. Aquest és un supòsit raonable en la pràctica - al llarg de la Història, hi ha incomptables exemples d'algorismes secrets que van ser coneguts mitjançant l'[[espionatge]], la [[traïció]] i l'[[enginyeria inversa]]. (De vegades, alguns codis han estat reconstruïts mitjançant la pura deducció, per exemple, el [[codi Lorenz]] i el codi [[PURPLE]], així com una certa quantitat de codis clàssics.)
+
+Altres supòsits es poden categoritzar de la manera següent:
+* [[Atac amb només text xifrat disponible]]: el criptoanalista només té accés a una col·lecció de textos xifrats o codificats.
+* [[Atac amb text pla conegut]]: l'atacant té un conjunt de textos xifrats dels que coneix el corresponent text pla o desxifrat.
+* [[Atac amb text pla escollit]] ([[atac amb text xifrat escollit]]): l'atacant pot obtenir els textos xifrats (plànols) corresponents a un conjunt arbitrari de textos plans (xifrats) de la seva pròpia elecció.
+* [[Atac adaptatiu de text pla escollit]]: com un atac de text pla escollit, però l'atacant pot triar textos plans subsegüents sobre la base de la informació obtinguda dels desxifrats anteriorment. Similarment, hi ha el [[atac adaptatiu de text xifrat escollit]].
+* [[Atac de clau relacionada]]: com un atac de text pla escollit, però l'atacant pot obtenir text xifrat utilitzant dues claus diferents. Les claus són desconegudes, però la relació entre ambdues és coneguda, per exemple, dos claus que difereixen en un bit.
+
+Aquests tipus d'atac difereixen evidentment en la plausibilitat que ocorrin en la pràctica. Encara que alguns són més probables que altres, els criptògrafs solen adoptar un enfocament conservador i assumir el pitjor dels casos imaginable quan dissenyen algorismes, raonant que si un sistema és segur fins i tot contra amenaces tan poc realistes, aleshores hauria de resistir també a la criptoanàlisi en el món real.
+
+Els supòsits en què es basen aquests atacs són sovint més realistes del que podria semblar a primera vista. Per obtenir un atac amb text pla conegut, el criptoanalista podria molt bé conèixer o ser capaç d'inferir una part que probablement forma part del text pla, com ara l'encapçalament d'una carta xifrada (Benvolgut Sr), o que l'inici d'una sessió d'ordinador contingui les lletres LOGIN. Un atac de text pla escollit és menys probable, però en alguns casos pot ser plausible: per exemple, si convences a algú per tornar a enviar un missatge que tu mateix li has enviat abans, però en forma xifrada. Els atacs de clau relacionada són bàsicament teòrics, encara que poden ser realistes en certes situacions, com per exemple en construir [[funcions hash criptogràfiques]] utilitzant un [[xifrat per blocs]].
+
+=== Classificació de l'èxit en criptoanàlisi ===
+
+Els resultats d'una criptoanàlisi també poden variar en utilitat. Per exemple, el criptògraf [[Lars Knudsen]] (Knudsen, 1998) va classificar diversos tipus d'atac en [[xifrat per blocs|xifrats per blocs]] d'acord amb la quantitat i la qualitat de la informació secreta que pogués ser descoberta:
+
+* '' Ruptura total '' - l'atacant dedueix la [[clau secreta]].
+* '' Deducció global '' - l'atacant descobreix un algorisme funcionalment equivalent per al xifrat i desxifrat de missatges, però no obté la clau.
+* '' Deducció local (o d'instància) '' - l'atacant descobreix textos plans o xifrats addicionals als coneguts prèviament.
+* '' Deducció d'informació '' - l'atacant descobreix alguna [[informació]] en el sentit de [[Claude Shannon|Shannon]] que no era coneguda prèviament.
+* '' Distinció de l'algorisme '' - l'atacant pot distingir la informació xifrada d'una permutació a l'atzar.
+
+Es poden aplicar aquestes categories als atacs sobre altres tipus d'algorismes.
+
+=== Complexitat ===
+
+Els atacs es poden categoritzar per la quantitat de recursos que requereixen. Aquests poden prendre la forma de:
+
+* Temps - el nombre de operacions primitives que han de ser realitzades. Aquesta categoria és força vaga, les operacions primitives podrien considerar-se com instrucció bàsica de computació, com una suma, una operació [[XOR]], un desplaçament bit a bit, etc., O com a mètodes de xifrat sencers.
+* Memòria - la quantitat d'emmagatzematge necessari per a realitzar l'atac.
+* Dades - la quantitat de textos plans i xifrats necessària.
+
+A la criptografia acadèmica, una '' debilitat '' o '' ruptura '' en un algorisme es defineixen d'una manera força conservadora. [[Bruce Schneier]] resumeix aquesta posició de la següent manera: '' Trencar un xifrat simplement vol dir trobar una debilitat en el xifrat que pot ser explotada amb una complexitat inferior a la de la força bruta. No importa que la força bruta pogués requerir 2 sup 128 /sup xifrats, un atac que requereixi 2 sup 110 /sup xifrats es consideraria una ruptura ... ja d'una manera simple, una ruptura pot ser només una debilitat certificacional: una evidència que el codi no és tan bo com es publicita '' (Schneier, 2000).
+
+== Criptoanàlisi de criptografia asimètrica ==
+
+La [[criptografia asimètrica]] (també anomenada criptografia de clau pública) és una criptografia que es basa a utilitzar dos claus: una privada i una pública. Aquestes xifres invariablement s'empren en [[Problema matemàtic|problemes matemàtics]] durs com a base per a la seva seguretat, així que un punt obvi d'atac és desenvolupar mètodes per resoldre el problema. La seguretat d'una criptografia de dues claus depèn de qüestions matemàtiques d'una manera que no s'aplica a la criptografia de clau única, i recíprocament connecten la criptoanàlisi amb la investigació matemàtica en general de noves maneres.
+
+Els algorismes asimètrics es dissenyen al voltant de la conjectura dificultat de resoldre certs problemes matemàtics. Si es troba un algorisme millorat que pot resoldre el problema, el criptosistema es veu debilitat. Per exemple, la seguretat del [[Diffie-Hellman|protocol Diffie-Hellman]] depèn de la dificultat de calcular un [[logaritme discret]]. El [[1983]], [[Don Coppersmith]] va trobar una manera més ràpida de calcular logaritmes discrets (dins de certs grups), i per tant obligant als criptògrafs a utilitzar grups més grans, o diferents tipus de grups. La seguretat del protocol [[RSA]] depèn parcialment de la dificultat en la [[factorització d'enters]]. Un avanç en la factorització tindria un impacte clar en la seguretat de RSA.
+
+El [[1980]], es podia factoritzar un nombre de 50 dígits amb un cost de 10 sup 12 /sup operacions elementals de computació. Per a [[1984]] la tecnologia en algorismes de factorització havia avançat fins al punt que es podia factoritzar un nombre de 75 dígits amb les mateixes 10 sup 12 /sup operacions. Els avenços en la tecnologia de computació també han provocat que aquestes operacions es puguin realitzar en un temps molt menor. La [[Llei de Moore]] prediu empíricament que les velocitats de computació continuaran augmentant. Les tècniques de factorització podrien mostrar un desenvolupament semblant, però amb gran probabilitat dependran de la capacitat i la creativitat dels matemàtics, cap de les quals ha estat mai satisfactòriament predictible. Nombres de 150 xifres, com els utilitzats en RSA, han estat factoritzats. L'esforç va ser més gran que l'esmentat anteriorment, però no estava fora dels límits raonables per a un ordinador modern. Al començament del [[segle XXI]], els nombres de 150 xifres ja no es consideren prou grans com a clau per RSA. Nombres de centenars de dígits se seguien considerant massa difícils de factoritzar a [[2005]], encara que els mètodes probablement continuaran millorant amb el temps, obligant a les mides de clau a mantenir el ritme de creixement o desenvolupar nous algorismes.
+
+Una altra característica distintiva dels algorismes asimètrics és que, a diferència dels atacs sobre criptosistemes simètrics, qualsevol criptoanàlisi té l'oportunitat d'usar el coneixement obtingut de la clau pública.
+
+== Aplicacions de la computació quàntica a la criptoanàlisi ==
+
+Els [[Computació quàntica|ordinadors quàntics]] són potencialment útils per a la criptoanàlisi. Com que els [[Estat quàntic|estats quàntics]] poden existir en una superposició (és a dir, estar entrellaçats), és possible un nou paradigma computacional, en què un bit no representa tan sols els estats 0 i 1, sinó qualsevol [[combinació lineal]] d'aquests. [[Peter Shor]] dels [[Laboratoris Bell]] va provar la possibilitat, i diversos equips han demostrat un o altre aspecte de la [[computació quàntica]] En els anys transcorreguts des de llavors. De moment, només s'ha demostrat una molt limitada prova de possibles dissenys. No hi ha, a data de [[2006]], una perspectiva creïble d'un ordinador quàntic real i utilitzable.
+
+No obstant això, de construir un ordinador quàntic, moltes coses canviarien. La computació en paral·lel seria probablement la norma, i diversos aspectes de la [[criptografia]] canviarien.
+
+En particular, atès que un ordinador quàntic seria capaç de fer cerques de claus mitjançant força bruta extremadament ràpides, mides de clau considerats avui en dia més enllà dels recursos de qualsevol atacant per força bruta quedarien a l'abast d'aquest atac. Les mides de clau necessaris per quedar més enllà de la capacitat d'un ordinador quàntic serien considerablement més grans que els actuals. Alguns escriptors de divulgació han declarat que cap xifrat romandria segur d'estar disponibles els ordinadors quàntics. Altres asseguren que simplement afegint bits a les longituds de les claus s'evitaran els [[Atac de força bruta|atacs de força bruta]], fins i tot amb ordinadors quàntics.
+
+Una segona possibilitat és que l'augment en capacitat computacional pugui fer possibles altres atacs de cerca de claus, més enllà de la simple força bruta, contra un o diversos dels algorismes actualment inexpugnables. Per exemple, no tot el progrés en la [[factorització]] de [[nombres primers]] ha estat degut a una millora dels algorismes. Una part es deu a l'increment del poder computacional dels ordinadors, i l'existència d'un ordinador quàntic en funcionament podria accelerar considerablement les tasques de factorització. Aquest aspecte és bastant predictible, encara que no clarament. El que no pot ser anticipat és un avenç en el camp teòric que requereixi la computació quàntica, que pogués fer realitzables atacs actualment impracticables o fins i tot desconeguts. En absència d'un mètode per predir aquests avenços, només ens queda esperar.
+
+Es desconeix si hi ha un mètode de xifrat en [[temps polinòmic]] que requereixi un [[temps exponencial]] per a la seva desxifrat, fins i tot per un ordinador quàntic.
+
+== Mètodes de la criptoanàlisi ==
+Criptoanàlisi clàssica:
+* [[Anàlisi de freqüències]]
+* [[Mètode Kasiski]]
+* [[Índex de coincidència]]
+* [[Índex mutu de coincidència]]
+
+Algorismes simètrics:
+* [[Criptoanàlisi diferencial]]
+* [[Criptoanàlisi lineal]]
+* [[Criptoanàlisi integral]]
+* [[Criptoanàlisi estadística]]
+* [[Criptoanàlisi de mòdul n]]
+* [[Atac XSL]] (eXtended Sparse Linearisation)
+* [[Atac de lliscament]]
+
+Altres mètodes:
+* [[Atac d'aniversari]]
+* [[Atac Man-in-the-middle]]
+* [[Atac Meet-in-the-middle]]
+* [[Atac de força bruta]]
+* [[Jardineria (criptoanàlisi)]]
+* [[Anàlisi d'energia]]
+
+== Bibliografia==
+* Helen Fouché Gaines, cryptanalysis, 1939, Dover. ISBN 0-486-20097-3
+* [[Abraham Sinkov]], '' Elementary cryptanalysis: A Mathematical Approach '', Mathematical Association of America, 1966. ISBN 0-88385-622-0
+* Ibraham A. Al-Kindi: The origins of [[Cryptology]]: The Arab contributions, ''Cryptologia'', 16 (2) (April 1992) pp. 97-126.
+* [[David Kahn]], [[The Codebreakers]] - The Story of Secret Writing, 1967. ISBN 0-684-83130-9
+* [[Lars R. Knudsen]]: Contemporary Block Ciphers. Lectures on Data Security 1998: 105-126
+* [[Bruce Schneier]], [http://www.schneier.com/paper-self-study.html Self-Study Course in Block Cipher cryptanalysis], '' Cryptologia '', 24 (1) (January 2000), pp. 18-34.
+* Friedrich L. Bauer: Decrypted Secrets. Springer 2002. ISBN 3-540-42674-4
+* [[William F. Friedman]], ''Military cryptanalysis'', Part I, ISBN 0-89412-044-1
+* [[William F. Friedman]] ''Military cryptanalysis'', Part II, ISBN 0-89412-064-6
+* [[William F. Friedman]] ''Military cryptanalysis'', Part III, Simpler Varieties of Aperiodic Substitution Systems, ISBN 0-89412-196-0
+* [[William F. Friedman]] ''Military cryptanalysis'', Part IV, Transposition and Fractionating Systems, ISBN 0-89412-198-7
+* [[William F. Friedman]] i [[Lambros D. Callimahos]], 'Military Cryptanalytics'',Part I, Volume I, ISBN 0-89412-073-5
+* [[William F. Friedman]] i [[Lambros D. Callimahos]], 'Military Cryptanalytics'',Part I, Volume I, ISBN 0-89412-074-3
+* [[William F. Friedman]] i [[Lambros D. Callimahos]], Military Cryptanalytics'', Part II, Volume I, ISBN 0-89412-075-1
+* [[William F. Friedman]] i [[Lambros D. Callimahos]], 'Military Cryptanalytics'',Part II, Volume I, ISBN 0-89412-076-X
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* http://www.umich.edu/{umich/fm-34-40-2/Basic cryptanalysis els fitxers contenen unes capçaleres de 5 línies que han de ser eliminades] {{En}} 
+* http://distributedcomputing.info/ap-crypto.html #m4 Distributed Computing Projects {{En}} 
+* [http://bibliotecnica.upc.es/cambranegra/contents.html La cambra negra]
+* http://groups.google.com/groups/search?q=author% 3Asmokerman6% 40hotmail.com+OR+author% 3Ascully% 40ar.com+OR+author% 3Aidaho% 40microsoft.com+OR+author% 3Aman% 40ar.com+OR+author% 3Adave% 40wanadoo.fr+OR+author% 3Afdgd% 40wanadoo.fr+OR+author% 3Afortune% 40fortune.com  star All lot of real encrypted messages on newsgroups {{En}} 
+* http://dsv.su.se/{icss-abr/crypto/Classic {{En}} 
+* [http://www.xtec.cat/%7Ejjareno/calaixera/activitat/activitat_2.htm Trencar una xifra]
+==Referències==
+references /
+{{Autoritat}}
+{{Esborrany de matemàtiques}}
+
+
+{{ORDENA:Criptoanalisi}}	!--ORDENA generat per bot--
+{{Enllaç AB|pl}}
+
+[[Categoria:Criptografia]]</text>
+      <sha1>bvr6h5mpgxjir9hmwbhntzjc4jzshvv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,184 @@
+<page>
+    <title>Laperrière-sur-Saône</title>
+    <ns>0</ns>
+    <id>837799</id>
+    <revision>
+      <id>13657213</id>
+      <parentid>13478160</parentid>
+      <timestamp>2014-06-23T17:37:03Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Correcció tipogràfica: espais sobrants</comment>
+      <text>{{Infotaula de municipi de França|de |Laperrière-sur-Saône|
+| escut= Blason de la ville de Laperrière-sur-Saône (21).svg
+| fotografia = Laperrière sur Saône 2013 04 13 01.jpg
+| fotografia_descripció = Església [[Santa Maria Magdalena]]
+| latitud = 47.111822
+| longitud = 5.341209
+| cantó = [[Cantó de Saint-Jean-de-Losne|Saint-Jean-de-Losne]]
+| codi_insee = 21342
+| codi_postal = 21170
+| dirigent_tipus1 = Batlle
+| dirigent1 = M. Jean-Luc Soller
+| superfície = 11
+| web = 
+}}
+'''Laperrière-sur-Saône''' és un [[municipi]] [[França|francès]], situat al departament de la [[Costa d'Or]] i a la regió de [[{{Padró INSEE/Nom de regió|{{Padró INSEE/Regió|{{Padró INSEE/Departament|21342}}}}}}]]. L'any [[2007]] tenia 400 habitants.
+
+== Demografia ==
+
+=== Població ===
+El 2007 la població de fet de Laperrière-sur-Saône era de 400 persones. Hi havia 148 famílies de les quals 35 eren unipersonals (12 homes vivint sols i 23 dones vivint soles), 47 parelles sense fills, 62 parelles amb fills i 4 famílies monoparentals amb fills.
+
+La població ha evolucionat segons el següent gràfic:ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=poplog-com Population et logements par commune depuis le recensement de 1962 (1961 pour les Dom) à 1999]/ref
+
+''Habitants censats''
+timeline
+Colors=
+ id:lightgrey value:gray(0.9)
+ id:darkgrey value:gray(0.7)
+ id:sfondo value:rgb(1,1,1)
+ id:barra value:rgb(0.6,0.7,0.8)
+
+ImageSize = width:350 height:373
+PlotArea = left:50 bottom:50 top:30 right:30
+DateFormat = x.y
+Period = from:0 till:500
+TimeAxis = orientation:vertical
+AlignBars = justify
+ScaleMajor = gridcolor:darkgrey increment:50 start:0
+ScaleMinor = gridcolor:lightgrey increment:10 start:0
+BackgroundColors = canvas:sfondo
+
+BarData=
+ bar:1962 text:1962
+ bar:1968 text:1968
+ bar:1975 text:1975
+ bar:1982 text:1982
+ bar:1990 text:1990
+ bar:1999 text:1999
+ bar:2007 text:2007
+
+PlotData=
+ color:barra width:30 align:left
+
+ bar:1962 from:0 till: 303
+ bar:1968 from:0 till: 267
+ bar:1975 from:0 till: 239
+ bar:1982 from:0 till: 273
+ bar:1990 from:0 till: 325
+ bar:1999 from:0 till: 301
+ bar:2007 from:0 till: 400
+
+PlotData=
+
+ bar:1962 at: 303 fontsize:S text: 303 shift:(-8,5)
+ bar:1968 at: 267 fontsize:S text: 267 shift:(-10,5)
+ bar:1975 at: 239 fontsize:S text: 239 shift:(-10,5)
+ bar:1982 at: 273 fontsize:S text: 273 shift:(-10,5)
+ bar:1990 at: 325 fontsize:S text: 325 shift:(-10,5)
+ bar:1999 at: 301 fontsize:S text: 301 shift:(-10,5)
+ bar:2007 at: 400 fontsize:S text: 400 shift:(-10,5)
+
+TextData=
+ fontsize:S pos:(20,20)
+ text:font INSEE - elaboració gràfica pròpia
+
+/timelinenoinclude
+
+=== Habitatges ===
+El 2007 hi havia 158 habitatges, 146 eren l'habitatge principal de la família, 6 eren segones residències i 5 estaven desocupats. 156 eren cases i 2 eren apartaments. Dels 146 habitatges principals, 123 estaven ocupats pels seus propietaris, 17 estaven llogats i ocupats pels llogaters i 6 estaven cedits a títol gratuït; 4 tenien dues cambres, 13 en tenien tres, 47 en tenien quatre i 83 en tenien cinc o més. 121 habitatges disposaven pel capbaix d'una plaça de pàrquing. A 49 habitatges hi havia un automòbil i a 83 n'hi havia dos o més.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=base-cc-logement Logement, 1968-2007]/ref
+
+=== Piràmide de població ===
+La piràmide de població per edats i sexe el 2009 era:
+
+{{Piràmide de població 2
+|float=left
+|width=50%
+|maxvalue=18.4
+|bg=rgb(90%,90%,90%)
+|border=1px solid black|margin-top=1ex
+|caption=[[Piràmide de població]] de '''Laperrière-sur-Saône''' el [[2009]]ref{{Lien web|url=http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=pop-sexe-age-quinquennal| títol =Population par sexe et âge quinquennal de 1968 à 1999| site = http://www.recensement-2007.insee.fr | consultat = 13/07/2010}}/ref
+|barcolor=rgb(70%,90%,70%)
+|{{mida|80%|95 o +}}|0|0
+|{{mida|80%|90 a 94}}|0|0
+|{{mida|80%|85 a 89}}|4|8
+|{{mida|80%|80 a 84}}|0|4
+|{{mida|80%|75 a 79}}|12|8
+|{{mida|80%|70 a 74}}|4|12
+|{{mida|80%|65 a 69}}|4|8
+|{{mida|80%|60 a 64}}|8|8
+|{{mida|80%|55 a 59}}|8|0
+|{{mida|80%|50 a 54}}|4|12
+|{{mida|80%|45 a 49}}|16|0
+|{{mida|80%|40 a 44}}|16|12
+|{{mida|80%|35 a 39}}|12|4
+|{{mida|80%|30 a 34}}|8|12
+|{{mida|80%|25 a 29}}|8|12
+|{{mida|80%|20 a 24}}|8|4
+|{{mida|80%|15 a 19}}|8|8
+|{{mida|80%|10 a 14}}|8|8
+|{{mida|80%|5 a 9}}|12|16
+|{{mida|80%|0 a 4}}|8|12
+
+}}
+
+== Economia ==
+[[Fitxer:Laperrière sur Saône 2013 04 13 04 IR.jpg|upright=1.5|thumbnail|dreta|Fotografia infraroja de l'ajuntament]]
+El 2007 la població en edat de treballar era de 243 persones, 176 eren actives i 67 eren inactives. De les 176 persones actives 161 estaven ocupades (94 homes i 67 dones) i 15 estaven aturades (8 homes i 7 dones). De les 67 persones inactives 20 estaven jubilades, 23 estaven estudiant i 24 estaven classificades com a altres inactius.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=base-cc-emploi-pop-active Emploi et population active 1999 et 2007]/ref
+
+=== Ingressos ===
+El 2009 a Laperrière-sur-Saône hi havia 146 unitats fiscals que integraven 391 persones, la [[mediana]] anual d'ingressos fiscals per persona era de 16.599€.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=base-cc-rev-fisc-loc-menage Revenus fiscaux des ménages en 2008]/ref
+
+=== Activitats econòmiques ===
+Dels 11 establiments que hi havia el 2007, 5 eren d'empreses de construcció, 3 d'empreses de comerç i reparació d'automòbils, 1 d'una empresa de transport i 2 d'empreses d'hostatgeria i restauració.ref[http://www.insee.fr/fr/themes/detail.asp?reg_id=99ref_id=etab-com Créations et stock d'établissements par commune en 2009]/ref
+
+Dels 3 establiments de servei als particulars que hi havia el 2009, 1 era un paleta, 1 fusteria i 1 lampisteria.ref[http://www.insee.fr/fr/bases-de-donnees/default.asp?page=statistiques-locales/car-ser.htm Nombre d'équipements des services aux particuliers]/ref
+
+L'únic establiment comercial que hi havia el 2009 era una botiga d'electrodomèstics.ref[http://www.insee.fr/fr/bases-de-donnees/default.asp?page=statistiques-locales/caracteristiques-commerce.htm Nombre d'équipements et de services dans le domaine du commerce en 2009]/ref
+
+L'any 2000 a Laperrière-sur-Saône hi havia 7 explotacions agrícoles.
+
+== Equipaments sanitaris i escolars ==
+
+El 2009 hi havia una escola elemental integrada dins d'un grup escolar amb les comunes properes formant una escola dispersa. 
+
+== Poblacions més properes ==
+[[Fitxer:Laperrière sur Saône 2013 04 13 03 IR.jpg|upright=1.5|thumbnail|dreta|Monument als Morts durant la Primera i la Segona Guerra Mundial (fotografia infraroja)]]
+El següent diagrama mostra les poblacions més properes.
+
+div style=position: relative; float:left; width:450px;
+ [[Fitxer:Blank map.svg|400px|left|enllaç=|Distàncies i posició relativa d'algunes poblacions]] 
+ {{Image label|x=0.506|y=0.495|scale=400|text=[[Fitxer:Map pointer black.svg|20px|Laperrière-sur-Saône|]]'''Laperrière-sur-Saône'''}}
+{{Image label|x=0.686654308865|y=0.43361592722|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 274 habitants (2000)]]{{mida|80%|[[Saint-Seine-en-Bache]] (2,4km)}}}}
+{{Image label|x=0.505147690098|y=0.291475571563|scale=400|text=[[Fitxer:Small-city-symbol.svg|8px|Població amb 819 habitants (2000)]]{{mida|80%|[[Les Maillys]] (2,7km)}}}}
+{{Image label|x=0.636092716257|y=0.684757779569|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 132 habitants (2000)]]{{mida|80%|[[Samerey]] (2,7km)}}}}
+{{Image label|x=0.302819119562|y=0.588136621643|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 340 habitants (2000)]]{{mida|80%|[[Saint-Symphorien-sur-Saône]] (3,0km)}}}}
+{{Image label|x=0.152439995919|y=0.482270569461|scale=400|text=[[Fitxer:Small-city-symbol.svg|8px|Població amb 673 habitants (2000)]]{{mida|80%|[[Échenon]] (4,7km)}}}}
+{{Image label|x=0.64249217444|y=0.848584424012|scale=400|text=[[Fitxer:Small-city-symbol.svg|8px|Població amb 743 habitants (2000)]]{{mida|80%|[[Abergement-la-Ronce]] (4,7km)}}}}
+{{Image label|x=0.810593736256|y=0.198107298098|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 176 habitants (2000)]]{{mida|80%|[[Flagey-lès-Auxonne]] (5,5km)}}}}
+{{Image label|x=0.0657863602135|y=0.507566824687|scale=400|text=[[Fitxer:Small-city-symbol.svg|10px|Població amb 1104 habitants (2000)]]{{mida|80%|[[Saint-Usage (Côte-d'Or)|Saint-Usage]] (5,8km)}}}}
+{{Image label|x=0.54597473576|y=0.957829691018|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 360 habitants (2000)]]{{mida|80%|[[Aumur]] (5,8km)}}}}
+{{Image label|x=0.754573656219|y=0.107504277915|scale=400|text=[[Fitxer:Small-city-symbol.svg|6px|Població amb 348 habitants (2000)]]{{mida|80%|[[Labergement-lès-Auxonne]] (5,9km)}}}}
+/divbr clear=left
+
+== Referències ==
+{{Commonscat|Laperrière-sur-Saône}}
+
+{{referències}}
+{{refbegin}}
+*[http://www.statistiques-locales.insee.fr/FICHES%5CRS%5CDEP%5C21%5CCOM%5CRS_COM21342.pdf Résumé statistique] Fitxa resum de dades estadístiques de Laperrière-sur-Saône a l'[[INSEE]].
+*[http://www.statistiques-locales.insee.fr/FICHES%5CDL%5CDEP%5C21%5CCOM%5CDL_COM21342.pdf Évolution et structure de la population] Fitxa amb el detall de dades de Laperrière-sur-Saône a l'[[INSEE]]
+*[http://www.statistiques-locales.insee.fr/carto/ESL_CT_cartethematique.asp?lang=FRnivgeo=COM France par comune] Dades detallades de totes les comunes de França accessibles a partir del mapa.
+{{refend}}
+{{Municipis Costa d'Or}}
+{{ORDENA:Laperriere-Sur-Saone}}	!--ORDENA generat per bot--
+[[Categoria:Municipis de la Costa d'Or]]</text>
+      <sha1>2nqfxz4w2jd3wkyts6n96hl49u66a32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

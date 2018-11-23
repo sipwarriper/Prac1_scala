@@ -1,0 +1,90 @@
+<page>
+    <title>Datació basada en el carboni-14</title>
+    <ns>0</ns>
+    <id>109077</id>
+    <revision>
+      <id>13445828</id>
+      <parentid>13333863</parentid>
+      <timestamp>2014-05-26T19:47:25Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: mètode == Al 1949  mètode == El 1949</comment>
+      <text>La '''datació basada en el radiocarboni''' és un mètode de datació absoluta de mostres orgàniques basada en la determinació d'un [[isòtop]] [[radioactivitat|radioactiu]] del [[carboni]], el [[carboni-14]].
+
+Aquesta tècnica va ser descoberta i desenvolupada per [[Willard Libby|Willard Frank Libby]] i els seus col·laboradors en l'any [[1949]] i va ser el motiu que se li concedís el [[premi Nobel]] de química el [[1960]].
+
+== Origen del radiocarboni ==
+El radiocarboni es forma en l'alta [[Atmosfera terrestre|atmosfera]] per la [[radiació còsmica]] que incideix en el [[nitrogen]] i es reparteix per tota l'atmosfera, forma [[CO2]] radioactiu que a través del procés de la [[fotosíntesi]] s'incorpora en els [[vegetals]] i quan els vegetals són ingerits també es troba als [[animals]]. Quan els éssers vius moren (o es fa la fusta en els arbres) la concentració de radiocarboni va disminuint.
+
+[[Fitxer:Radiocarbon bomb spike.svg|thumb|300px|right|Atmosfèric sup14/supC, [[Nova Zelanda]]ref{{Citar web|url=http://cdiac.esd.ornl.gov/trends/co2/welling.htm|títol=Atmospheric δ14C record from Wellington|arxiuurl=http://web.archive.org/web/20080609200254/http://cdiac.esd.ornl.gov/trends/co2/welling.htm|arxiudata=9 de juny de 2008}} /ref i [[Àustria]].ref{{Citar web|url=http://cdiac.esd.ornl.gov/trends/co2/cent-verm.htm|títol=δ14 CO2 record from Vermunt|arxiuurl=http://web.archive.org/web/20080623070645/http://cdiac.esd.ornl.gov/trends/co2/cent-verm.htm|arxiudata=23 de juny de 2008}} /ref La corba de [[Nova Zelanda]] és representativa de l'[[hemisferi sud]] i la d'[[Àustria]] de l'[[hemisferi nord]].ref{{citar web|url=http://www1.phys.uu.nl/ams/Radiocarbon.htm|títol=Radiocarbon Dating}}/ref]]
+
+== Història i bases del mètode ==
+El 1949, el [[químic]] americà [[Willard Libby]] va publicar les primeres dates radiocarbòniques. Durant la [[Segona Guerra Mundial]] havia estat un dels científics que estudiaven la [[radiació còsmica]], les [[partícules subatòmiques]] que bombardejaven la terra constantment, produint [[electró|electrons]] d'alta energia. Aquests neutrons reaccionaven amb els [[àtoms]] de [[nitrogen]] de l'atmosfera per a produir àtoms de [[carboni-14]] o radiocarboni, que és inestable per la presència de 8 [[neutró|neutrons]] al nucli, en lloc dels 6 habituals en el carboni corrent ([[carboni-12]]). Aquesta inestabilitat dóna lloc a una desintegració radioactiva constant. Libby va calcular que la meitat del carboni 14 de qualsevol mostra tardava 5.568 anys a desintegrar-se (la seva [[vida mitjana]]) encara que recents investigadors indiquen que la data més exacta és de 5.730 anys.
+
+Libby s'adonà de que la desintegració del radiocarboni a un ritme constant s'equilibrava degut a la seva producció continua per la radiació còsmica, i que per tant, la proporció de carboni 14 de l'[[atmosfera terrestre|atmosfera]] continuaria sent la mateixa al llarg del temps. A més, aquesta [[concentració]] atmosfèrica estable de radiocarboni es transmet de manera uniforme a tots els éssers vius a través del [[diòxid de carboni]]. Les plantes l'absorbeixen mitjançant la [[fotosíntesi]] i són consumides pels animals [[herbívor]]s, que a la vegada, són devorats pels carnívors. Només quan mor una planta o un animal disminueix l'absorció de carboni-14, i la seva concentració comença a disminuir degut a la desintegració radioactiva.
+
+D'aquesta manera, Libby, va comprendre que coneixent el ritme de desintegració, o vida mitjana del carboni-14, es podria calcular l'edat d'una planta o un teixit animal mort mesurant la quantitat de radiocarboni que quedés a la mostra. 
+La gran fita pràctica de Libby va consistir a dissenyar un mètode precís de mesura. Libby descobrí que cada àtom de carboni-14 es desintegra emetent [[Emissió beta|partícules beta]] i va aconseguir trobar aquestes emissions utilitzant un [[comptador Geiger]]. Aquesta és la base del mètode. Les mostres acostumen a consistir en materials orgànics trobats en [[Jaciment arqueològic|jaciments arqueològics]], com el [[carbó vegetal]], fusta, llavors, i altres restes de plantes, óssos humans o animals. 
+L'obtenció exacta de l'activitat del carboni-14 en una mostra és perjudicada pels errors de recompte, la radiació còsmica de fons, i altres factors que aporten indecisió als càlculs. Això vol dir que les dates radiocarbòniques van acompanyades invariablement d'una taxa d'error probable: l'expressió +/- (desviació típica) inherent a tota data radiocarbònica.
+
+A finals dels anys 70 i principis dels 80, es va produir un avenç important en el mètode convencional, amb la introducció, en alguns laboratoris, de comptadors especials de gas capaços de fer mesuraments a partir de mostres molt petites. 
+Al mètode convencional es necessiten 5 g de carbó pur ja descontaminat, el que significa una mostra original d'uns 10-20g de fusta o carbó, o 100-200 grams d'os. L'equip especial només necessita uns mil·ligrams de carbó.
+
+== Metodologia ==
+El mètode de datació es basa en la premissa que la taxa de producció de radiocarboni és constant al llarg del temps i que la proporció entre aquest isòtop radioactiu i el no radioactiu és constant. Per una datació més acurada s'utilitzen les corbes de calibratge i els resultats s'acaben de calibrar amb altres mètodes com pot ser la dendrocronologia (amb els anells de creixement dels [[arbres]]) que permet determinar la mateixa mostra amb els dos mètodes.
+
+El radiocarboni es transforma en [[nitrogen-14]] que és un isòtop [[gas]]ós que ja no és radioactiu, aquest descens de concentració s'utilitza, per saber quants anys fa que una matèria orgànica és morta. Com que les plantes aquàtiques agafen el carboni dissolt en l'aigua, que resulta ser més antic que el terrestre, aquest mètode de datació no es pot fer servir en aquestes plantes ni en els animals que se n'alimenten.
+
+Les mesures es fan comptant la desintegració radioactiva dels [[àtoms]] de carboni en gas de [[nitrogen]] a través de diversos mètodes el més sensible dels quals (amb mostres de pocs mil·ligrams) és l'espectrometria de masses amb un [[accelerador de partícules]]. Aquesta desintegració es produeix de manera exponencial, disminuint el carboni a la meitat cada 5730 anys.
+
+En la determinació hi intervenen errors sistemàtics que són corregibles per calibratge i aleatoris que influeixen en el grau de determinació del resultat.
+
+Les edats mesurades encara sense calibrar s'expressen en anys [[BP (unitat de temps)|BP]] (Before present) essent l'any de referència del nivell de radiocarboni en l'atmosfera el del [[1950]] per conveni i perquè les explosions nuclears en l'atmosfera dels anys posteriors provocaren alteracions en els nivells de radioactivitat de l'atmosfera.
+
+L'expressió de les dates obtingudes amb el mètode del radiocarboni utilitza la desviació tipus estadística així una datació com 4000±40 indica una desviació tipus de 40 anys per la qual cosa indica que hi ha una probabilitat del 66% que la data real estigui entre 3960 i 4040 anys. 
+
+Els límits de datació amb garanties amb la tècnica del radiocarboni estan entre 58.000 i 62.000. Per tant abasten només part del Paleolític. En tot cas a partir dels 100.000 anys la incertesa en la datació ja no és assumible i aleshores les datacions es fan amb altres mètodes com el [[paleomagnetisme]] o la mesura d'altres isòtops radioactius com pot ser les sèries de l'[[urani]] o la proporció [[argó]]/ [[potassi]].
+
+== Referències ==
+* J. R. Arnold and W. F. Libby, Age Determinations by Radiocarbon Content: Checks with Samples of Known Age, ''Science'', Vol. 110 (1949).
+* Bowman, Sheridan, ''Interpreting the Past: Radiocarbon Dating'', University of California Press, 1990, ISBN 0-520-07037-2
+* Currie, Lloyd. ''The Remarkable Metrological History of Radiocarbon Dating [II]''. {{citar web|url=http://nvl.nist.gov/pub/nistpubs/jres/109/2/j92cur.pdf|títol=PDF!--Títol generat per bot--}}
+* Michael Friedrich, Sabine Remmele, Bernd Kromer, Jutta Hofmann, Marco Spurk, Klaus Felix Kaiser, Christian Orcel, Manfred Küppers: The 12,460-Year Hohenheim Oak and Pine Tree-Ring Chronology from Central Europe—a Unique Annual Record for Radiocarbon Calibration and Paleoenvironment Reconstructions, ''Radiocarbon'' 46/3, S. 1111-1122 (2004).
+* Harry E. Gove: ''From Hiroshima to the Iceman.'' The Development and Applications of Accelerator Mass Spectrometry. Bristol: Institute of Physics Publishing, 1999. 
+* Kovar, Anton J. ''Problems in Radiocarbon Dating at Teotihuacan''. American Antiquity, Vol. 31, No. 3, Part 1 (Jan., 1966), pp. 427-430 {{citar web|url=http://links.jstor.org/sici?sici=0002-7316%28196601%2931%3A3%3C427%3APIRDAT%3E2.0.CO%3B2-Xsize=LARGE|títol=Enllaç!--Títol generat per bot--}}.
+* Libby, W. F., ''Radiocarbon Dating,'' 2nd ed. (Univ. of Chicago Press, Chicago, Ill.,. 175 pp., 1955). 
+* Mook, Willem G and van der Plicht, Johannes (1999), Reporting 14C activities and concentrations, ''Radiocarbon'' 41: 227–239. {{Citar web|url=http://www.radiocarbon.org/PDF/v41n3/RAD413_227-240.pdf|títol=PDF|arxiuurl=http://web.archive.org/web/20060923052940/http://www.radiocarbon.org/PDF/v41n3/RAD413_227-240.pdf|arxiudata=23 de setembre de 2006}}{{Citar web|url=http://www.radiocarbon.org/Subscribers/Fulltext/v41n3_mook_vdplicht_227.html|títol=HTML|arxiuurl=http://web.archive.org/web/20060927075348/http://www.radiocarbon.org/Subscribers/Fulltext/v41n3_mook_vdplicht_227.html|arxiudata=27 de setembre de 2006}} 
+* ''The Discovery of Global Warming,'' by Spencer Weart {{citar web|url=http://www.aip.org/history/climate/Radioc.htm|títol=Uses of Radiocarbon Dating!--Títol generat per bot--}}
+* Willis E.H. (1996), ''Radiocarbon dating in Cambridge: some personal recollections. [http://www.quaternary.group.cam.ac.uk/history/radiocarbon/ A Worm's Eye View of the Early Days'', ]
+
+== Enllaços externs ==
+* [http://www.radiocarbon.org/ ''Radiocarbon - The main international journal of record for research articles and date lists relevant to 14C'']
+* [http://www.c14dating.com/ ''C14dating.com - General information on Radiocarbon dating'']
+* [http://www.nosams.whoi.edu/about/carbon_dating.html ''NOSAMS: National Ocean Sciences Accelerator Mass Spectrometry Facility'' at the ''Woods Hole Oceanographic Institution''.] 
+* [http://www.radiocarbon.org/Info/index.html ''Several calibration programs can be found at www.radiocarbon.org'']
+* [http://www.calpal.de ''CalPal - Cologne Radiocarbon Calibration  Paleoclimate Research Package''] 
+* [http://www.rlaha.ox.ac.uk/O/oxcal.php ''OxCal (Oxford Calibration) program'']
+* [http://c14.arch.ox.ac.uk/calibration.php ''Discussion of calibration'']
+* [http://c14.arch.ox.ac.uk/explanation.php ''Example of calibration'']
+* [http://www.calpal-online.de CalPal Online]
+* [http://www.informath.org/Basic14C.pdf ''Further basic information on radiocarbon dating''] {{PDF}}
+
+
+{{ORDENA:Datacio Basada En El Carboni-14}}	!--ORDENA generat per bot--
+==Referències==
+{{Referències}}
+
+{{Enllaç AB|de}}
+
+[[Categoria:Datació|Carboni-14]]
+[[Categoria:Radioactivitat]]
+[[Categoria:Carboni]]
+[[ml:കാര്‍ബണ്‍ പഴക്കനിര്‍ണ്ണയം]]</text>
+      <sha1>gumcsnccf66zuhr1urw9awsoiellyab</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,66 @@
+<page>
+    <title>Agència de Seguretat Nacional</title>
+    <ns>0</ns>
+    <id>394721</id>
+    <revision>
+      <id>13865300</id>
+      <parentid>13820548</parentid>
+      <timestamp>2014-07-19T04:48:07Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot posa {{cal coor}} que enllaça amb coordenades de Wikidata</comment>
+      <text>{| class=toccolours border=1 cellpadding=4 style=float: right; margin: 0 0 1em 1em; width: 20em; border-collapse: collapse; font-size: 95%; clear: right;
+|+ font size=+1'''Agència de Seguretat Nacional'''/font
+|-
+|style=background:#efefef; align=center colspan=2|[[Fitxer:National Security Agency.svg|125px|NSA seal—there are legal restrictions to the use of the seal]]
+|-
+|'''Establert:'''|| [[4 de novembre]], [[1952]]
+|-
+|'''Director'''|| Tinent General Keith B. Alexander, (USA)
+|-
+|'''Subdirector'''|| John C. (Chris) Inglis
+|-
+|'''Pressupost:'''||Secret
+|-
+|'''Empleats:'''|| Entre 100.000 i 380.000
+|-
+|}
+L''''Agència de Seguretat Nacional''' (en [[anglès]]: ''National Security Agency''), també coneguda com a NSA per les seves sigles en anglès, és una agència del [[govern dels Estats Units]] responsable d'obtenir i analitzar informació transmesa per qualsevol mitjà de comunicació, i de garantir la seguretat de les comunicacions del govern contra agències similars d'altres països. 
+
+La NSA depèn del [[Departament de Defensa dels Estats Units|Departament de Defensa]] (''DoD'') i és dirigida per un oficial de tres estrelles (un [[tinent general]] o bé un [[vicealmirall]]). Les seves activitats d'espionatge inclouen la [[radiodifusió]], tant d'organitzacions com d'individus, [[Internet]], i altres formes de comunicació, sobretot confidencials. La seva intercepció de comunicacions segures inclou militars, diplomàtics, i altres comunicacions sensibles, confidencials o secretes del govern.
+
+Malgrat haver estat considerada com l'organització que més doctors matemàtics empra, com a propietària del major nombre de superordinadors, i que té un pressupost molt més gran que la [[CIA]], ha tingut un perfil notablement baix fins als últims anys. Durant molt de temps fins i tot la seva existència no va ser admesa pel govern dels Estats Units. Se la va arribar a conèixer com a ''No Such Agency'' (no hi ha tal agència).
+
+A causa de la seva tasca d'espionatge mitjançant escoltes, la NSA ha estat fortament implicada en investigacions sobre criptoanàlisi, seguint la feina de les agències precursores que havien estat responsables de trencar molts codis i claus durant la [[Segona Guerra Mundial]] (mirar, per exemple, codi Porprat, Venona, i JN-25).
+
+L'oficina central de l'Agència de Seguretat Nacional és en [[Fort Meade]], [[Maryland]], aproximadament a 32 quilòmetres al nord-est de [[Washington DC|Washington]], en línia recta. La NSA té la seva pròpia sortida a la carretera Baltimore-Washington, senyalitzada com Només per a empleats de la NSA. L'escala de les operacions de la NSA és difícil de determinar a partir de les dades no classificades, però una pista és l'ús d'electricitat de l'oficina central que supera els 21 milions de [[Dòlar dels Estats Units|dòlars]] per any, el que en fa el segon major consumidor d'electricitat de l'estat de Maryland. Les fotos han mostrat que hi ha aproximadament 18.000 places d'aparcament al lloc, encara que es creu que el nombre d'empleats en la NSA pot doblar aquest nombre; els empleats estan escampats per tot el món.
+
+El seu programa de comunicacions segures per al govern ha implicat la NSA en la producció de [[maquinari]] i [[programari]] de comunicacions i de [[semiconductors]], en la investigació [[criptografia|criptogràfica]], i en contractes amb la indústria privada per subministrar-li articles, equip i la investigació que no està preparada per desenvolupar. Hi ha una planta de fabricació de xips a [[Fort Meade]].
+
+El juny 2013, les [[revelador d'informació|revelacions]] d'[[Edward Snowden]], un antic col·laborador de la NSA, que va denunciar el programari [[Prism]], desenvolupat per a analitzar les [[dades personals]] que els gegants d'[[Internet]] com [[Google]] i [[Microsoft]] van (ser obligats de) transmetre. Es critica que Prism vigila, controla i analitza ciutadans innocents, sense cap sospita, al nivell mundial. Les revelacions de Snowden van fer esclatar un [[escàndol]] i un llarg debat sobre on comença el dret a la [[llibertat]], la protecció de la vida privada i on s'acaba el dret d'un estat de protegir la seva [[seguretat]].ref name= QAVegeu per exemple: Quim Aranda, [http://www.elpuntavui.cat/noticia/article/3-politica/17-politica/655224-sota-vigilancia-global.html «Sota vigilància global: Les denúncies sobre l'NSA s'inscriuen en les que fan Wikileaks, Anonymus i organitzacions semblants»], ''[[El Punt Avui]],'', 16 de juny de 2013/ref
+
+== Articles relacionats==
+* [[XKeyscore]]
+
+==Referències==
+{{Referències}}
+
+== Enllaços externs ==
+{{Commonscat}}
+* {{oficial |http://www.nsa.gov}} 
+{{Autoritat}}
+
+{{cal coor}}
+{{ORDENA:Agencia De Seguretat Nacional}}
+
+[[Categoria:Entitats dels Estats Units]]
+[[Categoria:Espionatge]]
+[[Categoria:Seguretat i defensa]]</text>
+      <sha1>9b0aa10lsm67klugngfg7s80sprv6as</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

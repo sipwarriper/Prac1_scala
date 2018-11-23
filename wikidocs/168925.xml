@@ -1,0 +1,134 @@
+<page>
+    <title>Míssil</title>
+    <ns>0</ns>
+    <id>168925</id>
+    <revision>
+      <id>13776392</id>
+      <parentid>13205239</parentid>
+      <timestamp>2014-07-10T03:26:42Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}} i {{Projectes germans}} que enllaça amb [[commons:category:Missiles]]</comment>
+      <text>[[Fitxer:Minuteman3launch.jpg|300px|thumb|right|[[Míssil balístic intercontinental]] [[Minuteman III]] ]]
+Un ''' míssil ''' és un [[projectil]] autopropulsat que pot ser guiat durant tota o part de la seva [[trajectòria]], propulsat per [[coet]] o [[motor de reacció]]. Generalment els míssils són usats com [[arma]] i tenen un o més [[cap de guerra|caps de guerra]] [[explosiu|explosius]], encara que també poden usar-se altres tipus d'arma en el míssil. N'hi ha de mides i abast molt variats, des dels [[Míssil antitanc|míssils antitanc]] que poden ser portats i llançats per una sola persona fins als enormes [[Míssil balístic intercontinental|míssils balístics intercontinentals]].
+
+La seva mida i usos són molt variats, des dels [[Míssil antitanc|míssils antitanc]] que poden ser transportats per una sola persona fins als enormes [[Míssil balístic intercontinental|míssils balístics intercontinentals]].
+
+== Etimologia ==
+La paraula «míssil» prové del verb '' missĭlis '' en [[Llatí]], que significa «llancívol».
+En el llenguatge militar comú, la paraula «míssil» descriu una munició autopropulsada guiada, mentre que la paraula «[[coet (arma)|coet]]» descriu una munició autopropulsada no guiada. Les municions guiades sense motor són conegudes com a [[bomba guiada|bombes guiades]]. Una subdivisió a majors habitual és considerar com «[[míssil balístic]]» a una munició que segueix una [[trajectòria balística]] i «[[míssil de creuer]]» a una munició que genera [[sustentació]] (es desplaça com una [[aeronau d'ala fixa]]).
+
+== Desenvolupaments inicials ==
+[[Fitxer: fusée V2.jpg|thumb|250px|[[Coet V-2|V-2]] alemany de la [[Segona Guerra Mundial]].]]
+{{AP|Història dels coets}}
+Els primers míssils a ser usats operacionalment van ser una sèrie de [[míssils alemanys de la Segona Guerra Mundial]]. Els més famosos d'ells van ser els [[Bomba voladora V-1|V1]] i [[Coet V2|V2]], ambdós usaven un [[pilot automàtic]] mecànic molt simple per mantenir el míssil volant al llarg d'una ruta preseleccionada. No tan coneguts van ser una sèrie de míssils antivaixell i antiaeris, normalment basats en un senzill sistema de [[radioguiatge]] dirigit per l'operador. No obstant això, aquests primers sistemes tenien una alta taxa de fallada, de manera que eren molt inestables.
+
+== Càrregues i usos dels míssils ==
+Els míssils guiats són projectils a reacció per a ús militar, que posseeixen en capacitat de guiar-se proporcionant ordres electròniques que el fan variar la seva trajectòria de vol de manera que en algun lloc de la mateixa intercepti la trajectòria del seu objectiu i el posi fora de combat per l'efecte d'un cap de guerra en el seu [[ogiva (arma)|ogiva]] (la composició varia d'acord a l'ocupació tàctic del míssil).
+
+Els míssils són usats habitualment com a armes de [[Guerra|guerra]], car poden dur un gran poder destructiu (en general en forma de cap [[explosiu]]) a una gran distància i precisió fins al seu objectiu. A banda d'explosius, es poden utilitzar altres càrregues com ara agents químics o bacteriològics. També existixen càrregues dissenyades per a danyar infraestructures sense produir baixes. Per exemple, a la [[Guerra del Golf]] els [[míssil de creuer|míssils de creuer]] van ser carregats amb filaments de grafit que duts a [[central elèctrica|centrals elèctriques]] i estacions de distribució d'energia van provocar [[curtcircuit]]s. Altres míssils fan ús només de l'[[energia cinètica]] per destruir l'objectiu amb el seu impacte a gran velocitat. Però els més devastadors són, sens dubte, els míssils balístics intercontinentals amb caps termonuclears.
+
+== Tecnologia ==
+Els míssils disposen genèricament de tres sistemes, ja sigui integrats en ell o externs, que serveixen per descriure'ls i categoritzar. Disposen d'un ''' Sistema de Localització ''', un ''' Sistema de Guia ''', i un ''' Sistema de Control de Vol '''.
+
+Els míssils guiats tenen diversos sistemes components diferents:
+* Selecció de l'objectiu i/o [[Guiatge de míssils|guiatge]]
+* Sistema de vol
+* [[Motor]]
+* [[Cap de guerra]]
+
+=== Sistemes de guiatge ===
+{{AP|Guiatge de míssils}}
+[[Fitxer: AIM-9X-F18E 080414-N-7981E-106.jpg|thumb|250px|Cap sensor d'un míssil [[AIM-9|AIM-9X]] muntat a l'ala d'un [[avió de caça]].]]
+Generalment posseeixen un cap amb sistema de guiat específic ([[infraroig]], [[radar]], [[sistema de navegació inercial]], electroòptic, [[TV]] o radio-controlat).
+
+=== Sistemes d'adquisició d'objectius ===
+Un altre mètode de dirigir el míssil cap a l'objectiu és indicar-li la posició de l'objectiu, i coneguda la posició del míssil estimar la trajectòria a realitzar. Aquesta trajectòria pot ser calculada pel propi míssil o manada per ràdio al míssil des d'un operador que calculi la ruta.
+
+=== Sistemes de vol ===
+Qualsevol míssil guiat que usa un sistema de recerca de blanc, un sistema de guiatge o ambdós, necessita un sistema de vol. El sistema de vol utilitza les dades de l'objectiu o els sistemes de guiatge per maniobrar el míssil en vol, permetent controlar les imprecisions en el míssil o seguir un objectiu mòbil. Hi ha dos sistemes principals: [[embranzida vectorial]] o mitjançant maniobres aerodinàmiques (moviment d'ales, timons, etc.).
+
+=== Motor ===
+La majoria dels míssils petits tenen un motor [[coet]] de propel·lent sòlid o un motor jet, el qual només li proveeix uns pocs segons d'embranzida. El míssil s'accelera a la seva màxima velocitat just abans que el combustible s'esgoti, i depèn de la seva [[inèrcia]] pel temps restant del vol. Els míssils de major grandària arriben a disposar de motors coet de propel·lent líquid, que els permet períodes d'impuls més estesos i molt més abast.
+
+=== Cap de guerra ===
+{{AP|Ogiva (arma)|l1 = Ogiva}}
+
+== Classificació dels míssils ==
+Els míssils solen ser categoritzats segons on es troba la seva plataforma de llançament i el seu blanc intencional, en termes generals aquests seran «superfície» («terra» o «aigua») o «aire», (per exemple un míssil terra-aire és un míssil llançat des de terra contra objectius en l'aire). I subcategoritzar pel tipus exacte de blanc per al qual estan dissenyats (com [[míssil antitanc]] o [[míssil antivaixell]] per exemple). Tot i això, moltes armes estan dissenyades per ser llançades des de superfície o des d l'aire indistintament, i algunes estan dissenyades per atacar tant objectius terrestres com aeris (com el míssil [[ADATS]]). Moltes armes requereixen algunes modificacions a l'hora de ser llançades des d'aire o terra, com la incorporació de [[booster|coets impulsors]] per a versions llançades des de terra. És habitual diferenciar míssils segons el seu abast: curt, mitjà, llarg o molt llarg, i també segons el seu tipus de guiat.
+
+També solen diferenciar-se els míssils com ''' tàctics ''' quan el seu objectiu és aturar un altre atac ja iniciat, (com quan un altre míssil ha estat llançat per l'enemic).
+
+[[Fitxer: Trident II missile image.jpg|thumb|250px|Míssil balístic [[UBM-133 Trident II]] llançat des d'un submarí.]]
+== Míssils sense guiatge==
+===Míssils balístics===
+{{AP|Míssil balístic}}
+Són míssils que s'autopropulsen només en la part inicial de la seva trajectòria i que no usen la seva [[aerodinàmica]] per a variar el seu rumb (perquè el seu moviment està governat per les lleis de la [[balística]]). El seu primer precursor va ser la [[V-2]] alemanya. Tots aquests míssils fan ús de [[motor coet|motors coet]] i genèricament solen rebre el nom de coets. Arriben a altituds molt majors que els míssils de creuer pel fet que els reactors són menys viables, així mateix no els cal cap tipus de mecanisme de [[sustentació]], car tota l'[[embranzida]] vertical l'extreuen del llançament inicial. Aquests míssils no són estrictament míssils guiats, ja que el seu marge de maniobra està molt limitat per les característiques inicials del llançament.
+
+Els avantatges d'aquest sistema són una major rapidesa des del llançament fins a l'impacte i una molt més difícil intercepció.
+
+Una extensió pesada dels míssils balístics són els actuals [[Coet espacial|coets espacials]] que s'usen per a posar càrregues útils en [[òrbita]].
+
+==Míssils amb guiatge anti-satèl·lit ==
+{{AP|Arma anti-satèl·lit}}
+
+== Míssils amb guiatge de llarg abast==
+[[Fitxer:Tomahawk Block IV cruise missile.jpg|250px|thumb|right|[[Míssil de creuer]] [[BGM-109 Tomahawk]].]]
+{{AP|Míssil amb guiatge}}
+=== Míssils de creuer ===
+{{AP|Míssil de creuer}}
+Aquests míssils es propulsen al llarg de tota la seva trajectòria i assoleixen grans distàncies. En essència volen com els avions, usant [[ala (aeronàutica)|ales]] i [[aleró|alerons]] que els permeten maniobrar durant el vol. El primer precursor d'aquests artefactes va ser la [[bomba volant]] V-1. Actualment es distingeixen diversos tipus de míssils creuer usats àmpliament. Els míssils de precisió d'atac a terra com els [[BGM-109 Tomahawk]], els míssils per a avions aire/aire i els antivaixell com l'[[míssil Exocet|Exocet]]. Alguns d'ells utilitzen [[motor de reacció|motors de reacció]] (motors que cremen un [[combustible]] amb l'[[oxigen]] de l'[[aire]]) uns altres fan ús de simples motors [[coet]] (motors que carreguen amb ambdós propelents) els quals els redueix l'abast però també la seva grandària fent-los més manejables. Aquesta és la necessitat dels petits míssils aire/aire, per exemple.
+
+==Míssils amb guiatge de curt i mig abast==
+{{AP|Guiatge de míssils}}
+Aquests míssils, a diferència dels de creuer, són guiats, però arriben a distàncies més curtes. Generalment la seva embranzida és a través d'un propelent sòlid i posseeix un cap amb sistema de guiat específic (infraroig, radar, sistema de navegació inercial, electroòptic, TV o radio-controlat). Poden ser llançats des de terra, mar o aire cap al seu objectiu. Dins de la seva gamma, existeixen els míssils de curt i mig abast, sent els creuer considerats com de llarg abast.
+
+Hi ha algunes similituds entre els míssils amb guiatge e curt i mig abast i les [[bomba guiada|bombes guiades]], però una bomba guiada, llançada per un avió, no té propulsió i usa l'aerodinàmica per volar horitzontalment i caure el més vertical possible sobre l'objectiu.
+
+=== Míssils guiats superfície-aire ===
+[[Fitxer: Patriot missile launch b.jpg|thumb|250px|Llançament d'un [[MIM-104 Patriot]] de l'Exèrcit nord-americà. El Patriot és un míssil antiaeri que es dispara des de superfície.]]
+{{AP|Míssil superfície-aire}}
+
+==== - Míssils antiaeris ====
+{{AP|Míssil antiaeri}}
+{{VT|MANPADS}}
+
+==== - Míssils antimíssil ====
+{{AP|Míssil antimíssil}}
+=== Míssils guiats superfície-superfície/aire-superfície ===
+{{AP|Míssil superfície-superfície}}
+{{AP|Míssil aire-superfície}}
+
+==== - Míssils antivaixell ====
+{{AP|Míssil antivaixell}}
+
+==== - Míssils antitanc ====
+{{AP|Míssil antitanc}}
+
+=== Míssils guiats aire-aire ===
+{{AP|Míssil aire-aire}}
+
+
+== Vegeu també ==
+*[[Guiatge de míssils]]
+*[[Míssil guiat]]
+*[[Míssil aire-superfície]]
+*[[Míssil aire-aire]]
+*[[Míssil antitanc]]
+*[[Míssil antivaixell]]
+*[[Arma nuclear]]
+
+== Enllaços externs ==
+{{Projectes germans|commons=Missile}}
+
+{{Autoritat}}
+{{ORDENA:Missil}}
+[[Categoria:Míssils| ]]</text>
+      <sha1>s8covy0yzkhnig7rhmt6uxb5amkgqqm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

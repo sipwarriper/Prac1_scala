@@ -1,0 +1,171 @@
+<page>
+    <title>Proteïna priònica cel·lular</title>
+    <ns>0</ns>
+    <id>1127136</id>
+    <revision>
+      <id>14059191</id>
+      <parentid>13691849</parentid>
+      <timestamp>2014-09-20T19:46:02Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: entre sí. Cal  entre si. Cal</comment>
+      <text>{{fusió a|prió|data=febrer de 2014}}
+'''PrPc''' o '''proteïna priònica cel·lular''' és una [[glicoproteïna]] coneguda com la isoforma no patològica de la '''PrPsc''', o '''proteïna priònica scrapie''', un [[prió]]. La distribució anòmala d'aquesta fa que apareguin mutacions a nivell morfològic i funcional, cosa que propicia el desenvolupament de diverses malalties transmissibles, com ara la malaltia de les vaques boges o la seva homòloga en l'espècie humana, la [[Malaltia de Creutzfeldt-Jakob]]. Donat que no es coneix encara la funcionalitat bàsica de la PrPc, hi ha certs àmbits de la proteïna nativa i mutant que es desconeixen, cosa que dificulta el control, cura i prevenció de les patologies associades.
+
+==Estructura de la proteïna PrPc nativa==
+La PrPc (proteïna cel·lular priònica) és una [[glicoproteïna]] codificada pel gen autosòmic dominant PRNP del cromosoma 20. És sintetitzada al [[citosol]] de la [[cèl·lula]], tot i que després és transportada cap al [[reticle endoplasmàtic]] i posteriorment a l'[[aparell de Golgi]], on es modifiquen els seus [[monosacàrids]] i s'hi afegeix un [[àcid siàlic]]. El seu últim destí és la [[membrana plasmàtica]], on normalment es troba localitzada, bàsicament a la matriu extracel·lular.
+
+el que fa referència a la seva estructura, es tracta d'una [[proteïna]] constituïda per una sola cadena peptídica d'uns 209 [[aminoàcids]] i un pont disulfur en l'espècie humana. A més a més, presenta un empaquetament compacte amb quatre [[hèlix alfa]] (42% hèlix alfa i 3% làmines beta) i [[oligosacàrid]]s força complexos units a la proteïna. La PrPc és hidrofòbica, però soluble quan hi trobem presents quantitats importants de soluts solubles apolars. També és de remarcable importància la seva sensibilitat cap a l'acció de les [[proteases]]. És de la magnitud de 33-35kD.
+
+Normalment, la PrPc es presenta ancorada a la superfície de les [[neurones]] mitjançant una molècula de GPI (Glicosilfosfatidilinositol), per tant, es troba molt present en el [[sistema nerviós central]] i, en concret, se situa en els [[botons sinàptics]] de les cèl·lules neuronals. Tanmateix, encara es desconeix la funció que aquesta proteïna hi duu a terme, tot i que la seva localització fa pensar que pugui està relacionada amb algun procés sinàptic.ref{{ref-publicació|cognom=John Collinge, Miles A. Whittington, Katie C. L. Sidle, Corinne J. Smith, Mark S. Palmer, Anthony R. Clarke  John G. R. Jefferys|títol=Prion protein is necessary for normal synaptic function|publicació=Nature|data= 28 juliol 1994 Accepted 30 June 1994|pàgines=295-297|volum=370|doi=10.1038/370295a0}}/ref També s'ha trobat presència de la PrPc en alguns epitelis excretors, però amb uns índexs molt inferiors respecte als del [[cervell]].
+
+Estudis recents han tractat d'esbrinar el rol que la proteïna PrPc juga en el nostre organisme. S'ha demostrat que els nivells d'aquesta proteïna realment mantenen una correlació amb la diferenciació de precursors neuronals. En concret, s'ha comprovat que els nivells d'aquesta proteïna estan directament relacionats amb l'augment de la taxa de diferenciació dels precursors multipotents.ref{{ref-publicació|cognom=Steele AD, Emsley JG, Ozdinler PH, Lindquist S, Macklis JD.|títol=Prion protein (PrPc) positively regulates neural precursor proliferation during developmental and adult mammalian neurogenesis|publicació=PNAS|data=2006 Feb 21 |pàgines=3416-21 |volum=103 |exemplar=9 |pmid=16492732}}/ref De la mateixa manera, també s'ha vist que a l'augmentar aquesta taxa de diferenciació de les cè
+[[Fitxer:PRPCvsPRPSC.jpeg|thumb|Diferències estructurals entre la proteïna normal PrPC i la seva forma anòmala PrPSc|522x522px]]
+l·lules neuronals multipotents, s'afavoreix la producció de [[neurones]] madures.
+
+==Estructura de la proteïna patològica (PrPsc)==
+Aquesta proteïna es considera una isoforma de la PrPc. Tanmateix, les diferències entre ambdues són considerables. La PrPsc o proteïna priònica cel·lular scrapie es diferencia essencialment de la forma no patològica per la seva estructura consistent principalment en làmines beta (43% làmines beta, 30% hèlix alfa). A més, presenta resistència parcial a les proteases, és a dir, que és resistent contra l'acció d'aquestes, i és insoluble. Aquest fet és el que permet di
+
+ferenciar les dues proteïnes al laboratori. Un altre factor molt important és la seva facilitat per degradar-se i formar agregats de plaques amiloides extracel·lulars, que seran els majors causants de la seva acció patològica. A més a més, presenta un aspecte de fibril·les o bastons si és purificada per [[centrifugació]]. És de la magnitud de 27-30kD.
+
+==Conversió de PrPc a PrPsc==
+El desconeixement d'aquest procés amb suficient seguretat implica que actualment no sigui possible trobar una cura o una solució prou eficient per a les diverses patologies, moltes d'elles greus i letals, causades per la PrPsc. Tanmateix, des de fa dècades, s'estan fent estudis sobre aquestes proteïnes i el gen que codifica la PrPc.
+
+Actualment, diversos estudis han confirmat que ambdues formes, tot i que són codificades pel mateix [[gen]], no poden ser resultat d'un procés alternatiu del [[mRNA]], perquè en la majoria d'espècies estudiades la seqüència que codifica la [[proteïna]] es troba en un únic [[axó]]. Una explicació al respecte, confirmada també per estudis, proposa que la PrPsc és un derivat post-traduccional de la forma no patològica. A més, aquesta hipòtesis concorda amb les observacions realitzades per B. Oesch i K.Basler, que postulaven que la PrPsc s'acumula lentament als cervells dels animals infectats, encara que els nivells de mRNA romanguin estables durant el desenvolupament de la malaltia.
+
+D'altra banda, un punt clau que encara continua essent un misteri és l'origen de la forma patològica, la PrPsc. Aquest descobriment seria fonamental per al tractament de les malalties que causa aquesta [[proteïna]], ja que els agents infecciosos semblen estar compostos en la seva totalitat o en gran part per aquesta. Alternativament, també podria resultar de gran utilitat conèixer com la forma PrPc adquireix la forma PrPsc patològica, o d'una altra forma, com adquireix la 'resistència a les proteases. Així, es podria intentar desenvolupar fàrmacs que inhibeixin aquesta conversió.
+
+A continuació es detallen les diverses explicacions que tracten d'explicar aquest canvi o conversió de la forma innòcua a la patològica. Tanmateix, tal com s'ha explicat, cap d'aquestes explicacions consta de la suficient corroboració per part del experts.
+
+*La PrPsc podria induir la conversió de la proteïna PrPc a la forma patològica PrPsc. D'aquesta forma tindríem dues còpies de PrPc idèntiques. Així, els heterodímers podrien actuar com a intermediaris per a la síntesis de la PrPsc. D'aquesta forma, se seguiria la llei del prió de [[Stanley Ben Prusiner]].ref{{ref-publicació|cognom=Harriet Coles|títol=Nobel panel rewards prion theory after years of heated debate|publicació=Nature|data= 9 octubre 1997|pàgines=529|volum=389|doi=doi:10.1038/39120}}/ref Tanmateix, no s'ha trobat cap agregat de PrPc-PrPsc.
+*Un procés de polimerització en cadena, iniciat per la PrPsc inoculada que podria actuar com a cristall iniciador.ref{{ref-publicació|cognom=Gabriela P. Saborio, Bruno Permanne  Claudio Soto|títol=Sensitive detection of pathological prion protein by cyclic amplification of protein misfolding|publicació=Nature|data= 14 juny 2001Received 13 February 2001; Accepted 10 May 2001|pàgines=810-813|volum=411|doi=doi:10.1038/35081095}}/ref
+*No s'abandona la idea d'una modificació post-traduccional.
+*Altres molècules podrien influir o catalitzar d'alguna manera aquesta conversió.
+*Finalment, altres investigadors, a partir dels resultats de diferents estudis, postulen que les xaperones podrien intervenir també en aquest procés.
+
+Com ja s'ha esmentat, cap d'aquestes possibles hipòtesis por ser considerada com a veritable amb el que coneixem avui dia sobre aquest procés de conversió estructural i morfològic. Tot i així, trobem evidències que confirmen que d'alguna manera o altra, aquesta conversió de la PrPc a la PrPsc s'ha de dur a terme. A tall d'exemple,B. W. Caughey i P.T. Lansbury van comprovar que, al barrejar ambdues formes en un tub d'assaig, la PrPc es convertia en PrPsc, de forma que finalment, només es trobava present la PrPsc.
+
+Ara bé, si entrem en detall i tractem de saber com es produeix específicament, a nivell molecular aquest canvi, les explicacions són encara més variades i dubtoses. Aquestes possibles hipòtesis intenten explicar com es produeix aquest canvi de forma que variï l'estructura de la [[proteïna]], pel que fa el predomini de làmines beta en la forma patològica i la resistència a [[proteases]] i la insolubilitat adquirida. Una hipòtesis més acceptades és que el trencament del ponts disulfur seria el responsable de la pèrdua d'aquesta estructura d'[[hèlix alfa]], de forma que restarien radicals –SH, molt presents en la làmina beta. Finalment, una altra possible explicació seria la substitució d'un [[aminoàcid]] de prolina per leucina.ref{{ref-publicació|cognom=Rona M. Barron, Val Thomson, Elizabeth Jamieson, David W. Melton, James Ironside, Robert Will and Jean C. Manson|títol=Changing a single amino acid in the N-terminus of murine PrP alters TSE incubation time across three species barriers|publicació=The EMBO Journal (2001) |data=Received 15 January 2001; Accepted 27 July 2001; Revised 11 June 2001 |pàgines=5070 - 5078|volum=20}}/ref Aquest fet, causaria la desestabilització de l'estructura terciària de la proteïna PrPc, que més endavant es transformaria en laPrPsc. Aquesta última explicació es veu reforçada en comprar el gen [[PRNP]] en persones sanes i malaltes.
+
+==Contagi de l'estructura làmina beta i formació de plaques amiloides==
+[[File:PROCÉS.jpg|thumb|Mecanisme de transmissió de la proteïna priònica PrPsc|561x561px]]
+Una proteïna globular en forma d'[[hèlix alfa]] d'una membrana neuronal entra en contacte amb una proteïna PrPsc, la qual actua d'agents infecciós fent que la PrPc canviï la seva estructura. Aquesta nova estructura estarà constituïda principalment per làmines beta, i, per tant, serà plana. Aquest canvi de conformació provocarà que la proteïna PrPc esdevingui una proteïna patògena, PrPsc. Com a conseqüència d'aquesta nova conformació, la proteïna mutada no pot ser degradada, per la qual cosa actua com
+
+a agent infecciós sobre una altra PrPc induint el plegament anòmal de manera exponencial. Aquest procés és el causant de l'acumulació d'agregats de PrPsc en forma de plaques amiloides, és a dir, agregats proteics patògens que s'acumulen en forma de fibres insolubles i que destrueixen les neurones, la qual cosa provoca forats al [[cervell]].
+
+==Transport fins al cervell==
+A partir d'una ingesta contaminada, l'agent patogen és transportat per l'epitel·li intestinal, des d'on entra a les cèl·lules M (amb capacitat transportadora de [[macromolècules]] a través de cèl·lules de l'epitel·li intestinal) mitjançant [[transcitosi]]. A continuació, l'agent entra dins de les cèl·lules migratòries i dels [[macròfags]]. Un cop reconegut l'[[antigen]], se sintetitza un [[anticòs]] contra el [[prió]]. Aquesta [[immunoglobulina]], però, no té cap eficàcia, per la qual cosa el [[prió]] és transportat pel [[sistema immunitari]] i s'acumula a la [[melsa]] i als [[ganglis limfàtics]], els quals estan en contacte amb nervis. Aquest fet provoca la transmissió dels prions al teixit nerviós, afectant greument el cervell de l'organisme hoste. La mort neuronal que provoca el [[prió]] es produeix perquè les PrPsc són insolubles i resistents a les proteases (agents digestius dels lisosomes). Per això, les PrPsc s'acumulen als [[lisosomes]], incapaços de degradar-les, de manera que augmenten de volum fins que es produeix la lisi d'aquests orgànuls. Com a conseqüència, els fluids de caràcter àcid que estaven continguts als [[lisosomes]] s'alliberen pel medi intracel·lular, provocant així la mort de la cèl·lula.refL. Stryer, J. M. Berg, J. L. Tymoczco (2008) Bioquímica. Editorial Reverté (6): pp.53-54/ref
+
+==Què és un [[prió]]?==
+Els prions són les proteïnes que actuen com a agents infecciosos en absència d'[[àcids nucleics]], és a dir, sense necessitat d'[[ADN]] o [[ARN]], com és el cas de la [[mutació]] en la PrPc que comporta l'aparició de la mutació PrPsc. Aquestes proteïnes, que més concretament són psialoproteïnes, presenten alteracions en la seva [[estructura secundària]], de manera que això es tradueix en un plegament erroni de la seva [[estructura terciària]].
+La majoria d'agents infecciosos coneguts, com ara [[virus]], [[bacteris]] o [[fongs]], contenen [[àcids nucleics]] i altres [[biomolècules orgàniques]], mentre que els prions tan sols estan formats per [[aminoàcids]] i no presenten cap tipus de [[material genètic]].
+
+Els prions són els causants de les encefalopaties espongiformes transmissibles en una gran diversitat de mamífers. Entre elles s'inclouen l'[[encefalopatia espongiforme bovina|encefalopatia]]
+
+[[encefalopatia espongiforme bovina| espongiforme bovina]], popularment coneguda com la 'malaltia de les vaques boges', la qual afecta bovins; i la [[malaltia de Creutzfeldt-Jakob]], incident en humans.
+
+Aquestes proteïnes mutades, els prions, formen agregats supramoleculars i són patògenes a causa de la conformació alternativa que adquireixen, rica en làmines beta i, a més, autoreproduibles.
+
+Els prions es propaguen mitjançant la transmissió de proteïnes anòmales amb plegaments incorrectes.
+Quan un prió entra a un organisme sa, actua sobre la forma normal del mateix tipus de proteïna existent a l'organisme, de manera que en modifica l'estructura i la converteix en un prió.
+Aquesta transformació de proteïnes normals a prions es va repetint de forma successiva de la mà dels nous prions que s'acaben de formar, provocant una [[reacció en cadena]] que genera creixents quantitats de la proteïna priònica.
+
+Tots els prions que es coneixen indueixen a la formació d'amiloides plegats, en els quals actuen [[polimerases]] formant un agregat que consisteix en fulls beta molt propers entre si. Cal tenir en compte que la propagació del prió depèn de la presència de la proteïna normalment plegada a la qual altres prions poden induir el plegament patològic. D'aquesta manera, els organismes que no expressen la forma normal de la proteïna priònica, no podran desenvolupar o transmetre aquest trastorn.refM. Devlin T (2004) ''Bioquímica: libro de texto con aplicaciones clínicas''. Editorial Reverté (4): pp. 134; http://www.news-medical.net/health/What-is-a-Prion-(Spanish).aspx/ref
+
+==Malaltia de Creuzfelt-Jakob==
+La [[malaltia de Creutzfeldt-Jakob]] forma part d'un conjunt de malalties anomenades [[encefalopaties esponjoses transmissibles]], denominades així per la característica aparició de forats en els cervells contaminats, que fan assimilar els teixits de massa encefàlica a esponges si s'observen al microscopi en estadis avançats de la malaltia. Tot i que existeixen diversos tipus d'aquesta patologia, aquesta és, en general, poc prevalent, amb l'aparició d'aproximadament un cas per cada milió de persones. Se sol donar al voltants dels 60 anys, i en la majoria dels casos resulta letal després d'un any d'evolució.
+Es poden diferenciar tres variants principals d'aquesta malaltia:
+; MCJ esporàdica: És la variant més freqüent, doncs comporta el 85% dels casos i és d'origen [[idiopàtic]] sense factors de risc associats.
+
+; MCJ hereditària: on muta un [[gen]] que comporta l'aparició del [[prió]] responsable de la malaltia, i s'associa a un 10-15% dels casos reportats.
+; MCJ adquirida: És molt poc freqüent, amb al voltant d'un 1% respecte al total dels casos. Pot ser per causes [[Iatrogènia|iatrogèniques]], associades al trasplantament de [[còrnia]], [[hormona del creixement]] o implants de [[duramàter]] provinents d'un cadàver o per la MCJv, que és la variant de la malaltia associada al prió causant del [[encefalopatia espongiforme bovina|mal de les vaques boges]].
+
+===Símptomes===
+Donat que cursa de forma molt similar a alguns tipus de [[demència]], els primers símptomes de la MCJ no difereixen gaire dels presentats per aquestes, tot i que sí que avancen molt més ràpidament. Es pot destacar la pèrdua de memòria a curt termini, els canvis de personalitat, la pèrdua del raonament i els problemes de coordinació muscular.
+A mesura que avança la malaltia, es pot presentar [[ceguera]] i problemes de bufeta. S'acaba per perdre la capacitat de la parla i molt sovint s'entra en [[Coma (medicina)|coma]] quan la malaltia ja ha avançat massa.
+
+===Causes===
+Es creu que la malaltia és causada per un canvi conformacional de la proteïna priònica PrP, que modificaria la conformació de la forma soluble cel·lular normal, PrPc, per a donar la configuració tòxica, PrPSc, que polimeritza en fibres amiloides insolubles que causen les patologies neuronals.
+
+La PrPc es codificada en l'home per un gen situat al braç dret curt del [[cromosoma|cromosoma 20]]. Les seves mutacions donen lloc a patologies com la [[Síndrome de Gerstmann-Sträussler]], la MCJ hereditària o l'[[insomni familiar fatal]].refC. Rozman, P. Farreras et al. MEDICINA INTERNA (Volumen II). XVII Edición (2012). Elsevier /ref
+
+===Diagnòstic===
+Com que als inicis de la malaltia se solen realitzar una avaluació dels [[sistema nerviós]] i l'estat mental del pacient, i més tardanament, una avaluació del sistema motor, es denoten certs punts clau que són indispensables per al diagnòstic:
+* Excés de reflexos en les [[resposta muscular|respostes musculars]] o reflexos anormals
+* Variació en el to muscular
+* Espasmes musculars
+* Pèrdua de coordinació
+* Pot estar associada amb els canvis al [[cerebel]], que donen lloc a l'[[atàxia cerebel·losa]]
+* Es poden donar àrees de ceguera que es descobriran amb un examen oftalmològic, encara que la majoria de vegades el pacient no en sigui conscient.
+
+Es poden realitzar posteriorment anàlisis de sang per tal de descartar altres formes de demència així com per buscar certs marcadors que a vegades es presenten.
+Hi ha, igualment, certes proves que acostumen a ser definitives per tal d'aportar un diagnòstic:
+* [[Tomografia computada|TAC cerebral]]
+* [[Electroencefalograma|EFG]]
+* [[Imatgeria per ressonància magnètica]] del cervell
+* [[Punció raquídia]] per tal d'avaluar la [[proteïna 14-3-3]].
+
+De totes maneres, la malaltia només es pot confirmar ''post-mortem'' durant l'[[autòpsia]], extraient una mostra de teixit cerebral i analitzant-la al microscopi, cosa que ens permetrà observar els forats de la massa encefàlica característics d'aquesta malaltia.
+
+===Tractament===
+Actualment, no es disposa d'un tractament efectiu per a aquesta malaltia. 
+
+===Prevenció===
+El risc de transmissió entre persones és baix, tot i així, hi ha certes mesures de precaució que s'han d'aplicar estrictament per tal d'evitar riscos. En primer lloc, les persones malaltes d'aquesta patologia o que podrien tenir-ne un factor hereditari no han de donar mai sang, teixits o òrgans. Les persones responsables de cuidar aquests pacients, els professionals de la salut i el personal funerari han d'adoptar certes mesures quan treballen amb una persona que té MCJ:
+* Rentar-se la pell exposada abans de beure, fumar o menjar
+* Cobrir qualsevol tall, pell malalta o abrasió dèrmica amb benes impermeables.
+* Portar guants quirúrgics quan es manipulen teixits o fluids del malalt, i utilitzar protecció a la cara si hi ha risc d'esquitxar-se amb sang o [[fluid cerebroespinal]].
+* Desinfectar tot el material que ha estat en contacte amb el pacient en una solució en clor diluït durant una hora, i utilitzar després l'[[autoclau]] durant una hora a 132-134nbsp;°C. En el cas del material domèstic, com la roba de llit, si no pot ser d'un sol ús, també s'haurà de desinfectar en clor i procedir després al rentat quotidià.
+
+==El descobriment de Stanley B. Prusiner==
+Stanley Ben Prusiner ([[Des Moines]], [[Iowa]], 28 de maig de [[1942]]) és un [[Bioquímica|bioquímic]], [[Neurologia|neuròleg]] i professor universitari nord-americà guardonat amb el [[Premi Nobel de Medicina]] o [[Fisiologia]] l'any [[1997]]. És el descobridor del [[prió]] format per proteïnes PrPsc, i com a tal, és un dels protagonistes pel que fa al coneixement de la [[malaltia de Creutzfeldt-Jakob]].refhttps://ca.wikipedia.org/wiki/Stanley_Ben_Prusiner/ref
+
+
+[[File:Prusiner 1.JPG|thumb|Stanley B. Prusiner]]
+“La meva història no és atípica a la de molts americans”, escriu el mateix Stanley Prusiner en la seva autobiografia. Nascut el 28 de maig de [[1942]] a [[Des Moines]], fill de Lawrence Prusiner i Miriam Spigel, va ser batejat amb el nom del germà menor del seu pare. Pocs anys després del seu naixement, la família es traslladà a [[Boston]], i en finalitzar la [[Segona Guerra Mundial]], retornen a [[Des Moines]]. No obstant, el [[1952]] es traslladen a [[Cincinnati]], que és on Prusiner va créixer. En aquesta ciutat es matriculà a l'institut Walnut Hills. Però el pas a la [[Universitat de Pennsilvània]] el [[1960]] fou, per a Stanley Prusiner, un pas decisiu. Es trobà immers en un ambient intel·lectual molt estimulant, envoltat de professors de gran prestigi i receptius a les propostes dels seus alumnes. Després de quatre anys d'estudi i recerca bioquímica, finalment obtingué el seu grau universitari en [[bioquímica]] i [[medicina]]. Prusiner dugué a terme les pràctiques de medicina a la [[Universitat de Califòrnia]], [[San Francisco]]. El [[1968]] coneix en aquesta mateixa ciutat a la seva futura esposa, Sandy Turk, que treballava com a professora de [[matemàtiques]], i amb la qual tindria dues filles. Poc després, es desplaçà al [[National Institutes of Health]], on estudià les glutaminases d'[[Escherichia coli|E. Coli]].
+
+Després de tres anys al NIH, Prusiner retornà a la [[Universitat de Califòrnia]], [[San Francisco]], per convertir-se en resident de [[neurologia]]. El [[1974]] es converteix en professor de neurologia i bioquímica, i des d'aleshores ha estat implicat en projectes de diverses facultats i universitats.refhttp://www.nobelprize.org/nobel_prizes/medicine/laureates/1997/prusiner-bio.html/ref
+
+===Recerca científica: prions===
+Passats dos mesos des de l'inici de la seva formació com a intern de medicina a la [[Universitat de Califòrnia]], [[San Francisco]], començà a tractar una pacient que presentava un pèrdua de memòria progressiva i dificultat per realitzar feines rutinàries. Prusiner assegurà anys després que el sorprengué el fet que la pacient s'estigués morint d'una “infecció lenta” coneguda com la [[malaltia de Creutzfeldt-Jakob]], l'origen de la qual era desconegut. A partir d'aquest cas, com més llegia sobre la malaltia més interessat es mostrava a descobrir-ne l'origen. El [[1974]] va acceptar el lloc de professor assistent ofert per Robert Fishman, cap del Departament de Neurologia de la [[Universitat de Califòrnia]] de [[San Francisco]], i va començar a realitzar els seus experiments de laboratori sobre el scrapie, malaltia del tipus [[Encefalopatia espongiforme bovina|encefalopatia espongiforme]] transmissible que afecta animals de les espècies ovina i caprina. Per aconseguir fons, va sol·licitar una beca al [[National Institutes of Health|NIH]] que li va ser concedida i va començar a treballar al costat de William Hadlow i Carl Eklund, per intentar esclarir el comportament de l'agent causant de la malaltia. Al principi es creia que l'origen de la malaltia seria un petit [[virus]], per la qual cosa va quedar absolutament sorprès quan les dades van mostrar que es tractava de [[Proteïna|proteïnes]] sense [[àcid nucleic]] o [[ADN nuclear|ADN]]. Tot i les dificultats econòmiques per les que passava el projecte, es van aconseguir nous patrocinadors i l'equip de Prusiner es va anar refermant cada vegada més sobre l'origen proteic de la malaltia.
+
+El 1982 Prusiner enuncia el descobriment de l'agent [[patogen]] causant d'aquesta malaltia, que no era ni un [[virus]], [[bacteri]] o [[microorganisme]], sinó una nova entitat que Prusiner va anomenar [[prió]], una molècula de proteïna anòmala, aparentment reproduïble dins les cèl·lules nervioses sense assistència d'un [[àcid nucleic]]. Prusiner va resumir el seu efecte de forma gràfica: “L'acumulació de prions en el cervell genera grans buits en aquest que li donen l'aparença d'un formatge suís”.refhttp://www.nobelprize.org/nobel_prizes/medicine/laureates/1997/prusiner-bio.html; http://www.fi.edu/winners/1998/prusiner_stanley.faw?winner_id=3721; http://www.encyclopedia.com/topic/Stanley_Ben_Prusiner.aspx/ref
+
+===Oposició científica===
+Durant molts anys, la comunitat científica va considerar Stanley Prusiner una mena d'[[Heretgia|“heretge”]], ja que defensava l'existència d'un nou agent infecciós: el [[prió]], una [[proteïna]] sense [[material genètic]], causant, entre altres malalties, del “mal de les vaques boges” i la seva variant humana, la [[malaltia de Creutzfeldt-Jakob]]. “Els [[Virologia|viròlegs]] van reaccionar amb incredulitat i alguns dels investigadors que també hi estaven treballant estaven irritats”, recorda en la seva autobiografia. Si es trobava [[àcid nucleic]] en l'agent, la paraula prió deixaria de tenir sentit. Els científics van buscar amb obstinació aquest [[ADN]], però no es va trobar rastre d'[[àcid nucleic]] en l'agent causant de la malaltia, la qual cosa confirmà la teoria de Prusiner. L'any [[1997]] fou guardonat amb el [[Premi Nobel de Medicina o Fisiologia]] “pel descobriment del prió, un nou principi biològic d'[[infecció]]”. El reconeixement implícit en aquest premi a la seva recerca al voltant del mal de les vaques boges no fou exempt de polèmica i molts dels seus companys de professió el van considerar infundat i prematur.refhttp://www.encyclopedia.com/topic/Stanley_Ben_Prusiner.aspx/ref
+
+===Guardons, reconeixements i obres===
+* Potamkin Prize for Alzheimer's Disease Research from the American Academy of Neurology (1991)
+* The Richard Lounsbery Award for Extraordinary Scientific Research in Biology and Medicine from the National Academy of Sciences (1993)
+* The Gairdner Foundation International Award (1993)
+* The Albert Lasker Award for Basic Medical Research (1994)
+* The Paul Ehrlich and Ludwig Darmstaedter Prize from the Federal Republic of Germany (1995)
+* The Wolf Prize in Medicine from the Wolf Foundation/State of Israel (1996)
+* The Keio International Award for Medical Science (1996)
+* The Louisa Gross Horwitz Prize from Columbia University (1997)
+* The Nobel Prize in Physiology or Medicine (1997)
+* The Benjamin Franklin Medal from the Franklin Institute (1998)
+* Honorary Doctorate from CEU Cardinal Herrera University (2005)
+* The National Medal of Science (2010)refhttps://en.wikipedia.org/wiki/Stanley_B._Prusiner/ref
+És autor de les obres següents:
+* Slow Transmissible Diseases of the Nervous System (1979, with William J Hadlow)
+* Prions: Novel Infectious Pathogens causing Scrapie and Creutzfeldt-Jakob Disease (1987, with Michael P McKinley)
+* Prion Diseases: Of Humans and Animals (1994)
+* Prions, Prions, Prions (1996)
+* Mad Cows, Cannibals and Prions: Prion Biology and Diseases (1996, with Piet Borst)
+* Prion Biology and Diseases (2004)refhttp://www.nndb.com/people/136/000134731//ref
+
+== Referències==
+{{referències|2}}
+
+{{orfe|data=febrer de 2014}}
+
+[[Categoria:Proteïnes]]</text>
+      <sha1>0q0agmb9eu02muvvpnfn7ugi5bqayw2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

@@ -1,0 +1,244 @@
+<page>
+    <title>Polibutadiè</title>
+    <ns>0</ns>
+    <id>529715</id>
+    <revision>
+      <id>13691829</id>
+      <parentid>13626869</parentid>
+      <timestamp>2014-06-26T10:36:46Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: sensible al [[aigua  sensible a l'[[aigua</comment>
+      <text>[[Fitxer:Yokohama ADVAN Tires WTCC 2006.jpg|thumb|right|300px|La fabricació de pneumàtics consumeix entorn del 70% de la producció mundial de polibutadiè.]]
+El '''polibutadiè''' és un [[elastòmer]] o [[cautxú]] sintètic que s'obté mitjançant la [[polimerització]] d'1,3-[[butadiè]].
+
+La [[molècula]] de [[butadiè]] pot polimeritzar de tres maneres diferents, originant tres [[isòmer]]s anomenats ''cis'', ''trans'' i ''vinil''. Les propietats del polibutadiè són diferents segons la proporció de cadascun d'aquests isòmers que contingui en les seves molècules. Així per exemple el polibutadiè anomenat alt-cis té una alta [[elasticitat]] i és molt benvolgut mentre que el denominat alt-trans és un [[plàstic]] [[cristall]]í sense cap aplicació d'utilitat. 
+
+Amb una producció anual de 2,1 milions de tones (2000), el polibutadiè és el segon cautxú sintètic en volum, per darrere del [[cautxú estirè-butadiè|cautxú estirè-butadiè (SBR)]]. La seva principal aplicació és la fabricació de [[pneumàtic]]s, la qual consumeix al voltant del 70% de la producció. Un altre 25% s'utilitza com a additiu per millorar la resistència mecànica de [[plàstic]]s com el [[poliestirè]] i el [[Acrilonitril butadiè estirè|ABS]]. També s'empra per fabricar [[pilota de golf|pilotes de golf]] i objectes elàstics diversos.
+
+El primer a polimeritzar el [[butadiè]] va ser el [[Rússia|rus]] [[Sergéi Lébedev]], en 1910. Gràcies a ell, l'[[URSS]] es va convertir al primer país a aconseguir una producció industrial substancial d'aquest material a la fi de la dècada de 1930. Altres grans potències de l'època com [[Alemanya]] i els [[Estats Units]] van optar per desenvolupar el [[cautxú estirè-butadiè|SBR]] com a alternativa al [[cautxú]] natural.
+
+A mitjan la dècada de 1950 es van produir importants avanços en la tecnologia dels [[catalitzador]]és que van conduir al desenvolupament de versions millorades de polibutadiè. Pocs anys més tard els principals fabricants de pneumàtics i algunes empreses [[petroquímica|petroquímiques]] es van llançar a construir plantes de producció de polibutadiè en tots els continents, durant aquest ''boom'' fins a la [[crisi del petroli de 1973]]. Des de llavors el ritme de creixement de la producció ha estat més moderat, centrant-se essencialment en l'[[Extrem Orient]].
+
+''Altres noms recomanats per la [[IUPAC]]:'' poli(buta-1,3-diè); poli(but-1-eno-1,4-diilo)
+
+== Estructura química ==
+=== Isòmers ===
+Cada molècula de polibutadiè conté una certa proporció de tres [[isòmer]]s diferents, denominats ''cis'', ''trans'' i ''vinil''.ref name=II/
+
+El [[monòmer]] [[1,3-butadiè]] és un [[diè|diè conjugat]], és a dir, posseeix dos [[Enllaç químic|dobles enllaços]] separats per un simple enllaç. En la reacció de polimerització poden intervenir un només o els dos dobles enllaços.
+
+Quan només s'activa un dels dobles enllaços, dos dels carbonis del butadiè s'afegeixen a la cadena principal de polibutadiè i els altres dos queden penjant a un costat. A això se li denomina polimerització en posició 1-2. Com els dos carbonis deixats de costat recorden a un radical [[Vinil]], es diu que s'ha format una unitat o [[Vinil|grup vinil]].
+[[Fitxer:Vinilo de polibutadieno.png|thumb|150px|center|Polibutadiè 1-2 (unitat ''vinil'')]]
+
+Si, per contra, ambdós dobles enllaços participen en la reacció, els quatre carbonis del butadiè s'incorporen a la cadena principal i es forma espontàniament un nou doble enllaç entre els carbonis 2 i 3. En aquest cas, cridat polimerització en posició 1-4, la geometria de la molècula formada serà diferent segons la posició relativa dels dos carbonis dels extrems (1 i 4). Si queden en el mateix costat del doble enllaç (configuració ''cis''), la molècula sofrirà un gir mentre que si queden en costats oposats (configuració ''trans''), la molècula segueix polimeritzant en la mateixa adreça.
+{| align=center 
+|[[Fitxer:Cis 1 4 polibutdieno.png|thumb|center|180px|Polibutadiè 1-4 en configuració ''cis'']]||[[Fitxer:Trans 1 4 polibutdieno.png|thumb|center|227px|center|Polibutadiè 1-4 en configuració ''trans'']]
+|}
+
+El que una molècula de butadiè sigui incorporada en configuració cis, trans o vinil depèn de les condicions de [[Reacció química|reacció]], sobretot del tipus de [[catalitzador]] utilitzat. Més a baix es discuteixen els diferents tipus de polibutadiè que es poden obtenir segons el seu contingut relatiu en cis, trans i vinil.
+
+=== Ponts entre dobles enllaços ===
+Tant en la polimerització 1-2 com en la 1-4, al final queda en la molècula de polibutadiè un doble enllaç, que constitueix un lloc actiu, disponible per reaccionar. Aquests dobles enllaços són la major particularitat del polibutadiè (i de tots els [[polímer]]s que incorporen diens conjugats com el butadiè) i constitueixen la clau per obtenir les seves [[Elasticitat (mecànica de sòlids)|propietats elàstiques]].
+
+Si no tingués dobles enllaços, el polibutadiè tindria una estructura molt similar al [[polietilè]], amb llargues cadenes poc unides entre si, i per això es comportaria com un [[termoplàstic]], que es deforma permanentment (flueix) en sotmetre-ho a un esforç. No obstant això, els dobles enllaços tenen una forta tendència a reaccionar entre si o amb substàncies afegides expressament per a això, formant ponts entre les molècules. En sofrir un esforç, el material segueix deformant-se però els ponts fan que, en cessar l'esforç, recuperi la seva forma inicial. Són, per tant, els ponts entre dobles enllaços, els que converteixen en elàstic al material.
+
+Però una formació massiva de ponts entre molècules, denominada [[reticulat|reticulació]], fa que l'elasticitat desaparegui perquè les molècules queden rígidament unides entre si. El material, davant un esforç, amb prou feines es deforma i, en superar un cert límit de tensió, es trenca de manera [[fràgil]].
+
+Quan el polibutadiè surt de la fàbrica els seus dobles enllaços estan pràcticament intactes. Per això amb prou feines té consistència, és com un líquid molt [[viscositat|viscós]]. De vegades conté petits grumolls durs, anomenats [[Gel|gels]], que es poden separar per [[filtració]]. Es tracta de dominis on ha ocorregut reticulació, generalment a causa d'una temperatura excessiva en algun punt del procés de producció.
+
+És en utilitzar el polibutadiè en una aplicació determinada quan se li [[vulcanització|vulcanitza]], és a dir, es generen artificialment ponts entre dobles enllaços per atorgar propietats elàstiques a fi que es tracti. Cal evitar un grau de vulcanització excessiu, si no l'objecte es tornarà rígid i trencadís.
+
+=== Pesos moleculars ===
+La majoria dels graus industrials de polibutadiè tenen un [[pes molecular]] superior als 100.000 [[gram|g]]/[[mol]].ref name=II/ Com tots els polímers, el polibutadiè té major resistència mecànica com més gran és el seu pes molecular mitjana. En contrapartida, la seva viscositat també augmenta, la qual cosa dificulta el seu ús pels transformadors.
+
+A més de la mitjana, també importa si la distribució de pesos moleculars és ampla o estreta. Una distribució ampla facilita el processament, però una distribució estreta pot aportar certs avantatges en algunes aplicacions. Els polibutadiens fabricats amb catalitzador de liti són els que presenten distribucions més estretes.ref name=LX/
+
+=== Ramificació ===
+La presència de dobles enllaços en les molècules de polibutadiè fa que, durant la polimerització, una cadena pugui néixer a partir d'una altra o dues cadenes combinar-se entre si, donant com a resultat una estructura ramificada.
+
+La ramificació redueix la viscositat del polímer respecte a un altre de mateix pes molecular però lineal. Per ser exactes, segons Kraus i Gruver, la [[viscositat]] newtoniana del polibutadiè ramificat és menor que la del lineal només quan el pes molecular és baix, però creix molt més ràpid amb el pes molecular de manera que per sobre d'uns 60.000 o 100.000 [[Gram|g]]/[[mol]] el polibutadiè ramificat és més viscós.ref{{ref-publicació| autor = KRAUS, G. i GRUVER, J.
+| títol = Rheological properties of multichain polybutadienes
+| any = 1965
+| publicació = Journal of Polymer Science
+| volum = A3
+|nom=
+| id = p. 105
+| url =
+}} (en anglès)/ref No obstant això, la ramificació també accentua el [[fluït no-newtonià|comportament no newtonià]] de manera que per a taxes de [[cisallament]] mitjanes a altes el polímer ramificat sempre és menys viscós.
+
+Es pot controlar la proporció i forma de les ramificacions seleccionant un tipus o un altre de catalitzador o també afegint al final de la reacció reactius multifuncionals. Normalment la ramificació és alta amb els catalitzadors de níquel, baixa amb els de liti i neodimi i intermèdia amb els de cobalt.ref name=LX/
+
+== Tipus ==
+Segons el [[catalitzador]] utilitzat en la seva producció es poden obtenir diferents tipus de polibutadiè, cadascun amb unes propietats específiques.
+{| align=center style=height:200px border=4
+|+ Composició típica del polibutadiè segons el catalitzador utilitzatref name=ChS/
+|- 
+! !! align=center style=width:80px | cis (%) !! align=center style=width:80px | trans (%) !! align=center style=width:80px | vinil (%)
+|-
+! align=left style=width:70px| Neodimi
+| align=center | 98 || align=center | 1 || align=center | 1
+|- align=left
+! Cobalt
+| align=center | 96 || align=center | 2 || align=center | 2
+|- align=left
+! Níquel
+| align=center | 96 || align=center | 3 || align=center | 1
+|- align=left
+! Titani
+| align=center | 93 || align=center | 3 || align=center | 4
+|- align=left
+! Liti
+| align=center | 10 a 30 || align=center | 20 a 60 || align=center | 10 a 70
+|}
+
+
+=== Polibutadiè alt-cis ===
+Aquest tipus es caracteritza per tenir una alta proporció d'unitats cis (típicament més de 93%) i poques unitats vinil (menys de 4%). Es fabrica utilitzant [[catalitzador Ziegler-Natta|catalitzadors Ziegler-Natta]] basats en [[metall de transició|metalls de transició]]. En funció del metall utilitzat, les propietats varien lleugerament.ref name=ChS/
+
+El [[cobalt]] dóna molècules ramificades que confereixen una baixa viscositat al material i faciliten el seu ús. En contrapartida, la resistència mecànica és relativament baixa. Amb el [[neodimi]] s'aconsegueixen molècules gairebé lineals (i per tant una alta resistència mecànica) i percentatges de cis superiors al 99%. També s'obté una processabilitat acceptable, gràcies a una distribució de pesos moleculars bastant ampla. Altres catalitzadors menys utilitzats són el [[níquel]] i el [[titani]].ref name=ChS/
+
+=== Polibutadiè sota-cis ===
+El sistema catalitzador basat en un alquil-liti (per exemple [[N-butil-liti|butil-liti]]) produeix un polibutadiè anomenat baix-cis que conté un 40% de cis, 50% de trans i 10% de vinil (valors típics). Es pot augmentar el percentatge de vinil afegint al reactor substàncies polars, generalment composts amb nitrogen o oxigen.ref name=II/
+
+Els grups vinil tenen dues conseqüències: en primer lloc augmenten la [[temperatura de transició vítrea]], Tg,ref name=LX''[http://techcenter.lanxess.com/docs/manual.htm Manual for the Rubber Industry]'', en lloc web de Lanxess (en anglès)/ref i en segon lloc reaccionen fàcilment, per la qual cosa el material tendeix a reticular en sotmetre-ho a alta temperatura.
+
+Per la seva alta Tg, el polibutadiè sota-cis no s'utilitza amb prou feines per a la fabricació de pneumàtics. Per contra, el fet d'amb prou feines contenir [[gel]]és li dóna un avantatge en l'aplicació com a additiu de plàstics.ref name=II/
+
+=== Polibutadiè alt-vinil ===
+En 1980 els investigadors de [[Zeon]] van descobrir que el polibutadiè amb alt contingut en vinil (més del 70%), malgrat tenir una alta Tg, sí podia utilitzar-se avantatjosament en combinació amb alt-cis per fer pneumàtics.ref{{ref-publicació| autor = YOSHIOKA, A. i altres
+| títol = Structure and Physical Properties of High-Vinyl Polybutadiene Rubbers and Their Blends
+| any = 1986
+| publicació = IUPAC
+| volum = 
+|nom= 
+| id =
+| url =
+}} (en anglès) /ref Aquest material es produeix amb alquil-liti com a catalitzador. A part de Zeon al Japó també és produït per [[Firestone]] en els EUA
+
+La també japonesa [[JSR Corporation|JSR]] comercialitza un grau especial de polibutadiè amb 90% de vinil en configuració [[Tacticidad|sindiotàctica]] que té les propietats d'un [[elastòmer]] [[termoplàstic]]: és elàstic a temperatura ambienti però flueix a alta temperatura, podent ser processat mitjançant [[modelo per injecció|injecció]].
+
+=== Polibutadiè alt-trans ===
+És possible produir polibutadiè amb més de 90% d'unitats trans utilitzant catalitzadors similars als de l'alt-cis: neodimi, lantani, níquel. Aquest material és un [[plàstic]] [[cristall]]í (no un elastòmer) que fon a uns 80nbsp;°C. Antigament s'utilitzava per a la capa exterior de les pilotes de golf.ref name=II/ Avui dia no s'usa industrialment però companyies com Ube estan investigant possibles aplicacions.ref[http://www3.ube-ind.co.jp/en/r_d_03.php3?country=ENaneu=11683 Notícia en lloc web d'Ube] (pàgina consultada el 28 d'abril de 2006)/ref
+
+=== Polibutadiè metalocè ===
+L'ús de catalitzadors tipus [[metalocè]] para polimeritzar el butadiè està sent explorat per investigadors japonesos.ref {{ref-publicació| autor = KAITA, S. i altres
+| títol = Butadiene Polymerization Catalyzed by Lanthanide Metallocene-Alkylaluminum Complexes with Cocatalysts
+| any = 2006
+| publicació = Macromolecules
+| volum =
+|exemplar= 39
+| id =
+| url = http://pubs.acs.org/cgi-bin/abstract.cgi/mamobx/2006/39/i04/abs/dt.051867q.html
+}} (en anglès)/ref Els seus avantatges semblen ser una major capacitat per controlar tant la distribució de masses moleculars com la proporció de cis / trans / vinil. Ara com ara ([[2006]]) cap fabricant ha llançat graus de polibutadiè metalocè comercialment.
+
+== Aplicacions ==
+=== Pneumàtics ===
+[[Fitxer:Nascarphx16.jpg|thumb|right|Pneumàtics de carreres]]
+La fabricació de [[pneumàtic]]s consumeix entorn del 70% de la producció mundial de polibutadiè,ref name=II[http://web.archive.org/web/20061209075125/http://www.iisrp.com/webpolymers/01finalpolybutadienever2.pdf ''Polybutadiene''], document tècnic del [http://www.iisrp.com International Institute of Synthetic Rubber Producers] (en anglès)/ref en la seva gran majoria alt-cis. En concret, el polibutadiè s'usa principalment en les cares laterals del pneumàtic, a més d'en les bandes de rodament. Ambdues peces es conformen mitjançant [[extrusió]].ref{{ref-web| 
+|títol = How a Tiri is Made
+|url = http://www.maxxis.com/services/how_a_tire_is_made.asp
+|consulta = 18 d'octubre de 2007
+|}} (en anglès)/ref
+
+Els seus principals materials competidors en aquesta aplicació són el [[cautxú estirè-butadiè]] (SBR) i el [[cautxú]] natural. El polibutadiè és avantatjós enfront del SBR pel seu menor [[temperatura de transició vítria]] Tg, que li confereix una alta resistència a l'abrasió i una baixa resistència al rodament.ref''[http://techcenter.lanxess.com/pbr/emea/en/cases/products/article.jsp?docId=3296 Treads]'' en el Polybutadiene Rubber TechCenter de Lanxess/ref S'obtenen així pneumàtics de llarga durada i baix consum de combustible. No obstant això, la baixa Tg també provoca una baixa capacitat de tracció en mullat, per la qual cosa el polibutadiè gairebé sempre ha d'utilitzar-se en combinació amb algun dels altres dos elastòmers.ref name=ChS{{ref-llibre|cognom= ChemSystems
+|nom=
+|títol= Styrene Butadiene Rubber / Butadiene Rubber
+|any= 2004
+| editorial = New York: Nexant
+| id =
+}} (resum gratuït en anglès)/ref
+
+=== Modificació de plàstics ===
+Al voltant del 25% de la producció de polibutadiè s'utilitza per millorar les propietats mecàniques del [[poliestirè]] i, en menor proporció, del [[acrilonitril butadiè estirè|ABS]].ref name=II/ 
+
+L'aportació d'entre un 4 i un 12% de polibutadiè fa que el poliestirè passada de ser un material fràgil i trencadís a un altre dúctil i resistent. El polibutadiè es dissol en [[estirè]] i s'afegeix als reactors de polimerització, produint-se la vulcanització del cautxú a causa de l'augment de temperatura al que se sotmet al poliestirè per extreure l'estirè no reaccionat. Al final s'obté un producte compost de dues fases: una matriu contínua de poliestirè i nombroses oclusions de polibutadiè disperses en ella. La forma, estructura i grandària de les oclusions determinen en gran parteix les propietats mecàniques del poliestirè i al seu torn depenen en part de les propietats del polibutadiè, en particular de la seva viscositat i de la seva proporció d'isòmers cis, trans i vinil.
+
+Els requisits de qualitat per a la modificació de plàstics són molt més estrictes que els dels pneumàtics, en particular quant al color i al contingut en gels, que han de ser el més baixos possibles. També s'han de complir llargues llistes de restriccions relatives a la salut humana perquè una gran part del poliestirè s'empra en contacte amb aliments.
+
+El polibutadiè copa la gairebé totalitat del mercat de la modificació de plàstics, quedant només petits nínxols per a altres cautxús d'especialitat com el copolímer [[estirè-butadiè-estirè]] (SBS). Els tipus de polibutadiè més usats en aquesta aplicació són en primer lloc el baix-cis (probablement perquè els grups vinil afavoreixen el [[empelt(polímers)|empelt]] de cadenes de poliestirè sobre les molècules de polibutadiè, la qual cosa millora la resistència mecànica del material) i en segon lloc l'alt-cis produït amb cobalt. Els altres tipus de catalitzador d'alt-cis es consideraven inadequats fins que en 2004 el fabricant [[Lanxess]] va llançar graus d'alt-cis neodimi aptes pel poliestirè, la producció del qual segueix desenvolupant avui dia.
+
+=== Pilotes de golf ===
+[[Fitxer:Golfballinsiderp.jpg|thumb|180px|Pilota de golf seccionada, comparada amb un [[euro]].]]
+La majoria de les [[bola de golf|pilotes de golf]] actuals consisteixen en un nucli elàstic de polibutadiè envoltat d'una capa de material dur i rígid. Es prefereix el polibutadiè a altres elastòmers per la seva alta [[resiliència]].ref{{ref-web| cognom = SHEPPARD |nom = Llorer M. |títol = Golf Ball, en la col·lecció How Products Are Made |url = http://www.madehow.com/volume-3/Golf-Ball.html |consulta = 18 d'octubre de 2007}} (en anglès)/ref
+
+El nucli de la pilota es conforma mitjançant [[modelo per compressió]] amb reacció química. El polibutadiè primer es barreja enèrgicament amb additius, s'[[extrusió de polímer|extrudeix]], es [[calandratge|calandra]] i es talla en trossos que s'introdueixen en un motlle. A continuació el motlle és sotmès a alta [[pressió]] i alta [[temperatura]] durant uns 30 [[minut (temps)|minuts]], temps suficient per vulcanitzar el material.
+
+En el vulcanitzat de pilotes de golf s'utilitzen [[peròxid]]s, que tenen l'inconvenient de sobre-reticular les unitats vinil. Per això en aquesta aplicació s'empra sobretot polibutadiè neodimi, amb 99% o més d'unitats cis i gairebé gens de vinil. Un altre avantatge del catalitzador de neodimi és que produeix molècules molt poc ramificades, que confereixen poca [[histèresi]] al material, aconseguint-se així que gairebé tota l'energia transmesa pel pal a la bola es converteixi en moviment i no en calor.ref name=II/
+
+La producció de pilotes de golf consumeix unes 20.000 [[tona (unitat)|tones]] de polibutadiè a l'any (dada de 1999).ref name=II/
+
+=== Uns altres ===
+Una gran varietat d'objectes de cautxú, des de cintes transportadores fins a soles de sabates, es fabriquen amb algun tipus de polibutadiè.
+
+En ser químicament molt similar al PE (polietilè) el polibutadiè és un excel·lent adhesiu per a PE.
+
+== Producció ==
+La producció anual de polibutadiè és de 2,1 milions de tones (2000). Això ho converteix en el segon cautxú sintètic en volum, per darrere del [[cautxú estirè-butadiè|cautxú estirè-butadiè (SBR)]].ref name=ChS/
+
+Tradicionalment els processos de producció del polibutadiè alt-cis i baix-cis eren bastant diferents i es realitzaven en plantes separades. Últimament la tendència és a produir en una sola planta el màxim nombre de tipus diferents de cautxú, incloent polibutadiè baix-cis, alt-cis (catalitzat amb neodimi) i SBR. En aquest article es llistaran les seccions principals d'un procés de producció d'alt-cis i s'explicaran les particularitats associades amb el baix-cis.
+
+=== Procés de producció d'alt-cis ===
+Seccions principals del procés:
+* '''Purificació del [[1,3-butadiè|butadiè]] i del [[dissolvent]]'''. Abans d'alimentar les matèries primeres al reactor és essencial eliminar d'elles certes impureses que desactiven el catalitzador. Això es realitza mitjançant jaços d'[[alúmina]] o mitjançant [[destil·lació|columnes de destil·lació]].ref name=BAT''[http://www.bvt.umweltbundesamt.de/archiv-i/polymers.pdf Reference Document on Best Available Techniques in the Production of Polymers]''. Octubre de 2006. Document del [http://www.jrc.es/ Institute for Prospective Technological Studies] de la Comissió Europea (en anglès)/ref
+* '''Reacció'''. El butadiè, el dissolvent i el catalitzador s'introdueixen en un o diversos [[Reactor químic|reactors]]. El dissolvent sol ser [[hexà]], [[ciclohexà]], [[benzè]] o [[toluè]] i té dues funcions principals: reduir la viscositat i augmentar la [[inèrcia tèrmica]] del sistema.ref name=II/ Com en totes les polimeritzacions, es genera una quantitat important de calor, que és evacuat dels reactors mitjançant un refrigerant. Els reactors solen operar a entre 30 i 100nbsp;°C de temperatura i a, com a màxim, 5 [[Bar (unitat de pressió)|bar]] de pressió.ref name=BAT/
+* '''Coagulació'''. S'afegeix aigua per detenir la reacció i a continuació es [[evaporació (procés físic)|evaporen]] el dissolvent i el butadiè no reaccionat, quedant una pasta de polibutadiè i aigua denominada ''slurry''. Els vapors es [[condensació|condensen]] i se separen l'aigua dels hidrocarburs, els quals són recirculados a l'entrada del primer reactor.
+* '''[[Assecat de sòlids|Assecat]]'''. Se separa l'aigua del ''slurry'', quedant flocs de polibutadiè. 
+* '''Premsatge'''. El polibutadiè es ven en forma de bales [[paral·lelepípede|paralelepipèdiques]], que s'obtenen estrenyent els flocs en [[premsa mecànica|premses]].
+* '''Embalat'''. Cada bala és embolicada en una pel·lícula de plàstic transparent - [[poliestirè]] si va a ser consumida en la producció de poliestirè i [[polietilè]] en la resta dels casos. Les bales s'empaqueten en caixes metàl·liques o en [[palé (embalatge)|palés]] de fusta d'aproximadament una [[tona (unitat)|tona]] de pes.
+
+En algun punt del procés s'afegeixen [[antioxidant]]s, essencials perquè el polibutadiè conservi les seves propietats tant durant el seu emmagatzematge com en el moment de la seva transformació ulterior. Un altre additiu que sol incorporar-se és [[oli mineral]], que facilita el processament del cautxú sense disminuir les seves propietats mecàniques.
+
+=== Particularitats del baix-cis ===
+L'esquema general del procés és similar al de les plantes d'alt-cis excepte en la secció de reacció. L'ús d'un catalitzador d'alquil-liti resulta en una denominada [[polimerització viva]], en la qual les molècules de polímer formades tenen extrems actius sobre els quals es pot intervenir a voluntat.ref name=II/ Afegint el tipus adequat de substància es pot així regular la distribució de pesos moleculars, el grau de ramificació de les molècules o el percentatge d'unitats vinil. També es poden afegir, si es desitja, grups funcionals a les molècules.
+
+Una altra particularitat del baix-cis és que el catalitzador és extremadament sensible a l'[[aigua]], que ha de ser eliminada fins a les traces més ínfimes.ref name=BAT/
+
+== Història ==
+El químic [[Rússia|rus]] [[Sergéi Lébedev]] va ser el primer a polimerizar el [[butadiè]], en [[1910]].ref{{ref-publicació| autor = VERNADSKY, George
+| títol = Rise of Science in Russia 1700-1917 
+| any = Gener 1969
+| publicació = [[The Russian Review|Russian Review]]
+| volum = 28
+|exemplar= 1
+| id = pàgs. 37-52
+| url = http://links.jstor.org/sici?sici=0036-0341(196901)28%3A1%3C37%3AROSIR1%3I2.0.CO%3B2-X
+}}/ref Va ser també ell l'inventor en [[1926]] del procés per obtenir butadiè a partir de [[etanol]] i, el [[1928]], de l'ús d'un catalitzador a força de [[sodi]] per a l'obtenció de polibutadiè.
+
+El govern de la [[Unió Soviètica]] va apostar pel polibutadiè com a alternativa al [[cautxú]] natural i va construir en [[1930]] la primera [[planta pilot]],ref name=FELTON{{ref-publicació| autor = FELTON, Michael J.
+| títol = Petroleum and Downstream Products
+| publicació = Enterprise of the Chemical Sciences
+| pàgines = p.11-15 
+| url = http://pubs.acs.org/supplements/chemchronicles2/pdf/011.pdf
+}}/ref que consumia etanol produït a partir de patates. L'experiment va ser un èxit i en [[1936]] l'URSS va crear la primera planta de polibutadiè del món en la qual el butadiè s'obtenia a partir de [[petroli]]. Para [[1940]] l'URSS era el nombre un mundial indiscutible de la producció de polibutadiè, amb 50.000 tones/any.ref[http://www.todayinsci.com/7/7_25.htm Today in Science History: July 25] (pàgina consultada el 18 d'octubre de 2007)/ref
+
+En [[Alemanya]] els científics de [[Bayer]] (integrada aleshores en el conglomerat [[IG Farben|IG-Farben]]) van reproduir els processos inventats per Lebedev i van obtenir també polibutadiè utilitzant un catalitzador de sodi, al que van posar el nom comercial de [[Buna]] (de ''Butadien'' i ''Natrium'', sodi en alemany).ref name=FELTON/ No obstant això, també van descobrir que en afegir [[estirè]] en els reactors el cautxú obtingut presentava millors propietats i es van decantar per aquesta via. Havien inventat així el [[cautxú estirè-butadiè]], al que van batejar [[Buna-S]].
+
+Encara que l'empresa [[Goodrich]] havia dissenyat amb èxit un procés per produir polibutadiè en [[1939]],ref[http://www.bouncing-balls.com/timeline/people/s_semon.htm Biografia de Waldo L. Semon] (en anglès)/ref el govern dels [[Estats Units]] es va decantar pel Buna-S per desenvolupar el seu programa de cautxú sintètic després de la seva entrada en la [[Segona Guerra Mundial]],ref name=FELTON/ utilitzant patents d'IG-Farben obtingudes via la petroliera [[Standard Oil]]. Per això va haver-hi poca producció industrial de polibutadiè a Amèrica durant aquesta època.
+
+En acabar la guerra la producció de cautxú sintètic va entrar en declivi perquè la demanda va baixar molt mentre que el cautxú natural tornava a estar disponible al mercat. No obstant això, a mitjan dècada dels 1950 es van produir dos avanços tècnics que tornaren a comercialitzar. En [[1954]] es va aconseguir produir polibutadiè amb una quantitat de cis molt alta i controlada, utilitzant catalitzadors de Ziegler-Natta. Aquest producte va demostrar ser molt millor per als pneumàtics que l'antic polibutadiè sodi. A l'any següent, [[Firestone]] va obtenir per primera vegada polibutadiè emprant liti com a catalitzador.ref{{Ref-llibre |cognom=Aftalion |nom=Fred |títol=A History of the International Chemical Industry |url=http://books.google.es/books?id=zTP1MFJw8CsCpg=PA226dq=Firestone+1955+Polybutadienehl=casa=Xei=xM0KU_zYLIiJ0AWvjIBwved=0CC4Q6AEwAA#v=onepageq=Firestone%201955%20Polybutadienef=false |llengua=anglès |editorial=Chemical Heritage Foundation |data=2001 |pàgines=225-226 |isbn=0941901297}}/ref
+
+A partir de 1960 van començar a sorgir plantes de polibutadiè per tot el món. Els fabricants de pneumàtics com [[Goodyear Tire and Rubber Company]]ref[http://www.goodyear.com/corporate/history/history_byyear.html Cronologia de Goodyear] (en anglès)/ref o B.F. Goodrich van fomentar la creació de plantes d'alt-cis, sent seguits per petrolieres com [[Royal Dutch Shell|Shell]] i químiques com Bayer. En el cas del baix-cis, Firestone va tenir inicialment el monopoli, construint una planta a EUA i una altra a França i donant llicències per a altres plantes al Japó i en el Regne Unit. En [[1965]] la japonesa [[JSR]] va desenvolupar el seu propi procés de baix-cis i va començar a vendre llicències la dècada següent.
+
+La [[crisi del petroli de 1973]] va suposar una frenada al creixement del cautxú sintètic i la construcció de nova capacitat pràcticament va cessar durant alguns anys. Des de llavors les noves plantes s'han anat implantant sobretot en països de l'Extrem Orient a mesura que s'anaven industrialitzant (Corea, Taiwan, Tailàndia, Xina) mentre que als països occidentals s'ha optat més aviat per augmentar la capacitat de les plantes ja existents.
+
+A principis de la dècada dels 2000 la indústria del cautxú sintètic va tornar a travessar una de les seves crisis periòdiques. El primer productor mundial de polibutadiè, Bayer, acuitat per les pèrdues, feu una profunda reestructuració: tancament entre 2002 i 2005 de les seves plantes de polibutadiè cobalt en Sarnia (Canadà) i Marl (Alemanya);refNota de premsa de Bayer de 5 d'agost de 2003: [http://www.chemie.de/news/e/27304/ Bayer Polymers to discontinue Cobalt-polybutadiene (CoBR) production in Marl] (en anglès)/ref transferència de la producció de polibutadiè neodimi a Port-Jerôme (França) i Orange (EUA) i comercialitzant polibutadiè neodimi apte per a la modificació de [[poliestirè]].refNota de premsa de Lanxess de 16 de maig de 2006: [http://corporate.lanxess.com/en/no_cache/corporate-home/mitjana/press-releases/pi-singleview.html?tx_ttnews%5BpL%5D=2678399tx_ttnews%5Barc%5D=1tx_ttnews%5BpS%5D=1146434400tx_ttnews%5Btt_news%5D=8006tx_ttnews%5BbackPid%5D=148cHash=a9c49dba22 Lanxess anuncia la seva polibutadiè neodimi per poliestirè] (en anglès)/ref En paral·lel a això, el negoci de cautxú sintètic va ser transferit per Bayer a una nova empresa, [[Lanxess]], treta a borsa en 2004.
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+* [http://techcenter.lanxess.com/pbr/emea/en/home/index.jsp ''Polybutadiene Rubber TechCenter''], en el lloc web de Lanxess {{en}}
+
+{{ORDENA:Polibutadie}}
+[[Categoria:Polímers orgànics]]
+
+{{Enllaç AD|es}}</text>
+      <sha1>mh903cbjve64bqjcfq1qu50q5nebghq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

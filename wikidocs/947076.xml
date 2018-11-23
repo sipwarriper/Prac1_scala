@@ -1,0 +1,223 @@
+<page>
+    <title>Comunicació de camp proper</title>
+    <ns>0</ns>
+    <id>947076</id>
+    <revision>
+      <id>13869248</id>
+      <parentid>13809670</parentid>
+      <timestamp>2014-07-19T19:25:44Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: que permetràn a  que permetran a</comment>
+      <text>{{FR|data=novembre de 2012}}
+La '''comunicació de camp proper''' o '''NFC''' (de l'anglès ''near field communication)'' és una tecnologia estandarditzada que té com a propòsit facilitar la interconnexió de dispositius i l'intercanvi de dades en un entorn acotat. Neix a partir de la identificació per radiofreqüència ([[RFID]]), tecnologia que utilitza [[ones de ràdio]] per transferir dades des d'una etiqueta o targeta cap a un lector que la pugui identificar o rastrejar sense la necessitat de cap contacte entre ells.
+
+[[Fitxer:NFC touch interactions 2.jpg|dreta|thumb|450px|Figura 1:Dispositiu mòbil dotat de tecnologia NFC interactuant amb un cartell intel·ligent]]
+{{Xarxes de zona}}
+
+== Història ==
+La tecnologia NFC es basa en la identificació per radiofreqüència ([[RFID]]), una tecnologia sense fils que està en desenvolupament des de fa gairebé quatre dècades, quan es va començar a utilitzar durant la [[Segona Guerra Mundial]]. [[RFID]] permet l'ús d'un objecte (normalment anomenat tag RFID) que s'afegeix a un producte, animal o persona amb el propòsit d'identificació i seguiment utilitzant ones de ràdio. Un tag RFID consta de dos parts principals: a) un [[circuit integrat]] que emmagatzema i processa la informació, modula i demodula el senyal de radiofreqüència i altres funcions especialitzades; b) una [[antena |antena]] per rebre i transmetre el senyal. Una de les característiques principals de la tecnologia NFC és que combina les funcions de tag i [[emissor]]/[[Receptor (comunicació)|receptor]] RFID en un únic dispositiu. A més, al ser una extensió del RFID és compatible amb tota la seva infraestructura existent.
+L'any 2004 sorgeix l'NFC Forum que, basant-se en aquest estàndard, crea una sèrie de [[Protocol de comunicació|protocols]] que normalitzen la forma en què NFC s'ha d'utilitzar per tal de garantir la [[interoperabilitat]] de dispositius de distints fabricants.
+
+* 1983: S'assocïa la primera [[patent]] a les sigles RFID i es concedeix a l'investigador Charles Walton, especialitzat en l'estudi de les radiofreqüències.
+* 2002: S'inventa la tecnologia NFC per part de les empreses més importants dins el món dels dispositius mòbils i l'electrònica.
+* 2003: La tecnologia NFC és aprovada com un estàndard [[ISO]]/[[IEC]] i [[ECMA]].
+* 2004: [[Nokia]], [[Philips]], [[Sony]] i NXP Semiconductors estableixen el NFC Forum.
+* 2006: Es comencen a establir les especificacions per les etiquetes NFC.
+* 2006: Sorgeixen les especificacions per cartells intel·ligents
+* 2006: Surt a la venda el primer telèfon mòbil amb tecnologia NFC: el Nokia 6131.
+* 2009: El Forum NFC incorpora a la seva tecnologia els estàndards [[P2P]], [[Uniform Resource Locator|URL]] i [[Bluetooth]].
+* 2010: Surt a la venda el primer telèfon mòbil amb sistema operatiu [[Android]]: el Samsung Nexus S.
+* 2010: Telefónica, La Caixa i Visa participen en un projecte pilot de pagament mitjançant telèfon mòbil amb tecnologia NFC a [[Sitges]] (Barcelona). Fet pioner a Europa, amb més de 1500 usuaris i 500 comerços.
+* 2011: [[Google]] fa una demostració pública sobre el funcionament de la tecnologia NFC i algunes de les seves aplicacions més interessants.
+* 2011: Telefónica, [[Vodafone]] i [[Orange Espanya]] arriben a un acord per establir l'estàndard de tecnologia NFC com a forma de pagament mitjançant el telèfon mòbilref{{ref-web|url=http://www.elmundo.es/elmundo/2011/03/16/navegante/1300275185.html |títol=Telefónica, Vodafone y Orange pactan un estándar para el pago mediante NFC |consulta=19/7/2012 |obra= |editor=El Mundo |data=16/03/2011 |llengua=castellà }}/ref
+* 2011: NFC rep el suport del sistema operatiu de telèfons mòbils [[Symbian]] amb el llançament de la versió Symbian Anna.ref{{ref-web|url=http://press.nokia.com/2011/08/18/symbian-anna-now-available-for-download/ |títol=symbian anna now available for download |consulta=20/7/2012 |obra= |editor=Nokia |data= |llengua=anglès }}/ref
+* 2011: Google treu al mercat Google Wallet, un sistema de pagaments que empra la tecnologia NFC en les targetes de crèdit de Mastercard.ref{{ref-web|url=http://www.pcworld.com/article/249599/update_google_wallet_security_concerns_raised.html |títol=UPDATE: Google Wallet Security Concerns Raised |consulta=20/7/2012 |obra= |editor=PC World |data=9/2/2012 |llengua=anglès }}/ref
+
+== Característiques i especificacions tècniques ==
+; Dispositius: NFC és una tecnologia de comunicacions sense fils de curt abast i alta freqüència que permet l'intercanvi de dades entre dos dispositius propers. Aquests dispositius reben el nom d'Iniciator (el que origina la transmissió) i Target (el receptor). L'iniciator genera un camp de radiofreqüència que alimenta el receptor. Això permet que els receptors puguin tenir formes i mides senzills, com etiquetes, adhesius, clauers o targetes que no requereixin bateries o [[Font d'alimentació|fonts d'alimentació]].
+
+; Freqüències: NFC funciona en la [[Banda (freqüència)|banda de freqüències]] de 13'56 [[MHz]], això fa que no s'apliqui cap restricció i no requereixi cap llicència pel seu ús.
+
+; [[Taxa de bits|Taxes de bits]]: 
+Com que és una tecnologia que deriva del [[RFID]], la qual s'ha estat utilitzant en múltiples aplicacions en entorns reals, NFC suporta taxes variables de transferència per assegurar la interoperabilitat amb la infraestructura ja existent. Actualment ofereix taxes de transferència de dades de 106, 212 i 424 [[Kbps]], encara que s'esperen valors més elevats al llarg dels pròxims anys.
+
+; Etiquetes NFC: Les etiquetes NFC contenen dades i tot i que la majoria solen ser de només-lectura, algunes poden ser regravables. Poden emmagatzemar de forma segura dades personals com informació de les targetes de crèdit, PINs i contactes de la xarxa, entre d'altres. El NFC Forum defineix quatre tipus d'etiquetes què proporcionen diferents velocitats de comunicació i capacitats en termes de configurabilitat, memòria, seguretat, retenció de dades i la resistència a l'escriptura. Aquestes etiquetes actualment ofereixen entre 96 i 4.096 [[byte|bytes]] per memòria.
+
+; Magnetisme: NFC es basa en el principi d'[[inducció electromagnètica]] pel qual dos circuits inductius propers comparteixen energia al ser col·locats dins els seus respectius camps propers (simulant la funció d'un [[transformador]]), podent transmetre així dades a distàncies de pocs centímetres.
+
+; Distàncies de treball: La distància teòrica de treball amb les antenes estàndard compactes és de fins a 20 cm i a la pràctica podem parlar d'uns 4 cm.
+
+; Modes de funcionament: Suporta dos modes de funcionament: actiu i passiu.
+
+:;Actiu: Ambdós dispositius generen el seu propi camp electromagnètic i els alternen per transmetre les seves dades. Un dispositiu desactiva el seu camp mentre està esperant per rebre la informació. En aquest mode, els dispositius solen disposar de fonts d'alimentació. 
+
+:;Passiu: Tan sols un dels dispositius genera el camp electromagnètic i l'altre s'aprofita de la modulació de la càrrega per a poder transferir les dades. L'iniciator de la comunicació és l'encarregat de generar aquest camp.
+
+; Codificació: NFC empra dos tipus de codificació diferents per transmetre les dades. Si un dispositiu transmet a 106 kbps, utilitza una versió modificada de la codificació Miller amb el 100% de [[Modulació (telecomunicacions)|modulació]]. En la resta dels casos, s'utilitza la codificació Manchester amb una proporció del 10% de la modulació.ref{{Ref-llibre |cognom=Coskun |nom=Vedat  |cognom2=Ok |nom2=Kerem  |cognom3=Ozdenizci |nom3=Busra |títol=Near Field Communication (Nfc): From Theory to Practice |url=http://books.google.es/books?id=PQG-kmMCdoMCpg=PA96dq=nfc+miller+manchesterhl=casa=Xei=rGYKUIOOG6Ga1AXk3vy0Cgved=0CDMQ6AEwAA#v=onepageq=nfc%20miller%20manchesterf=false |llengua=anglès |editorial=John Wiley and Sons |data=2011 |pàgines=p.96 |isbn=1119965780 }}/ref
+
+; Coordinació: Els dispositius NFC són capaços de rebre i transmetre dades al mateix temps. D'aquesta manera, es poden detectar possibles errors si la freqüència del senyal rebut no coincideix amb la freqüència del senyal transmès.
+
+== Tecnologies relacionades ==
+La possibilitat de comunicació sense fils basada en ones de radiofreqüència ha donat lloc al desenvolupament de nombroses tecnologies basades en el mateix principi físic. En la següent taula es detallen i comparen aquelles que complementen o tenen un àmbit d'aplicació equivalent a NFC.
+
+ {| class=wikitable
+|-
+! !! NFC!! [[RFID]] !! [[WiFi]] !! [[Bluetooth]] !! ZigBee !! [[IrDA]]
+|-
+| center'''''Taxa de transferència''''' /center || center 106 - 424 Kbps /center || center 106 - 424 Kbps /center || center 11 - 200 Mbps /center || center 1 - 480 Mbps /center || center 20 - 250 Kbps /center || center 1 Kbps – 100 Mbps /center
+|-
+| center'''''Freqüència de funcionament'''''/center || center13'56 MHz/center || center13'56 MHz/center || center2'4, 5'25, 5'6, 5'8 GHz/center || center2'4 GHz/center || center868/915 Mhz/center || center 2'4 GHz/center
+|-
+| center'''''Nombre màxim dispositius '''''/center || center2/center || center2/center || centerIndefinida/center || center8/center || centerIndefinida/center || center2/center
+|-
+| center'''''Temps d'inicialització'''''/center || center 0'1 ms/center || center 0'1 ms/center || center 0'1 ms/center || center6 s/center || center 0'1 ms/center || center0'5 ms/center
+|-
+| center'''''Abast'''''/center || center 20 cm/center || center 3 m /center|| center 100 m/center|| center 30 m/center || center 500 m /center|| center  5 m/center
+|-
+| center'''''Seguretat'''''/center || centerDonada per la proximitat entre dispositius/center || centerDonada per la proximitat entre dispositius/center || centerDeterminada pels mecanismes d'encriptació que s'utilitzin/center ||center Determinada pels mecanismes d'encriptació que s'utilitzin /center||center Determinada pels mecanismes d'encriptació que s'utilitzin/center ||center Donada pel requeriment de que ambdós dispositius estiguin en la linea de visió/center
+|-
+| center'''''Consum d'energia'''''/center || centerMínim o inexistent/center ||center Mínim o inexistent /center|| centerAlt per a dispositius alimentats amb bateries/center || centerAlt per a dispositius alimentats amb bateries/center || centerMolt baix/center ||center Baix/center
+|-
+| center'''''Objectiu'''''/center || centerSimplificar la interacció entre dispositius electrònics /center|| centerRealitzar seguiment d'objectes i control d'accés /center||center Reemplaçar cables en xarxes extenses, fonamentalment de tipus LANs /center||center Reemplaçar cables per connectar dispositius electrònics propers/center || centerControl i monitoreig sense fils/center || center Reemplaçar cables per connectar dispositius electrònics propers/center
+|-
+| center'''''Exemples d'aplicacions'''''/center || centerIntercanvi de tarjetes personals electròniques apropant dos telèfons mòbils /center||center Control d'inventari en supermercats /center||center Connexió entre dispositius d'una oficina (Pcs, impresores, etc.) dins d'un mateix edifici o en edificis propers /center|| centerConnexió de [[perifèrics]] (teclat, ratolí, etc.) a una PDA a la mateixa habitació/center ||center Sensors que accionen mecanismes al món de l'agricultura/center || centerTransferència d'arxius entre un telèfon mòbil i una [[PDA]]/center
+|-
+|}
+center {{mida|1=Figura 3: Taula comparativa de les diferents tecnologies de comunicació sense fils}} /center
+
+
+=== Comparació amb Bluetooth === 
+[[Bluetooth]] és un protocol de comunicació de curt abast amb alt nivell de seguretat. Va ser desenvolupat per Telecom Vendor Ericsson. Opera a la [[banda ISM]] (Indústria de la Ciència i la Medicina sense llicència), que és de 2,4 [[GHz]].ref name=BT{{Ref-llibre |cognom=Feng |nom=David Dagan |títol=Biomedical Information Technology |url=http://books.google.es/books?id=jFjJFC_ZqDsCpg=PA241lpg=PA241dq=Bluetooth+2,4+GHz+2.1+Mbpssource=blots=tzcHdkIpsjsig=E_ea3CO40awZ-Oopd_RadobMf4khl=casa=Xei=cJgTUIzxCMqb0QWRiICgAgved=0CFsQ6AEwBQ#v=onepageq=Bluetooth%202%2C4%20GHz%202.1%20Mbpsf=false |llengua=anglès |editorial=Academic Press |data=2008 |pàgines=p.241 |isbn=0123735831 }}/ref Bluetooth és una comunicació basada en paquets amb l'arquitectura de ''Master'' i ''Slave'' i es poden connectar fins a set dispositius alhora.
+
+NFC treballa amb velocitats inferiors a les que ofereix Bluetooth, però consumeix molta menys energia i no requereix l'aparellament previ dels dispositius.refhttp://www.differencebetween.com/difference-between-near-field-communication-nfc-and-bluetooth/#ixzz1g3DlmVJu/ref
+
+El temps de configuració de NFC és més ràpid que el de l'estàndard Bluetooth. En comptes de realitzar configuracions manuals per identificar els dispositius, la connexió entre ells es establerta de forma gairebé automàtica: uns 0'1 segons. 
+
+NFC opera a 13,56 MHzref{{Ref-llibre |títol=Workshops Proceedings of the 5th International Conference on Intelligent Environments |url=http://books.google.es/books?id=mnUwIUX6JnYCpg=PA118lpg=PA118dq=NFC+13,56+MHzsource=blots=59LYCB7OQ6sig=MiOvK2q0K7cz76YJSzfFPXFtpRkhl=casa=Xei=jJcTUKaVBMTKhAfT44GQAQved=0CD4Q6AEwAQ#v=onepageq=NFC%2013%2C56%20MHzf=false |llengua=anglès |editorial=IOS Press |data=2009 |pàgines=p.118 |isbn=IOS Press }}/ref i pot treballar amb velocitats de dades de fins a 424 kbps, mentre que Bluetooth opera a la freqüència de 2,4 GHz i la màxima taxa és de 2.1 Mbps.ref name=BT/ Bluetooth pot treballar a unes distàncies compreses dins un radi de fins a 10 metres, mentre que NFC està dissenyada per treballar en unes distàncies d'uns 20 cm. Aquest detall podria semblar un punt negatiu en la tecnologia NFC, però aquest fet redueix la probabilitat d'intercepcions no desitjades. Això la fa especialment adequada per a zones on hi hagi molta gent amb dispositius d'aquest tipus, ja que la correlació d'un senyal amb el dispositiu de transmissió física (i per extensió amb el seu usuari) es fa difícil. 
+
+Pel que fa al consum energètic, NFC utilitza menys energia en comparació amb els dispositius Bluetooth, encara que quan els dispositius no estan alimentats (per exemple, un telèfon mòbil que estigui apagat) aquest consum augmenta considerablement, ja que alimentar les etiquetes passives requereix energia.
+
+== Organismes, estàndards i projectes ==
+
+=== Estàndards ===
+
+La tecnologia NFC ha estat estandarditzada per ISO/IEC (International Organization for Standardization/International Electrotechnical Comision), [[ETSI]] (European Telecommunications Standards Institute) i [[ECMA]] (European Computer Manufacturers Association).
+Aquests estàndards especifiquen els esquemes de modulació, codificació, velocitat de transferències i el format de la trama de la interfície de radiofreqüència per a dispositius NFC, i també els esquemes d'inicialització i requisits pel control de col·lisions durant la inicialització del procés de comunicació. També defineixen el protocol de transport, incloent-hi mètodes d'activació de protocol e intercanvi de dades.
+
+=== Fòrum NFC ===
+
+L'any 2004, un conjunt d'empreses internacionals, liderades per Nokia, Sony i NXP Semiconductors, van constituir el NFC Forum, una [[organització sense ànim de lucre]] i la missió de la qual és fomentar l'ús de la tecnologia NFC desenvolupant especificacions, assegurant la interoperabilitat entre dispositius i serveis i educant al mercat sobre aquesta tecnologia. Actualment aquest fòrum disposa del suport de més de 150 empreses associades.
+
+=== Alternatives amb MicroSD i SIM ===
+
+Per tal que els usuaris de telèfons mòbils no equipats amb xips o tecnologia NFC puguin disposar dels seus serveis es van crear una sèrie de dispositius complementaris com les targetes [[MicroSD]] o les [[SIM]]. N'hi hauria prou amb incorporar-les a qualsevol telèfon mòbil, fos quin fos el seu sistema operatiu, i s'afegís una aplicació especialment dissenyada per gestionar aquest nou element. Tot i així, el ritme de substitució de terminals és tan ràpid que no es creu que faci falta arribar a dedicar-hi molt treball per a solucionar aquests problemes.
+
+=== Altres organismes ===
+
+* Organismes com el GSMA ([[GSM]] Association) també estan involucrats en diverses iniciatives, assegurant la interoperabilitat global dels serveis NFC o promovent la forma de pagament mitjançant dispositius mòbils.
+* StoLPAN
+* SCP (Smart Card Platform)
+* GlobalPlatform
+* EMVCo
+
+== Comoditat i avantatges ==
+
+L'evolució de la tecnologia [[RFID]] dins l'àrea de NFC ha donat lloc a un conjunt d'aplicacions reals que no només són tècnicament factibles sinó també comercialment viables. NFC ofereix una relació cost-benefici apropiada dins el mercat tecnològic actual i compleix amb els estàndards acordats internacionalment. El principal atractiu de la tecnologia NFC és que permet diferents formes de comunicació i transaccions d'un mode molt còmode e intuïtiu per l'usuari. En relació a aquesta simplicitat d'ús, es pot establir una analogia amb altres dispositius d'ús quotidià com podrien ser prémer un interruptor o obrir una porta. Així que, podem dir que aquesta tecnologia proporciona el servei desitjat a l'usuari mitjançant accions simples com tocar o apropar un dispositiu NFC a un altre, permetent així l'ús de qualsevol servei o interacció electrònica a gent de totes les edats o capacitats.
+
+== Aspectes de seguretat i vulnerabilitat ==
+NFC ofereix una seguretat intrínseca degut al limitat radi de comunicació entre iniciator i el ''target'' (pocs centímetres). Tot i així, encara que aquest fet dificulti la tasca de robar informació, de cap de les maneres garanteix que una comunicació via NFC no pugui ser vulnerada. Algunes de les amenaces més comuns són les esmentades a continuació:
+*  Espionatge i escoltes secretes  
+*  Modificació de dades  
+*  Atac de transmissió  
+* Corrupció de dades  
+* [[Atac Man-in-the-middle]]
+* Dades sense xifrar  
+* Pèrdua o robatori  
+*Inserció de dades 
+
+Garantir la seguretat de les transmissions de dades per NFC requerirà la cooperació de moltes parts importants dins d'aquest projecte: els proveïdors dels dispositius hauran de protegir cada cop més fortament els terminals mitjançant forta criptografia i protocols d'autentificació; els clients o usuaris hauran de fer un òptim ús de contrasenyes i [[antivirus]] i també s'haurà de vetllar per el bon manteniment i la seguretat dels sistemes de transmissió emprats.
+
+== Aplicacions ==
+
+Existeixen nombroses aplicacions de NFC que a continuació les agruparem en tres grans grups segons la seva finalitat principal:
+
+===Demanda de servei===
+Aquestes aplicacions consisteixen en el fet que l'usuari toqui amb el seu dispositiu NFC (per exemple, un telèfon) una etiqueta NFC que es trobi en un lloc determinat. D'aquesta manera, l'etiqueta transfereix al terminal una petita quantitat de dades (text, URL, número de telèfon o qualsevol altra informació breu) que permetran a l'usuari realitzar alguna acció. Alguns exemples d'aquest tipus d'aplicacions:
+
+* Cartells intel·ligents (smart posters) a la via pública promocionant un producte, servei, event, etc. que proporcionen una URL a l'usuari on pot obtenir més informació sobre el producte o servei publicitat, o bé reservar les entrades per l'event.
+* Informació addicional sobre productes en un comerç quan l'usuari toca un producte en concret amb el seu dispositiu NFC.
+* Control de temperatura o il·luminació d'una habitació sense haver de moure's del lloc on la persona està asseguda (amb etiquetes ubicades en mobles i que l'usuari pot tocar amb el seu dispositiu NFC).
+* Registre de visites efectuades per personal de guàrdia o seguretat d'un edifici a mesura que fa el recorregut rutinari per totes les zones definides del local.
+* Etiquetes NFC personalitzades, on l'usuari pugui especificar una informació que serà utilitzada per uns altres dispositius quan vulguin utilitzar el seu servei: per exemple, etiquetes que contenen números telefònics i que s'enganxen a fotografies.
+
+
+===[[P2P]]: Peer-to-peer===
+Aquest tipus d'aplicacions utilitzen NFC com a mecanisme per establir la comunicació entre dos dispositius que necessiten intercanviar dades. 
+
+* Transmissió de dades des d'una càmera digital a una impressora: mitjançant NFC s'estableix una connexió per [[Bluetooth]] que és la que s'utilitza per transmetre les fotografies.
+* Intercanvi de targetes personals a través d'una connexió Bluetooth establerta per NFC.
+* Configuració automàtica d'una connexió [[Wi-Fi]] en llocs públics: l'usuari toca amb el seu telèfon mòbil una etiqueta ubicada en la taula que li transmet la configuració de la xarxa i seguidament toca el seu ordinador personal per configurar-la i iniciar la connexió.
+
+===Pagaments i compra de bitllets i entrades===
+Aquest tipus d'aplicacions són les que principalment van donar lloc als estàndards NFC. Donat que des de feia temps s'utilitzaven les targetes sense contacte per a algunes transaccions comercials i compra de bitllets en mitjans de transport, la nova tecnologia NFC va ser definida per mantenir compatibilitat amb les aplicacions existents. Alguns exemples:
+* Pagaments en màquines expenedores automàtiques i parquímetres.
+* Consulta de saldo en targetes per transport sense la necessitat d'haver d'anar a un lloc específic per obtenir aquesta informació.
+* Cartera electrònica: realitzar totes les transaccions comercials utilitzant el telèfon mòbil, evitant la necessitat d'utilitzar targetes plàstiques.
+
+=== Altres ===
+* [[Videojoc per a mòbil]]
+* [[F2F]]
+* [[PayPal]]
+* Google Wallet
+* [[Document d'identitat]]
+* Targeta d'accés
+* [[Carsharing|Lloguer de cotxes]] i claus d'[[hotel]]
+
+== Telèfons habilitats amb NFC ==
+* Android 
+* Ovi store/S40  [[J2ME]] 
+* J2ME 
+* Bada 
+* MeeGo 
+* [[BlackBerry]] 
+* [[Windows Mobile]] 6.0 
+
+== Vegeu també ==
+* [[Mifare]]
+
+== Referències==
+{{referències|2}}
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* http://www.nfc-forum.org/home/ 
+* http://www.xataka.com/moviles/nfc-que-es-y-para-que-sirve
+* http://sammyhub.com/2011/11/15/samsung-develops-secu-nfc-chip-for-secure-mobile-payments/
+* http://www.xataka.com/accesorios/nfc-frente-a-bluetooth-tonto-el-ultimo
+* http://www.nfcon.es/2011/11/15/aplicaciones-de-la-tecnologia-nfc-segun-fujitsu-it-compass/
+* http://www.xatakamovil.com/futuro/cuando-nfc-se-una-a-las-aplicaciones-de-internet-movil-sera-imparable-entrevista-a-pedro-martinez-director-de-desarrollo-de-negocio-de-nxp
+* http://www.aplicacionesmovil.com/aplicaciones-celular/aplicaciones-nfc/
+* http://www.finanzas.com/noticias/empresas/2011-12-02/610264_telefonica-selecciona-giesecke-devrient-para.html
+* {{citar ref| url = http://www.iso.org/iso/en/CatalogueDetailPage.CatalogueDetail?CSNUMBER=38578ICS1=35ICS2=100ICS3=10 |títol= ISO/IEC 18092:2004 |editorial= ISO}}.
+* http://www.nfcworld.com/
+* http://www.nfcrumors.com/
+* http://www.nfctimes.com/
+* http://www.nfcnews.com/
+* http://www.nearfield.org/ 
+* http://news.bbc.co.uk/1/hi/technology/6168222.stm
+
+
+{{ORDENA:Comunicacio De Camp Proper}}	!--ORDENA generat per bot--
+[[Categoria:Telefonia_mòbil]]
+[[Categoria:Estàndards]]
+[[Categoria:RFID]]</text>
+      <sha1>qpx5cofswjksbeq4j90agokh77hdoeg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

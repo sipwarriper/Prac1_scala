@@ -1,0 +1,220 @@
+<page>
+    <title>Alan Turing</title>
+    <ns>0</ns>
+    <id>16470</id>
+    <revision>
+      <id>13876661</id>
+      <parentid>13721663</parentid>
+      <timestamp>2014-07-21T17:01:27Z</timestamp>
+      <contributor>
+        <username>EVA2.0 (bot)</username>
+        <id>167473</id>
+      </contributor>
+      <minor></minor>
+      <comment>Simplificant</comment>
+      <text>{{Infotaula persona
+| name = Alan Turing
+| image = Alan Turing Memorial Closer.jpg
+| caption = Estàtua en homenatge a Alan Turing, situada als Jardins de Whitworth, [[Manchester]] ([[Anglaterra]]).
+| birth_name = Alan Mathison Turing
+| birth_date = {{Data naixement|1912|6|23}}
+| birth_place = [[Londres]], [[Anglaterra]]
+| death_date = {{Data defuncio i edat|1954|6|7|1912|6|23}}
+| death_place = [[Wilmslow]], [[Cheshire]], [[Anglaterra]]
+| death_cause = [[Cianur]], ([[suïcidi]])
+| nationality = {{Bandera|Anglaterra}}[[Anglaterra|Anglès]]
+| education = King's College, [[Cambridge]]br /[[Universitat de Princeton]], [[Doctorat|Ph.D.]]
+| occupation = [[Matemàtic]], [[Lògica|Lògic]], [[Criptografia|Criptògraf]]
+| title = [[Orde de l'Imperi Britànic|Cavaller de l'Imperi Britànic]]br /[[Royal Society|Membre de la Royal Society]]
+| religion = [[Ateu]]refThis loss shattered Turing's religious faith and led him into atheism... [http://www.time.com/time/time100/scientist/profile/turing.html Perfil d'Alan Turing a ''Time 100''], p. 2(en anglès)/refrefHe was an atheist... [http://news.bbc.co.uk/1/hi/uk/330480.stm Alan Turing: Father of the computer], BBC News, 28 d'abril del 1999 [Consultat l'11 de juny del 2007] (en anglès)/ref
+| parents = Julius Mathison Turingbr /Ethel Stoney Turing
+| website = [http://www.alanturing.net/ AlanTuring.net] (en anglès)br /[http://www.turingarchive.org/ Arxiu Digital Turing] (en anglès)br /[http://www.turing.org.uk/turing/ Biografia] (en anglès)
+| footnotes = 
+}}
+'''Alan Mathison Turing''' ([[23 de juny]] de [[1912]] - [[7 de juny]] de [[1954]]) fou un [[matemàtic]] britànic. Va treballar en camps com la [[informàtica]] teòrica, la [[criptoanàlisi]] o la [[intel·ligència artificial]]. Se'l considera el pare de la [[informàtica]] moderna.
+
+Algunes de les seves principals aportacions a la informàtica teòrica i a la [[intel·ligència artificial]] van ser la [[màquina de Turing]], la computabilitat universal o el [[test de Turing]]. Sota els serveis d'intel·ligència britànics, i al llarg de la [[Segona Guerra Mundial]], va treballar a [[Bletchley Park]], el centre de criptografia britànic, on va dirigir durant un temps el ''Hut 8'', la secció responsable de la criptoanàlisi naval alemanya. Va desenvolupar unes quantes tècniques per trencar els codis alemanys, inclosa la bomba, una màquina electromecànica que podia trencar el codi de la màquina alemanya de criptografia [[Màquina Enigma|Enigma]]. Això va ser crucial per al desenvolupament de la [[Batalla de l'Atlàntic (1939-1945)|Batalla de l'Atlàntic]]. Va ser el primer científic que va usar computadores amb aplicacions a la matemàtica.
+
+Va ser perseguit el [[1952]] pel servei d'intel·ligència britànic a causa de la seva [[homosexualitat]].ref[http://blogdenemo.blogspot.com/search?updated-min=2007-01-01T00%3A00%3A00%2B01%3A00updated-max=2008-01-01T00%3A00%3A00%2B01%3A00max-results=20 El cas Turing (dilluns, 1 d'octubre de 2007)]/refPer no anar-se'n a la presó, Turing va acceptar sotmetre's a un [http://es.wikipedia.org/wiki/Terapia_de_reorientaci%C3%B3n_sexual tractament] d'hormones (estrògens) que utilitzaven en aquella època. Turing va acabar suïcidant-se el 1954 menjant-se una poma amb cianur.
+
+El 10 de setembre de 2009, després d'una campanya a Internet, el primer ministre britànic [[Gordon Brown]] es va disculpar per la forma en que Turing va ser tractat després de la guerra.ref[http://www.number10.gov.uk/Page20571 Treatment of Alan Turing was “appalling” - PM]/ref
+
+== Infantesa i joventut ==
+
+El seu pare, Julius Mathison Turing, era un alt funcionari a l'[[Índia]], llavors colònia britànica, i la seva mare era filla de l'enginyer en cap dels Ferrocarrils de Madras. Volien educar-lo a Anglaterra, i per tant van tornar a Maida Vale,ref name=englishheritaget{{cite web |url=http://www.english-heritage.org.uk/server/show/nav.001002006005/chooseLetter/T |title=London Blue Plaques |accessdate=2007-02-10 |work=English-Heritage.org.uk }}(en anglès)/ref Londres, on va néixer Alan Turing el [[23 de juny]] de 1912, en un edifici que ara és l'hotel Colonnade.ref name=hodges1983{{ref-llibre |cognom=Hodges |nom=Andrew |títol=Alan Turing: The Enigma |any=1983 |editorial=Simon  Schuster |lloc=New York |isbn=0-671-49207-1 |pàgines=5 }}/refref name=turingorguk{{cite web|url=http://www.turing.org.uk/turing/scrapbook/memorial.html|title=The Alan Turing Internet Scrapbook|accessdate=2006-09-26}}(en anglès)/ref Com que el pare continuava tenint feina a l'Índia, durant la seva infantesa els seus pares estaven entre [[Guildford (Surrey)]], i l'[[Índia]], deixant-lo a ell i el seu germà gran John a càrrec d'amics a [[Hastings]], Anglaterra.ref name=Hastings handbook{{cite web|url=http://www.hastingshandbook.co.uk/Archive/HHMar08/FMar08_AlanTuring.shtml|title=Hastings Blue Plaque Trail|accessdate=2008-08-10}}(en anglès)/ref Ben aviat, Turing va mostrar senyals del seu geni.ref name=toolbox{{cite web |title=Alan Turing - Towards a Digital Mind: Part 1 |first=G. James |last=Jones |date=2001-12-11 |url=http://www.systemtoolbox.com/article.php?history_id=3 |accessdate=2007-07-27 |work=System Toolbox}} (en anglès)/ref
+
+El 1926, a l'edat de 14 anys, va ingressar a l'escola Sherborne, un internat prestigiós i car de [[Dorset]]. El seu primer dia d'escola va coincidir amb una vaga general al Regne Unit, però estava tan decidit a començar les classes, que va recórrer tot sol en bicicleta els aproximadament 100 km des de [[Southampton]] fins a l'escola.ref name=metamagical{{ref-llibre |títol=Metamagical Themas: Questing for the Essence of Mind and Pattern |nom=Douglas R. |cognom=Hofstadter |any=1985 |editorial=Basic Books |isbn=0-465-04566-9 |oclc=230812136}}/ref
+
+No obstant això, no va encaixar massa bé dins aquella escola, que posava molt més èmfasi en l'estudi dels clàssics que no pas en les seves inclinacions naturals per les matemàtiques i la ciència. El director de l'escola va escriure als seus pares:refHodges, 1983, p. 26/refEspero que no es quedi entre dues escoles. Si s'ha de quedar a l'internat, ha d'aspirar a convertir-se en ''educat''. Si només ha de ser un ''Especialista Científic'', està perdent el temps en una escola com aquesta.
+
+Malgrat tot, Turing va continuar destacant en les seves assignatures preferides, resolent problemes avançats el 1927 sense ni tan sols haver estudiat [[càlcul]]. Als 16 anys, va descobrir l'obra d'[[Albert Einstein]]; la va entendre, i fins i tot va extrapolar que Einstein qüestionava les [[lleis de Newton]] a partir d'un text on això no era explícit.refHodges, 1983, p. 34/ref
+
+Durant la seva estada a l'escola, va desenvolupar una bona amistat amb un company un any més gran, Christopher Morcom, que va ser el seu primer amor (encara que no va ser correspost). Morcom va morir de sobte, al principi del seu últim any a Sherborne, per complicacions de la [[Mycobacterium bovis|tuberculosi bovina]], que havia contret per beure llet de vaca infectada de petit.ref name=teuscher** {{ref-llibre |cognom=Teuscher |nom=Christof (ed.) |títol=Alan Turing: Life and Legacy of a Great Thinker |any=2004 |editorial=Springer-Verlag |isbn=3-540-20020-7 |oclc=53434737 62339998 }}/ref Aquest fet li va fer perdre la fe en Déu, i es va fer ateu. Es va convèncer que tots els fenòmens, fins i tot el funcionament del cervell humà, havien de ser materialistes.refPaul Gray, Alan Turing, Time Magazine's Most Important People of the Century, p.2 {{citar web|url=http://www.time.com/time/time100/scientist/profile/turing.html|títol=Computer Scientist: ALAN TURING - TIME!--Títol generat per bot--|consulta=19 de juliol de 2012}}(en anglès)/ref
+
+== La Universitat i els treballs sobre computabilitat ==
+
+A causa del seu baix rendiment en estudis clàssics, no va aconseguir una beca per al [[Trinity College (Cambridge)|Trinity College]] i va anar a la seva segona opció, el [[King's College]] de Cambridge. Va estudiar-hi del 1931 al 1934, llicenciant-se amb nota, i el 1935 va ser escollit fellow de King's per la seva tesina sobre el [[teorema del límit central]].
+
+En el seu article transcendental On Computable Numbers, with an Application to the ''[[Entscheidungsproblem]]'' (Sobre els Nombres Calculables, amb una Aplicació a lnowiki'/nowiki''[[Entscheidungsproblem]]'')ref {{ Citation|last= Turing|first= A.M.|publication-date = 1937|year = 1936|title = On Computable Numbers, with an Application to the Entscheidungsproblem|periodical = Proceedings of the London Mathematical Society|series = 2|volume = 42|pages = 230–65|doi= 10.1112/plms/s2-42.1.230 }} (i {{Citation|last = Turing|first = A.M.|publication-date = 1937|title = On Computable Numbers, with an Application to the Entscheidungsproblem: A correction|periodical = Proceedings of the London Mathematical Society|series = 2|volume = 43|pages = 544–6|doi = 10.1112/plms/s2-43.6.544|year = 1938 }}) /ref (presentat el 28 de maig 1936), Turing va aprofitar els resultats de 1931 de [[Kurt Gödel]] sobre els límits de la prova i la computació, reemplaçant el llenguatge formal que havia fet servir Gödel pel que ara s'anomenen [[màquina de Turing|màquines de Turing]], dispositius formals i senzills. Va demostrar que una màquina d'aquest tipus podria ser capaç de resoldre qualsevol problema matemàtic concebible si es podia representar en forma d'[[algorisme]]. A continuació va demostrar que no hi havia solució a l'''Entscheidungsproblem'' justificant que el [[problema de la parada]] és [[Entscheidungsproblem|no decidible]]: no és possible de decidir, en general, de forma algorísmica, si una màquina de Turing donada s'aturarà mai.
+
+Encara que la seva demostració es va publicar després de la d'[[Alonzo Church]], que és equivalent respecte al seu [[càlcul lambda]], el treball de Turing és considerablement més accessible i intuïtiu. També era original en la noció d'una 'Màquina Universal', el fet que aquesta màquina pogués dur a terme les tasques de qualsevol altra màquina. Encara avui en dia, les [[màquina de Turing|màquines de Turing]] són eines centrals dins de la teoria de la computació. L'article també introdueix la noció de nombres definibles.
+
+Des de setembre de 1936 fins al juliol de 1938 va ser a l'Institut d'Estudis Avançats, a la [[Universitat de Princeton]], estudiant sota la direcció d'[[Alonzo Church]]. A part de la feina purament matemàtica, va estudiar criptologia i va construir tres de les quatre etapes d'un multiplicador binari electromecànic.refHodges, 1983, p. 138/ref El juny de 1938 es va [[doctorat|doctorar]] a Princeton; la seva tesi introduïa la noció de la computació relativa, on les màquines de Turing s'augmenten amb les anomenades màquines oracle, cosa que permet l'estudi de problemes que no pot resoldre una màquina de Turing.
+
+Després de doctorar-se, va tornar a Cambridge, on va discutir amb [[Ludwig Wittgenstein]] sobre els fonaments de la Matemàtica.refHodges, 1983, p. 152/ref Turing defensava el [[formalisme (matemàtiques)|formalisme]] i Wittgenstein adduïa que la Matemàtica no descobreix veritats absolutes sinó que les inventa.refHodges, 1983, pp. 153-154/ref També va començar a treballar a temps parcial amb l'Escola de Codis i Xifres del Govern (GCCS).
+
+== Criptoanàlisi ==
+[[Fitxer:Turing flat.jpg|thumb|Edificis de [[Bletchley Park]]. Turing hi va treballar entre 1939 i 1940 fins que es va traslladar a l'edifici 8]]
+Durant la [[Segona Guerra Mundial]], Turing va participar de forma decisiva en la feina duta a terme a [[Bletchley Park]] per trencar els codis [[Alemanya|alemanys]]. A partir dels resultats obtinguts a [[Polònia]] per Marian Rejewski, Jerzy Różycki i Henryk Zygalski de l'Oficina de Codis polonesa abans de la guerra, va contribuir algunes idees per trencar tant la [[màquina Enigma]] com el codi Lorenz SZ 40/42, i va ser, durant un temps, el cap del '''Hut 8''', la secció responsable de la lectura dels senyals navals alemanys.
+
+Des de setembre de 1938, Turing havia treballat a temps parcial per al GCCS, l'organització britànica encarregada de desxifrar codis. Va treballar en el problema de la màquina Enigma alemanya, i va col·laborar amb Dilly Knox, un veterà de la decodificació.refJack Copeland, Colossus and the Dawning of the Computer Age, p. 352 a ''Action This Day'', 2001/ref El 4 de setembre de 1939, l'endemà de la declaració de guerra del Regne Unit a Alemanya, Turing es va presentar a Bletchley Park, la seu durant la guerra del GCCS.ref name=Copeland2006p378 Copeland, 2006 p. 378 /ref
+
+=== Bomba Turing–Welchman ===
+[[Fitxer:Bombe-rebuild.jpg|thumbnail|Rèplica d'una màquina bomba]]
+A les poques setmanes de la seva arribada a Bletchley Park,ref name=Copeland2006p378 / Turing havia dissenyat una màquina electromecànica que podia trencar el codi Enigma més ràpid que la bomba polonesa de 1932. Aquesta màquina (bombe), amb una millora suggerida pel matemàtic Gordon Welchman, es va convertir en una de les eines principals, i la més automatitzada, que es va fer servir per atacar el tràfec de missatges codificats amb Enigma.
+
+El professor Jack Good, un altre criptoanalista que va treballar amb Turing a Bletchley Park, va dir més endavant: La contribució més important que va fer Turing, ''crec'', va ser part del disseny de la bomba, la màquina criptoanalítica. Va tenir la idea que podies fer servir, en pràctica, un teorema de Lògica que sona força absurd per als profans; en concret, que a partir d'una contradicció, pots deduir-ho ''tot.''refThe Men Who Cracked Enigma, 2003./ref
+
+La bomba buscava les posicions possiblement correctes utilitzades per codificar un missatge Enigma (és a dir, ordre dels rotors, posició dels rotors, etc.) i feia servir una falca (en slang anglès, crib): un text curt que fos probablement part del missatge. Per cada posició possible dels rotors (que tenien d'aproximadament 10sup19/sup estats, o 10sup22/sup per les Enigma dels submarins, que al final tenien quatre rotors en comptes dels tres de les altres Enigma),refEl professor Jack Good a The Men Who Cracked Enigma, 2003: amb un avís: si no em falla la memòria/ref la bomba duia a terme una cadena de deduccions lògiques basades en la falca, implementades elèctricament. La bomba detectava quan es trobava una contradicció, i descartava aquella posició, passant a la següent. La majoria de les configuracions causaven contradiccions i es descartaven, deixant-ne només unes quantes que s'havien d'investigar en detall. La bomba de Turing es va instal·lar el 18 de març de 1940.refHodges, 1983, p. 191./ref Cap al final de la guerra, hi havia més de dues-centes bombes funcionant.ref name=codebreaker{{cite web |title=Alan Turing, Codebreaker and Computer Pioneer |last=Copeland |first=Jack |coauthors=Diane Proudfoot |month=May|year=2004 |url=http://www.alanturing.net/turing_archive/pages/Reference%20Articles/codebreaker.html |accessdate=2007-07-27}}(en anglès)/ref
+
+=== La Cabana 8 i l'Enigma Naval ===
+El desembre de 194, Turing va resoldre el sistema d'indicadors de l'Enigma naval, que era matemàticament més complex que els sistemes d'indicadors que feien servir els altres serveis. Turing també va idear una tècnica estadística [[Teorema de Bayes|bayesiana]] que va anomenar Banburismus per ajudar a decodificar l'Enigma Naval. El Banburismus podia descartar certs ordres dels rotors de l'Enigma, reduint així el temps que calia per provar les posicions a les bombes.
+
+A la primavera de 1941, Turing va proposar casar-se a una companya de la Cabana 8, Joan Clarke, però el compromís es va trencar de mutu acord a l'estiu.
+
+El juliol de 1942, Turing va idear una tècnica anomenada ''Turingismus'' o ''Turingery'' per atacar la xifra Lorenz utilitzada per la nova màquina alemanya Geheimschreiber (escriptor secret) que era una de les anomenades Fish (peix). També va presentar l'equip Fish a Tommy Flowers, que sota el guiatge de Max Newman, va construir més endavant l'ordinador Colossus, el primer ordinador electrònic digital i programable del món, que va substituir màquines anteriors més simples (inclosa la Heath Robinson). La major velocitat del Colossus va permetre d'aplicar les tècniques de desencriptació de força bruta de forma útil, fins i tot amb codis que canviaven cada dia.refCopeland, 2006, p. 72./ref Hom creu sovint que Turing va ser una figura clau en el disseny del Colossus, però no va ser així.refCopeland, 2006, pp. 382-383./ref
+
+Mentre treballava a Bletchley, Turing, que era un corredor de fons notable, de tant en tant anava corrent fins a Londres (a 40 km) quan havia d'assistir a reunions d'alt nivell.ref''Bodyguard of Lies'', by [[Anthony Cave Brown]], 1975./ref 
+
+Turing va viatjar als Estats Units el novembre de 1942, i va treballar amb criptoanalistes americans sobre l'Enigma naval i la construcció de bombes a Washington, i va ajudar als [[Bell Labs]] a desenvolupar dispositius de securització de la parla. Va tornar a Bletchley Park el març de 1943. Durant la seva absència, el Coronel Hugh Alexander havia assumit oficialment el càrrec de cap de la Cabana 8, encara que Alexander havia estat el cap ''de facto'' durant cert temps, ja que Turing posava poc interès en el dia a dia de la secció. Turing va esdevenir consultor general de criptoanàlisi a Bletchley Park.
+
+Cap a la part final de la guerra, va traslladar-se per treballar a Hanslope Park, on va millorar els seus coneixements d'electrònica amb l'ajuda de l'enginyer Donald Bailey. Junts van dedicar-se al disseny i construcció d'una màquina portàtil per securitzar les comunicacions de veu el nom en clau de la clau era ''Delilah''.refHodges, 1983, p. 270/ref Estava pensada per diferents aplicacions, però no es podia utilitzar en transmissions de ràdio a llarga distància, i de totes maneres, es va acabar massa tard per fer-se servir durant la guerra. Encara que Turing va fer demostracions als oficials encriptant i desencriptant una gravació d'un discurs de [[Winston Churchill]], Delilah no es va adoptar.
+
+El 1945, se li va atorgar l'[[Orde de l'Imperi Britànic]] pels seus serveis en temps de guerra, però la seva tasca va quedar en secret durant molts anys. Una biografia publicada per la Royal Society poc després de la seva mort només deia:
+
+{{cita|Tres articles destacables escrits poc abans de la guerra, sobre tres temes matemàtics diversos, mostren la qualitat de la feina que hauria pogut aconseguir si s'hagués pogut dedicar a algun problema important en aquell moment crític. Se'l va condecorar per la seva tasca al Foreign Office.|ref name=royalsocbio{{ref-llibre |cognom=Newman |nom=M. H. A. |títol=Alan Mathison Turing |any=1955 |editorial=The Royal Society |isbn =|col·lecció=Biographical Memoirs of Fellows of the Royal Society, 1955, Volume 1 }}./ref}}
+
+== Primers ordinadors i el Test de Turing ==
+Del 1945 fins al 1947 va ser al National Physical Laboratory del Regne Unit, on va treballar en el disseny de l'ACE (Automatic Computing Engine, Motor de Càlcul Automàtic). Va presentar un article el [[19 de febrer]] de 1946, que fa ser el primer disseny detallat d'un [[Arquitectura de Von Neumann|ordinador amb programa emmagatzemat]].refCopeland, 2006, p. 108./ref Encara que l'ACE era un disseny viable, el secret que envoltava el treball militar a Bletchley Park va comportar retards en l'inici del projecte i es va desil·lusionar. A finals de 1947 va tornar a Cambridge per un any sabàtic. Mentre era a Cambridge, es va construir l'ACE pilot. Va executar el seu primer programa el 10 de maig de 1950.
+
+El 1948 va ser nombrat Reader (rang per damunt dels professors, però per sota dels catedràtics) del Departament de Matemàtiques de la Universitat de Manchester. El 1949 va obtenir el càrrec de subdirector del laboratori de càlcul de la Universitat de Manchester, i va treballar creant programari per un dels primers ordinadors autèntics — el [[Manchester Mark 1]]. Durant aquest temps, va continuar treballant en temes abstractes, i a l'article Computing machinery and intelligence (Maquinària de càlcul i intel·ligència) (publicat a la revista Mind, octubre de 1950), Turing atacava el problema de la [[intel·ligència artificial]], i proposava un experiment conegut actualment com a [[test de Turing]], per tal de definir un estàndard per tal d'anomenar intel·ligent a una màquina. La idea és que es podia dir que un ordinador pensava si era capaç d'enganyar a un interrogador i fer-li pensar que la conversa era amb un humà. A l'article, Turing suggeria que en comptes de construir un programa que simulés la ment humana, podria ser millor de fer-ne un de més senzill que simulés la ment d'un nen i llavors sotmetre'l a una etapa d'educació. Aquesta estratègia ha estat adoptada pel projecte [[Texai.org]].ref[http://texai.org/papers/bootstrap-dialog-a-conversational-english-parsing-and-generation-system.pdf Bootstrap Dialog: A Conversational English Text Parsing and Generation System, in Artificial General Intelligence Conference Proceedings, Arlington, Virgina, USA, (2009)]/ref
+
+El 1948, Turing, treballant amb el seu antic company, D.G. Champernowne, va començar a escriure un programa d'[[escacs]] per un ordinador que encara no existia. El 1952, en no tenir un ordinador prou potent per executar el programa, Turing va jugar una partida on simulava l'ordinador, trigant al voltant de mitja hora per cada moviment. La partida es conserva;ref[http://www.chessgames.com/perl/chessgame?gid=1356927 Alan Turing vs Alick Glennie (1952) Turing Test.]/ref el programa va perdre amb el company de Turing, Alick Glennie, encara que es diu que va guanyar una partida contra la dona de Champernowne.
+
+== Formació de patrons i biologia matemàtica ==
+Turing va treballar des de 1952 fins a la seva mort el 1954 en el camp de la biologia matemàtica, més específicament la morfogènesi. Va publicar un article sobre el tema anomenat La Base Química de la Morfogènesi el 1952, proposant la seva hipòtesi sobre la formació de patrons.ref[http://www.sciencedaily.com/releases/2006/11/061128093244.htm Control Mechanism For Biological Pattern Formation Decoded a ''ScienceDaily'' (Nov. 30, 2006)]/ref El seu interès principal en aquest camp era entendre la [[fil·lotaxi]] de [[Leonardo de Pisa|Fibonacci]], l'existència de [[successió de Fibonacci|nombres de Fibonacci]] en estructures de les plantes. Va utilitzar equacions de reacció-difusió, que ara són la base de la disciplina de formació de patrons. D'altres articles posteriors van romandre inèdits fins al 1992, quan es va publicar ''Collected Works of A.M. Turing''.
+
+== Castració química ==
+L'[[homosexualitat]] era il·legal al Regne Unitref name=hodges1983 / i es considerava una [[malaltia mental]] i comportava sancions criminals. El 1952, Arnold Murray, un noi de 19 anys que Turing havia conegut feia poc,refcf. Hodges, pp. 449–455/ref va ajudar un còmplice a robar a casa seva, i Turing va denunciar el crim a la policia. Durant la investigació policial, Turing va reconèixer que tenia una relació sexual amb Murray, i llavors Turing i Murray van ser acusats d'indecència segons la secció 11 del Codi Penal. Turing va ser condemnat pel mateix crim que [[Oscar Wilde]], més de cinquanta anys després.refLeavitt, David ''The Man Who Knew Too Much'', p. 268, W. W. Norton  Co., 2006 ISBN 0-393-05236-2/ref
+
+Se'l va deixar triar entre la presó i la llibertat, condicionada a rebre un tractament [[hormona]]l dissenyat per reduir la libido. Per evitar la presó, va acceptar la castració química via injeccions d'[[estrogen]]ref[http://www.glbtq.com/social-sciences/turing_a,2.html Turing, Alan (1912–1954)]/ref que van durar un any. La seva condemna va comportar també que perdés el seu nivell de seguretat i per tant la feina de consultor criptogràfic per al govern. En aquella època, hi havia una forta alarma social per l'espionatge i l'acorralament homosexual per part d'agents soviètics, probablement a causa de les detencions dels primers membres del grup dels cinc de Cambridge, Guy Burgess i Donald Maclean per ser agents dobles del [[KGB]]. Mai no se'l va acusar d'espionatge, però, com tothom que havia treballat a [[Bletchley Park]], no podia parlar de la seva feina en temps de guerra.
+
+== Mort ==
+El [[8 de juny]] de 1954, la dona de fer feines el va trobar mort; el dia abans havia mort per enverinament de [[cianur]], aparentment per una poma coberta de cianur que va deixar a mig menjar al costat del llit. No es va analitzar la poma per buscar-hi cianur, però l'autòpsia va establir que la causa de la mort era enverinament per cianur. Es va classificar la mort com a [[suïcidi]]. La seva mare, això no obstant, deia que havia estat una ingestió accidental deguda a la manca de cura amb què emmagatzemava els productes químics del seu laboratori. El seu biògraf, Andrew Hodges, suggereix que va preparar el suïcidi de forma ambigua deliberadament, per donar a la seva mare algun motiu per no creure-ho.refHodges, 1983, pp. 488-489./ref D'altres, suggereixen que Turing estava recreant una escena de [[la Blancaneu i els set nans|Blancaneu]], el seu conte favorit.refFerris, Timothy. ''Seeing in the Dark''. 2002. p. 250/ref També s'ha suggerit la possibilitat d'assassinat pel fet que s'hagués considerat l'homosexualitat de Turing com a risc de seguretat.ref name=leavitt{{ref-llibre |cognom=Leavitt |nom=David |enllaçautor=David Leavitt |títol= The man who knew too much: Alan Turing and the invention of the computer |any=2006 |editorial=W. W. Norton |lloc=New York |isbn=0-393-05236-2 |oclc=233002606 60742103 }}/ref Les seves restes mortals van ser incinerades al crematori de Woking el [[12 de juny]] de [[1954]].
+
+El primer logo històric d'[[Apple]] ([[1976]]-[[1998]]) era una poma mossegada que tenia els colors de l'[[arc de Sant Martí]] i en un cert moment es va especular amb el fet que podia ser un homenatge a la seva mort.ref{{citar web |url= http://www.famouslogos.org/apple-logo |títol= Apple Logo |editor= FamousLogos.org |llengua= anglès |consulta= 4/3/2013}}/ref Això va ser finalment desmentit tant pel dissenyador del logo com per la pròpia companyia.ref{{citar web |url= http://articles.cnn.com/2011-10-06/opinion/opinion_apple-logo_1_apple-logo-apple-employee-alan-turing?_s=PM:OPINION |títol= Unravelling the tale behind the Apple logo |nom= Holden |cognom= Frith |editor= CNN.com |data= 6 d'octubre 2011 |llengua= anglès |consulta= 4/3/2013}}/ref
+
+== Reconeixement pòstum ==
+Des de 1966, l'ACM —Association for Computing Machinery, la societat professional d'informàtics més important del món— atorga cada any el [[Premi Turing]] a una persona per contribucions tècniques a la comunitat informàtica. Es considera l'equivalent en el camp de la Informàtica del [[Premi Nobel]].ref{{citar web
+| url = http://www.acm.org/press-room/news-releases-2007/turingaward/| títol = ACM'S Turing Award Prize Raised To $250,000| consulta = 2008-10-16| autor = Steven Geringer| editor = [[ACM]] press release| data = 27 July 2007
+}}/ref
+
+A [[Manchester]], la ciutat on va treballar cap al final de la seva vida, se li han dedicat una colla d'homenatges: un tros de carretera i un pont porten el seu nom; se li ha dedicat una estàtua en un parc pròxim a la Universitat de Manchester; l'edifici que conté l'Escola de Matemàtiques, l'Institut de Ciència Fotònica i el centre d'Astrofísica Jodrell Bank s'anomena ''Alan Turing Building'' i es va inaugurar el 2007.
+
+El [[23 de juny]] de 1998, el dia que hauria estat el seu 86è aniversari, el seu biògraf Andrew Hodges va descobrir una placa commemorativa a la casa on va néixer i va passar la seva infància a Warrington Crescent, Londres, ara un hotel.ref{{citar web
+| url = http://www.turing.org.uk/bio/oration.html| títol = Unveiling the official Blue Plaque on Alan Turing's Birthplace| consulta = 2006-09-26
+}}/refref{{citar web
+| url = http://www.blueplaque.com/detail.php?plaque_id=348| títol = About this Plaque - Alan Turing| consulta = 2006-09-25
+}}/ref
+Pel 50è aniversari de la seva mort, es va descobrir una placa commemorativa el [[7 de juny]] de [[2004]] a la seva antiga casa, Hollymeade, a Wilmslow, Manchester.
+
+[[Fitxer:Turing Plaque.jpg|thumbnail|Placa commemorativa de la casa de Turing]]
+Universitats de tot el món li han fet reconeixements de tot tipus. El 2004, [[Saint Vincent i les Grenadines]] va emetre una sèrie de segells que commemorava els millors avenços del segle XX, i un dels segells mostrava una imatge de Turing sobre un fons d'uns i zeros, i la llegenda 1937: La teoria del càlcul digital d'Alan Turing
+
+El [[19 de juny]] de [[2007]] es va inaugurar una estàtua a mida natural de Turing de 1.5 tones a [[Bletchley Park]]. Està feta amb aproximadament mig milió de trossos de pissarra per l'escultor Stephen Kettle, i va ser encarregada i pagada pel multimilionari americà Sidney Frank.ref[http://www.bletchleypark.org.uk/news/docview.rhtm/454075/article.html Bletchley Park Unveils Statue Commemorating Alan Turing], nota de premsa de Bletchley Park, 20 de juny 2007/ref
+
+El Relleu Turingref[http://www.turingrelay.co.uk/ Pista del Relleu Turing]/ref és una carrera de relleus en sis etapes per camins a la vora del riu des d'Ely fins a Cambridge, i tornada. Turing feia servir aquests camins per córrer mentre era a Cambridge. El seu millor temps per la [[marató]] era de 2 hores, 46 minuts. En aquella època, el rècord mundial de marató era al voltant de 2 hores, 25 minuts.
+
+El [[10 de setembre]] de [[2009]], el primer ministre de [[Gran Bretanya]], [[Gordon Brown]], demana disculpes al matemàtic pel tracte vexatori que va rebre per la seva homosexualitat, mig segle després de la seva mort, en un escrit al seu blog.ref{{citar web
+| url = http://www.number10.gov.uk/Page20571| títol = Treatment of Alan Turing was “appalling” - PM| data = 2009-09-10| editor = 10 Downing Street| consulta = 2009-09-13| llengua = anglès}}/ref Aquest escrit del primer ministre és el resultat d'una campanya de rehabilitació del matemàtic, posada en marxa per un altre expert en ordinadors, [[John Graham-Cumming]], l'escriptor [[Ian McEwan]] i l'activista i defensor dels drets dels gais [[Peter Tatchell]], amb el suport de milers de signatures adreçades a la pàgina web del [[10 de Downing Street]].ref{{citar web
+| url = http://paper.avui.cat/article/mon/174258/heroi/anys/despres.html| títol = Heroi 55 anys després| autor = Quim Aranda| editor = Avui+|data = 2009-09-12| consulta = 2009-09-13
+}}/ref El primer ministre va admetre que 
+
+citeno és exagerat assegurar que sense la seva increïble contribució la història de la [[Segona Guerra Mundial]] hauria estat una altra./cite
+
+I afegeix: 
+
+{{cita|El deute de gratitud que tenim amb ell fa que sigui més horrible encara la inhumana manera en què va ser tractat. [...] En nom del govern britànic, i de tots aquells que viuen en llibertat gràcies a la feina de l'Alan, estic orgullós de dir: ho sentim, mereixies alguna cosa molt millor.}}
+
+Per commemorar el centenari del seu naixement, es prepara per l'any [[2012]] l'Any Turing.
+
+== Traduccions al català ==
+* {{Ref-llibre
+ |títol= Els ordinadors i la intel·ligència
+ |editorial= [[Obrador Edèndum]] i [[Publicacions URV]]
+ |lloc= [[Santa Coloma de Queralt]]
+ |any= [[2009]]
+ |isbn = 9788493759087
+ |col·lecció= Punt Nodal; 2
+ }} Traducció de Jordi Ainaud
+
+== Referències ==
+{{referències|2}}
+
+== Enllaços externs ==
+{{commonscat|Alan Turing}}
+* [http://www.turing.org.uk/ Alan Turing] web mantingut per Andrew Hodges, que inclou una [http://www.turing.org.uk/bio/part1.html biografia resumida]
+* [http://genealogy.math.ndsu.nodak.edu/id.php?id=8014 Alan Turing] al Projecte de Genealogia Matemàtica
+* [http://www.systemtoolbox.com/article.php?history_id=3 Alan Turing – Towards a Digital Mind: Part 1]
+* [http://www.findagrave.com/cgi-bin/fg.cgi?page=grGRid=12651680 Tomba de Turing]
+* [http://www.alanturing.net/ AlanTuring.net - Arxiu Turing per la Història de la Informàtica] de Jack Copeland
+* [http://www-history.mcs.st-andrews.ac.uk/Biographies/Turing.html Alan Turing] a l'arxiu MacTutor d'Història de la Matemàtica
+* [http://plato.stanford.edu/entries/turing/ article a la Stanford Encyclopedia of Philosophy]
+* [http://www.turingarchive.org L'Arxiu Turing] - conté documents inèdits escanejats i material de l'arxiu de King's College
+* [http://www.time.com/time/time100/scientist/profile/turing.html Time 100:Alan Turing]
+* [http://www.rkbexplorer.com/explorer/#display=person-{http://dblp.rkbexplorer.com/id/people-a27f18ebafc0d76ddb05173ce7b9873d-e0b388b7c1e0985b1371d73ee1fae8b5} Alan Turing a l'RKBExplorer]
+* [http://www.rutherfordjournal.org/article010111.html ''The Mind and the Computing Machine'' un article de 1949 sobre Alan Turing i d'altres] 
+* [http://www.turingcentenary.eu/ Web de l'any Turing]
+* [http://cs.swan.ac.uk/cie12/ CiE 2012: Web de la Conferència del Centenari de Turing]
+
+=== Articles ===
+* [http://bibnetwiki.org/wiki/Category:Alan_M._Turing_Paper Llista extensa dels articles, informes i conferències de Turing, amb versions i col·leccions traduïdes ]
+* {{Citation
+|last = Turing
+|first = Alan
+|authorlink=Alan Turing
+|year=1950
+|title = Computing Machinery and Intelligence
+|journal=Mind
+|issn=0026-4423
+|volume = LIX
+|issue = 236
+|date=Octubre 1950
+|pages= 433–460
+|url =http://loebner.net/Prizef/TuringArticle.html
+|doi=10.1093/mind/LIX.236.433
+ |accessdate=2008-08-18}}
+* Article de Turing [http://www.thocp.net/biographies/papers/turing_oncomputablenumbers_1936.pdf On Computable Numbers with an Application to the Entscheidungsproblem] {{PDF}} 
+
+{{Enllaç AB|en}}
+{{Enllaç AB|ru}}
+{{Autoritat}}
+{{1000 Biografies}}
+
+{{ORDENA:Turing, Alan}}
+
+[[Categoria:Matemàtics londinencs]]
+[[Categoria:Intel·ligència artificial]]
+[[Categoria:Criptògrafs]]
+[[Categoria:Oficials de l'Orde de l'Imperi Britànic]]
+[[Categoria:Activistes LGBT]]
+[[Categoria:Membres de la Royal Society]]
+[[Categoria:Persones relacionades amb Bletchley Park]]
+
+{{Enllaç AD|la}}
+{{Link GA|as}}</text>
+      <sha1>lcm3zsoa8qg6d35fb9io8tl4lep5b4e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

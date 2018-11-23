@@ -1,0 +1,85 @@
+<page>
+    <title>Engranatge epicicloïdal</title>
+    <ns>0</ns>
+    <id>637440</id>
+    <revision>
+      <id>11836470</id>
+      <parentid>11422185</parentid>
+      <timestamp>2013-05-09T07:43:49Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot afegint {{Commonscat}} que enllaça [[commons:category:Planetary gearing]]</comment>
+      <text>[[fitxer: Epicyclic gear ratios.png|thumbnail|300px|L'engranatge planetari s'usa aquí per augmentar la velocitat de sortida. El portasatèl·lits (verd) és impulsat per un parell d'entrada. El planeta (groc) proporciona el parell de sortida, mentre la corona (vermell) roman fixa. Advertiu les marques vermelles abans i després que l'eix d'entrada rote 45 º en el sentit de les agulles del rellotge.]]
+
+Un ''' engranatge planetari ''' o ''' engranatge epicicloïdal ''' és un sistema d'[[engranatge]]s (o '' tren d'engranatges '') consistent en un o més engranatges externs o '' satèl·lits '' que roten sobre un engranatge central o '' planeta ''. Típicament, els satèl·lits es munten sobre un braç mòbil o '' portasatèl·lits '' que al seu torn pot rotar en relació al planeta. Els sistemes d'engranatges planetaris poden incorporar també l'ús d'un engranatge anular extern o '' corona '', que engrana amb els satèl·lits.
+
+L'engranatge planetari més utilitzat es troba dins de la transmissió d'un [[vehicle]].
+
+== Relació de canvi ==
+[[fitxer: Epicyclic carrier locked.png|thumbnail|220px|right|El portasatèl·lits (verd) es deixa estacionari mentre el planeta (groc) s'utilitza com a entrada. Els satèl·lits (blau) giren en una proporció determinada pel nombre de dents de cada engranatge. Aquí, la relació és -24/16 o -3/2; cada satèl·lit gira a 3/2 la velocitat del planeta, en el sentit contrari.]]
+
+La [[velocitat de transmissió]] en un sistema d'engranatge planetari és molt poc intuïtiva, especialment perquè hi ha diverses formes de convertir la rotació d'entrada en una de sortida. Els tres components bàsics d'un engranatge epicicloïdal són:
+
+* '' Planeta '': L'engranatge central.
+* '' Portasatèl·lits '': Subjecta un o més engranatges '' satèl·lit '' perifèrics, de la mateixa mida, engranats amb el planeta.
+* '' Corona '': Un anell extern amb dents en la seva cara interna que engrana amb el o els satèl·lits.
+
+En qualsevol sistema d'engranatge planetari, un d'aquests tres components bàsics roman estacionari, un dels dos restants és l''' entrada '', proporcionant potència al sistema, i l'últim component és la '' sortida '', rebent la potència del sistema. La relació de la rotació d'entrada amb la de sortida depèn del nombre de dents de cada roda i de quin component romangui estacionari.
+
+Una situació és quan el portasatèl·lits roman estacionari i el planeta es fa servir com a entrada. En aquest cas, els satèl·lits simplement roten sobre els seus propis eixos a una velocitat determinada pel nombre de dents de cada engranatge. Si el planeta té '' P '' dents i cada satèl·lit té '' S '' dents, llavors la relació és igual a - '' P ''/'' S ''. Per exemple, si el planeta té 24 dents i cada satèl·lit en té 16, llavors la relació és -24/16 o -3/2, el que significa que cada gir en [[Sentit del rellotge|sentit horari]] produeix 1,5 girs en sentit '' antihorari '' en els satèl·lits.
+
+Aquesta rotació dels satèl·lits pot al seu torn impulsar la corona, en una relació corresponent. Si la corona té '' C '' dents, llavors rotarà '' S ''/'' C '' girs per cada una de les llunes. Per exemple, si la corona té 64 dents i els satèl·lits 16, un gir en sentit horari d'aquests resulta en 16/64 o 1/4 de gir en el mateix sentit de la corona. Estenent aquest cas amb el de dalt:
+
+* Un gir del planeta provoca - '' P ''/'' S '' girs dels satèl·lits
+* Un gir dels satèl·lits provoca '' S ''/'' C '' girs de la corona
+
+Per tant, amb el portasatèl·lits bloquejat, un gir del planeta provoca - '' P ''/'' C '' girs de la corona.
+
+La corona també es pot deixar fixa, realitzant l'entrada sobre el portasatèl·lits, produint així la rotació de sortida al planeta. Aquesta configuració produirà una relació de canvi més gran, igual a 1+'' C ''/'' P ''.
+
+Tot això es descriu amb l'equació:
+
+math \left (2+n \right) \omega_c+n \omega_p - 2 \left (1+n \right) \omega_s = 0 /math
+
+on '' n '' és el factor de forma de l'engranatge planetari, definit segons:
+
+math n ={N_p \over N_s}/math
+
+Si la corona roman estacionària i el planeta es fa servir com a entrada, el portasatèl·lits serà la sortida. La relació de canvi en aquest cas serà 1/(1+'' C ''/'' P ''). Aquesta és la menor relació de canvi assolible amb un sistema d'engranatge epicicloïdal. Aquest tipus d'engranatge s'usa de vegades en [[tractor]]s i equips de construcció per a proporcionar un parell elevat a les rodes.
+
+Poden situar-se més engranatges satèl·lits i planeta en sèrie en el mateix sistema (de manera que l'eix de sortida de cada etapa sigui el d'entrada de la següent), aconseguint així un tren amb una major (o menor) relació de canvi. D'aquesta manera és com funcionen algunes [[transmissió automàtica|transmissions automàtiques]].
+
+[[fitxer: Train planetaire.png|thumb|Tren planetari.]]
+
+Durant la Segona Guerra Mundial, es va desenvolupar una variant especial de l'engranatge epicicloïdal per als [[radar]]s portàtils, que necessitaven una relació reductora molt elevada en molt poc volum. Aquesta variant tenia dos engranatges anulars externs, cadascun amb la meitat de gruix que els altres engranatges. Un d'aquests dos anells externs es mantenia fix i tenia menys dents que l'altre. D'aquesta manera, diversos girs del planeta feia que els satèl·lits completaren una única revolució, que al seu torn feia que l'engranatge anular lliure rotés un sol dent.
+
+== Vegeu també ==
+* [[Diferencial (mecànica)|Diferencial]]
+* [[Roda de Falkirk]]
+* [[Vehicle híbrid]]
+* [[Relació de transmissió]]
+* [[Mecanisme]]
+* [[Caixa reductora]]
+* [[Caixa de canvis]]
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://www.mekanizmalar.com/transmission.html Veure animació de l'engranatge epicicloïdal o planetari (en anglès)]
+* [http://www.km77.com/glosario/e/engrplan.asp Descripció de l'engranatge planetari]
+* [http://www.cajas-automaticas.com Informació sobre caixes automàtiques]
+* [http://spn-hopf.partcommunity.com Models 3D CAD d'engranatges Planetaris]
+
+{{Automòbil}}
+
+{{ORDENA:Engranatge Epicicloidal}}	!--ORDENA generat per bot--
+[[Categoria:Enginyeria mecànica]]
+[[Categoria:Automoció]]</text>
+      <sha1>i4h6av08pda286iyalvkx0ah88iyi0m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

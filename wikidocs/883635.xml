@@ -1,0 +1,107 @@
+<page>
+    <title>Aeroport de Basilea-Mulhouse-Friburg</title>
+    <ns>0</ns>
+    <id>883635</id>
+    <revision>
+      <id>13839269</id>
+      <parentid>12586082</parentid>
+      <timestamp>2014-07-16T01:38:00Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Aeroport
+| name = Aeroport de Basilea-Mulhouse-Friburg
+| nativename = Flughafen Basel-Mülhausen-FreiburgbrAéroport Bâle-Mulhouse-Fribourg
+| image2 = Aéroport Bâle-Mulhouse 2.jpg
+| image2-width = 280
+| caption =
+| IATA = BSL, MLH, EAP
+| ICAO = LFSB
+| type = Públic
+| owner =
+| operator =
+| city-served = [[Basilea]], {{bandera|Suïssa}} [[Suïssa]] / [[Mülhausen|Mulhouse]], {{bandera|França}} [[França]] / [[Friburg de Brisgòvia]], {{bandera|Alemanya}} [[Alemanya]]
+| elevation-f = 885
+| elevation-m = 270
+| coordinates = {{Coord|47|35|24|N|007|31|45|E|type:airport_region:FR|display=inline,title|name=Aeroport de Basilea-Mulhouse-Friburg}}
+| website = [http://www.euroairport.com/ www.EuroAirport.com]
+| metric-rwy = y
+| r1-number = 15/33
+| r1-length-f = 12.795
+| r1-length-m = 3.900
+| r1-surface = [[Formigó]]
+| r2-number = 08/26
+| r2-length-f = 5.971
+| r2-length-m = 1.820
+| r2-surface = Formigó
+| r3-number = 15R/33L
+| r3-length-f = 2.067
+| r3-length-m = 630
+| r3-surface = [[Herba]]
+| footnotes = Font: [[Aeronautical Information Publication|AIP]] a [[EUROCONTROL]]ref name=AIP2[http://www.ead.eurocontrol.int/publicuser/protect/pu/main.jsp EAD Basic]/ref
+}}
+
+L''''Aeroport de Basilea-Mulhouse-Friburg''' {{codis aeroportuaris|BSL, MLH, EAP|LFSB}} (en [[alemany]]: ''Flughafen Basel-Mülhausen-Freiburg''; en [[francès]]: ''Aéroport Bâle-Mulhouse-Fribourg'') o també anomenat '''EuroAirport''' és un [[aeroport]] situat a 6 km al nord-oest de [[Basilea]] ([[Suïssa]]), a 22 km al sud-est de [[Mülhausen|Mulhouse]] ([[França]]) i a 70 km al sud de [[Friburg de Brisgòvia|Friburg]] ([[Alemanya]]). Està localitzat en territori francès, concretament dins el [[municipi]] de [[Saint-Louis (Alt Rin)|Saint-Louis]], prop de les fronteres suïssa i alemanya. L'any [[2010]] va gestionar 4.129.052 passatgers i 77.152 moviments d'aeronaus.ref[http://www.euroairport.com/EN/euroairport.php?PAGEID=86lang=EN Statistics of the EuroAirport]. EuropAirport./ref
+
+==Història==
+L'aeroport de Basilea-Mulhouse-Friburg va ser inaugurat, després de només dos mesos de treballs, el [[8 de maig]] de [[1946]]. El projecte ja havia estat planificat durant la [[Segona Guerra Mundial]]. [[França]] va facilitar els terrenys i [[Suïssa]] va construir les [[pista d'aterratge|pistes d'aterratge]] i els edificis.
+
+==Aerolínies i destinacions==
+{{Airport-dest-list
+|[[Aigle Azur]]|Alger, Constantina, Orà, Sétif
+|[[Air Algérie]]|Constantina
+|[[Air Arabia Maroc]]|Casablanca
+|[[Air Berlin]]|Berlín-Tegel, Fuerteventura, Las Palmas de Gran Canaria, Palma, Tenerife-Sudbr '''de temporada''': Catània, Heraklion, Eivissa, Kos, Lamezia Terme, Malta, Rhodes
+|[[Air France]]|París-Orly
+|Air France operat per [[CityJet]]|Amsterdam
+|Air France operat per [[Régional Compagnie Aérienne Européenne|Régional]]|Lió, París-Charles de Gaulle br '''de temporada''': Ajaccio
+|[[Air Mediterranée]]|'''de temporada:''' Jijel
+|[[Air Transat]]| '''de temporada''': Montréal-Trudeau
+|[[Air VIA]]| '''de temporada''': Burgas
+|[[Austrian Airlines]] operat per [[Tyrolean Airways]]|Viena
+|[[Belair]]|Hurghada, Luxor, Sharm el-Sheikh br '''de temporada''': Antalya, Djerba, Enfidha, Marsa Alam, Nador
+|[[British Midland Airways|BMI]]|Londres-Heathrow, Manchester
+|[[British Airways]]|Londres-Heathrow
+|[[EasyJet]]| Barcelona, Berlín-Schönefeld, Madrid, Londres-Gatwick, Edinburgh
+|[[EasyJet Switzerland]]|Alacant, Amsterdam, Berlín-Schönefeld, Bordeus, Copenhagen, Dresden, Düsseldorf, Edinburgh, Fuerteventura, Las Palmas de Gran Canaria, Hamburg, Istanbul-Sabiha Gökçen, Lisboa, Màlaga, Marrakech, Nantes, Nàpols, Niça, Palma, Porto, Pristina, Roma-Fiumicino, Tel Aviv, Tenerife-Sud, Tessalònica, Venècia-Marco Polo br '''de temporada''': Ajaccio, Cagliari, Olbia, Split
+|[[Hello (aerolínia)|Hello]]|Corfú, Djerba, Heraklion, Palma
+|[[Iceland Express]]| '''de temporada''': Reykjavik-Keflavik
+|[[KLM]] operat per [[KLM Cityhopper]]|Amsterdam
+|[[Lufthansa Regional]] operat per [[Augsburg Airways]]|Munic
+|Lufthansa Regional operat per [[Lufthansa CityLine]]|Frankfurt, Munic
+|Lufthansa Regional operat per [[Eurowings]]|Düsseldorf
+|[[Pegasus Airlines]]|Antalya, Bodrum, Istanbul-Sabiha Gökçen
+|Pegasus operat per [[IZair]]|Izmir
+|[[Swiss International Air Lines]] operat per [[Swiss European Air Lines]]|Barcelona, Brussel·les, Budapest, Copenhagen, Hamburg, Londres-City, Praga, Roma-Fiumicino, Venècia, Zuricbr '''de temporada:''' Niça
+|[[TUIfly]]|Fuerteventura, Las Palmas de Gran Canaria br '''de temporada''': Burgas, Corfu, Heraklion, Kos, Menorca, Palma, Rhodes, Tenerife-Sud
+|[[Tunisair]]|Djerba
+|[[Turkish Airlines]]|Istanbul-Atatürk
+|[[Twin Jet]]|Marseilles, Tolosa
+}}
+
+==Referències==
+{{referències}}
+
+== Enllaços externs ==
+{{Commonscat|Euroairport}}
+
+* [http://www.euroairport.com/ Pàgina web oficial de l'aeroport de Basilea-Mulhouse-Friburg]
+* [http://www.aeroport.fr/les-aeroports-de-l-uaf/bale-mulhouse.php Informació de l'aeroport a Union des Aéroports Français]
+* {{WAD|LFSB}}
+
+{{Aeroports de Suïssa}}
+{{Autoritat}}
+
+[[Categoria:Aeroports de França]]
+[[categoria:Aeroports de Suïssa]]
+[[categoria:Basilea]]
+[[categoria:Districte de Mulhouse]]
+[[categoria:Friburg de Brisgòvia]]</text>
+      <sha1>f6gflbw9dfegynh0ywxztax3hgcrb86</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

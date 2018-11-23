@@ -1,0 +1,77 @@
+<page>
+    <title>Richard Hamming</title>
+    <ns>0</ns>
+    <id>527210</id>
+    <revision>
+      <id>13819171</id>
+      <parentid>13546634</parentid>
+      <timestamp>2014-07-14T06:34:32Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>'''Richard Wesley Hamming''' ([[1915]] - [[1998]]) fou un matemàtic nord-americà que va treballar en temes relacionats amb la informàtica i les telecomunicacions. Les seves principals contribucions a la ciència han estat el [[codi Hamming]], la [[finestra Hamming]] i la [[distància Hamming]].
+
+== Biografia ==
+
+Hamming va néixer a [[Chicago]], [[Illinois]], l'[[11 de febrer]] de [[1915]].
+
+Es va llicenciar per la [[Universitat de Chicago]] el 1937. El 1939 realitzaria un màster a la [[Universitat de Nebraska]] i finalment es va doctorar per la [[Universitat Urbana-Champaign]] de [[Illinois]] el 1942. Durant la [[Segona Guerra Mundial]], va ser professor a la [[Universitat de Louisville]], treball que abandonaria per integrar-se en 1945 al [[projecte Manhattan]]. Allà va desenvolupar el seu treball programant una de les primeres calculadores numèriques electròniques, per a determinar la solució a algunes equacions proporcionades pels físics del projecte. L'objectiu del programa era descobrir si la detonació d'una bomba atòmica podria incendiar l'atmosfera. El resultat del càlcul era que la ignició no passaria, així que els Estats Units van utilitzar la bomba, primer com a prova en [[Nou Mèxic]] i poc més tard dues vegades contra [[Japó]].
+
+Entre els anys 1946-1976, va treballar en els [[laboratoris Bell]], on va col·laborar amb [[Claude E. Shannon]]. El [[23 de juliol]] de [[1976]] es va traslladar a la [[Naval Postgraduate School]], on va treballar com a professor adjunt fins a [[1997]], arribant a ser [[Professor Emeritus]].
+
+Va ser fundador i president de la [[Association for Computing Machinery]].
+
+Va morir a [[Monterey]], [[Califòrnia]] el [[7 de gener]] de [[1998]].
+
+== Reconeixements professionals ==
+* President de la [[Association for Computing Machinery]], de la qual va ser fundador, 1968.
+* Soci del [[IEEE]], 1968.
+* Premi Turing, 1968
+* Premi [[Emanuel R. Piore]] per la IEEE, 1979.
+* Membre de la [[National Academy of Engineering]], 1980.
+* Premi [[Harold Pender]] per la [[Universitat de Pennsilvània]], 1981.
+* [[Richard W. Hamming Medal | Medalla Richard W. Hamming]] per la IEEE, 1988.
+* Premi [[Eduard Rhein]], 1996.
+
+La medalla que porta el seu nom, i que va ser el primer a rebre, és un premi que dóna anualment la IEEE per les contribucions excepcionals a les ciències i tecnologies de la informació.
+
+== Llibres ==
+*''Numerical Methods for Scientists and Engineers'', [[McGraw-Hill]], 1962; segona edició 1973. Reimpressió de l'editorial Dover el 1985.
+*''Calculus and the Computer Revolution'', [[Houghton-Mifflin]], 1968.
+*''Introduction To Applied Numerical Analysis'', McGraw-Hill, 1971.
+*''Computers and Society'', McGraw-Hill, 1972.
+*''Digital Filters'', [[Prentice Hall]], 1977; segona edició el 1983; tercera edició 1989. ISBN 0-486-65088-X Reimpressió de l'editorial Dover a 2001.
+*''Coding and Information Theory'', Prentice Hall 1980; segona edició el 1986.
+*''Methods of Mathematics Applied to Calculus, Probability, and Statistics'', Prentice Hall, 1985. Reimpressió de l'editorial Dover el 2005.
+*''The Art of Probability for Scientists and Engineers'', [[Addison-Wesley]], 1991.
+*''The Art of Doing Science and Engineering: Learning to Learn'', [[Gordon and Breach]], 1997.
+
+== Cites ==
+*''Les màquines han de treballar. La gent ha de pensar.''
+*''Hi ha longituds d'ona que la gent no pot veure, hi ha sons que la gent no pot sentir, i potser els ordinadors tinguin pensaments que la gent no pugui pensar ..''(De la conferència [http://www . cs.virginia.edu / ~ robins / YouAndYourResearch.html You and Your Research]).
+*''El propòsit de la computació és intrínsec, no el d'obtenir números.''
+*''[[Isaac Newton | Newton]] va dir, Si he pogut veure més enllà que altres és perquè m'he recolzat en espatlles de gegants. Aquests dies ens recolzem en els peus d'un altre!''(De la conferència [http://www.cs.virginia.edu/ ~ robins / YouAndYourResearch.html You and Your Research]).
+* Quins són els problemes més importants de la teva àrea? Estàs treballant en algun d'ells? Per què no? (Adaptat de la conferència [http://www.cs.virginia.edu/ ~ robins / YouAndYourResearch.html You and Your Research])
+*''El [[Institute for Advanced Study]] de Princeton, al meu parer, ha arruïnat més científics bons que els que qualsevol altra institució hagi creat.''(De la conferència [http://www.cs.virginia. edu / ~ robins / YouAndYourResearch.html You and Your Research])
+*''És millor resoldre el problema adequat d'una manera equivocada, de resoldre un problema equivocat d'una forma correcta.''
+*''Cuida't de trobar allò que busques.''[Http://itre.cis.upenn.edu/ ~ myl/languagelog/archives/000966.html]
+*''No pots tenir una ciència si no tens mesures.''
+
+== Enllaços externs == 
+*[http://www.ugr.es/~aieda/RichardHamming.html Richard Wesley Hamming]
+
+
+{{Premi Turing}}
+{{Autoritat}}
+{{ORDENA:Hamming, Richard}}
+
+[[Categoria:Matemàtics estatunidencs]]
+[[Categoria:Científics de Chicago]]</text>
+      <sha1>h3iruens9d38bb1ljlq5ss1c7ad80uv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

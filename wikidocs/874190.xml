@@ -1,0 +1,90 @@
+<page>
+    <title>Ala en fletxa</title>
+    <ns>0</ns>
+    <id>874190</id>
+    <revision>
+      <id>13695813</id>
+      <parentid>13594252</parentid>
+      <timestamp>2014-06-27T15:52:22Z</timestamp>
+      <contributor>
+        <username>Joutbis</username>
+        <id>32106</id>
+      </contributor>
+      <comment>interwikis que sobren</comment>
+      <text>[[Fitxer: Ala en flecha.svg|180px|thumb|Esquema d'un avió amb configuració d'ala en fletxa.]]
+
+L '''' ala en fletxa ''' és una configuració alar comuna en els avions d'alta velocitat. La forma més comuna d'ala en fletxa és amb els extrems d'aquestes dirigits cap enrere, en comptes de formar un angle recte amb el [[fuselatge]], però, la configuració oposada (amb els extrems de les ales dirigits cap endavant) també és utilitzada en alguns avions.
+
+== Història ==
+[[Fitxer: aspect.ratio.b52.arp.jpg|250px|thumb|Un [[B-52 Stratofortress]] mostrant unes ales en fletxa amb un angle relativament agut per un avió de transport.]]
+
+[[Fitxer: Biz Jet - Swept Wings and Tail.jpg|thumb|250px|Les ales en fletxa d'un avió executiu gran.]]
+
+Aquest efecte ja era conegut cap al [[1930]], però com que els avions per aquesta època volaven a velocitats reduïdes, es considerava un tema d'interès purament acadèmic. L'existència de grans motors en la part anterior dels avions feia difícil obtenir un [[ràtio de finesa]] adequat, i tot i que era possible fabricar ales primes i amples, aquestes característiques resultaven en una reducció de la seva resistència. L'avió britànic [[Supermarine Spitfire]] va utilitzar ales tan primes com era possible per disminuir la força d'arrossegament a altes velocitats, encara que això va produir una sèrie de problemes aerodinàmics com ara inestabilitats en el control. Els dissenys alemanys en canvi van optar per ales més gruixudes de major resistència i major espai intern que permetien guardar el tren d'aterratge, combustible i armament, encara que a costa d'una major força d'arrossegament.
+
+Una solució pràctica ja havia estat presentada per enginyers alemanys en una reunió de temes d'aeronàutica que va tenir lloc el [[1936]] a [[Itàlia]]. En la seva presentació ells van notar que l'alt o espessor de l'ala per als seus càlculs s'havia de mesurar al llarg de la direcció del flux d'aire en lloc de mesurar al llarg de la línia de la corda de l'ala. D'aquesta manera una ala grossa podia ser aprimada al girar fins a aconseguir un angle relatiu a la direcció del flux d'aire orientant cap enrere (en fletxa). Atès que per aquesta època la velocitat màxima dels avions gairebé no arribava als 400 km/h, la presentació alemanya no va tenir una aplicació immediata.
+
+Amb la introducció dels [[Reactor (motor)|motors de reacció]] en l'última meitat de la [[Segona Guerra Mundial]] l'aplicació de l'ala en fletxa es va fer rellevant. Els avions alemanys [[Messerschmitt Me 262]] (amb motor de reacció) i [[Messerschmitt Me 163]] (impulsat per un motor coet) patien els efectes de la compressibilitat, el que els feia molt difícils de controlar a altes velocitats. A més les altes velocitats els situaven l'el règim de ''' '' wave drag ''' '', i qualsevol cosa que pogués reduir aquest efecte incrementaria les prestacions d'aquests aparells, sobretot el reduït temps de vol, de l'ordre de minuts.
+
+Per aquestes raons es va llançar un pla massiu per introduir dissenys d'ales en fletxa, tant per als avions caça com per als [[bombarder]] s. Per a això es va construir el Messerschmitt Me P.1101, com avió de prova prototip, per investigar les característiques i particularidaes del disseny i establir quins eren els angle òptim de la fletxa per a les ales. Cap dels dissenys va estar consolidat com per ser utilitzat abans de la finalització de la [[Segona Guerra Mundial]], però el P.1101 va ser capturat per l'exèrcit nord-americà i enviat als [[Estats Units]]. Als Estats Units es van construir dues còpies amb motors nord-americans que es van utilitzar per avançar en la investigació i que van ser coneguts com a [[Bell X-5]].
+
+La introducció dels avenços alemanys en el camp de les ales en fletxa a l'aeronàutica van causar una petita revolució, i gairebé tots els dissenys en curs van ser modificats per incorporar ales en fletxa. Una víctima interessant va ser el [[Milers M-52]], el projecte va ser cancel, el mateix era un intent de disseny d'ales rectes per intentar trencar la barrera del so. Quan el disseny d'ala en fletxa va sortir a la llum el projecte va ser cancel, ja que es pensava que tindria molta més resistència a trencar la barrera del so, però poc després però als EUA van fer exactament això amb el [[Bell X-1]]. El 1945, [[Robert T. Jones]] un enginyer de l'[[NACA]] va desenvolupar la [[teoria del escombrat]] que va perfeccionar el concepte d'ala en fletxa i va permetre estudiar la seva capacitat de reduir els efectes de l'ona de xoc en els [[nombre de Mach|nombres de Mach]] crítics. A principi dels [[dècada del 1950]] la majoria dels avions de combat utilitzaven ales en fletxa. Va ser llavors quan un altre problema descobert pels alemanys va sortir a la llum.
+
+== Velocitat del so ==
+[[Fitxer: F-14 breaks the sound barrier.jpg|left|thumb|[[F-14 Tomcat]], un exemple d'aeronau amb ales de geometria variable, en aquest cas en configuració per a alta velocitat (angle de les ales més agut ) per trencar millor la barrera del so]]
+
+Les ales en fletxa s'empren en avions que realitzen part dels seus vols en velocitats al voltant de la [[velocitat del so]]. Inicialment només es van utilitzar en avions de combat, però actualment es poden veure en pràcticament tots els avions de reacció, incloent avions de línia regular o privats.
+
+Quan una aeronau s'aproxima a la velocitat del so, comença a aparèixer el fenomen conegut com a [[buffer]].ref name = avion249  Varis, En què consisteix el flutter i el buffer? - Escola de Vol, número 249 de [[Avió Revue]], [[Motorpress Ibèrica]], [[Madrid]], març de [[2003]] /ref L'aire arriba a velocitats supersòniques en els extrems de les ales i aquesta zona de velocitat supersònica acaba en una ona de xoc obliqua, que és pràcticament perpendicular a la part superior de l'ala. Les pèrdues de l'ona de xoc normal incrementen l'arrossegament. El xoc pot fer-se més oblic fent que el perfil de l'aeronau canviï tan gradualment com sigui possible (alt [[ràtio de finesa]] o fineness ràtio en anglès).
+
+En lloc de canviar el perfil és possible actuar indirectament mitjançant [[ala swing]] sobre estenent les ales amb cossos anti-xoc, els quals produeixen efectes mínims a baixes velocitats. Aquests mètodes també desplacen el xoc en una altra direcció (que no és visible en una vista en tall del perfil alar) especialment amb ales en fletxa cap endavant: el xoc passa a prop del flanc d'atac. Sweep back in conjunction with taper is useful only if the wing is swept forward.
+
+Per a vols supersònics la vora d'atac de l'ala ha de ser molt [[F-104 Starfighter|agut]] o swept back.
+
+== Desavantatges ==
+[[Fitxer: maule.m7-235b.arp.jpg|thumb|250px|Alas rectes d'un avió lleuger Maule M-7-235B Super Rocket]]
+
+Quan un avió amb ales en fletxa vola a gran velocitat, el flux d'aire té poc temps per reaccionar i simplement flueix sobre l'ala. A velocitats més baixes, part de l'aire és empès lateralment cap als extrems de les ales. En l'arrel de les mateixes, aquest efecte és menyspreable, però a mesura que ens acostem als extrems el flux d'aire és empès lateralment no només per les ales, també pel moviment lateral de l'aire que té a sota. Així, a l'extrem, el flux d'aire es mou al llarg de l'ala, en comptes de passar-hi, aquest fenomen es coneix com ''' '' spanwise flow ''' ''.
+
+L'empenta sobre un ala és generat pel flux d'aire sobre ella des seu front cap a la seva cua. A causa d'un increment dels viatges d'envergadura, la quantitat de flux des del frontal cap a la cua es redueix, portant a una pèrdua de força d'enlairament. Normalment no és un problema, però com que els avions redueixen la velocitat per aterrar els extrems poden realment caure per sota del punt de [[entrada en pèrdua]] fins i tot a velocitats on aquestes entrades no haurien de passar. Quan això passa els grans negocis pèrdua i com l'extrem està estès cap a la cua, l'elevació neta es mou cap endavant. Això causa que l'avió es llanci cap amunt, conduint a més entrada en Peridà de les ales, portant a un llançament major i així. Aquest problema ve sent conegut com a '' [[Sabre dance]] '' en referència als [[North American F-86 Sabre]] que van tenir accidents com a resultats d'aterratges.
+
+Es van desenvolupar diverses solucions per aquest problema. Una va ser l'agregat d'una faixa de metall anomenada '' [[wing fence]] '' sobre la superfície superior de l'ala per canalitzar el flux cap enrere (aquesta solució es va usar per exemple en el [[MiG-15]]), un altre disseny similar va ser l'agregat d'un tall de dent de gos a l'extrem davanter ([[Avro Arrow]]). Altres dissenys seguir idees més radicals, incloent l'ala de l'[[XF-91 Thunderceptor]] que augmentava el seu gruix cap a l'extrem per proveir més força d'enlairament i els britànics es van inclinar per una mitja lluna '' compound sweep '' o '' ala ciomitarra '' que reduïa l'escombrat al llarg de l'envergadura, utilitzat en el [[Handley Page Victor]], un dels [[Bombarders Sèrie V]].
+
+Les solucions modernes al problema no van necessitar més dissenys personalitzats com aquest. L'addició de tauletes a l'extrem frontal i un gran [[dispositiu hipersustentador]] en les ales ha resolt bastant bé el problema. En dissenys de combatem l'addició de [[LEX (aeronàutica)|LEXs]], inclosos per a alta maniobrabilitat, també serveixen per a afegir empenta durant l'aterratge i reduir el problema.
+
+L'ala en fletxa té diversos problemes més. Un és que qualsevol, la força de l'ala, l'envergadura real extrem a extrem és més curta que la de qualsevol ala que no és en fletxa. L'arrossegament a baixa velocitat està correlacionat amb la [[relació d'aspecte]], l'envergadura comparada amb la corda, tal que una ala en fletxa sempre té més arrossegament a baixa velocitat. Un altre problema és el torque aplicat per l'ala del fuselatge, tant que l'empenta de l'ala baixa per darrere del punt on l'arrel de l'ala es connecta a l'avió. Finalment, mentre que és realment fàcil ubicar els '' sparse '' principals de l'ala a través del fuselatge en un disseny d'ala recte per a utilitzar una única peça de metall contínua, això no és possible en l'ala en fletxa perquè els '' sparse '' es trobarien en aquest angle.
+
+== Ala en fletxa invertida ==
+[[Fitxer: Grumman-X29-InFlight.jpg|thumb|250px|[[Grumman X-29]] un avió experimental mostrant un exemple extrem d'ales en fletxa dirigides cap endavant.]]
+
+{{AP|Ala en fletxa invertida}}
+
+Un dels dissenys alares menys estables aerodinàmicament és el de les ales en fletxa invertida. Tot i això, aquest disseny proporciona a l'avió una extraordinària agilitat i maniobrabilitat. L'[[Grumman X-29]] de [[1984]] va ser un projecte experimental que va permetre provar la millora de la maniobrabilitat que aportava aquesta tecnologia. L'[[Sujoi El seu-47|La seva-47]] Berkut és un altre notable exemple d'ocupació d'aquesta solució tècnica. Amb les ales en fletxa invertida es fan necessaris els sistemes de vol assistits per ordinador i els sistemes [[fly by wire]].
+Si l'angle de la fletxa invertida no és excessiu, la inestabilitat no és tan acusada. De fet, és una configuració utilitzada en molts [[planador]] és biplaces per tal de fer coincidir el [[centre de masses]] i el [[centre d'empenta]] de l'aeronau. Això és necessari per permetre que el naixement de les ales [[Spar (aviació)|Spar]] estigui situat després del seient del darrere de l'aparell.
+
+== Vegeu també ==
+* [[Ala en delta]]
+* [[Planform]]
+* [[Sweep theory]]
+* [[Nombre de Mach]]
+* [[Teoria de von Karman]], primer a reconèixer les importància de la forma de les ales en forma de fletxa.
+
+== Referències ==
+{{Referències}}
+
+== Enllaços externs==
+
+* [http://www.b2streamlines.com/EffectiveDihedral.pdf # search =% 22swept% 20wings% 22 '' Swept Wings and Effective dihedral '']
+* [http://selair.selkirk.bc.ca/aerodynamics1/High-Speed/Page5.html Supersonic wing designs]
+* [http://www.century-of-flight.net/Aviation% 20history/evolution% 20of% 20technology/Swept% 20Wings% 20and% 20the% 20B-47% 20Bomber.htm The development of swept wings]
+* [http://home.att.net/# jbaugher1/p63_11.html The L-39 and swept wing research]
+* [http://selair.selkirk.bc.ca/aerodynamics1/Stability/Page5.html Swept wings and lateral stability]
+
+{{ORDENA:Ala En Fletxa}}
+
+[[Categoria:Configuracions d'ales|Fletxa]]</text>
+      <sha1>jx0vjfwqjl8htfx1clvysdpz44iackh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

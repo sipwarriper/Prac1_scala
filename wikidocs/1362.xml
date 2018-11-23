@@ -1,0 +1,144 @@
+<page>
+    <title>Kurt Gödel</title>
+    <ns>0</ns>
+    <id>1362</id>
+    <revision>
+      <id>14033212</id>
+      <parentid>14029506</parentid>
+      <timestamp>2014-09-10T18:42:31Z</timestamp>
+      <contributor>
+        <username>ArnauBot</username>
+        <id>90823</id>
+      </contributor>
+      <comment>Robot catalanitza noms i paràmetres de plantilles</comment>
+      <text>{{Infotaula científic
+|nom= Kurt Gödel
+|nom_naixement= Kurt Gödel
+|imatge=
+|imatge_amplada=
+|llegenda= 
+|data_naixement= {{Data naixement|mf=yes|1906|4|28}}
+|lloc_naixement= [[Brno]], [[Moràvia]], [[Imperi Austrohúngar|Imperi austrohúngar]]
+|data_mort= {{Data defuncio i edat|mf=yes|1978|1|14|1906|4|28}}
+|lloc_mort= [[Princeton]], [[New Jersey]], [[Estats Units d'Amèrica]]
+|residencia= Estats Units d'Amèrica
+|ciutadania= austríac i estatunidenc
+|camp = [[Matemàtiques|matemàtic]]
+|institucions_treb = [[Institut d'Estudis Avançats de Princeton]] 
+|alma_mater= [[Universitat de Viena]]
+|assessor_doctor= [[Hans Hahn]]
+|estudiants_doctor= 
+|conegut_per= [[Teorema d'incompletesa de Gödel|Teorema d'incompletesa]]
+|premis = [[Premi Albert Einstein]] (1951)
+|religió= 
+|signatura= Kurt Gödel signature.svg
+|notes_peu=
+}}
+
+'''Kurt Gödel'''  ([[28 d'abril]] de [[1906]] [[Brno]] (Brünn), [[Imperi Austrohúngar|imperi austrohúngar]] (avui [[República Txeca]]) – [[14 de gener]] de [[1978]] Princeton, [[New Jersey]], [[Estats Units d'Amèrica]]) fou un [[Matemàtiques|matemàtic]] [[Àustria|austríac]]-[[Estats Units|americà]], un [[Lògica|lògic]] profund que va desenvolupar el [[Teorema d'incompletesa de Gödel|teorema d'incompletesa]], afirmant que qualsevol [[axioma|sistema axiomàtic]] consistent prou potent per descriure l'[[aritmètica]] dels [[nombre enter|enters]] permet [[proposicions]] (sobre [[nombre enter|enters]]) que no es poden provar ni refutar. També va produir una feina celebrada sobre la [[Hipòtesi del Continu|hipòtesi del continu]], en què demostrà que no es pot refutar del conjunt d'[[axioma|axiomes]] de [[teoria de conjunts]] i suposant que aquests [[axioma|axiomes]] són consistents.ref name=GEC{{GEC|0030307}}/ref 
+
+Es pot argumentar que Kurt Gödel és el més gran [[Lògica|lògic]] del [[segle XX]] i un dels tres [[Lògica|lògics]] més grans de la [[història]] (formant un triumvirat [[Lògica|lògic]] amb [[Aristòtil]] i [[Gottlob Frege]]). 
+
+==Biografia==
+
+Kurt Friedrich Gödel va néixer el 28 d'abril de 1906, a Brno la capital de la [[Moràvia]] Austrohúngara (actualment Brno, República Txeca) en una família ètnic-alemanya acomodada, composta per Rudolf August Gödel, home de negocis i administrador d'una fàbrica de tèxtils, i Marianne Gödel (nascuda Handschuh), una dona educada i culta qui va romandre propera a Gödel durant tota la seva vida (tal com es pot observar en l'extensa correspondència entre ambdós) .refDawson 1997, pp. 3-4/ref Al moment del seu naixement la seva ciutat comptava amb la majoria de població de parla alemanaref{{ref-web|url=http://en.wikisource.org/w/index.php?title=1911_Encyclopædia_Britannica/Brünnoldid=447734|títol=1911 Encyclopædia Britannica/Brünn|consulta=13-03-2008 }}/ref i aquest era l'idioma dels seus pares.refDawson 1997, p. 12/ref
+
+Gödel que parlava molt poc el txec es va convertir automàticament en txecoslovac a l'edat de 12 anys després de la caiguda de l'[[imperi Austrohúngar]] al final de la [[Primera Guerra Mundial]]. Posteriorment li va explicar al seu biògraf John W. Dawson que durant aquest temps se sentia com un exiliat austríac a Txecoslovàquia (''ein Österreicher im Exil in der Tschechoslowakei''). Va decidir convertir-se en ciutadà austríac a l'edat de 23 anys. Quan l'Alemanya nazi va annexionar Àustria Gödel automàticament es va convertir en ciutadà alemany a l'edat de 32 anys. Després de la [[Segona Guerra Mundial]], a l'edat de 42 anys, es va convertir en ciutadà nord-americà.
+
+En la seva família, al jove Kurt l'anomenaven Herr Warum (Sr. Per què) a causa de la seva insaciable curiositat. L'única excepció a una infància sense incidents va ser el que a partir dels quatre anys Kurt va patir pèrdues de salut i febres reumàtiques, de les quals es va recuperar completament, però va quedar convençut per la resta de la seva vida que el seu cor havia sofert un dany permanent.
+
+Va assistir a l'escola primària i secundària en idioma alemany a Brno de la qual es va graduar amb honors en 1923 i va sobresortir en matemàtiques, idiomes i religió. En el transcurs de la seva adolescència Kurt va estudiar, entre altres matèries, la [[Teoria dels colors]] de [[Goethe]], crítiques d'[[Isaac Newton]] i l'obra d'[[Immanuel Kant]].
+
+A l'edat de 18 anys Kurt es va reunir amb el seu germà major Rudolf (nascut en [[1902]]) i va ingressar a la [[Universitat de Viena]]. Llavors ja dominava les matemàtiques en l'àmbit universitari i encara que al principi va pretendre estudiar física teòrica, també va assistir a cursos de filosofia impartits per [[Heinrich Gomperz]] i de matemàtiques. Durant aquest període va adoptar idees de l'empirisme matemàtic, va llegir els ''Metaphysische Anfangsgründe der Naturwissenschaft'' (Fonaments metafísics de la ciència natural) de [[Kant]], i encara que ell mateix no va ser un positivista lògic participar en reunions del [[Cercle de Viena]] amb [[Moritz Schlick]], [[Hans Hahn]] i [[Rudolf Carnap]], sent aquests dos últims de qui va aprendre lògica. Després va estudiar també la teoria dels números, i va ser assistir a un seminari dirigit per Schlick, en el qual s'estudiava el llibre ''Introducció a la lògica matemàtica'' de [[Bertrand Russell]], el que el va motivar a interessar per la lògica matemàtica.
+
+El fet d'assistir a una conferència de [[Hilbert]] sobre la completesa i la consistència dels sistemes matemàtics podria haver estat el que va decidir el curs de la seva vida. El 1928 Hilbert i Wilhelm Ackermann van publicar els ''Grundzüge der theoretischen Logik'' (Principis de lògica teòrica), una introducció a la lògica de primer ordre en la qual es plantejava el problema de la completesa: ''Són suficients els axiomes d'un sistema formal per a derivar cadascuna de les proposicions veritables en tots els models del sistema?''  Aquest va ser el tema triat per Gödel per a la seva dissertació doctoral.
+
+El [[1929]], a l'edat de 23 anys, va completar la seva dissertació sota la supervisió de Hans Hahn, en la qual Gödel va establir la completesa del càlcul de predicats de primer ordre (aquest resultat es coneix ara com el teorema de completesa de Gödel). El títol de Dr. Phil. li va ser concedit en [[1930]] i la seva tesi, al costat de treball addicional, va ser publicada per l'Acadèmia de Ciències de Viena.refGödel, Kurt, 1986, Collected Works. I: Publications 1929–1936. S. Feferman, S. Kleene, G. Moore, R. Solovay, and J. van Heijenoort (eds.), Oxford: Oxford University Press./ref
+
+==Obra a Viena==
+El [[1931]] Gödel va publicar els seus cèlebres [[Teorema d'incompletesa de Gödel|teoremes de la incompletud]] en ''Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme'' (Sobre proposicions formalment indecidibles de Principia Mathematica i sistemes relacionats). En aquest article va demostrar que per a tot sistema axiomàtic computable que sigui prou poderós per a descriure l'aritmètica dels nombres naturals (els [[axiomes de Peano]]), llavors:
+
+# Si el sistema és consistent, no pot ser complet. (A això generalment se li coneix com el teorema de la incompletud).
+# La consistència dels [[Axioma|axiomes]] no pot demostrar a l'interior del sistema.
+
+Aquests teoremes van finalitzar mig segle d'intents acadèmics (començant amb el treball de [[Frege]] i culminant en els [[Principia Mathematica (Russell-Whitehead)|Principia Mathematica]] i en el formalisme de Hilbert) per trobar un conjunt d'axiomes suficient per a tota la matemàtica. El teorema de la incompletud implica també que no tota la matemàtica és computable.
+
+La idea bàsica del teorema de la incompletud és més aviat simple. Essencialment Gödel va construir una fórmula que assegura ser no-demostrable per a cert sistema formal. Si fos demostrable, seria falsa, la qual cosa contradiu el fet que en un sistema consistent les proposicions demostrables són sempre veritables. De manera que sempre hi haurà almenys una proposició veritable però no demostrable. És a dir, per a tot conjunt d'axiomes de l'aritmètica construïble per l'home existeix una fórmula la qual s'obté de l'aritmètica però és indemostrable en aquest sistema. No obstant això, per precisar això Gödel necessitava resoldre diverses qüestions tècniques, com ara proposicions de codificació i el concepte mateix de demostrabilitat en la teoria dels nombres naturals. Això últim ho va realitzar mitjançant un procés denominat numeració de Gödel.
+
+En el seu assaig de dues pàgines ''Zum intuitionistischen Aussagenkalkül'' ([[1932]]) Gödel va refutar la valuabilidad finita de la lògica intuicionista. En la demostració va emprar implícitament el que després es va conèixer com la [[lògica intermèdia de Gödel-Dummett]] (o Gödel fuzzy logic).
+
+Gödel va rebre la seva habilitació a la Universitat de Viena el 1932, i el [[1933]] es va convertir en Privatdozent (professor no remunerat). L'ascensió de [[Hitler]] a Alemanya el 1933 va afectar poc a Gödel a Viena, ja que tenia poc interès en la política. No obstant això, es va veure molt afectat per l'assassinat de Moritz Schlick (el seminari havia despertat el seu interès per la lògica) a mans d'un estudiant pertorbat, incident que va resultar en el seu primer col·lapse nerviós.
+
+==Visites als Estats Units==
+El 1933 Gödel va viatjar per primera vegada als Estats Units on va conèixer a [[Albert Einstein]], amb qui va estrènyer llaços d'amistat. Va presentar una conferència a la reunió anual de la [[Societat Americana de Matemàtiques]]. En el transcurs d'aquest any Gödel també va desenvolupar idees sobre la computabilitat i la funció recursiva al punt que va presentar una conferència sobre aquestes funcions i sobre el concepte de veritat. Posteriorment, aquest treball es va desenvolupar en la teoria dels nombres, emprant la numeració de Gödel.
+
+El [[1934]] Gödel va presentar una sèrie de conferències a l'[[Institut d'Estudis Avançats de Princeton]] (IAS) a [[Princeton]], titulada ''Sobre les proposicions indecidibles dels sistemes matemàtics formals''. [[Stephen Kleene]], qui acabava de finalitzar el seu doctorat a [[Princeton]], va prendre notes d'aquesta conferència, les quals van ser publicades posteriorment.
+
+Gödel visitaria l'IEA novament en la tardor de 1935, però els viatges i l'intens treball ho havien extenuat i a l'any següent refer producte d'una depressió, i no va tornar a la docència sinó fins a 1937. Durant aquest temps es va dedicar a la prova de consistència de l'axioma d'elecció i a la hipòtesi del continu en el treball va continuar fins a mostrar que aquestes hipòtesis no poden refutar-se des del sistema comú d'axiomes de la teoria de conjunts.
+Va contreure matrimoni el 20 de setembre de 1938 amb [[Adele Nimbursky]] (nascuda Porkert, 1899-1981), a la qual coneixia des de feia 10 anys. Els pares de Gödel s'oposaven a la relació sobre la base que es tractava d'una ballarina divorciada i sis anys més gran que ell. Mai van tenir fills.
+
+Posteriorment va realitzar una altra visita als Estats Units, on va passar la tardor de 1938 a l'IEA i la primavera de 1939 a la [[Universitat de Notre Dame]]. Durant les seves vacances de l'IEA, Gödel i la seva dona Adele van passar l'estiu de 1942 a Blue Hill, Maine. No obstant això Gödel no va descansar doncs va tenir un estiu de treball molt productiu. John W. Dawson, Jr conjectura que durant aquestes vacances Gödel, emprant el volum 15 de la seva obra encara sense publicar ''Arbeitshefte'' (Quaderns de notes), va descobrir una prova de la independència de l'axioma d'elecció de la teoria finita de tipus, una forma debilitada de la teoria de conjunts. Hao Wang, amic proper de Gödel, dóna suport a aquesta conjectura, assenyalant que els quaderns de notes de Blue Hill contenen el seu tractament més extens del problema.
+
+==Treball a Princeton==
+Després del [[Anschluss]] el 1938, Àustria va passar a formar part de l'[[Alemanya Nazi]]. Alemanya va abolir el títol de Privatdozent, de manera que Gödel va haver de concursar a un càrrec diferent en el nou ordre. No obstant això, els seus vincles anteriors amb membres jueus del Cercle de Viena, especialment amb Hahn, pesaven en contra seu. La seva situació es va precipitar quan se li va trobar apte per al servei militar, quedant en risc de ser cridat a les files de l'exèrcit alemany, raó per la qual va emigrar cap als Estats Units per assumir un càrrec docent en l'IEA.
+
+Ràpidament va reprendre el seu treball en matemàtiques i en 1940 va publicar la seva obra ''Consistència de l'axioma d'elecció'' i de la hipòtesi del continu generalitzada amb els axiomes de la teoria de conjunts, la qual constitueix un clàssic de la matemàtica moderna. En aquest treball va introduir l'univers construïble, un model de la teoria de conjunts en el qual els únics conjunts que existeixen són aquells que poden construir-se a partir de conjunts més simples. Gödel va mostrar que tant l'axioma d'elecció (AC) i la hipòtesi del continu generalitzada (HCG) són veritables en l'univers construible i per tant han de ser consistents amb els [[ZFC|axiomes de Zermelo-Fraenkel]] per a la teoria de conjunts (ZFC). Posteriorment [[Paul Cohen]] va construir un model de ZFC en el qual AC i HCG són falsos, en conjunt aquestes demostracions signifiquen que AC i HCG són independents dels axiomes de ZFC per a la teoria de conjunts.
+
+Cap al final dels 1940 Gödel va demostrar l'existència de solucions paradoxals a les equacions de camp de la relativitat general d'Albert Einstein. Aquests universos rotatoris permetrien viatjar en el temps i van provocar dubtes en Einstein sobre la seva pròpia teoria. Les seves solucions es coneixen com la mètrica de Gödel (o l'Univers de Gödel).
+
+Durant els seus molts anys a l'Institut, els interessos de Gödel es van tornar cap a la filosofia i la física. Va estudiar i va admirar les obres de Gottfried Leibniz, però va arribar a la conclusió (sense evidència) que la major part del treball de [[Leibniz]] havia estat suprimida. En menor mesura també va estudiar a Kant ia Edmund Husserl.
+
+El 1946 Gödel es va convertir en un membre permanent de l'IEA. Al voltant d'aquest període va deixar de publicar, encara que continua treballant. Es va convertir plenament en professor de l'Institut el 1955 i en professor emèrit el 1976.
+
+El 1951 Gödel va ser reconegut (juntament amb [[Julian Schwinger]]) amb el primer [[Premi Albert Einstein]], i també se li va lliurar la National Medal of Science el 1974.
+
+Al principi dels 1970 Gödel va circular entre les seves amistats una elaboració de la demostració ontològica de Leibniz sobre l'existència de Déu, la qual es coneix ara com la [[demostració ontològica de Gödel]]. 
+
+* Kurt Gödel: [http://cs.nyu.edu/kandathi/goedel_viewpoint.html ''My philosophical viewpoint''], c. 1960, No publicat.
+* Kurt Gödel: [http://cs.nyu.edu/kandathi/goedel_fom.html ''The modern development of the foundations of mathematics in the light of philosophy''], 1961, No publicat.
+
+== Mort==
+En els seus últims anys Gödel va sofrir de períodes d'inestabilitat i malaltia mental. Tenia temors obsessius de ser enverinat, i no menjava llevat que la seva esposa Adele tastés el menjar abans que ell. A finals de 1977 Adele va ser hospitalitzada durant sis mesos i no va poder continuar tastant el menjar de Gödel. En la seva absència es va refusar a menjar, fins al punt de deixar-se morir de fam. Al moment de la seva mort pesava 65 lliures (32.5 kg). El certificat de defunció a l'Hospital de Princeton, el 14 de gener de 1978, diu que va morir de desnutrició i inanició causades per pertorbacions en la personalitat .ref{{ref-llibre|cognom= Toates
+|nom= Frederick
+|coautors= Olga Coschug Toates
+|títol= Obsessive Compulsive Disorder: Practical Tried-and-Tested Strategies to Overcome OCD
+| editorial= Class Publishing
+|data= 2002
+|pàgines= 221 
+| isbn= 978-1859590690}}/ref
+
+==Publicacions Importants==
+'''En alemany'''
+*1930, Die Vollständigkeit der Axiome des logischen Funktionenkalküls. ''Monatshefte für Mathematik und Physik'' '''37''': 349–60.
+*1931, Über formal unentscheidbare Sätze der ''[[Principia Mathematica (Russell-Whitehead)|Principia Mathematica]]'' und verwandter Systeme, I. ''Monatshefte für Mathematik und Physik'' '''38''': 173–98.
+*1932, Zum intuitionistischen Aussagenkalkül, ''Anzeiger Akademie der Wissenschaften Wien'' '''69''': 65–66.
+
+'''En anglès'''
+*1940. ''The Consistency of the Axiom of Choice and of the Generalized Continuum Hypothesis with the Axioms of Set Theory.'' Princeton University Press.
+*1947. What is Cantor's continuum problem? ''The American Mathematical Monthly 54'': 515–25. Versió revisada per [[Paul Benacerraf]] i [[Hilary Putnam]], eds., 1984 (1964). ''Philosophy of Mathematics: Selected Readings''. Cambridge Univ. Press: 470–85.
+*1950, Rotating Universes in General Relativity Theory. ''Proceedings of the international Congress of Mathematicians in Cambridge,'' '''1''': 175–81
+
+== Vegeu també ==
+* [[Axioma d'elecció]]
+* [[Paul Cohen]]
+* [[Ernest Nagel]]
+* [[Gödel, Escher, Bach|Godel Echer Back]]
+
+== Referències ==
+{{Referències}}
+
+{{Projectes germans|commons=Kurt Gödel}}
+
+{{ORDENA:Godel, Kurt}}
+{{Autoritat}}
+{{Enllaç AB|de}}
+
+[[Categoria:Cercle de Viena]]
+[[Categoria:Científics austríacs]]
+[[Categoria:Matemàtics estatunidencs]]
+[[Categoria:Lògics]]</text>
+      <sha1>cmsw37k6fn0njhiiywatrj8ihzhwwk8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

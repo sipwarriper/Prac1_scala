@@ -1,0 +1,113 @@
+<page>
+    <title>Ressonància magnètica nuclear</title>
+    <ns>0</ns>
+    <id>2586</id>
+    <revision>
+      <id>13822775</id>
+      <parentid>13696654</parentid>
+      <timestamp>2014-07-14T13:18:16Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>[[Fitxer:NMR-Spectrometer.JPG|thumb|Un [[espectròmetre]] de ressonància magnètica nuclear.]]
+La '''ressonància magnètica nuclear''' ('''RMN''', o en [[anglès]] ''NMR'', de ''Nuclear Magnetic Resonance'') és un fenomen físic descrit originalment el [[1946]] per [[Felix Bloch]] i [[Edward Mills Purcell]], que van guanyar el [[Premi Nobel de Física]] per aquest descobriment el [[1952]]. La RMN s'utilitza rutinàriament en tècniques avançades d'imatges mèdiques, com en la [[Imatge per Ressonància Magnètica]].
+
+La RMN es basa en la interacció entre
+# [[nucli atòmic|Nuclis atòmics]] sota la influència d'un [[camp magnètic]] extern i,
+# Un [[camp electromagnètic]] d'una [[freqüència]] determinada.
+
+La mesura de la [[radiació]] absorbida i emesa pels nuclis atòmics dóna informació valuosa sobre les seves propietats [[magnetisme|magnètiques]]. La RMN es pot utilitzar només amb nuclis amb [[moment magnètic]] diferent de zero. Això vol dir àtoms amb un nombre senar de protons i neutrons, com ara sup1/sup[[hidrogen|H]], sup2/sup[[deuteri|H]], sup13/sup[[carboni|C]], sup15/sup[[nitrogen|N]], sup31/sup[[fòsfor|P]], sup19/sup[[fluor|F]]. El moment magnètic d'aquests àtoms està quantitzat i pot prendre una sèrie de valors determinats. El camp magnètic extern fa que hi hagi petites diferències energètiques entre aquests estats. Si el camp electromagnètic té la freqüència adequada, un nucli pot absorbir un [[fotó]] i passar a un estat d'energia més elevat; quan aquest nucli es relaxa, també emet un fotó.
+
+La RMN s'utilitza com a eina [[espectroscòpia|espectroscòpica]] per obtenir dades físiques i químiques de compostos químics. En la pràctica, la RMN sobre àtoms d'hidrogen o de carboni és la que té més rellevància, ja que aquests àtoms es troben presents en la majoria de molècules, si més no en les [[matèria orgànica|orgàniques]] (tot i que el sup13/supC no és l'[[isòtop]] més abundant, sol haver-n'hi una proporció prou elevada en qualsevol mostra). El principi bàsic és que, si bé les propietats magnètiques de cada àtom depenen principalment de la composició del seu nucli (nombre de protons i de neutrons), l'ambient al voltant d'aquest àtom també hi té un efecte (apantallament electrònic i acoblament de spin). Això fa possible que cada àtom (o grup d'àtoms equivalents) en una molècula doni un senyal diferent en l'espectre RMN.
+
+==Història ==
+
+La ressonància magnètica nuclear va ser descrita i mesurada per primera vegada a rajos moleculars per [[Isidor Rabi]] l'any 1938,ref
+{{ref-publicació|autor= Rabi, I.I.; Zacharias, J.R.; Millman, S. and Kusch, P. 
+|títol= A New Method of Measuring Nuclear Magnetic Moment
+|publicació= [[Physical Review]]
+|volum= 53 
+|any= 1938
+|doi = 10.1103/PhysRev.53.318
+|pmid=9981980
+|exemplar= 4
+|bibcode = 1938PhRv...53..318R
+|pàgines= 318–327 }}/ref fent una extensió de l'[[experiment de Stern-Gerlach]], i l'any 1944 Rabi va rebre el [[Premi Nobel de física]] per aquesta recerca.ref[http://nobelprize.org/nobel_prizes/physics/laureates/1944/rabi-bio.html Biography of I. Rabi at Nobelprize.org]/ref L'any 1946, [[Felix Bloch]] i [[Edward Mills Purcell]] varen expandir la tècnica a liquids i sòlids, treball pel qual varen rebre conjuntament el [[Premi Nobel de física]] l'any 1952.ref name=Filler2009b{{ref-publicació|doi=10.1038/npre.2009.3267.5|títol=The History, Development and Impact of Computed Imaging in Neurological Diagnosis and Neurosurgery: CT, MRI, and DTI|any=2009|autor=Filler, Aaron|publicació=Nature Precedings}}/refref[http://nobelprize.org/nobel_prizes/physics/laureates/1952/ 1952 Nobel Prize for Physics at Nobelprize.org]/ref
+
+Purcell havia treballat en el desenvolupament del [[radar]] durant la [[Segona Guerra Mundial]] al laboratori de radiació del [[Massachusetts Institute of Technology]]. La seva recerca durant aquest projecte sobre la producció i la detecció d'ones de [[ràdio freqüència]] (RF) i en l'absorció d'aquestes ones per la matèria varen ser el fonament del descobriment de la RMN per Rabi.
+
+Rabi, Bloch, i Purcell varen observar que els nuclis atòmics magnètics, com sup1/sup[[hidrogen|H]] i sup31/sup[[fòsfor|P]], podien absorbir energia en RF quan es posaven dins un camp magnètic i quan la RF era d'una freqüència específica per a cada tipus de nucli. Quan aquesta absorció ocorre, es diu que el nucli està en ''ressonància''. Nuclis atòmics diferents dins una molècula ressonen a (radio) freqüències diferents per la mateixa intensitat de camp magnètic. L'observació d'aquestes freqüències ressonants magnètiques dels nuclis presents a la molècula dóna informació sobre la química i l'estructura de la molècula.
+
+El desenvolupament de la RMN com a tècnica de la [[química analítica]] i la [[bioquímica]] és semblant al desenvolupament de la tecnologia electromagnètica i [[electrònica]] avançada i la seva introducció a l'ús civil.
+
+==Teoria de la ressonància magnètica nuclear==
+
+===Espín nuclear i magnetisme===
+
+Tots els [[nucleons]], és a dir els [[neutrons]] i [[protons]] que formen els [[nuclis atòmics]], tenen una propietat [[mecànica quàntica|quàntica]] intrínseca anomenada [[espín]]. L'espín total del nucli ve donat pel [[nombre quàntic d'espín]] ''S''. Si el nombre total tant de protons com de neutrons a un [[nucleid]] és parell, aleshores {{nowrap|''S'' {{=}} 0}}, que vol dir que el nucli no té espín. El que passa en aquests casos és que els protons i els neutrons (que són partícules amb espín-{{frac|1|2}} i per tant [[fermions]]) es poden aparellar exactament, igual que quan els electrons s'aparellen als [[orbital atòmic|orbitals atòmics]] donant un espín total de zero.
+
+A diferència dels electrons, l'energia d'un protó i un neutró és menor quan els seus espins són paral·lels, '''no anti-paral·lels''', ja que aquesta configuració paral·lela no infringeix el [[principi d'exclusió de Pauli]] perquè aquests dos nucleons tenen una subestructura, els [[quark|quarks]]. Per tant, l'estat fonamental d'espín pel deuteró (el nucli de [[deuteri]], l'isòtop sup2/supH de l'hidrògen)—que només té un protó i un neutró—té un espín total de '''1''', ''no de zero''. Això implica que un deuteró aïllat exhibeix un espectre de RMN d'absorció característic d'un nucli quadrupolar d'espín '''1''', que en l'estat rígid a temperatures molt baixes és el típic ''doblet'' (no un singlet com sup1/supH aïllat o qualsevol altre fermió aïllat o nucli dipolar d'espín {{frac|1|2}}). Per altra banda, degut al principi d'exclusió de Pauli, l'isòtop [[triti]] de l'hidrògen ha de tenir un parell d'espins antiparal·lels de neutrons (d'espín total zero), a més d'un protó d'espín 1/2. Per tant, el caràcter del nucli de triti és magnètic dipolar, ''no quadrupolar''—com el del deuteró—i l'espin total del nucli de triti és 1/2, com el de l'isòtop més abundant de l'hidrògen, el nucli sup1/supH (el [[protó]]). L'absorció RMN de radio freqüència del triti is una mica més gran que la del sup1/supH perquè el nucli de triti té una [[fracció giromagnètica]] una mica més gran que sup1/supH. En molts altres casos de nuclis ''no radiactius'', l'espin total tampoc és zero. Per exemple, el nucli sup27/supAl te un espín total de {{nowrap|''S'' {{=}} {{frac|5|2}}}}.
+
+Un espín no zero sempre s'associa amb un [[moment magnètic]] (''μ'') no zero mitjançant la relació {{nowrap|''μ'' {{=}} ''γS''}}, on ''γ'' és la [[fracció giromagnètica]]. És aquest moment magnètic que permet l'observació de l'espectre RMN d'absorció causat per la transició entre nivells d'espín nuclear. La majoria de nucleids (amb algunes poques excepcions) que tenen un nombre parell de protons i un nombre parell de neutrons tenen un moment magnètic nuclear zero, i també tenen moments magnètics dipolars i quadrupolars zero. Per tant, aquests nucleids no exhibeixen un espectre RMN d'absorció. sup18/supO és un exemple d'un nucleid que no presenta absorció RNM, mentres que sup13/supC, sup31/supP, sup35/supCl i sup37/supCl són nucleids que exhibeixen un espectre RMN d'absorció. Els dos últims nuclis són quadrupolars mentres que els dos anteriors sup13/supC i sup31/supP són dipolars.
+
+La [[ressonància paramagnètica electrònica|ressonància d'espín d'electró]] és una tècnica relacionada en la qual es detecten les transicions entre els nivells d'espín dels electrons (en lloc dels nuclis). Els principis bàsics són semblants però la instrumentació, anàlisis, i els detalls de la teoria són diferents. A més, hi ha un nombre menor de molècules i materials amb espins d'electrons no aparellats que exhibeixin ressonància d'espín d'electró comparat amb els que exhibeixen espectra RMN d'absorció. En canvi, la ressonància d'espín d'electró té molta més sensitivitat que la RMN.
+
+===Valor del moment angular d'espín===
+
+El [[moment angular]] associat amb l'espín nuclear és quantitzat. Això significa que tant la magnitud del moment angular és quantitzada (és a dir, ''S'' només pot ser un rang restringit de valors), com també la orientació del moment angular és quantitzada. El nombre quàntic associat amb aquesta última és conegut com a el [[nombre quàntic magnètic]], ''m'', i pot tenir qualsevol valor de +''S'' fins a −''S'', en passes enteres. Per tant, per a un nucli donat, hi ha un total de {{nowrap|2''S'' + 1}} estats de moment angular.
+
+El component z del vector de moment angular ('''S''') és per tant {{nowrap|Ssubz/sub {{=}} ''mħ''}}, on ''ħ'' és la [[constant de Planck]] reduïda. El component z del moment magnètic és:
+:math \mu_\mathrm{z} = \gamma S_\mathrm{z} = \gamma m\hbar./math
+
+====Comportament de l'espín en un camp magnètic====
+[[Image:NMR splitting.gif|thumb|right|300 px||Divisió dels estats d'espín nuclears en un camp magnètic extern]]
+[[Image:NMR EPR.gif|thumb|right|300 px||Un model intuitiu. Els nuclis es comporten com si tenguessin [[moment magnètic|moments magnètics]] propis. Si estan sols, no hi ha cap diferència energètica afavorint una direcció concreta (només un estat energètic, a l'esquerra), però dins un camp magnètic extern hi ha un estat d'energia alta i un estat d'energia baixa en funció de l'orientació relativa de l'imant i del camp magnètic extern, i aleshores la direcció del moment magnètic segueix un moviment de [[precessió]] relatiu al camp magnètic extern. El camp magnètic extern pot ser causat per un imant o per altres nuclis pròxims.]]
+
+Considerem nuclis amb espín 1/2, com sup1/supH, sup13/supC o sup19/supF. El nucli té dos possibles estats d'espín: ''m'' = {{frac|1|2}} o ''m'' = −{{frac|1|2}} (també anomenats espín-up i espín-down, o algunes vegades α i β, respectivament). Aquests estats són degenerats, que vol dir que tenen la mateixa energia. Per tant, el nombre d'àtoms en un o altre estat serà aproximadament igual quan hi hagi [[equilibri tèrmic]].
+
+Si un nucli es posa dins uns camp magnètic, aleshores la interacció entre el moment magnètic nuclear i aquest camp fa que els dos estats ja no tenguin la mateixa energia. L'energia d'un moment magnètic '''μ''' dins un camp magnètic '''B'''sub0/sub és:
+:math E = -\boldsymbol{\mu} \cdot \mathbf{B}_0 = -\mu_\mathrm{x} B_{0x}-\mu_\mathrm{y} B_{0y}-\mu_\mathrm{z} B_{0z} ./math
+
+Normalment l'eix ''z'' es tria al llarg de '''B'''sub0/sub, i l'expressió de dalt es converteix en:
+:math E = -\mu_\mathrm{z} B_0 \ ,/math
+o:
+:math E = -\gamma m\hbar B_0 \ ./math
+
+D'això resulta que els diferents estats d'espín nuclear tenen diferents energies dins un camp magnètic. En llenguatge menys formal, podem parlar dels dos estats possibles d'un espín 1/2 com a ''alineat'' a favor o en contra del camp magnètic. Si γ és positiu (ho és per la majoria d'isòtops) aleshores {{nowrap|''m'' {{=}} {{frac|1|2}}}} és l'estat d'energia amb menor energia.
+
+La diferència d'energia entre els dos estats és:
+:math\Delta{E} = \gamma \hbar B_0 \ ,/math
+
+i aquesta diferència porta a un petit biaix de la població de nuclis cap a l'estat d'energia menor.
+
+====La ressonància magnètica dels nuclis====
+L'absorció ressonant dels espins nuclears ocorre només quan [[radiació electromagnètica]] de la freqüència adequada (per exemple, igual a la freqüència de la [[precessió de Larmor]]) s'aplica per igualar la diferència energètica entre els nivells de l'espín nuclear en un camp magnètic constant de la magnitud adequada. L'energia d'un [[fotó]] absorbit és {{nowrap|''E'' {{=}}
+''h''νsub0/sub}}, on νsub0/sub és la radio freqüència ressonant (la radio freqüència que és igual a la freqüència de precessió de Larmor νsubL/sub dels nuclis en el camp magnètic '''B'''sub0/sub). Per tant, una absorció ressonant magnètica ocorre quan {{nowrap|Δ''E'' {{=}} ''h''νsub0/sub}}, que és quan {{nowrap| νsub0/sub {{=}} γ''B''sub0/sub/(2π)}}. Aquestes freqüències ressonants corresponen típicament a la part de [[radio freqüència]] de l'[[espectre electromagnètic]] per a camps magnètics de fins a uns 20nbsp;T. A la RMN es detecta aquesta absorció magnètica ressonant.
+
+====Apantallament nuclear====
+
+Podria semblar a partir de la discussió anterior que tots els nuclis del mateix nucleid (i per tant amb el mateix ''γ'') haurien de ressonar a la mateixa freqüència, però no és així. La pertorbació més important de la freqüència RMN és l'efecte d'''apantallament'' dels electrons pròxims al nucli.ref[http://nmrcentral.com/2011/08/principle-of-shielding-and-deshielding/ Principle of Shielding and Deshielding | NMRCentral.com]/ref Els electrons, igual que els nuclis, tenen càrrega elèctrica i roten per produir un camp magnètic oposat al camp magnètic creat pels nuclis. En general, aquest apantallament redueix el camp magnètic ''al nucli'' (que és el que determina la freqüència RMN).
+
+Com a conseqüència d'això la separació dels nivells energètics es redueix, i la freqüència necessària per arribar a la ressonància també es redueix. Aquesta variació en la freqüència RMN deguda als orbitals electrònics moleculars s'anomena [[desplaçament químic]], i explica per què la RMN és útil per investigar l'estructura química de les molècules, que depèn de la distribució dels electrons en els orbitals moleculars. Si un nucli en un grup químic concret sofreix un major apantallament a causa d'una major densitat electrònica al seu voltant, aleshores la seva freqüència RMN es desplaçarà cap al camp (és a dir, un desplaçament químic menor), mentres que si hi ha menys densitat electrònica i per tant menys apantallament, la seva freqüència RMN es desplaçarà contra el camp (és a dir, un desplaçament químic major)
+
+Si la simetria local d'aquests orbitals moleculars no és molt gran (que portaria a un desplaçament isotropic), aleshores l'apantallament depèn de l'orientació de la molècula respecte al camp magnètic extern ('''B'''sub0/sub). A l'espectroscòpia [[RMN de l'estat sòlid]], la [[rotació de l'angle màgic]] és necessària per fer la mitja entre les diferents orientacions. Això no és necessari a les investigacions convencionals de RMN de molècules, ja que el ràpid moviment molecular ja elimina la dependència en l'orientació ([[anisotropia del desplaçament químic]]). En aquest cas s'usa el terme desplaçament químic mitjà.
+
+==Articles relacionats==
+* [[Imatgeria per ressonància magnètica]]
+* [[Espectroscòpia d'espín de muó]]
+* [[Ressonància paramagnètica electrònica]]
+
+== Referències ==
+{{referències|35em}}
+{{Commonscat}}
+{{Autoritat}}
+{{ORDENA:Ressonancia Magnetica Nuclear}}
+[[Categoria:Ressonància magnètica nuclear| ]]</text>
+      <sha1>6if6bx2te15m2o1ju7tjlkv26ao8iqu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

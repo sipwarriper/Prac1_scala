@@ -1,0 +1,107 @@
+<page>
+    <title>Cabina pressuritzada</title>
+    <ns>0</ns>
+    <id>1000237</id>
+    <revision>
+      <id>13857796</id>
+      <parentid>13641022</parentid>
+      <timestamp>2014-07-17T14:47:28Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>La ''' pressurització de cabina ''' és el bombament actiu d'[[aire]] comprimit a la cabina d'una [[aeronau]] per garantir la seguretat i confort dels ocupants. És necessari quan un avió aconsegueix una altitud important, ja que la [[pressió atmosfèrica]] natural és massa baixa com per subministrar el suficient [[oxigen]] als ocupants. Sense la pressurització es pot patir [[mal de muntanya]] o fins i tot una [[hipòxia]].
+
+== Vol despressuritzat ==
+Una falta d'oxigen pot desembocar en hipòxia per la reducció de tensió d'oxigen en els [[Alvèol pulmonar|alvèols]]. En alguns casos, especialment persones amb problemes de [[cor]] o [[pulmó|pulmons]], els símptomes poden començar en altituds relativament baixes de 1500 [[Metre|m]] (5000 [[Peu (mètrica)|peus]]) sobre el [[nivell del mar]], encara que la majoria poden suportar altituds de 2500 m (8000 ft) sense cap símptoma. A aquesta altura la respiració incorpora un 25% menys d'oxigen que al nivell del mar.ref Name=02_calc{{cita llibre|coautors = K. Baillie and A. Simpson|títol = Altitude oxygen calculator|url = http://www.altitude.org/calculators/airpressure.htm|data= 22 de juliol de 2008}}- Calculadora online interactiva alçada - quantitat d'oxigen /ref
+
+Els passatgers també poden fatigar-se o tenir [[mal de cap]] a mesura que l'aparell s'eleva. Les reaccions del cos es poden veure entorpides podent arribar a una pèrdua del coneixement. Vols a una altitud estable de més de 3000 m (10000 peus) necessiten, per regla general, oxigen addicional (mitjançant d'una [[cànula]] [[nas|nasal]] o una [[màscara d'oxigen]] o un [[vestit de pressió]]).
+
+== Vol pressuritzat ==
+Les aeronaus que realitzen vols rutinaris sobre 3.000 m (10.000 ft) estan, en general, equipats amb un sistema d'oxigen alimentat mitjançant de màscares o cànules (aquestes últimes típicament per a naus petites), o estan pressuritzades per un [[sistema de control ambiental]] (de l'anglès Environmental Control System, ECS) usant gas subministrat per un [[compressor de gas|compressor]] o aire comprimit del motor. Aquest aire està preescalfat i és extret a una temperatura d'uns 200 [[grau Celsius|°C]] (392 [[grau Fahrenheit|°F]]), i el fred mitjançant d'un trànsit a través d'un [[intercanviador de calor]], i la màquina d'aire en cicle (conegut al món de l'aviació comercial com ''the packs system''). Les aeronaus més modernes tenen un controlador electrònic de doble canal per mantenir la pressurització juntament amb un sistema redundant manual. Aquests sistemes mantenen una pressió d'aire equivalent a 2.500 m (8.000 peus sup 2 /sup) o menor, fins i tot durant el vol a una altitud de més de 13.000 m (43.000  nbpies ²). Les aeronaus compten amb una [[vàlvula d'alleujament de pressió]] en casos d'excés de pressió a la cabina. Això es fa per protegir l'estructura de l'aeronau d'una càrrega excessiva. Normalment, el diferencial de pressió màxima entre la cabina i l'aire exterior és 52-55 [[Pascal (unitat)|kPa]] (7.5-8 [[lliura per polzada quadrada|psi]])). Si la cabina es mantingués a la pressurització a nivell del mar per després pujar a una alçada de 10.700 m (35.000 peus) o més, el diferencial de pressurització seria superior a 60 kPa (9 psi) i l'estructura de l'avió sofriria una càrrega excessiva. El mètode tradicional d'extracció d'aire comprimit del motor té com a contrapartida un desgast de l'eficiència energètica. Algunes aeronaus, com ara el [[Boeing 787]], usen compressors elèctrics per dur a terme la pressurització. Això permet una [[eficiència energètica]] major de propulsió. En la mesura en què l'aeronau es pressuritza i descomprimeix, alguns passatgers experimenten molèsties, a causa de l'expansió o [[Esforç de compressió|compressió]] dels gasos corporals segons els canvis de pressió de la cabina. Els problemes més comuns ocorren amb gas atrapat en l'[[aparell digestiu]], l'[[oïda mitjana]] i els sinus nasals. Noteu que aquests efectes dins d'una cabina pressuritzada no es donen pel fet que l'aeronau augmenti o redueixi l'altitud, sinó als canvis de pressió que s'apliquen a la cabina.
+
+Si una aeronau pressuritzada sofreix una fallada de pressurització sobre 3.000 m (10.000 peus) llavors es pot parlar d'una situació d'emergència. En aquest cas l'aeronau ha de començar un descens d'emergència i les màscares d'oxigen han d'activar-se per a tots els ocupants. En la majoria d'avions de passatgers (com per exemple en el [[Boeing 737]]ref[http://www.b737.org.uk/emergency_equipment.htm Meergency Equipment] (en anglès) /ref), les màscares d'oxigen dels passatgers s'activen de forma automàtica si la pressió de la cabina es redueix per sota de la pressió equivalent de l'[[atmosfera terrestre]] a 4.500 m (14.000 peus) (és a dir, si la altitud de la cabina puja dels 14.000 peus.ref[http://www.usatoday.com/travel/columnist/getline/2006-05-15-ask-the-captain_x.htm USATODAY.com – When oxygen masks mysteriously appear] (en anglès) /ref
+
+== Història i ús de les cabines de despressurització ==
+Abans de la [[Segona Guerra Mundial]] el [[Boeing 307]] Stratoliner ja tenia una cabina pressuritzada, si bé, només es van produir-ne deu. Els avions amb motors de [[pistó]] de la Segona Guerra Mundial volaven sovint a gran alçada sense estar pressuritzats, per això els pilots usaven màscares d'oxigen. Això era un problema en els [[bombarder]]s més grans, car comptaven amb una tripulació a bord molt més nombrosa. Per això, el primer bombarder amb cabina pressuritzada (per a la zona de passatgers) no va trigar a arribar, va ser el [[B-29 Superfortress]]. El sistema de control de la pressió de la cabina el va desenvolupar [[Garrett Systems|Garrett AiResearch Manufacturing Company]], servint-se en part de llicències de [[Boeing]] per al Stratoliner.ref Seymour L. Chapin, Garrett and Pressurized Flight: A Business Built on Thin Air, '' Pacific Historical Review 35 '' (agost 1966): 329-343. /ref Línies aèries amb aparells de motors de [[pistó]] de la postguerra, com ara el [[Lockheed Constellation]] van ampliar aquesta tecnologia a l'ús civil i, atès que les aerolínies de jets estaven dissenyades per a operar a gran altitud, tots ells compten amb aquesta tecnologia.
+La majoria d'aeronaus amb [[turbohèlix]]s també disposen de cabines pressuritzades per operar a mitja-gran alçada. Alguns avions privats de menor grandària amb motor de pistó també compten amb aquesta tecnologia, encara que normalment no fa falta, per no volar a grans altures.
+
+== Pèrdua de pressurització ==
+Una de les conseqüències de la pressurització d'una cabina és que la pressió dins l'aeroplà pugui ser de 70 kPa (10 psi), mentre que la pressió exterior sigui només de 15 kPa (2 psi). El que normalment seria un orifici inofensiu, amb aquesta diferència de pressió va a generar un intens grinyol amb sortides d'aire a velocitats [[supersònic|supersòniques]]. Un orifici d'una longitud de metre i mig despressuritzaria una [[aeronau jet]] en fraccions de segon.
+
+Es denomina descompressió ràpida al canvi en la pressió de la cabina en la qual els pulmons es poden descomprimir més ràpid que la cabina. Aquest tipus de descompressió en una aeronau comercial no passa sovint però de passar és perillosa per objectes voladors, o fins i tot per la possible força d'atracció a la fissura si s'està a prop seu. També podreu deformació interna dels panells i del sòl.
+
+Es denomina [[descompressió explosiva]] al canvi de pressió de la cabina més ràpid del que poden fer-ho els pulmons (menys de 0.5 segons). Aquest tipus de descompressió és potencialment perillosa per als pulmons i es corre també el risc de ser colpejat per objectes voladors.
+
+Una descompressió gradual o lenta és perillosa perquè pot ser que no es detecti. L'accident de [[Vol 522 d'Helios Airways]] en 2005 és un bon exemple.ref Name=Helios Airways 2005{{cita llibre|autor = J. Laming|títol = Helios out of oxygen. Flight Safety Austràlia magazine - Nov-Dec 2005, pp 27-33|url = http://www.casa.gov.au/fsa/2005/dec/27-33.pdf}}(en anglès) /ref
+Els sistemes d'advertiment poden ser ignorats, malinterpretats o fallar, i per això el reconeixement autònom dels efectes inherents de la hipòxia es pot veure reduït a l'experiència o l'entrenament. Desafortunadament en la majoria dels països aquest tipus de formació s'ha reduït gairebé exclusivament al sector [[exèrcit|militar]] en una cambra hipobàrica amb riscos del [[síndrome de descompressió]] i [[barotrauma]].
+Els nous sistemes de respiració d'oxigen reduïtref name=Hypoxia familiarization training by the reduced oxygen Breathing method{{cita llibre|autor = R. Westerman|títol = Hypoxia familiarization training by the reduced oxygen Breathing method. ADF Health 2004; 5 (1): 11-15|url = http://www.defence.gov.au/health/infocentre/journals/ADFHJ_apr04/ADFHealth_5_1_11-15.pdf}}(en anglès) /ref són més accessibles i segurs i proveeixen una experiència pràctica valuosa.ref name=Hypoxia Symptoms in military aircrew: long-term recall vs. acute experience in training.{{cita llibre|autor = AM. Smith|títol = Hypoxia Symptoms in military aircrew: long-term recall vs. acute experience in training. Aviat Space Environ Med gener 2008; 79 (1) :54-7.|llengua=anglès}} /ref Un augment de l'oferta d'aquest tipus d'entrenaments per les autoritats reguladores fomentaria el coneixement de la hipòxia i, així, la seguretat en el sector dóna l'aviació.
+
+La hipòxia resulta en una pèrdua de consciència si no se subministra oxigen d'emergència. El temps que transcorre fins a la pèrdua de consciència en un entorn amb escassetat d'oxigen varia amb l'altitud.
+
+A més, la temperatura de l'aire descendirà causa de l'expansió corrent del perill de [[congelació]].
+
+Al contrari del que es pugui creure per pel·lícules de [[James Bond]] com [[Goldfinger]], els passatgers situats a escassos metres de l'orifici corren més risc de patir hipòxia que de ser propulsats fora de la cabina.
+
+== Conseqüències de la pressurització de la cabina al fusellatge de l'aeronau ==
+Quan l'aeronau es pressuritza i despressuritza la capa de metall de l'aeroplà s'expandeix i contrau, respectivament, resultant en [[fatiga de materials|fatiga del metall]]. Les aeronaus modernes estan dissenyades per resistir aquests cicles de compressió, però algunes naus més antigues (ex. [[D'Havilland Comet]]) van tenir accidents fatals per no estar els suficientment preparats davant d'aquest fenomen.
+
+== Conseqüències de la pressurització de la cabina en el cos humà ==
+* Pits nasals i l'oïda: Cal adaptar l'aire de la cabina pressuritzada des del començament. Un de cada 3 passatgers té dolor a les orelles i fins i tot pèrdua temporal auditiva durant l'aterratge o l'enlairament. A aquest fenomen el [[House Ear Institute]] de [[Los Angeles]] l'anomena '' aerotitus ''. Canvis ràpids de pressió provoquen que la bossa d'aire dins de l'oïda s'expandeixi o contregui durant l'enlairament i aterratge, respectivament, allargant així el [[tambor (oïda)]]. Per igualar la pressió ha de sortir o entrar aire a través de la [[trompa d'Eustaqui]]. '' Si un passatger té una congestió seriosa està sotmès a un risc de dany del tambor ', afirma el doctor [[Sigfrid Soli]], director del departament HCSD al [[HSI]].
+* [[Dents]]: Qui tingui gas atrapat en una dent infectat pot patir [[barodontalgia]], un mal de dents provocat per l'exposició a una pressió atmosfèrica canviant.
+* [[Pneumotòrax]]: A tot aquell que hagi patit un pneumotòrax se li recomana no volar (fins i tot en una cabina pressuritzada) durant, almenys, un mes, i es recomana que s'examini amb [[raigs x]] abans de volar.
+ 
+Juntament amb els problemes que puguin patir alguns passatgers, la pressió de la cabina equivalent a un altitud de 2.500 m (8.000 peus) de la majoria de vols contribueix a la fatiga que es pateix en vols llargs. El [[Boeing 787]] Airliner (en desenvolupament) comptarà amb una pressurització equivalent a 1.800 m (6.000 peus), que segons Boeing augmentarà considerablement el confort dels passatgers. El [[Airbus A350]] podria anar fins i tot més enllà considerant una pressurització equivalent a 1.500 m (5.000 peus).{{Demostrar}}
+
+Hi pot haver persones que poden patir símptomes del mal de la muntanya tot i la pressió de la cabina.
+
+== Incidents rellevants ==
+* [[BOAC Flight 781]]: Un fatiga del metall durant el vol va causar una [[descompressió explosiva]] el [[1954]] costant-li la vida a 35 persones. Aquest va ser el primer d'una sèrie d'accidents de [[de Havilland Comet]] que van fer evident la necessitat d'un redisseny de les aeronaus.
+* [[American Airlines Flight 96]]: Un [[DC-10]] va perdre la seva porta del darrere de càrrega durant el vol a causa d'un problema amb el tancament del mecanisme. La descompressió resultant va col·lapsar el terra de la cabina, causant danys en els conductes hidràulics que controlen la cua de l'avió i un dels motors. L'incident no va causar cap baixa gràcies a l'ús del [[empenta]] diferencial dels motors de les ales de l'aeronau per limitar la inclinació de l'avió i controlar la [[Guiñada (navegació)|guiñada]].
+* [[Turkish Airlines Flight 981]]: Un [[DC-10]] va perdre, igualment, la seva porta del darrere de càrrega, a causa d'un problema amb el tancament. La gravetat de la despressurització mal els controls hidràulics provocant la pèrdua de control de l'aparell. Els 346 passatgers de l'avió van morir.
+* [[Japan Airlines Flight 123]]: La pressió del darrere del mur vertical separador d'un [[Boeing 747]] va fallar, resultant en una descompressió explosiva. El dany a l'aeronau va comprometre el sistema hidràulic i la tripulació va perdre el control sobre la màquina. 520 persones van morir i només hi va haver 4 supervivents.
+* [[Aloha Airlines Flight 243]]: Un descompressió explosiva en un [[Boeing 737]] va resultar en la mort d'un [[assistent de vol]].
+* [[Vol 811 de United Airlines]]: Un Boeing 747-122 va perdre la seva porta de càrrega davantera causant la pèrdua de diversos seients en la classe executiu de l'aparell, provocant la mort a 9 passatgers.
+* El golfista [[Payne Stewart]] i cinc persones més van morir a l'[[1999 South Dakota Learjet crash|l'accident d'un jet]] com a resultat de la pèrdua de pressió a la cabina.
+* [[Helios Airways]] [[Helios Airways Flight 522|vol 522]]: Un [[Boeing 737]] [[Xipre|xipriota]] es va estavellar a Grècia el [[14 d'agost]] de [[2005]], acabant amb la vida de les 121 persones a bord. Es creu que hi va haver una fallada en la despressurització de l'aparell i els pilots van perdre el coneixement.
+* [[Xina Airlines Flight 611]]: Un [[Boeing 747]] es va desintegrar durant el vol a l'altitud de creuer el [[25 de maig]] de 2002 acabant amb la vida de les 225 persones a bord. L'accident va ser causat per fatiga del metall, a causa d'una reparació defectuosa 22 anys abans, provocant una descompressió de la cabina.
+
+== Ficció ==
+* A la pel·lícula [[Snakes on a Plane]], la descompressió ajuda a lliurar-se de serps repartides per la cabina gràcies a una finestra oberta.
+
+== Vegeu també ==
+* [[Atmosfera (unitat)]]
+* [[Aire comprimit]]
+* [[Rarefacció]]
+* [[Vestit espacial]]
+
+== Primeres aeronaus amb sistemes de pressurització ==
+* [[Boeing 307]]
+* [[Avro Tudor]]
+* [[Lockheed Constellation]]
+* [[Douglas DC-6]]
+
+== Referències ==
+{{referències|2}}
+
+== Bibliografia ==
+* Seymour L. Chapin, Garrett and Pressurized Flight: A Business Built on Thin Air, '' Pacific Historical Review 35 '' (agost 1966): 329-343.
+* Seymour L. Chapin, Patent Interferences and the History of Technology: A High-flying Example, '' Technology and Culture '' 12 (juliol 1971): 414-446.
+* Portions from the [http://www.vnh.org/FSManual/01/07RapidDecompress.html United States Naval Flight Surgeon s Manual] (en anglès)
+* [http://www.cnn.com/2005/WORLD/europe/08/14/greece.crash/index.html CNN: 121 Dead in Greek Air Crash] (en anglès)
+* Explosive Decompression segment of '' [[MythBusters]] '' episodi 10, [[11 de gener]] [[2004]]
+{{Autoritat}}
+
+{{ORDENA:Cabina Pressuritzada}}	!--ORDENA generat per bot--
+[[Categoria:Aviació]]
+
+
+
+[[ja:与圧#航空機]]</text>
+      <sha1>n8q0znk37u1cuj2z3q566b23bvj9qxa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

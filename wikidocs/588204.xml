@@ -1,0 +1,81 @@
+<page>
+    <title>Transceptor casolà</title>
+    <ns>0</ns>
+    <id>588204</id>
+    <revision>
+      <id>12816608</id>
+      <parentid>12275797</parentid>
+      <timestamp>2014-01-19T06:23:43Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: equips - equips, ja que en</comment>
+      <text>S'anomena '''[[Transceptor]] casolà''' o [[Transceptor]] de construcció casolana als equips d'emissió/recepció de ràdio construïts pels radioaficionats mateixos.
+
+== Història ==
+[[Fitxer:Homewbrew.png|thumb|left|200px|Transmissor casolà a vàlvules dels primers anys de la radioafició]]
+
+En els primers anys, la majoria dels radioaficionats construïa els seus propis equips, ja que en aquella època no existien equips comercials fàcilment disponibles. Aquest procés el va anomenar construcció casolana o homebrewing en anglès.
+
+Entre 1930 i 1950, els radioaficionats havien aconseguit construir equips de raonable qualitat amb vàlvules de buit. La cobertura de bandes comprenia les bandes entre la [[Banda de 160m]] i la [[Banda de 10m]], entre 1,8 i 30nbsp;MHz, i pesaven de l'ordre de deu a trenta quilograms. Els radioaficionats francesos d'aquesta època de pre-i postguerra recorden (probablement per aquestes raons de pes del material) que l'examen no es passava en un centre d'examen, sinó a casa. L'examinador venia, s'assegurava que el candidat tingués els coneixements necessaris i sabés fer servir el material, habitualment, un transceptor de construcció casolana.
+
+Després de la Segona Guerra Mundial, alguns empresaris van començar a comercialitzar kits, consistents en tots els components necessaris per construir la ràdio, el diagrama del circuit i instruccions detallades per a l'acoblament. Diverses vegades, el kit servia com un primer assaig abans de dedicar-se a la construcció casolana. De vegades aquests kits es venien armats, i els mateixos empleats de les empreses que comercialitzaven els kits, els feien pel seu compte en les seves hores lliures per guanyar una mica més de diners. Probablement, l'empresa [[Heathkit]] hagi estat la que més hagi contribuït a la difusió del material de radioafició de construcció casolana.
+
+Les lliçons apreses construint (i modificant) el seu propi equip van ser fonamentals per desenvolupar la mestria tècnica dels radioaficionats d'aquesta època. L'adveniment dels semiconductors i amb ells les tècniques d'industrialització en massa i de miniaturització de components van fer baixar tant el preu dels aparells comercials que avui resulta antieconòmic fabricar un transceptor de construcció casolana. Actualment, només una minoria de radioaficionats utilitza exclusivament aparells de construcció casolana. No obstant això, la pràctica d'armar ràdios a partir de kits segueix vigent, i actualment hi ha molts proveïdors de kits de construcció.
+
+== Regles de joc ==
+[[Fitxer:Workbench.png|thumb|right|250px|Laboratori del constructor aficionat K6ESE]]
+La construcció casolana difereix de la construcció d'un kit, pel fet d'utilitzar parts i dissenys obtinguts aquí i allà. Encara els constructors més experimentats poden mancar del temps i dels recursos per construir una ràdio equivalent a una moderna ràdio comercial, ja que les ràdios comercials tenen circuits específics i els seus dissenyadors tenen elements de disseny i de simulació fora de l'abast del radioaficionat comú. Tanmateix, és possible obtenir resultats similars als d'equips comercials amb dissenys senzills i components recuperats, on el plaer de construir la seva pròpia ràdio s'uneix a la satisfacció d'aprendre electrònica.
+
+== QRP ==
+[[Fitxer:Trevqrp.png|thumb|left|250px|Transceptor casolà construït per K6ESE]]
+Els transceptors [[QRP]] són ràdios de baixa potència: 5W màxim per al mode A1A (telegrafia) i 10W màxim per al mode Banda Lateral Única. Per la seva baixa potència i les baixes tensions requerides, són particularment adaptats per operar sense perill i sense requerir materials massa costosos. Per aquesta raó, molts transceptors de construcció casolana són també transceptors QRP.
+
+== Desafiaments l'enginy ==
+Una característica d'alguns transceptors de construcció casolana, és l'ús de caixes metàl·liques originalment destinades a contenir caixes de cigarretes, pastilles, galetetes, conserves de peix o bombons. La miniaturització requerida per l'envàs Aguza l'enginy dels constructors. Als Estats Units, es fan servir envasos de pastilles (Altoids, veure foto) o bé llaunes de tonyina, a Anglaterra l'envàs d'un altre tipus de pastilles (O ZON), ia França hi ha qui ha utilitzat llaunes de galetes bretones o de pastilles de menta dels Vosges.
+
+== Radios a vàlvules de buit ==
+[[Fitxer:Ai2q.png|thumb|right|250px|Transmissor a vàlvules de construcció casolana de AI2Q]]
+Els radioaficionats nord-americans anomenen Bichos de llum ( Glowbug) a les ràdios senzilles, construïdes amb vàlvules de buit, records dels transmissors de l'època 1920-1930. Un transceptor casolà d'aquest tipus inclou típicament un receptor regeneratiu o de conversió directa, i un transmissor de telegrafia amb un oscil lador Hartley, de vegades amb una sola vàlvula.
+
+Sense amplificador, aquestes ràdios poden eroge potències de 3-70 watts.
+
+Com les vàlvules d'aquestes ràdios requereixen altes tensions, de l'ordre de 150 a 300 Volts (una tensió de 40 Volts pot ser ja letal), l'alimentació és de corrent altern, a 110 Volts (Estats Units) o 220 Volts (Europa).
+
+L'estètica d'alguns d'aquests transmissors, autèntics clàssics, de vegades assoleix alts nivells de bellesa.
+
+== Ràdios a transistors ==
+Tot a finals de 1960, predominaven les ràdios a vàlvules. A partir dels anys 70, els transceptors de construcció casolana evolucionen per l'adveniment del transistor: usen 13,8 Volts de corrent continu (inofensiva excepte rares excepcions), els components es miniaturitzar, es tornen més fiables, i menys perillosos. Alguns dissenys més sofisticats (en el sentit estrictament etimològic del terme) comencen a utilitzar a partir dels anys 90 [[microcontrolador]] és Atmel o PIC.
+
+== Associacions de constructors ==
+Hi ha diverses associacions de constructors. Probablement, la més prestigiosa sigui el club britànic [http://www.gqrp.com/G-QRP], que edita la revista SPRAT. A Espanya l'associació que aglutina els aficionats al cacharreo és el [http://www.eaqrp.com EAQRP] qui també publica el seu propi butlletí, el QU-R-PE.
+
+== Alguns transceptors de construcció casolana ==
+* El [[BITX Transceiver|BITX]] és un transceptor capaç de transmetre a la [[Banda de 20m]] en mode Banda Lateral Única. Optimitzat per a ser construït per radioaficionats a l'Índia, on hi ha una certa dificultat per procurar-se certs components especialitzats, és un disseny intel·ligent que ha estat reproduït amb èxit per constructors aficionats de diversos països.
+* El [[Pixie (transceptor)|Pixie]], petit i esvelt com la fada que li confereix el seu nom, és un dels més enginyosos dissenys publicats.
+* El [http://www.fediea.org/digiclub/pulga.html Transceptor Puça] dissenyat pels catalans Eduardo Alonso (EA3GHS) i Joan Morros (EA3FXF) ha suscitat molt d'interès i ha estat publicat a la revista [[SPRAT]] del GQRP Club.
+
+== Vegeu també ==
+* [[Radioafició]]
+* [[QRP]]
+* [[BITX Transceiver]]
+* [[Revista Lúpin]] (molt activa en la publicació d'articles de radioaficionats constructors)
+
+== Enllaços externs ==
+* [http://www.af4k.com/hamlynx/hamhomeb.htm Pàgina del radioaficionat estadounidannse AF4K] - En anglès. Molts articles interessants.
+* [http://groups.yahoo.com/group/rfamplifiers/Grup Yahoo rfamplifiers] - Un lloc per als qui dissenyen i construeixen els seus propis amplificadors per a les seves ràdios.
+* [http://www.soldersmoke.com soldersmoke - Un podcast en anglès per a constructors aficionats] - Punt de discussió per als que s'apassionen per aquest hobby.
+* [http://www.qrpedia.com/wiki/Rock-Mite_Series Rock-Mite] - Un lloc de kits nord-americà. En anglès.
+* [http://oernst.f5lvg.free.fr Lloc d'Olivier Ernst F5LVG] - Un lloc de gran qualitat tècnica. En francès.
+* [http://www.gqrp.com G-QRP] - Lloc Web de l'associació de constructors britànics G-QRP, editors de la famosa revista [[SPRAT]].
+
+
+{{ORDENA:Transceptor Casola}}	!--ORDENA generat per bot--
+[[Categoria:Radioafició]]</text>
+      <sha1>okfyblf74dm8xrglr2jrt3wlfte6bwt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

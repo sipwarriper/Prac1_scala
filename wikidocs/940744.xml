@@ -1,0 +1,72 @@
+<page>
+    <title>Mauser 98</title>
+    <ns>0</ns>
+    <id>940744</id>
+    <revision>
+      <id>13770126</id>
+      <parentid>13345850</parentid>
+      <timestamp>2014-07-09T08:11:46Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Projectes germans}} que enllaça amb [[commons:category:Mauser M1898]]</comment>
+      <text>{{Plantilla:Infotaula arma 
+|imatge = [[Fitxer:Mauser m98.jpg|340px|Un Gewehr 98 i la seva [[baioneta]], al costat d'una pinta de 5 cartutxos.]]
+|peu = Un Gewehr 98 i la seva [[baioneta]], al costat d'una pinta de 5 cartutxos.
+|nom = Mauser 98 o Gewehr 98
+|marca = [[Mauser]]
+|nació =[[Fitxer:Flag of the German Empire.svg|20px|Imperi Alemany]] [[II Imperi Alemany]]
+|època = [[Primera Guerra Mundial]]
+|data = 1898
+|prod_fecha = 1898 - 1943
+|serv_fecha = 1898 - 1945
+|operadors = Diversos
+|guerra = [[Primera Guerra Mundial]], [[Segona Guerra Mundial]]
+|spec_tipo = [[Fusell (arma)|fusell]] de forrellat
+|calibre = 7,92 mm
+|canó = 600 mm
+|munició = [[7,92 x57 mm|7,92 x 57]]
+|carregador = Intern fix, alimentat amb una pinta de 5 cartutxos
+|sistema = Forrellat accionat manualment
+|velocitat = 760 m/s
+|pes = entre 3,7 i 4,1 kg
+|longitud = 125 m
+|variants = [[Mauser Kar 98k]]
+|abast = 1, 400 m
+}}
+El '''Mauser 98''' és un [[Fusell (arma)|fusell]] alemany dissenyat per [[Paul Mauser]] el [[1898]] que va ser ràpidament adoptat per l'[[exèrcit alemany]], que el va utilitzar en la [[Primera Guerra Mundial]]. També anomenat Gewehr 98, utilitza la munició [[7,92 x57 mm|7,92 x 57]] i té capacitat per a 5 trets.
+
+[[fitxer: Mauser Standard Modell Commercial 8mm Service Rifle 805.jpg|esquerra|400px|thumb|Fusell alemany Mauser Gewehr 98.]]
+
+El fusell [[Mauser]] 98 és considerat el millor [[fusell de forrellat]] de la [[història]] pel seu disseny i precisió. No obstant això, el disseny del Mauser va heretar una mala característica dels seus antecessors, i aquesta és la longitud total de l'arma (125 cm i 160 cm amb la [[baioneta]] calada), la qual cosa el converteix en un obstacle per a la guerra dinàmica o per a la guerra en llocs estrets (guerra de trinxeres). No obstant això, l'exèrcit alemany no es va veure en grans desavantatges, ja que els fusells dels seus enemics en la Primera Guerra Mundial ([[Anglaterra]] i [[França]]) eren igual o, fins i tot, més llargs que el propi Mauser.
+
+El disseny del Mauser 98 es va modificar, principalment per crear un fusell més curt. D'allí van néixer diversos prototips que portaven per dins al Mauser 98, com el fusell utilitzat per la pròpia [[Alemanya]] durant la [[Segona Guerra Mundial]]: el [[Mauser Kar 98k|Mauser 98k]].
+
+Encara que el Mauser 98 és un fusell molt ben dissenyat, es tracta d'una arma de forrellat de recàrrega manual, per la qual cosa era més lent de disparar comparat, per exemple, amb el [[M1]] Garand [[Estats Units d'Amèrica|nord-americà]]. No obstant això, la qualitat i precisió feien que aquest fusell superés als semiautomàtics. De fet, quan el [[1943]] es van començar a distribuir els primers G43 ([[Gewehr 43]]), els [[soldat]]s alemanys preferien conservar els seus vells [[Mauser Kar 98k]], adduint falta de fiabilitat o de precisió dels nous fusells. La veritat és que cap altre fusell semiautomàtic de l'època podia impactar a un blanc a 1,4 km, i cap podia suportar tantes inclemències com el [[Mauser Kar 98k|Mauser 98k]].
+
+Un oficial va comentar en una ocasió: mai s'apunta tan bé com quan saps que només tens un tret, fent referència al fet que si es fallava amb el primer tret, es donava oportunitat a l'enemic de respondre mentre es preparava el Mauser per disparar una altra vegada, situació comprometedora que els fusells semiautomàtics havien d'eliminar, encara que això no era precisament el que sovint passava. En concordança amb aquest comentari, els soldats amb fusells semiautomàtics, confiats de tenir 10 bales a la seva disposició amb només prémer el [[gallet]] 10 vegades, no donaven en el blanc. No obstant això, els soldats amb fusells de forrellat, per fet de saber que només posseïen una bala i, si fallaven, podrien morir, disparaven amb una precisió més gran.
+
+== Vegeu també ==
+* [[Mauser Model 1871]]
+
+== Bibliografia ==
+{{MR|data=setembre de 2013}}
+* Fusells Militars Mauser del Món, 3 ª ed. Ball, Robert W.D. Krause Publications.
+
+== Enllaços externs ==
+{{Projectes germans|commons=Mauser M1898}}
+* {{ref-web|url=http://world.guns.ru/rifle/rfl02-e.htm|consulta=10 setembre 2013|títol=Modern Firearms Military Rifles: Mauser model 98 (Germany)|editor=World Guns RU|llengua=anglès}}
+* {{ref-web|url=http://www.mauser1909.com.ar/|consulta=10 setembre 2013|títol=Història Models i Tècnica del Mauser 1909 model Argentí|editor=mauser1909.com.ar|llengua=espanyol}}
+* {{ref-web|url=http://www.armas.es/mundo-de-las-armas/legendarias/rifles/20022-mauser-kar-98.html|consulta=10 setembre 2013|títol=Fitxa tècnica i històrica de la carrabina Mauser K98|editor=armas.es|llengua=espanyol}}
+
+[[Categoria:Fusells de forrellat]]
+[[Categoria:Armament de la Primera Guerra Mundial]]
+
+[[fa:تفنگ برنو]]</text>
+      <sha1>2anskeuoo8f2t2xzi1kguqwct0d1exk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
