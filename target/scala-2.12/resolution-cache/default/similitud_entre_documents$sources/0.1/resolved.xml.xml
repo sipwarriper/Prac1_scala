@@ -4,7 +4,7 @@
 		module="similitud_entre_documents$sources"
 		revision="0.1"
 		status="integration"
-		publication="20181123150432"
+		publication="20181124132926"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
@@ -30,7 +30,11 @@
 			<artifact name="akka-testkit_2.12" type="src" ext="jar" conf="*" e:classifier="sources"/>
 			<include name="*" type="*" ext="*" conf="" matcher="exact"/>
 		</dependency>
-		<dependency org="org.scala-lang.modules" name="scala-xml_2.12" rev="1.0.6" transitive="false" conf="compile->default,compile,runtime,default(compile),master;runtime->default,compile,runtime,default(compile),master;test->default,compile,runtime,default(compile),master;compile-internal->default,compile,runtime,default(compile),master;runtime-internal->default,compile,runtime,default(compile),master;test-internal->default,compile,runtime,default(compile),master;scala-tool->master(*),compile,runtime(*),runtime,compile(*),master">
+		<dependency org="org.scala-lang.modules" name="scala-xml_2.12" rev="1.0.6" transitive="false" conf="scala-tool->master(*),compile,runtime(*),runtime,compile(*),master">
+			<artifact name="scala-xml_2.12" type="src" ext="jar" conf="*" e:classifier="sources"/>
+			<include name="*" type="*" ext="*" conf="" matcher="exact"/>
+		</dependency>
+		<dependency org="org.scala-lang.modules" name="scala-xml_2.12" rev="1.1.1" transitive="false" conf="compile->default,compile,runtime,default(compile),master;runtime->default,compile,runtime,default(compile),master;test->default,compile,runtime,default(compile),master;compile-internal->default,compile,runtime,default(compile),master;runtime-internal->default,compile,runtime,default(compile),master;test-internal->default,compile,runtime,default(compile),master">
 			<artifact name="scala-xml_2.12" type="src" ext="jar" conf="*" e:classifier="sources"/>
 			<include name="*" type="*" ext="*" conf="" matcher="exact"/>
 		</dependency>
@@ -38,7 +42,7 @@
 			<artifact name="scala-reflect" type="src" ext="jar" conf="*" e:classifier="sources"/>
 			<include name="*" type="*" ext="*" conf="" matcher="exact"/>
 		</dependency>
-		<dependency org="org.scala-lang" name="scala-library" rev="2.12.7" transitive="false" conf="compile->default,master(*),compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;runtime->default,master(*),compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;test->default,master(*),compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;compile-internal->default,master(*),compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;runtime-internal->default,master(*),compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;test-internal->default,master(*),compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;scala-tool->default,master(*),compile,runtime(*),runtime,optional,optional(default),compile(*),master" info.apiURL="http://www.scala-lang.org/api/2.12.7/">
+		<dependency org="org.scala-lang" name="scala-library" rev="2.12.7" transitive="false" conf="compile->default,compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;runtime->default,compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;test->default,compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;compile-internal->default,compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;runtime-internal->default,compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;test-internal->default,compile,runtime(*),master(compile),runtime,default(compile),compile(*),master;scala-tool->default,master(*),compile,runtime(*),runtime,optional,optional(default),compile(*),master" info.apiURL="http://www.scala-lang.org/api/2.12.7/">
 			<artifact name="scala-library" type="src" ext="jar" conf="*" e:classifier="sources"/>
 			<include name="*" type="*" ext="*" conf="" matcher="exact"/>
 		</dependency>
