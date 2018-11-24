@@ -1,10 +1,88 @@
 import java.io.File
+
 import scala.io.Source
 import scala.math.sqrt
 import scala.xml.XML
 import scala.util.matching.Regex
+import akka.actor._
+import akka.routing._
+
+import scala.collection.mutable
 
 object SimilitutEntreDocs extends App {
+
+  final val StopWordsFileName = "english-stop.txt"
+  final val DirectoriFitxers = "wikidocs"
+
+  case class LlegirDirectori(nom:String)
+  case class ProcessarFitxer(nom:String)
+  case class FitxerLlegit(contingut:(String, String, List[String]))
+  case class TractarContingutFitxer(dades:(String, String, List[String]), stopWords:List[String])
+  case class FitxerTractat(dades:(String, List[(String, Double)], List[String]))
+
+  class MapWorkerProcessatFitxers() extends Actor{
+    //donat un fitxer XML, el llegeix i converteix a una tupla amb el titol, el contingut i les referencies
+    def mapFreq(file:String):(String, String, List[String]) =
+      tractaXMLdoc(file)
+
+    override def receive: Receive = {
+      case ProcessarFitxer(nom) => val dades = mapFreq(nom)
+        sender ! FitxerLlegit(dades)
+    }
+  }
+
+  class ReduceWorkerProcessatFitxers() extends Actor{
+    //rep un fitxer en format tupla de strings (Títol, Contingut, Referències) i
+    //retorna una tupla equivalent, canviant el contingut per una llista amb les parelles de valors (paraula, frequencia)
+    def reduce(fileContent:(String, String, List[String]), stopWords:List[String]):(String, List[(String, Double)], List[String]) =
+      (fileContent._1, freqAtf(nonStopFreq(fileContent._2,stopWords,1)), fileContent._3)
+
+    def receive: Receive = {
+      case TractarContingutFitxer (dades, stopWords) => val res = reduce(dades, stopWords)
+        sender ! FitxerTractat(res)
+    }
+  }
+
+  class MapReduceTractamentFitxers() extends Actor{
+    val inici = System.nanoTime()
+    var pendent = 0
+    val MapRouter: ActorRef = context.system.actorOf(RoundRobinPool(100).props(Props[MapWorkerProcessatFitxers]))
+    val stopWords: List[String] = Source.fromFile(StopWordsFileName).getLines.toList
+    var LlistaContingutFitxers:List[(String, String, List[String])] = Nil
+    var diccionariFitxers: mutable.Map[String, (List[(String, Double)], List[String])] = mutable.Map[String, (List[(String, Double)], List[String])]()
+
+    //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
+    def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
+
+    def receive: Receive = {
+      case LlegirDirectori(nom) =>
+        val fitxers = llistaFitxers(nom)
+        fitxers.foreach{
+          f=>MapRouter ! ProcessarFitxer(f)
+          pendent+=1}
+
+      case FitxerLlegit(dades) =>
+        pendent-=1
+        LlistaContingutFitxers = List(dades):::LlistaContingutFitxers
+        if(pendent == 0){
+          val ReduceRouter = context.system.actorOf(RoundRobinPool(100).props(Props[ReduceWorkerProcessatFitxers]))
+          LlistaContingutFitxers.foreach{f=>
+            ReduceRouter!TractarContingutFitxer(f,stopWords)
+            pendent+=1}
+        }
+
+      case FitxerTractat(dades) =>
+        pendent-=1
+        diccionariFitxers+=(dades._1->(dades._2,dades._3))
+        if(pendent==0){
+          context.system.terminate()
+          val fi = System.nanoTime()
+          println("Duració: ", (fi-inici).toDouble/1000000000.0)
+        }
+
+
+    }
+  }
 
   //rep una String i retorn una llista amb tuples (paraula, freqüència)
   def freq(text:String, n:Int):List[(String, Int)] =
@@ -68,19 +146,6 @@ object SimilitutEntreDocs extends App {
   }
 
 
-  //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
-  def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
-
-  //donat un fitxer XML, el llegeix i converteix a una tupla amb el titol, el contingut i les referencies
-  def mapFreq(file:String):(String, String, List[String]) =
-    tractaXMLdoc(file)
-
-  //rep un fitxer en format tupla de strings (Títol, Contingut, Referències) i
-  //retorna una tupla equivalent, canviant el contingut per una llista amb les parelles de valors (paraula, frequencia)
-  def reduce(fileContent:(String, String, List[String]), stopWords:List[String]):(String, List[(String, Double)], List[String]) =
-    (fileContent._1, freqAtf(nonStopFreq(fileContent._2,stopWords,1)), fileContent._3)
-
-
 
 
   override def main(args: Array[String]): Unit = {
@@ -128,6 +193,13 @@ object SimilitutEntreDocs extends App {
     val end = System.nanoTime()
     println(hi)
     println((end-start).toDouble/1000000000.0)
+
+    println("\n\n\n\n\nINICI DEL CAMP MINAT: \n")
+
+    val system = ActorSystem("Aggregator")
+    val act = system.actorOf(Props[MapReduceTractamentFitxers])
+    act ! LlegirDirectori(DirectoriFitxers)
+
 
   }
 }
