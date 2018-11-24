@@ -1,4 +1,5 @@
 import java.io.File
+import java.util.concurrent.TimeUnit
 
 import scala.io.Source
 import scala.math.sqrt
@@ -6,20 +7,25 @@ import scala.xml.XML
 import scala.util.matching.Regex
 import akka.actor._
 import akka.routing._
+import akka.pattern.ask
+import akka.util.Timeout
 
 import scala.collection.mutable
+import scala.concurrent.Await
 
 object SimilitutEntreDocs extends App {
 
   final val StopWordsFileName = "english-stop.txt"
   final val DirectoriFitxers = "wikidocs"
 
+  //classes de missatges entre els actors
   case class LlegirDirectori(nom:String)
   case class ProcessarFitxer(nom:String)
   case class FitxerLlegit(contingut:(String, String, List[String]))
   case class TractarContingutFitxer(dades:(String, String, List[String]), stopWords:List[String])
   case class FitxerTractat(dades:(String, List[(String, Double)], List[String]))
 
+  //classe del mapWorker
   class MapWorkerProcessatFitxers() extends Actor{
     //donat un fitxer XML, el llegeix i converteix a una tupla amb el titol, el contingut i les referencies
     def mapFreq(file:String):(String, String, List[String]) =
@@ -31,6 +37,7 @@ object SimilitutEntreDocs extends App {
     }
   }
 
+  //classe del reduceWorker
   class ReduceWorkerProcessatFitxers() extends Actor{
     //rep un fitxer en format tupla de strings (Títol, Contingut, Referències) i
     //retorna una tupla equivalent, canviant el contingut per una llista amb les parelles de valors (paraula, frequencia)
@@ -43,10 +50,12 @@ object SimilitutEntreDocs extends App {
     }
   }
 
+  //classe del master del tractament de fitxers
   class MapReduceTractamentFitxers() extends Actor{
+    val nombreActors = 100
     val inici = System.nanoTime()
     var pendent = 0
-    val MapRouter: ActorRef = context.system.actorOf(RoundRobinPool(100).props(Props[MapWorkerProcessatFitxers]))
+    val MapRouter: ActorRef = context.system.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerProcessatFitxers]))
     val stopWords: List[String] = Source.fromFile(StopWordsFileName).getLines.toList
     var LlistaContingutFitxers:List[(String, String, List[String])] = Nil
     var diccionariFitxers: mutable.Map[String, (List[(String, Double)], List[String])] = mutable.Map[String, (List[(String, Double)], List[String])]()
@@ -65,7 +74,7 @@ object SimilitutEntreDocs extends App {
         pendent-=1
         LlistaContingutFitxers = List(dades):::LlistaContingutFitxers
         if(pendent == 0){
-          val ReduceRouter = context.system.actorOf(RoundRobinPool(100).props(Props[ReduceWorkerProcessatFitxers]))
+          val ReduceRouter = context.system.actorOf(RoundRobinPool(nombreActors).props(Props[ReduceWorkerProcessatFitxers]))
           LlistaContingutFitxers.foreach{f=>
             ReduceRouter!TractarContingutFitxer(f,stopWords)
             pendent+=1}
@@ -75,6 +84,7 @@ object SimilitutEntreDocs extends App {
         pendent-=1
         diccionariFitxers+=(dades._1->(dades._2,dades._3))
         if(pendent==0){
+          sender ! diccionariFitxers
           context.system.terminate()
           val fi = System.nanoTime()
           println("Duració: ", (fi-inici).toDouble/1000000000.0)
@@ -198,7 +208,9 @@ object SimilitutEntreDocs extends App {
 
     val system = ActorSystem("Aggregator")
     val act = system.actorOf(Props[MapReduceTractamentFitxers])
-    act ! LlegirDirectori(DirectoriFitxers)
+    implicit val timeout = Timeout(120,TimeUnit.SECONDS)
+    val futur = act ? LlegirDirectori(DirectoriFitxers)
+    val result = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
 
 
   }
