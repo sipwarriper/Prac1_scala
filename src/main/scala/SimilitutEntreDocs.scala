@@ -27,6 +27,14 @@ object SimilitutEntreDocs extends App {
   case class TractarContingutFitxer(dades:(String, String, List[String]), stopWords:List[String])
   case class FitxerTractat(dades:(String, List[(String, Double)], List[String]))
 
+  //missatges per idf
+  case class CridaIDF(dades:(String, List[(String, Double)], List[String]))
+  case class MapIDF(llistaFreqs:List[(String, Double)])
+  case class FreqMapejat(llistaFreqs:List[(String, Double)])
+  case class ReduceIDF(llistaFreqs:List[(String, Double)], lletra:Char)
+  case class FreqReduit(llistaFreqs:List[(String, Double)])
+
+
   //classe del mapWorker
   class MapWorkerProcessatFitxers() extends Actor{
     //donat un fitxer XML, el llegeix i converteix a una tupla amb el titol, el contingut i les referencies
@@ -52,12 +60,33 @@ object SimilitutEntreDocs extends App {
     }
   }
 
+  //classe del mapIDF
+  class MapWorkerIDF() extends Actor{
+    def mapIDF(llistaFreqs:List[(String, Double)]):List[(String,Double)] =
+      llistaFreqs.map{x=>(x._1, 1.0)}
+
+    override def receive: Receive = {
+      case MapIDF(llistaFreqs) => val dades = mapIDF(llistaFreqs)
+        sender ! FreqMapejat(dades)
+    }
+  }
+  //classe del reduceIDF
+  class ReduceWorkerIDF() extends Actor{
+    def reduceIDF(llistaFreqs:List[(String, Double)],lletra:Char):List[(String,Double)] =
+      llistaFreqs
+
+    override def receive: Receive = {
+      case ReduceIDF(llistaFreqs,lletra) => val dades = reduceIDF(llistaFreqs.dropWhile{a=> a._1.head<lletra},lletra)
+        sender ! FreqReduit(dades)
+    }
+  }
+
   //classe del master del tractament de fitxers
   class MapReduceTractamentFitxers() extends Actor{
     val nombreActors = 100
     val inici = System.nanoTime()
     var pendent = 0
-    var pare:ActorRef = null
+    var pare:ActorRef = _
     val MapRouter: ActorRef = context.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerProcessatFitxers]))
     val stopWords: List[String] = Source.fromFile(StopWordsFileName).getLines.toList
     var LlistaContingutFitxers:List[(String, String, List[String])] = Nil
@@ -154,8 +183,8 @@ object SimilitutEntreDocs extends App {
 
     // identifico referències
     val refs=(new Regex("\\[\\[[^\\]]*\\]\\]") findAllIn contingut).toList
-    // elimino les que tenen :
-    val kk = refs.filterNot(x=> x.contains(':'))
+    // elimino les que tenen : (fitxers) i # (referencies internes)
+    val kk = refs.filterNot(x=> x.contains(':') || x.contains('#'))
     (titol, contingut, kk)
   }
 
@@ -210,13 +239,19 @@ object SimilitutEntreDocs extends App {
 
     println("\n\n\n\n\nINICI DEL CAMP MINAT: \n")
 
-    val system = ActorSystem("Aggregator")
+    val system = ActorSystem("SystemActor")
     val act = system.actorOf(Props[MapReduceTractamentFitxers])
     implicit val timeout = Timeout(120,TimeUnit.SECONDS)
     val futur = act ? LlegirDirectori(DirectoriFitxers)
     val result = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
 
-
+    /*
+      TODO-1: fer el vector de idf
+      todo-2: fer un mapreduce que faci la comparació tots amb tots
+      todo-3: llistar els parells de pagines similars q no es referenciin
+      todo-4: llistar parell de pagines q es referenciin pero q no siguin prou similars
+      todo-5: relacionat amb els dos anteriors, decidir llindar
+     */
   }
 }
 

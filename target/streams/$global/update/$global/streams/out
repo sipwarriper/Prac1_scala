@@ -1,29 +1,41 @@
 [info] Updating ...
-[debug] :: resolving dependencies :: default#similitud_entre_documents_2.12;0.1
+[debug] :: resolving dependencies :: similitud_entre_documents#similitud_entre_documents_2.12;0.1
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool]
 [debug] 	validate = true
 [debug] 	refresh = false
 [debug] resolving dependencies for configuration 'compile'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.12.7
 [debug] 	found org.scala-lang#scala-library;2.12.7 in sbt-chain
 [debug] 	[2.12.7] org.scala-lang#scala-library;2.12.7
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-actor_2.12;2.5.6 {compile=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.12;2.5.6
-[debug] 	found com.typesafe.akka#akka-actor_2.12;2.5.6 in sbt-chain
+[debug] sbt-chain-delegate: Checking cache for: dependency: com.typesafe.akka#akka-actor_2.12;2.5.6 {compile=[default(compile)]}
+[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-actor_2.12/2.5.6/ivys/ivy.xml
+[debug] 	local: no ivy file found for com.typesafe.akka#akka-actor_2.12;2.5.6
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom
+[debug] 	public: found md file for com.typesafe.akka#akka-actor_2.12;2.5.6
+[debug] 		=> https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom (2.5.6)
+[debug] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom
+[debug] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.5.6!akka-actor_2.12.pom(pom.original) (391ms)
+[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-actor_2.12/2.5.6/jars/akka-actor_2.12.jar
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
+[debug] 	found com.typesafe.akka#akka-actor_2.12;2.5.6 in public
 [debug] 	[2.5.6] com.typesafe.akka#akka-actor_2.12;2.5.6
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -43,8 +55,20 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe#config;1.3.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.1
-[debug] 	found com.typesafe#config;1.3.1 in sbt-chain
+[debug] sbt-chain-delegate: Checking cache for: dependency: com.typesafe#config;1.3.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] 		tried /home/klanc/.ivy2/local/com.typesafe/config/1.3.1/ivys/ivy.xml
+[debug] 	local: no ivy file found for com.typesafe#config;1.3.1
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom
+[debug] 	public: found md file for com.typesafe#config;1.3.1
+[debug] 		=> https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom (1.3.1)
+[debug] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom
+[debug] 	[SUCCESSFUL ] com.typesafe#config;1.3.1!config.pom(pom.original) (287ms)
+[debug] 		tried /home/klanc/.ivy2/local/com.typesafe/config/1.3.1/bundles/config.jar
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
+[debug] 	found com.typesafe#config;1.3.1 in public
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [compile->compile(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [compile->runtime(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [compile->compile]
@@ -57,8 +81,20 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-java8-compat_2.12;0.8.0
-[debug] 	found org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 in sbt-chain
+[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
+[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang.modules#scala-java8-compat_2.12;0.8.0
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom
+[debug] 	public: found md file for org.scala-lang.modules#scala-java8-compat_2.12;0.8.0
+[debug] 		=> https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom (0.8.0)
+[debug] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom
+[debug] 	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.pom(pom.original) (290ms)
+[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/bundles/scala-java8-compat_2.12.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
+[debug] 	found org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 in public
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [compile->compile(*)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -81,15 +117,15 @@
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [runtime->compile]
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [runtime->runtime(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.1.1 {compile=[default(compile)]}
 [debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.1.1 {compile=[default(compile)]}
-[debug] 		tried /home/sipwarriper/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.1.1/ivys/ivy.xml
+[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.1.1/ivys/ivy.xml
 [debug] 	local: no ivy file found for org.scala-lang.modules#scala-xml_2.12;1.1.1
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom
 [debug] 	public: found md file for org.scala-lang.modules#scala-xml_2.12;1.1.1
@@ -98,12 +134,12 @@
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom
-[debug] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.pom(pom.original) (1297ms)
-[debug] 		tried /home/sipwarriper/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.1.1/bundles/scala-xml_2.12.jar
+[debug] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.pom(pom.original) (293ms)
+[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.1.1/bundles/scala-xml_2.12.jar
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
 [debug] 	found org.scala-lang.modules#scala-xml_2.12;1.1.1 in public
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
@@ -122,29 +158,29 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] resolving dependencies for configuration 'runtime'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [runtime]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [runtime]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -194,16 +230,16 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
@@ -222,34 +258,34 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] resolving dependencies for configuration 'test'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [test]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [runtime]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [test]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [runtime]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -303,18 +339,18 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
@@ -333,12 +369,12 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -346,11 +382,23 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-testkit_2.12;2.5.6 {test=[default(compile)]}
-[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.12;2.5.6
-[debug] 	found com.typesafe.akka#akka-testkit_2.12;2.5.6 in sbt-chain
+[debug] sbt-chain-delegate: Checking cache for: dependency: com.typesafe.akka#akka-testkit_2.12;2.5.6 {test=[default(compile)]}
+[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-testkit_2.12/2.5.6/ivys/ivy.xml
+[debug] 	local: no ivy file found for com.typesafe.akka#akka-testkit_2.12;2.5.6
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom
+[debug] 	public: found md file for com.typesafe.akka#akka-testkit_2.12;2.5.6
+[debug] 		=> https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom (2.5.6)
+[debug] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom
+[debug] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.12;2.5.6!akka-testkit_2.12.pom(pom.original) (295ms)
+[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-testkit_2.12/2.5.6/jars/akka-testkit_2.12.jar
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
+[debug] 	found com.typesafe.akka#akka-testkit_2.12;2.5.6 in public
 [debug] 	[2.5.6] com.typesafe.akka#akka-testkit_2.12;2.5.6
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -373,17 +421,17 @@
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [runtime->compile]
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->com.typesafe.akka#akka-actor_2.12;2.5.6 [runtime->runtime(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->com.typesafe.akka#akka-actor_2.12;2.5.6 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] resolving dependencies for configuration 'provided'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [provided]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [provided]
 [debug] resolving dependencies for configuration 'optional'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [optional]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [optional]
 [debug] resolving dependencies for configuration 'compile-internal'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile-internal]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile-internal]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -392,10 +440,10 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -404,8 +452,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -463,10 +511,10 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -475,8 +523,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
@@ -495,18 +543,18 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [optional]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [provided]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [optional]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [provided]
 [debug] resolving dependencies for configuration 'runtime-internal'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [runtime-internal]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [runtime]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [runtime-internal]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [runtime]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -515,10 +563,10 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -527,8 +575,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -586,10 +634,10 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -598,8 +646,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
@@ -618,18 +666,18 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [optional]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [optional]
 [debug] resolving dependencies for configuration 'test-internal'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [test-internal]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [test]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [runtime]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [test-internal]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [test]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [runtime]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -642,10 +690,10 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -658,8 +706,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -725,10 +773,10 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-java8-compat_2.12;0.8.0->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -741,8 +789,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
@@ -761,12 +809,12 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang.modules#scala-xml_2.12;1.1.1->org.scala-lang#scala-library;2.12.7 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.6 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->default(compile)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->default(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
@@ -779,8 +827,8 @@
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [compile->master(compile)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -801,25 +849,25 @@
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->org.scala-lang#scala-library;2.12.7 [runtime->compile]
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->com.typesafe.akka#akka-actor_2.12;2.5.6 [runtime->runtime(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-testkit_2.12;2.5.6->com.typesafe.akka#akka-actor_2.12;2.5.6 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.3 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [optional]
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [provided]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [optional]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [provided]
 [debug] resolving dependencies for configuration 'plugin'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [plugin]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [plugin]
 [debug] resolving dependencies for configuration 'pom'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [pom]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [pom]
 [debug] resolving dependencies for configuration 'scala-tool'
-[debug] == resolving dependencies for default#similitud_entre_documents_2.12;0.1 [scala-tool]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->default]
+[debug] == resolving dependencies for similitud_entre_documents#similitud_entre_documents_2.12;0.1 [scala-tool]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->default]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.12.7
 [debug] 	found org.scala-lang#scala-compiler;2.12.7 in sbt-chain
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.7->org.scala-lang#scala-library;2.12.7 [compile->master(*)]
@@ -920,12 +968,12 @@
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.7->org.scala-lang#scala-reflect;2.12.7 [runtime->compile]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.7->org.scala-lang.modules#scala-xml_2.12;1.0.6 [runtime->runtime(*)]
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.7->org.scala-lang.modules#scala-xml_2.12;1.0.6 [runtime->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->master]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->optional(default)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-compiler;2.12.7 [scala-tool->optional(default)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-reflect;2.12.7 {compile=[compile(*), master(*)], runtime=[runtime(*)]}
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.7->jline#jline;2.14.6 [optional->master(*)]
@@ -947,200 +995,60 @@
 [debug] sbt-chain: module revision found in cache: jline#jline;2.14.6
 [debug] 	found jline#jline;2.14.6 in sbt-chain
 [debug] == resolving dependencies org.scala-lang#scala-compiler;2.12.7->jline#jline;2.14.6 [optional->compile(*)]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->default]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->runtime]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->compile]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->master]
-[debug] == resolving dependencies default#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->optional(default)]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->default]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->runtime]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->compile]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->master]
+[debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang#scala-library;2.12.7 [scala-tool->optional(default)]
 [debug] ignoring unhandled DependencyDescriptorMediator: class sbt.internal.librarymanagement.IvyScalaUtil$OverrideScalaMediator
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.12;2.5.6!akka-actor_2.12.jar
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar
-[debug] 	[NOT REQUIRED] com.typesafe#config;1.3.1!config.jar(bundle)
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(bundle)
-[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.12;2.5.6!akka-testkit_2.12.jar
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
+[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
 [info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar ...
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
+[info] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
+[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
+[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
 [debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default ivy user dir defined: set to /home/sipwarriper/.ivy2
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] no default cache defined: set to /home/sipwarriper/.ivy2/cache
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (64ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (80ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (65ms)
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (75ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
-[debug] settings loaded (82ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] settings loaded (65ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (83ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (63ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] including url: jar:file:/home/sipwarriper/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.6/ivy-2.3.0-sbt-b18f59ea3bc914a297bb6f1a4f7fb0ace399e310.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
-[debug] settings loaded (58ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
-[debug] settings loaded (83ms)
-[debug] 	default cache: /home/sipwarriper/.ivy2/cache
-[debug] 	default resolver: default
-[debug] 	-- 5 resolvers:
-[debug] 	shared [file]
-[debug] 	default [chain] [local, main]
-[debug] 	public [ibiblio]
-[debug] 	main [chain] [shared, public]
-[debug] 	local [file]
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar.sha1
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar.sha1
 [debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
+[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.12;2.5.6!akka-testkit_2.12.jar (9101ms)
+[info] 	[SUCCESSFUL ] com.typesafe#config;1.3.1!config.jar(bundle) (9103ms)
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.jar(bundle) (12777ms)
-[debug] :: resolution report :: resolve 8733ms :: artifacts dl 12800ms
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 compile produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-compile.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 runtime produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-runtime.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 test produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-test.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 provided produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-provided.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 optional produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-optional.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 compile-internal produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-compile-internal.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 runtime-internal produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-runtime-internal.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 test-internal produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-test-internal.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 plugin produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-plugin.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 pom produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-pom.xml
-[debug] 	report for default#similitud_entre_documents_2.12;0.1 scala-tool produced in /home/sipwarriper/IdeaProjects/Similitud_Entre_Documents/target/scala-2.12/resolution-cache/reports/default-similitud_entre_documents_2.12-scala-tool.xml
-[debug] 	resolve done (8733ms resolve - 12800ms download)
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.jar(bundle) (12006ms)
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
+[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(bundle) (14433ms)
+[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar.sha1
+[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
+[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.5.6!akka-actor_2.12.jar (14677ms)
+[debug] :: resolution report :: resolve 3937ms :: artifacts dl 14680ms
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 compile produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-compile.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 runtime produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-runtime.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 test produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-test.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 provided produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-provided.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 optional produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-optional.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 compile-internal produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-compile-internal.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 runtime-internal produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-runtime-internal.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 test-internal produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-test-internal.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 plugin produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-plugin.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 pom produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-pom.xml
+[debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 scala-tool produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-scala-tool.xml
+[debug] 	resolve done (3937ms resolve - 14680ms download)
 [info] Done updating.
