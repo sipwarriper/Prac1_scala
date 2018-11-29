@@ -19,20 +19,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-actor_2.12;2.5.6 {compile=[default(compile)]}
-[debug] sbt-chain-delegate: Checking cache for: dependency: com.typesafe.akka#akka-actor_2.12;2.5.6 {compile=[default(compile)]}
-[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-actor_2.12/2.5.6/ivys/ivy.xml
-[debug] 	local: no ivy file found for com.typesafe.akka#akka-actor_2.12;2.5.6
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom
-[debug] 	public: found md file for com.typesafe.akka#akka-actor_2.12;2.5.6
-[debug] 		=> https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom (2.5.6)
-[debug] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.pom
-[debug] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.5.6!akka-actor_2.12.pom(pom.original) (391ms)
-[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-actor_2.12/2.5.6/jars/akka-actor_2.12.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
-[debug] 	found com.typesafe.akka#akka-actor_2.12;2.5.6 in public
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-actor_2.12;2.5.6
+[debug] 	found com.typesafe.akka#akka-actor_2.12;2.5.6 in sbt-chain
 [debug] 	[2.5.6] com.typesafe.akka#akka-actor_2.12;2.5.6
 [debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->runtime]
 [debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-actor_2.12;2.5.6 [compile->compile]
@@ -55,20 +43,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe#config;1.3.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] sbt-chain-delegate: Checking cache for: dependency: com.typesafe#config;1.3.1 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] 		tried /home/klanc/.ivy2/local/com.typesafe/config/1.3.1/ivys/ivy.xml
-[debug] 	local: no ivy file found for com.typesafe#config;1.3.1
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom
-[debug] 	public: found md file for com.typesafe#config;1.3.1
-[debug] 		=> https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom (1.3.1)
-[debug] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.pom
-[debug] 	[SUCCESSFUL ] com.typesafe#config;1.3.1!config.pom(pom.original) (287ms)
-[debug] 		tried /home/klanc/.ivy2/local/com.typesafe/config/1.3.1/bundles/config.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
-[debug] 	found com.typesafe#config;1.3.1 in public
+[debug] sbt-chain: module revision found in cache: com.typesafe#config;1.3.1
+[debug] 	found com.typesafe#config;1.3.1 in sbt-chain
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [compile->compile(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [compile->runtime(*)]
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->com.typesafe#config;1.3.1 [compile->compile]
@@ -81,20 +57,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
-[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/ivys/ivy.xml
-[debug] 	local: no ivy file found for org.scala-lang.modules#scala-java8-compat_2.12;0.8.0
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom
-[debug] 	public: found md file for org.scala-lang.modules#scala-java8-compat_2.12;0.8.0
-[debug] 		=> https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom (0.8.0)
-[debug] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.pom
-[debug] 	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.pom(pom.original) (290ms)
-[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-java8-compat_2.12/0.8.0/bundles/scala-java8-compat_2.12.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
-[debug] 	found org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 in public
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-java8-compat_2.12;0.8.0
+[debug] 	found org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 in sbt-chain
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
 [debug] == resolving dependencies com.typesafe.akka#akka-actor_2.12;2.5.6->org.scala-lang.modules#scala-java8-compat_2.12;0.8.0 [compile->compile(*)]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.12.0 {compile=[compile(*), master(compile)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.12.7 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}
@@ -124,20 +88,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.1.1 {compile=[default(compile)]}
-[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.1.1 {compile=[default(compile)]}
-[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.1.1/ivys/ivy.xml
-[debug] 	local: no ivy file found for org.scala-lang.modules#scala-xml_2.12;1.1.1
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom
-[debug] 	public: found md file for org.scala-lang.modules#scala-xml_2.12;1.1.1
-[debug] 		=> https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom (1.1.1)
-[debug] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.pom
-[debug] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.pom(pom.original) (293ms)
-[debug] 		tried /home/klanc/.ivy2/local/org.scala-lang.modules/scala-xml_2.12/1.1.1/bundles/scala-xml_2.12.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
-[debug] 	found org.scala-lang.modules#scala-xml_2.12;1.1.1 in public
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.12;1.1.1
+[debug] 	found org.scala-lang.modules#scala-xml_2.12;1.1.1 in sbt-chain
 [debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->runtime]
 [debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->org.scala-lang.modules#scala-xml_2.12;1.1.1 [compile->compile]
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.6 {test=[runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {test=[runtime(*), master(compile)]}
@@ -382,20 +334,8 @@
 [debug] dependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.7 {scala-tool=[default, optional(default)]}
 [debug] dependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.7 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.7 {scala-tool=[default, optional(default)], compile=[default(compile)]}
 [debug] sbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-testkit_2.12;2.5.6 {test=[default(compile)]}
-[debug] sbt-chain-delegate: Checking cache for: dependency: com.typesafe.akka#akka-testkit_2.12;2.5.6 {test=[default(compile)]}
-[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-testkit_2.12/2.5.6/ivys/ivy.xml
-[debug] 	local: no ivy file found for com.typesafe.akka#akka-testkit_2.12;2.5.6
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom
-[debug] 	public: found md file for com.typesafe.akka#akka-testkit_2.12;2.5.6
-[debug] 		=> https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom (2.5.6)
-[debug] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.pom
-[debug] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.12;2.5.6!akka-testkit_2.12.pom(pom.original) (295ms)
-[debug] 		tried /home/klanc/.ivy2/local/com.typesafe.akka/akka-testkit_2.12/2.5.6/jars/akka-testkit_2.12.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
-[debug] 	found com.typesafe.akka#akka-testkit_2.12;2.5.6 in public
+[debug] sbt-chain: module revision found in cache: com.typesafe.akka#akka-testkit_2.12;2.5.6
+[debug] 	found com.typesafe.akka#akka-testkit_2.12;2.5.6 in sbt-chain
 [debug] 	[2.5.6] com.typesafe.akka#akka-testkit_2.12;2.5.6
 [debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->runtime]
 [debug] == resolving dependencies similitud_entre_documents#similitud_entre_documents_2.12;0.1->com.typesafe.akka#akka-testkit_2.12;2.5.6 [test->compile]
@@ -1004,41 +944,16 @@
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.7!scala-library.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
-[debug] 		tried https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
-[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)
-[info] downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
-[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.jar(bundle)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-actor_2.12;2.5.6!akka-actor_2.12.jar
+[debug] 	[NOT REQUIRED] com.typesafe#config;1.3.1!config.jar(bundle)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(bundle)
+[debug] 	[NOT REQUIRED] com.typesafe.akka#akka-testkit_2.12;2.5.6!akka-testkit_2.12.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.7!scala-compiler.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.7!scala-reflect.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-testkit_2.12/2.5.6/akka-testkit_2.12-2.5.6.jar
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/config/1.3.1/config-1.3.1.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-testkit_2.12;2.5.6!akka-testkit_2.12.jar (9101ms)
-[info] 	[SUCCESSFUL ] com.typesafe#config;1.3.1!config.jar(bundle) (9103ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/1.1.1/scala-xml_2.12-1.1.1.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-xml_2.12;1.1.1!scala-xml_2.12.jar(bundle) (12006ms)
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/modules/scala-java8-compat_2.12/0.8.0/scala-java8-compat_2.12-0.8.0.jar
-[info] 	[SUCCESSFUL ] org.scala-lang.modules#scala-java8-compat_2.12;0.8.0!scala-java8-compat_2.12.jar(bundle) (14433ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/com/typesafe/akka/akka-actor_2.12/2.5.6/akka-actor_2.12-2.5.6.jar
-[info] 	[SUCCESSFUL ] com.typesafe.akka#akka-actor_2.12;2.5.6!akka-actor_2.12.jar (14677ms)
-[debug] :: resolution report :: resolve 3937ms :: artifacts dl 14680ms
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar
+[debug] :: resolution report :: resolve 101ms :: artifacts dl 7ms
 [debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 compile produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-compile.xml
 [debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 runtime produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-runtime.xml
 [debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 test produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-test.xml
@@ -1050,5 +965,5 @@
 [debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 plugin produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-plugin.xml
 [debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 pom produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-pom.xml
 [debug] 	report for similitud_entre_documents#similitud_entre_documents_2.12;0.1 scala-tool produced in /home/klanc/Projects/Uni/4t/ProgDec/Prac1_scala/target/scala-2.12/resolution-cache/reports/similitud_entre_documents-similitud_entre_documents_2.12-scala-tool.xml
-[debug] 	resolve done (3937ms resolve - 14680ms download)
+[debug] 	resolve done (101ms resolve - 7ms download)
 [info] Done updating.
