@@ -28,7 +28,7 @@ object SimilitutEntreDocs extends App {
   case class FitxerTractat(dades:(String, List[(String, Double)], List[String]))
 
   //missatges per idf
-  case class CridaIDF(dades:(String, List[(String, Double)], List[String]))
+  case class CridaIDF(dades:mutable.Map[String, (List[(String, Double)], List[String])])
   case class MapIDF(llistaFreqs:List[(String, Double)])
   case class FreqMapejat(llistaFreqs:List[(String, Double)])
   case class ReduceIDF(llistaFreqs:List[(String, Double)], lletra:Char)
@@ -73,30 +73,64 @@ object SimilitutEntreDocs extends App {
   //classe del reduceIDF
   class ReduceWorkerIDF() extends Actor{
     def reduceIDF(llistaFreqs:List[(String, Double)],lletra:Char):List[(String,Double)] =
-      llistaFreqs
+      llistaFreqs.toMap.groupBy(_._1).mapValues(_.size.toDouble).toList
+      //llistaFreqs.groupBy(word => word).mapValues(_.size)
 
     override def receive: Receive = {
-      case ReduceIDF(llistaFreqs,lletra) => val dades = reduceIDF(llistaFreqs.dropWhile{a=> a._1.head<lletra},lletra)
+      case ReduceIDF(llistaFreqs,lletra) => val dades = reduceIDF(llistaFreqs.dropWhile{a=> a._1.head<lletra}.takeWhile{a=> a._1.head==lletra},lletra)
         sender ! FreqReduit(dades)
     }
   }
 
   //classe del master del tractament de fitxers
   class MapReduceTractamentFitxers() extends Actor{
-    val nombreActors = 100
+    val nombreActors = 10
     val inici = System.nanoTime()
     var pendent = 0
     var pare:ActorRef = _
-    val MapRouter: ActorRef = context.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerProcessatFitxers]))
+    var MapRouter: ActorRef = _
     val stopWords: List[String] = Source.fromFile(StopWordsFileName).getLines.toList
     var LlistaContingutFitxers:List[(String, String, List[String])] = Nil
     var diccionariFitxers: mutable.Map[String, (List[(String, Double)], List[String])] = mutable.Map[String, (List[(String, Double)], List[String])]()
 
+    var llistaFrequenciesMapejades:List[(String, Double)] = Nil
+    var llistaFrequenciesReduides:List[(String, Double)] = Nil
     //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
     def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
 
     def receive: Receive = {
+      case CridaIDF(dades) =>
+        println("iniciworker IDF")
+        MapRouter = context.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerIDF]))
+        pare = sender
+        dades.foreach{
+          f=>MapRouter ! MapIDF(f._2._1)
+            pendent+=1}
+
+      case FreqMapejat(dades) =>
+        pendent-=1
+        llistaFrequenciesMapejades = dades ::: llistaFrequenciesMapejades
+        if (pendent == 0){
+          val ReduceRouter = context.actorOf(RoundRobinPool(10).props(Props[ReduceWorkerIDF]))
+          llistaFrequenciesMapejades = llistaFrequenciesMapejades.sortBy(_._1)
+          ('a' to 'z').foreach{a =>
+            ReduceRouter ! ReduceIDF(llistaFrequenciesMapejades, a)
+            pendent+=1
+          }
+        }
+
+      case FreqReduit(dades) =>
+        pendent-=1
+        llistaFrequenciesReduides = dades ::: llistaFrequenciesReduides
+        if (pendent == 0){
+          context.system.terminate()
+          val fi = System.nanoTime()
+          println("Duració: " + (fi-inici).toDouble/1000000000.0 + " segons")
+          pare ! llistaFrequenciesReduides
+        }
+
       case LlegirDirectori(nom) =>
+        MapRouter = context.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerProcessatFitxers]))
         val fitxers = llistaFitxers(nom)
         pare = sender
         fitxers.foreach{
@@ -117,11 +151,13 @@ object SimilitutEntreDocs extends App {
         pendent-=1
         diccionariFitxers+=(dades._1->(dades._2,dades._3))
         if(pendent==0){
-          context.system.terminate()
+          //context.system.terminate()
           val fi = System.nanoTime()
           println("Duració: " + (fi-inici).toDouble/1000000000.0 + " segons")
           pare ! diccionariFitxers
         }
+
+      case _ => println("wtf")
 
 
     }
@@ -244,7 +280,10 @@ object SimilitutEntreDocs extends App {
     implicit val timeout = Timeout(120,TimeUnit.SECONDS)
     val futur = act ? LlegirDirectori(DirectoriFitxers)
     val result = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
-
+    println("hiii")
+    val futur2_0 = act ? CridaIDF(result)
+    val result2 = Await.result(futur2_0,timeout.duration)
+    println("hi")
     /*
       TODO-1: fer el vector de idf
       todo-2: fer un mapreduce que faci la comparació tots amb tots
