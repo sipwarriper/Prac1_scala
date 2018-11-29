@@ -1,4 +1,6 @@
 .idea/
+target/
+project/
 .floo
 .flooignore
 pg12.txt
