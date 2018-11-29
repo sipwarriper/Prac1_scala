@@ -32,7 +32,7 @@ object SimilitutEntreDocs extends App {
   case class MapIDF(llistaFreqs:List[(String, Double)])
   case class FreqMapejat(llistaFreqs:List[(String, Double)])
   case class ReduceIDF(llistaFreqs:List[(String, Double)], lletra:Char)
-  case class FreqReduit(llistaFreqs:List[(String, Double)])
+  case class FreqReduit(llistaFreqs:List[(String, Int)])
 
 
   //classe del mapWorker
@@ -72,8 +72,11 @@ object SimilitutEntreDocs extends App {
   }
   //classe del reduceIDF
   class ReduceWorkerIDF() extends Actor{
-    def reduceIDF(llistaFreqs:List[(String, Double)],lletra:Char):List[(String,Double)] =
-      llistaFreqs.toMap.groupBy(_._1).mapValues(_.size.toDouble).toList
+    def reduceIDF(llistaFreqs:List[(String, Double)],lletra:Char):List[(String,Int)] =
+      //val temp = llistaFreqs.toMap.groupBy(_._1)
+      //val tempValue = llistaFreqs.toMap.groupBy(_._2)
+      //llistaFreqs.toMap.reduceLeft((x,y) => if (x)
+      llistaFreqs.groupBy(_._1).mapValues(_.size).toList
       //llistaFreqs.groupBy(word => word).mapValues(_.size)
 
     override def receive: Receive = {
@@ -94,7 +97,7 @@ object SimilitutEntreDocs extends App {
     var diccionariFitxers: mutable.Map[String, (List[(String, Double)], List[String])] = mutable.Map[String, (List[(String, Double)], List[String])]()
 
     var llistaFrequenciesMapejades:List[(String, Double)] = Nil
-    var llistaFrequenciesReduides:List[(String, Double)] = Nil
+    var llistaFrequenciesReduides:List[(String, Int)] = Nil
     //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
     def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
 
@@ -282,7 +285,7 @@ object SimilitutEntreDocs extends App {
     val result = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
     println("hiii")
     val futur2_0 = act ? CridaIDF(result)
-    val result2 = Await.result(futur2_0,timeout.duration)
+    val result2 = Await.result(futur2_0,timeout.duration).asInstanceOf[List[(String, Int)]].sortBy(-_._2)
     println("hi")
     /*
       TODO-1: fer el vector de idf
