@@ -93,7 +93,7 @@ Hem dividit el nostre codi en dos fitxers, SimilitudEntreDocuments.scala i MapRe
 Aquest fitxer inclou les següents funcions:
 \subsection{Funcions de freqüència}
 
-\subsubsection*{Funció Freqüència}
+\subsubsection{Funció Freqüència}
 \begin{lstlisting}
   //Rebent una String i un enter n dóna com a resultat una llista amb tuples (n-grames, freqüència)
   def freq(text:String, n:Int):List[(String, Int)] =
@@ -113,7 +113,7 @@ En la funció usem la funció que explicarem a continuació, \texttt{normalitza}
   \item \texttt{mapValues}: L'usem per reduir els resultats dels valors anteriors en un element de Diccionari, en aquest cas: String -> Int.
 \end{itemize}
 
-\subsubsection*{Funció de normalització}
+\subsubsection{Funció de normalització}
 \begin{lstlisting}
   //Rep una String i la normalitza (canvia tot el que no és lletra per espais i passa la string a minúscules)
   def normalitza(text:String):String =
@@ -124,7 +124,7 @@ Funció que per cada element de una String fa un map per canviar tots els elemen
 
 De les funcions de Scala no n'usem cap de nova, apart de \texttt{trim} que ens treu els espais generats al principi i al final de la String normalitzada.
 
-\subsubsection*{Funció de Freqüències sense \textit{StopWords}}
+\subsubsection{Funció de Freqüències sense \textit{StopWords}}
 \begin{lstlisting}
   //Rep una String i una llista de Strings amb stop words, i fa el vector de frequencies filtran les stop words.
   def nonStopFreq(text:String, stop:List[String], n:Int):List[(String, Int)] =
@@ -133,7 +133,7 @@ De les funcions de Scala no n'usem cap de nova, apart de \texttt{trim} que ens t
 
 Funció molt semblant a la de freqüències normals, però en aquest cas, abans del sliding, filtrem les \textit{stopwords} donades.
 
-\subsubsection*{Funció de distribució de paraules}
+\subsubsection{Funció de distribució de paraules}
 \begin{lstlisting}
   //Obtenim les 10 frequències més frequents, i les 5 menys frequents
   def paraulafreqfreq(llistaFrequencies:List[(String,Int)]): Unit = {
@@ -153,7 +153,7 @@ Funció molt semblant a la de freqüències normals, però en aquest cas, abans 
 
 La única funció per comparar és la funció \texttt{cosinesim}, però abans, introduirem les funcions auxiliars utilitzades per fer-lo.
 
-\subsubsection*{Funcions auxiliars}
+\subsubsection{Funcions auxiliars}
 
 \begin{lstlisting}
   //Rep dos vectors de frequencies absolutes i les converteix a tf.
@@ -178,7 +178,7 @@ La única funció per comparar és la funció \texttt{cosinesim}, però abans, i
   \item \textit{alinearVector}: Donat un vector a alinear, i un vector amb el qual s'ha de alinear, alinea el vector a alinear.
 \end{enumerate}
 
-\subsubsection*{Funció cosinesim}
+\subsubsection{Funció cosinesim}
 
 \begin{lstlisting}
   //Rep dos vectors amb les paraules i les seves freqüencies tf, i retorna la semblança entre aquests dos fitxers.
@@ -194,7 +194,7 @@ La funció dona per suposat que la freqüència donada és freqüència \textit{
 
 \subsection{Funcions pel MapReduce}
 
-\subsubsection*{Funció per Llegir fitxers XML}
+\subsubsection{Funció per Llegir fitxers XML}
 \begin{lstlisting}
   //Rep el nom de un docoment de la wiki, el llegeix i el filtra, resultant en el nom de l'article, el contingut d'aquest i una llista de referències cap a altres articles
   def tractaXMLdoc(docName:String): (String, String, List[String]) = {
@@ -218,7 +218,7 @@ Funció basada en el programa Scala donat pel professor, modificada per tal de e
 (a partir del caràcter '\texttt{|}').
 
 
-\subsubsection*{Llista de fitxers en un directori}
+\subsubsection{Llista de fitxers en un directori}
 \begin{lstlisting}
   //donada una string de directori, retorna la llista de fitxers que conté
   def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
@@ -229,7 +229,7 @@ Per fer-ho usem funcions del Java.
 
 \subsection{Funció del Apartat 2 de la Pràctica}
 
-Tenim tota la segona part de la pràctica en la següent funció:
+Tenim tota la segona part de la pràctica en la següent funció, que rep una n corresponent als n-grames que volem utilitzar per fer les funcions, i:
 
 \begin{lstlisting}
   def calcularSimilituds(n: Int, system: ActorSystem)= {
@@ -364,12 +364,12 @@ En aquest punt tocaria fer la comparació dels fitxers tots amb tots. Això òbv
 Amb això el primer apartat de la segona part de la Pràctica estaria acabat, faltant el segon, que consisteix en buscar els articles amb similituds per sobre d'un llindar però que no es referenciïn
 i fitxers que es referenciïn però no estiguin per sobre de cert altre llindar. Les dos les hem fet amb mètodes semblants, Un MapReduce per cada un que no fa res en el Reduce.
 \begin{itemize}
-  \item el map s'encarrega de filtrar els elements per {sobre||sota} d'un llindar que {no es || sí es} referenciïn.
+  \item el map s'encarrega de filtrar els elements per {sobre \texttt{||} sota} d'un llindar que {no es \texttt{||} sí es} referenciïn.
   \item no hi ha cap funció de tractament intermedi.
   \item no hi ha cap funció de reducció
 \end{itemize}
 
-Primer doncs, el primer cas, sent aquest el cas en què busquem parelles per sobre de cert llindar q no es referenciïn
+Primer doncs, el primer cas, sent aquest el cas en què busquem parelles per sobre de cert llindar que no es referenciïn:
 \begin{lstlisting}
   //donada llista referencies
   //map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
@@ -398,12 +398,103 @@ Primer doncs, el primer cas, sent aquest el cas en què busquem parelles per sob
   act4 ! PoisonPill
 \end{lstlisting}
 
-I per acabar
+I per acabar el cas en què busquem parelles per sota de cert llindar que es referenciïn:
+
+\begin{lstlisting}
+  //donada llista referencies
+  //map: eliminar els que no arribin a cert llindar, despres eliminar els referenciats
+  def mapObtenirRefsDiferents(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) = (
+    fitxer._1,fitxer._2.filter(_._2>LlindarReferenciats).filter{
+    f => diccionariFitxers(fitxer._1)._2.contains(f._1) || diccionariFitxers(f._1)._2.contains(fitxer._1)
+  })
+  //Fem l'actor del MapReduce
+  val act5 = system.actorOf(Props (new MapReduceFramework[
+    (String, List[(String, Double)]),
+    String,List[(String, Double)],
+    String, List[(String, Double)],
+    String, List[(String, Double)]]
+  (
+    {f=>List(mapObtenirRefsDiferents(f))},
+    {f=>f},
+    {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
+    100,100,resultatComparacions
+  )))
+
+  val futur5 = act5 ? Iniciar()
+  val resultatObtenirRefsDiferents = Await.result(futur5,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+  //parem l'actor
+  act5 ! PoisonPill
+\end{lstlisting}
+
+\subsubsection{Volcatge dels resultats en un fitxer}
+
+Usant les funcions de entrada-sortida del Java, fiquem el contingut resultant en fitxers per a cada variable:
+\begin{lstlisting}
+  val output = "output/"+DirectoriFitxers + "/"
+  val nomDiccionari = output + "diccionari_"+n+".txt"
+  val nomVectorIDF = output + "vectorIDF_"+n+".txt"
+  val nomResultatComparacions = output + "resultatComparacions_"+n+".txt"
+  val nomResultatRefs1 = output + "resultatRefs1_"+n+".txt"
+  val nomResultatRefs2 = output + "resultatRefs2_"+n+".txt"
+
+  val fitxerInicial = new File(nomDiccionari)
+  fitxerInicial.getParentFile.mkdirs()
+  var pw = new PrintWriter(fitxerInicial)
+  diccionariFitxers.foreach{f=>
+    pw.println("===" + f._1 + "\n====Llista Freqüències======")
+    f._2._1.foreach{elem =>
+      pw.println("    " + elem._1 + "-> " + elem._2.toString)
+    }
+    pw.println("====Llista Referències======")
+    f._2._2.foreach{elem =>
+      pw.println("    " + elem)
+    }
+    pw.print("\n\n")
+  }
+  pw.close()
+
+  pw = new PrintWriter(new File(nomVectorIDF))
+  diccionariIDF.foreach{f=>
+    pw.println(f._1 + " -> " + f._2.toString)
+  }
+  pw.close()
+
+  pw = new PrintWriter(new File(nomResultatComparacions))
+  resultatComparacions.foreach{f=>
+    if(f._2.nonEmpty) pw.println("===" + f._1 + "\n====Resultats Comparacions======")
+    f._2.foreach{element=>
+      pw.println("    " + element._1 + "-> " + element._2.toString)
+    }
+  }
+  pw.close()
+
+  pw = new PrintWriter(new File(nomResultatRefs1))
+  resultatObtenirNoRefs.foreach{f=>
+    if(f._2.nonEmpty) pw.println("===" + f._1 + "\n====Resultats Comparacions======")
+    f._2.foreach{element=>
+      pw.println("    " + element._1 + "-> " + element._2.toString)
+    }
+  }
+  pw.close()
+
+  pw = new PrintWriter(new File(nomResultatRefs2))
+  resultatObtenirRefsDiferents.foreach{f=>
+    if(f._2.nonEmpty) pw.println("===" + f._1 + "\n====Resultats Comparacions======")
+    f._2.foreach{element=>
+      pw.println("    " + element._1 + "-> " + element._2.toString)
+    }
+  }
+  pw.close()
+\end{lstlisting}
+
 
 
 
 
 \section{Fitxer MapReduceFramework.scala}
+
+
+
 
 
 
