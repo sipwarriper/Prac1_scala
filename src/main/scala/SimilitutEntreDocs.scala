@@ -321,7 +321,7 @@ object SimilitutEntreDocs extends App {
   }
 
   override def main(args: Array[String]): Unit = {
-    val filename = "pg12.txt"
+    val filename = "pg11.txt"
     val fileContents = Source.fromFile(filename).mkString
 
 //    val filename2 = "stopwordscat.txt"
@@ -352,7 +352,7 @@ object SimilitutEntreDocs extends App {
     println("Distribució de paraules")
     paraulafreqfreq(llistaFreq)
 
-    val filename3 = "pg12.txt"
+    val filename3 = "pg74.txt"
     println("\n\nComparació de pg11.txt amb pg74.txt utilitzant el cosinesim\n")
 
     val start = System.nanoTime()
