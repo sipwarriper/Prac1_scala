@@ -1,103 +1,27 @@
 import java.io.File
-import java.io._
 import java.util.concurrent.TimeUnit
 
-import scala.io.Source
-import scala.math._
-import scala.xml.XML
-import scala.util.matching.Regex
 import akka.actor._
-import akka.routing._
 import akka.pattern.ask
 import akka.util.Timeout
 
 import scala.collection.mutable
 import scala.concurrent.Await
-import scala.concurrent.duration._
+import scala.io.Source
+import scala.math._
+import scala.util.matching.Regex
+import scala.xml.XML
 
 
 object SimilitutEntreDocs extends App {
 
   final val StopWordsFileName = "stopwordscat.txt"
   final val DirectoriFitxers = "wikidocs-test"
+  final val LlindarNoReferenciats = 0.05
+  final val LlindarReferenciats = 0.01
   lazy final val nombreFitxers: Int =
     new File(DirectoriFitxers).list.length
   lazy final val stopWords = getStopWords(StopWordsFileName)
-
-  //crida de un mapreduce generic
-  case class Iniciar()
-
-
-  class MapReduceFramework[Input, ClauMap, ValorMap, ClauIntermitja, ValorIntermig, ClauSortida, ValorSortida]
-                          (
-                            mapFunction:Input=>List[(ClauMap, ValorMap)],
-                            funcioIntermitja:List[(ClauMap, ValorMap)] => List[(ClauIntermitja, ValorIntermig)] ,
-                            reduceFunction:(ClauIntermitja, ValorIntermig)=>List[(ClauSortida, ValorSortida)],
-                            nombreActorsMap: Int,
-                            nombreActorsReduce: Int,
-                            input: List[Input]
-                          ) extends Actor{
-
-    case class MissatgeMapeig(dades:Input)
-    case class RespostaMapeig(dades:List[(ClauMap,ValorMap)])
-    case class MissatgeReduccio(dades:(ClauIntermitja, ValorIntermig))
-    case class RespostaReduccio(dades:List[(ClauSortida,ValorSortida)])
-
-    class MapWorker()extends Actor{
-      override def receive: Receive = {
-        case MissatgeMapeig(dades) => sender ! mapFunction(dades)
-      }
-    }
-    class ReduceWorker() extends Actor{
-      override def receive: Receive = {
-        case MissatgeReduccio(dades) => sender ! reduceFunction(dades._1,dades._2)
-      }
-    }
-
-    val inici: Long = System.nanoTime()
-    var pendent = 0
-    var pare:ActorRef = _
-    var llistaIntermedia:List[(ClauMap, ValorMap)] = Nil
-    var resultat:mutable.Map[ClauSortida,ValorSortida] =mutable.Map[ClauSortida,ValorSortida]()
-
-    override def receive: Receive = {
-      case Iniciar() =>
-        pare = sender
-        println("Iniciem el Map Reduce")
-        val MapRouter = context.actorOf(RoundRobinPool(nombreActorsMap).props(Props(new Actor{
-          override def receive: Receive = {
-            case MissatgeMapeig(dades) => sender ! RespostaMapeig(mapFunction(dades))
-        }})))
-        input.foreach{
-          f=>MapRouter ! MissatgeMapeig(f)
-            pendent+=1}
-      case RespostaMapeig(dades) =>
-        pendent-=1
-        llistaIntermedia = dades ::: llistaIntermedia
-        if (pendent == 0){
-          println("Duració mapeig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
-          val ReduceRouter = context.actorOf(RoundRobinPool(nombreActorsReduce).props(Props( new Actor{
-            override def receive: Receive = {
-              case MissatgeReduccio(fitxer) => sender ! RespostaReduccio(reduceFunction(fitxer._1,fitxer._2))
-            }
-          })))
-          funcioIntermitja(llistaIntermedia).foreach {
-            f => ReduceRouter ! MissatgeReduccio(f)
-            pendent+=1
-          }
-          println("Duració Intermig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
-        }
-      case RespostaReduccio(dades) =>
-        pendent -=1
-        dades.foreach{a => resultat+=(a._1->a._2)}
-        if (pendent == 0){
-          //context.system.terminate()
-          val fi = System.nanoTime()
-          println("Duració: " + (fi-inici).toDouble/1000000000.0 + " segons")
-          pare ! resultat
-        }
-    }
-  }
 
   //retorna una llista de paraules, que seran les stopwords obtingudes a través del arxiu de la ruta que hem entrat
   def getStopWords(file:String):List[String] = {
@@ -164,8 +88,8 @@ object SimilitutEntreDocs extends App {
     // identifico referències
     val refs=(new Regex("\\[\\[[^\\]]*\\]\\]") findAllIn contingut).toList
     // elimino les que tenen : (fitxers) i # (referencies internes)
-    val kk = refs.filterNot(x=> x.contains(':') || x.contains('#'))
-    (titol, contingut, kk)
+    val kk = refs.filterNot(x=> x.contains(':') || x.contains('#')).map(_.takeWhile(_!='|'))
+    (normalitza(titol), contingut, kk.map(normalitza).distinct)
   }
   //donada una string de directori, retorna la llista de fitxers que conté
   def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
@@ -173,55 +97,55 @@ object SimilitutEntreDocs extends App {
 
 
 
-  override def main(args: Array[String]): Unit = {
-//    val filename = "pg11.txt"
-//    val fileContents = Source.fromFile(filename).mkString
-//
-//    val llistaFreq = freq(fileContents,1).sortBy(-_._2)
-//    //val llistaFreqFreq = paraulafreqfreq(fileContents)
-//    val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
-//    val diff = llistaFreq.size
-//    println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
-//    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
-//    println("------------------------------------------------------")
-//    val sFormat = "%-20s %-20s %-1.3f "
-//    for (p <- llistaFreq.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
-//
-//    println("\n\nNONSTOP EXAMPLE\n")
-//
-//    val filename2 = StopWordsFileName
-//    val temp = Source.fromFile(filename2).mkString
-//    val stopWords = normalitza(temp).split(" +").toList
-//    println("debug")
-//    val llistaNonStop = nonStopFreq(fileContents, stopWords, 1).sortBy(-_._2)
-//    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
-//    println("------------------------------------------------------")
-//    for (p <- llistaNonStop.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
-//
-//    println("\n\nn-grames\n")
-//    val llistaNgrames = freq(fileContents, 3).sortBy(-_._2)
-//    for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
-//
-//    val filename3 = "pg74.txt"
-//    println("\n\ncosinesim\n")
-//
-//    val start = System.nanoTime()
-//    val newFileContents = Source.fromFile(filename).mkString
-//    val fileContents2 = Source.fromFile(filename3).mkString
-//
-//    val freq1 = nonStopFreq(newFileContents, stopWords, 1).sortBy(-_._2)
-//    val freq2 = nonStopFreq(fileContents2, stopWords, 1).sortBy(-_._2)
-//
-//    val txt1 = freqAtf(freq1)
-//    val txt2 = freqAtf(freq2)
-//
-//    val hi = cosinesim(txt1, txt2)
-//
-//    val end = System.nanoTime()
-//    println(hi)
-//    println((end-start).toDouble/1000000000.0)
 
-    println("\n\n\n\n\nINICI DEL CAMP MINAT: \n")
+
+  override def main(args: Array[String]): Unit = {
+    val filename = "pg11.txt"
+    val fileContents = Source.fromFile(filename).mkString
+
+    val filename2 = "english-stop.txt"
+    val englishStopWords = getStopWords(filename2)
+
+    val llistaFreq = freq(fileContents,1).sortBy(-_._2)
+    val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
+    val diff = llistaFreq.size
+    println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
+    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
+    println("------------------------------------------------------")
+    val sFormat = "%-20s %-20s %-1.3f "
+    for (p <- llistaFreq.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
+
+    println("\n\nCàlcul primer fitxer sense stopWords\n")
+    println("debug")
+    val llistaNonStop = nonStopFreq(fileContents, englishStopWords, 1).sortBy(-_._2)
+    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
+    println("------------------------------------------------------")
+    for (p <- llistaNonStop.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
+
+    println("\n\nn-grames del primer fitxer amb n = 3\n")
+    val llistaNgrames = freq(fileContents, 3).sortBy(-_._2)
+    for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
+
+    val filename3 = "pg74.txt"
+    println("\n\nComparació de pg11.txt amb pg74.txt utilitzant el cosinesim\n")
+
+    val start = System.nanoTime()
+    val newFileContents = Source.fromFile(filename).mkString
+    val fileContents2 = Source.fromFile(filename3).mkString
+
+    val freq1 = nonStopFreq(newFileContents, englishStopWords, 1).sortBy(-_._2)
+    val freq2 = nonStopFreq(fileContents2, englishStopWords, 1).sortBy(-_._2)
+
+    val txt1 = freqAtf(freq1)
+    val txt2 = freqAtf(freq2)
+
+    val hi = cosinesim(txt1, txt2)
+
+    val end = System.nanoTime()
+    println(hi)
+    println("El cosinesim ha tardat: " + (end-start).toDouble/1000000000.0)
+
+    println("\n\n\n\nINICI DEL CAMP MINAT: \n")
 
     val system = ActorSystem("SystemActor")
     type Fitxer = (String,(List[(String,Double)],List[String]))
@@ -248,7 +172,11 @@ object SimilitutEntreDocs extends App {
 
     implicit val timeout = Timeout(12000,TimeUnit.SECONDS)
     val futur = act ? Iniciar()
-    val result = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
+    val diccionariFitxers = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
+
+    act ! PoisonPill
+
+
 
 
     def mapFunctionIDF(fitxer:Fitxer):List[(String,Double)] =
@@ -268,13 +196,16 @@ object SimilitutEntreDocs extends App {
       {f=>mapFunctionIDF(f)},
       {f=>funcioIntermitjaIDF(f)},
       {(f:String,s:List[(String,Double)])=>List(reduceFunctionIDF((f,s)))},
-      10,10,result.toList
+      10,10,diccionariFitxers.toList
     )))
 
 
     val futur2 = act2 ? Iniciar()
     val diccionariIDF = Await.result(futur2,timeout.duration).asInstanceOf[mutable.Map[String, Double]]
-    println("debugpoint")
+
+    act2 ! PoisonPill
+
+
 
 
     def mapComparacio(fitxer:Fitxer):Fitxer =
@@ -303,17 +234,21 @@ object SimilitutEntreDocs extends App {
       {f=>List(mapComparacio(f))},
       {f=>generarComparacions(f)},
       {(f:Fitxer,s:List[Fitxer])=>List(reduceComparacio((f,s)))},
-      100,100,result.toList
+      100,100,diccionariFitxers.toList
     )))
     val futur3 = act3 ? Iniciar()
     val resultatComparacions = Await.result(futur3,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
-    println("hiii")
 
-    val llindar = 0.05
+    act3 ! PoisonPill
+
+
+
     //donada llista referencies
   //map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
     def mapObtenirNoRefs(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) ={
-      (fitxer._1,fitxer._2.filter(_._2>llindar).filter{f => !result(fitxer._1)._2.contains(f._1)}) //todo-IMPORTANTE: cal fer la inversa!
+      (fitxer._1,fitxer._2.filter(_._2>LlindarNoReferenciats).filter{
+        f => !diccionariFitxers(fitxer._1)._2.contains(f._1) && !diccionariFitxers(f._1)._2.contains(fitxer._1)
+      })
     }
     val act4 = system.actorOf(Props (new MapReduceFramework[
         (String, List[(String, Double)]),
@@ -329,6 +264,40 @@ object SimilitutEntreDocs extends App {
 
     val futur4 = act4 ? Iniciar()
     val resultatObtenirNoRefs = Await.result(futur4,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+
+    act4 ! PoisonPill
+
+
+
+
+
+    def mapObtenirRefsDiferents(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) = (
+      fitxer._1,fitxer._2.filter(_._2>LlindarReferenciats).filter{
+        f => diccionariFitxers(fitxer._1)._2.contains(f._1) || diccionariFitxers(f._1)._2.contains(fitxer._1)
+    })
+
+    val act5 = system.actorOf(Props (new MapReduceFramework[
+      (String, List[(String, Double)]),
+      String,List[(String, Double)],
+      String, List[(String, Double)],
+      String, List[(String, Double)]]
+    (
+      {f=>List(mapObtenirRefsDiferents(f))},
+      {f=>f},
+      {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
+      100,100,resultatComparacions
+    )))
+
+    val futur5 = act5 ? Iniciar()
+    val resultatObtenirRefsDiferents = Await.result(futur5,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+
+    act5 ! PoisonPill
+
+    system.terminate()
+
+
+
+
 
     println("debugpoint")
 
