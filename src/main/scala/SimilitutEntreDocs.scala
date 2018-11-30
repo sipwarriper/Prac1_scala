@@ -16,8 +16,8 @@ import scala.xml.XML
 object SimilitutEntreDocs extends App {
 
   final val StopWordsFileName = "stopwordscat.txt"
-  final val DirectoriFitxers = "wikidocs"
-  final val LlindarNoReferenciats = 0.05
+  final val DirectoriFitxers = "wikidocs-test-2"
+  final val LlindarNoReferenciats = 0.01
   final val LlindarReferenciats = 0.01
   lazy final val nombreFitxers: Int =
     new File(DirectoriFitxers).list.length
@@ -30,7 +30,6 @@ object SimilitutEntreDocs extends App {
     if (stopWordsSaltLinia.length>1) stopWordsSaltLinia
     else normalitza(stopWordsSaltLinia.head).split(" +").toList
   }
-
 
   //Rebent una String i un enter n dóna com a resultat una llista amb tuples (n-grames, freqüència)
   def freq(text:String, n:Int):List[(String, Int)] =
@@ -103,9 +102,9 @@ object SimilitutEntreDocs extends App {
   //donada una string de directori, retorna la llista de fitxers que conté
   def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
 
-  def calcularSimilituds(n: Int, system: ActorSystem)= {
+  def calcularSimilituds(n: Int, system: ActorSystem, numWorkers: Int)= {
     type Fitxer = (String,(List[(String,Double)],List[String]))
-
+    val tempsInici = System.nanoTime();
     val fitxers = llistaFitxers(DirectoriFitxers)//input
 
     //funció que llegeix i tracta un fitxer resultat en el títol, el contingut, i una llista de referències.
@@ -125,7 +124,7 @@ object SimilitutEntreDocs extends App {
         {f:String => List(mapFunctionReadFiles(f))},
         {f:List[(String, (String, List[String]))]=>f},
         {(f:String, s:(String, List[String])) => List(reduceFunctionReadFiles((f,s)))},
-        10,10,fitxers)
+        numWorkers,numWorkers,fitxers)
     ))
 
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
@@ -158,7 +157,7 @@ object SimilitutEntreDocs extends App {
       {f=>mapFunctionIDF(f)},
       {f=>funcioIntermitjaIDF(f)},
       {(f:String,s:List[(String,Double)])=>List(reduceFunctionIDF((f,s)))},
-      10,10,diccionariFitxers.toList
+      numWorkers,numWorkers,diccionariFitxers.toList
     )))
 
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
@@ -196,7 +195,7 @@ object SimilitutEntreDocs extends App {
       {f=>List(mapComparacio(f))},
       {f=>generarComparacions(f)},
       {(f:Fitxer,s:List[Fitxer])=>List(reduceComparacio((f,s)))},
-      100,100,diccionariFitxers.toList
+      numWorkers,numWorkers,diccionariFitxers.toList
     )))
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
     val futur3 = act3 ? Iniciar()
@@ -224,7 +223,7 @@ object SimilitutEntreDocs extends App {
       {f=>List(mapObtenirNoRefs(f))},
       {f=>f},
       {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
-      100,100,resultatComparacions
+      numWorkers,numWorkers,resultatComparacions
     )))
 
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
@@ -252,7 +251,7 @@ object SimilitutEntreDocs extends App {
       {f=>List(mapObtenirRefsDiferents(f))},
       {f=>f},
       {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
-      100,100,resultatComparacions
+      numWorkers,numWorkers,resultatComparacions
     )))
 
     val futur5 = act5 ? Iniciar()
@@ -318,12 +317,14 @@ object SimilitutEntreDocs extends App {
       }
     }
     pw.close()
+    println("Temps d'execucio amb "+numWorkers+" Workers: "+((System.nanoTime.toDouble-tempsInici.toDouble)/1000000000.0f))
   }
 
   override def main(args: Array[String]): Unit = {
-    val filename = "pg11.txt"
+    val filename = "pg12.txt"
     val fileContents = Source.fromFile(filename).mkString
 
+//    val filename2 = "stopwordscat.txt"
     val filename2 = "english-stop.txt"
     val englishStopWords = getStopWords(filename2)
 
@@ -351,7 +352,7 @@ object SimilitutEntreDocs extends App {
     println("Distribució de paraules")
     paraulafreqfreq(llistaFreq)
 
-    val filename3 = "pg74.txt"
+    val filename3 = "pg12.txt"
     println("\n\nComparació de pg11.txt amb pg74.txt utilitzant el cosinesim\n")
 
     val start = System.nanoTime()
@@ -374,10 +375,11 @@ object SimilitutEntreDocs extends App {
 
     val system = ActorSystem("SystemActor")
 
-    val maxNgrames = 1
+    val maxNgrames = 5
+    val numWorkers = 64
 
     for(n <- 1 to maxNgrames){
-      calcularSimilituds(n,system)
+      calcularSimilituds(n,system,numWorkers)
     }
 
     system.terminate()

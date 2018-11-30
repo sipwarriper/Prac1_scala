@@ -1,0 +1,90 @@
+<page>
+    <title>DDT</title>
+    <ns>0</ns>
+    <id>256609</id>
+    <revision>
+      <id>13839838</id>
+      <parentid>13752141</parentid>
+      <timestamp>2014-07-16T03:07:48Z</timestamp>
+      <contributor>
+        <username>PereBot</username>
+        <id>118448</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot inserta {{Autoritat}}</comment>
+      <text>{{Vegeu (des)|l'insecticida}}
+{{Chembox 
+| Nom                   = DDT
+| Imatge                = P,p'-dichlorodiphenyltrichloroethane.svg
+| Mida imatge           = 
+| Peu                   = 
+| Imatge2               = DDT-from-xtal-3D-balls.png
+| Mida imatge2          = 
+| Peu2                  =  
+| IUPAC                 = 1,1,1-Tricloro-2,2-bis(4-clorofenil)
+| Altres noms           = 
+| Fórmula               = Csub14/subHsub9/subClsub5/sub
+| Massa molar           = 354,49 g/mol
+| Aparença              =  
+| Densitat              = 
+| Solubilitat           =  
+| Punt de fusió         = 
+| Punt d'ebullició      = 
+| pKa                   = 
+| pKb                   = 
+| Perills               = [[Fitxer:Hazard N.svg|30px|Perillós per al medi ambient]] Perillós per al medi ambient ('''N''')br/[[Fitxer:Hazard T.svg|30px|Tòxic]] Tòxic ('''T''')
+| Frases R              = 
+| Frases S              = 
+| CAS                   = 
+| PubChem               = 
+| MeSHName              = 
+| SMILES                = 
+| Punt d'inflamabilitat = 
+| Anions                = 
+| Compostos relacionats = 
+| Cations               = 
+| DrugBank              = 
+| Ignició espontània    = 
+| Límit d'explosió      = 
+!-- Valors per a NFPA --
+| H                     = 
+| F                     = 
+| R                     =  
+| O                     = 
+| Classificació UE      = 
+| FDS                   = 
+| Cristall              = 
+| Coordinació           = 
+| RTECS                 = 
+| CAS altres            =   
+}}
+L{{'}}'''1,1,1-Tricloro-2,2-bis(4-clorofenil)''', abans anomenat '''dicloro-difenil-tricloroetà''', més conegut com a '''DDT''', és un [[organoclorat]] que contenen alguns [[insecticides]]. Es va sintetitzar per primera vegada el [[1874]], però va ser durant la [[Segona Guerra Mundial]] que es va començar a utilitzar per controlar les poblacions d'[[insecte]]s que actuen com a [[vector (epidemiologia)|vectors de malalties]]. Més tard va arribar l'ús agrícola i [[forestal]]. A la dècada de 1970 diversos estudis posaren al descobert l'efecte negatiu sobre la [[salut]] de les persones així com dins de les poblacions d'animals degut a la seva [[bioacumulació]]. Diverses normatives sobre la seva fabricació i comercialització sorgiren i actualment el seu ús es troba molt restringit legalment.
+
+== Efectes ==
+El '''DDT''' és un compost liposoluble, és a dir, que s'acumula en els teixits grassos; a més, és persistent, ja que triga generacions a desaparèixer i a sobre es transmet en la cadena tròfica. Al llibre Primavera silenciosa de [[Rachel Carson]] editat el [[1962]], va iniciar aquesta polèmica enumerant tots els problemes ambientals que tenia aquest pesticida i, fins i tot deia que si se seguia utilitzant el DDT s'acabarien extingint tots els ocells del planeta.
+
+El '''DDT''' actua com un imitador de l'[[estrogen]] i pot provocar alteracions al sistema [[hormona]]l, desencadenant malalties relacionades amb el [[sistema reproductor]] i [[sistema immunològic]]. També afecta al [[sistema nerviós perifèric]], [[sistema nerviós central]] i al [[fetge]]. Està catalogat per l'[[OMS]] (Organització Mundial de la Salut) com un ingredient actiu de classe II (moderadament perillós). Segons la [[IARC]] i l'[[Environmental Protection Agency]] es tracta d'un probable agent [[càncer|carcinogènic]].ref name=Lauman/
+
+== Ús del DDT ==
+Actualment el '''DDT''' s'utilitza en la fabricació d'un [[insecticida]] que es diu [[dicofol]]. També està permès en el control de vectors per combatre la [[malària]]. D'acord a la Convenció d'Estocolm de contaminants orgànics persistents (''Stockholm Convention on Persistent Organic Pollutants, POPs''), que havia de ser efectiva el 2004 l'ús de DDT s'havia de reduir i en darrer terme ser eliminat.ref name=Lauman{{ref-llibre |cognom= Laumann|nom= Vanessa |editor= Carina Weber |títol= Environmental strategies to replace DDT and control malaria |url= http://www.pan-germany.org/download/ddt/ddt_alternatives.pdf |format= pdf |consulta= 20/12/2009 |llengua= anglès |editorial= |lloc= Hamburg |data= Desembre de 2009 |isbn= 978-3-9812334-5-2}}/ref Tot i així l'OMS encara el considera un bon agent de control per aquelles regions on la [[malària]] és endèmica.
+
+== DDT a Espanya ==
+Encara hi ha fàbriques que al produir [[dicofol]] i utilitzar aquest producte com a intermediari, aboquen '''DDT''' a [[rius]] provocant així una font de [[contaminació]] al [[medi ambient]]. També hi ha indicis que, en menors quantitats, entra '''DDT''' il·legalment.ref{{Citar publicació |coautors=Instituto Nacional de Toxicologia |article=Deaths from pesticide poisoning in Spain from 1991 to 1996 |llengua=anglès |consulta= 25 maig 2011 |publicació=Veterinary and Human Toxicology |exemplar=n.40 |data=1998 |pàgines=p.166-8. }}/ref
+
+== Referències ==
+{{Commonscat|DDT}}
+
+references /
+
+{{Contaminants orgànics persistents}}
+{{Autoritat}}
+{{Enllaç AB|de}}
+
+[[Categoria:Contaminants orgànics persistents]]
+[[Categoria:Organoclorats]]
+[[Categoria:Insecticides|DDT]]</text>
+      <sha1>60g7o3lrtuy2ewadffb3ia2s3mlb6bd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

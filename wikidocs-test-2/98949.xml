@@ -1,0 +1,484 @@
+<page>
+    <title>Monopoli</title>
+    <ns>0</ns>
+    <id>98949</id>
+    <revision>
+      <id>13883624</id>
+      <parentid>13863412</parentid>
+      <timestamp>2014-07-24T00:14:37Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: adicionals  addicionals</comment>
+      <text>{{vegeu3|el terme econòmic|el joc de taula|Monopoly}}
+{{polisèmia|Monopoli (Itàlia)}}
+[[Fitxer:Shaghai pudong.JPG|thumb|right|upright=1.5|En un [[mercat competitiu]], els [[consumidor]]s i els [[producció (economia)|productors]] són preu-acceptants, ja que el [[preu]] ve fixat tan sols per [[llei de l'oferta i la demanda|l'oferta i la demanda]]. En canvi, en un monopoli, el monopolista pot [[fixació de preus|fixar el preu]] fent ús del seu poder de mercat.]] 
+Un '''monopoli''' (del [[Grec antic|grec]] μόνος ''monos'' un, i πωλεῖν ''pōlein'' vendre) és una situació de [[privilegi]] [[Legislació|legal]] o [[fallida de mercat]] en la qual, per a una [[indústria]] que té un [[producte (màrqueting)|producte]], un [[bé (economia)|bé]], un [[factors de producció|recurs]] o un [[Servei (economia)|servei]] determinat i diferenciat, hi ha un productor (monopolista) oferent que té un gran [[Monopoli#poder de mercat del monopolista|poder de mercat]] i és l'únic de la indústria que el posseeix.refRobert H. Frank. Microeconomía y Conducta, Mc Graw Hill. ISBN 84-7615-840-8./ref Mentre que en el [[competència perfecta|mercat competitiu]] els [[Consumidor|consumidors]] i els productors són preu-acceptants –ja que el [[preu]] ve fixat únicament per l'[[oferta]] i la [[demanda]]–, en el monopoli l'oferent monopolista pot [[fixació de preus|fixar el preu]] utilitzant el seu [[Monopoli#Poder de mercat del monopolista|poder de mercat]].
+
+Cal tenir en compte que en aquest mercat no existeixen [[Béns substitutius|productes substitutius]], és a dir, no existeix cap altre [[bé (economia)|bé]] pel qual es pugui reemplaçar sense cap inconvenient i, per tant, aquest producte és l'única alternativa que té el [[consumidor]] per comprar. S'acostuma a definir també com a ''mercat en què només hi ha un venedor'', però aquesta definició es correspondria més amb el concepte de [[monopoli pur]]. 
+
+El monopolista controla la quantitat de [[producció (economia)|producció]] i el [[preu]]. Però això no significa que pugui cobrar el que vulgui si vol maximitzar els [[benefici econòmic|beneficis]]. Per això el monopolista ha d'esbrinar els seus [[Cost total|costos]] i les característiques de la [[demanda]] del mercat ([[elasticitat (economia)|elasticitat]], [[preferència|preferències]], etc.) Amb aquesta informació decideix quina és la quantitat que ha de produir i vendre, i el seu preu. 
+
+Des d'un punt de vista econòmic, es pot afirmar que el [[cost marginal]] del monopolista - increment del cost per unitat fabricada - representa l'[[oferta]] total del mercat i l'[[ingrés]] mitjà del monopolista - preu per unitat venuda -no és més que la corba de demanda del mercat. Per escollir el [[producció (economia)|nivell de producció]] maximitzador del [[benefici econòmic|benefici]], el monopolista ha de conèixer les seves corbes d'[[ingrés|ingrés marginal]] (variació que experimenta l'ingrés quan l'oferta varia en una unitat) i de [[Cost total|cost mitjà]].
+
+== Poder de mercat del monopolista ==
+[[Fitxer:Shaghai pudong.JPG|300px|thumb|En el [[competència perfecta|mercat competitiu]] els [[consumidor]]s i productors són preu-acceptants (el [[preu]] ve fixat només per l'[[oferta]] i la [[demanda]]), en canvi en el monopoli l'oferent monopolista pot [[fixació de preus|fixar el preu]] utilitzant el seu [[Monopoli#Poder de mercat del monopolista|poder de mercat]].]] 
+S'anomena poder de mercat a la capacitat d'un venedor o d'un comprador d'[[Fixació de preus|influir en el preu d'un bé]]. En el cas que el poder de mercat recaigui sobre un únic comprador es parla d'una estructura de [[monopsoni]], és a dir, que el consumidor té un control especial sobre el preu dels productes, però si recau sobre un únic venedor, es parla d'una estructura de monopoli i serà el productor qui tingui aquest control. 
+
+El poder de mercat del monopolista està totalment condicionat per l'efecte de l'[[elasticitat (economia)|elasticitat]] (E sub PD /sub), que estableix la relació de les variacions de la quantitat demandada (Q sub D /sub) motivades per variacions en el preu del producte (P). Per poder maximitzar el seu benefici, el monopolista buscarà incrementar els preus, però això suposarà inevitablement una reducció de la quantitat demandada, que serà major o menor en funció de l'elasticitat-preu d'aquest producte en aquest mercat. L'oferta desitjada pel monopolista serà aquella que maximitzi el seu benefici, equilibrant els dos efectes.
+
+center
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2| 
+|-
+|
+# EsubPD/sub = [[elasticitat (economia)|Elasticitat preu de la demanda ''del mercat'']].
+# IM = [[Ingrés|Ingrés marginal]].
+# IT = [[Ingrés|Ingrés total]].
+# P = [[Preu]].
+# Q = [[Producció (economia)|Nivell de producció]].
+# subm/sub = monopolista.
+# CM = [[Cost marginal]].
+#
+|math E_{PD} = - \frac{\frac{\Delta Q}{Q}}{\frac{\Delta P}{P}} = - \frac{P \Delta Q}{Q \Delta P};/math
+|}
+
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2| 
+|-
+|mathIM(Q_m) = \frac{\Delta IT(Q_m)}{\Delta Q} = \frac{\Delta [P_m(Q_m) Q_m]}{\Delta Q} = \frac{\Delta P(Q) Q_m + P_m(Q_m) \Delta Q}{\Delta Q} = \frac{\Delta P (Q) Q_m}{\Delta Q} + P_m(Q) = /math
+
+math = \frac {P_m(Q_m) \Delta P(Q) Q_m}{P(Q) \Delta Q} + P_m (Q_m) = P_m (Q_m) \frac {1}{E_{PD}} + P_m(Q_m) = P_m(Q_m)[1+ \frac {1} {E_{PD}}] = IM (Q_m)/math
+|}
+
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2| En el punt de màxim benefici pel monopolista es compleix que math CM (Q_m) = IM(Q_m) /math per la qual cosa:
+|-
+|
+math P_m (Q_m) [1 - \frac{1}{E_{PD}}] = IM(Q_m) = CM(Q_m); \Rightarrow P_m(Q_m) = \frac {CM(Q_m)}{1+1/E_{PD}};/math
+|-
+|centermath\frac {P_m - CM (Q_m)}{P_m} = \frac {-1}{E_{PD}} /math/center
+|}
+/center
+
+En conclusió s'obté que la diferència entre el [[competència perfecta|preu competitiu]] i el [[Monopoli#Preu i nivell de producció monopolistes|preu monopolista]] és inversament proporcional a l'elasticitat de la [[demanda]]. Si és molt elàstica (un elevat nombre negatiu) el preu serà molt proper al [[cost marginal]], per la qual cosa el monopoli estarà més proper al [[competència perfecta|mercat competitiu]]. Això no vol dir que qui tingui més poder de mercat tindrà més beneficis, ja que influeixen altres elements com el volum de venda, els [[cost fix|costos fixos]], etc. 
+
+Així, l'existència d'una demanda de mercat no infinitament elàstica com a la qual s'enfronta l'empresa perfectament competitiva, dóna la possibilitat de poder col·locar el preu per sobre del preu competitiu. Aquest és el veritable poder del monopoli d'una empresa.
+
+=== Índex de Lerner ===
+
+En termes qualitatius, per [[mesura]]r aquest poder de monopoli s'utilitza l'[[Monopoli#Índex de Lerner|índex de Lerner]]
+
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2|'''Índex de Lerner del poder de monopoli'''
+|-
+|*math L = \frac{P_m - CM(Q_c)}{P_m} = \frac{-1}{E_{PD}}/math
+| 
+|
+|
+|On:
+* EsubPD/sub = [[Elasticitat (economia)|Elasticitat preu de la demanda ''de l'empresa'']].
+* Psubm/sub = [[Monopoli#Preu i nivell de producció monopolistes|Preu monopolista]].
+* Qsubc/sub = [[Competència perfecta|Nivell de producció competitiu]].
+* CM = [[Cost marginal]].
+|}
+En una empresa [[competència perfecta|completament competitiva]] el [[preu]] òptim competitiu és igual al [[cost marginal]] de l'esmentada empresa en aquell [[producció (economia)|nivell de producció]] per la qual cosa L = 0 (índex de Lerner). Com més gran sigui L major és el poder de monopoli.
+
+=== Fonts de poder de mercat del monopolista ===
+[[Fitxer:Bethlehemsteel.jpg|300px|thumb|El [[monopoli natural]] sol ser característic de les [[indústria|indústries]] que requereixen una gran [[Inversió (economia)|inversió]] per entrar en el [[mercat]]. Els [[costos fixos]] fan de [[barrera d'entrada]].]]
+{{principal|Elasticitat (economia)|Barrera d'entrada}}
+L'[[Elasticitat (economia)|elasticitat-preu]] de la [[demanda]] d'una [[empresa]] (que en aquest cas coincideix amb l'elasticitat-preu de la demanda del [[mercat]] (E sub PD /sub) en ser l'única empresa que l'abasteix) estableix la relació de la variació de la quantitat demandada (Q sub D /sub) motivades per variacions en el preu del producte ( P). És la font directa de poder de mercat, però aquesta es fonamenta en altres diverses:refRobert S. Pindyck y Daniel L. Rubinfeld. ''Microeconomia 5a Edició''. Mc Graw Hill. ISBN 84-205-3131-6./ref
+
+# '''L'elasticitat de la demanda del mercat''': com la demanda de l'empresa és, com a mínim, tan elàstica com la demanda del mercat, l'elasticitat de la demanda del mercat limita les possibilitats de l'empresa de poder aconseguir poder de monopoli. Així, per exemple, l'existència de [[Bé substitutiu|productes substitutius]] propers pot determinar una corba de demanda de mercat elàstica provocant que l'empresa perdi poder de mercat, mentre que la [[necessitat]] del producte pot tornar inelàstica i augmentar la posició monopolista de l'empresa.
+# '''La relació entre les empreses''': Una ferotge rivalitat a la recerca d'una major quota de mercat impedirà el poder del monopoli. Com és obvi, en el monopoli aquest factor no influeix, ja que l'estructura del mercat es caracteritza precisament per l'existència d'una sola empresa productora. Tanmateix aquesta font es pot interpretar en aquest cas com ''la rivalitat per obtenir una quota dins del mercat'', fonamentant-se en la teoria dels [[mercats disputats]].
+# '''El nombre d'empreses del mercat''': si hi ha moltes empreses, és improbable que una empresa pugui apujar [[Fitxer:NTSC-PAL-SECAM.png|thumb|{{Llegenda|#70ff70|[[NTSC]]}}{{Llegenda|yellow|[[PAL]], o canviant a PAL}} {{Llegenda|orange|[[SECAM]] }}{{Llegenda|#9fdba4|Sense informació}}]] significativament el preu. Per això les empreses tracten de crear [[barrera d'entrada|barreres d'entrada]]. Aquestes barreres poden ser:
+#* Legals: [[Patent]]s, [[llicència|llicències]], [[copyright]]s, ''[[asiento]]s'' entre d'altres. Solen donar lloc a [[monopoli artificial|monopolis artificials]].
+#* Tradicionals: [[Economies d'escala]], alts [[cost fix|costos fixos]] entre d'altres. Solen donar lloc a [[monopoli natural|monopolis naturals]].
+#* De costums: crear un compromís per part dels [[consumidor]]s amb l'empresa en qüestió que acabi provocant un rebuig sistemàtic de les altres.
+#* Controlar un element imprescindible per a la producció.
+# '''Segmentar el mercat''': Mitjançant una [[segmentació de mercat]] s'eviten les conseqüències d'una [[competència]]. [[globalització|global]] entre empreses. Un exemple és la utilització dels diferents sistemes de codificació [[PAL]] o el [[NTSC]] segons la zona.
+
+== Vies per l'aparició d'un monopoli ==
+Aquestes fonts de poder de mercat poden acabar formant una estructura monopolística. D'entre totes les vies que poden desencadenar l'aparició d'un monopoli es pot destacar:
+
+=== Trust ===
+{{principal|Trust}}
+El terme ''[[trust]]'' (en [[anglès]] significa confiança) es refereix, en [[economia]], a un grup d'empreses amb activitats que es trobaven controlades i dirigides per una altra empresa. És la unió d'empreses distintes sota una mateixa direcció central amb la finalitat d'exercir un control de les vendes i la comercialització dels productes. Es tracta d'una estructura [[holding]] enfocada a un mateix sector, el que li confereix un avantatjós poder de mercat sobre el mateix. 
+
+Un trust tendeix a controlar un sector econòmic i exercir en el possible el poder del monopoli, i pot ser: 
+* ''Horitzontal'': Quan les empreses produeixen els mateixos béns o presten els mateixos serveis. 
+* ''Vertical'': quan les empreses d'un grup efectuen activitats complementàries. 
+
+La primera combinació que va adoptar aquesta manera va ser la [[Standard Oil|Standard Oil Trust]], fundada el [[1882]]. El [[1890]] l'[[Llei Sherman Antitrust dels Estats Units d'Amèrica|Acta Sherman]] els va declarar per primera vegada il·legals.
+
+=== Càrtel ===
+{{principal|Càrtel}}
+[[Fitxer:Reunión_de_la_OPEP,_Kuwait,_dec._2005.jpg|thumb|Reunió de l'[[OPEP]] a [[Kuwait]].]]
+Actualment els [[Organització de Països Exportadors de Petroli|Països Exportadors de Petroli]] es reuneixen per prendre decisions conjuntes sobre quotes de [[mercat]], [[preu]]s, etc. que els permet controlar la [[producció (economia)|producció]] i distribució del [[petroli]] renunciat a [[Competència perfecta|competir]] entre si, formant un organisme conjunt que maneja l'[[oferta]] de pràcticament tot el mercat.
+
+En economia es denomina [[Càrtel (economia)|càrtel]] a un [[Acord (dret) |acord]] formal o informal entre empreses del mateix sector, el fi del qual és reduir o eliminar la [[competència]] en un determinat mercat. Els càrtels solen estar encaminats a desenvolupar un control sobre la [[producció (economia)|producció]] i la distribució de tal manera que mitjançant la [[col·lusió]] de les empreses que el componen, formen una estructura de mercat monopolística obtenint un [[Monopoli#Poder de mercat del monopolista|poder sobre el mercat]] en el qual obtenen els majors beneficis possibles en perjudici dels [[consumidor]]s per la qual cosa les conseqüències per a aquests són les mateixes que amb un monopolista. La diferència rau en què els [[benefici econòmic|beneficis]] totals (els màxims possibles d'aconseguir en el mercat) són repartits entre els productors. Les seves principals activitats se centren a fixar els [[preu]]s, limitar l'[[oferta]] disponible, dividir el mercat i compartir els beneficis. En l'actualitat, el terme se sol aplicar als acords que regulen la [[competència]] en el [[comerç internacional]]. Un exemple clar és l'Organització de Països Exportadors de Petroli [[OPEP]].refRobert H. Frank. ''Microeconomia i Conducta'', Mc Graw Hill. ISBN 84-7615-840-8/ref
+	
+Els càrtels van sorgir a [[Alemanya]] a la [[dècada de 1870]], coincidint amb el creixement de l'economia en aquest país. Es considera que l'èxit que van obtenir va ser fins a cert punt responsable de la [[política exterior]] alemanya que conduiria a les dues guerres mundials. Durant la [[Primera Guerra Mundial]], el govern alemany va utilitzar els càrtels per [[exportació|exportar]] [[arma|armes]] i altres materials sintètics. Al llarg de les següents dues dècades les empreses alemanyes van seguir controlant d'una manera global la producció. Un dels càrtels més importants va ser l'[[IG Farbenindustrie]], dins de l'activitat relacionada amb productes químics, destacant en la producció de [[tint]]s, [[verí|verins]] i [[medicament]]s, i única companyia alemanya amb el seu propi [[camp de concentració]]ref''[[Comissió de Drets Humans]] i [[CETIM]]'' [http://www.cetim.ch/es/interventions_details.php?iid=245 El Paper de les grans empreses en l'Holocaust], [[2005]]./ref i predecessora directa de [[Bayer]], [[BASF]] i [[Sanofi-Aventis|Hoechst]]. En iniciar-se la [[Segona Guerra Mundial|II Guerra Mundial]], gairebé tota la indústria alemanya estava organitzada al voltant de càrtels, promoguts i controlats pel govern, que van permetre un gran creixement en l'economia nacional gràcies a una [[balança de pagaments]] notablement positiva.
+
+=== Fusió o adquisició ===
+Les [[fusions i adquisicions]] d'empreses conegudes també pel seu acrònim en anglès MA es refereixen a un aspecte de l'estratègia de la gerència de les [[finances corporatives]] que s'ocupa de la combinació i adquisició d'altres companyies així com altres actius. 
+
+* Fusió: Una fusió és la unió de dos o més persones jurídicament independents que decideixen ajuntar els seus patrimonis i formar una nova societat. Si una de les societats que es fusionen absorbeix el patrimoni de les restants, es denomina fusió per absorció. 
+
+* Adquisició: Una adquisició consisteix en la compra per part d'una persona jurídica del paquet accionariat de control d'una altra societat, sense realitzar la fusió dels seus patrimonis. 
+
+Les fusions i adquisicions estan motivades per diferents objectius que defineixen dos diferents tipus de compradors: 
+
+* ''Compradors Financers'': Es caracteritzen per adquirir una empresa amb l'objectiu d'incrementar el seu valor i després vendre-la a un preu superior. Busquen [[Capital risc|capital d'inversió]]. En aquest tipus d'operació és fonamental, abans de fer la compra, saber de quina manera es pot sortir del negoci, essent aquesta, la principal diferència amb els compradors estratègics. 
+* ''Compradors Estratègics'': S'anomena compradors estratègics aquells que desenvolupen les seves activitats en una indústria determinada i tracten de romandre en ella i consolidar-se en el mercat.
+
+Totes les fusions i combinacions d'empreses tenen un potencial per eliminar la [[competència]] entre elles creant així monopolis. Els compradors estratègics solen ser la figura més comuna propiciadora de monopolis.
+
+=== Asiento ===
+{{principal|Asiento}}
+Un ''[[asiento]]'' (del verb [[castellà]] ''sentar'', ''sentarse'', i del [[llatí]] ''sedentare'') era un [[Tractat internacional|tractat]] o un [[Tractat internacional|acord de pau]] pel qual un conjunt de comerciants rebia el monopoli sobre una [[ruta comercial]] o [[producte (màrqueting)|producte]]. 
+
+Un exemple fruit d'acord internacional va ser l'assentament de negres (''asiento de negros''), un monopoli sobre la caça d'esclaus d'[[Àfrica]] i l'[[Hispanoamèrica|Amèrica hispana]] i que es va atorgar a [[Anglaterra]] en acabar la [[Guerra de Successió Espanyola]] ([[1713]]) com a compensació per la victòria del candidat francès [[Felip V d'Espanya]]. Amb aquest tractat es fixava que  Anglaterra tenia el dret de traficar amb 4.800 [[esclau]]s de color anualment durant trenta anys. 
+
+En molts casos de manera intranacional un assentament en forma de [[finançament]] en el cas d'[[economies d'escala]] donava com a fruit una [[companyia privilegiada]] (de l'[[italià]] ''Compagnia''), que era una companyia comercial amb activitats que gaudien de la protecció de l'[[Estat]] mitjançant un [[privilegi]] especial, que encara que no sempre esdevenia un monopoli total, si establia en la majoria un [[monopoli natural]] en mans de l'[[Estat]] o d'un conjunt de particulars protegits per aquest, cosa habitual en el [[mercantilisme]]. La seva existència es remunta al [[segle XIV]] a [[Itàlia]], destacant en l'Edat Moderna la [[Companyia Britànica de les Índies Orientals]] o la [[Companyia Holandesa de les Índies Occidentals]]. El model espanyol dels [[segle XVI|segles XVI]] i [[segle XVII|XVII]] va establir el monopoli del port de [[Sevilla]] controlat a través de la [[Casa de la Contractació d'Índies|Casa de Contractació]] i la [[Universidad de Mercaderes]].
+
+== Preu i nivell de producció monopolistes ==
+La quantitat que ha de produir el monopolista ha de tenir en compte que per maximitzar els beneficis s'ha de fixar una producció tal que l'ingrés marginal sigui igual al cost marginal. Aquesta igualtat parteix d'una conseqüència d'[[eficiència de Pareto]]. És a dir, si un monopolista posa un preu massa baix (P2) i un preu massa alt (P1), produint, si vol vendre tota la producció, una quantitat (Q1) i una altra quantitat (Q2) respectivament:
+
+center
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2|
+|-
+|
+# {{llegenda|#00FFFF|[[Demanda (economia)|Demanda]] del [[mercat]] ([[Ingrés|Ingrés mig]] del monopolista)}}
+# {{llegenda|#000080|[[Ingrés marginal]]}}
+# {{llegenda|#FF0000|[[Cost total|Cost mig]]}}
+# {{llegenda|#800000|[[Cost marginal]]}}
+# {{llegenda|#F0E68C|[[Ingrés]] que deixa de percebre a causa de les unitats que deixa de vendre al tenir un [[preu]] massa alt}}
+# {{llegenda|#F0E68C|[[Ingrés]] que deixa de percebre en estar venent a un [[preu]] massa baix quan podria vendre'l més car}}
+# {{llegenda|#000000|[[Preu]] monopolista}}
+|[[Fitxer:Monopolio ineficaz.svg|300px|Monopoli ineficaç]]
+|}
+/center
+El preu massa alt és ineficaç, ja que amb un preu més baix podria vendre moltes més unitats disminuint bastant poc el seu preu, la qual cosa augmentaria els beneficis, que vénen representats per l'àrea esquerra de color groc. De la mateixa manera, el preu massa baix és ineficaç també, ja que podria vendre la gran majoria de les unitats que ofereix a un preu més alt, el que li donarien més beneficis, els quals vénen representats per l'àrea dreta de color groc.
+
+El punt eficient de Pareto és, per tant, aquell en què el [[cost marginal]] és igual a l'[[ingrés|ingrés marginal]]. En traslladar la quantitat que necessita aquest punt a la demanda es troba el punt òptim que determina el preu monopolista, el qual maximitza els beneficis.
+center
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2|
+|-
+|
+# {{llegenda|#00FFFF|[[Demanda (economia)|Demanda]] del [[mercat]] (([[Ingrés|Ingrés mig]] del monopolista)}}
+# {{llegenda|#000080|[[Ingrés marginal]]}}
+# {{llegenda|#FF0000|[[Cost total|Cost mig]]}}
+# {{llegenda|#800000|[[Cost marginal]]}}
+# {{llegenda|#00BFFF|Augment de [[Benefici econòmic|beneficis]] respecte al [[competència perfecta|preu competitiu]](math\Delta P*Q /math)}}
+# {{llegenda|#000000|[[Preu]] monopolista}}
+# {{llegenda|#000000|[[Derivada]] de l'[[Ingrés|ingrés total]] ([[ingrés marginal]])}}
+# {{llegenda|#000000|[[Derivada]] del [[cost total]] ([[cost marginal]])}}
+# {{llegenda|#FFA500|[[Cost total]]}}
+# {{llegenda|#0000CD|[[Ingrés|Ingrés total]]}}
+# {{llegenda|#8B008B|[[Benefici econòmic|beneficis]]}}
+|[[Fitxer:Precio mopolista max beneficios.svg|300px|Preu monopolista maximitzador de beneficis]]
+|}
+/center
+Amb la qual cosa, com a regla general, en el cas d'un monopoli eficient s'ha de complir que l'ingrés marginal sigui igual al cost marginal, representant aquest punt el '''nivell de producció monopolista''' òptim, que en introduir-lo a la funció de demanda, ens dóna com a resultat el '''preu monopolista''' maximitzador de beneficis.
+* mathCM (Q_m) = IM (Q_m)\ /math;
+*: Cost marginal (nivell de producció monopolista) = Ingrés marginal (nivell de producció monopolista)
+* mathD (Q_m) = P_m (Q_m)\ /math; 
+*: Demanda (nivell de producció monopolista) = Preu (nivell de producció monopolista)
+Òbviament hi ha altres qüestions a tenir en compte abans de [[fixació de preus|fixar el preu]]: la possibilitat d'establir [[taxa|taxes]] d'entrada, poder realitzar [[discriminació de preus]], l'existència d'una [[segmentació de mercat]] o la possibilitat de la seva creació, etc.
+
+=== L'efecte d'un impost a la quantitat ===
+L'efecte d'un [[impost]] a la quantitat (per unitat produïda) provoca un increment dels [[cost marginal|costos marginals]]. En incrementar els costos marginals el punt en el qual coincideix amb l'[[ingrés marginal]] varia, fent que variï també el [[preu]] i el nivell de producció. Així, un impost sobre la quantitat provoca, sempre que ho permeti el govern, un augment del preu i un decrement en la quantitat oferta.
+center
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2|
+|-
+|
+# {{llegenda|#000080|[[Ingrés marginal]]}}
+# {{llegenda|#00FFFF|[[Demanda (economia)|Demanda]] del [[mercat]] ([[Ingrés|Ingrés mig]] del monopolista)}}
+# {{llegenda|#800000|[[Cost marginal]] sense l'[[impost]]}}
+# {{llegenda|#F0E68C|[[Cost marginal]] amb l'[[impost]]}}
+# {{llegenda|#000000|[[Producció (economia)|Quantitat]] òptima oferta pel monopolista amb l'[[impost]]}}
+# {{llegenda|#228B22|[[Producció (economia)|Quantitat]] òptima oferta pel monopolista sense l'[[impost]]}}
+# {{llegenda|#228B22|[[Preu]] òptim monopolista sense l'[[impost]]}}
+# {{llegenda|#000000|[[Preu]] òptim monopolista amb l'[[impost]]}}
+|[[Fitxer:Impuesto monopolio.svg|300px|Efecte d'un impost en un monopoli]]
+|}
+/center
+L'impost a la quantitat en perjudici del monopolista fa augmentar el cost marginal provocant un augment dels preus i una disminució de la quantitat oferta.
+
+Per això s'afirma que imposar un impost a un monopolista, des del punt de vista econòmic, resulta negatiu per al consumidor. A més a més, com reflecteix l'apartat de [[Monopoli#El cost social del monopoli|costos socials]], des del punt de vista social, encara que l'[[Estat]] s'emportés tots els guanys del monopolista en impostos i els redistribuís entre els consumidors, hi hauria ineficiència perquè la [[Producció (economia)|producció]] segueix sent menor que en condicions [[Competència perfecta|competitives]]. El cost social equivaldria a la [[pèrdua irrecuperable d'eficiència]] provocada pel [[Monopoli#El poder de mercat del monopolista|poder del monopolista]].
+
+=== L'efecte d'una subvenció a la quantitat ===
+L'efecte d'una [[subvenció]] a la quantitat (per unitat produïda) provoca un decrement dels [[cost marginal|costos marginals]]. En disminuir els costos marginals el punt en el qual coincideix amb l'[[ingrés|ingrés marginal]] varia, fent que variï també el [[preu]] i el nivell de producció. Així, una subvenció sobre la quantitat provoca una disminució del preu i un increment en la quantitat oferta.
+center
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2|
+|-
+|
+# {{llegenda|#000080|[[Ingrés marginal]]}}
+# {{llegenda|#00FFFF|[[Demanda (economia)|Demanda]] del [[mercat]] ([[Ingrés|Ingrés mig]] del monopolista)}}
+# {{llegenda|#800000|[[Cost marginal]] sense la [[subvenció]]}}
+# {{llegenda|#F0E68C|[[Cost marginal]] amb la [[subvenció]]}}
+# {{llegenda|#000000|[[Producció (economia)|Quantitat]] òptima oferta pel monopolista amb la [[subvenció]]}}
+# {{llegenda|#228B22|[[Producció (economia)|Quantitat]] òptima oferta pel monopolista sense la [[subvenció]]}}
+# {{llegenda|#228B22|[[Preu]] òptim monopolista sense la [[subvenció]]}}
+# {{llegenda|#000000|[[Preu]] òptim monopolista amb la [[subvenció]]}}
+|[[Fitxer:Subvencion monopolio.svg|300px|Efecte d'una subvenció en un monopoli]]
+|}
+/center
+La subvenció a la quantitat en benefici del monopolista fa disminuir el cost marginal provocant una disminució dels preus i un augment de la quantitat oferta.
+
+Per això s'afirma que atorgar una subvenció a un monopolista, des del punt de vista econòmic, resulta positiu per al consumidor. A més permet reduir la [[pèrdua irrecuperable d'eficiència]], reduint el [[Monopoli#cost social del monopoli|cost social]], en apropar aquest al preu competitiu. Tanmateix, no soluciona altres problemes com la recerca de [[rendes econòmiques]].
+
+== Costos socials ==
+En un [[mercat]] monopolista el preu tendeix a augmentar, per la qual cosa cal esperar que el benestar dels productors augmenti i el dels consumidors disminueixi. Però si es dóna el mateix valor al benestar dels productors i dels consumidors, cal esbrinar si augmenta o disminueix el benestar de la societat en conjunt. Per a això es realitza una anàlisi gràfica.
+
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2|
+|-
+|
+# {{llegenda|#00FFFF|[[Demanda (economia)|Demanda]] del [[mercat]] ([[Ingrés|Ingrés mig]] del monopolista)}}
+# {{llegenda|#000080|[[Ingrés marginal]]}}
+# {{llegenda|#800000|[[Cost marginal]] sense la [[subvenció]]}}
+# {{llegenda|#000000|[[Preu]] òptim monopolista}}
+# {{llegenda|#000000|Preu òptim [[competència perfecta|competitiu]]}}
+# {{llegenda|#000000|[[Producció (economia)|Quantitat]] òptima monopolista}}
+# {{llegenda|#000000|[[Producció (economia)|Quantitat]] òptima [[competència perfecta|competitiva]]}}
+|[[Fitxer:Coste social.svg|300px|Cost social del monopoli]]
+|}
+/center
+{| style=font-weight:none;margin:1em;padding:0.5em;border:solid 1px grey
+|colspan=2| {{subratllat|}}
+|-
+|
+Al equiparar el mercat monopolista amb el mercat perfectament competitiu la variació és:
+* Pels consumidors (variacions en l'[[excedent del consumidor]]): perden A i B.
+:{{llegenda|#98FB98|A: El que paguen de més:}} (P*subm/sub – P*subc/sub) • Qsubm/sub.
+:{{llegenda|#48D1CC|B: Unitats que ja no poden comprar, al seu preu mig:}} (P*subm/sub – P*subc/sub) • (Qsubc/sub - Qsubm/sub) / 2
+
+* Pels productors (variacions en l'[[excedent del productor]]): guanyen A i perden C.
+:{{llegenda|#98FB98|A: Els beneficis addicionals:}} (P*subm/sub – P*subc/sub) • Qsubm/sub.
+:{{llegenda|#F0E68C|C: La quantitat que deixen de vendre que els hi hauria proporcionat un benefici al posar-ho a preu competitiu, pel benefici mig:}} (P*subc/sub – CM(Qsubm/sub)) • (Qsubc/sub – Qsubm/sub) / 2
+
+* La [[pèrdua irrecuperable d'eficiència]] neta és, per tant, – B – C.
+:{{llegenda|#48D1CC|B: Les unitats que els consumidors es queden sense poder-les gaudir, al seu preu mig:}} (P*subm/sub – P*subc/sub) • Qsubm/sub / 2
+:{{llegenda|#F0E68C|C: Els beneficis que el productor ha deixat de percebre:}} (P*subc/sub – CM(Qsubm/sub)) • (Qsubc/sub – Qsubm/sub) / 2
+|}
+
+Encara que l'[[Estat]] s'emportés tots els [[Benefici econòmic|beneficis]] del monopolista amb [[impost]]os i els redistribuís entre els consumidors dels seus productes, hi hauria una ineficiència perquè la [[Producció (economia)|producció]] seria encara menor que en condicions competitives.ref name=RobertRobert S. Pindyck i Daniel L. Rubinfeld. ''Microeconomia 5a Edició''. Mc Graw Hill. ISBN 84-205-3131-6./ref La pèrdua irrecuperable d'eficiència provocada pel poder de monopoli és aquest cost social.
+
+A més l'empresa pot dedicar-se a la recerca de [[renda econòmica|rendes econòmiques]]:ref name=Robert/ gastar diners en esforços socialment improductius per exemple per adquirir, mantenir o exercir ineficientment el seu poder de monopoli, la qual cosa també suposa un [[cost social]].
+
+Per evitar els costos socials l'[[Estat]] [[intervencionisme|intervé en l'economia]]:
+* Creant una regulació antimonopoli i establint un [[Dret de la competència]] mitjançant [[Legislació|lleis]] i [[reglament]]acions destinades a fomentar la [[competència]] en l'economia prohibint tot el que la restringeix o és probable que la restringeixi limitant tipus d'estructura de mercat permesos i limitant els beneficis de l'estructura.
+* Tractant de trencar la situació de monopoli. Per exemple fomentant l'entrada al [[mercat]] o [[indústria]] de nous competidors o fins i tot obligant a escindir o vendre actius a l'empresa monopolística.
+* [[Estatització|Nacionalitzant]] alguns monopolis perquè sigui l'Estat qui els gestioni en condicions més favorables per als consumidors en forma d'[[empresa pública|empreses públiques]]
+
+== Límits legals al poder del monopolista: El dret de la competència==
+L'[[Estat]] limita el [[Monopoli#Poder de mercat del monopolista|poder de mercat monopolista]] mitjançant la legislació antimonopoli; elaborant lleis i reglamentacions destinades a fomentar la [[competència]] en l'economia prohibint tot el que pot comportar algun tipus d'[[fallida de mercat|ineficiència]] en el mercat, limitant les estructures de mercat permeses. En aquests casos desplega tots els seus efectes abans que es produeixi finalment el monopoli, ja que es tracta d'evitar que finalment es desenvolupi una estructura ineficient.
+
+Tot i així, existeixen certs casos en els quals la regulació desplega els seus efectes permetent el monopoli, i únicament es limita a regular-lo. Quan l'estructura més [[Eficiència econòmica |eficient]] per un mercat sigui un monopoli, és a dir, estem davant d'un [[monopoli natural]], o bé quan per la política econòmica l'estat vulgui afavorir l'existència d'una empresa que dirigeixi un monopoli en una àrea concreta, l'ideal serà reduir el poder del monopolista fins al mínim en el qual li sigui rendible estar en el mercat. D'aquesta manera l'estat intenta, intervenint en el [[mercat]], pal·liar l'abús del [[Monopoli#Poder de mercat del monopolista|poder de mercat]] del monopolista en benefici dels [[consumidor]]s i [[stakeholder]]s en general.
+
+És un cas característic, per exemple, dels [[Servei públic|serveis públics]] perquè solen comportar alts [[costos fixos]] que propicien [[economies d'escala]] motivant que la solució més eficient és que hi hagi una sola empresa perquè existeixi la major [[amortització]] possible de les infraestructures que han estat necessàries per desenvolupar l'activitat ([[monopoli natural]]). Altres estructures en les quals s'observa aquesta regulació posterior poden caracteritzar, bé perquè sigui més rendible permetre l'existència d'un poder de mercat, com en la [[competència monopolista]], o bé quan no pot obligar que es realitzi una altra conducta, com en el cas de la [[Col·lusió|col·lusió implícita]]. En aquests casos el que tracta la llei és d'equiparar la situació del [[consumidor]] a la del monopolista, per tal que aquest ofereixi una major quantitat del productor i a un preu més baix.
+
+Finalment hi ha els casos del monopoli estatal, en els quals l'estat decideix crear un monopoli en una àrea concreta que considera estratègica ([[monopoli artificial]]). En aquest cas la regulació és contínua, en ser l'estat l'entitat que pren totes les decisions per motius polítics.
+
+=== Prohibicions ===
+[[Fitxer:Usdepartmentofjustice.jpg|300px|thumb|Els organismes més importants a l'hora d'executar aquest tipus de regulacions són el [[Departament de Justícia]] (a la foto) i la [[Federal Trade Comission]] a [[USA]], i la [[Comissió Europea]], el [[Tribunal de Justícia de la Unió Europea]] i els [[ministeri de justícia|ministeris de justícia]] a [[Europa]].]]
+A causa dels [[Monopoli#Costos socials|costos socials]] que comporta, el monopoli es considera de forma genèrica una estructura de mercat ineficient, per la qual cosa es tracta d'evitar que finalment es produeixin concentracions de [[Monopoli#Poder de mercat del monopolista|poder de mercat]]. Per a això es desenvolupen diferents prohibicions sobre:
+
+* Els acords sobre fixació de [[preu]]s o altres [[estratègia|estratègies]] de [[mercat]] similars.
+* La [[conducta paral·lela]]: un tipus de col·lusió implícita en la qual una empresa imita sistemàticament les accions de l'altra i pot desembocar en una conducta (preus i quantitats) similar a les d'un monopoli.
+* Les pràctiques depredadores en la fixació dels preus, que tenen l'objecte portar a la fallida als competidors i dissuadir d'entrar en el mercat a qui estiguin considerant la possibilitat, per tal de poder gaudir d'un major poder de mercat segons la teoria dels [[mercats disputats]].
+* La creació de [[Barrera d'entrada|barreres d'entrada]] ja siguin legals ([[patent]]s, [[llicència|llicències]], [[copyright]]s...), tradicionals (costos de publicitat, alts costos irrecuperables o ''sunken costs''...), de costums (crear un compromís per part dels consumidors amb aquesta empresa rebutjant les altres...) o mitjançant el control d'un element imprescindible per a la [[producció (economia)|producció]].
+
+L'aplicació de les lleis antimonopoli pot realitzar-se a través de les respectives divisions antimonopoli dels [[ministeri de justícia|ministeris de justícia]] nacionals resultant en [[multa|multes]] i fins i tot [[Pena (càstig)|penes]] de [[presó]] (per exemple als [[EUA]]) o a través dels procediments administratius de la [[Federal Trade Comission]] que poden iniciar-se no només a través de demandes de productors sinó també de consumidors (''class actions''), els quals poden exigir el triple del valor monetari dels danys soferts (''triple damages'') i els [[cost judicial|costos judicials]]. Alguns exemples són la [[Llei Clayton Antitrust dels Estats Units d'Amèrica|llei Clayton Antitrust]] o la [[Llei Sherman Antitrust dels Estats Units d'Amèrica|llei Sherman Antitrust]]. L'organisme que executa i desenvolupa les lleis antimonopoli a Europa és la [[Comissió Europea]] al costat de les administracions nacionals.
+
+=== Regulació ===
+Si el monopoli resulta ser l'estructura més eficient possible per a una determinada [[indústria]], s'admet la seva existència, donant lloc a un [[monopoli natural]], però s'intenta reduir el [[Monopoli#Poder de mercat del monopolista|poder de mercat]] adquirit pel monopolista fins al mínim possible, equiparant la situació del consumidor i del productor. Per a això es va realitzar diverses pràctiques.
+
+Per exemple, poden forçar el monopolista a reduir el seu preu, establint un preu màxim proper al preu competitiu (el que impedeix que existeixi una [[pèrdua irrecuperable d'eficiència]] (''X-inefficiency''), o en el cas de les [[economies d'escala]] provoca que s'hagi d'atorgar una [[subvenció]] en trobar el preu competitiu per sota dels [[Cost total|costos mitjans]]), o assetjament amb [[impost]]os al productor per després repartir entre els consumidors (el que de nou ens deixaria amb el [[Monopoli#Costos socials|cost social]] de la pèrdua irrecuperable d'eficiència), entre d'altres. En un primer moment eren els [[Ministeri d'Economia|ministeris d'economia]] els encarregats de regular el mercat nacional, però avui dia els acords internacionals en matèria econòmica conformen un entramat econòmic a partir del qual es regula de manera intranacional.
+
+=== Foment ===
+De la mateixa manera, també poden permetre i fins i tot fomentar l'existència de monopolis fruits de l'[[intervencionisme]] estatal, en aquest cas estarem davant d'un [[monopoli artificial]]. Això sol respondre a una [[política econòmica]] determinada del [[govern]] que pot respondre a diferents motivacions. Dos exemples característics són els [[drets d'autor]] o els [[Estanc|estancs]] de [[tabac]].
+
+També seguint la tendència intervencionista, l'[[Estat]] pot [[estatització|nacionalitzar]] o [[estatització|estatalitzar]] monopolis, permetent així que el [[Monopoli#Poder de mercat del monopolista|poder de mercat]] caigui en mans estatals i no privades. El [[comunisme]] respon a aquest tipus de regulació. En l'actualitat s'ha desenvolupat una influència durant els [[segle XIX|segles XIX]] i [[segle XX|XX]] de les teories [[liberalisme|liberals]] i [[John Maynard Keynes|keynesianes]] que propicien l'existència de [[liberalització|liberalitzacions]] i [[privatització|privatitzacions]] en la majoria de països del [[primer món]], per la qual cosa actualment aquesta regulació basada en l'estatització es troba en recessió.
+
+=== Tendències legislatives ===
+En relació a la necessitat d'una normativa antimonopoli existeixen dues postures clàssiques al respecte. Els partidaris de l'[[intervencionisme]] estatal en l'[[economia]] de [[mercat]] afirmen l'existència d'una sèrie d'[[fallida de mercat|errors de mercat]], els quals provoquen que es desenvolupin estructures de mercat d'aquest tipus que poden conseqüenciar la submissió dels [[consumidor]]s davant el [[Monopoli#Poder de mercat del monopolista|poder de mercat]] del monopolista, la qual cosa pot comportar grans desigualtats econòmiques i socials, per tant els únics monopolis existents (ja que es consideren inevitables en aquelles [[indústria|indústries]] que presenten [[economies d'escala]]) han d'estar en mans de l'[[Estat]]. Aquests corrents troben la seva implantació més fèrria en sistemes econòmics [[socialista|socialistes]] i [[comunista|comunistes]].
+
+D'altra banda els partidaris de les postures [[liberalisme|liberals]] i [[neoliberalisme|neoliberals]] afirmen que els únics monopolis que es podrien mantenir en el temps són els [[monopoli natural|monopolis naturals]] que són els que conserven una [[eficiència de Pareto]] i no fan sinó millorar el mercat abaratint els [[cost total|costos]] i per tant el preu del producte o [[servei]]; i que la resta d'estructures monopolistes no són sinó el resultat de [[monopoli artificial|monopolis artificials]] precisament fruit de l'[[intervencionisme|intervencionisme estatal]] (per exemple, en el cas d'una patent o un permís únic de producció). Aquests corrents troben la seva implantació més fèrria en els sistemes econòmics [[capitalisme|capitalistes]]. Avui en dia les més implantades en els sistemes occidentals són els corrents liberals encara que una manera bastant moderada seguint en part el model [[John Maynard Keynes|keynesià]].
+
+== Tipus de monopoli ==
+=== El monopoli pur ===
+{{principal|Monopoli pur}}
+El '''monopoli pur''' és un cas especial del [[monopoli]] en el qual només existeix una única [[empresa]] en una [[indústria]]. En realitat no sol donar-se en l'economia real, excepte quan es tracta d'una activitat desenvolupada mitjançant una concessió pública, però se sol utilitzar la seva figura per explicar la situació en què existeix un venedor que és l'únic que té un gran poder sobre el mercat. Per considerar un monopoli pur perfecte s'han de donar els següents requisits:
+
+* Existeix una sola empresa
+* El producte és homogeni i no existeixen [[béns substitutius|productes substitutius]] propers.
+* Existeixen [[Barrera d'entrada|barreres d'entrada]] en aquest mercat i es maximitza el [[Benefici econòmic|benefici]] període a període.
+* No hi ha cap [[intervencionisme|intervenció governamental]].
+* El monopolista té el [[coneixement]] perfecte de les condicions de mercat sense cap [[incertesa]].
+* Existeix mobilitat perfecta dels [[factors de producció]].
+
+=== El monopoli artificial ===
+{{principal|Monopoli artificial}}
+[[Fitxer:Red_copyright.svg|thumb|El [[copyright]], un exemple de [[barrera d'entrada]] artificial en un mercat]]
+El [[monopoli artificial]] es caracteritza tenir per unes [[barrera d'entrada|barreres d'entrada]] artificials imposades per l'[[Estat]] mitjançant el règim de [[llicència|llicències]] de protecció de [[patent]]s i [[drets d'autor]].
+
+Un monopoli artificial és un tipus de [[monopoli]] en el qual el monopolista es val d'algun mitjà per impedir que entrin al mercat més productes que els seus. Aquesta definició és aplicable anàlogament al concepte d'oligopoli artificial. Els mitjans de què es pot valer poden anar des de la [[violència]] a una forta restricció de la [[demanda]] per part dels [[consumidor]]s, passant per la imposició de [[barrera d'entrada|barreres d'entrada]] artificials o de [[regulació]].
+
+Aquests últims, tenen un caràcter [[Fiscalitat |fiscal]]. L'[[estat]] es pot reservar de forma exclusiva algunes produccions o atorgar privilegis a certes empreses o mantenir un règim de concessió de [[llicència|llicències]] restrictives o protegir [[patent]]s i [[drets d'autor]] essencials per realitzar l'activitat.
+
+=== El monopoli natural ===
+{{AP |Monopoli natural}}
+Un [[monopoli natural]] és un cas particular en el qual una [[empresa]] que pot produir tota la [[producció (economia)|producció]] que necessita el mercat amb un [[cost total|cost]] menor que si hagués diverses empreses competint.
+
+Això normalment passa en mercats on les signatures (empreses) han de realitzar una altíssima inversió inicial per ingressar ([[economies d'escala]]). Els incentius per tal que altres firmes ingressin són nuls i, per altra banda, també seria ineficient, és a dir, resulta més eficient que només hi hagi una empresa en el sector, ja que els costos mitjans tendeixen a 0 segons s'augmenta la quantitat fent el negoci més [[rendibilitat|rendible]] i ajudant la monopolista a abaixar el [[preu]].
+
+Si bé tenen també captius als seus consumidors tenir un monopoli natural, a diferència d'un clàssic, és socialment eficient. Un exemple d'això és la distribució d'[[Potabilització|aigua potable]] a les ciutats.
+
+A la llarga qualsevol monopoli natural morirà bé per canvis legislatius o, a causa de canvis tecnològics.
+
+=== El monopoli discriminador de preus ===
+{{principal|Monopoli discriminador de preus}}
+El monopoli discriminador de preus és aquell que posa diferents preus segons les característiques del mercat, del producte o dels consumidors i ho fan per així obtenir els majors beneficis.
+
+Un venedor de preus discrimina quan cobra diferents preus a diferents compradors. La forma ideal de la discriminació de preus, des del punt de vista del venedor, és cobrar de cada comprador el màxim que el comprador està disposat a pagar. Així la corba d'ingrés marginal es converteix en idèntica a la corba de la demanda. El venedor va a vendre la quantitat econòmicament eficient, capturant la totalitat de l'[[Excedent|excedent del consumidor]], augmentant substancialment els beneficis.
+
+Per poder discriminar el monopolista necessita:
+* Tenir capacitat per segmentar el mercat en diversos tipus, on cada tipus té una [[demanda (economia)|corba de demanda]] diferent.
+* Els [[cost marginal|costos marginals]] de producció per a diferents tipus han de ser similars.
+* Considerar les condicions d'arbitratge, que no existeixi possibilitat de revenda, com ara: bitllets d'avió (són nominatius), abonament de transport, tatuatges, l'electricitat i productes que no siguin fàcils d'emmagatzemar.
+[[Fitxer:Excedent Consumidor.png|thumb|L'[[Excedent|excedent del consumidor]] és la zona marcada de color vermell]]
+'''Excedent del consumidor.'''
+Són els [[estalvi]]s reals del consumidor donat un preu únic, o explicat d'una altra manera, la diferència entre la disposició a pagar i el que realment es paga. És igual a l'àrea sota la corba de la demanda i amunt del preu de mercat.
+
+La discriminació de preus:
+# Redueix l'excedent del consumidor.
+# La discriminació de preus perfecta elimina per complet l'excedent del consumidor.
+
+Hi ha tres tipus de discriminació en un monopoli. La de primer grau o perfecta, de segon grau i de tercer grau. Els graus de les discriminacions indiquen la rendibilitat que obté el monopolista. 
+
+==== Discriminació de primer grau o perfecta ====
+És una situació de discriminació que succeeix quan el monopolista té tota la informació dels consumidors, i per tant, pot vendre cada unitat de producció a diferent preu, cobrant el màxim preu que estigui disposat a pagar el comprador i recollirà tot l'excedent del consumidor. S'ha de fer bé la segmentació del mercat i per això el monopolista ha de tenir molta infirmació, com per exemple, la capacitat de poder distingir als clients diferenciats per: [[sexe]], [[edat]], [[classe social]], etc.
+Per a dur a terme aquesta discriminació hi ha dos mètodes. El primer consisteix a cobrar a cada consumidor la seva valoració màxima del producte o servei. La discriminació de primer grau és la que deixarà més benefici al monopolista. 
+
+La tarifa en dues parts té la forma:
+
+'''T (q) = A + p(q)·q'''
+
+El que fa el monopolista és fixar el preu variable igual al cost marginal i la resta és el preu d'accés, la part variable s'utilitza per cobrir costos i la part fixa per aconseguir tot l'excedent del consumidor. Un clar exemple d'aquesta situació és l'oferta que ofereixen les [[companyies telefòniques]] anomenada ''Tarifa Plana'', on no es cobren els minuts que es parla o es connecta la gent a Internet, cobren una quota fixa.
+
+==== Discriminació de segon grau ====
+És una situació de discriminació donada quan el monopolista sap que existeixen diferents disposicions a pagar, però no les pot identificar, de manera que, ofereix diferents blocs de consum (diferents quantitats) a uns grups de consumidors determinats. El preu es basa depenent del volum que s'usi del bé, és a dir, es poden fer ofertes de cobrar menys als clients que compren més quantitat i cobrar més als que compren menys quantitat. Això també li permetrà recollir una part significativa de l'excedent del consumidor.
+
+==== Discriminació de tercer grau ====
+Aquesta és la discriminació més comuna. El monopolista sap que hi ha diferents disposicions a pagar i les pot identificar encara que no individualment. El monopolista cobra preus diferents pel mateix [[Bé (economia)|bé]] en diferents [[mercat]]s o grups de gent (nois/noies, joves/adults,...etc.), però cada consumidor paga el mateix preu per totes les unitats. (Un exemple clar, seria que el monopolista sap que a la gent li agrada anar al cine, però a la gent jove i vella els hi costa decidir-se pel cine, ja sigui perquè prefereixen sortir de festa (joves) o prefereixen quedar-se a casa perquè són més sedentaris. El monopolista discriminarà de tal manera que cobrarà un preu alt als a adults, mentre que als joves i a la gent gran els hi posarà un preu més baix). El monopolista divideix els consumidors en un nombre petit de grups amb diferent [[Elasticitat (economia)|elasticitat]]. El benefici augmenta perquè es carrega un preu diferent segons l'elasticitat de la demanda. Un dels inconvenients d'aquesta discriminació és que es necessita un criteri que permeti al monopolista separar per elasticitat.
+
+===Estanc ===
+{{principal|Estanc}}
+L'[[estanc]] és aquell monopoli dedicat a la [[producció (economia)|producció]] o venda d'un determinat [[Bé (economia) |bé]] assumit per l'[[estat]] o atorgat a particulars a canvi d'un ingrés al [[fisc]]. Els estancs més comuns són els del [[tabac]], [[segell]]s, [[sal comuna|sal]], [[explosiu]]s i [[licor]]s.
+
+===Mercats disputats: el monopoli competitiu ===
+{{principal|Mercats disputats}}
+La teoria dels [[mercats disputats]] (en [[anglès]] ''contestable markets'') fou esmentada per primera vegada per [[William Baumol]], [[Jhon Panza]] i [[Robert Willing]] el [[1982]] amb el nom de Constestable Market and the Theory of Industry Structure (''Els Mercats disputats i la Teoria de l'Estructura Industrial'').refRobert H. Frank. Microeconomia i Conducta, Mc Graw Hill. ISBN 84-7615-840-8./ref Aquesta teoria tracta de demostrar que un mercat monopolista o [[oligopoli|oligopolística]] es pot arribar a assemblar bastant a una estructura de [[competència perfecta|mercat competitiu]]. Es basa en la idea que una [[empresa]] en situació de monopoli és amenaçada per competidors potencials, ''candidats'' a entrar al mercat, podent en qualsevol moment acabar amb la seva posició dominant en el mercat. Perquè això no passi, i considerant que realitza pràctiques legítimes, l'empresa monopolista no té més opció que prendre mesures properes a la [[competència perfecta]], per exemple disminuint el seu [[preu]] de venda fins que sigui igual al [[cost marginal]], millorant i [[innovació|innovant]] el producte o [[servei]], etc. El que provoca que el seu poder de mercat es vegi notablement minvat.refWilliam Baumol, Jhon Panzar i Robert Willing. Constestable Market and the Theory of Industry Structure (Els Mercats disputats i la Teoria de l'Estructura Industrial). Harcourt. ISBN 0-15-513911-8./ref
+
+== Altres estructures afins al monopoli ==
+=== La competència monopolística ===
+Els mercats de [[competència monopolista]] se situen entre el monopoli i la [[competència perfecta]] i tenen algunes característiques de cada un d'aquests dos mercats.
+
+S'assemblen a la competència perfecta en el fet que hi ha moltes [[empresa|empreses]] que produeixen i venen en aquest sector i en què no existeixen [[barrera d'entrada|barreres d'entrada]]: qualsevol competidor té la facilitat per entrar o sortir del [[mercat]]. La diferència amb la [[competència perfecta]] consisteix en el fet que els productes que es generen no són homogenis.
+
+El [[venedor]] s'enfronta a una corba de [[demanda (economia)|demanda]] decreixent, ja que pot permetre apujar el [[preu]] perdent alguns clients però no tots, ja que té cert poder sobre el preu. Com a resultat d'aquesta demanda creixent, l'equilibri de cada empresa a curt termini és molt similar al del monopoli. Per fer màxim el [[Benefici econòmic|benefici]], cada empresa fixarà aquell [[producció (economia)|nivell de producció]] que iguali l'[[ingrés marginal]] al [[cost marginal]], igual que el monopolista.
+
+Aquests beneficis només es mantindran al curt termini, ja que com que no existeixen traves a l'entrada o sortida d'empreses aquest benefici actuarà com a incentiu a les altres empreses per entrar al mercat restant amb això clients a les altres, donant aquesta situació fins que la corba de demanda de cada empresa sigui tangent a la de [[cost total|cost total mig]]; acabant amb això l'incentiu i l'entrada d'empreses, per la qual cosa a llarg termini les empreses solen fixar la seva [[producció (economia)|producció]] i [[preu]] amb un [[benefici nul]] (la qual cosa no significa que no sigui rendible econòmicament).
+
+=== El monopsoni ===
+{{principal|Monopsoni}}
+Un '''monopsoni''' (del [[grec]] ''mono-''(μονο-) 'únic' i''psonios''(ψωνιος) 'compra') és una situació de [[fallida de mercat]] que apareix quan en un [[mercat]] hi ha un únic [[consumidor]], en lloc de diversos. Aquest, en ser únic, té un control especial sobre el preu dels [[Producte (màrqueting)|productes]], ja que els productors s'han d'adaptar d'alguna manera a les exigències del comprador en matèria de [[preu]] i quantitat. Això li permet al consumidor obtenir els productes a un preu menor a aquell al qual hauria de comprar si estigués en un [[competència perfecta|mercat competitiu]].
+
+El monopsoni no és molt comú en els mercats de productes de consum final, perquè normalment els consums dels demandants són petits en comparació amb el mercat total del producte. Tanmateix, pot ser molt comú amb els mercats de factors, especialment en els països en desenvolupament, on una signatura pot controlar una regió i on no hi ha una gran mobilitat dels factors.
+
+=== El monopoli bilateral ===
+{{principal|Monopoli bilateral}}
+[[Fitxer:Negociation.JPG|thumb|En el monopoli bilateral el poder de [[negociació]] es converteix en un factor clau per la determinació del [[preu]]]] 
+Un monopoli bilateral és un mercat on cohabiten un monopoli d'oferta i un de demanda, i on tant el venedor com el comprador poden influir en els preus. És a dir, existeix a la vegada per part dels venedors un monopoli o [[oligopoli]] i per part dels compradors un [[monopsoni]] o [[oligopsoni]]. Són força freqüents doncs representen l'intercanvi de béns no comuns, com per exemple la indústria de peces especialitzades.
+
+En aquest cas tant el comprador com el venedor es troben en una situació de [[negociació]], ja que el poder de monopoli (fent que el preu pugi) i el poder de [[monopsoni]] (fent que el preu baixi) es contraresten mútuament. Pot passar que no es contrarestin del tot prevalent un dels dos poders de manera significativa.
+
+=== El duopoli ===
+{{principal|Duopoli}}
+Un '''duopoli''' és una forma d'[[oligopoli]] en la qual hi ha dos productors d'un bé o firmes en un mercat. En [[economia]] s'estudia com una forma d'oligopoli donada la seva simplicitat.
+Existeixen principalment dos tipus de duopoli:
+
+* El model de duopoli de '''[[Antoine-Augustin Cournot|Cournot]]''', el qual mostra que dues firmes reaccionen, cadascuna als canvis de producció (quantitat produïda) de l'altra, fins que ambdues arriben a un [[Equilibri de Nash]].
+És a dir, partint d'una situació inicial on les dues empreses han de decidir simultàniament quina quantitat produiran, ho faran segons el que esperen que l'altra empresa produeixi.
+* El model de duopoli de '''[[Bertrand Russell|Bertrand]]''', en el qual, entre dues signatures, cadascuna assumirà que l'altra no canviarà els seus preus en resposta a les seves baixes de preus. Quan ambdues utilitzen aquesta estratègia, assoleixen un [[Equilibri de Nash]].
+
+=== L'oligopoli ===
+{{principal|Oligopoli}}
+Un oligopoli és un [[mercat]] en què hi ha un petit nombre d'empreses productores d'un bé o servei homogeni i per mitjà de la seva posició exerceixen un [[Monopoli#Poder de mercat del monopolista|poder de mercat]] provocant que els preus siguin més alts i la [[producció (economia)|producció]] sigui inferior. Aquestes empreses mantenen dit poder col·laborant entre elles evitant així la [[competència]].
+
+== Monopolis històrics ==
+El terme monopoli apareix per primera vegada en ''la Política'' d'[[Aristòtil]], on descriu el control dels [[trull]]s per part de [[Tales de Milet]] com un monopoli.ref[http://www.constitution.org/ari/polit_01.htm Aristotle: Politics: Book 1] Llibre 1 de la política d'Aristòtil/ref (''μονοπωλίαν'').ref[http://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus%3Atext%3A1999.01.0057layout=loc=1.1259a Aristotle, Politics]/ref
+
+La sal comuna ([[clorur de sodi]]) històricament causava monopolis naturals. Fins fa poc, calia una combinació de radiació solar forta amb humitat baixa o una extensió de pantans de torba per a extreure sal del mar, que n'és la font més abundant. Els canvis periòdics en els nivells del mar provocaven mancances de sal i les comunitats es veien forçades a dependre dels que controlaven les escasses mines interiors i els afloraments de sal, que sovint eren en àrees hostils (el [[Mar Mort]], el [[desert del Sàhara]]) i això exigia una seguretat ben organitzada per al transport, emmagatzematge, i distribució. La [[gabella]] un [[impost]] notòriament alt sobre la sal imposat pels francesos el [[1661]], fou origen de la revolta dels [[angelets de la terra]], pagesos nord-catalans els anys [[1667]] a [[1675]] i va tenir un paper significatiu en el començament de la [[Revolució Francesa]].
+
+Robin Gollan argumenta en ''Els miners de carbó de Nova Gal·les del Sud'' que les pràctiques anticompetitives es desenvolupaven en la indústria de carbó de [[Newcastle (Austràlia)|Newcastle]] com a resultat del [[cicle econòmic]]. El monopoli era generat per reunions formals de la direcció local de companyies de carbó que acceptaven fixar un preu mínim de venda al moll. Aquesta col·lusió es coneixia com The Vend. The Vend va desaparèixer i va ser reformat repetidament a finals del [[segle XIX]], trencant-se en lès èpoques de recessió del cicle econòmic. The Vend era capaç de mantenir el seu monopoli a causa del suport del sindicat, i dels avantatges materials (principalment la geografia del carbó). A començaments del [[segle XX]] com a resultat de pràctiques monopolitzadores comparables en el negoci de navegació de cabotatge australià, The Vend va prendre una nova forma com a col·lusió informal i il·legal entre els propietaris de vaixells de vapor i la indústria de carbó, finalment el cas va arribar als tribunals.refRobin Gollan, The Coalminers of New South Wales: a history of the union, 1860-1960, Melbourne: Melbourne University Press, 1963, 45-1-34./ref
+
+== Vegeu també ==
+* [[Mercat captiu]]
+* [[Lliure mercat]]
+* [[Objectius de la fixació de preus]]
+* [[Wikinomics]]
+* [[Dret de la competència]]
+* [[Concentració del capital]]
+* [[Monopoli de la violència]]
+
+== Referències==
+{{Referències|2}}
+
+== Bibliografia ==
+'''Tota la informació a 19 de juny de 2008 ha sigut verificada i obtinguda de:'''
+* Robert S. Pindyck i Daniel L. Rubinfeld. ''Microeconomia 5a Edició''. Mc Graw Hill. ISBN 84-205-3131-6.
+* Hal R. Varian. ''Un enfocament Actual. Microeconomia Intermèdia 5a Edició'' Antoni Bosch Editor. ISBN 84-95348-11-X.
+* [[Joseph E. Stiglitz]]. ''Microeconomia''. Ariel. ISBN 84-344-2135-6.
+* William Baumol, Jhon Panzar i Robert Willing. ''Constestable Market and the Theory of Industry Structure'' (Els mercats disputats i la teoria de l'estructura industrial). Harcourt. ISBN 0-15-513911-8.
+* Robert H. Frank. ''Microeconomia i conducta'', Mc Graw Hill. ISBN 84-7615-840-8
+* Michele Boldrin i David K. Levine. ''Against Intellectual Monopoly'' (Contra el monopoli intel·lectual), [[Universitat de Cambridge]]. ISBN 978-0-521-87928-6
+
+== Enllaços externs ==
+{{Commonscat}}
+
+* [http://books.google.cat/books?id=wkIDDuBkYv4Cpg=PA136lpg=PA136dq=monopoli+economiasource=blots=VF8kdXBB2gsig=6XuqcXnts1QboM6GqyZ5i2mVQHUhl=caei=imPzScryDJOZjAeF_am4DAsa=Xoi=book_resultct=resultresnum=5 ''Fonaments d'economia política''], per Miguel Puchades Navarro
+* [http://books.google.cat/books?id=pYATgZ8WDmQCpg=PA118lpg=PA118dq=monopoli+economiasource=blots=9PKcE0gNxwsig=zibvJl0l_6AlqaEwQaARWZg-C2Qhl=caei=imPzScryDJOZjAeF_am4DAsa=Xoi=book_resultct=resultresnum=11 ''Introducció a l'economia''], per Amparo Tusón
+* [http://www.mises.org/journals/rae/monopolio.pdf ''El mite del monopoli natural''], per [[Thomas J. DiLorenzo]] {{es}} {{pdf}}
+* [http://www.eumed.net/cursecon/libreria/at-espe/7.3.htm ''Empresa i monopoli''], per Alejandro A. Tagliavini {{es}}
+* [http://168.96.200.17/ar/libros/uruguay/DS/Cap04.pdf Mercat: Estructures i fallides de mercat] {{es}} {{pdf}}
+* [http://www.eumed.net/cursecon/libreria/bg-micro/4.htm ''La competència imperfecta''], per Bernard Guerrien. {{es}}
+* [http://www.gestiopolis1.com/recursos/documentos/archivodocs/deeconomia/monopolio.zip ''Monopoli''], per Mònica Cabrera. {{es}}
+* [http://www.eumed.net/cursecon/dic/bzm/m/monopolioc.htm ''Historia: Monopoli capitalista''], per Borísov, Zhamin i Makárova. {{es}}
+* [http://www.eumed.net/cursecon/libreria/bg-micro/4b.htm ''El duopoli i l'oligopoli''], per Bernard Guerrien. {{es}}
+* [http://www.eumed.net/cursecon/dic/bzm/i/integracion.htm ''Integració monopolista''], per Borísov, Zhamin y Makárova. {{es}}
+* [http://www.aulafacil.com/Microeconomia/Lecciones/Lecc-12.htm Lliçó sobre Monopoli], a ''Aulafácil.com'' {{es}}
+* [http://www.juandemariana.org/tema/16/competencia/monopolio/ Competència i monopolio], selecció d'articles de l'[[Instituto Juan de Mariana]] {{es}}
+
+{{Article de qualitat}}
+{{ORDENA:Monopoli}}
+
+[[Categoria:Monopoli]]
+[[Categoria:Traduccions que són articles de qualitat]]
+[[Categoria:Articles de qualitat de ciències socials]]
+{{Autoritat}}
+{{Enllaç AD|es}}</text>
+      <sha1>hq7utj95slrairrl7ybr5p6bhgq5upl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>

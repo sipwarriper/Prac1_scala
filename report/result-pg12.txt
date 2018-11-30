@@ -1,0 +1,62 @@
+Num de Parules:      33710      Diferents            3192
+Paraules             ocurrencies          frequencia
+------------------------------------------------------
+the                  1775                 5.266
+and                  975                  2.892
+a                    819                  2.430
+to                   817                  2.424
+you                  686                  2.035
+it                   681                  2.020
+i                    660                  1.958
+of                   604                  1.792
+she                  544                  1.614
+said                 473                  1.403
+
+
+Càlcul primer fitxer sense stopWords
+
+debug
+Paraules             ocurrencies          frequencia
+------------------------------------------------------
+alice                455                  1.350
+queen                185                  0.549
+gutenberg            93                   0.276
+ll                   89                   0.264
+project              87                   0.258
+thought              86                   0.255
+don                  80                   0.237
+time                 70                   0.208
+red                  69                   0.205
+white                67                   0.199
+
+
+n-grames del primer fitxer amb n = 3
+
+project gutenberg tm           57
+the red queen                  54
+i don t                        44
+the white queen                33
+the project gutenberg          31
+said in a                      21
+she went on                    18
+gutenberg tm electronic        18
+said the red                   17
+the queen said                 16
+Distribució de paraules
+Les 10 frequencies mes frequents:
+1367 paraules apareixen 1 vegades
+501 paraules apareixen 2 vegades
+300 paraules apareixen 3 vegades
+186 paraules apareixen 4 vegades
+138 paraules apareixen 5 vegades
+97 paraules apareixen 6 vegades
+66 paraules apareixen 7 vegades
+57 paraules apareixen 8 vegades
+37 paraules apareixen 9 vegades
+35 paraules apareixen 12 vegades
+Les 5 frequencies menys frequents:
+1 paraules apareixen 131 vegades
+1 paraules apareixen 975 vegades
+1 paraules apareixen 136 vegades
+1 paraules apareixen 157 vegades
+1 paraules apareixen 358 vegades

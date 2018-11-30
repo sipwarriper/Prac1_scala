@@ -15,14 +15,13 @@
   \usepackage{graphicx}
   \usepackage{subcaption}
   \usepackage{float}
-  \usepackage[numbered,framed]{matlab-prettifier}
-  \usepackage{xcolor}
-  \usepackage{pgf, tikz}
-  \usetikzlibrary{arrows, automata, positioning, datavisualization, datavisualization.formats.functions}
-  
+  \usepackage{verbatim}
+  \usepackage{booktabs}
+  \usepackage[table,xcdraw]{xcolor}
+
 \setcounter{tocdepth}{4}
 \setcounter{secnumdepth}{4}
-  
+
 \newunicodechar{Ŀ}{\L.}
 \newunicodechar{ŀ}{\l.}
 
@@ -149,6 +148,8 @@ Funció molt semblant a la de freqüències normals, però en aquest cas, abans 
   }
 \end{lstlisting}
 
+Funció on busquem les 10 freqüències més freqüents, i les 5 que ho son menys. Esta implementada aprofitant la mateixa funció freq original. Primer de tot transformem l'estructura de dades que conté les freqüències en una string amb les freqüències separades per espais, i després nomes cal usar la funció freq per tal d'obtenir les freqüències de freqüències
+
 \subsection{Funcions de Comparació}
 
 La única funció per comparar és la funció \texttt{cosinesim}, però abans, introduirem les funcions auxiliars utilitzades per fer-lo.
@@ -174,8 +175,8 @@ La única funció per comparar és la funció \texttt{cosinesim}, però abans, i
 
 \begin{enumerate}
   \item \texttt{freqAtf}: passa les freqüències absolutes a freqüència \textit{tf}.
-  \item \textit{mesFrequent}: ens dóna l'element més freqüent de la llista de freqüències.
-  \item \textit{alinearVector}: Donat un vector a alinear, i un vector amb el qual s'ha de alinear, alinea el vector a alinear.
+  \item \texttt{mesFrequent}: ens dóna l'element més freqüent de la llista de freqüències.
+  \item \texttt{alinearVector}: Donat un vector a alinear, i un vector amb el qual s'ha de alinear, alinea el vector a alinear.
 \end{enumerate}
 
 \subsubsection{Funció cosinesim}
@@ -229,10 +230,10 @@ Per fer-ho usem funcions del Java.
 
 \subsection{Funció del Apartat 2 de la Pràctica}
 
-Tenim tota la segona part de la pràctica en la següent funció, que rep una n corresponent als n-grames que volem utilitzar per fer les funcions, i:
+Tenim tota la segona part de la pràctica en la següent funció, que rep una n corresponent als n-grames que volem utilitzar per fer les funcions, el systemActor per poder iniciar actors, i el nombre de workers que volem que el MapReduce utilitzi:
 
 \begin{lstlisting}
-  def calcularSimilituds(n: Int, system: ActorSystem)= {
+  def calcularSimilituds(n: Int, system: ActorSystem, numWorkers: Int)= {
     type Fitxer = (String,(List[(String,Double)],List[String]))
 
     val fitxers = llistaFitxers(DirectoriFitxers)//input
@@ -252,31 +253,31 @@ A continuació vindria un MapReduce per a la lectura de fitxers. Aquest treballa
 
 \begin{lstlisting}
   //funció que llegeix i tracta un fitxer resultat en el títol, el contingut, i una llista de referències.
-  def mapFunctionReadFiles(file:String):(String, (String, List[String])) = {
-    val valors = tractaXMLdoc(file)
-    (valors._1,(valors._2,valors._3))
-  }
+    def mapFunctionReadFiles(file:String):(String, (String, List[String])) = {
+      val valors = tractaXMLdoc(file)
+      (valors._1,(valors._2,valors._3))
+    }
 
-  //funció que a partir d'un fitxer en format(Títol, (Contingut, Referencies), calcula les frequencies TF en el contingut
-  def reduceFunctionReadFiles(fileContent:(String, (String, List[String]))):Fitxer =
-    (fileContent._1, (freqAtf(nonStopFreq(fileContent._2._1,stopWords,1)), fileContent._2._2))
+    //funció que a partir d'un fitxer en format(Títol, (Contingut, Referencies), calcula les frequencies TF en el contingut
+    def reduceFunctionReadFiles(fileContent:(String, (String, List[String]))):Fitxer =
+      (fileContent._1, (freqAtf(nonStopFreq(fileContent._2._1,stopWords,1)), fileContent._2._2))
 
 
-  //Fem l'actor del MapReduce
-  val act = system.actorOf(Props(
-    new MapReduceFramework[String, String, (String,List[String]),String, (String,List[String]),String, (List[(String, Double)], List[String])](
-      {f:String => List(mapFunctionReadFiles(f))},
-      {f:List[(String, (String, List[String]))]=>f},
-      {(f:String, s:(String, List[String])) => List(reduceFunctionReadFiles((f,s)))},
-      10,10,fitxers)
-  ))
+    //Fem l'actor del MapReduce
+    val act = system.actorOf(Props(
+      new MapReduceFramework[String, String, (String,List[String]),String, (String,List[String]),String, (List[(String, Double)], List[String])](
+        {f:String => List(mapFunctionReadFiles(f))},
+        {f:List[(String, (String, List[String]))]=>f},
+        {(f:String, s:(String, List[String])) => List(reduceFunctionReadFiles((f,s)))},
+        numWorkers,numWorkers,fitxers)
+    ))
 
-  //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
-  implicit val timeout = Timeout(12000,TimeUnit.SECONDS)
-  val futur = act ? Iniciar()
-  val diccionariFitxers = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
-  //parem l'actor
-  act ! PoisonPill
+    //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
+    implicit val timeout = Timeout(12000,TimeUnit.SECONDS)
+    val futur = act ? Iniciar()
+    val diccionariFitxers = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
+    //parem l'actor
+    act ! PoisonPill
 \end{lstlisting}
 
 \subsubsection{Càlcul del vector IDF}
@@ -311,7 +312,7 @@ Després la funció faria un mapReduce per calcular el vector \textit{idf}. Aque
     {f=>mapFunctionIDF(f)},
     {f=>funcioIntermitjaIDF(f)},
     {(f:String,s:List[(String,Double)])=>List(reduceFunctionIDF((f,s)))},
-    10,10,diccionariFitxers.toList
+    numWorkers,numWorkers,diccionariFitxers.toList
   )))
 
   //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
@@ -358,7 +359,7 @@ En aquest punt tocaria fer la comparació dels fitxers tots amb tots. Això òbv
     {f=>List(mapComparacio(f))},
     {f=>generarComparacions(f)},
     {(f:Fitxer,s:List[Fitxer])=>List(reduceComparacio((f,s)))},
-    100,100,diccionariFitxers.toList
+    numWorkers,numWorkers,diccionariFitxers.toList
   )))
   //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
   val futur3 = act3 ? Iniciar()
@@ -381,30 +382,30 @@ i fitxers que es referenciïn però no estiguin per sobre de cert altre llindar.
 Primer doncs, el primer cas, sent aquest el cas en què busquem parelles per sobre de cert llindar que no es referenciïn:
 \begin{lstlisting}
   //donada llista referencies
-  //map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
-  def mapObtenirNoRefs(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) ={
-    (fitxer._1,fitxer._2.filter(_._2>LlindarNoReferenciats).filter{
-      f => !diccionariFitxers(fitxer._1)._2.contains(f._1) && !diccionariFitxers(f._1)._2.contains(fitxer._1)
-    })
-  }
-  //Fem l'actor del MapReduce
-  val act4 = system.actorOf(Props (new MapReduceFramework[
-    (String, List[(String, Double)]),
-    String,List[(String, Double)],
-    String, List[(String, Double)],
-    String, List[(String, Double)]]
-  (
-    {f=>List(mapObtenirNoRefs(f))},
-    {f=>f},
-    {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
-    100,100,resultatComparacions
-  )))
+    //map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
+    def mapObtenirNoRefs(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) ={
+      (fitxer._1,fitxer._2.filter(_._2>LlindarNoReferenciats).filter{
+        f => !diccionariFitxers(fitxer._1)._2.contains(f._1) && !diccionariFitxers(f._1)._2.contains(fitxer._1)
+      })
+    }
+    //Fem l'actor del MapReduce
+    val act4 = system.actorOf(Props (new MapReduceFramework[
+      (String, List[(String, Double)]),
+      String,List[(String, Double)],
+      String, List[(String, Double)],
+      String, List[(String, Double)]]
+    (
+      {f=>List(mapObtenirNoRefs(f))},
+      {f=>f},
+      {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
+      numWorkers,numWorkers,resultatComparacions
+    )))
 
-  //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
-  val futur4 = act4 ? Iniciar()
-  val resultatObtenirNoRefs = Await.result(futur4,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
-  //parem l'actor
-  act4 ! PoisonPill
+    //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
+    val futur4 = act4 ? Iniciar()
+    val resultatObtenirNoRefs = Await.result(futur4,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+    //parem l'actor
+    act4 ! PoisonPill
 \end{lstlisting}
 
 I per acabar el cas en què busquem parelles per sota de cert llindar que es referenciïn:
@@ -426,7 +427,7 @@ I per acabar el cas en què busquem parelles per sota de cert llindar que es ref
     {f=>List(mapObtenirRefsDiferents(f))},
     {f=>f},
     {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
-    100,100,resultatComparacions
+    numWorkers,numWorkers,resultatComparacions
   )))
 
   val futur5 = act5 ? Iniciar()
@@ -585,7 +586,7 @@ Aquest fitxer inclou la classe amb el MapReduceFramework, que és la nostre impl
 
 \subsection{Idea General}
 La idea és un map reduce que rep unes dades, funció de mapping, funció de reducing, funció intermèdia, els nombres d'actors de mappeig i de reducció.
-Al rebre la crida Iniciar(), inicia el procediment. Usa la funció de mappeig sobre les dades, aplica la funció intermèdia amb els resultats, i sobre això aplica la funció de reducció
+Al rebre la crida Iniciar(), inicia el procediment. Usa la funció de mappeig sobre les dades, aplica la funció intermèdia amb els resultats, i sobre això aplica la funció de reducció.
 
 \subsection{Signatura}
 
@@ -603,17 +604,218 @@ Al rebre la crida Iniciar(), inicia el procediment. Usa la funció de mappeig so
 
 \subsubsection{Sobre el Tipatge}
 
-Cal definir-li el tipus d'entrada
+\begin{itemize}
+  \item Input, el tipus de cada element de la Llista de dades entrada.
+  \item ClauMap, el tipus de les claus resultants després del mappeig.
+  \item ValorMap, el tipus dels valors resultants després del mappeig.
+  \item ClauIntermitja, el tipus de les claus resultants després del tractament de dades intermedi.
+  \item ValorIntermig, el tipus dels valors resultants després del tractament de dades intermedi.
+  \item ClauSortida, el tipus de les claus resultants després de la funció de reducció.
+  \item ValorSortida, el tipus dels valors resultants després de la funció de reducció.
+\end{itemize}
 
+\subsection{Classes internes}
 
+\begin{lstlisting}
+  case class MissatgeMapeig(dades:Input)
+  case class RespostaMapeig(dades:List[(ClauMap,ValorMap)])
+  case class MissatgeReduccio(dades:(ClauIntermitja, ValorIntermig))
+  case class RespostaReduccio(dades:List[(ClauSortida,ValorSortida)])
+\end{lstlisting}
+
+Les primeres case classes son per fer el \textit{pattern matching} referent a la recepció de missatges.
+
+\subsection{Inicialització de valors}
+\begin{lstlisting}
+  val inici: Long = System.nanoTime()
+  var pendent = 0
+  var pare:ActorRef = _
+  var llistaIntermedia:List[(ClauMap, ValorMap)] = Nil
+  var resultat:mutable.Map[ClauSortida,ValorSortida] = mutable.Map[ClauSortida,ValorSortida]()
+\end{lstlisting}
+
+S'inicialitza el temps de inici i els elements pendents de tractar. Creem variables pare (referent al creador del actor).
+LlistaIntermedia i resultat són la llista i el map (respectivament) a construir amb les dades que tornen el map i el reduce (respectivament).
+
+\subsection{Definició dels routers de Map i Reduce}
+
+\begin{lstlisting}
+  val MapRouter: ActorRef = context.actorOf(RoundRobinPool(nombreActorsMap).props(Props(new Actor{
+    override def receive: Receive = {
+      case MissatgeMapeig(dades) => sender ! RespostaMapeig(mapFunction(dades))
+    }})))
+  val ReduceRouter: ActorRef = context.actorOf(RoundRobinPool(nombreActorsReduce).props(Props( new Actor{
+    override def receive: Receive = {
+      case MissatgeReduccio(fitxer) => sender ! RespostaReduccio(reduceFunction(fitxer._1,fitxer._2))
+    }
+  })))
+\end{lstlisting}
+
+Per a la generació d'actors, hem utilitzat RoundRobin per crear un enroutador d'actors que s'encarregui del balanceig de càrregues i supervisió de fallades.
+
+Els inicialitzem amb classes anònimes, que cada una rep un missatge ordenant mappeig o reducció i respon amb el resultat de aplicar a les dades la funció de de mappeig o reducció, segons el que toqui.
+
+\subsection{Funció de receive}
+
+\begin{lstlisting}
+  override def receive: Receive = {
+    case Iniciar() =>
+      pare = sender
+      println("Iniciem el MapReduceFramework")
+      input.foreach{
+        f=>MapRouter ! MissatgeMapeig(f)
+          pendent+=1}
+    case RespostaMapeig(dades) =>
+      pendent-=1
+      llistaIntermedia = dades ::: llistaIntermedia
+      if (pendent == 0){
+        context.stop(MapRouter)
+        println("--------Duració mapeig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
+        funcioIntermitja(llistaIntermedia).foreach {
+          f => ReduceRouter ! MissatgeReduccio(f)
+            pendent+=1
+        }
+        println("--------Duració Fins Intermig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
+      }
+    case RespostaReduccio(dades) =>
+      pendent -=1
+      dades.foreach{a => resultat+=(a._1->a._2)}
+      if (pendent == 0){
+        context.stop(ReduceRouter)
+        val fi = System.nanoTime()
+        println("Duració: " + (fi-inici).toDouble/1000000000.0 + " segons")
+        pare ! resultat
+      }
+  }
+\end{lstlisting}
+
+La funció es divideix en tres casos, en funció del missatge rebut:
+\begin{enumerate}
+  \item Iniciar(): Aquest missatge és l'ordre de inici d'execució del mapReduce. Hem de guardar el valor del para, i enviem cada dada de la input al MapRouter, actualitzant el pendent
+  \item RespostaMapeig(): Missatge amb resposta d'un MapWorker, hem de actualitzar la llista de pendents, i afegir el rebut a la llista de valors intermedis, quan ja no en queden més, acabar el MapRouter, passar la funció intermèdia, i enviar cada dada d'aquesta al ReduceRouter.
+  \item RespostaReduccio(): Missatge amb resposta d'un ReduceWorker, hem de actualitzar la llista de pendents i actualitzar el resultat final. Quan no queden més, acabem el RouterWorker i responem al pare.
+\end{enumerate}
 
 
 
 
 \chapter{Joc de proves}
 
+\section{Resultats amb els fitxers donats}
+
+\subsection{pg11.txt}
+\small{\verbatiminput{result-pg11.txt}}
+
+\subsection{pg11-net.txt}
+\small{\verbatiminput{result-pg11-net.txt}}
+
+\subsection{pg12.txt}
+\small{\verbatiminput{result-pg12.txt}}
+
+\subsection{pg12-net.txt}
+\small{\verbatiminput{result-pg12-net.txt}}
+
+\subsection{pg74.txt}
+\small{\verbatiminput{result-pg74.txt}}
+
+\subsection{pg74-net.txt}
+\small{\verbatiminput{result-pg74-net.txt}}
+
+\subsection{pg2500.txt}
+\small{\verbatiminput{result-pg2500.txt}}
+
+\subsection{pg2500-net.txt}
+\small{\verbatiminput{result-pg2500-net.txt}}
+
+\section{Resultat amb Fitxer personalitzat}
+\subsection{Contingut del fitxer}
+\small{\verbatiminput{FitxerProva.txt}}
+
+\subsection{Resultat}
+\small{\verbatiminput{result-FitxerProva.txt}}
+
+\section{Resultats Cosinesim}
+Les proves d'aquesta secció han estat fetes amb la següent màquina:
+
+Les següents proves s'han fet amb la següent màquina:
+\begin{itemize}
+  \item CPU: AMD Ryzen 3 1200 amb 4 cores i 4 threads a una freqüència base de 3.10GHz i una freqüència turbo 3.4GHz
+  \item RAM: 8GB
+  \item Almacenatge: HDD
+\end{itemize}
+
+\subsection{pg-11.txt amb pg11-net.txt}
+Resultat: 0.9532862678863194
+
+El cosinesim ha tardat: 0.376971377 segons
+
+\subsection{pg-11.txt amb pg74.txt}
+Resultat: 0.29079706998634325
+
+El cosinesim ha tardat: 0.460658575 segons
+
+\subsection{pg-12.txt amb pg74.txt}
+Resultat: 0.2898070543611612
+
+El cosinesim ha tardat: 0.463819116 segons
+
+\subsection{pg-12.txt amb pg-12.txt}
+Resultat: 0.9999999999997916
+
+El cosinesim ha tardat: 0.416221798 segons
+
+
+
+
+
 \chapter{Resultats}
 
+El temps d'execució al calcular l'exercici amb la maquina esmentada aqui baix és d'aproximadament 55 minuts. Per això, hem creat dos subsets de test per poder provar canvis al codi fàcilment, un que conté tots els arxius acabats en "91.xml",
+ i un altre amb tots els arxius acabats en "9.xml". Els resultats de la nostra execució general estan penjats a \url{https://drive.google.com/file/d/1LoqFrBAbluANe4F8Xv41rmG6mQjydSAV/view?usp=sharing}
+
+\section{Taula de rendiment de MapReduce segons nombre d'actors}
+
+Les següents proves s'han fet amb la següent màquina:
+\begin{itemize}
+  \item CPU: Intel Core i5 6600 amb 4 cores i 4 threads a una freqüència base de 3.30GHz i una freqüència turbo de 3.90GHz
+  \item RAM: 16GB
+  \item Emmagatzematge: Samsung 960 EVO NVMe
+\end{itemize}
+
+
+\begin{tabular}{|c|c|}
+  \hline
+  \rowcolor[HTML]{ECF4FF}
+  \textbf{Nombre d'actors} & \textbf{Temps transcorregut} \\ \hline
+  1                        & 150.21s                      \\ \hline
+  2                        & 76.03s                       \\ \hline
+  4                        & 47.00s                       \\ \hline
+  8                        & 44.33s                       \\ \hline
+  16                       & 45.48s                       \\ \hline
+  32                       & 48.55s                       \\ \hline
+  64                       & 44.35s                       \\ \hline
+  128                      & 46.25                        \\ \hline
+\end{tabular}
+
+\section{Taula d'articles a referenciar segons llindar}
+
+Hem decidit usar un llindar de 0.01 basant-nos en els resultats obtinguts en tests més petits. La taula obtinguda en aquests tests és la següent:
+
+\begin{tabular}{|c|c|}
+\hline
+\rowcolor[HTML]{ECF4FF}
+\textbf{Llindar}            & \textbf{Nombre d'articles a referenciar} \\ \hline
+\multicolumn{1}{|c|}{0.001} & \multicolumn{1}{c|}{97100}               \\ \hline
+\multicolumn{1}{|c|}{0.005} & \multicolumn{1}{c|}{59440}               \\ \hline
+\multicolumn{1}{|c|}{0.01}  & \multicolumn{1}{c|}{30119}               \\ \hline
+\multicolumn{1}{|c|}{0.05}  & \multicolumn{1}{c|}{2209}                \\ \hline
+\multicolumn{1}{|c|}{0.1}   & \multicolumn{1}{c|}{567}                 \\ \hline
+\multicolumn{1}{|c|}{0.5}   & \multicolumn{1}{c|}{7}                   \\ \hline
+\end{tabular}
+
+\section{Ex.3 de la segona part de la pràctica}
+
+Sembla que canviar la longitud dels n-grames de 1 a 5 no afecta al nombre de pagines similars que no es referencien. Suposem que això és degut a que el idf canviaria proporcionalment al tf, i els canvis als dos, al fer les comparacions, es cancelarien i ens quedaria el mateix resultat.
 
 \end{document}
 

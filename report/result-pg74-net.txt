@@ -1,0 +1,62 @@
+Num de Parules:      74388      Diferents            7303
+Paraules             ocurrencies          frequencia
+------------------------------------------------------
+the                  3794                 5.100
+and                  3125                 4.201
+a                    1897                 2.550
+to                   1727                 2.322
+of                   1463                 1.967
+it                   1317                 1.770
+he                   1253                 1.684
+was                  1168                 1.570
+that                 1029                 1.383
+i                    1018                 1.369
+
+
+Càlcul primer fitxer sense stopWords
+
+debug
+Paraules             ocurrencies          frequencia
+------------------------------------------------------
+tom                  819                  1.101
+huck                 258                  0.347
+ll                   232                  0.312
+don                  224                  0.301
+time                 191                  0.257
+joe                  170                  0.229
+boys                 158                  0.212
+boy                  136                  0.183
+ain                  123                  0.165
+back                 121                  0.163
+
+
+n-grames del primer fitxer amb n = 3
+
+i don t                        70
+there was a                    44
+don t you                      35
+by and by                      32
+don t know                     25
+there was no                   25
+it ain t                       24
+i won t                        22
+out of the                     22
+i can t                        21
+Distribució de paraules
+Les 10 frequencies mes frequents:
+3530 paraules apareixen 1 vegades
+1211 paraules apareixen 2 vegades
+612 paraules apareixen 3 vegades
+392 paraules apareixen 4 vegades
+222 paraules apareixen 5 vegades
+169 paraules apareixen 6 vegades
+163 paraules apareixen 7 vegades
+126 paraules apareixen 8 vegades
+92 paraules apareixen 10 vegades
+82 paraules apareixen 9 vegades
+Les 5 frequencies menys frequents:
+1 paraules apareixen 1253 vegades
+1 paraules apareixen 893 vegades
+1 paraules apareixen 52 vegades
+1 paraules apareixen 301 vegades
+1 paraules apareixen 146 vegades

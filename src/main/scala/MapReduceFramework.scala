@@ -24,17 +24,6 @@ class MapReduceFramework[Input, ClauMap, ValorMap, ClauIntermitja, ValorIntermig
   case class MissatgeReduccio(dades:(ClauIntermitja, ValorIntermig))
   case class RespostaReduccio(dades:List[(ClauSortida,ValorSortida)])
 
-  class MapWorker()extends Actor{
-    override def receive: Receive = {
-      case MissatgeMapeig(dades) => sender ! mapFunction(dades)
-    }
-  }
-  class ReduceWorker() extends Actor{
-    override def receive: Receive = {
-      case MissatgeReduccio(dades) => sender ! reduceFunction(dades._1,dades._2)
-    }
-  }
-
   val inici: Long = System.nanoTime()
   var pendent = 0
   var pare:ActorRef = _

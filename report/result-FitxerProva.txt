@@ -1,0 +1,51 @@
+Num de Parules:      31         Diferents            14
+Paraules             ocurrencies          frequencia
+------------------------------------------------------
+declarativa          3                    9.677
+la                   3                    9.677
+de                   3                    9.677
+fent                 3                    9.677
+programació          3                    9.677
+pràctica             3                    9.677
+estic                3                    9.677
+hola                 3                    9.677
+adéu                 2                    6.452
+fet                  1                    3.226
+
+
+Càlcul primer fitxer sense stopWords
+
+debug
+Paraules             ocurrencies          frequencia
+------------------------------------------------------
+declarativa          3                    9.677
+fent                 3                    9.677
+programació          3                    9.677
+pràctica             3                    9.677
+hola                 3                    9.677
+fet                  1                    3.226
+adèu                 1                    3.226
+repeticions          1                    3.226
+
+
+n-grames del primer fitxer amb n = 3
+
+fent la pràctica               3
+la pràctica de                 3
+de programació declarativa     3
+pràctica de programació        3
+estic fent la                  3
+hola adéu estic                2
+programació declarativa hola   2
+adéu estic fent                2
+declarativa hola adéu          1
+declarativa hola adèu          1
+Distribució de paraules
+Les 10 frequencies mes frequents:
+8 paraules apareixen 3 vegades
+5 paraules apareixen 1 vegades
+1 paraules apareixen 2 vegades
+Les 5 frequencies menys frequents:
+8 paraules apareixen 3 vegades
+5 paraules apareixen 1 vegades
+1 paraules apareixen 2 vegades

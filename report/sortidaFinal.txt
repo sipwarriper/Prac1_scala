@@ -1,0 +1,27 @@
+INICI DEL CAMP MINAT:
+
+Iniciem el MapReduceFramework
+--------Duració mapeig: 2.824041359 segons
+--------Duració Fins Intermig: 2.98406339 segons
+Duració: 14.401628463 segons
+Finalitzant el MapReduceFramework
+Iniciem el MapReduceFramework
+--------Duració mapeig: 0.228338063 segons
+--------Duració Fins Intermig: 4.843085598 segons
+Duració: 5.230282472 segons
+Finalitzant el MapReduceFramework
+Iniciem el MapReduceFramework
+--------Duració mapeig: 0.634392674 segons
+--------Duració Fins Intermig: 0.736356382 segons
+Duració: 3645.683387594 segons
+Finalitzant el MapReduceFramework
+Iniciem el MapReduceFramework
+--------Duració mapeig: 0.239357335 segons
+--------Duració Fins Intermig: 0.274519816 segons
+Duració: 0.27688633 segons
+Finalitzant el MapReduceFramework
+Iniciem el MapReduceFramework
+--------Duració mapeig: 1.542973749 segons
+--------Duració Fins Intermig: 1.564665447 segons
+Duració: 1.57732066 segons
+Finalitzant el MapReduceFramework
