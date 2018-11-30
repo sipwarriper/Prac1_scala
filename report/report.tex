@@ -240,6 +240,8 @@ Tenim tota la segona part de la pràctica en la següent funció, que rep una n 
   }
 \end{lstlisting}
 
+\subsubsection{Llegir Fitxers i tractar-los}
+
 Aquesta primera part definim un alies pels fitxers, i aconseguim la llista de fitxers a tractar.
 
 A continuació vindria un MapReduce per a la lectura de fitxers. Aquest treballarà així:
@@ -276,6 +278,8 @@ A continuació vindria un MapReduce per a la lectura de fitxers. Aquest treballa
   //parem l'actor
   act ! PoisonPill
 \end{lstlisting}
+
+\subsubsection{Càlcul del vector IDF}
 
 Després la funció faria un mapReduce per calcular el vector \textit{idf}. Aquest funcionaria així:
 
@@ -316,6 +320,8 @@ Després la funció faria un mapReduce per calcular el vector \textit{idf}. Aque
   //parem l'actor
   act2 ! PoisonPill
 \end{lstlisting}
+
+\subsubsection{Comparacions tots amb tots}
 
 En aquest punt tocaria fer la comparació dels fitxers tots amb tots. Això òbviament amb un MapReduce:
 \begin{itemize}
@@ -361,7 +367,10 @@ En aquest punt tocaria fer la comparació dels fitxers tots amb tots. Això òbv
   act3 ! PoisonPill
 \end{lstlisting}
 
-Amb això el primer apartat de la segona part de la Pràctica estaria acabat, faltant el segon, que consisteix en buscar els articles amb similituds per sobre d'un llindar però que no es referenciïn
+Amb això el primer apartat de la segona part de la Pràctica estaria acabat, faltant el segon.
+
+\subsubsection{Tractant referències}
+El segon apartat consisteix en buscar els articles amb similituds per sobre d'un llindar però que no es referenciïn
 i fitxers que es referenciïn però no estiguin per sobre de cert altre llindar. Les dos les hem fet amb mètodes semblants, Un MapReduce per cada un que no fa res en el Reduce.
 \begin{itemize}
   \item el map s'encarrega de filtrar els elements per {sobre \texttt{||} sota} d'un llindar que {no es \texttt{||} sí es} referenciïn.
@@ -487,12 +496,114 @@ Usant les funcions de entrada-sortida del Java, fiquem el contingut resultant en
   pw.close()
 \end{lstlisting}
 
+\subsection{Main de l'aplicació}
 
+El main es divideix en dues parts:
+\begin{itemize}
+  \item Una referent a la primera part de la pràctica.
+  \item Una altre referent a la segona part de la pràctica
+\end{itemize}
 
+\subsubsection{Primera part}
+
+\begin{lstlisting}
+  override def main(args: Array[String]): Unit = {
+    val filename = "pg11.txt"
+    val fileContents = Source.fromFile(filename).mkString
+
+    val filename2 = "english-stop.txt"
+    val englishStopWords = getStopWords(filename2)
+
+    val llistaFreq = freq(fileContents,1).sortBy(-_._2)
+    val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
+    val diff = llistaFreq.size
+    println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
+    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
+    println("------------------------------------------------------")
+    val sFormat = "%-20s %-20s %-1.3f "
+    for (p <- llistaFreq.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
+
+    println("\n\nCàlcul primer fitxer sense stopWords\n")
+    println("debug")
+    val llistaNonStop = nonStopFreq(fileContents, englishStopWords, 1).sortBy(-_._2)
+    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
+    println("------------------------------------------------------")
+    for (p <- llistaNonStop.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
+
+    println("\n\nn-grames del primer fitxer amb n = 3\n")
+    val llistaNgrames = freq(fileContents, 3).sortBy(-_._2)
+
+    for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
+
+    println("Distribució de paraules")
+    paraulafreqfreq(llistaFreq)
+
+    val filename3 = "pg74.txt"
+    println("\n\nComparació de pg11.txt amb pg74.txt utilitzant el cosinesim\n")
+
+    val start = System.nanoTime()
+    val newFileContents = Source.fromFile(filename).mkString
+    val fileContents2 = Source.fromFile(filename3).mkString
+
+    val freq1 = nonStopFreq(newFileContents, englishStopWords,1).sortBy(-_._2)
+    val freq2 = nonStopFreq(fileContents2, englishStopWords, 1).sortBy(-_._2)
+
+    val txt1 = freqAtf(freq1)
+    val txt2 = freqAtf(freq2)
+
+    val resCosinesim = cosinesim(txt1, txt2)
+
+    val end = System.nanoTime()
+    println(resCosinesim)
+    println("El cosinesim ha tardat: " + (end-start).toDouble/1000000000.0)
+...
+  }
+\end{lstlisting}
+
+\subsubsection{Segona Part}
+
+\begin{lstlisting}    
+  println("\n\n\n\nINICI DEL CAMP MINAT: \n")
+
+  val system = ActorSystem("SystemActor")
+
+  val maxNgrames = 1
+
+  for(n <- 1 to maxNgrames){
+    calcularSimilituds(n,system)
+  }
+
+  system.terminate()
+\end{lstlisting}
+
+La funció de la segona part s'executa de 1 fins a maxNgrames, podent determinar quin es el màxim on volem arribar.
 
 
 \section{Fitxer MapReduceFramework.scala}
 
+Aquest fitxer inclou la classe amb el MapReduceFramework, que és la nostre implementació genèrica del mapReduce. 
+
+\subsection{Idea General}
+La idea és un map reduce que rep unes dades, funció de mapping, funció de reducing, funció intermèdia, els nombres d'actors de mappeig i de reducció.
+Al rebre la crida Iniciar(), inicia el procediment. Usa la funció de mappeig sobre les dades, aplica la funció intermèdia amb els resultats, i sobre això aplica la funció de reducció 
+
+\subsection{Signatura}
+
+\begin{lstlisting}
+  class MapReduceFramework[Input, ClauMap, ValorMap, ClauIntermitja, ValorIntermig, ClauSortida, ValorSortida]
+(
+  mapFunction:Input=>List[(ClauMap, ValorMap)],
+  funcioIntermitja:List[(ClauMap, ValorMap)] => List[(ClauIntermitja, ValorIntermig)] ,
+  reduceFunction:(ClauIntermitja, ValorIntermig)=>List[(ClauSortida, ValorSortida)],
+  nombreActorsMap: Int,
+  nombreActorsReduce: Int,
+  input: List[Input]
+) extends Actor{
+\end{lstlisting}
+
+\subsubsection{Sobre el Tipatge}
+
+Cal definir-li el tipus d'entrada
 
 
 

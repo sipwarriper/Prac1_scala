@@ -382,17 +382,6 @@ object SimilitutEntreDocs extends App {
 
     system.terminate()
 
-    /*
-      TODO-1 DONE: fer el vector de idf
-
-      -todo-2: fer un mapreduce que faci la comparació tots amb tots
-      todo-3: llistar els parells de pagines similars q no es referenciin
-      map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
-      intermig:--
-      reduce:
-      todo-4: llistar parell de pagines q es referenciin pero q no siguin prou similars
-      todo-5: relacionat amb els dos anteriors, decidir llindar
-     */
   }
 }
 
