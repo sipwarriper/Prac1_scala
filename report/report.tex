@@ -42,19 +42,25 @@
   linkcolor=blue,  %choose some color if you want links to stand out
 }
 
-
-\newcommand\double[3][10]{%Passantli A i B genera quatre vertexs virtuals A-B-s, A-B-e (per resepresentar una aresta) i B-A-s, B-A-e (per representar l'altre aresta)
-  \draw (#2)
-    edge [bend left=#1,draw=none]
-    coordinate[at start](#2-#3-s)
-    coordinate[at end](#2-#3-e)
-    (#3)
-    edge [bend right=#1,draw=none]
-    coordinate[at start](#3-#2-e)
-    coordinate[at end](#3-#2-s)
-    (#3);
-}
-
+\lstset{frame=tb,
+  language=Scala,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3,
+  extendedchars=true,
+  literate={á}{{\'a}}1 {à}{{\`a}}1 {ã}{{\~a}}1 {é}{{\'e}}1 {è}{{\`e}}1 {í}{{\'i}}1 {ï}{{\"i}}1 {ó}{{\'o}}1 {ò}{{\`o}}1 {ú}{{\'u}}1 {ü}{{\"u}}1 {ç}{{\c{c}}}1
+        {Á}{{\'A}}1 {À}{{\`A}}1 {Ã}{{\~A}}1 {É}{{\'E}}1 {È}{{\`E}}1 {Í}{{\'I}}1 {Ï}{{\"I}}1 {Ó}{{\'O}}1 {Ò}{{\`O}}1 {Ú}{{\'U}}1 {Ü}{{\"U}}1 {Ç}{{\c{C}}}1
+  }
 
 \setlength{\footskip}{50pt}
 \setlength{\parindent}{0cm} \setlength{\oddsidemargin}{-0.5cm} \setlength{\evensidemargin}{-0.5cm}
@@ -70,15 +76,125 @@
 
 \begin{document}
 
-\title{Pràctica de programció funcional + orientada a objectes}
-\subtitle{Similitud entre documents}
+\title{Pràctica de programció funcional + orientada a objectes\\
+\large Similitud entre documents}
 \author{Ismael El Habri, Lluís Trilla}
 \date{16 d'octubre de 2018}
 \maketitle
 
 \tableofcontents
 
+\chapter{Codi de la pràctica}
 
+Hem dividit el nostre codi en dos fitxers, SimilitudEntreDocuments.scala i MapReduceFramework.scala.
+
+\section{Fitxer SimilitudEntreDocuments.scala}
+
+Aquest fitxer inclou les següents funcions:
+\subsection{Funcions de freqüència}
+
+\subsubsection*{Funció Freqüència}
+\begin{lstlisting}
+  //Rebent una String i un enter n dóna com a resultat una llista amb tuples (n-grames, freqüència)
+  def freq(text:String, n:Int):List[(String, Int)] =
+    normalitza(text).split(" +").sliding(n).toList
+      .map(_.mkString(" ")).groupBy(identity).mapValues(_.length).toList
+\end{lstlisting}
+
+Aquesta funció rep una String amb el contingut d'un fitxer i un enter, i torna una Llista amb tuples n-grames (on n és l'enter donat), Nombre. El nombre és el nombre de vagades que apareix en el fitxer la paraula amb la que va agrupat.
+En la funció usem la funció que explicarem a continuació, \texttt{normalitza}. A part, usem les següents funcions de Scala:
+\begin{itemize}
+  \item \texttt{split}: separa una string en una llista de strings usant un delimitador donat
+  \item \texttt{sliding}: per fer grups de n-elements amb els elements de la llista de Strings.
+  \item \texttt{map}: L'usem per convertir cada grup resultant de la funció anterior en Strings.
+  \item \texttt{mkString}: Per crear Strings a partir de la llista.
+  \item \texttt{groupBy}: S'usa per agrupar els elements d'una llista donada una certa relació, en aquest cas volem agrupar els ideals,
+    això dóna un resultat del tipus \texttt{Map[String,List[String]]}.
+  \item \texttt{mapValues}: L'usem per reduir els resultats dels valors anteriors en un element de Diccionari, en aquest cas: String -> Int.
+\end{itemize}
+
+\subsubsection*{Funció de normalització}
+\begin{lstlisting}
+  //Rep una String i la normalitza (canvia tot el que no és lletra per espais i passa la string a minúscules)
+  def normalitza(text:String):String =
+    text.map(c=> if(c.isLetter) c else ' ').toLowerCase().trim
+\end{lstlisting}
+
+Funció que per cada element de una String fa un map per canviar tots els elements que no són lletres per espais, passa el resultat del map a minúscules.
+
+De les funcions de Scala no n'usem cap de nova, apart de \texttt{trim} que ens treu els espais generats al principi i al final de la String normalitzada.
+
+\subsubsection*{Funció de Freqüències sense \textit{StopWords}}
+\begin{lstlisting}
+  //Rep una String i una llista de Strings amb stop words, i fa el vector de frequencies filtran les stop words.
+  def nonStopFreq(text:String, stop:List[String], n:Int):List[(String, Int)] =
+    normalitza(text).split(" +").filterNot{a => stop.contains(a)}.sliding(n).toList.map(_.mkString(" ")).groupBy(identity).mapValues(_.length).toList
+\end{lstlisting}
+
+Funció molt semblant a la de freqüències normals, però en aquest cas, abans del sliding, filtrem les \textit{stopwords} donades.
+
+\subsubsection*{Funció de distribució de paraules}
+\begin{lstlisting}
+  //Obtenim les 10 frequències més frequents, i les 5 menys frequents
+  def paraulafreqfreq(llistaFrequencies:List[(String,Int)]): Unit = {
+    val stringFrequencies:String = llistaFrequencies.map(_._2.toString.concat(" ")).mkString
+    val freqfreqList = stringFrequencies
+      .split(" +").groupBy(identity).mapValues(_.length).toList.sortBy(-_._2)
+    println("Les 10 frequencies mes frequents:")
+    for(frequencia <- freqfreqList.slice(0,10))
+      println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
+    println("Les 5 frequencies menys frequents:")
+    for(frequencia <- freqfreqList.slice(freqfreqList.length-5,freqfreqList.length).sortBy(-_._2))
+      println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
+  }
+\end{lstlisting}
+
+\subsection{Funcions de Comparació}
+
+La única funció per comparar és la funció \texttt{cosinesim}, però abans, introduirem les funcions auxiliars utilitzades per fer-lo.
+
+\subsubsection*{Funcions auxiliars}
+
+\begin{lstlisting}
+  //Rep dos vectors de frequencies absolutes i les converteix a tf.
+  def freqAtf(llistaFreq:List[(String, Int)]):List[(String, Double)] = {
+    val mesfrequent = llistaFreq.maxBy(_._2)._2
+    llistaFreq.map{a=> (a._1, a._2.toDouble/mesfrequent)}
+  }
+
+  //Retorna la paraula no-stop més frequent del text introduït, junt amb la seva freqüència
+  def mesFrequent(text:String, stop:List[String], n:Int) = nonStopFreq(text, stop, n).maxBy(_._2)
+
+  //Busquem les paraules q no tenim a txt1 de txt2 i les afegim amb frequencia = 0 a txt1 Al final ordenem alfabeticament, per tenir el mateix ordre en els dos vectors!
+  def alinearVector(aAlinear:List[(String, Double)], suport:List[(String, Double)]):List[(String, Double)] ={
+    val aAlinearMap = aAlinear.toMap
+    (aAlinear ::: (for (b<-suport if !aAlinearMap.contains(b._1)) yield (b _1, 0.0))) sortBy(_._1)
+  }
+\end{lstlisting}
+
+\begin{enumerate}
+  \item \texttt{freqAtf}: passa les freqüències absolutes a freqüència \textit{tf}.
+  \item \textit{mesFrequent}: ens dóna l'element més freqüent de la llista de freqüències.
+  \item \textit{alinearVector}: Donat un vector a alinear, i un vector amb el qual s'ha de alinear, alinea el vector a alinear.
+\end{enumerate}
+
+\subsubsection*{Funció cosinesim}
+
+\begin{lstlisting}
+  //Rep dos vectors amb les paraules i les seves freqüencies tf, i retorna la semblança entre aquests dos fitxers.
+  def cosinesim (txt1:List[(String,Double)], txt2:List[(String,Double)]):Double =
+    (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _)/(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
+\end{lstlisting}
+
+Sent la fórmula de simi\l.litud: $sim(a,b) = \frac{a \dot b}{sqrt{\sum_{i=1}^m a[i]^2} \dot sqrt{\sum_{i=1}^m b[i]^2}}$
+
+
+
+
+
+\chapter{Joc de proves}
+
+\chapter{Resultats}
 
 
 \end{document}
