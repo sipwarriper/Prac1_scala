@@ -16,7 +16,7 @@ import scala.xml.XML
 object SimilitutEntreDocs extends App {
 
   final val StopWordsFileName = "stopwordscat.txt"
-  final val DirectoriFitxers = "wikidocs-test"
+  final val DirectoriFitxers = "wikidocs"
   final val LlindarNoReferenciats = 0.05
   final val LlindarReferenciats = 0.01
   lazy final val nombreFitxers: Int =
@@ -83,7 +83,7 @@ object SimilitutEntreDocs extends App {
   }
 
 
-  //Rep el nom de un docoment de la wiki, el llegeix i elfiltra, resultant en el nom de l'article, el contingut d'aquest i una llista de referències cap a altres articles
+  //Rep el nom de un docoment de la wiki, el llegeix i el filtra, resultant en el nom de l'article, el contingut d'aquest i una llista de referències cap a altres articles
   def tractaXMLdoc(docName:String): (String, String, List[String]) = {
     val xmlleg=new java.io.InputStreamReader(new java.io.FileInputStream(docName), "UTF-8")
     val xmllegg = XML.load(xmlleg)
@@ -132,7 +132,7 @@ object SimilitutEntreDocs extends App {
     implicit val timeout = Timeout(12000,TimeUnit.SECONDS)
     val futur = act ? Iniciar()
     val diccionariFitxers = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
-
+    //parem l'actor
     act ! PoisonPill
 
 
@@ -164,7 +164,7 @@ object SimilitutEntreDocs extends App {
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
     val futur2 = act2 ? Iniciar()
     val diccionariIDF = Await.result(futur2,timeout.duration).asInstanceOf[mutable.Map[String, Double]]
-
+    //parem l'actor
     act2 ! PoisonPill
 
 
@@ -201,7 +201,7 @@ object SimilitutEntreDocs extends App {
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
     val futur3 = act3 ? Iniciar()
     val resultatComparacions = Await.result(futur3,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
-
+    //parem l'actor
     act3 ! PoisonPill
 
 
@@ -230,7 +230,7 @@ object SimilitutEntreDocs extends App {
     //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
     val futur4 = act4 ? Iniciar()
     val resultatObtenirNoRefs = Await.result(futur4,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
-
+    //parem l'actor
     act4 ! PoisonPill
 
 
@@ -257,7 +257,7 @@ object SimilitutEntreDocs extends App {
 
     val futur5 = act5 ? Iniciar()
     val resultatObtenirRefsDiferents = Await.result(futur5,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
-
+    //parem l'actor
     act5 ! PoisonPill
 
 

@@ -186,8 +186,222 @@ La única funció per comparar és la funció \texttt{cosinesim}, però abans, i
     (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _)/(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
 \end{lstlisting}
 
-Sent la fórmula de simi\l.litud: $sim(a,b) = \frac{a \dot b}{sqrt{\sum_{i=1}^m a[i]^2} \dot sqrt{\sum_{i=1}^m b[i]^2}}$
+Sent la fórmula de simi\l.litud: \[sim(a,b) = \frac{a \cdot b}{sqrt{\sum_{i=1}^m a[i]^2} \cdot sqrt{\sum_{i=1}^m b[i]^2}}\]
 
+El cosinesim ha de fer la divisió del producte escalar dels dos vectors alineats entre el resultat de la multiplicació de la arrel de la suma de cada \textit{tf} dels dos vectors de frequencies.
+
+La funció dona per suposat que la freqüència donada és freqüència \textit{tf}.
+
+\subsection{Funcions pel MapReduce}
+
+\subsubsection*{Funció per Llegir fitxers XML}
+\begin{lstlisting}
+  //Rep el nom de un docoment de la wiki, el llegeix i el filtra, resultant en el nom de l'article, el contingut d'aquest i una llista de referències cap a altres articles
+  def tractaXMLdoc(docName:String): (String, String, List[String]) = {
+    val xmlleg=new java.io.InputStreamReader(new java.io.FileInputStream(docName), "UTF-8")
+    val xmllegg = XML.load(xmlleg)
+    // obtinc el titol
+    val titol=(xmllegg \\ "title").text
+    // obtinc el contingut de la pàgina
+    val contingut = (xmllegg \\ "text").text
+
+    // identifico referències
+    val refs=(new Regex("\\[\\[[^\\]]*\\]\\]") findAllIn contingut).toList
+    // elimino les que tenen : (fitxers) i # (referencies internes)
+    val kk = refs.filterNot(x=> x.contains(':') || x.contains('#')).map(_.takeWhile(_!='|'))
+    (normalitza(titol), contingut, kk.map(normalitza).distinct)
+  }
+\end{lstlisting}
+
+Funció basada en el programa Scala donat pel professor, modificada per tal de eliminar referencies internes
+(les que contenen el caràcter '\texttt{\#}'), i treure la part de les referencies que parla del apartat del article referit
+(a partir del caràcter '\texttt{|}').
+
+
+\subsubsection*{Llista de fitxers en un directori}
+\begin{lstlisting}
+  //donada una string de directori, retorna la llista de fitxers que conté
+  def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
+\end{lstlisting}
+
+A partir del nom d'un directori, ens torna una llista amb els paths dels fitxers del directori.
+Per fer-ho usem funcions del Java.
+
+\subsection{Funció del Apartat 2 de la Pràctica}
+
+Tenim tota la segona part de la pràctica en la següent funció:
+
+\begin{lstlisting}
+  def calcularSimilituds(n: Int, system: ActorSystem)= {
+    type Fitxer = (String,(List[(String,Double)],List[String]))
+
+    val fitxers = llistaFitxers(DirectoriFitxers)//input
+    ...
+  }
+\end{lstlisting}
+
+Aquesta primera part definim un alies pels fitxers, i aconseguim la llista de fitxers a tractar.
+
+A continuació vindria un MapReduce per a la lectura de fitxers. Aquest treballarà així:
+\begin{enumerate}
+  \item El map s'encarregarà de llegir cada fitxer de disc, convertint-lo en un element de tipus (String, String, List[String]), sent aquests el títol del article, el contingut d'aquest, i la seva llista de referències a altres articles.
+  \item El reduce calcularà la freqüència \textit{tf} de cada fitxer.
+\end{enumerate}
+
+\begin{lstlisting}
+  //funció que llegeix i tracta un fitxer resultat en el títol, el contingut, i una llista de referències.
+  def mapFunctionReadFiles(file:String):(String, (String, List[String])) = {
+    val valors = tractaXMLdoc(file)
+    (valors._1,(valors._2,valors._3))
+  }
+
+  //funció que a partir d'un fitxer en format(Títol, (Contingut, Referencies), calcula les frequencies TF en el contingut
+  def reduceFunctionReadFiles(fileContent:(String, (String, List[String]))):Fitxer =
+    (fileContent._1, (freqAtf(nonStopFreq(fileContent._2._1,stopWords,1)), fileContent._2._2))
+
+
+  //Fem l'actor del MapReduce
+  val act = system.actorOf(Props(
+    new MapReduceFramework[String, String, (String,List[String]),String, (String,List[String]),String, (List[(String, Double)], List[String])](
+      {f:String => List(mapFunctionReadFiles(f))},
+      {f:List[(String, (String, List[String]))]=>f},
+      {(f:String, s:(String, List[String])) => List(reduceFunctionReadFiles((f,s)))},
+      10,10,fitxers)
+  ))
+
+  //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
+  implicit val timeout = Timeout(12000,TimeUnit.SECONDS)
+  val futur = act ? Iniciar()
+  val diccionariFitxers = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
+  //parem l'actor
+  act ! PoisonPill
+\end{lstlisting}
+
+Després la funció faria un mapReduce per calcular el vector \textit{idf}. Aquest funcionaria així:
+
+\begin{itemize}
+  \item el map ens genera tuples (paraules,valors) amb cada paraula diferent de cada fitxer, inicialitzat a 1.
+  \item una funció intermèdia que ens agrupa les paraules iguals
+  \item el reduce agafa cada grup d'aquests, i en calcula el valor \textit{idf}
+\end{itemize}
+
+\begin{lstlisting}
+  //funció que rep un fitxer i resulta en una Llista de parelles de paraules diferents en el fitxer, i el número 1
+  def mapFunctionIDF(fitxer:Fitxer):List[(String,Double)] =
+    (fitxer._2)._1.map{x=>(x._1,1.0)}
+
+  //funció que rep una parella amb una Paraules i Llista de Paraules(iguals) i nombres,
+  // la funció conta la llargada de la funció
+  def reduceFunctionIDF(dades:(String,List[(String,Double)])):(String,Double) =
+    (dades._1, log10(nombreFitxers/ dades._2.foldLeft(0){ (a, _)=>a+1}))
+
+  //funció que rep una Llista de paraules inicialitzades a 1,
+  // la funció agrupa les paraules iguals en llistes de parelles Paraula, grup de (paraules, nombre)
+  def funcioIntermitjaIDF(dades:List[(String,Double)]):List[(String,List[(String,Double)])] =
+    dades.groupBy(_._1).toList
+
+
+  //Fem l'actor del MapReduce
+  val act2 = system.actorOf(Props (new MapReduceFramework[Fitxer,
+    String,Double,String,List[(String,Double)],String,Double](
+    {f=>mapFunctionIDF(f)},
+    {f=>funcioIntermitjaIDF(f)},
+    {(f:String,s:List[(String,Double)])=>List(reduceFunctionIDF((f,s)))},
+    10,10,diccionariFitxers.toList
+  )))
+
+  //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
+  val futur2 = act2 ? Iniciar()
+  val diccionariIDF = Await.result(futur2,timeout.duration).asInstanceOf[mutable.Map[String, Double]]
+  //parem l'actor
+  act2 ! PoisonPill
+\end{lstlisting}
+
+En aquest punt tocaria fer la comparació dels fitxers tots amb tots. Això òbviament amb un MapReduce:
+\begin{itemize}
+  \item el map s'encarregarà de aplicar el \textit{idf} de cada paraula als vectors \textit{tf}.
+  \item una funció intermèdia que s'encarregarà de generar cada possible comparació evitant simetries.
+  \item el reduce farà les comparacions de cada fitxer amb els que li toquin.
+\end{itemize}
+
+\begin{lstlisting}
+  //funció que multplica el IDF corresponent per a cada tf de cada paraula, formant el vector TF_IDF de un fitxer donat.
+  def mapComparacio(fitxer:Fitxer):Fitxer =
+    (fitxer._1, (fitxer._2._1.map{f=> (f._1,f._2 * diccionariIDF(f._1))}, fitxer._2._2))
+
+  //funció que donada una llista de fitxers, per cada fitxer, genera una Llista amb tots els fitxers següents
+  def generarComparacions(fitxers:List[Fitxer]):List[(Fitxer,List[Fitxer])] = {
+    if (fitxers.isEmpty) Nil:List[(Fitxer,List[Fitxer])]
+    else {
+      val fitxersSenseCap = fitxers.tail
+      List((fitxers.head, fitxersSenseCap)) ::: generarComparacions(fitxersSenseCap)
+    }
+  }
+
+  //funció que donada una comparació d'un fitxer amb una llista de fitxers,
+  // resulta en una tupla amb el títol del fitxer i una Llista de parelles amb títols de fitxers i resultats de comparacions
+  def reduceComparacio(comparacions:(Fitxer,List[Fitxer])):(String, List[(String, Double)]) =
+    (comparacions._1._1, for(f <- comparacions._2) yield (f._1, cosinesim(comparacions._1._2._1,f._2._1)))
+
+
+  //Fem l'actor del MapReduce
+  val act3 = system.actorOf(Props (new MapReduceFramework[Fitxer,
+    String,(List[(String,Double)],List[String]),
+    Fitxer, List[Fitxer],
+    String, List[(String, Double)]](
+    {f=>List(mapComparacio(f))},
+    {f=>generarComparacions(f)},
+    {(f:Fitxer,s:List[Fitxer])=>List(reduceComparacio((f,s)))},
+    100,100,diccionariFitxers.toList
+  )))
+  //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
+  val futur3 = act3 ? Iniciar()
+  val resultatComparacions = Await.result(futur3,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+  //parem l'actor
+  act3 ! PoisonPill
+\end{lstlisting}
+
+Amb això el primer apartat de la segona part de la Pràctica estaria acabat, faltant el segon, que consisteix en buscar els articles amb similituds per sobre d'un llindar però que no es referenciïn 
+i fitxers que es referenciïn però no estiguin per sobre de cert altre llindar. Les dos les hem fet amb mètodes semblants, Un MapReduce per cada un que no fa res en el Reduce.
+\begin{itemize}
+  \item el map s'encarrega de filtrar els elements per {sobre||sota} d'un llindar que {no es || sí es} referenciïn.
+  \item no hi ha cap funció de tractament intermedi.
+  \item no hi ha cap funció de reducció
+\end{itemize}
+
+Primer doncs, el primer cas, sent aquest el cas en què busquem parelles per sobre de cert llindar q no es referenciïn
+\begin{lstlisting}
+  //donada llista referencies
+  //map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
+  def mapObtenirNoRefs(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) ={
+    (fitxer._1,fitxer._2.filter(_._2>LlindarNoReferenciats).filter{
+      f => !diccionariFitxers(fitxer._1)._2.contains(f._1) && !diccionariFitxers(f._1)._2.contains(fitxer._1)
+    })
+  }
+  //Fem l'actor del MapReduce
+  val act4 = system.actorOf(Props (new MapReduceFramework[
+    (String, List[(String, Double)]),
+    String,List[(String, Double)],
+    String, List[(String, Double)],
+    String, List[(String, Double)]]
+  (
+    {f=>List(mapObtenirNoRefs(f))},
+    {f=>f},
+    {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
+    100,100,resultatComparacions
+  )))
+
+  //L'hi enviem el missatge de inicialització al MapReduce, després esperem el resultat, usant un pattern.
+  val futur4 = act4 ? Iniciar()
+  val resultatObtenirNoRefs = Await.result(futur4,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+  //parem l'actor
+  act4 ! PoisonPill
+\end{lstlisting}
+
+
+
+
+\section{Fitxer MapReduceFramework.scala}
 
 
 
