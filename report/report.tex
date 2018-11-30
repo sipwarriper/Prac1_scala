@@ -562,7 +562,7 @@ El main es divideix en dues parts:
 
 \subsubsection{Segona Part}
 
-\begin{lstlisting}    
+\begin{lstlisting}
   println("\n\n\n\nINICI DEL CAMP MINAT: \n")
 
   val system = ActorSystem("SystemActor")
@@ -581,11 +581,11 @@ La funció de la segona part s'executa de 1 fins a maxNgrames, podent determinar
 
 \section{Fitxer MapReduceFramework.scala}
 
-Aquest fitxer inclou la classe amb el MapReduceFramework, que és la nostre implementació genèrica del mapReduce. 
+Aquest fitxer inclou la classe amb el MapReduceFramework, que és la nostre implementació genèrica del mapReduce.
 
 \subsection{Idea General}
 La idea és un map reduce que rep unes dades, funció de mapping, funció de reducing, funció intermèdia, els nombres d'actors de mappeig i de reducció.
-Al rebre la crida Iniciar(), inicia el procediment. Usa la funció de mappeig sobre les dades, aplica la funció intermèdia amb els resultats, i sobre això aplica la funció de reducció 
+Al rebre la crida Iniciar(), inicia el procediment. Usa la funció de mappeig sobre les dades, aplica la funció intermèdia amb els resultats, i sobre això aplica la funció de reducció
 
 \subsection{Signatura}
 
