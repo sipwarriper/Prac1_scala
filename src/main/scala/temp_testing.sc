@@ -1,3 +1,6 @@
+import java.io.File
+import scala.math._
+
 object testing {
   val inputlist: List [String] = List("abc", "abc", "bcd")
   val a = 'a'
@@ -38,9 +41,16 @@ object testing {
 
 
   val llista1 = List(1,2,3,4,5)
-  val llista2 = List(1,3,5,6,7)
+  val llista2 = List(1,3,5,6,7).tail
+
+  val nombreFitxers = new File(".").list.length
+
+  val llistaFreqs = List(("hola",1),("adeu",1),("hola",1),("adeu",1),("mad",1),("hola",1),("yay",1))
+  llistaFreqs.groupBy(_._1).mapValues{a => log10(nombreFitxers/a.size) }.toList
 
   //llista1.updated()
+
+  ('a' to 'z').toList
 
 
 //  (for ((a, b) <- vv1 zip vv2)yield a._2 * b._2).foldLeft(0.0)(_ + _)

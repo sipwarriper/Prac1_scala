@@ -1,0 +1,151 @@
+<page>
+    <title>Toxina botulínica</title>
+    <ns>0</ns>
+    <id>657991</id>
+    <revision>
+      <id>13897509</id>
+      <parentid>13878679</parentid>
+      <timestamp>2014-07-27T22:23:06Z</timestamp>
+      <contributor>
+        <username>JoRobot</username>
+        <id>24498</id>
+      </contributor>
+      <minor></minor>
+      <comment>Robot posa sintaxi correcta o treu blancs del tag sub</comment>
+      <text>{{drugbox
+| drug_name = Toxina botulínica A
+| verifiedrevid = 480475821
+| image = Botulinum toxin 3BTA.png
+| image_source = Cartoon representation of Botulinum toxin. [[Protein Data Bank|PDB]] entry {{PDBe|3BTA}}
+
+!--Clinical data--
+| pregnancy_AU = !-- A / B1 / B2 / B3 / C / D / X --
+| pregnancy_US =
+| legal_AU = !-- Unscheduled / S2 / S4 / S8 --
+| legal_UK = !-- GSL / P / POM / CD --
+| legal_US = !-- OTC / Rx-only -- Rx-Only
+| routes_of_administration = IM (approved), SC, intradermal, into glands
+
+!--Identifiers--
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 93384-43-1 !--    93384-44-2 for BTX-B --
+| ATC_prefix = M03 !--    none for BTX-B --
+| ATC_suffix = AX01 !--    none for BTX-B --
+| PubChem =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}= {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00083 !-- DB00042 for BTX-B --
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}= {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = NA
+| C=6670 | H=10290 | N=1716 | O=1983 | S=32 | Zn=1
+| molecular_weight = 147,336.839 [[Atomic mass unit|Da]]
+}}
+La '''toxina botulínica''' també nomenada botulina, és una [[neurotoxina]] elaborada per el [[eubacteri|bacteri]] ''[[Clostridium botulinum]]''. És agent d'[[intoxicació]] o enverinament ([[botulisme]]) que pot ser mortal, essent el verí més potent que es coneix (0,12 μg són mortals per a l'home).ref{{GEC|0223302}}/ref També és usada com a [[medicament]], com [[cosmètica|cosmètic]] i [[arma biològica]].
+
+La ingestió d'aliments contaminats per la toxina botulínica preformada produeix [[botulisme]], una malaltia que es caracteritza pel desenvolupament d'alteracions vegetatives (sequedat de boca, nàusees i vòmits) i [[paràlisi]] muscular progressiva. Es tracta d'una de les [[verí|metzines]] més poderoses que existeixen i, a vegades, la ingestió de mínimes quantitats de toxina pot ser fatal i provocar la [[mort]] del pacient per paràlisi del múscul respiratori.
+
+Com a [[guerra química|arma química]] o biològica és considerada extremadament perillosa i [[arma de destrucció massiva]], prohibida per les [[Convenció de Ginebra]] i la [[Convenció sobre armes químiques]].
+
+La capacitat que té la toxina botulínica per produir paràlisi muscular per denervació química s'aprofita per usar-la com a [[medicament]] en el tractament de certes malalties [[neurologia|neurològiques]] i com a producte [[cosmètica|cosmètic]] per a tractament estètic de les arrugues facials.
+
+== Característiques químiques ==
+La toxina botulínica és un [[pèptid]], relativament termolàbil que està compost per una cadena pesada (cadena H ) i una lleugera (cadena L ) unides per un pont disulfur. La cadena lleugera s'associa amb un àtom de zinc. 
+
+La botulina és soluble en aigua, inodora, insabora i incolora i pot ser inactivada per mitjà de calor: a 85 graus Celsius almenys durant cinc minuts o al [[punt d'ebullició]] durant 10 minuts. També es pot inactivar amb formaldehid o [[hipoclorit de sodi|lleixiu]] i aigua amb sabó o amb els mètodes usuals de potabilització de l'aigua (cloració, aireig, etc.),.ref name=Amón_Jama  Stephen S. Amón, et. al.  Botulinum Toxin as a Biological Weapon. JAMA, 285, No 8, 28 de febrer 2001./ref
+
+La fórmula química és: Csub6760/subHsub10447/subNsub1743/subOsub2010/subSsub32/sub
+
+El pes molecular de la toxina pura és d'uns 150.000 [[Unitat de massa atòmica|daltons]] (segons el tipus) però en forma natural està lligada a proteïnes ( que la protegeix, per exemple, de l'acció dels sucs gàstrics) formant complexos de 900 o més kilodaltons.
+
+== Tipus de Toxina botulínica ==
+Les diferents soques de ''[[Clostridium botulinum]]'' produeixen set formes inmunològicament diferents de neurotoxina botulínica la denominació del qual és TbA fins a TbG. Els subtipus més usats per a aplicació mèdica o estètica són la toxina botulínica tipus A (TbA) i la toxina botulínica tipus B (TbB). 
+
+L'ús clínic de la TbA va començar al principi dels anys vuitanta i diversos estudis clínics van suggerir que és un tractament eficaç i segur per a una varietat de [[distonia|distonies]] focals. En l'actualitat, s'ha convertit en el tractament de primera línia de la distonia cervical. Tanmateix, no tots els pacients responen bé a la TbA i entre un 5% i un 10% es tornen resistents a ella després de diversos cicles de tractament. Aquesta resistència és generalment duradora. 
+
+La toxina botulínica tipus B (TbB) és una alternativa a la TbA. Es divideix una part diferent del mecanisme d'alliberament de les proteïnes vesiculars en la cèl·lula i és serològicament diferent de la TbArefCosta J, Borges A, Espírito-Santo C, Ferreira J, Coelho M, Moore P, Sampaio C. Toxina botulínica tipus A versus toxina botulínica tipus B per a la distonia cervical (Revisió Cochrane traduïda). a: La Biblioteca Cochrane Plus, 2008 Número 4. Oxford: Update Software Ltd. Disponible a: http://www.update-software.com. (Traduïda de The Cochrane Library, 2008 Issue 3. Chichester, Uk: John Wiley  Sons, Ltd.)[http://www.update-software.com/Bcp/BcpgetDocument.asp?DocumentId=Cd004314]/ref
+
+Els tipus més freqüents de toxina botulínica causants de [[botulisme]] humà són les A, B i E. En animals els tipus més freqüents causants de botulisme són C i D.refPedro N. Acha, Boris Szyfres, Pa American Sanitary Bureau. Zoonoses and Communicable Diseases Common to Man and Animals: Bacterioses and mycoses. Volum 1 de Zoonoses and Communicable Diseases Common to Man and Animals, Boris Szyfres. Número 580 de Scientific and technical publication Volum 580 de Scientific and technical publication // Pa American Health Organization Número 580 de Publicacions científiques. Paho Scientific Publications Series. Pa American Health Org, 2001. Isbn 92-75-11580-X, 9789275115800/ref
+
+== Mode d'acció ==
+L'efecte [[farmacologia|farmacològic]] de la toxina botulínica té lloc a nivell de la unió neuromuscular. En aquesta regió de transició entre el [[sistema nerviós perifèric|nervi perifèric]] i el [[múscul]] es produeix l'alliberament d'[[acetilcolina]], un [[neurotransmissor]] necessari per produir la [[contracció muscular]]. La toxina botulínica actua de forma local mitjançant el bloqueig de l'alliberament d'acetilcolina, la qual cosa es tradueix en paràlisi muscular temporal. L'efecte final és una [[denervació]] química temporal en la unió neuromuscular sense produir cap lesió física en les estructures nervioses.
+
+Aquesta paràlisi nerviosa pot provocar fàcilment la mort per [[asfíxia]] o greus lesions [[neurologia|neurològiques]] per [[anòxia]], en bloquejar la funció respiratòria.
+
+== Toxicitat ==
+La toxicitat de la toxina botulínica és generalment expressada en unitats ratolí (U), on una unitat (U) de la toxina botulínica és la mitjana de la [[dosi letal 50]] intraperitoneal (DL 50) en ratolins i és d'aproximadament 20 unitats / [[nanogram]]s (1 U = aproximadament 0,05 ng). La dosi letal en humans no es coneix, però extrapolada a partir de dades d'experiments en mones, per a un humà de 70 kg de pes, seria de 0,09-0,15 [[picogram]]s de toxina per via intravenosa o intramuscular, 0,70-0,90 picograms per inhalació i 70 µg per via oral.ref name=Amón_Jama /
+
+Un sol gram de toxina botulínica és suficient per matar a un milió de [[conillet d'Índies|conillets d'Índies]], i per matar a un ratolí de laboratori és necessari un picogram de botulina (1 picogram = 1x10sup-12/sup grams).
+
+== Aplicacions clíniques ==
+La primera aplicació clínica de la infiltració local de toxina botulínica es va realitzar el [[1977]] com a tractament corrector de l'[[estrabisme]], una [[patologia]] [[oftalmologia|oftalmològica]] caracteritzada per la hiperactivitat dels músculs encarregats de mobilitzar el [[ull|globus ocular]]. Des de llavors, el seu ús s'ha estès no sol en l'àmbit de la [[medicina]] sinó també en el de l'[[estètica]]. 
+
+La [[neurologia]] és una de les especialitats mèdiques en què la toxina botulínica aporta més beneficis terapèutics. Encara que existeixen nombroses afeccions neurològiques potencialment tractables amb toxina botulínica, el seu ús més freqüent es circumscriu a certes malalties caracteritzades per moviments involuntaris, especialment en el cas de les '''[[distonia|distonies]]'''. La infiltració local de toxina botulínica es considera el tractament d'elecció i més eficaç en la majoria de les [[distonia focal|distonies focals]]. Aquest tipus de distonies es caracteritzen per afectar un únic múscul o un grup muscular i són les més freqüents durant l'edat adulta. Al contrari, el tractament de la distonia generalitzada (distonia de torsió idiopàtica) és fonamentalment farmacològic ([[anticolinèrgic]]s, [[benzodiazepina|benzodiacepines]], [[neurolèptic]]s).
+
+El [[blefarospasme]], o contracció intermitent o persistent de la [[múscul orbicular|musculatura orbicular]] dels ulls, va ser la primera distonia focal tractada amb la infiltració local de toxina botulínica. Altres tipus de distonies que es beneficien espectacularment d'aquest tractament són la distonia cervical ([[torticoli]] espasmòdic) i certes distonies de membres denominades ''ocupacionals'' ([[Rampa (mal)|rampa]] de l'escrivent) i afeccions que cursen amb una hiperactivitat muscular, com la [[síndrome de Tourette]].
+
+Altres trastorns neurològics que poden ser tractats amb la infiltració local de toxina botulínica són l'[[espasme]] hemifacial, certes tremolors i la rigidesa o [[espasticitat]].
+
+També s'usa la toxina botulínica per tractar la incontinència urinària en els '''paraplègics'''.ref[http://www.cuantaciencia.com/salud/botox-incontinència-urinaria]Bótox contra la incontinència urinària/ref Les dades existents en l'actualitat mostren que el seu ús és eficaç en un 60% dels pacients. El seu principal avantatge és que només s'ha de repetir l'administració cada sis o nou mesos.
+
+Cada vegada es desenvolupen més aplicacions clíniques de la toxina botulínica, com en la [[hiperhidrosi]] (sudoració excessiva) idiopática o primària i la [[sialorrea]] (excessiva formació de saliva). En cas de la [[hiperhidrosi]],ref[http://www.nlm.nih.gov/medlineplus/spanish/ency/article/007259.htm Tractament de la hiperidrosi a Medline plus]/ref amb la toxina botulínica s'aconsegueix relaxar l'activitat de les glàndules sudorípares, disminuint així l'aparició de suor en les zones tractades, com poden ser les axil·les, mans i peus. El procediment es realitza prèvia aplicació d'anestèsia local a les axil·les, i mitjançant anestèsia troncular a les mans i els peus, en ser zones més sensibles. S'infiltra llavors diferents punts de toxina, subcutàniament, a la zona o zones on es produeix de forma excessiva la suor. Després del tractament el pacient pot realitzar les seves activitats normals i començarà a notar una disminució de la sudoració entre el quart i el setè dia, sent l'efecte màxim als quinze dies i efecte total dura entre 7 i 10 mesos segons el metabolisme de cada persona tractada.refCarruthers,Jean i Carruthers Alastair. Toxina botulinica:S erie dermatologia estetica. Dermatologia estètica. Editor Elsevier España, 2006. ISBN 84-8174-920-6, 9788481749205/ref
+
+=== Posologia ===
+La tècnica d'aplicació de la toxina botulínica varia entre els diferents grups de treball; la mesura inicial més important per a la seva aplicació consisteix en la identificació mitjançant palpació de les zones [[dolor]]oses i els músculs hiperactius responsables de l'actitud distònica. No existeix una [[dosi]] estandarditzada de toxina botulínica per al tractament de les distonies. El benefici clínic sol observar-se durant la primera setmana i la durada de l'efecte oscil·la entre 2 i 4 mesos. Amb els tractaments successius, la dosi de toxina botulínica i els punts d'[[Injecció (medicina)|injecció]] s'individualitzen per a cada pacient en funció dels resultats obtinguts inicialment. La freqüència recomanada per a successives infiltracions no ha de ser inferior a 3 i 4 mesos.
+
+Per a ús terapèutic de la toxina s'usen presentacions de 50 a 100 U per flascó i les dosis tòxiques es consideren que són de 2.800 U, és a dir 28 vegades més que les dosis terapèutiques.
+
+=== Efectes adversos durant el tractament ===
+La infiltració local de toxina botulínica en les distonies focals, especialment en el blefarospasme, torticoli espasmòdic i rampa de l'escrivent, es considera un tractament segur i eficaç. La debilitat muscular excessiva és l'efecte advers més freqüent que apareix en aquest tipus de tractament. En el cas del blefaroespasme, la debilitat es manifesta per la caiguda, de vegades completa, de les [[parpelles]] superiors. En el cas de la distonia cervical, la dificultat per empassar [[disfàgia|(disfàgia)]], debilitat muscular cervical i dolor local en el punt de la injecció són els efectes secundaris més freqüents. La incidència d'efectes adversos relacionats amb la infiltració de toxina botulínica és dosi dependent. En general, aquests efectes secundaris són lleus i transitoris i no limiten la realització de successives infiltracions.
+
+=== Precaucions en l'ús de la botulina ===
+Prenent com a base les recomanacions del grup de treball de farmacovigilancia (PhVwp) l'[[Agència Europea de Medicaments]] (EMEA), de forma coordinada amb altres agències reguladores europees, recomana el següent:ref[http://www.aemps.es/actividad/alertas/usoHumano/seguridad/toxinaBotulinica.htm Nota Informativa. Comunicació sobre riscs de medicaments per a professionals sanitaris. Toxina Botulinica (Botox®, Dysport®, Neurobloc®, Vistabel®): risc d'efectes adversos greus per disseminació de la toxina.] Ref.: 2007/11. Agència Espanyola de Medicaments i Productes Sanitaris. 6 de Juliol 2007/ref
+* Els medicaments a base de toxina botulínica només han de ser administrats per [[metges]] amb l'experiència suficient, incloent l'ús de l'equip necessari. 
+* S'ha d'informar-se els pacients o els seus assistents sobre el risc de disseminació de la toxina i advertir-los que sol·licitin assistència mèdica immediatament si apareixen trastorns respiratoris, de la parla o de la deglució.
+* Les unitats de toxina botulínica no són intercanviables entre els diferents medicaments. 
+* S'han de seguir les tècniques d'administració recomanades i les instruccions posològiques específiques de cada medicament i indicació (inclosa la recomanació d'usar la dosi mínima eficaç i la d'ajustar-la tenint en compte les necessitats individuals).
+
+Addicionalment l'Institut nacional de l'envelliment de EUA i l'[[Administració de Drogues i Aliments]] fan recomanacions addicionals als usuaris potencials sobre ús del Botox:refhttp://www.nia.nih.gov/Espanol/Publicaciones/Fda/botox.htm/ref
+* No l'utilitzi si està embarassada o creu que podria estar-ho. 
+* No l'utilitzi durant la lactància materna. 
+* Informi al metge si està prenent antibiòtics. 
+* Informi al metge si té problemes nerviosos o musculars.
+
+== Aplicacions cosmètiques ==
+Una forma diluïda de la toxina botulínica tipus A, es considera avui en dia que és un dels tractaments que ofereix millors resultats per eliminar les [[arrugues]] o tractament de la [[ritidosis]]. Aquesta forma de toxina botulínica, després de la seva infiltració amb una agulla extra fins al múscul sota de la pell de la zona que es desitja tractar, actua inhibint per relaxació el moviment muscular. Amb aquest efecte es pretén que desapareguin les arrugues i per tant proporcionar un aspecte més juvenil a la pell. Té una durada temporal, entre 3 a 6 mesos, lapse després del qual s'ha de renovar la dosi. Rares vegades s'han donat casos d'efectes secundaris com reaccions al·lèrgiques, rigidesa facial o nàusees.
+
+La marca comercial més coneguda d'aquesta forma de toxina botulinica cosmètica és Botox®, [[medicament]] produït i registrat per l'empresa Allergan de Irving, [[Califòrnia]], que va obtenir l'aprovació oficial en Ee.Uu l'abril de [[2002]], per a ús estètic. En l'actualitat es comercialitzen al món altres presentacions comercials de la toxina botulínica de tipus A per a ús estètic amb indicacions semblants a les del Botox® però s'ha de tenir en compte que aquesta és una marca registrada que no pot usar-se com a nom genèric i el pacient ha de ser informat oportunament i clarament sobre el tipus i marca del medicament o presentació de la toxina que se li aplicarà.
+
+=== Fraus amb la botulina cosmètica ===
+En el 2004 la FDA va iniciar una investigació quan quatre persones van presentar símptomes de [[botulisme]] després de l'ús de botulina amb finalitats cosmètiques, trobant que havien estat víctimes de frau ja que els havien aplicat un producte substitut del Botox® més barat i no autoritzat per a ús humà. El juliol de 2008 el resultat va ser de 31 arrests, 29 individus declarats convictes i prop de 1000 víctimes no identificades en tots els EUA. Els culpables van ser sentenciats en agunos casos a penes de fins a 9 anys de reclusió i a confiscacions i multes majors de 300.000 dòlarsref[http://www.fda.gov/downloads/ForConsumers/ConsumerUpdates/Ucm143721.pdf Fda Law Enforcers Crack Down on Illegal Botox Scammers] /ref
+
+== Aplicacions bèl·liques ==
+{{AP|Arma biològica}}
+Per ser una de les toxines més potents d'origen biològic, la toxina botulínica ha estat proposada moltes vegades com a arma biològica i agent en atacs de [[bioterrorisme]]. Durant la [[Segona Guerra Mundial]], els serveis britànics d'intel·ligència van tenir coneixement que a l'[[Alemanya]] [[Nazisme|Nazi]] es va dissenyar un sistema per atacar [[Anglaterra]] usant toxina botulínica usant les bombes [[V1]] per escampar la metzina; però pel que sembla el temor a un contraatac va detenir el projecte.refLedermann Dehnhardt, Walter. Una història personal dels bacteris. Editor Ril Editores, 2007 {{ISBN|956-284-538-9|9789562845380}}/ref
+
+Els japonesos van usar botulina en experimentació amb finalitats bèl·liques amb presoners xinesos durant l'ocupació de [[Manxúria]] al principi dels 1930.ref name=Amón_Jama /
+
+També durant la Segona Guerra Mundial, el Canadà i EUA van iniciar programes per estudiar l'ús com a arma de la toxina botulínica.refPita, René. Armes químiques: La ciència a les mans del mal. Editor Plaça Valdes, 2008. {{ISBN|84-96780-42-2|9788496780422}}/ref 
+
+El 1994 la policia [[japó|japonesa]] va trobar indicis de que la [[secta]] religiosa apocalíptica [[Aum Shinriky]], que havia provocat diverses morts usant gas nerviós al metre de Tòquio, planejava produir i usar grans quantitats de botulina amb iguals propòsits,.ref name=Barnaby  Barnaby, Wendy. Fabricants d'epidèmies. El món secret de la guerra biològica. Sociologia i política Siglo XXI d'Espanya Editors, 2003. {{ISBN|84-323-1099-9|9788432310997}}/ref
+
+A l'[[Iraq]] durant el règim de [[Saddam Hussein]] es va arribar a produir toxina botulínica en grans quantitats amb mira a usar-la amb propòsits bèl·lics. També els soviètics tenien projectes amb la botulina com a arma, que es van suspendre en disgregar-se la [[Unió de Repúbliques Socialistes Soviètiques]] i es sospita que [[Corea del Nord]], [[Iran]] i [[Síria]] han desenvolupat o podrien tenir en desenvolupament de projectes similars.ref name=Barnaby /
+
+En l'actualitat, la toxina botulínica d'ús militar es coneix com a «agent X» o «XR», segons el seu grau de puresa. El seu ús està prohibit per les [[Convenció de Ginebra]] i la [[Convenció sobre armes químiques]].
+
+== Referències==
+{{Referències|2}}
+
+== Enllaços externs ==
+* [http://botdb.abcc.ncifcrf.gov BotDb: gran quantitat de recursos en les estructures de Bont, inhibidors de la cinètica i la literature]
+* [http://www.agemed.es/actividad/alertas/usoHumano/seguridad/toxinaBotulinica.htm Nota informativa sobre Botox] - Ministeri de Sanitat Espanyol
+
+
+
+{{ORDENA:Toxina Botulinica}}
+[[Categoria:Toxines]]
+[[Categoria:Armes]]
+[[Categoria:Fàrmacs de l'aparell locomotor]]</text>
+      <sha1>8n92rwlf8zf3lqgbc7xqg0x5ntazi2i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
