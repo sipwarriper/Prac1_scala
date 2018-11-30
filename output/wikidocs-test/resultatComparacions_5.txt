@@ -1,0 +1,817 @@
+===erich mendelsohn
+====Resultats Comparacions======
+    sydney chapman-> 0.009468504502451333
+    così fan tutte-> 0.010299352234529317
+    toxina botulínica-> 0.004601786620607063
+    schwetzingen-> 0.014361597911249828
+    hideki tojo-> 0.0047812414367681385
+    bart de wever-> 0.004694840465745035
+    james southerland-> 0.0035594277019273045
+    volkswagen-> 0.012776600238562663
+    mathieu amalric-> 0.00899990650787655
+    rutènia subcarpàtica-> 0.009209660469494762
+    bena  indumentària-> 0.003098018499547739
+    carles bosch i garcia-> 0.013350207710860046
+    flakpanzer gepard-> 0.010986001803718812
+    lev knípper-> 0.007299649039228422
+    història de corea del sud-> 0.011505826446740784
+    barney gumble-> 0.007500083073635754
+    cuirassat de butxaca admiral graf spee-> 0.00960118916480249
+    història del vol espacial-> 0.012936199947679831
+    marcel reich ranicki-> 0.018832077093509137
+    dobrudja-> 0.006766113462401342
+    jerzy grotowski-> 0.012941919692651894
+    salvador dalí i domènech-> 0.018342564548493142
+    ace combat  la saga-> 0.004714021990344655
+    història de birmània-> 0.016957624376796765
+    arizona-> 0.008794930192389005
+    acord de munic-> 0.013928322366988266
+    antoine casenobe-> 0.005857344276413292
+    ian lancaster fleming-> 0.0075305394532342446
+    bateria de bagdad-> 0.006062889940410591
+    ernst heinkel-> 0.012110697457814406
+    austràlia-> 0.010452035575885088
+    anderlecht-> 0.010131094907921745
+    carme casas godessart-> 0.006061273839236634
+    volta a luxemburg-> 0.006107014065716189
+    batalla d attu-> 0.00988144268069003
+    junkers jumo-> 0.01072440934914017
+    karlsruher sport club mühlburg phönix-> 3.7933425567823113E-4
+    societat postindustrial-> 0.006767245234662383
+===sydney chapman
+====Resultats Comparacions======
+    così fan tutte-> 0.0016105412302560575
+    toxina botulínica-> 0.0030967136809797267
+    schwetzingen-> 0.0024695575623322474
+    hideki tojo-> 0.01611054354245685
+    bart de wever-> 0.009383335735873077
+    james southerland-> 0.0072452274495515495
+    volkswagen-> 0.0017645072435495963
+    mathieu amalric-> 0.011137420014628129
+    rutènia subcarpàtica-> 0.008009047105210344
+    bena  indumentària-> 0.001405518491628761
+    carles bosch i garcia-> 0.02038026357169757
+    flakpanzer gepard-> 0.002416086511103732
+    lev knípper-> 0.003795634129762677
+    història de corea del sud-> 0.00899620991147199
+    barney gumble-> 0.0038004028720600392
+    cuirassat de butxaca admiral graf spee-> 0.006041041454432829
+    història del vol espacial-> 0.013058942890517273
+    marcel reich ranicki-> 0.014189684179423932
+    dobrudja-> 0.001972348301831389
+    jerzy grotowski-> 0.00608732311986823
+    salvador dalí i domènech-> 0.004001753352970286
+    ace combat  la saga-> 5.469327645789099E-4
+    història de birmània-> 0.008443539160548323
+    arizona-> 0.0072870233045542005
+    acord de munic-> 0.010592290841438897
+    antoine casenobe-> 0.011507970743105268
+    ian lancaster fleming-> 0.01134408417220843
+    bateria de bagdad-> 0.006244710270756605
+    ernst heinkel-> 0.01009882578731827
+    austràlia-> 0.018583422628003127
+    anderlecht-> 0.007077336729854649
+    carme casas godessart-> 0.004934536003511861
+    volta a luxemburg-> 8.200225290484121E-4
+    batalla d attu-> 0.01818902438487079
+    junkers jumo-> 0.0033429549112829887
+    karlsruher sport club mühlburg phönix-> 0.0046712923208773825
+    societat postindustrial-> 0.0153713864624336
+===così fan tutte
+====Resultats Comparacions======
+    toxina botulínica-> 0.006911543320087105
+    schwetzingen-> 0.012518082176295782
+    hideki tojo-> 0.011585543790126513
+    bart de wever-> 0.003006556419183204
+    james southerland-> 0.006070561983846438
+    volkswagen-> 0.004556056945625557
+    mathieu amalric-> 0.006342701547767067
+    rutènia subcarpàtica-> 0.00616785054592574
+    bena  indumentària-> 0.0027253814238430113
+    carles bosch i garcia-> 0.0043259448687846805
+    flakpanzer gepard-> 0.003618698423579256
+    lev knípper-> 0.05532756007756818
+    història de corea del sud-> 0.006762071730460767
+    barney gumble-> 0.007722284156662333
+    cuirassat de butxaca admiral graf spee-> 0.0053159935348259055
+    història del vol espacial-> 0.00931888655522865
+    marcel reich ranicki-> 0.007571409527276023
+    dobrudja-> 0.00672227352252481
+    jerzy grotowski-> 0.012605384910459233
+    salvador dalí i domènech-> 0.011125401812666434
+    ace combat  la saga-> 0.006949794257203943
+    història de birmània-> 0.006048347527410936
+    arizona-> 0.004839643132046427
+    acord de munic-> 0.00499221791579819
+    antoine casenobe-> 0.01383510242731497
+    ian lancaster fleming-> 0.003260374939541358
+    bateria de bagdad-> 0.004219334586383289
+    ernst heinkel-> 0.006434989961823227
+    austràlia-> 0.009518466476449177
+    anderlecht-> 0.0019561017904867837
+    carme casas godessart-> 0.011055161314060303
+    volta a luxemburg-> 0.0020421335132348676
+    batalla d attu-> 0.006780005112353626
+    junkers jumo-> 0.005368003106457809
+    karlsruher sport club mühlburg phönix-> 3.78466922392116E-4
+    societat postindustrial-> 0.0073108508997646576
+===toxina botulínica
+====Resultats Comparacions======
+    schwetzingen-> 0.0038551723979986636
+    hideki tojo-> 0.005028192938192207
+    bart de wever-> 0.001765341959585211
+    james southerland-> 0.002140058959627761
+    volkswagen-> 0.003904724152078857
+    mathieu amalric-> 0.005747627860625691
+    rutènia subcarpàtica-> 0.007518606668130729
+    bena  indumentària-> 0.0076275703465193715
+    carles bosch i garcia-> 0.0030155836651021262
+    flakpanzer gepard-> 0.008013620266393668
+    lev knípper-> 0.003672569311512446
+    història de corea del sud-> 0.012395880695091963
+    barney gumble-> 0.0036826918117159515
+    cuirassat de butxaca admiral graf spee-> 0.0034645074753748522
+    història del vol espacial-> 0.011762229090945809
+    marcel reich ranicki-> 0.0019685332394316
+    dobrudja-> 0.003142223665178208
+    jerzy grotowski-> 0.004729861031203397
+    salvador dalí i domènech-> 0.004848554626523541
+    ace combat  la saga-> 0.002021610063047476
+    història de birmània-> 0.007989248801157188
+    arizona-> 0.006564141226426956
+    acord de munic-> 0.003970926671906468
+    antoine casenobe-> 0.0032434867072194725
+    ian lancaster fleming-> 0.0037874002652799194
+    bateria de bagdad-> 0.00721415740379373
+    ernst heinkel-> 0.003861763896953694
+    austràlia-> 0.009161887549043625
+    anderlecht-> 0.0018858971274267947
+    carme casas godessart-> 0.005427338135009937
+    volta a luxemburg-> 7.272687726138978E-4
+    batalla d attu-> 0.005760087141310398
+    junkers jumo-> 0.009802090766811001
+    karlsruher sport club mühlburg phönix-> 4.280285418060272E-4
+    societat postindustrial-> 0.006677491494646633
+===schwetzingen
+====Resultats Comparacions======
+    hideki tojo-> 0.007605175182948566
+    bart de wever-> 0.007670185832817653
+    james southerland-> 0.0035248631525547614
+    volkswagen-> 0.01624559070998118
+    mathieu amalric-> 0.021174456887925082
+    rutènia subcarpàtica-> 0.013439047556440703
+    bena  indumentària-> 0.004345029663863262
+    carles bosch i garcia-> 0.005291682307510098
+    flakpanzer gepard-> 0.008357939967250113
+    lev knípper-> 0.006224588276825161
+    història de corea del sud-> 0.012808611400889862
+    barney gumble-> 0.0037348200864702713
+    cuirassat de butxaca admiral graf spee-> 0.005071842845215843
+    història del vol espacial-> 0.007815982310216928
+    marcel reich ranicki-> 0.003866908099524657
+    dobrudja-> 0.059474049852813626
+    jerzy grotowski-> 0.004845040840824836
+    salvador dalí i domènech-> 0.010016573521778895
+    ace combat  la saga-> 6.670571890280062E-4
+    història de birmània-> 0.010337943393520198
+    arizona-> 0.01841570430225368
+    acord de munic-> 0.014875394505102694
+    antoine casenobe-> 0.004303158992636797
+    ian lancaster fleming-> 0.0020536904904178855
+    bateria de bagdad-> 0.006738318987603752
+    ernst heinkel-> 0.019896657060626884
+    austràlia-> 0.049705963931396875
+    anderlecht-> 0.0176841296809965
+    carme casas godessart-> 0.008616954117376853
+    volta a luxemburg-> 0.08718703759336999
+    batalla d attu-> 0.009976483237630927
+    junkers jumo-> 0.02550877643237833
+    karlsruher sport club mühlburg phönix-> 0.005488561031577588
+    societat postindustrial-> 0.009600524908560339
+===hideki tojo
+====Resultats Comparacions======
+    bart de wever-> 0.014022878296276492
+    james southerland-> 0.024342227880457534
+    volkswagen-> 0.005618134666062833
+    mathieu amalric-> 0.0019570729946056485
+    rutènia subcarpàtica-> 0.013645051759540979
+    bena  indumentària-> 0.009414095739237396
+    carles bosch i garcia-> 0.003718857330139449
+    flakpanzer gepard-> 0.006092402224163535
+    lev knípper-> 0.011529667356679894
+    història de corea del sud-> 0.02610544683647033
+    barney gumble-> 0.004832366884027044
+    cuirassat de butxaca admiral graf spee-> 0.009748742249101161
+    història del vol espacial-> 0.011042710999199172
+    marcel reich ranicki-> 0.004841624807596379
+    dobrudja-> 0.01073254008238378
+    jerzy grotowski-> 0.0036963284231888377
+    salvador dalí i domènech-> 0.004851482143190348
+    ace combat  la saga-> 0.005226383536418761
+    història de birmània-> 0.018803059863330984
+    arizona-> 0.00586458318117657
+    acord de munic-> 0.01550456241946969
+    antoine casenobe-> 0.02008151583382074
+    ian lancaster fleming-> 0.0041475049957148515
+    bateria de bagdad-> 0.004611463884537004
+    ernst heinkel-> 0.004877580261715106
+    austràlia-> 0.02248361051941051
+    anderlecht-> 0.006091519378965949
+    carme casas godessart-> 0.013205062406189466
+    volta a luxemburg-> 0.011538619198943192
+    batalla d attu-> 0.03421504333324506
+    junkers jumo-> 0.007938726587210388
+    karlsruher sport club mühlburg phönix-> 8.418925555110974E-4
+    societat postindustrial-> 0.007967775566110079
+===bart de wever
+====Resultats Comparacions======
+    james southerland-> 0.005473612577002344
+    volkswagen-> 0.002280374407301648
+    mathieu amalric-> 0.013844351372310479
+    rutènia subcarpàtica-> 0.01106313769460481
+    bena  indumentària-> 0.0013709134975734784
+    carles bosch i garcia-> 0.007162477631439073
+    flakpanzer gepard-> 0.006520369267749919
+    lev knípper-> 0.004008959942530801
+    història de corea del sud-> 0.016378985346544566
+    barney gumble-> 0.02398769515211279
+    cuirassat de butxaca admiral graf spee-> 0.004404044869922941
+    història del vol espacial-> 0.008262373707199311
+    marcel reich ranicki-> 0.01492738336770766
+    dobrudja-> 0.007200097532384854
+    jerzy grotowski-> 0.003605360631663699
+    salvador dalí i domènech-> 0.00626409364377359
+    ace combat  la saga-> 0.002164708337862101
+    història de birmània-> 0.016881444859097355
+    arizona-> 0.005148872474210169
+    acord de munic-> 0.011420171862655551
+    antoine casenobe-> 0.00888777164353996
+    ian lancaster fleming-> 0.012791299264432442
+    bateria de bagdad-> 0.003637200781209701
+    ernst heinkel-> 0.006493066706123219
+    austràlia-> 0.015456788728104895
+    anderlecht-> 0.032050227110928406
+    carme casas godessart-> 0.004822522744420685
+    volta a luxemburg-> 0.02232488561301022
+    batalla d attu-> 0.006489977789365906
+    junkers jumo-> 0.0032811760911276937
+    karlsruher sport club mühlburg phönix-> 0.0023675368378730075
+    societat postindustrial-> 0.002632577829408146
+===james southerland
+====Resultats Comparacions======
+    volkswagen-> 0.005424776031561192
+    mathieu amalric-> 0.005430923508310678
+    rutènia subcarpàtica-> 0.0065242009011344405
+    bena  indumentària-> 0.0024258713621012986
+    carles bosch i garcia-> 0.0026406490653363922
+    flakpanzer gepard-> 0.012868317263706307
+    lev knípper-> 0.008740869698011383
+    història de corea del sud-> 0.012641219360828921
+    barney gumble-> 0.0027866079653164288
+    cuirassat de butxaca admiral graf spee-> 0.019189350996006133
+    història del vol espacial-> 0.012938758130113632
+    marcel reich ranicki-> 0.0074841898227771975
+    dobrudja-> 0.006195172522721862
+    jerzy grotowski-> 0.0019484202682692807
+    salvador dalí i domènech-> 0.005093911175046343
+    ace combat  la saga-> 0.015478602646180908
+    història de birmània-> 0.006736595797950215
+    arizona-> 0.004116111529765183
+    acord de munic-> 0.012442528955258549
+    antoine casenobe-> 0.04538121219179137
+    ian lancaster fleming-> 0.008747829980940888
+    bateria de bagdad-> 0.003440740106834974
+    ernst heinkel-> 0.01614944437613292
+    austràlia-> 0.008536110725966982
+    anderlecht-> 0.004406153765375904
+    carme casas godessart-> 0.006744028475983892
+    volta a luxemburg-> 0.010970630038691752
+    batalla d attu-> 0.06695470121615163
+    junkers jumo-> 0.004690790360991227
+    karlsruher sport club mühlburg phönix-> 4.3587207527153663E-4
+    societat postindustrial-> 0.004172633438659609
+===volkswagen
+====Resultats Comparacions======
+    mathieu amalric-> 0.002810750142364104
+    rutènia subcarpàtica-> 0.006189456049640819
+    bena  indumentària-> 0.00372180318169009
+    carles bosch i garcia-> 0.008871614752902275
+    flakpanzer gepard-> 0.00963111185907055
+    lev knípper-> 0.005988422780808966
+    història de corea del sud-> 0.009221123735913227
+    barney gumble-> 0.003572906196021233
+    cuirassat de butxaca admiral graf spee-> 0.007021316215173084
+    història del vol espacial-> 0.010773055316343432
+    marcel reich ranicki-> 0.0032703631770281136
+    dobrudja-> 0.013627542669116652
+    jerzy grotowski-> 0.007200803245646806
+    salvador dalí i domènech-> 0.005357135813433807
+    ace combat  la saga-> 0.0027936992552833285
+    història de birmània-> 0.008581361606842525
+    arizona-> 0.005193136394735451
+    acord de munic-> 0.016292701260000108
+    antoine casenobe-> 0.005095448049804824
+    ian lancaster fleming-> 0.0015519523833483948
+    bateria de bagdad-> 0.002658587113402934
+    ernst heinkel-> 0.022775230851526385
+    austràlia-> 0.013510700258972766
+    anderlecht-> 0.0036064903436713166
+    carme casas godessart-> 0.0074190099794230226
+    volta a luxemburg-> 0.03546559243535149
+    batalla d attu-> 0.00821886735684718
+    junkers jumo-> 0.017385273505016282
+    karlsruher sport club mühlburg phönix-> 7.351151353365509E-4
+    societat postindustrial-> 0.01243560246248713
+===mathieu amalric
+====Resultats Comparacions======
+    rutènia subcarpàtica-> 0.006781775092231369
+    bena  indumentària-> 5.288330507228688E-4
+    carles bosch i garcia-> 0.002352498437160623
+    flakpanzer gepard-> 0.001899150309473318
+    lev knípper-> 0.00273325783908854
+    història de corea del sud-> 0.007180191732887353
+    barney gumble-> 0.0029783518683239715
+    cuirassat de butxaca admiral graf spee-> 0.003890559549170718
+    història del vol espacial-> 0.005862243001603896
+    marcel reich ranicki-> 0.005890032683576606
+    dobrudja-> 0.005943523721286154
+    jerzy grotowski-> 0.018946430995857806
+    salvador dalí i domènech-> 0.0072245789002336495
+    ace combat  la saga-> 5.198285230495714E-4
+    història de birmània-> 0.004700389683518184
+    arizona-> 0.002389836657918653
+    acord de munic-> 0.007619058248115909
+    antoine casenobe-> 0.004880818548538578
+    ian lancaster fleming-> 0.025545735495274204
+    bateria de bagdad-> 0.0026175061956378856
+    ernst heinkel-> 0.0036097323465474453
+    austràlia-> 0.006783512031303623
+    anderlecht-> 0.005734074817913159
+    carme casas godessart-> 0.0034897982186184893
+    volta a luxemburg-> 0.008343837695467246
+    batalla d attu-> 0.009117003614045095
+    junkers jumo-> 0.002574476914723363
+    karlsruher sport club mühlburg phönix-> 8.980144543898137E-4
+    societat postindustrial-> 0.008682029913536001
+===rutènia subcarpàtica
+====Resultats Comparacions======
+    bena  indumentària-> 0.007332547337485871
+    carles bosch i garcia-> 0.014059420869517386
+    flakpanzer gepard-> 0.010307867263903458
+    lev knípper-> 0.038349480707807616
+    història de corea del sud-> 0.033892905690376264
+    barney gumble-> 0.004712489379028001
+    cuirassat de butxaca admiral graf spee-> 0.0068475745702413805
+    història del vol espacial-> 0.019785047858015256
+    marcel reich ranicki-> 0.013336348393739686
+    dobrudja-> 0.034299971920924474
+    jerzy grotowski-> 0.008806622936539568
+    salvador dalí i domènech-> 0.009640529739022964
+    ace combat  la saga-> 0.0019204923516655638
+    història de birmània-> 0.03343108175078218
+    arizona-> 0.01377288949149886
+    acord de munic-> 0.06323668771464967
+    antoine casenobe-> 0.006565169652913501
+    ian lancaster fleming-> 0.008667538775717337
+    bateria de bagdad-> 0.005400931016674735
+    ernst heinkel-> 0.003497128675545403
+    austràlia-> 0.025482001974110345
+    anderlecht-> 0.01546393328308592
+    carme casas godessart-> 0.013097334979052369
+    volta a luxemburg-> 0.0027328733846428404
+    batalla d attu-> 0.016943472762192862
+    junkers jumo-> 0.011464588000703603
+    karlsruher sport club mühlburg phönix-> 0.0011331183055518653
+    societat postindustrial-> 0.011353154596588125
+===bena  indumentària
+====Resultats Comparacions======
+    carles bosch i garcia-> 3.9831810421532137E-4
+    flakpanzer gepard-> 0.005392411849878921
+    lev knípper-> 0.004380997829435077
+    història de corea del sud-> 0.0071723750354499415
+    barney gumble-> 0.004564314464073565
+    cuirassat de butxaca admiral graf spee-> 0.002787407480917674
+    història del vol espacial-> 0.005336915032459019
+    marcel reich ranicki-> 0.0014712753651109631
+    dobrudja-> 0.005167236268234497
+    jerzy grotowski-> 0.005907085012283787
+    salvador dalí i domènech-> 0.003623726942398286
+    ace combat  la saga-> 0.0016150208821372164
+    història de birmània-> 0.005921435862908545
+    arizona-> 0.0046887632092849334
+    acord de munic-> 0.005500175808950023
+    antoine casenobe-> 0.002291072378263761
+    ian lancaster fleming-> 0.0022912519080429622
+    bateria de bagdad-> 0.0042307428280819155
+    ernst heinkel-> 0.0032140255849565547
+    austràlia-> 0.00508816337826981
+    anderlecht-> 7.394769688970807E-4
+    carme casas godessart-> 0.002929402759873928
+    volta a luxemburg-> 0.004145163702639589
+    batalla d attu-> 0.012179900361697183
+    junkers jumo-> 0.0049420692723302125
+    karlsruher sport club mühlburg phönix-> 7.014247022741616E-4
+    societat postindustrial-> 0.003111562316981607
+===carles bosch i garcia
+====Resultats Comparacions======
+    flakpanzer gepard-> 0.013035435207087644
+    lev knípper-> 0.0067196772269472555
+    història de corea del sud-> 0.027190236143045398
+    barney gumble-> 0.0026951574328940423
+    cuirassat de butxaca admiral graf spee-> 0.006265249310517378
+    història del vol espacial-> 0.009535478195587707
+    marcel reich ranicki-> 0.013093836320917908
+    dobrudja-> 0.004140233410041419
+    jerzy grotowski-> 0.02101888000219926
+    salvador dalí i domènech-> 0.015221585719373123
+    ace combat  la saga-> 0.0025427197915152892
+    història de birmània-> 0.0061953178368877315
+    arizona-> 0.015968399390675573
+    acord de munic-> 0.005840937888384791
+    antoine casenobe-> 0.004053577312819974
+    ian lancaster fleming-> 0.005231574507774769
+    bateria de bagdad-> 0.002978337946152678
+    ernst heinkel-> 0.00739603500347269
+    austràlia-> 0.0076174189703153185
+    anderlecht-> 0.011461307047574917
+    carme casas godessart-> 0.014564337115401811
+    volta a luxemburg-> 4.147445725629967E-4
+    batalla d attu-> 0.006230693509895545
+    junkers jumo-> 0.004112962452111074
+    karlsruher sport club mühlburg phönix-> 2.519060448602226E-4
+    societat postindustrial-> 0.009906537408777248
+===flakpanzer gepard
+====Resultats Comparacions======
+    lev knípper-> 0.0031460074314964177
+    història de corea del sud-> 0.01167341681283452
+    barney gumble-> 0.004482598901453275
+    cuirassat de butxaca admiral graf spee-> 0.022749634634986002
+    història del vol espacial-> 0.01974501362374075
+    marcel reich ranicki-> 0.0029415433918618737
+    dobrudja-> 0.006434188143747262
+    jerzy grotowski-> 0.011201291313720071
+    salvador dalí i domènech-> 0.005566841077359541
+    ace combat  la saga-> 0.015782589667510737
+    història de birmània-> 0.005760197677608089
+    arizona-> 0.004712535426902859
+    acord de munic-> 0.013600266000575468
+    antoine casenobe-> 0.01042269342540678
+    ian lancaster fleming-> 0.002488404440048051
+    bateria de bagdad-> 0.012819361383497917
+    ernst heinkel-> 0.009351935799303147
+    austràlia-> 0.011729093413908454
+    anderlecht-> 0.005553540278798177
+    carme casas godessart-> 0.0044203740879047064
+    volta a luxemburg-> 0.009988019658811473
+    batalla d attu-> 0.016400787030458452
+    junkers jumo-> 0.04034041162635913
+    karlsruher sport club mühlburg phönix-> 0.0021293773152520714
+    societat postindustrial-> 0.012551865172011812
+===lev knípper
+====Resultats Comparacions======
+    història de corea del sud-> 0.010216984508695803
+    barney gumble-> 0.0036435872366868878
+    cuirassat de butxaca admiral graf spee-> 0.014613885582786113
+    història del vol espacial-> 0.011710420657896105
+    marcel reich ranicki-> 0.006614555082512358
+    dobrudja-> 0.009930168905765575
+    jerzy grotowski-> 0.0203269227430663
+    salvador dalí i domènech-> 0.014236019798819374
+    ace combat  la saga-> 0.0017185119688516678
+    història de birmània-> 0.009811116339091642
+    arizona-> 0.0052272850531013835
+    acord de munic-> 0.0073193091127501326
+    antoine casenobe-> 0.0046615904097957244
+    ian lancaster fleming-> 0.015769799850340105
+    bateria de bagdad-> 0.0024732712158107807
+    ernst heinkel-> 0.00602693388842432
+    austràlia-> 0.010610530734758518
+    anderlecht-> 0.0027812306852079993
+    carme casas godessart-> 0.006709144294002358
+    volta a luxemburg-> 0.005749384136812622
+    batalla d attu-> 0.00532044983491643
+    junkers jumo-> 0.008365472688035122
+    karlsruher sport club mühlburg phönix-> 5.232290719777342E-4
+    societat postindustrial-> 0.010054323055330085
+===història de corea del sud
+====Resultats Comparacions======
+    barney gumble-> 0.004664759952505596
+    cuirassat de butxaca admiral graf spee-> 0.011910123116351756
+    història del vol espacial-> 0.020763542230418493
+    marcel reich ranicki-> 0.008496661253609282
+    dobrudja-> 0.01675349394789461
+    jerzy grotowski-> 0.00725915188719816
+    salvador dalí i domènech-> 0.010049170450797604
+    ace combat  la saga-> 0.00608459660536671
+    història de birmània-> 0.04840894432299486
+    arizona-> 0.015493556363338356
+    acord de munic-> 0.020209068001678817
+    antoine casenobe-> 0.006408458032740314
+    ian lancaster fleming-> 0.006987277773824901
+    bateria de bagdad-> 0.009302200541851656
+    ernst heinkel-> 0.005090907627076096
+    austràlia-> 0.04499379625087865
+    anderlecht-> 0.006184271716161915
+    carme casas godessart-> 0.014161830105530168
+    volta a luxemburg-> 0.00635308744523582
+    batalla d attu-> 0.029035876003921154
+    junkers jumo-> 0.007278493651342262
+    karlsruher sport club mühlburg phönix-> 0.0012520405373464304
+    societat postindustrial-> 0.01648768518186755
+===barney gumble
+====Resultats Comparacions======
+    cuirassat de butxaca admiral graf spee-> 0.0026658317718573823
+    història del vol espacial-> 0.005210913831144558
+    marcel reich ranicki-> 0.006443728127123976
+    dobrudja-> 0.002327943758259319
+    jerzy grotowski-> 0.006792035835317639
+    salvador dalí i domènech-> 0.0056516490560278515
+    ace combat  la saga-> 0.002367667271160562
+    història de birmània-> 0.0046436726205850935
+    arizona-> 0.0024604397049930657
+    acord de munic-> 0.003005757435776135
+    antoine casenobe-> 0.004249917558825112
+    ian lancaster fleming-> 0.005958841845266858
+    bateria de bagdad-> 0.013098107339372238
+    ernst heinkel-> 0.00299648824983701
+    austràlia-> 0.006357438675783427
+    anderlecht-> 0.010183457061513993
+    carme casas godessart-> 0.002437193398173188
+    volta a luxemburg-> 9.068635366636098E-4
+    batalla d attu-> 0.0021271871980257932
+    junkers jumo-> 0.0035791405819795095
+    karlsruher sport club mühlburg phönix-> 8.010061849773547E-4
+    societat postindustrial-> 0.005413592536308891
+===cuirassat de butxaca admiral graf spee
+====Resultats Comparacions======
+    història del vol espacial-> 0.019550572774345583
+    marcel reich ranicki-> 0.01463538594871028
+    dobrudja-> 0.004603523049322703
+    jerzy grotowski-> 0.004998169746362796
+    salvador dalí i domènech-> 0.00498022771290975
+    ace combat  la saga-> 0.008340862078516637
+    història de birmània-> 0.01195452137067979
+    arizona-> 0.004586819040168835
+    acord de munic-> 0.006805836189920819
+    antoine casenobe-> 0.009656579491165551
+    ian lancaster fleming-> 0.004382631620534618
+    bateria de bagdad-> 0.011208286573272717
+    ernst heinkel-> 0.007003165496408264
+    austràlia-> 0.011484474152553043
+    anderlecht-> 0.0037702912709964595
+    carme casas godessart-> 0.00349787760551558
+    volta a luxemburg-> 0.0023974766276270787
+    batalla d attu-> 0.019597808866501615
+    junkers jumo-> 0.009993692473205605
+    karlsruher sport club mühlburg phönix-> 7.162173011268274E-4
+    societat postindustrial-> 0.005522209036851808
+===història del vol espacial
+====Resultats Comparacions======
+    marcel reich ranicki-> 0.007674784367924175
+    dobrudja-> 0.004609147165684881
+    jerzy grotowski-> 0.01333753058672036
+    salvador dalí i domènech-> 0.01205879795797114
+    ace combat  la saga-> 0.013848990157049377
+    història de birmània-> 0.013189995932573835
+    arizona-> 0.011267502524857214
+    acord de munic-> 0.010887382199143245
+    antoine casenobe-> 0.013454418396128567
+    ian lancaster fleming-> 0.007404908016983751
+    bateria de bagdad-> 0.0065983375493410875
+    ernst heinkel-> 0.01550601814708303
+    austràlia-> 0.023054275292669832
+    anderlecht-> 0.006235748875156101
+    carme casas godessart-> 0.013107032119805182
+    volta a luxemburg-> 0.0031991929109637485
+    batalla d attu-> 0.010993291243836757
+    junkers jumo-> 0.035046519707997666
+    karlsruher sport club mühlburg phönix-> 5.232058646646282E-4
+    societat postindustrial-> 0.011200264722027519
+===marcel reich ranicki
+====Resultats Comparacions======
+    dobrudja-> 0.004312400834893272
+    jerzy grotowski-> 0.011264383812624196
+    salvador dalí i domènech-> 0.006618705670678051
+    ace combat  la saga-> 0.001053665960809605
+    història de birmània-> 0.009251790751176072
+    arizona-> 0.002489440214466586
+    acord de munic-> 0.014710855135695956
+    antoine casenobe-> 0.007740758340618132
+    ian lancaster fleming-> 0.01106435520658228
+    bateria de bagdad-> 0.002502599611386588
+    ernst heinkel-> 0.024655907728400754
+    austràlia-> 0.008747478735579652
+    anderlecht-> 0.0015716398952321383
+    carme casas godessart-> 0.006557566583214115
+    volta a luxemburg-> 0.006247223603246788
+    batalla d attu-> 0.00711226465633652
+    junkers jumo-> 0.007214123690969383
+    karlsruher sport club mühlburg phönix-> 0.0019328253174445453
+    societat postindustrial-> 0.004193515141321149
+===dobrudja
+====Resultats Comparacions======
+    jerzy grotowski-> 0.0029768312732162813
+    salvador dalí i domènech-> 0.00676155535565343
+    ace combat  la saga-> 0.004732457475999229
+    història de birmània-> 0.02632519612841352
+    arizona-> 0.012398235310616302
+    acord de munic-> 0.0073903862731924345
+    antoine casenobe-> 0.006910687256951142
+    ian lancaster fleming-> 0.002206706994226861
+    bateria de bagdad-> 0.010539231115373367
+    ernst heinkel-> 0.004516031054232622
+    austràlia-> 0.05722611949344756
+    anderlecht-> 0.015501397541368592
+    carme casas godessart-> 0.013583745482610689
+    volta a luxemburg-> 0.03512020644434817
+    batalla d attu-> 0.009354182813059438
+    junkers jumo-> 0.002942842758791892
+    karlsruher sport club mühlburg phönix-> 5.35737292418558E-4
+    societat postindustrial-> 0.002689892106355857
+===jerzy grotowski
+====Resultats Comparacions======
+    salvador dalí i domènech-> 0.01481997005960111
+    ace combat  la saga-> 0.001003799007440099
+    història de birmània-> 0.009871138031166004
+    arizona-> 0.006541829980101789
+    acord de munic-> 0.004599325057532199
+    antoine casenobe-> 0.00428410516325657
+    ian lancaster fleming-> 0.01125605080034996
+    bateria de bagdad-> 0.0035212599602895585
+    ernst heinkel-> 0.008183793165317027
+    austràlia-> 0.009601707359907353
+    anderlecht-> 0.003514010091864765
+    carme casas godessart-> 0.008973202152549582
+    volta a luxemburg-> 0.0013045114074074307
+    batalla d attu-> 0.011471198187582493
+    junkers jumo-> 0.006604957576035901
+    karlsruher sport club mühlburg phönix-> 0.0010667225322629629
+    societat postindustrial-> 0.010010095623711274
+===salvador dalí i domènech
+====Resultats Comparacions======
+    ace combat  la saga-> 0.002347794835316079
+    història de birmània-> 0.01011577602220853
+    arizona-> 0.005146011581941322
+    acord de munic-> 0.005538001694568644
+    antoine casenobe-> 0.005523779038768344
+    ian lancaster fleming-> 0.009389590860813642
+    bateria de bagdad-> 0.008662331976347283
+    ernst heinkel-> 0.006515897952202165
+    austràlia-> 0.010192406922607474
+    anderlecht-> 0.005668160698915565
+    carme casas godessart-> 0.022324894159598114
+    volta a luxemburg-> 0.0023455825972191605
+    batalla d attu-> 0.009026082014188879
+    junkers jumo-> 0.005021923122321195
+    karlsruher sport club mühlburg phönix-> 9.098557233400418E-4
+    societat postindustrial-> 0.008419796654353443
+===ace combat  la saga
+====Resultats Comparacions======
+    història de birmània-> 0.002027737702910805
+    arizona-> 0.001571137954914608
+    acord de munic-> 0.0013952347634877008
+    antoine casenobe-> 0.013569408256379999
+    ian lancaster fleming-> 0.002483060291140089
+    bateria de bagdad-> 0.002082775746604183
+    ernst heinkel-> 0.004474901367808347
+    austràlia-> 0.0020403757632343807
+    anderlecht-> 0.0017041504754473063
+    carme casas godessart-> 0.002264731120502689
+    volta a luxemburg-> 2.399670727021298E-4
+    batalla d attu-> 0.020797481630639304
+    junkers jumo-> 0.005174227674027838
+    karlsruher sport club mühlburg phönix-> 2.4138719617694535E-4
+    societat postindustrial-> 0.002008755828370482
+===història de birmània
+====Resultats Comparacions======
+    arizona-> 0.015929091370429572
+    acord de munic-> 0.013943584590768042
+    antoine casenobe-> 0.004345767514426139
+    ian lancaster fleming-> 0.00902867714423605
+    bateria de bagdad-> 0.010417694110873486
+    ernst heinkel-> 0.008848752959385482
+    austràlia-> 0.0389507073347794
+    anderlecht-> 0.017219913260716493
+    carme casas godessart-> 0.015007862539472745
+    volta a luxemburg-> 0.001328982473710864
+    batalla d attu-> 0.019730417865524666
+    junkers jumo-> 0.009933119185639426
+    karlsruher sport club mühlburg phönix-> 4.41426686600321E-4
+    societat postindustrial-> 0.01915986384241618
+===arizona
+====Resultats Comparacions======
+    acord de munic-> 0.004512300518964139
+    antoine casenobe-> 0.00243615426688901
+    ian lancaster fleming-> 0.002150532082318845
+    bateria de bagdad-> 0.01103138703914361
+    ernst heinkel-> 0.004319592782013624
+    austràlia-> 0.03391452867322674
+    anderlecht-> 0.010288450417686753
+    carme casas godessart-> 0.005480455532275118
+    volta a luxemburg-> 0.0035628719986358598
+    batalla d attu-> 0.007820267565379692
+    junkers jumo-> 0.006584542173057383
+    karlsruher sport club mühlburg phönix-> 0.004423903237495945
+    societat postindustrial-> 0.009887377860910528
+===acord de munic
+====Resultats Comparacions======
+    antoine casenobe-> 0.013059027824271324
+    ian lancaster fleming-> 0.00828838168104485
+    bateria de bagdad-> 0.010080281278952215
+    ernst heinkel-> 0.008861724346564216
+    austràlia-> 0.01712489338392621
+    anderlecht-> 0.01964105327070733
+    carme casas godessart-> 0.009606126148885657
+    volta a luxemburg-> 0.004547833006053664
+    batalla d attu-> 0.02534709032692273
+    junkers jumo-> 0.006374021494683777
+    karlsruher sport club mühlburg phönix-> 0.005689632150638482
+    societat postindustrial-> 0.003987988181105996
+===antoine casenobe
+====Resultats Comparacions======
+    ian lancaster fleming-> 0.0027086263253068986
+    bateria de bagdad-> 0.0019243435577051147
+    ernst heinkel-> 0.022264236487035176
+    austràlia-> 0.009000647998823358
+    anderlecht-> 0.008759503050348231
+    carme casas godessart-> 0.011119355235733744
+    volta a luxemburg-> 0.016323369489514468
+    batalla d attu-> 0.014881324327751152
+    junkers jumo-> 0.02478811180819566
+    karlsruher sport club mühlburg phönix-> 6.406652273133334E-4
+    societat postindustrial-> 0.00118171769001606
+===ian lancaster fleming
+====Resultats Comparacions======
+    bateria de bagdad-> 0.0048469660071469465
+    ernst heinkel-> 0.004749303647126879
+    austràlia-> 0.010716700707387979
+    anderlecht-> 0.0027310100064725667
+    carme casas godessart-> 0.002641510661297885
+    volta a luxemburg-> 0.0011521804901923715
+    batalla d attu-> 0.004943432181232757
+    junkers jumo-> 0.002174061983937393
+    karlsruher sport club mühlburg phönix-> 7.909143685932681E-4
+    societat postindustrial-> 0.00612993098661874
+===bateria de bagdad
+====Resultats Comparacions======
+    ernst heinkel-> 0.0027640186450615715
+    austràlia-> 0.007375158476044462
+    anderlecht-> 0.013609950836397572
+    carme casas godessart-> 0.0043448872958322384
+    volta a luxemburg-> 0.0019500025927848867
+    batalla d attu-> 0.007016765687210649
+    junkers jumo-> 0.005786681933900123
+    karlsruher sport club mühlburg phönix-> 3.370558070887654E-4
+    societat postindustrial-> 0.002768047846669658
+===ernst heinkel
+====Resultats Comparacions======
+    austràlia-> 0.004916506048834394
+    anderlecht-> 0.005935761995759827
+    carme casas godessart-> 0.006766929727196492
+    volta a luxemburg-> 2.994562974384015E-4
+    batalla d attu-> 0.0026910550936974855
+    junkers jumo-> 0.02674694620314174
+    karlsruher sport club mühlburg phönix-> 0.0019022359422342554
+    societat postindustrial-> 0.0033609178648252697
+===austràlia
+====Resultats Comparacions======
+    anderlecht-> 0.02244752028407326
+    carme casas godessart-> 0.007051747753597926
+    volta a luxemburg-> 0.03241595184513279
+    batalla d attu-> 0.03587899313254506
+    junkers jumo-> 0.008490934950951582
+    karlsruher sport club mühlburg phönix-> 0.0021400871867287147
+    societat postindustrial-> 0.01672023719519505
+===anderlecht
+====Resultats Comparacions======
+    carme casas godessart-> 0.00413820838427748
+    volta a luxemburg-> 0.04086353985709483
+    batalla d attu-> 0.009852245905755227
+    junkers jumo-> 0.0036748589208747662
+    karlsruher sport club mühlburg phönix-> 0.007097209553028726
+    societat postindustrial-> 0.012195381560193033
+===carme casas godessart
+====Resultats Comparacions======
+    volta a luxemburg-> 9.374576770509206E-4
+    batalla d attu-> 0.0056282788140397215
+    junkers jumo-> 0.006117052826468736
+    karlsruher sport club mühlburg phönix-> 0.004112576379854321
+    societat postindustrial-> 0.008923460571026774
+===volta a luxemburg
+====Resultats Comparacions======
+    batalla d attu-> 0.009808756565880235
+    junkers jumo-> 0.0417637458563479
+    karlsruher sport club mühlburg phönix-> 0.0070033387619026525
+    societat postindustrial-> 0.001645441597710734
+===batalla d attu
+====Resultats Comparacions======
+    junkers jumo-> 0.006703954567459444
+    karlsruher sport club mühlburg phönix-> 0.0015156657780223876
+    societat postindustrial-> 0.01032419529594506
+===junkers jumo
+====Resultats Comparacions======
+    karlsruher sport club mühlburg phönix-> 7.909435464172738E-4
+    societat postindustrial-> 0.019162362785464647
+===karlsruher sport club mühlburg phönix
+====Resultats Comparacions======
+    societat postindustrial-> 5.009427407003929E-4
