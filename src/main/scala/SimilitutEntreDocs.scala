@@ -1,8 +1,9 @@
 import java.io.File
+import java.io._
 import java.util.concurrent.TimeUnit
 
 import scala.io.Source
-import scala.math.sqrt
+import scala.math._
 import scala.xml.XML
 import scala.util.matching.Regex
 import akka.actor._
@@ -17,154 +18,94 @@ import scala.concurrent.duration._
 
 object SimilitutEntreDocs extends App {
 
-  final val StopWordsFileName = "english-stop.txt"
-  final val DirectoriFitxers = "wikidocs"
+  final val StopWordsFileName = "stopwordscat.txt"
+  final val DirectoriFitxers = "wikidocs-test"
+  lazy final val nombreFitxers: Int =
+    new File(DirectoriFitxers).list.length
+  lazy final val stopWords = getStopWords(StopWordsFileName)
 
-  //classes de missatges entre els actors
-  case class LlegirDirectori(nom:String)
-  case class ProcessarFitxer(nom:String)
-  case class FitxerLlegit(contingut:(String, String, List[String]))
-  case class TractarContingutFitxer(dades:(String, String, List[String]), stopWords:List[String])
-  case class FitxerTractat(dades:(String, List[(String, Double)], List[String]))
-
-  //missatges per idf
-  case class CridaIDF(dades:mutable.Map[String, (List[(String, Double)], List[String])])
-  case class MapIDF(llistaFreqs:List[(String, Double)])
-  case class FreqMapejat(llistaFreqs:List[(String, Double)])
-  case class ReduceIDF(llistaFreqs:List[(String, Double)], lletra:Char)
-  case class FreqReduit(llistaFreqs:List[(String, Int)])
+  //crida de un mapreduce generic
+  case class Iniciar()
 
 
-  //classe del mapWorker
-  class MapWorkerProcessatFitxers() extends Actor{
-    //donat un fitxer XML, el llegeix i converteix a una tupla amb el titol, el contingut i les referencies
-    def mapFreq(file:String):(String, String, List[String]) =
-      tractaXMLdoc(file)
+  class MapReduceFramework[Input, ClauMap, ValorMap, ClauIntermitja, ValorIntermig, ClauSortida, ValorSortida]
+                          (
+                            mapFunction:Input=>List[(ClauMap, ValorMap)],
+                            funcioIntermitja:List[(ClauMap, ValorMap)] => List[(ClauIntermitja, ValorIntermig)] ,
+                            reduceFunction:(ClauIntermitja, ValorIntermig)=>List[(ClauSortida, ValorSortida)],
+                            nombreActorsMap: Int,
+                            nombreActorsReduce: Int,
+                            input: List[Input]
+                          ) extends Actor{
 
-    override def receive: Receive = {
-      case ProcessarFitxer(nom) => val dades = mapFreq(nom)
-        sender ! FitxerLlegit(dades)
+    case class MissatgeMapeig(dades:Input)
+    case class RespostaMapeig(dades:List[(ClauMap,ValorMap)])
+    case class MissatgeReduccio(dades:(ClauIntermitja, ValorIntermig))
+    case class RespostaReduccio(dades:List[(ClauSortida,ValorSortida)])
+
+    class MapWorker()extends Actor{
+      override def receive: Receive = {
+        case MissatgeMapeig(dades) => sender ! mapFunction(dades)
+      }
     }
-  }
-
-  //classe del reduceWorker
-  class ReduceWorkerProcessatFitxers() extends Actor{
-    //rep un fitxer en format tupla de strings (Títol, Contingut, Referències) i
-    //retorna una tupla equivalent, canviant el contingut per una llista amb les parelles de valors (paraula, frequencia)
-    def reduce(fileContent:(String, String, List[String]), stopWords:List[String]):(String, List[(String, Double)], List[String]) =
-      (fileContent._1, freqAtf(nonStopFreq(fileContent._2,stopWords,1)), fileContent._3)
-
-    def receive: Receive = {
-      case TractarContingutFitxer (dades, stopWords) => val res = reduce(dades, stopWords)
-        sender ! FitxerTractat(res)
+    class ReduceWorker() extends Actor{
+      override def receive: Receive = {
+        case MissatgeReduccio(dades) => sender ! reduceFunction(dades._1,dades._2)
+      }
     }
-  }
 
-  //classe del mapIDF
-  class MapWorkerIDF() extends Actor{
-    def mapIDF(llistaFreqs:List[(String, Double)]):List[(String,Double)] =
-      llistaFreqs.map{x=>(x._1, 1.0)}
-
-    override def receive: Receive = {
-      case MapIDF(llistaFreqs) => val dades = mapIDF(llistaFreqs)
-        sender ! FreqMapejat(dades)
-    }
-  }
-  //classe del reduceIDF
-  class ReduceWorkerIDF() extends Actor{
-    def reduceIDF(llistaFreqs:List[(String, Double)],lletra:Char):List[(String,Int)] =
-      //val temp = llistaFreqs.toMap.groupBy(_._1)
-      //val tempValue = llistaFreqs.toMap.groupBy(_._2)
-      //llistaFreqs.toMap.reduceLeft((x,y) => if (x)
-      llistaFreqs.groupBy(_._1).mapValues(_.size).toList
-      //llistaFreqs.groupBy(word => word).mapValues(_.size)
-
-    override def receive: Receive = {
-      case ReduceIDF(llistaFreqs,lletra) => val dades = reduceIDF(llistaFreqs.dropWhile{a=> a._1.head<lletra}.takeWhile{a=> a._1.head==lletra},lletra)
-        sender ! FreqReduit(dades)
-    }
-  }
-
-  //classe del master del tractament de fitxers
-  class MapReduceTractamentFitxers() extends Actor{
-    val nombreActors = 10
-    val inici = System.nanoTime()
+    val inici: Long = System.nanoTime()
     var pendent = 0
     var pare:ActorRef = _
-    var MapRouter: ActorRef = _
-    val stopWords: List[String] = Source.fromFile(StopWordsFileName).getLines.toList
-    var LlistaContingutFitxers:List[(String, String, List[String])] = Nil
-    var diccionariFitxers: mutable.Map[String, (List[(String, Double)], List[String])] = mutable.Map[String, (List[(String, Double)], List[String])]()
+    var llistaIntermedia:List[(ClauMap, ValorMap)] = Nil
+    var resultat:mutable.Map[ClauSortida,ValorSortida] =mutable.Map[ClauSortida,ValorSortida]()
 
-    var llistaFrequenciesMapejades:List[(String, Double)] = Nil
-    var llistaFrequenciesReduides:List[(String, Int)] = Nil
-    //donat un directori dir, retorna una llista amb els noms dels fitxers en aquest directori
-    def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
-
-    def receive: Receive = {
-      case CridaIDF(dades) =>
-        println("iniciworker IDF")
-        MapRouter = context.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerIDF]))
+    override def receive: Receive = {
+      case Iniciar() =>
         pare = sender
-        dades.foreach{
-          f=>MapRouter ! MapIDF(f._2._1)
+        println("Iniciem el Map Reduce")
+        val MapRouter = context.actorOf(RoundRobinPool(nombreActorsMap).props(Props(new Actor{
+          override def receive: Receive = {
+            case MissatgeMapeig(dades) => sender ! RespostaMapeig(mapFunction(dades))
+        }})))
+        input.foreach{
+          f=>MapRouter ! MissatgeMapeig(f)
             pendent+=1}
-
-      case FreqMapejat(dades) =>
+      case RespostaMapeig(dades) =>
         pendent-=1
-        llistaFrequenciesMapejades = dades ::: llistaFrequenciesMapejades
+        llistaIntermedia = dades ::: llistaIntermedia
         if (pendent == 0){
-          val ReduceRouter = context.actorOf(RoundRobinPool(10).props(Props[ReduceWorkerIDF]))
-          llistaFrequenciesMapejades = llistaFrequenciesMapejades.sortBy(_._1)
-          ('a' to 'z').foreach{a =>
-            ReduceRouter ! ReduceIDF(llistaFrequenciesMapejades, a)
+          println("Duració mapeig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
+          val ReduceRouter = context.actorOf(RoundRobinPool(nombreActorsReduce).props(Props( new Actor{
+            override def receive: Receive = {
+              case MissatgeReduccio(fitxer) => sender ! RespostaReduccio(reduceFunction(fitxer._1,fitxer._2))
+            }
+          })))
+          funcioIntermitja(llistaIntermedia).foreach {
+            f => ReduceRouter ! MissatgeReduccio(f)
             pendent+=1
           }
+          println("Duració Intermig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
         }
-
-      case FreqReduit(dades) =>
-        pendent-=1
-        llistaFrequenciesReduides = dades ::: llistaFrequenciesReduides
+      case RespostaReduccio(dades) =>
+        pendent -=1
+        dades.foreach{a => resultat+=(a._1->a._2)}
         if (pendent == 0){
-          context.system.terminate()
-          val fi = System.nanoTime()
-          println("Duració: " + (fi-inici).toDouble/1000000000.0 + " segons")
-          pare ! llistaFrequenciesReduides
-        }
-
-      case LlegirDirectori(nom) =>
-        MapRouter = context.actorOf(RoundRobinPool(nombreActors).props(Props[MapWorkerProcessatFitxers]))
-        val fitxers = llistaFitxers(nom)
-        pare = sender
-        fitxers.foreach{
-          f=>MapRouter ! ProcessarFitxer(f)
-          pendent+=1}
-
-      case FitxerLlegit(dades) =>
-        pendent-=1
-        LlistaContingutFitxers = List(dades):::LlistaContingutFitxers
-        if(pendent == 0){
-          val ReduceRouter = context.actorOf(RoundRobinPool(nombreActors).props(Props[ReduceWorkerProcessatFitxers]))
-          LlistaContingutFitxers.foreach{f=>
-            ReduceRouter!TractarContingutFitxer(f,stopWords)
-            pendent+=1}
-        }
-
-      case FitxerTractat(dades) =>
-        pendent-=1
-        diccionariFitxers+=(dades._1->(dades._2,dades._3))
-        if(pendent==0){
           //context.system.terminate()
           val fi = System.nanoTime()
           println("Duració: " + (fi-inici).toDouble/1000000000.0 + " segons")
-          pare ! diccionariFitxers
+          pare ! resultat
         }
-
-      case _ => println("wtf")
-
-
     }
   }
+
+  //retorna una llista de paraules, que seran les stopwords obtingudes a través del arxiu de la ruta que hem entrat
+  def getStopWords(file:String):List[String] = {
+    val stopWordsSaltLinia = Source.fromFile(file).getLines.toList
+    if (stopWordsSaltLinia.length>1) stopWordsSaltLinia
+    else normalitza(stopWordsSaltLinia.head).split(" +").toList
+  }
+
 
   //rep una String i retorn una llista amb tuples (paraula, freqüència)
   def freq(text:String, n:Int):List[(String, Int)] =
@@ -189,7 +130,7 @@ object SimilitutEntreDocs extends App {
   def cosinesim (txt1:List[(String,Double)], txt2:List[(String,Double)]):Double =
     (for ((a, b) <- alinearVector(txt1,txt2) zip alinearVector(txt2,txt1)) yield a._2 * b._2).foldLeft(0.0)(_ + _)/(sqrt(txt1.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) * sqrt(txt2.foldLeft(0.0){(a,b)=> a+(b._2*b._2)}) )
 
-
+  //retorna la paraula no-stop més frequent del text introduït, junt amb la seva freqüència
   def mesFrequent(text:String, stop:List[String], n:Int) = nonStopFreq(text, stop, n).maxBy(_._2)
 
   //busquem les paraules q no tenim a txt1 de txt2 i les afegim amb frequencia = 0 a txt1 Al final ordenem alfabeticament, per tenir el mateix ordre en els dos vectors!
@@ -203,10 +144,10 @@ object SimilitutEntreDocs extends App {
     val llistaFrequencies = freq(text,1)
     val stringFrequencies:String = llistaFrequencies.map(_._2.toString.concat(" ")).mkString
     val freqfreqList = stringFrequencies.split(" +").groupBy(identity).mapValues(_.length).toList.sortBy(-_._2)
-    Console.out.println("Les 10 frequencies mes frequents:")
+    println("Les 10 frequencies mes frequents:")
     val freqAltes = freqfreqList.slice(0,10)
     for(frequencia <- freqAltes)println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
-    Console.out.println("Les 5 frequencies menys frequents:")
+    println("Les 5 frequencies menys frequents:")
     val freqBaixes = freqfreqList.slice(freqfreqList.length-5,freqfreqList.length).sortBy(-_._2)
     for(frequencia <- freqBaixes) println(frequencia._2 + " paraules apareixen " + frequencia._1 +" vegades")
   }
@@ -226,71 +167,183 @@ object SimilitutEntreDocs extends App {
     val kk = refs.filterNot(x=> x.contains(':') || x.contains('#'))
     (titol, contingut, kk)
   }
+  //donada una string de directori, retorna la llista de fitxers que conté
+  def llistaFitxers(dir: String):List[String] = new File(dir).listFiles.filter(_.isFile).toList.map{a => dir + "/" + a.getName}
 
 
 
 
   override def main(args: Array[String]): Unit = {
-    val filename = "pg11.txt"
-    val fileContents = Source.fromFile(filename).mkString
-
-    val llistaFreq = freq(fileContents,1).sortBy(-_._2)
-    //val llistaFreqFreq = paraulafreqfreq(fileContents)
-    val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
-    val diff = llistaFreq.size
-    println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
-    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
-    println("------------------------------------------------------")
-    val sFormat = "%-20s %-20s %-1.3f "
-    for (p <- llistaFreq.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
-
-    println("\n\nNONSTOP EXAMPLE\n")
-
-    val filename2 = "english-stop.txt"
-    val stopWords = Source.fromFile(filename2).getLines.toList
-    val llistaNonStop = nonStopFreq(fileContents, stopWords, 1).sortBy(-_._2)
-    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
-    println("------------------------------------------------------")
-    for (p <- llistaNonStop.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
-
-    println("\n\nn-grames\n")
-    val llistaNgrames = freq(fileContents, 3).sortBy(-_._2)
-    for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
-
-    val filename3 = "pg74.txt"
-    println("\n\ncosinesim\n")
-
-    val start = System.nanoTime()
-    val newFileContents = Source.fromFile(filename).mkString
-    val fileContents2 = Source.fromFile(filename3).mkString
-
-    val freq1 = nonStopFreq(newFileContents, stopWords, 1).sortBy(-_._2)
-    val freq2 = nonStopFreq(fileContents2, stopWords, 1).sortBy(-_._2)
-
-    val txt1 = freqAtf(freq1)
-    val txt2 = freqAtf(freq2)
-
-    val hi = cosinesim(txt1, txt2)
-
-    val end = System.nanoTime()
-    println(hi)
-    println((end-start).toDouble/1000000000.0)
+//    val filename = "pg11.txt"
+//    val fileContents = Source.fromFile(filename).mkString
+//
+//    val llistaFreq = freq(fileContents,1).sortBy(-_._2)
+//    //val llistaFreqFreq = paraulafreqfreq(fileContents)
+//    val nParules = llistaFreq.foldLeft(0){(a,b) => b._2+a}
+//    val diff = llistaFreq.size
+//    println(String.format("%-20s %-10s %-20s %-20s", "Num de Parules:", nParules.toString, "Diferents", diff.toString))
+//    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
+//    println("------------------------------------------------------")
+//    val sFormat = "%-20s %-20s %-1.3f "
+//    for (p <- llistaFreq.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
+//
+//    println("\n\nNONSTOP EXAMPLE\n")
+//
+//    val filename2 = StopWordsFileName
+//    val temp = Source.fromFile(filename2).mkString
+//    val stopWords = normalitza(temp).split(" +").toList
+//    println("debug")
+//    val llistaNonStop = nonStopFreq(fileContents, stopWords, 1).sortBy(-_._2)
+//    println(String.format("%-20s %-20s %-20s ", "Paraules", "ocurrencies", "frequencia"))
+//    println("------------------------------------------------------")
+//    for (p <- llistaNonStop.slice(0,10)) println(String.format(sFormat, p._1, p._2.toString, (p._2*100.0/nParules).toFloat:java.lang.Float))
+//
+//    println("\n\nn-grames\n")
+//    val llistaNgrames = freq(fileContents, 3).sortBy(-_._2)
+//    for (p <- llistaNgrames slice (0, 10)) println(String.format("%-30s %-5s", p._1, p._2.toString))
+//
+//    val filename3 = "pg74.txt"
+//    println("\n\ncosinesim\n")
+//
+//    val start = System.nanoTime()
+//    val newFileContents = Source.fromFile(filename).mkString
+//    val fileContents2 = Source.fromFile(filename3).mkString
+//
+//    val freq1 = nonStopFreq(newFileContents, stopWords, 1).sortBy(-_._2)
+//    val freq2 = nonStopFreq(fileContents2, stopWords, 1).sortBy(-_._2)
+//
+//    val txt1 = freqAtf(freq1)
+//    val txt2 = freqAtf(freq2)
+//
+//    val hi = cosinesim(txt1, txt2)
+//
+//    val end = System.nanoTime()
+//    println(hi)
+//    println((end-start).toDouble/1000000000.0)
 
     println("\n\n\n\n\nINICI DEL CAMP MINAT: \n")
 
     val system = ActorSystem("SystemActor")
-    val act = system.actorOf(Props[MapReduceTractamentFitxers])
-    implicit val timeout = Timeout(120,TimeUnit.SECONDS)
-    val futur = act ? LlegirDirectori(DirectoriFitxers)
+    type Fitxer = (String,(List[(String,Double)],List[String]))
+
+    val fitxers = llistaFitxers(DirectoriFitxers)//input
+
+    //funció que donada la ruta d'un fitxer, retorna
+    def mapFunctionReadFiles(file:String):(String, (String, List[String])) = {
+      val valors = tractaXMLdoc(file)
+      (valors._1,(valors._2,valors._3))
+    }
+
+    def reduceFunctionReadFiles(fileContent:(String, (String, List[String]))):Fitxer =
+    (fileContent._1, (freqAtf(nonStopFreq(fileContent._2._1,stopWords,1)), fileContent._2._2))
+
+
+    val act = system.actorOf(Props(
+      new MapReduceFramework[String, String, (String,List[String]),String, (String,List[String]),String, (List[(String, Double)], List[String])](
+      {f:String => List(mapFunctionReadFiles(f))},
+      {f:List[(String, (String, List[String]))]=>f},
+      {(f:String, s:(String, List[String])) => List(reduceFunctionReadFiles((f,s)))},
+      10,10,fitxers)
+    ))
+
+    implicit val timeout = Timeout(12000,TimeUnit.SECONDS)
+    val futur = act ? Iniciar()
     val result = Await.result(futur,timeout.duration).asInstanceOf[mutable.Map[String, (List[(String, Double)], List[String])]]
+
+
+    def mapFunctionIDF(fitxer:Fitxer):List[(String,Double)] =
+      (fitxer._2)._1.map{x=>(x._1,1.0)}
+
+    def reduceFunctionIDF(dades:(String,List[(String,Double)])):(String,Double) =
+      (dades._1, log10(nombreFitxers/ dades._2.foldLeft(0){ (a, _)=>a+1}))
+    //      fitxers.mapValues(_.size)
+
+    def funcioIntermitjaIDF(dades:List[(String,Double)]):List[(String,List[(String,Double)])] =
+      dades.sortBy(_._1).groupBy(_._1).toList
+
+
+
+    val act2 = system.actorOf(Props (new MapReduceFramework[Fitxer,
+      String,Double,String,List[(String,Double)],String,Double](
+      {f=>mapFunctionIDF(f)},
+      {f=>funcioIntermitjaIDF(f)},
+      {(f:String,s:List[(String,Double)])=>List(reduceFunctionIDF((f,s)))},
+      10,10,result.toList
+    )))
+
+
+    val futur2 = act2 ? Iniciar()
+    val diccionariIDF = Await.result(futur2,timeout.duration).asInstanceOf[mutable.Map[String, Double]]
+    println("debugpoint")
+
+
+    def mapComparacio(fitxer:Fitxer):Fitxer =
+      (fitxer._1, (fitxer._2._1.map{f=> (f._1,f._2 * diccionariIDF(f._1))}, fitxer._2._2))
+
+    def generarComparacions(fitxers:List[Fitxer]):List[(Fitxer,List[Fitxer])] = {
+      if (fitxers.isEmpty) Nil:List[(Fitxer,List[Fitxer])]
+      else {
+        val fitxersSenseCap = fitxers.tail
+        List((fitxers.head, fitxersSenseCap)) ::: generarComparacions(fitxersSenseCap)
+      }
+    }
+
+    //def generarComparacions(fitxers:List[Fitxer]):List[(Fitxer,List[Fitxer])] =
+    //  fitxers.map{f=>(f,fitxers)}
+
+    def reduceComparacio(comparacions:(Fitxer,List[Fitxer])):(String, List[(String, Double)]) =
+      (comparacions._1._1, for(f <- comparacions._2) yield (f._1, cosinesim(comparacions._1._2._1,f._2._1)))
+
+
+
+    val act3 = system.actorOf(Props (new MapReduceFramework[Fitxer,
+      String,(List[(String,Double)],List[String]),
+      Fitxer, List[Fitxer],
+      String, List[(String, Double)]](
+      {f=>List(mapComparacio(f))},
+      {f=>generarComparacions(f)},
+      {(f:Fitxer,s:List[Fitxer])=>List(reduceComparacio((f,s)))},
+      100,100,result.toList
+    )))
+    val futur3 = act3 ? Iniciar()
+    val resultatComparacions = Await.result(futur3,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
     println("hiii")
-    val futur2_0 = act ? CridaIDF(result)
-    val result2 = Await.result(futur2_0,timeout.duration).asInstanceOf[List[(String, Int)]].sortBy(-_._2)
-    println("hi")
+
+    val llindar = 0.05
+    //donada llista referencies
+  //map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
+    def mapObtenirNoRefs(fitxer:(String, List[(String, Double)])):(String, List[(String, Double)]) ={
+      (fitxer._1,fitxer._2.filter(_._2>llindar).filter{f => !result(fitxer._1)._2.contains(f._1)}) //todo-IMPORTANTE: cal fer la inversa!
+    }
+    val act4 = system.actorOf(Props (new MapReduceFramework[
+        (String, List[(String, Double)]),
+        String,List[(String, Double)],
+        String, List[(String, Double)],
+        String, List[(String, Double)]]
+    (
+      {f=>List(mapObtenirNoRefs(f))},
+      {f=>f},
+      {(f:String, s:List[(String, Double)])=>scala.List((f,s))},
+      100,100,resultatComparacions
+    )))
+
+    val futur4 = act4 ? Iniciar()
+    val resultatObtenirNoRefs = Await.result(futur4,timeout.duration).asInstanceOf[mutable.Map[String, List[(String, Double)]]].toList.sortBy(-_._2.length)
+
+    println("debugpoint")
+
+
+
+
+
     /*
-      TODO-1: fer el vector de idf
-      todo-2: fer un mapreduce que faci la comparació tots amb tots
+      TODO-1 DONE: fer el vector de idf
+
+      -todo-2: fer un mapreduce que faci la comparació tots amb tots
       todo-3: llistar els parells de pagines similars q no es referenciin
+      map: eliminar els que no superin cert llindar, despres eliminar els no referenciats
+      intermig:--
+      reduce:
       todo-4: llistar parell de pagines q es referenciin pero q no siguin prou similars
       todo-5: relacionat amb els dos anteriors, decidir llindar
      */

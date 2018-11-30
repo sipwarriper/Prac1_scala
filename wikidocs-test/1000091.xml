@@ -1,0 +1,158 @@
+<page>
+    <title>Junkers Jumo 004</title>
+    <ns>0</ns>
+    <id>1000091</id>
+    <revision>
+      <id>13747973</id>
+      <parentid>13629631</parentid>
+      <timestamp>2014-07-05T09:55:49Z</timestamp>
+      <contributor>
+        <username>Langtoolbot</username>
+        <id>128552</id>
+      </contributor>
+      <minor></minor>
+      <comment>Corregit: respecte el que  respecte al que</comment>
+      <text>{{2L|data=febrer de 2013}}
+{{Fitxa de motor d'aeronau
+ |nom = Jumo 004
+ |imatge = Junkers Jumo 004.jpg
+ |peu  = Model seccionat d'un turboreactor Junkers Jumo 004 al Museu Nacional de la [[Força Aèria dels Estats Units]] en [[Wright-Patterson AFB]], [[Ohio]].
+ |tipus = [[Turborreactor]]
+ |fabricant ={{bandera|Alemanya Nazi}}[[Junkers]]
+ |dissenyador =
+ |primera encesa = [[1940]]
+ |aplicacions = [[Messerschmitt Me 262]]
+ |unitats construïdes =
+ |cost del programa =
+ |cost unitari =
+ |desenvolupament del =
+ |variants amb el seu propi article =
+ |desenvolupat en =
+}}
+[[Fitxer: Junkers Jumo 109-004.jpg|thumb|280px|Motor Jumo 004 Orkan.]]
+El ''' Jumo 004 ''' va ser el primer [[turborreactor]] en producció i ús operacional. Unes 8.000 unitats van ser produïdes per [[Junkers]] a [[Alemanya]] a finals de la [[Segona Guerra Mundial]] motoritzant el [[Messerschmitt Me 262]] i el [[Arado Ar 234]], a part del [[Me P1101|Messerschmitt Me P1101]] amb els [[Dj 287]], [[He 343]], [[Horten Ho 229]] i el [[Ta 183V-1]]. Hi va haver variants d'aquest motor que van ser produïdes a la [[Europa de l'Est]] després de la guerra.
+
+== Història ==
+=== Desenvolupament ===
+La funcionalitat de la [[reactor (motor)|propulsió a reacció]], va ser demostrada a Alemanya a principis de [[1937]] per [[Hans von Ohain]] treballant amb la companyia [[Heinkel]]. La major part del [[Ministeri d'Aire del Reich|RLM]] no va mostrar el mínim interès, però [[Helmut Schelp]] i [[Hans Mauch]] van veure la potencialitat del concepte i van estimular als productors de [[Motor de aviació|motors]] a començar els seus propis programes de desenvolupament d'aquest tipus de propulsors. Eventualment el 1939 [[Otto Mader]], cap de ''' [[Junkers Motoren]] (Jumo), ''' va afirmar que encara que el concepte era útil, no tenia ningú que hi treballés. Schelp va respondre afirmant que el doctor [[Anselm Franz]], a càrrec del desenvolupament dels [[turbocarregador|turbos]] i [[supercarregador|supercarregadors]] de Junkers, era perfecte per al treball. Franz va començar el seu equip de desenvolupament a fi d'aquest any i el projecte va rebre la designació del RLM ''' 109-004 ''' (el prefix 109 - era comú a tots els projectes Jet).
+[[Fitxer: Jumo 004 Components.jpg|thumb|left|Components del Motor Jumo 004.]]
+
+=== Franz aposta pel compressor ===
+Franz va optar per un disseny que era conservador i revolucionari alhora. El seu disseny diferia del de von Ohain en què el feia servir un nou [[Compressor (màquina)|compressor]] el qual permetia un flux d'aire continu i recte a través de motor (un '' [[Compressor axial]] ''), recentment desenvolupat pel '' [[Aerodynamische Versuchsanstalt]] '' (AVA - Institut d'Investigació Aerodinàmica) en [[Göttingen]]. El compressor de flux axial no només funcionava en forma excel·lent, amb un 78% d'eficiència en condicions de món real sinó que també tenia una secció transversal petita, important per al disseny d'avions d'alta velocitat.
+
+=== Problemes ===
+[[Fitxer: Jumo 004 Kbely.JPG|thumb|left|350px|Motor Jumo 004.]]
+
+D'altra banda, Franz afirmava que es produiria un motor que estava lluny del seu potencial teòric, degut a l'interès en fer-lo pràctic quant a simplicitat i factibilitat per produir-lo en massa. Una decisió va ser utilitzar una sola àrea de combustió usant sis boquilles de flama, en comptes d'una sola boquilla anul·lar que era més eficient. Per la mateixa raó va col·laborar fortament amb el desenvolupament de la [[turbina]] del motor amb l''' [[Allgemeine Elektricitäts-Gesellschaft]] '' (AEG - General Electric Company) a [[Berlín]]. En comptes de treballar en el desenvolupament de motors, va optar per treballar immediatament en un motor per posar-lo immediatament en construcció. La visió conservadora de Franz va venir d'una pregunta del RLM, però li van donar la raó, perquè tot i els problemes a que s'enfrontava, el 004 va entrar en producció i servei en comptes del seu competidor (més avançat tecnològicament), el [[BMW 003]]. 
+
+== Disseny ==
+El primer prototip ''' 004A ''' va funcionar la primavera de [[1940]], i al gener de l'any següent va ser col·locat a màxima potència, 4,2 kN. Problemes de vibració amb la fulla del compressor van retardar el programa en aquest punt, fins que un nou [[estàtor]] dissenyat per [[Max Bentele]] va resoldre el problema.
+
+Amb els nous estators en el seu lloc, el motor va desenvolupar 9/5 kN a l'agost, passant el test de resistència de funcionament de 10 hores amb una potència de 9.8 kN al desembre. El primer vol va tenir lloc el [[15 de març]] de [[1942]], quan un 004A va ser portat a l'aire per un [[Messerschmitt Bf 110]]. El [[18 de juliol]], un dels prototips de [[Messerschmitt Me 262]] va volar amb els seus motors 004, i el motor va ser demanat pel RLM amb una comanda inicial de 80 unitats.
+
+=== 004A com a banc de proves ===
+El 004A va ser estrictament un banc de proves, inviable per a producció en massa a causa de la seva construcció sòlida, i per tant pesada, i l'ús de materials molt costosos per a alta temperatura emprats en la secció calenta.
+
+En la seva construcció hi va haver moltes pràctiques desconegudes, entre elles una que encara avui dia és estranya: en les seves turbines es presentava un problema amb la freqüència a la que els àleps es danyaven, i per a això a Franz se li va acudir utilitzar un violinista perquè amb el seu arc toqués les peces, i així determinar gràcies a això quina seria la freqüència de resonància a la que es trencaven.
+
+{{Cita|L'estiu de 1943, una excitació de sisè ordre va causar diversos errors en els àleps de les turbines. Franz va recórrer a un músic professional per fer sonar aquestes peces amb un arc de violí i va utilitzar la seva oïda musical per determinar la freqüència natural de ressonància. No obstant això, el ministre de l'aire es tornava cada vegada més impacient i va programar una reunió per al desembre de 1943. El doctor Max Bentele va assistir a la conferència i va escoltar nombrosos arguments referint-se a materials defectuosos, mida dels granulats i toleràncies en la manufactura. Quan va arribar el seu torn, Bentele va explicar al grup de dignataris que la culpa era de les sis 'llaunes' de combustió i els tres puntals del broquet del jet allotjats al devant de la turbina. La inducció de la força d'excitació en els àleps del rotor de la turbina provocaven una ressonància de sisè ordre que provocava una freqüència que els doblegava en el rang d'alta velocitat. La predominança de l'excitació de sisè grau era a causa de les 'llaunes' combustoras (que no tocaven els 36 broquets) i als segons harmònics dels tres puntals del flux inferior del rotor. En el motor Jumo 004A aquesta ressonància estava per sobre de la velocitat operativa, però en el 004B havia passat sense ser detectat per una lleugera major velocitat de la turbina i les majors temperatures d'aquestes. El problema es va solucionar augmentant la freqüència natural dels àleps fent-los més estrets, escursant-los un mil·límetre i reduint la velocitat operativa del motor de 9.000 a 8.700 revolucions per minut.
+|Cyrus B. Meher-Homji, '' Anselm Franz and the Jumo 004 ''. Revista '' Mechanical engineering '', ISSN 0025-6501, Vol 119, Nº 9, 1997, pags. 88-91}}
+
+=== 004B Orkan ===
+En producció, el ''' 004B ''' en lloc d'usar refredadors d'aire, va usar àleps de turbina buides compostes d'[[acer]] barat, refredat per aire comprimit impulsat des del compressor. Les primeres sèries de compressió axial pesaven cent quilograms menys que el 004A i el 1943 havia passat més de cent hores de proves.
+
+Més tard el 1943, una sèrie de motors va patir problemes de vibració, i les solucions van ser fastidiosas. Eventualment, al desembre, Max Bentele va ser novament requerit per a una reunió en els quarters generals del RLM, on va suggerir la sèrie de canvis destinats a canviar les freqüències naturals dels àleps de la turbina, i la reducció de les revolucions del motor. Això va solucionar el problema, però no va ser fins a principis de 1944 que la producció plena va poder començar.
+
+Aquests contratemps van ser la principal raó per la qual la Luftwaffe va haver de retrasar la introducció de l'Me 262 als esquadrons de servei. Donada la baixa qualitat dels acers usats en els àleps del 004B, aquests motors tenien una vida de servei de 10-25 hores (fins al doble a les mans d'un pilot experimentat). Un altre inconvenient del motor, comú a tots els turbojets inicials, era la seva lenta resposta a l'[[accelerador]]. Però encara tenia un defecte més empipador: també era bastant fàcil que bombejés un excés de combustible cap el motor accelerant-lo massa ràpid, escalfant el motor en excés abans que l'aire fred no el refredés. Això conduïa a l'estovament dels àleps de la turbina, i era la major causa de fallades en el motor. No obstant això, va fer possible el poder utilitzar-lo en un jet en combat per primera vegada en la història (el Me 262).
+
+Una característica interessant del 004 era el Sistema d'[[Arrencada]], que consistia en un motor de [[motocicleta]] [[Riedel]] 10 hp (7 kW) 2-cilindres ocult en la presa d'aire. Un forat a l'extrem del nas del cos central tenia una maneta per arrencar el petit motor, que al seu torn iniciava el turborreactor. Dos petits tancs de gasolina estaven inserits dins la boca anular.
+[[Fitxer: Junkers Jumo 004.jpg|thumb|left|Jumo 004.]]
+
+=== 004C ===
+El ''' 004 C''' incloïa un [[postcombustió|postcremador]] per augmentar l'empenta però no va arribar a ser implementat.
+
+=== 004D ===
+El ''' 004D ''' va ser un model per millorar l'eficiència del combustible mitjançant un [[injector]] de dues etapes, i tenia un nou control d'acceleració que permetia evitar les sobrecàrregues de combustible en les acceleracions. El 004D havia passat totes les proves i estava llest per entrar en acció en lloc del 004B quan va acabar la guerra.
+
+=== 004E ===
+El ''' 004E ''' és un model 004D amb una àrea d'escapament millorada per a millor comportament a grans altituds.
+
+=== 004H i Jumo 012 ===
+
+{{Principal|Junkers Jumo 012}}
+
+Un model molt més avançat que tenia ambdós sistemes va ser el ''' Jumo 012 '''. El 012 estava basat en un sistema de dos rodets, en el que dues turbines girant a diferents velocitats manejaven parts diferents del compressor per a major eficiència.
+
+En un ''' motor reactor el compressor consumeix un 60% de tot el poder axial generat ''', de manera que les millores tenen un impacte dramàtic en el consum de combustible. Els plans per utilitzar el concepte bàsic del 012 era un motor idèntic al 004, conegut com a ''' 004H ''', el qual millorava el [[consum específic de combustible]] respecte al que consumia el 004B [1.39 kg/(km/h) ) a un respectable 20/01 kg/(km/h)], amb una disminució d'un 15%. Aquest motor va ser dissenyat per al [[Dj 287]], amb una embranzida de 6600 lbs. Però només s'havien construït les peces per a un sol motor, al final de la guerra.
+
+== 004 capturats ==
+A [[França]], els 004 capturats motoritzaven el [[Sud-Ouest SO 6000 Triton]] i el [[Arsenal VG-70]].
+
+== 004 en la Post Guerra ==
+Després de la Segona Guerra Mundial, els Jumo 004s van ser construïts en petit nombre en [[Malesice]] en [[Txecoslovàquia]], amb la designació ''' M-04 ''' per motoritzar l'[[Avia S-92]] i l'[[Avia CS-92]], còpies del Me 262. Còpies del Jumo 004 van ser construïdes a la [[Unió Soviètica]] com el motor [[Tumansky RD-10]], on motoritzar el [[Iàkovlev Iak-15]], el [[Sukhoi Su-9 (1946)]], el Sukhoi [[Su-11]] i molts altres prototips.
+
+== 004 a la Unió Soviètica ==
+Els científics i tècnics de [[Junkers Motoren]] van ser traslladats a la [[Fàbrica Experimental No 2]] en un petit poble anomenat [[Uprawlentscheski]], prop de la ciutat de [[Kuibyschew]] en el [[Riu Volga]] en l'àrea de [[Kazan]]. Durant la [[Segona Guerra Mundial]] hi va ser operativa la [[Instal·lació de Avions Kirow No 145]]. Durant 1946 aquesta fàbrica va ser restaurada i molts laboratoris i edificis van ser erigits. El novembre de 1946 l'equip de Motors de [[Dessau]] [[OKB-1]] hi va arribar. Aquestes instal·lacions en Kuibyschew estaven completament concentrades en el desenvolupament de motors i equips i van ser transferides des de [[Otto Mader Werke]] i de [[Junkers Motorenwerke]] a Dessau. La construcció d'aquest complex fabril va durar fins a 1949. Klimow va ser nomenat Administrador General. Tres OKBs van ser instal·lats a Kuibyschew.
+
+=== Tumanski RD-10 ===
+Era una còpia del Junkers Jumo 004, desenvolupat a [[Kazan]] com el [[RD-10]] amb 910 kg d'embranzida, [[10A]] amb 1.000 kg d'embranzida i el [[10F]] amb 1.100 kg d'empenta. Es van muntar en els [[La-150]]/[[La-152]]/[[La-154]]/[[La-156]], [[Su-9]] i en els [[Iàkovlev Iak-15|Iak-15]]/[[Iàkovlev Iak-18|Iak-18]]/[[Iàkovlev Iak-21|Iak-21]].
+
+=== OKB-1 ===
+El [[OKB-1]] estava dirigit per Brandner i la major part dels 350 antics treballadors de Junkers hi van ser adscrits.
+
+=== OKB-2 ===
+El [[OKB-2]] estava format per ex empleats de [[BMW]] sota la direcció de Prestel.
+
+=== Missions de Kuibyschew ===
+* Continuar els desenvolupaments del [[Jumo 004]] i del [[BMW 003]].
+* Continuar amb els desenvolupaments del [[Jumo 012]] i del [[BMW 018]].
+* Fabricar el [[PTL022]] amb 5.000 HPR, OKB-1.
+* Desenvolupament del compressor 032 amb 2.000 HPR, OKB-1.
+* Desenvolupament del [[PTL028]] amb 6.800 HPR, OKB-2.
+* Desenvolupament del [[BMW 003]] C, OKB-2
+
+El posterior desenvolupament del Jumo 004 va ser transferit a la Fàbrica No 26 el 1947. El BMW 003 va ser transferit a la Fàbrica No 16 en Kazan, on més tard es desenvoluparia el [[RD-20]] per al [[Mig 9]]. També el compressor 032 per a motors que es va abandonar el 1947.
+
+== Variants ==
+{|Border = 2 cellpadding = 4 cellspacing = 0 style = margin: 80px; border: 2px solid #000000; font-size: 110%;
+! bgcolor = #EDEDED|Nom RLM||bgcolor = #FAFAFA|Tipus||bgcolor = #FAFAFA|Composició||bgcolor = #FAFAFA|Embranzida||bgcolor = #FAFAFA|Pes||bgcolor = #FAFAFA|Velocitat
+|-
+|Bgcolor = #FAFAFA|109-004B||Turbojet||8ax 6in 1tu||8,8 kN (1984 lbf)||745 kg (1642 lb)||8.700 rpm
+|-
+|Bgcolor = #FAFAFA|109-004||Turbojet||8ax 6in 1tu||10,0 kN (2238 lbf)||720 kg (1.588 lb)||8.700 rpm
+|-
+|Bgcolor = #FAFAFA|109-004D||Turbojet||8ax 6in 1tu||10,3 kN (2315 lbf)||745 kg (1642 lb)||10.000 rpm
+|-
+|Bgcolor = #FAFAFA|109-004H||Turbojet||11ax 8in 2tu||17,7 kN (3970 lbf)||1.200 kg (2.646 lb)||6.600 rpm
+|-
+|Bgcolor = #FAFAFA|109-012||Turbojet||11ax 6in 2tu||27,3 kN (6130 lbf)||2.000 kg (4.410 lb)||5.300 rpm
+|-
+|Bgcolor = #FAFAFA|''' [[Junkers Jumo 022|109-022]] '''||turboprop||11ax 8in 2tu||4.600 EHP (3,4 MW)||2.600 kg (5.733 lbf)||5.000 rpm
+|}
+{{mida|1= '' Composició: ax = Etapes del compressor de Flux Axial, in = Càmeres individuals de combustió, tu = Etapes de la Turbina. '' }}
+
+== Trivia ==
+El Junkers Jumo 004 és potser l'únic motor d'aviació referència en la lírica, a ME 262 del Grup [[Blue Öyster Cult]] del seu àlbum de [[1974]], '' [[Secret Treaties]] ''
+
+== Vegeu també ==
+* [[BMW 003]]
+* [[Rolls-Royce Derwent]] - Motors contemporanis britànics
+* [[D'Havilland Goblin]] - Motors contemporanis britànics
+* [[Llista de Motors d'avió de la Luftwaffe]]
+* [[Llista de Motors d'aviació]]
+
+== Bibliografia ==
+{{Commonscat|Junkers Jumo 004}}
+
+* [[Antony Kay]], '' German Jet Engine and Gas Turbine Development '', Airlife Books, 2002.
+
+== Nota ==
+{{referències|1}}
+
+[[Categoria:Motors de reacció]]
+[[Categoria:Avions de la Segona Guerra Mundial]]</text>
+      <sha1>efezsh1e3f4eusgv6ds0qyiaw9fbxce</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
