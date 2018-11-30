@@ -62,12 +62,12 @@ class MapReduceFramework[Input, ClauMap, ValorMap, ClauIntermitja, ValorIntermig
       llistaIntermedia = dades ::: llistaIntermedia
       if (pendent == 0){
         context.stop(MapRouter)
-        println("Duració mapeig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
+        println("--------Duració mapeig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
         funcioIntermitja(llistaIntermedia).foreach {
           f => ReduceRouter ! MissatgeReduccio(f)
             pendent+=1
         }
-        println("Duració Intermig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
+        println("--------Duració Fins Intermig: " + (System.nanoTime()-inici).toDouble/1000000000.0 + " segons")
       }
     case RespostaReduccio(dades) =>
       pendent -=1
